@@ -1,0 +1,9 @@
+.~lock.*#
+**/__pycache__/
+**/.pytest_cache/
+*.py[cod]
+work/
+**/*.pdf
+**/*.gguf
+**/slurm-*.out
+**/slurm-*.err
