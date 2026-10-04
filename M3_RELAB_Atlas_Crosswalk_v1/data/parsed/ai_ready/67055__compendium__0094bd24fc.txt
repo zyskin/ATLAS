@@ -1,0 +1,222 @@
+DOCUMENT_ID: 67055__compendium__0094bd24fc
+ATLAS_SAMPLE_IDS: 67055
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67055.pdf
+SOURCE_PDF_SHA256: 777245539688fd366e13b062325f5023027af3631c516054368b1d5dc54259d7
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material ===
+--- chemistry block 1; lines 14-24 ---
+Figure 2: Showing 67055 inside the rim of North Ray Crater.
+
+   Introduction                                Petrography
+   67055 is a black and white breccia collected from inside  67055 consists of a porous, fragmental, feldspar-rich
+    the rim of North Ray Crater (figure 2). It has relatively  matrix that includes dark, aphanitic impact melt clasts
+   high trace element content, but has not been dated.      (figures 1 and 6). The fragmental matrix is made up of
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 2; lines 1-8 ---
+67055
+                                  Polymict Breccia
+                                       221 grams
+--- material block 3; lines 12-24 ---
+Figure 2: Showing 67055 inside the rim of North Ray Crater.
+
+   Introduction                                Petrography
+   67055 is a black and white breccia collected from inside  67055 consists of a porous, fragmental, feldspar-rich
+    the rim of North Ray Crater (figure 2). It has relatively  matrix that includes dark, aphanitic impact melt clasts
+   high trace element content, but has not been dated.      (figures 1 and 6). The fragmental matrix is made up of
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- age block 4; lines 14-24 ---
+Figure 2: Showing 67055 inside the rim of North Ray Crater.
+
+   Introduction                                Petrography
+   67055 is a black and white breccia collected from inside  67055 consists of a porous, fragmental, feldspar-rich
+    the rim of North Ray Crater (figure 2). It has relatively  matrix that includes dark, aphanitic impact melt clasts
+   high trace element content, but has not been dated.      (figures 1 and 6). The fragmental matrix is made up of
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 36-47 ---
+0.4 g   PB    2.2 g   10 g
+    Lithic clasts include feldspathic granulite, basaltic melt    208 g
+   and glassy breccias.                                                                                 ,3
+                                                                                                                  ,9
+                                                                                                      ,10
+   Chemistry                                                           TS
+   67055 is relatively enriched in trace elements compared
+    with most samples from North Ray Crater, but the REE-
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- mineralogy block 2; lines 17-38 ---
+22Na = 43 dpm/kg and 26Al = 116 dpm/kg, 46Sc = 3
+                                               dpm/kg and 54Mn = 6 dpm/kg.
+
+                                                 Processing
+                                             67055 was not studied in the original round of
+                                                     allocations and has never received a detailed
+                                                         mineralogical study (i.e. no pyroxene diagram). There
+       Figure 4: Photomicrograph of thin section of dark
+                                                           are only 3 thin sections of 67055. It has been chipped,
+       apanitic clast material (Ryder and Norman 1980).
+                                                         not sawn (figure 6).
+
+   >80 % plagioclase (figure 3).  Olivine, pyroxene,
+    ilmenite, troilite and Mg-spinel are also present (Ryder
+   and Norman 1980). The clasts of aphanitic material             67055
+                                                     222 grams   have less plagioclase (~60%) and contain Ni-Fe metal
+    (figure 4). Hunter and Taylor (1981) saw no rust in
+    the thin section they examined.
+                                                           ,0          ,1        ,4     ,5       ,11
+                                                                                0.4 g   PB    2.2 g   10 g
+    Lithic clasts include feldspathic granulite, basaltic melt    208 g
+   and glassy breccias.                                                                                 ,3
+--- material block 3; lines 1-14 ---
+Figure 5: Normalized rare-earth-element diagram
+                                                                           for 67055 (Lindstrom and Salpas 1983).
+
+                                                              rich component has not been identified.  Lindstrom
+       Figure 3: Thin section view of feldspathic matrix of     and Salpas (1982) determined the composition of the
+      67055 (Ryder and Norman 1980).                                                                   clasts, but not the bulk rock (figure 5).  However,
+                                                         Eldridge et al. (1973, 1975) and Keith and Clark (1973)
+                                                          reported K, U and Th for the bulk rock.
+
+                                               Radiogenic age dating
+                                              none
+
+                                           Cosmogenic isotopes and exposure ages
+                                                        Eldridge et al. (1973, 1975) determined the cosmic-
+--- material block 4; lines 20-32 ---
+Processing
+                                             67055 was not studied in the original round of
+                                                     allocations and has never received a detailed
+                                                         mineralogical study (i.e. no pyroxene diagram). There
+       Figure 4: Photomicrograph of thin section of dark
+                                                           are only 3 thin sections of 67055. It has been chipped,
+       apanitic clast material (Ryder and Norman 1980).
+                                                         not sawn (figure 6).
+
+   >80 % plagioclase (figure 3).  Olivine, pyroxene,
+    ilmenite, troilite and Mg-spinel are also present (Ryder
+   and Norman 1980). The clasts of aphanitic material             67055
+                                                     222 grams   have less plagioclase (~60%) and contain Ni-Fe metal
+--- age block 5; lines 4-16 ---
+rich component has not been identified.  Lindstrom
+       Figure 3: Thin section view of feldspathic matrix of     and Salpas (1982) determined the composition of the
+      67055 (Ryder and Norman 1980).                                                                   clasts, but not the bulk rock (figure 5).  However,
+                                                         Eldridge et al. (1973, 1975) and Keith and Clark (1973)
+                                                          reported K, U and Th for the bulk rock.
+
+                                               Radiogenic age dating
+                                              none
+
+                                           Cosmogenic isotopes and exposure ages
+                                                        Eldridge et al. (1973, 1975) determined the cosmic-
+                                                        ray-induced activity of 67055 as 22Na = 56 dpm/kg and
+                                                              26Al = 137 dpm/kg. Clark and Keith (1973) determined
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 67055
+
+
+     reference  Eldridge73  Clark73      Lindstrrom and Salpas 1982
+     weight                               matrix    matrix    matrix    melt rocks
+    SiO2 %
+    TiO2
+    Al2O3                             28.6     29.8     21.3     21       20.6    20.4     (b)
+   FeO                               3.86     2.96      8.2       8.02     7.28    7.31     (b)
+   MnO
+   MgO                               5.6       4.8      10.6      13.2     12.2    12.4     (b)
+   CaO                              17.2     17.3     13.5      12.3     12.5    12.5     (b)
+   Na2O                            0.564    0.6      0.52      0.57     0.54    0.57     (b)
+   K2O      0.194   (a) 0.192     (a)
+   P2O5
+   S %
+    sum
+
+    Sc ppm                         8       7       13      13      13     13       (b)
+   V
+--- material block 2; lines 1-11 ---
+Table 1. Chemical composition of 67055
+
+
+     reference  Eldridge73  Clark73      Lindstrrom and Salpas 1982
+     weight                               matrix    matrix    matrix    melt rocks
+    SiO2 %
+    TiO2
+    Al2O3                             28.6     29.8     21.3     21       20.6    20.4     (b)
+   FeO                               3.86     2.96      8.2       8.02     7.28    7.31     (b)
+   MnO
+   MgO                               5.6       4.8      10.6      13.2     12.2    12.4     (b)
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 67055
+
+
+     reference  Eldridge73  Clark73      Lindstrrom and Salpas 1982
+     weight                               matrix    matrix    matrix    melt rocks
+    SiO2 %
+    TiO2
+    Al2O3                             28.6     29.8     21.3     21       20.6    20.4     (b)
+   FeO                               3.86     2.96      8.2       8.02     7.28    7.31     (b)
+   MnO
+--- references block 4; lines 65-75 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm   3.69     (a) 3.6        (a) 1.23     0.64     4.72      4.8      4.8     4.55     (b)
+   U ppm    0.98     (a) 0.99      (a) 0.36     0.19     1.27      1.42     1.33    1.38     (b)
+     technique:  (a) radiation counting, (b) INAA
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 5; CATEGORIES: age,material,references ===
+--- material block 1; lines 25-37 ---
+Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1975a)
+    Primordial and cosmogenic radionuclides in Descartes and
+                                                                       Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+   Taurus-Littrow materials: extension of studies by
+                                                                                  J. and Rehfeldt A. (1981) Distribution and provenance of
+    nondestructive x-ray spectrometry.  Proc. 6th  Lunar Sci.
+                                                                lunar highland rock types at North Ray Crater, Apollo 16.
+    Conf. 1407-1418.
+                                                             Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+    Clark R.S. and Keith J.E. (1973) Determination of natural
+                                                                      Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+   and cosmic ray induced radionuclides in Apollo 16 lunar
+--- age block 2; lines 31-43 ---
+lunar highland rock types at North Ray Crater, Apollo 16.
+    Conf. 1407-1418.
+                                                             Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+    Clark R.S. and Keith J.E. (1973) Determination of natural
+                                                                      Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+   and cosmic ray induced radionuclides in Apollo 16 lunar
+                                                               A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+    samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+                                                Reimold W.U., Wacker K. and Wanke H. (1985)
+                                                         Composition and evolution of the lunar crust in the Descartes
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+                                                                 highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+--- references block 3; lines 2-14 ---
+Figure 7: Processing photo of 67055. Cube is 1 inch. S82-27858
+   References for 67055
+                                                       Lindstrom M.M. and Salpus P.A. (1982)  Geochemical
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                  studies of feldspathic fragmental breccias and the nature of
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                         North Ray Crater Ejecta. Proc. 13th Lunar Planet. Sci. Conf.
+    Catalog. pp. 370.

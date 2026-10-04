@@ -1,0 +1,259 @@
+DOCUMENT_ID: 70255__compendium__8a4bf93488
+ATLAS_SAMPLE_IDS: 70255
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/70255.pdf
+SOURCE_PDF_SHA256: 75713db214a8a26edd8c91dc32e1763d7654763edc88e209b5570542e13c5c74
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-26 ---
+70255
+                                     Ilmenite Basalt
+                                           277.2 grams
+
+
+
+
+
+          Figure 1: Color photo of fine-grained basalt 70255. Cube is 1 cm. NASA S75-24191.
+
+   Introduction
+   70255 is a fine-grained Ti-rich basalt. It was collected
+                                                       Mineralogical Mode of 70255   from the ALSEP site, near the LM.
+                                                                    Brown et
+                                                                                                                   al. 1975
+   70255 is an oriented sample, because half is angular                                                                      Olivine        5 vol. %
+   and free of zap pits, while the other half is rounded                                                                Pyroxene        47.7
+   with numerous zap pits.                                           Plagioclase      14.8
+                                                            Opaques        30.9
+   Petrography                                                          Silica            1.6
+   Neal and Taylor (1993) reviewed the information on
+   70255. It is a blocky, subangular, homogeneous basalt
+   with 1-2 % vugs. It contains both olivine amd silica as
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-26 ---
+70255
+                                     Ilmenite Basalt
+                                           277.2 grams
+
+
+
+
+
+          Figure 1: Color photo of fine-grained basalt 70255. Cube is 1 cm. NASA S75-24191.
+
+   Introduction
+   70255 is a fine-grained Ti-rich basalt. It was collected
+                                                       Mineralogical Mode of 70255   from the ALSEP site, near the LM.
+                                                                    Brown et
+                                                                                                                   al. 1975
+   70255 is an oriented sample, because half is angular                                                                      Olivine        5 vol. %
+   and free of zap pits, while the other half is rounded                                                                Pyroxene        47.7
+   with numerous zap pits.                                           Plagioclase      14.8
+                                                            Opaques        30.9
+   Petrography                                                          Silica            1.6
+   Neal and Taylor (1993) reviewed the information on
+   70255. It is a blocky, subangular, homogeneous basalt
+   with 1-2 % vugs. It contains both olivine amd silica as
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: age,chemistry,material ===
+--- chemistry block 1; lines 2-22 ---
+14    (1975) calculated the cooling rate is 2 – 5 deg/hr.
+
+                                                                                         70255      A17
+                                                                                                 12
+   Chemistry                                                                                  A11
+   Warner et al. (1975a) and Rhodes et al. (1976)            10
+    determined the chemical composition (table 1).                       8
+                                             TiO2
+                                                                                                      6
+    Keith et al. (1974) determined K, U and Th by radiation
+    counting.  Lindstrom and Haskin (1978) find it is a             4                                 A12
+    type A.                                                                                    2                        A15
+
+   Radiogenic age dating                                                        0 0                5                10                15               20
+    Nyquist et al. (1976) determined Rb, Sr and 87Sr/86Sr                MgO
+    for whole rock, but didn’t report an age.                                                                Figure 3: Composition of Apollo basalts with 70255.
+    Schaeffer and Schaeffer (1977) determined an old age         1000
+   – older than other A17 samples (figure 5). Paces et al.                                         70255
+    (1991) listed it as type A (perhaps similar to 70215).            100
+
+                                                                                                  sample/
+--- chemistry block 2; lines 53-65 ---
+0
+                                                                                                    5             7             9             11            13            15
+
+                                                                                 Sm ppm
+
+                                                                Figure 6: Trace element plot of Apollo 17 basalts
+                                                            showing 70255 is type A.
+
+          Figure 5: Ar - Ar plateau for 70255 by Schaeffer
+         and Schaeffer1976.
+
+       Summary of Age Data for 70255
+--- material block 3; lines 11-23 ---
+Keith et al. (1974) determined K, U and Th by radiation
+    counting.  Lindstrom and Haskin (1978) find it is a             4                                 A12
+    type A.                                                                                    2                        A15
+
+   Radiogenic age dating                                                        0 0                5                10                15               20
+    Nyquist et al. (1976) determined Rb, Sr and 87Sr/86Sr                MgO
+    for whole rock, but didn’t report an age.                                                                Figure 3: Composition of Apollo basalts with 70255.
+    Schaeffer and Schaeffer (1977) determined an old age         1000
+   – older than other A17 samples (figure 5). Paces et al.                                         70255
+    (1991) listed it as type A (perhaps similar to 70215).            100
+
+                                                                                                  sample/
+                                                                                                            chondrite
+--- age block 4; lines 9-31 ---
+TiO2
+                                                                                                      6
+    Keith et al. (1974) determined K, U and Th by radiation
+    counting.  Lindstrom and Haskin (1978) find it is a             4                                 A12
+    type A.                                                                                    2                        A15
+
+   Radiogenic age dating                                                        0 0                5                10                15               20
+    Nyquist et al. (1976) determined Rb, Sr and 87Sr/86Sr                MgO
+    for whole rock, but didn’t report an age.                                                                Figure 3: Composition of Apollo basalts with 70255.
+    Schaeffer and Schaeffer (1977) determined an old age         1000
+   – older than other A17 samples (figure 5). Paces et al.                                         70255
+    (1991) listed it as type A (perhaps similar to 70215).            100
+
+                                                                                                  sample/
+                                                                                                            chondrite
+   Cosmogenic isotopes and exposure ages
+    Keith et al. (1974) determined the cosmic ray induced           10
+    activity of 70255 as 26Al = 49 dpm/kg., 22Na = 72 dpm/
+    kg., 54Mn = 137 dpm/kg., 56Co = 211 dpm/kg. and 46Sc            1
+   = 63 dpm/kg.
+
+    List of Photo #s for 70255                                                           0.1     La  Ce     Nd Sm  Eu  Gd     Dy       Er     Yb  Lu
+   S73-21974 orientation
+--- age block 5; lines 59-71 ---
+Figure 6: Trace element plot of Apollo 17 basalts
+                                                            showing 70255 is type A.
+
+          Figure 5: Ar - Ar plateau for 70255 by Schaeffer
+         and Schaeffer1976.
+
+       Summary of Age Data for 70255
+                                            Ar/Ar
+            Schaeffer and Schaeffer 1977         3.84 ± 0.02 b.y.
+           Note: Old decay constant
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 70255
+
+
+    reference  Rhodes76   Keith 74     Warner75
+    weight                          Hughes85
+   SiO2 %    40.11    (a)
+    TiO2      11.41    (a)               11.3      (b)
+   Al2O3     9.02      (a)               9.1        (b)
+   FeO      18.73    (a)              20.3      (b)
+   MnO      0.29      (a)              0.249     (b)
+   MgO      7.63      (a)             8          (b)
+   CaO       11.3      (a)              10.6      (b)
+   Na2O     0.39      (a)              0.387     (b)
+   K2O      0.05      (a) 0.048     (d) 0.077     (b)
+   P2O5     0.04      (a)
+   S %       0.19      (a)
+   sum
+
+   Sc ppm   80        (b)             90        (b)
+   V                               76        (b)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 70255
+
+
+    reference  Rhodes76   Keith 74     Warner75
+    weight                          Hughes85
+   SiO2 %    40.11    (a)
+    TiO2      11.41    (a)               11.3      (b)
+   Al2O3     9.02      (a)               9.1        (b)
+   FeO      18.73    (a)              20.3      (b)
+   MnO      0.29      (a)              0.249     (b)
+--- references block 3; lines 65-74 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm                0.31      (d)
+   U ppm                 0.107     (d)
+    technique  (a) XRF, (b) INAA, (c ) IDMS, (d) radiation counting
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 7; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 1-13 ---
+References for 70255                                  study of Apollo 17 high-Ti mare basalts: Resolution of ages,
+    Butler P. (1973) Lunar Sample Information Catalog   evolution of magmas, and origin of source heterogeneities.
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211  Geochim. Cosmochim. Acta 55, 2025-2043.
+    Curator’s Catalog. pp. 447.
+                                                         Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and  Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.           475-540.
+
+   Hughes S.S. and Schmitt R.A. (1985) Zr-Hf-Ta fractionation  Rhodes J.M., Hubbard N.J., Wiesmann H., Rodgers K.V.,
+    during lunar evolution. Proc. 16th Lunar Planet. Sci. Conf.  Brannon J.C. and Bansal B.M. (1976a) Chemistry,
+   D31 in J. Geophys. Res. 90.                                    classification, and petrogenesis of Apollo 17 mare basalts.
+                                                               Proc. 7th Lunar Sci. Conf. 1467-1489.
+--- material block 2; lines 14-26 ---
+Keith  J.E., Clark R.S. and Bennett L.J. (1974a)
+   Determination of natural and cosmic ray induced   Schaeffer G.A. and Schaeffer O.A. (1977a) 39Ar/40Ar ages
+    radionuclides in Apollo 17 lunar samples. Proc. 5th Lunar   of lunar rocks. Proc. 8th Lunar Sci. Conf. 2253-2300.
+    Sci. Conf. 2121-2138.
+                                                      Usselman T.M., Lofgren G.E., Donaldson C.H. and Williams
+   Lindstrom M.M. and Haskin L.A. (1978)  Causes of   R.J. (1975) Experimentally reproduced textures and mineral
+    compositional variations within mare basalt suites. Proc. 9th   chemistries of high-titanium mare basalts. Proc. 6th Lunar
+   Lunar Planet. Sci. Conf. 465-486.                             Sci. Conf. 997-1020.
+
+   LSPET (1973)  Apollo 17 lunar samples: Chemical and  Warner R.D., Keil K., Murali A.V. and Schmitt R.A. (1975a)
+    petrographic description. Science 182, 659-672.            Petrogenetic relationships among Apollo-17 basalts.  In
+                                                          Papers presented to the Conference on Origins of Mare
+   LSPET (1973) Preliminary Examination of lunar samples.   Basalts and their Implications for Lunar Evolution (Lunar
+--- age block 3; lines 9-21 ---
+Hughes S.S. and Schmitt R.A. (1985) Zr-Hf-Ta fractionation  Rhodes J.M., Hubbard N.J., Wiesmann H., Rodgers K.V.,
+    during lunar evolution. Proc. 16th Lunar Planet. Sci. Conf.  Brannon J.C. and Bansal B.M. (1976a) Chemistry,
+   D31 in J. Geophys. Res. 90.                                    classification, and petrogenesis of Apollo 17 mare basalts.
+                                                               Proc. 7th Lunar Sci. Conf. 1467-1489.
+   Keith  J.E., Clark R.S. and Bennett L.J. (1974a)
+   Determination of natural and cosmic ray induced   Schaeffer G.A. and Schaeffer O.A. (1977a) 39Ar/40Ar ages
+    radionuclides in Apollo 17 lunar samples. Proc. 5th Lunar   of lunar rocks. Proc. 8th Lunar Sci. Conf. 2253-2300.
+    Sci. Conf. 2121-2138.
+                                                      Usselman T.M., Lofgren G.E., Donaldson C.H. and Williams
+   Lindstrom M.M. and Haskin L.A. (1978)  Causes of   R.J. (1975) Experimentally reproduced textures and mineral
+    compositional variations within mare basalt suites. Proc. 9th   chemistries of high-titanium mare basalts. Proc. 6th Lunar
+   Lunar Planet. Sci. Conf. 465-486.                             Sci. Conf. 997-1020.
+--- age block 4; lines 35-47 ---
+Muehlberger W.R. and many others (1973)  Preliminary
+    Geological Investigation of the Apollo 17 Landing Site. In
+   Apollo 17 Preliminary Science Report. NASA SP-330.
+
+   Neal C.R., Taylor L.A., Patchen A.D., Hughes S.S. and
+   Schmitt R.A. (1990a)  The significance of fractional
+    crystallization in the petrogenesis of Apollo 17 Type A and
+  B high-Ti basalts. Geochim. Cosmochim. Acta 54, 1817-
+   1833.
+
+   Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+    rocks. Vol. 2 Basalts
+--- references block 5; lines 1-7 ---
+References for 70255                                  study of Apollo 17 high-Ti mare basalts: Resolution of ages,
+    Butler P. (1973) Lunar Sample Information Catalog   evolution of magmas, and origin of source heterogeneities.
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211  Geochim. Cosmochim. Acta 55, 2025-2043.
+    Curator’s Catalog. pp. 447.
+                                                         Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and  Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   mineralogy and petrology. Rev. Geophys. Space Phys. 14,

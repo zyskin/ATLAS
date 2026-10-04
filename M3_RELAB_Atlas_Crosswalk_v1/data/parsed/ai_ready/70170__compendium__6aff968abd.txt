@@ -1,0 +1,102 @@
+DOCUMENT_ID: 70170__compendium__6aff968abd
+ATLAS_SAMPLE_IDS: 70170
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/70170.pdf
+SOURCE_PDF_SHA256: ef25178fab68130b83992e827f5259b502cfc743b06b28f27850101414499bcd
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 24-36 ---
+Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+                                                  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+                                                                Office, Houston
+
+                                                         Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                       soils: Some concepts and Is/FeO compilation. Proc. 9th
+                                                     Lunar Sci. Conf. 2287-2297.
+
+                                                      Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+        Figure 1: Approximate location of samples 70170 -    rocks, central valley. Volumes 2 and 3.  Curators Office
+        70175, with South Massif in background. The gold   #26088 JSC, Houston.
+          foil protectes the neutron flux probe. AS17-134-
+--- mineralogy block 2; lines 43-55 ---
+Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,   site at the ALSEP site (figure 1).
+                                                            Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+                                                           geologic investigation of the Taurus-Littrow Valley: Apollo
+  Petrography                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+  The soil has not been studied, probably because it may   280.
+  contain fragments of 70175 which is described as a
+  “glass-rich microbreccia” (Neal and Taylor 1992).
+
+  Chemistry
+  The composition of this soil has not been measured,
+  but it should be similar to that of 70181.
+
+Lunar Sample Compendium
+--- material block 3; lines 1-16 ---
+70170
+                                           Soil
+                                       42 grams
+
+                                                  References for 70170
+                                                              Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                              17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+                                                             Catalog. pp. 447.
+
+                                                    Fruland R.M. (1983)  Regolith Breccia Workbook.
+                                                               Curatorial Branch Publication # 66. JSC 19045.
+
+                                                     Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+
+              70170                             Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+                                                      Space Phys. 13, 567-587.
+--- material block 4; lines 33-56 ---
+Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+        Figure 1: Approximate location of samples 70170 -    rocks, central valley. Volumes 2 and 3.  Curators Office
+        70175, with South Massif in background. The gold   #26088 JSC, Houston.
+          foil protectes the neutron flux probe. AS17-134-
+        20504.                                     Simon S.B., Papike J.J., Gosselin D.C., Laul J.C., Hughes
+                                                                S.S. and Schmitt R.A. (1990) Petrology and chemistry of
+  Introduction                                        Apollo 17 regolith breccias: A history of mixing of highland
+  70170 is the bag residue for breccia sample 70175  and mare regolith. Proc. 20th Lunar Planet. Sci. 219-230.
+  (Butler 1973). According to Wolfe et al. (1981) this  Lunar Planetary Institute, Houston.
+  sample was collected about 5 m south of the deep drill
+                                                      Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,   site at the ALSEP site (figure 1).
+                                                            Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+                                                           geologic investigation of the Taurus-Littrow Valley: Apollo
+  Petrography                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+  The soil has not been studied, probably because it may   280.
+  contain fragments of 70175 which is described as a
+  “glass-rich microbreccia” (Neal and Taylor 1992).
+
+  Chemistry
+  The composition of this soil has not been measured,
+  but it should be similar to that of 70181.
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 5; lines 23-35 ---
+1—7-46.
+
+                                                         Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+                                                  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+                                                                Office, Houston
+
+                                                         Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                       soils: Some concepts and Is/FeO compilation. Proc. 9th
+                                                     Lunar Sci. Conf. 2287-2297.
+
+                                                      Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+        Figure 1: Approximate location of samples 70170 -    rocks, central valley. Volumes 2 and 3.  Curators Office
+        70175, with South Massif in background. The gold   #26088 JSC, Houston.
+--- references block 6; lines 1-11 ---
+70170
+                                           Soil
+                                       42 grams
+
+                                                  References for 70170
+                                                              Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                              17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+                                                             Catalog. pp. 447.
+
+                                                    Fruland R.M. (1983)  Regolith Breccia Workbook.
+                                                               Curatorial Branch Publication # 66. JSC 19045.

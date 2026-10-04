@@ -1,0 +1,268 @@
+DOCUMENT_ID: 62275__compendium__72a9f71ff2
+ATLAS_SAMPLE_IDS: 62275
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/62275.pdf
+SOURCE_PDF_SHA256: 8f7486e7befaf92012edbe5478dd55a5fd59296cded68472626cdaf007082ed7
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 11-37 ---
+Introduction                                       Prinz et al. (1973) and Herzberg (1979) discuss the
+   62275 was found half buried in the regolith near Buster  importance of the FeCr2O4 content of the chromite in
+   Crater and was thought to be related to ejecta from   this and other plutonic lunar rocks, attempting to obtain
+   Buster Crater (Sutton 1981). It is a very friable, chalky   the depth of origin of these rocks.
+   white rock (figure 1) that broke up into powder (figure
+   8) during handling in curatorial labs and has not been  Mineralogy
+   adequately studied.  It appears to be similar to 62236,                                                         Olivine: Prinz et al. (1973) reported olivine as Fo59.8.
+   62237 and the white portion of 62255, but the
+   plagioclase composition appears more calcic.                                                    Pyroxene: Prinz et al. (1973) found orthopyroxene was
+                                                       Wo3.1En67 and rare clinopyroxene was Wo45.1En38.1.
+   Petrography                                 Warner et al. (1976) give a plot of the pyroxene
+   Prinz et al. (1973) and Dowty et al. (1974) describe  composition (figure 4).
+   62275 as a brecciated, shock-metamorphosed
+   anorthosite and note that it has “higher total mafic
+   content than for other ferroan anorthosites”.               Mineralogical Mode for 62275
+                                                                                                Prinz et          Warren et
+   Most of the large transparent fragments are not feldspar,                                        al. 1973              al. 1983
+   but brownish glass of near-feldspar composition (Prinz            Olivine          6               7 (mafic)
+                                                                      Pyroxene
+    et al. 1973).  Only about a third of the feldspathic                                                                               Ortho   1
+   fragments are crystalline plagioclase – evidence of a                    Clino      tr.
+   high degree of shock metamorphism (figures 3 and 4).             Plagioclase       93 (inc. Glass)    93
+                                                                            Cr-Spinel               tr.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 7-22 ---
+Figure 1: Photo of 62275 before it broke-up. NASA S72-40930. Cube is 1 cm.
+
+
+   Introduction                                       Prinz et al. (1973) and Herzberg (1979) discuss the
+   62275 was found half buried in the regolith near Buster  importance of the FeCr2O4 content of the chromite in
+   Crater and was thought to be related to ejecta from   this and other plutonic lunar rocks, attempting to obtain
+   Buster Crater (Sutton 1981). It is a very friable, chalky   the depth of origin of these rocks.
+   white rock (figure 1) that broke up into powder (figure
+   8) during handling in curatorial labs and has not been  Mineralogy
+   adequately studied.  It appears to be similar to 62236,                                                         Olivine: Prinz et al. (1973) reported olivine as Fo59.8.
+   62237 and the white portion of 62255, but the
+   plagioclase composition appears more calcic.                                                    Pyroxene: Prinz et al. (1973) found orthopyroxene was
+                                                       Wo3.1En67 and rare clinopyroxene was Wo45.1En38.1.
+   Petrography                                 Warner et al. (1976) give a plot of the pyroxene
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 4-26 ---
+area with crossed polarizers showing high percentage
+                                                                        of isotropic material.
+
+
+
+
+                                                         Plagioclase: The plagioclase in 62275 is very calcic
+                                                                   (An97-99) and has low Mg content (Prinz et al. 1973).
+                                                  Warren et al. (1983) confirmed the very calcic nature
+                                                          of the plagioclase in this rock.
+
+                                                          Cr-spinel: Prinz et al. (1973) report Al-rich, Cr-spinel
+                                                  and give an analysis.
+           Figure 2: Photomicrograph of thin section
+            62275,4. Scale 1 cm.                      Chemistry
+                                                  Warren et al. (1983) appear to have analyzed nearly
+                                                      pure plagioclase (figure 7). They find the rock has
+                                                      very low meteoritic siderophile content.
+--- material block 2; lines 7-26 ---
+Plagioclase: The plagioclase in 62275 is very calcic
+                                                                   (An97-99) and has low Mg content (Prinz et al. 1973).
+                                                  Warren et al. (1983) confirmed the very calcic nature
+                                                          of the plagioclase in this rock.
+
+                                                          Cr-spinel: Prinz et al. (1973) report Al-rich, Cr-spinel
+                                                  and give an analysis.
+           Figure 2: Photomicrograph of thin section
+            62275,4. Scale 1 cm.                      Chemistry
+                                                  Warren et al. (1983) appear to have analyzed nearly
+                                                      pure plagioclase (figure 7). They find the rock has
+                                                      very low meteoritic siderophile content.
+
+=== PDF PAGE 3; CATEGORIES: age,mineralogy ===
+--- mineralogy block 1; lines 14-26 ---
+En                                          Fs
+
+                                                 Fo                                        Fa
+
+                                                                                                    compiled by C Meyer
+
+                                                                 Figure 5: Olivine and pyroxene composition of
+                                                               62275.
+--- age block 2; lines 1-13 ---
+Figure 4: Photo of thin section 62275,3. About 2 mm across. S72-45697.
+
+
+
+
+                                                                      62275   Cosmogenic isotopes and exposure ages                       Di                   Hd
+   Clark and Keith (1973) determined cosmic-ray induced         Warner1976   et al.
+    activity as 26Al = 94 dpm/kg. and 22Na = 28 dpm/kg.
+
+   Processing
+   Houston, you have a problem (figure 8)! There are
+   only 3 thin sections of 62275.
+
+=== PDF PAGE 4; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 1-7 ---
+An in plagioclase                                                   1000
+             75       80        85       90       95
+                                                              62275
+                                                                                                     100
+
+                                                                troctolites
+                                                                                  sample/
+--- mineralogy block 2; lines 13-33 ---
+mg-suite
+                                                    norites                 80                                                                 En
+                                                                                                                  1
+                                                                 in
+                                                                                                                                                                                                    low-Ca                                 gabbro-                           70
+                                     norites                                                                     0.1   La      Pr    Sm    Gd     Dy      Er     Yb                                                                               Ce     Nd     Eu     Tb    Ho    Tm     Lu
+                                62275                                     pyroxene
+                                                             ferroan-        60          Figure 7: Normalized rare-earth-element diagram
+                                                           anorthosite                   for 62275 plagioclase (by Warren et al. 1983).
+
+
+                                                              50
+
+
+         Figure 6: Plagioclase and pyroxene composition of
+        62275.
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 62275.
+                             Prinz 73     matrix glass   plag?
+    reference  Clark 73    Dowty 74    Prinz 73      Warren 83
+    weight               Warner76
+   SiO2 %                43.7      (b) 44.3        (b) 43.86     (c )
+    TiO2                   0.04      (b) 0.13        (b) 0.036     (c )
+   Al2O3                 33.1      (b) 30.2        (b) 35.3      (c )
+   FeO                    2.2       (b) 3.4          (b) 0.54       (c )
+   MnO                               0.04           0.01       (c )
+   MgO                   1.91      (b) 3.1          (b) 0.4        (c )
+   CaO                   18.4      (b) 18.6        (b) 19.45     (c )
+   Na2O                  0.3       (b) 0.34        (b) 0.32       (c )
+   K2O      0.0178   (a) 0.06      (b) 0.03        (b) 0.021     (c )
+   P2O5
+   S %
+   sum
+
+   Sc ppm                                             1.7        (c )
+   V
+--- mineralogy block 2; lines 1-8 ---
+Table 1. Chemical composition of 62275.
+                             Prinz 73     matrix glass   plag?
+    reference  Clark 73    Dowty 74    Prinz 73      Warren 83
+    weight               Warner76
+   SiO2 %                43.7      (b) 44.3        (b) 43.86     (c )
+    TiO2                   0.04      (b) 0.13        (b) 0.036     (c )
+   Al2O3                 33.1      (b) 30.2        (b) 35.3      (c )
+   FeO                    2.2       (b) 3.4          (b) 0.54       (c )
+--- material block 3; lines 1-8 ---
+Table 1. Chemical composition of 62275.
+                             Prinz 73     matrix glass   plag?
+    reference  Clark 73    Dowty 74    Prinz 73      Warren 83
+    weight               Warner76
+   SiO2 %                43.7      (b) 44.3        (b) 43.86     (c )
+    TiO2                   0.04      (b) 0.13        (b) 0.036     (c )
+   Al2O3                 33.1      (b) 30.2        (b) 35.3      (c )
+   FeO                    2.2       (b) 3.4          (b) 0.54       (c )
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 62275.
+                             Prinz 73     matrix glass   plag?
+    reference  Clark 73    Dowty 74    Prinz 73      Warren 83
+    weight               Warner76
+   SiO2 %                43.7      (b) 44.3        (b) 43.86     (c )
+    TiO2                   0.04      (b) 0.13        (b) 0.036     (c )
+   Al2O3                 33.1      (b) 30.2        (b) 35.3      (c )
+   FeO                    2.2       (b) 3.4          (b) 0.54       (c )
+   MnO                               0.04           0.01       (c )
+--- references block 5; lines 64-73 ---
+Os ppb
+      Ir ppb                                           0.023     (c )
+    Pt ppb
+   Au ppb                                          0.009     (c )
+   Th ppm   0.009     (a)                           <0.036    (c )
+   U ppm    <0.006   (a)
+    technique: (a) radiation counting, (b) elec. Probe, (c ) INAA, RNAA
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 6; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 13-25 ---
+samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+                                                      Warren P.H. (1993) A concise compilation of petrologic
+   Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:   information on possibly pristine nonmare Moon rocks. Am.
+    a widespread and distinctive lunar rock type. Earth Planet.   Mineral. 78, 360-376.
+     Sci. Lett. 24, 15-25.
+                                                       Warren P.H. and Wasson J.T. (1977) Pristine nonmare rocks
+    Herzberg C.T. (1978) The bearing of spinel cataclasites on  and the nature of the lunar crust. Proc. 8th Lunar Sci. Conf.
+    the crust-mantle structure of the Moon.  Proc. 9th Lunar   2215-2235.
+    Planet. Sci. Conf. 319-336.
+                                                       Warren P.H., Taylor G.J., Keil K., Kaltemeyn G.W., Rosener
+    Herzberg C.T. (1979)  Identification of pristine lunar   P.S. and Wasson J.T. (1983c)  Sixth foray for pristine
+    highland rocks: Criteria based on mineral chemistry and  nonmare rocks and an assessment of the diversity of lunar
+     stability (abs).  Lunar Planet. Sci. X, 537-539.  Lunar   anorthosites.  Proc. 13th  Lunar Planet. Sci. Conf.  in J.
+--- mineralogy block 2; lines 29-42 ---
+and chemical description. Science 179, 23-34.            D. and Wasson J.T. (1983d) Seventh foray: Whitlockite-
+                                                                    rich lithologies, a diopside-bearing troctolitic anorthosite,
+   LSPET (1972c) Preliminary examination of lunar samples.   ferroan anorthosite and KREEP. Proc. 14th Lunar Planet.
+    In Apollo 16 Preliminary Science Report. NASA SP-315,   Sci. Conf. in J. Geophys. Res. 88, B151-B164.
+    7-1—7-58.
+
+    Prinz M., Dowty E., Keil K. and Bunch T.E. (1973a) Spinel
+     troctolite and anorthosite in Apollo 16 samples.  Science
+    179, 74-76.
+
+    Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Sutton R.L. (1981) Documentation of Apollo 16 samples.
+--- material block 3; lines 4-22 ---
+the diversity of highland magmatism. Geophys. Res. Lett.
+    18, 2085-2088.                                              Ulrich, Muehlberger and many others (1973)  Apollo 16
+                                                             geologic exploration of Descartes: A geologic summary.
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Science 179, 42-49.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+                                                       and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+    Clark R.S. and Keith J.E. (1973) Determination of natural  from the LM area and station 5.  Spec. Publ. #13, UNM
+    and cosmic ray induced radionuclides in Apollo 16 lunar   Institute of Meteoritics, Albuquerque. 87 pp.
+    samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+                                                      Warren P.H. (1993) A concise compilation of petrologic
+   Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:   information on possibly pristine nonmare Moon rocks. Am.
+    a widespread and distinctive lunar rock type. Earth Planet.   Mineral. 78, 360-376.
+     Sci. Lett. 24, 15-25.
+                                                       Warren P.H. and Wasson J.T. (1977) Pristine nonmare rocks
+    Herzberg C.T. (1978) The bearing of spinel cataclasites on  and the nature of the lunar crust. Proc. 8th Lunar Sci. Conf.
+    the crust-mantle structure of the Moon.  Proc. 9th Lunar   2215-2235.
+    Planet. Sci. Conf. 319-336.
+                                                       Warren P.H., Taylor G.J., Keil K., Kaltemeyn G.W., Rosener
+--- age block 4; lines 6-18 ---
+geologic exploration of Descartes: A geologic summary.
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Science 179, 42-49.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+                                                       and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+    Clark R.S. and Keith J.E. (1973) Determination of natural  from the LM area and station 5.  Spec. Publ. #13, UNM
+    and cosmic ray induced radionuclides in Apollo 16 lunar   Institute of Meteoritics, Albuquerque. 87 pp.
+    samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+                                                      Warren P.H. (1993) A concise compilation of petrologic
+   Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:   information on possibly pristine nonmare Moon rocks. Am.
+    a widespread and distinctive lunar rock type. Earth Planet.   Mineral. 78, 360-376.
+     Sci. Lett. 24, 15-25.
+                                                       Warren P.H. and Wasson J.T. (1977) Pristine nonmare rocks
+--- references block 5; lines 1-7 ---
+References for 62275.                                  Ulrich G.E., Hodges C.A. and Muehlberger W.R. (1981)
+    Bersch M.G., Taylor G.J., Keil K. and Norman M.D. (1991)  Geology of the Apollo 16 Area, Central Lunar Highlands.
+    Mineral compositions in pristine lunar highland rocks and   U.S. Geol. Survey Prof. Paper 1048
+    the diversity of highland magmatism. Geophys. Res. Lett.
+    18, 2085-2088.                                              Ulrich, Muehlberger and many others (1973)  Apollo 16
+                                                             geologic exploration of Descartes: A geologic summary.
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Science 179, 42-49.

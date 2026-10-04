@@ -1,0 +1,86 @@
+DOCUMENT_ID: 67945__compendium__0f576a980f
+ATLAS_SAMPLE_IDS: 67945
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67945.pdf
+SOURCE_PDF_SHA256: e7e67686d935cd2fbd1a018d786cd8a919e45a5a7f3a781137e53d1b5af95cc9
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+67945
+                               Impact Melt Breccia
+                                               4.4 grams
+
+=== PDF PAGE 2; CATEGORIES: material ===
+--- material block 1; lines 1-13 ---
+Figure 3: Photomicrograph of thin section of 67945 showing micropoikilitic texture of matrix with some clasts.
+
+
+
+
+
+                Figure 4: Location of 67940 - 48 adjacent to House Rock on rim of NRC.
+
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 3; CATEGORIES: age,material,references ===
+--- material block 1; lines 1-18 ---
+Introduction                                               67945
+   Samples larger than 1 cm were extracted from soil                                                        4.4 grams
+   samples and individually numbered – see section on
+    soil 67941.  This soil was from the crack between
+   House Rock and Outhouse Rock (Sutton et al. 1981).         ,0     ,1   ,17
+   One might expect that this fragment is from the big       4 g  PB PB
+    breccia, but there is no way to confirm that.
+                                                                                  ,13    ,4
+   Petrography                                                              ,14   TS
+                                                                                  ,15
+   Stoffler  et  al. (1985) classified this rock as             TS
+    micropoikilitic impact breccia (figure 3), but gave no
+    analysis. Ryder and Norman (1980) give the only other
+    description.
+
+   Radiogenic age dating
+   Not
+--- material block 2; lines 37-49 ---
+Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+     J. and Rehfeldt A. (1981) Distribution and provenance of
+    lunar highland rock types at North Ray Crater, Apollo 16.
+    Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+    Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Reimold W.U., Wacker K. and Wanke H. (1985)
+   Composition and evolution of the lunar crust in the Descartes
+--- age block 3; lines 10-22 ---
+,15
+   Stoffler  et  al. (1985) classified this rock as             TS
+    micropoikilitic impact breccia (figure 3), but gave no
+    analysis. Ryder and Norman (1980) give the only other
+    description.
+
+   Radiogenic age dating
+   Not
+
+   Processing
+   There are 4 thin sections.
+--- references block 4; lines 20-32 ---
+There are 4 thin sections.
+
+
+
+
+
+   References for 67945
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   and chemical description. Science 179, 23-34.

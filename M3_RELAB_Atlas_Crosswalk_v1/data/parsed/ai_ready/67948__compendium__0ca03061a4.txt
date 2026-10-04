@@ -1,0 +1,99 @@
+DOCUMENT_ID: 67948__compendium__0ca03061a4
+ATLAS_SAMPLE_IDS: 67948
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67948.pdf
+SOURCE_PDF_SHA256: 98602dd89f73b8d9b66d6d299a3bf0e280ca8cdfa9baf8651bb202f4f4c35aef
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 24-47 ---
+Reimold W.U., Wacker K. and Wanke H. (1985)
+   References for 67948                                Composition and evolution of the lunar crust in the Descartes
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   Res. 90, C449-C506.
+    Catalog. pp. 370.
+                                                     Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+     Table 1. Chemical composition of 67948     Apollo 16 rocks: Classification and petrogenetic model.
+        reference  Stoffler86                                    Proc. 4th Lunar Sci. Conf. 481-504.
+       weight
+      SiO2 %    50.8     (a)
+       TiO2      0.51     (a)                                        67948
+      Al2O3     24.4     (a)                                                1.6 grams
+      FeO       2.07     (a)
+     MnO      0.03     (a)
+     MgO      4         (a)
+     CaO       16.3     (a)                                                       ,0         ,2    ,1     ,18       ,20
+      Na2O     0.76     (a)                                                 0.4 g   TS  PB    0.5 g     0.3 g
+     K2O      1         (a)
+      P2O5      0.16     (a)                                                               LA
+                                                                                                            ,13     Taylor
+     S %                                                                                                            ,14
+      sum                                                                                               ,15
+         (a) DBA                                                                   TS
+--- mineralogy block 2; lines 9-21 ---
+Figure 1: Photo of 67948. Sample is 1.3 cm
+             long.  S80-40831
+
+   Introduction                                             Figure 2: Photomicrograph of thin section 67948,14.
+   67948 was sieved from the soil collected next to       Field of view is 2 mm. (from Ryder and Norman
+                                                                 1980).   Outhouse Rock – see section on 67941.   It is a
+    plagioclase-rich, ophitic basalt with igneous texture
+   (figure 2).   It is highly aluminous and has high  LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.   potassium content.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Chemistry                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Although the largest piece of this important sample
+--- material block 3; lines 1-21 ---
+67948
+                                 Highland Basalt
+                                            1.59 grams
+
+
+
+
+
+            Figure 1: Photo of 67948. Sample is 1.3 cm
+             long.  S80-40831
+
+   Introduction                                             Figure 2: Photomicrograph of thin section 67948,14.
+   67948 was sieved from the soil collected next to       Field of view is 2 mm. (from Ryder and Norman
+                                                                 1980).   Outhouse Rock – see section on 67941.   It is a
+    plagioclase-rich, ophitic basalt with igneous texture
+   (figure 2).   It is highly aluminous and has high  LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.   potassium content.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Chemistry                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Although the largest piece of this important sample
+--- treatment block 4; lines 7-19 ---
+Figure 1: Photo of 67948. Sample is 1.3 cm
+             long.  S80-40831
+
+   Introduction                                             Figure 2: Photomicrograph of thin section 67948,14.
+   67948 was sieved from the soil collected next to       Field of view is 2 mm. (from Ryder and Norman
+                                                                 1980).   Outhouse Rock – see section on 67941.   It is a
+    plagioclase-rich, ophitic basalt with igneous texture
+   (figure 2).   It is highly aluminous and has high  LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.   potassium content.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+--- references block 5; lines 19-37 ---
+Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Chemistry                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Although the largest piece of this important sample
+   was allocated, no analysis has been forthcoming.        Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                                                               A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                                                Reimold W.U., Wacker K. and Wanke H. (1985)
+   References for 67948                                Composition and evolution of the lunar crust in the Descartes
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   Res. 90, C449-C506.
+    Catalog. pp. 370.
+                                                     Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+     Table 1. Chemical composition of 67948     Apollo 16 rocks: Classification and petrogenetic model.
+        reference  Stoffler86                                    Proc. 4th Lunar Sci. Conf. 481-504.
+       weight
+      SiO2 %    50.8     (a)
+       TiO2      0.51     (a)                                        67948
+      Al2O3     24.4     (a)                                                1.6 grams
+      FeO       2.07     (a)
+     MnO      0.03     (a)

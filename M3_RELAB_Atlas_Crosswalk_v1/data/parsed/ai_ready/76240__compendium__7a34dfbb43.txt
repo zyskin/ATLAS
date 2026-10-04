@@ -1,0 +1,648 @@
+DOCUMENT_ID: 76240__compendium__7a34dfbb43
+ATLAS_SAMPLE_IDS: 76240,76260,76280
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/76240.pdf
+SOURCE_PDF_SHA256: 8db11c5765e227ce428e8703726ff27d954f2a34209bd344d888572fc32b1142
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 17-32 ---
+Figure 1: Location of shadowed soil 76240 and reference soil 76260/76280. NASA photo AS17-141-21605.
+
+   Introduction
+                                                76240 is a surface sample collected from a depth of 0   76240 is a “permanently shadowed” soil sample
+                                                – 4 or 5 cm and has a maturity index Is/FeO = 56    collected ~1 meter under the overhang of a 5x4x3 meter
+                                                      (submature) with about 48% agglutinates (Heiken and   boulder (#4) at station 6, South Massif (figure 1), which
+                                        McKay 1974). Sample 76240 is to be compared with   was downslope from blocks #2 and #3 (figure 2). This
+                                                          reference soil 76260 (Is/FeO = 58; 45% agglutinates)   material has remained in the shadow for as long as the
+                                                           collected from the sunlit surface nearby (figure 1).   big boulder has been there (~22 m.y.; Crozaz and others
+                                                Sample 76280 (Is/FeO = 45; 45% agglutinates) was   1974).  76261 and 76281 were collected nearby for
+                                                             collected from beneath 76260 (1 – 5 cm depth). Sample   comparison.
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 2; lines 1-8 ---
+76240
+                  Shadowed Soil (portion frozen) - 490.54 grams
+                              76260 - 293 grams
+                              76280 - 446 grams
+--- material block 3; lines 13-32 ---
+76280
+
+
+
+
+
+          Figure 1: Location of shadowed soil 76240 and reference soil 76260/76280. NASA photo AS17-141-21605.
+
+   Introduction
+                                                76240 is a surface sample collected from a depth of 0   76240 is a “permanently shadowed” soil sample
+                                                – 4 or 5 cm and has a maturity index Is/FeO = 56    collected ~1 meter under the overhang of a 5x4x3 meter
+                                                      (submature) with about 48% agglutinates (Heiken and   boulder (#4) at station 6, South Massif (figure 1), which
+                                        McKay 1974). Sample 76240 is to be compared with   was downslope from blocks #2 and #3 (figure 2). This
+                                                          reference soil 76260 (Is/FeO = 58; 45% agglutinates)   material has remained in the shadow for as long as the
+                                                           collected from the sunlit surface nearby (figure 1).   big boulder has been there (~22 m.y.; Crozaz and others
+                                                Sample 76280 (Is/FeO = 45; 45% agglutinates) was   1974).  76261 and 76281 were collected nearby for
+                                                             collected from beneath 76260 (1 – 5 cm depth). Sample   comparison.
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 4; lines 17-29 ---
+Figure 1: Location of shadowed soil 76240 and reference soil 76260/76280. NASA photo AS17-141-21605.
+
+   Introduction
+                                                76240 is a surface sample collected from a depth of 0   76240 is a “permanently shadowed” soil sample
+                                                – 4 or 5 cm and has a maturity index Is/FeO = 56    collected ~1 meter under the overhang of a 5x4x3 meter
+                                                      (submature) with about 48% agglutinates (Heiken and   boulder (#4) at station 6, South Massif (figure 1), which
+                                        McKay 1974). Sample 76240 is to be compared with   was downslope from blocks #2 and #3 (figure 2). This
+                                                          reference soil 76260 (Is/FeO = 58; 45% agglutinates)   material has remained in the shadow for as long as the
+                                                           collected from the sunlit surface nearby (figure 1).   big boulder has been there (~22 m.y.; Crozaz and others
+                                                Sample 76280 (Is/FeO = 45; 45% agglutinates) was   1974).  76261 and 76281 were collected nearby for
+                                                             collected from beneath 76260 (1 – 5 cm depth). Sample   comparison.
+--- references block 5; lines 13-32 ---
+76280
+
+
+
+
+
+          Figure 1: Location of shadowed soil 76240 and reference soil 76260/76280. NASA photo AS17-141-21605.
+
+   Introduction
+                                                76240 is a surface sample collected from a depth of 0   76240 is a “permanently shadowed” soil sample
+                                                – 4 or 5 cm and has a maturity index Is/FeO = 56    collected ~1 meter under the overhang of a 5x4x3 meter
+                                                      (submature) with about 48% agglutinates (Heiken and   boulder (#4) at station 6, South Massif (figure 1), which
+                                        McKay 1974). Sample 76240 is to be compared with   was downslope from blocks #2 and #3 (figure 2). This
+                                                          reference soil 76260 (Is/FeO = 58; 45% agglutinates)   material has remained in the shadow for as long as the
+                                                           collected from the sunlit surface nearby (figure 1).   big boulder has been there (~22 m.y.; Crozaz and others
+                                                Sample 76280 (Is/FeO = 45; 45% agglutinates) was   1974).  76261 and 76281 were collected nearby for
+                                                             collected from beneath 76260 (1 – 5 cm depth). Sample   comparison.
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 1-23 ---
+25
+                                                                                20                      Apollo soils
+
+
+                                                                                15
+                                FeO                                     76240
+
+                                                                                10
+
+
+                                                                                    5
+
+
+                                                                                    0
+                                                                                      0       5      10      15      20      25      30      35
+                                                             Al2O3
+                                                                 Figure 3: Chemical composition of 76240 compared
+                                                                   with other lunar soils.
+
+                                                                                                   1000
+
+         Figure 2: Location of shadowed soil 76240 - under
+         block 4, station 6, North Massif, Apollo 17. From                 100                                     76215
+--- mineralogy block 2; lines 42-65 ---
+has an activity higher than expected. Taken at face  The station 6 soils contain (as an important component)
+    value, the boulder would have to have been emplaced  “dark mantle materials that extend locally onto the
+    within the last 1 m.y. (but, in fact, we know it to be  lower slopes of the Massif” (Wolfe et al. 1981).
+   ~22 m.y.). One possibility is that the shadowed soil
+
+
+              Modal content of soils 76241, 76261 and 76281 (90-150 micron).
+                From Heiken and McKay (1974).
+                                76241       76261 (ref)   76281 (ref)
+                      Agglutinates             48                45.3 %            45.3 %
+                       Basalt                      3.3                4.3                6.7
+                      Breccia                    19.7              18.2              16.3
+                      Anorthosite                 1.6             1                  1.3
+                      Norite                            -                  0.3                    -
+                   Gabbro                           -
+                       Plagioclase               12                10.3              10.7
+                    Pyroxene                7                 12.6             11
+                      Olivine                     1.3                0.7                    -
+                       Ilmenite                 2               1                  1.3
+                   Orange glass                0.7                0.7                1.3
+                     Glass other                 4.3                5.2             6
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 3; lines 16-59 ---
+Al2O3
+                                                                 Figure 3: Chemical composition of 76240 compared
+                                                                   with other lunar soils.
+
+                                                                                                   1000
+
+         Figure 2: Location of shadowed soil 76240 - under
+         block 4, station 6, North Massif, Apollo 17. From                 100                                     76215
+         Wolfe et al. 1981. North is up. Block 4 is about 5        sample/
+                                                                                          chondrite      76240
+         meters across.                                                                        10
+
+   76240 has a mean grain size of 53 microns compared
+    with 76260 and 76280 of 58 microns (McKay et al.               1
+    1974). One may conclude that these soils are very like
+   each other, except that 76240 was permanently               0.1
+   shadowed from the sun for the length of time that the                La Ce  Pr Nd Sm Eu Gd Tb Dy Ho  Er Tm Yb Lu
+    boulder has been on top of it.
+                                                                 Figure 4: Normalized rare-earth-element pattern
+                                                                           for shadowed soil (dashed line) compared with
+   The large station 6 boulders sit on the local soil,                                                                  boulder matrix.
+    shielding the soils underneath from recent cosmic rays,
+   and also partially shielding adjacent soils. Indeed the  has recently received a component of unshadowed soil
+    22Na and 26Al activity measured for 76240 are less than  “kicked” under the boulder by nearby impacts into
+    they would have been if the shadowed soil had been   adjacent soil.
+    unshielded. However, this shadowed soil sample still
+    has an activity higher than expected. Taken at face  The station 6 soils contain (as an important component)
+    value, the boulder would have to have been emplaced  “dark mantle materials that extend locally onto the
+    within the last 1 m.y. (but, in fact, we know it to be  lower slopes of the Massif” (Wolfe et al. 1981).
+   ~22 m.y.). One possibility is that the shadowed soil
+
+
+              Modal content of soils 76241, 76261 and 76281 (90-150 micron).
+                From Heiken and McKay (1974).
+                                76241       76261 (ref)   76281 (ref)
+                      Agglutinates             48                45.3 %            45.3 %
+                       Basalt                      3.3                4.3                6.7
+                      Breccia                    19.7              18.2              16.3
+                      Anorthosite                 1.6             1                  1.3
+                      Norite                            -                  0.3                    -
+                   Gabbro                           -
+                       Plagioclase               12                10.3              10.7
+                    Pyroxene                7                 12.6             11
+                      Olivine                     1.3                0.7                    -
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 10-33 ---
+40                                                     determined the composition of the boulder (sample
+                 20                              Lunar Soils     76215).  Figure 4 shows the difference in chemical
+
+                  0
+                     0           20          40          60          80         100         120   composition between the soil and the boulder. Figure
+                                                5 presents the carbon content.                          maturity (Is/FeO)
+         Figure 5: Carbon content and maturity index for
+         shaded soil 76240 and reference soil 76260.          Volatiles
+                                             Von Guten et al. (1982) found excess Hg in shadowed
+                                                  sample 76240 compared with sunlit control sample   Sample 76215 is a breccia sample from the top of the
+                                                   76260.  Baedecker et al. (1974) and Morgan et al.   boulder that protects 76240.
+                                                      (1974) found excess Cd in the shadowed soil (76240),
+   Petrography                                  compared with the reference soil (76260). However,
+                                                     Jovanovic and Reed (1974) found the same amount of   76240 appears to be similar to reference soils 76260
+                                       Hg in 76240 as in 76260 (2 – 3 ppm).   and 76280 collected just outside the shadow.
+   Morris (1978) determined the maturity index of 76240,
+                                             Moore et al. (1974) a nd Gibson and Moore (1974)   76261 and 76281 as (Is/FeO =56, 58 and 45,
+                                               showed that 76240 had the same amount of sulfur as    respectively). The grain size distribution is shown in
+                                              76260 (~850 ppm).  Jovanovic and Reed (1974)    figures 7 and 8.
+                                                     determined Hg, Os, Ru and U in 76241, 76261 (< 1
+                               mm fraction).  Norris et al. (1983) determined C and   Meyer (1973) cataloged the 4 – 10 mm coarse-fine
+                                 N (and their isotopic compositions).    particles and Jolliff et al. (1996) studied numerous 2 –
+   4 mm coarse-fine particles from 76283.
+--- material block 2; lines 1-44 ---
+200
+
+               180                                    Chemistry
+               160
+               140                                       Hubbard et al. (1974), Morgan et al. (1974), Baedecker
+               120          76240                                     et al. (1974) and Korotev and Kremser (1992)
+  C               100                                            determined the composition of the shadowed soil 76240   ppm
+                 80                              76260              and sunlit comparison samples 76260, 76280 (tables 1
+                 60                                         and 2, figure 3 and 4).  Simonds (1975) and others
+
+                 40                                                     determined the composition of the boulder (sample
+                 20                              Lunar Soils     76215).  Figure 4 shows the difference in chemical
+
+                  0
+                     0           20          40          60          80         100         120   composition between the soil and the boulder. Figure
+                                                5 presents the carbon content.                          maturity (Is/FeO)
+         Figure 5: Carbon content and maturity index for
+         shaded soil 76240 and reference soil 76260.          Volatiles
+                                             Von Guten et al. (1982) found excess Hg in shadowed
+                                                  sample 76240 compared with sunlit control sample   Sample 76215 is a breccia sample from the top of the
+                                                   76260.  Baedecker et al. (1974) and Morgan et al.   boulder that protects 76240.
+                                                      (1974) found excess Cd in the shadowed soil (76240),
+   Petrography                                  compared with the reference soil (76260). However,
+                                                     Jovanovic and Reed (1974) found the same amount of   76240 appears to be similar to reference soils 76260
+                                       Hg in 76240 as in 76260 (2 – 3 ppm).   and 76280 collected just outside the shadow.
+   Morris (1978) determined the maturity index of 76240,
+                                             Moore et al. (1974) a nd Gibson and Moore (1974)   76261 and 76281 as (Is/FeO =56, 58 and 45,
+                                               showed that 76240 had the same amount of sulfur as    respectively). The grain size distribution is shown in
+                                              76260 (~850 ppm).  Jovanovic and Reed (1974)    figures 7 and 8.
+                                                     determined Hg, Os, Ru and U in 76241, 76261 (< 1
+                               mm fraction).  Norris et al. (1983) determined C and   Meyer (1973) cataloged the 4 – 10 mm coarse-fine
+                                 N (and their isotopic compositions).    particles and Jolliff et al. (1996) studied numerous 2 –
+   4 mm coarse-fine particles from 76283.
+
+
+
+
+
+                  Figure 6: Natural thermolumenscence “glow curves” for three lunar soils with different
+                    radiation and thermal histories (Durrani et al. 1976). Frozen sample 76240 gives off more
+                       light (curve A) and starts at a lower temperature than the reference soil 76260 (curve B).
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 3; lines 10-37 ---
+40                                                     determined the composition of the boulder (sample
+                 20                              Lunar Soils     76215).  Figure 4 shows the difference in chemical
+
+                  0
+                     0           20          40          60          80         100         120   composition between the soil and the boulder. Figure
+                                                5 presents the carbon content.                          maturity (Is/FeO)
+         Figure 5: Carbon content and maturity index for
+         shaded soil 76240 and reference soil 76260.          Volatiles
+                                             Von Guten et al. (1982) found excess Hg in shadowed
+                                                  sample 76240 compared with sunlit control sample   Sample 76215 is a breccia sample from the top of the
+                                                   76260.  Baedecker et al. (1974) and Morgan et al.   boulder that protects 76240.
+                                                      (1974) found excess Cd in the shadowed soil (76240),
+   Petrography                                  compared with the reference soil (76260). However,
+                                                     Jovanovic and Reed (1974) found the same amount of   76240 appears to be similar to reference soils 76260
+                                       Hg in 76240 as in 76260 (2 – 3 ppm).   and 76280 collected just outside the shadow.
+   Morris (1978) determined the maturity index of 76240,
+                                             Moore et al. (1974) a nd Gibson and Moore (1974)   76261 and 76281 as (Is/FeO =56, 58 and 45,
+                                               showed that 76240 had the same amount of sulfur as    respectively). The grain size distribution is shown in
+                                              76260 (~850 ppm).  Jovanovic and Reed (1974)    figures 7 and 8.
+                                                     determined Hg, Os, Ru and U in 76241, 76261 (< 1
+                               mm fraction).  Norris et al. (1983) determined C and   Meyer (1973) cataloged the 4 – 10 mm coarse-fine
+                                 N (and their isotopic compositions).    particles and Jolliff et al. (1996) studied numerous 2 –
+   4 mm coarse-fine particles from 76283.
+--- references block 4; lines 12-30 ---
+20                              Lunar Soils     76215).  Figure 4 shows the difference in chemical
+
+                  0
+                     0           20          40          60          80         100         120   composition between the soil and the boulder. Figure
+                                                5 presents the carbon content.                          maturity (Is/FeO)
+         Figure 5: Carbon content and maturity index for
+         shaded soil 76240 and reference soil 76260.          Volatiles
+                                             Von Guten et al. (1982) found excess Hg in shadowed
+                                                  sample 76240 compared with sunlit control sample   Sample 76215 is a breccia sample from the top of the
+                                                   76260.  Baedecker et al. (1974) and Morgan et al.   boulder that protects 76240.
+                                                      (1974) found excess Cd in the shadowed soil (76240),
+   Petrography                                  compared with the reference soil (76260). However,
+                                                     Jovanovic and Reed (1974) found the same amount of   76240 appears to be similar to reference soils 76260
+                                       Hg in 76240 as in 76260 (2 – 3 ppm).   and 76280 collected just outside the shadow.
+   Morris (1978) determined the maturity index of 76240,
+                                             Moore et al. (1974) a nd Gibson and Moore (1974)   76261 and 76281 as (Is/FeO =56, 58 and 45,
+                                               showed that 76240 had the same amount of sulfur as    respectively). The grain size distribution is shown in
+                                              76260 (~850 ppm).  Jovanovic and Reed (1974)    figures 7 and 8.
+                                                     determined Hg, Os, Ru and U in 76241, 76261 (< 1
+--- references block 5; lines 35-44 ---
+Figure 6: Natural thermolumenscence “glow curves” for three lunar soils with different
+                    radiation and thermal histories (Durrani et al. 1976). Frozen sample 76240 gives off more
+                       light (curve A) and starts at a lower temperature than the reference soil 76260 (curve B).
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 4; CATEGORIES: age,material,references ===
+--- material block 1; lines 1-39 ---
+Cosmogenic isotopes and exposure ages          Fruchter et al. (1981) suggest that cosmic-ray-activated
+   Keith et al. (1974) and Rancitelli et al. (1974)   material is eroded off the top of the boulder, finding
+    determined the cosmic ray induced activity of 76240    its way under the boulder – by gardening of the regolith.
+   and 76260 (table 3). There is surprisingly high activity
+    for 22Na and 56Co (both short half-lives) for 76240  Other Studies
+    (permanently shadowed soil sample) indicating that the  Durrani et al. (1976) found substantial release of natural
+   boulder was emplaced rather recently (< m.y.).  thermoluminescence on slow heating of 76240. The
+   However, Crozaz et al. (1974) and Arvidson et al.  sample used had been kept frozen following return to
+    (1975) give 22 m.y. as the time of emplacement of the   the Earth at the request of Durrani. A reference sunlit
+    station 6 boulder based on 81Kr exposure ages of   soil which had not been kept cold was found to release
+    boulder samples (76315, 76015, 76055). This creates   less light on heating (figure 6).  Durrani et al. used
+   an interesting dilemma !                                   their data to calculate the average temperature (256
+                                                         deg. K) and the duration of the shadow (~65, 000 yr.)!
+    Strangely, Keith et al. (1974) and Yokoyama et al.
+    (1975) found that 76240 was “saturated” with 22Na (41  Processing
+   dpm/kg) and the “26Al activity was considerably higher  A portion (20 G) of this shadowed sample was placed
+    that might be expected”.  Keith et al. offer two   in a freezer (~ January 30, 1973), but was removed on
+    explanations: “that the boulder rolled over this soil   or about January 1974 (CO#1637) to split a cold portion
+    recently or, more reasonably, that the filleting has been   for SADurrani (details are important). The sample was
+    the result of movement of material from the top few   delivered (cold) to Durrani March 22, 1974. The
+    millimeters of the regolith under the boulder as a result  remainder of the frozen sample has been in the freezer
+    of small meteorite bombardment”.                    ever since (no further processing). Other samples have
+                                                   been in sealed in cans and bags.
+
+
+
+
+
+            average grain size = 74 microns               average grain size = 67 microns
+
+
+
+
+
+         Figure 7: Grain size distribution for 76260 (Graf         Figure 8: Grain size distribution for 76280 (Graf
+         1993, data from McKay).                                1993, data from McKay).
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 2; lines 1-9 ---
+Cosmogenic isotopes and exposure ages          Fruchter et al. (1981) suggest that cosmic-ray-activated
+   Keith et al. (1974) and Rancitelli et al. (1974)   material is eroded off the top of the boulder, finding
+    determined the cosmic ray induced activity of 76240    its way under the boulder – by gardening of the regolith.
+   and 76260 (table 3). There is surprisingly high activity
+    for 22Na and 56Co (both short half-lives) for 76240  Other Studies
+    (permanently shadowed soil sample) indicating that the  Durrani et al. (1976) found substantial release of natural
+   boulder was emplaced rather recently (< m.y.).  thermoluminescence on slow heating of 76240. The
+   However, Crozaz et al. (1974) and Arvidson et al.  sample used had been kept frozen following return to
+    (1975) give 22 m.y. as the time of emplacement of the   the Earth at the request of Durrani. A reference sunlit
+--- references block 3; lines 3-15 ---
+determined the cosmic ray induced activity of 76240    its way under the boulder – by gardening of the regolith.
+   and 76260 (table 3). There is surprisingly high activity
+    for 22Na and 56Co (both short half-lives) for 76240  Other Studies
+    (permanently shadowed soil sample) indicating that the  Durrani et al. (1976) found substantial release of natural
+   boulder was emplaced rather recently (< m.y.).  thermoluminescence on slow heating of 76240. The
+   However, Crozaz et al. (1974) and Arvidson et al.  sample used had been kept frozen following return to
+    (1975) give 22 m.y. as the time of emplacement of the   the Earth at the request of Durrani. A reference sunlit
+    station 6 boulder based on 81Kr exposure ages of   soil which had not been kept cold was found to release
+    boulder samples (76315, 76015, 76055). This creates   less light on heating (figure 6).  Durrani et al. used
+   an interesting dilemma !                                   their data to calculate the average temperature (256
+                                                         deg. K) and the duration of the shadow (~65, 000 yr.)!
+    Strangely, Keith et al. (1974) and Yokoyama et al.
+    (1975) found that 76240 was “saturated” with 22Na (41  Processing
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 76240.
+                                                              76240  76261  76240  76261
+    reference  Baedecker74 Rhodes74  Morgan74 Korotev92          Keith74 Keith74 Rancitelli74
+    weight    shadowed soil
+   SiO2 %                 43.2    (c )
+    TiO2                    3.31    (c )
+   Al2O3                  17.85   (c )
+   FeO      12.35      (b) 10.92   (c )            10.4    10.3     (b)
+   MnO      0.16       (b) 0.16    (c )
+   MgO                    11.05   (c )
+   CaO                    11.97   (c )
+   Na2O     0.48       (b) 0.43    (c )           0.415   0.422   (b)
+   K2O                    0.12    (c )                               0.142   0.122   0.132   0.116   (e)
+   P2O5                   0.09    (c )
+   S %                    0.07    (c )
+   sum
+
+   Sc ppm   31         (b)                        29.3    27.6     (b)
+   V
+--- material block 2; lines 1-10 ---
+Table 1. Chemical composition of 76240.
+                                                              76240  76261  76240  76261
+    reference  Baedecker74 Rhodes74  Morgan74 Korotev92          Keith74 Keith74 Rancitelli74
+    weight    shadowed soil
+   SiO2 %                 43.2    (c )
+    TiO2                    3.31    (c )
+   Al2O3                  17.85   (c )
+   FeO      12.35      (b) 10.92   (c )            10.4    10.3     (b)
+   MnO      0.16       (b) 0.16    (c )
+   MgO                    11.05   (c )
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 76240.
+                                                              76240  76261  76240  76261
+    reference  Baedecker74 Rhodes74  Morgan74 Korotev92          Keith74 Keith74 Rancitelli74
+    weight    shadowed soil
+   SiO2 %                 43.2    (c )
+    TiO2                    3.31    (c )
+   Al2O3                  17.85   (c )
+   FeO      12.35      (b) 10.92   (c )            10.4    10.3     (b)
+   MnO      0.16       (b) 0.16    (c )
+--- references block 4; lines 64-73 ---
+Os ppb
+      Ir ppb     7.2         (a)             8.57   (a) 7.8     7.1      (b)
+    Pt ppb
+   Au ppb    3.3         (a)             3.81   (a) 4.6     2.6      (b)
+   Th ppm    2.7         (b)                        1.77    1.84     (b)  2.5     2.1     2.3     1.92    (e)
+   U ppm                              0.55   (a) 0.5     0.49     (b) 0.618   0.49    0.6     0.52    (e)
+    technique:  (a) RNAA, (b) INAA, (c ) XRF, (d) IDMS, (e) radiation count.
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 6; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 2. Chemical composition of 76260, 76280 and boulder.
+             76261 (control for 76240)                             76281 control                76215
+     reference  Baedecker74  Rhodes74  Morgan74  Korotev92        Rhodes74  Korotev 92        Simonds75
+     weight      sunlit soil                                                subsurface                    boulder
+    SiO2 %                 43.64   (c )                               43.56   (c )                   46.13    (c )
+    TiO2                    3.38    (c )                                3.83    (c )                    1.24     (c )
+    Al2O3                  17.96   (c )                                17.8    (c )                   18.73    (c )
+   FeO       11.1        (b) 10.93   (c )            10.4    10.7     (b) 11.26   (c ) 11      11.2    (b) 8.08     (c )
+   MnO      0.15        (b) 0.16    (c )                                0.16    (c )
+   MgO                    10.75   (c )                               10.55   (c )                   12.43    (c )
+   CaO                     12.11   (c )                               12.18   (c )                     11.5     (c )
+   Na2O     0.44        (b) 0.45    (c )            0.427   0.403   (b) 0.43    (c ) 0.388  0.399   (b)
+   K2O                     0.12    (c )                                 0.11    (c )                    0.24     (d)
+   P2O5                    0.11     (c )                                0.09    (c )                    0.24     (c )
+   S %                     0.07    (c )                                0.07    (c )                    0.07     (c )
+    sum
+
+    Sc ppm   30          (b)                         27.1    28.9     (b)            31.2    31.4    (b)
+   V
+--- material block 2; lines 1-10 ---
+Table 2. Chemical composition of 76260, 76280 and boulder.
+             76261 (control for 76240)                             76281 control                76215
+     reference  Baedecker74  Rhodes74  Morgan74  Korotev92        Rhodes74  Korotev 92        Simonds75
+     weight      sunlit soil                                                subsurface                    boulder
+    SiO2 %                 43.64   (c )                               43.56   (c )                   46.13    (c )
+    TiO2                    3.38    (c )                                3.83    (c )                    1.24     (c )
+    Al2O3                  17.96   (c )                                17.8    (c )                   18.73    (c )
+   FeO       11.1        (b) 10.93   (c )            10.4    10.7     (b) 11.26   (c ) 11      11.2    (b) 8.08     (c )
+   MnO      0.15        (b) 0.16    (c )                                0.16    (c )
+   MgO                    10.75   (c )                               10.55   (c )                   12.43    (c )
+--- references block 3; lines 1-9 ---
+Table 2. Chemical composition of 76260, 76280 and boulder.
+             76261 (control for 76240)                             76281 control                76215
+     reference  Baedecker74  Rhodes74  Morgan74  Korotev92        Rhodes74  Korotev 92        Simonds75
+     weight      sunlit soil                                                subsurface                    boulder
+    SiO2 %                 43.64   (c )                               43.56   (c )                   46.13    (c )
+    TiO2                    3.38    (c )                                3.83    (c )                    1.24     (c )
+    Al2O3                  17.96   (c )                                17.8    (c )                   18.73    (c )
+   FeO       11.1        (b) 10.93   (c )            10.4    10.7     (b) 11.26   (c ) 11      11.2    (b) 8.08     (c )
+   MnO      0.15        (b) 0.16    (c )                                0.16    (c )
+--- references block 4; lines 64-74 ---
+Os ppb
+       Ir ppb     7.1         (a)             6.46     (a) 10      5.5      (b)           7       7.1      (b) 0.809    (a)
+     Pt ppb
+    Au ppb    3.6         (a)             2.52     (a) 3.1     2.8      (b)             3.2     2.2      (b) 0.526    (a)
+    Th ppm                                         1.84    1.73     (b)            1.44    1.42    (b) 4.61     (d)
+   U ppm                               0.49     (a) 0.49    0.44     (b)            0.37    0.43    (b) 1.26     (d)
+     technique:  (a) RNAA, (b) INAA, (c ) XRF, (d) IDMS
+
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 7; CATEGORIES: treatment ===
+--- treatment block 1; lines 2-14 ---
+exposed to cabin air
+                      2006        490.54 g
+
+
+            76240                                   ~40 g
+               reserve                                                     split
+              450.7 g                                       sieved in N2
+
+                                                 76246   76245   76244   76243   76242  76241
+             ,1          ,2                            6.5 g    8.24 g   1.53 g   1.23 g    1.2 g   21.14 g
+          307 g    105 g
+
+            ,5         ,6        ,7        ,8        ,9       ,10     ,11      ,12        ,14      ,19     ,39      ,40
+
+=== PDF PAGE 8; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 27-39 ---
+200 g  15 g  15 g
+
+
+
+     References for 76240, 76260 and 76280                                                                        soils and cores.  Proc. 12th Lunar Planet. Sci. Conf. 567-
+     Baedecker P.A., Chou C.-L., Sundberg L.L. and Wasson                                                            575.
+       J.T. (1974) Volatile and sidrophilic trace elements in the
+       soils and rocks of Taurus-Littrow. Proc. 5th Lunar Sci. Conf.                                                       Gibson E.K. and Moore G.W. (1974)  Sulfur abundances
+     1625-1644.                                                       and distributions in the valley of Tarrus-Littrow. Proc. 5th
+                                                      Lunar Sci. Conf. 1823-1838.
+     Bogard D.D., Hirsch W.C. and Nyquist L.E. (1974) Noble
+     gases in Apollo 17 fines: Mass fractionation effects in                                                       Gibson E.K. and Andreas F.F. (1978) Nature of the gases
+     trapped Xe and Kr. Proc. 5th Lunar Sci. Conf. 1975-2003.                                                                 released from lunar rocks and soils upon crushing. Proc. 9th
+--- material block 2; lines 1-8 ---
+same bag         C             Meyer          76260                         76265 - 1.75 g           2010
+                      293 grams                          breccia
+                       < 1 mm
+
+      76260    76261             76262  76263  76264
+      97 g     171 g                8.6 g    6.6 g   8.8 g
+          reserve                                                       4 - 10 mm
+--- material block 3; lines 36-60 ---
+Lunar Sci. Conf. 1823-1838.
+     Bogard D.D., Hirsch W.C. and Nyquist L.E. (1974) Noble
+     gases in Apollo 17 fines: Mass fractionation effects in                                                       Gibson E.K. and Andreas F.F. (1978) Nature of the gases
+     trapped Xe and Kr. Proc. 5th Lunar Sci. Conf. 1975-2003.                                                                 released from lunar rocks and soils upon crushing. Proc. 9th
+                                                      Lunar Planet. Sci. Conf. 2, 2433-2450.
+      Butler P. (1973) Lunar Sample Information Catalog Apollo
+      17. Lunar Receiving Laboratory. MSC 03211 Curator’s                                                          Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+      Catalog. pp. 447.                                                           Reference Pub. 1265, March 1993
+
+     Crozaz G., Drozd R., Hohenberg C.M., Morgan C., Ralston                                                     von Guten H.R., Wegmuller F. and Krahenbuhl U. (1982)
+      C., Walker R.M. and Yuhas D.  (1974)  Lunar surface                                           Low temperature volatilization on the Moon.  Proc. 13th
+     dynamics: Some general conclusions and new results from                                                      Lunar Planet. Sci. Conf. J. Geophys. Res. 87, A279-A282.
+     Apollo 16 and 17. Proc. 5th Lunar Sci. Conf. 2475-2500.
+                                                       Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+     Durrani S.A., Kazal K.A.R. and Ali A. (1976) Temperature
+     and duration of some Apollo 17 boulder shadows. Proc.                                                       Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+       7th Lunar Sci. Conf. 1157-1177.                                                       Space Phys. 13, 567-587.
+
+      Fruchter J.S., Reeves J.H., Evans J.C. and Perkins R.W.                                                        Heiken G.H. and McKay D.S. (1974) Petrography of Apollo
+     (1981)  Studies of lunar regolith dynamics using                                                     17 soils. Proc. 5th Lunar Sci. Conf. 843-860
+     measurements of cosmogenic radionuclides in lunar rocks,
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- references block 4; lines 25-49 ---
+,0      ,12    ,13
+                       200 g  15 g  15 g
+
+
+
+     References for 76240, 76260 and 76280                                                                        soils and cores.  Proc. 12th Lunar Planet. Sci. Conf. 567-
+     Baedecker P.A., Chou C.-L., Sundberg L.L. and Wasson                                                            575.
+       J.T. (1974) Volatile and sidrophilic trace elements in the
+       soils and rocks of Taurus-Littrow. Proc. 5th Lunar Sci. Conf.                                                       Gibson E.K. and Moore G.W. (1974)  Sulfur abundances
+     1625-1644.                                                       and distributions in the valley of Tarrus-Littrow. Proc. 5th
+                                                      Lunar Sci. Conf. 1823-1838.
+     Bogard D.D., Hirsch W.C. and Nyquist L.E. (1974) Noble
+     gases in Apollo 17 fines: Mass fractionation effects in                                                       Gibson E.K. and Andreas F.F. (1978) Nature of the gases
+     trapped Xe and Kr. Proc. 5th Lunar Sci. Conf. 1975-2003.                                                                 released from lunar rocks and soils upon crushing. Proc. 9th
+                                                      Lunar Planet. Sci. Conf. 2, 2433-2450.
+      Butler P. (1973) Lunar Sample Information Catalog Apollo
+      17. Lunar Receiving Laboratory. MSC 03211 Curator’s                                                          Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+      Catalog. pp. 447.                                                           Reference Pub. 1265, March 1993
+
+     Crozaz G., Drozd R., Hohenberg C.M., Morgan C., Ralston                                                     von Guten H.R., Wegmuller F. and Krahenbuhl U. (1982)
+      C., Walker R.M. and Yuhas D.  (1974)  Lunar surface                                           Low temperature volatilization on the Moon.  Proc. 13th
+     dynamics: Some general conclusions and new results from                                                      Lunar Planet. Sci. Conf. J. Geophys. Res. 87, A279-A282.
+     Apollo 16 and 17. Proc. 5th Lunar Sci. Conf. 2475-2500.
+                                                       Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+
+=== PDF PAGE 9; CATEGORIES: age,chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 42-54 ---
+Morris R.V. (1976) Surface exposure indicies of lunar soils:
+  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-
+    335.
+
+   Morris R.V. (1978) The surface exposure (maturity) of lunar
+    soils: Some concepts and Is/FeO compilation.  Proc. 9th
+   Lunar Sci. Conf. 2287-2298.
+
+   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+    Office, Houston
+--- mineralogy block 2; lines 1-11 ---
+Keith J.E., Clark R.S. and Bennett L.J. (1974) Determination   carbon and nitrogen components in lunar samples and
+    of natural and cosmic ray induced radionuclides in Apollo   breccias. Proc. 14th Lunar Planet. Sci. Conf. B200-B210.
+   17 lunar samples. Proc. 5th Lunar Sci. Conf. 2121-2138.
+                                                          Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+   Korotev R.L. and Kremser D.T. (1992)  Compositional   regolith: Chemistry, Mineralogy and Petrology.  Rev.
+    variations in Apollo 17 soils and their relationship to the   Geophys. Space Phys. 20, 761-826.
+   geology of the Taurus-Littrow site. Proc. 22nd Lunar Planet.
+    Sci. Conf. 275-301.                                      Pearce G.W. and Chou C.-L. (1976) Relationships between
+                                                                 siderophile elements and metallic iron contents of Apollo
+   LSPET (1973a) Apollo 17 lunar samples : Chemical and  16 and 17 lunar soils (abs). Lunar Sci. VII, 673-675.
+    petrographic description. Science 182, 659-690.
+--- material block 3; lines 1-33 ---
+Keith J.E., Clark R.S. and Bennett L.J. (1974) Determination   carbon and nitrogen components in lunar samples and
+    of natural and cosmic ray induced radionuclides in Apollo   breccias. Proc. 14th Lunar Planet. Sci. Conf. B200-B210.
+   17 lunar samples. Proc. 5th Lunar Sci. Conf. 2121-2138.
+                                                          Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+   Korotev R.L. and Kremser D.T. (1992)  Compositional   regolith: Chemistry, Mineralogy and Petrology.  Rev.
+    variations in Apollo 17 soils and their relationship to the   Geophys. Space Phys. 20, 761-826.
+   geology of the Taurus-Littrow site. Proc. 22nd Lunar Planet.
+    Sci. Conf. 275-301.                                      Pearce G.W. and Chou C.-L. (1976) Relationships between
+                                                                 siderophile elements and metallic iron contents of Apollo
+   LSPET (1973a) Apollo 17 lunar samples : Chemical and  16 and 17 lunar soils (abs). Lunar Sci. VII, 673-675.
+    petrographic description. Science 182, 659-690.
+                                                                    Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+   LSPET (1973) Preliminary examination of lunar samples.   (1974) Solar flare and lunar surface process characterization
+   Apollo 17 Preliminary Sci. Report. NASA SP-330. 7-1.      at the Apollo 17 site. Proc. 5th Lunar Sci. Conf. 2185-2204.
+
+   McKay D.S., Fruland R.M. and Heiken G.H. (1974) Grain  Rhodes J.M., Rodgers K.V., Shih C.-Y., Bansal B.M.,
+    size and the evolution of lunar soils. Proc. 5th Lunar Sci.   Nyquist L.E., Wiesmann H. and Hubbard N.J. (1974) The
+    Conf. 887-906.                                              relationships between geology and soil chemistry at the
+                                                         Apollo 17 landing site.  Proc. 5th Lunar Sci. Conf. 1097-
+   Meyer C. (1973) Apollo 17 Coarse Fines (4-10 mm) Sample   1118.
+    Location, Classification and Photo Index. Curator Report.
+    pp. 182.                                               Schonfeld E. (1974) The contamination of lunar highland
+                                                             rocks by KREEP: Interpretations by mixing models. Proc.
+    Mitchell J.K., Carrier W.D., Costes N.C., Houston W.N.,    5th Lunar Sci. Conf. 1269-1286.
+    Scott R.F. and Hovland H.J. (1973) 8. Soil-Mechanics. In
+   Apollo 17 Preliminary Science Rpt. NASA SP-330. pages   Silver L.T. (1974)  Patterns of U-Th-Pb distributions and
+    8-1-22.                                                     isotope relations in Apollo 17 soil (abs). Lunar Sci. V, 706-
+                                                            708.
+   Moore C.B., Lewis C.F. and Cripe J.D. (1974) Total carbon
+   and sulfur contents of Apollo 17 lunar samples. Proc. 5th   Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+   Lunar Sci. Conf. 1897-1906.                               Scott D.H., Sutton R.L. and Wilshire H.G. (1981) The
+                                                             geologic investigation of the Taurus-Littrow Valley: Apollo
+   Moore C.B., Lewis C.F., Cripe J.D. and Volk M. (1974b)  17 landing site. USGS Prof. Paper 1080.
+--- age block 4; lines 1-8 ---
+Keith J.E., Clark R.S. and Bennett L.J. (1974) Determination   carbon and nitrogen components in lunar samples and
+    of natural and cosmic ray induced radionuclides in Apollo   breccias. Proc. 14th Lunar Planet. Sci. Conf. B200-B210.
+   17 lunar samples. Proc. 5th Lunar Sci. Conf. 2121-2138.
+                                                          Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+   Korotev R.L. and Kremser D.T. (1992)  Compositional   regolith: Chemistry, Mineralogy and Petrology.  Rev.
+    variations in Apollo 17 soils and their relationship to the   Geophys. Space Phys. 20, 761-826.
+   geology of the Taurus-Littrow site. Proc. 22nd Lunar Planet.
+    Sci. Conf. 275-301.                                      Pearce G.W. and Chou C.-L. (1976) Relationships between
+--- treatment block 5; lines 41-53 ---
+Apollo 17 boulders. Proc. 5th Lunar Sci. Conf. 1703-1736.
+
+   Morris R.V. (1976) Surface exposure indicies of lunar soils:
+  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-
+    335.
+
+   Morris R.V. (1978) The surface exposure (maturity) of lunar
+    soils: Some concepts and Is/FeO compilation.  Proc. 9th
+   Lunar Sci. Conf. 2287-2298.
+
+   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+    Office, Houston

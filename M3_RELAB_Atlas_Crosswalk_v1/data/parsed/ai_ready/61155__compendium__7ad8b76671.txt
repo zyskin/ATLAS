@@ -1,0 +1,111 @@
+DOCUMENT_ID: 61155__compendium__7ad8b76671
+ATLAS_SAMPLE_IDS: 61155
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61155.pdf
+SOURCE_PDF_SHA256: 8b977989fc767cb5c6669bf19e2aad6f79dc6a2e309290ec6b5e1796f1638366
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 19-31 ---
+section on 61500.  It has patiana and micrometeorite                         61155
+    pits on the surface (figure 1).
+
+   Petrography
+   Ryder and Norman (1980) described 61155 as a clast-
+    rich “glassy impact melt”. It has abundant white clasts,
+    thin glass veins and glassy mesostasis (figure 2).
+
+   Chemistry
+   The only analysis of 61155 is by Eldridge et al. (1973).
+
+   Cosmogenic isotopes and exposure ages
+   Eldridge et al. (1973) determined the cosmic-ray-
+--- material block 2; lines 1-8 ---
+61155
+                                      Clast-rich Breccia
+                                            47.6 grams
+--- material block 3; lines 17-30 ---
+Introduction
+   61155 was collected near Plum Crater (figure 2) – see
+    section on 61500.  It has patiana and micrometeorite                         61155
+    pits on the surface (figure 1).
+
+   Petrography
+   Ryder and Norman (1980) described 61155 as a clast-
+    rich “glassy impact melt”. It has abundant white clasts,
+    thin glass veins and glassy mesostasis (figure 2).
+
+   Chemistry
+   The only analysis of 61155 is by Eldridge et al. (1973).
+
+   Cosmogenic isotopes and exposure ages
+--- age block 4; lines 25-37 ---
+thin glass veins and glassy mesostasis (figure 2).
+
+   Chemistry
+   The only analysis of 61155 is by Eldridge et al. (1973).
+
+   Cosmogenic isotopes and exposure ages
+   Eldridge et al. (1973) determined the cosmic-ray-
+   induced activity of 61155 for 22Na = 61 dpm/kg. and
+    26Al = 178 dpm/kg.
+                                                            Figure 3: Map of region around Plum Crater, Apollo 16.
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 61155.
+
+    reference  Eldridge73                                 References for 61155
+    weight                                                      Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   SiO2 %
+    TiO2                                                       16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   Al2O3                                                     Catalog. pp. 370.
+   FeO
+   MnO                                              Drozd R.J., Hohenberg C.M., Morgan C.J. and Ralston C.E.
+   MgO
+   CaO                                                    (1974) Cosmic-ray exposure history at the Apollo 16 and
+   Na2O                                                   other lunar sites: lunar surface dynamics.  Geochim.
+   K2O      0.053   (a)                                 Cosmochim. Acta 38, 1625-1642.
+   P2O5
+   S %
+   sum                                                     Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1973)
+                                                          Radionuclide concentrations in Apollo 16 lunar samples
+   Sc ppm                                                determined by nondestructive gamma-ray spectrometry.
+   V                                                        Proc. 4th Lunar Sci. Conf. 2115-2122.
+--- age block 2; lines 5-17 ---
+SiO2 %
+    TiO2                                                       16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   Al2O3                                                     Catalog. pp. 370.
+   FeO
+   MnO                                              Drozd R.J., Hohenberg C.M., Morgan C.J. and Ralston C.E.
+   MgO
+   CaO                                                    (1974) Cosmic-ray exposure history at the Apollo 16 and
+   Na2O                                                   other lunar sites: lunar surface dynamics.  Geochim.
+   K2O      0.053   (a)                                 Cosmochim. Acta 38, 1625-1642.
+   P2O5
+   S %
+   sum                                                     Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1973)
+                                                          Radionuclide concentrations in Apollo 16 lunar samples
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 61155.
+
+    reference  Eldridge73                                 References for 61155
+    weight                                                      Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   SiO2 %
+    TiO2                                                       16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   Al2O3                                                     Catalog. pp. 370.
+   FeO
+   MnO                                              Drozd R.J., Hohenberg C.M., Morgan C.J. and Ralston C.E.
+--- references block 4; lines 64-73 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm    1.12     (a)
+   U ppm     0.31     (a)
+    technique  (a) Radiation Count.
+
+Lunar Sample Compendium
+C Meyer 2012

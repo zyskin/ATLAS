@@ -1,0 +1,206 @@
+DOCUMENT_ID: 72135__compendium__03fe24737d
+ATLAS_SAMPLE_IDS: 72135
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72135.pdf
+SOURCE_PDF_SHA256: 1eb85517430f6535cc90a01442cb7c4ee992b752cc05e8805a09510efb5a8377
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+72135
+                               Olivine Basalt Breccia
+                                       337 grams
+--- material block 2; lines 1-8 ---
+72135
+                               Olivine Basalt Breccia
+                                       337 grams
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Introduction   Table 1. Chemical composition of 72135
+                                                 Wolfe et al. (1981) termed 72135 an olivine basalt
+     reference  Green75                                           cataclasite, while Neal and Taylor (1993) called it a
+     weight                                                microbreccia.  It was collected from the mare surface
+    SiO2 %    38.9       (a)
+    TiO2      12.3       (a)                                 along the traverse to the South Massif (figure 2). Green
+    Al2O3     9.12       (a)                               (1975) inferred that 72135 was a welded tuff or
+   FeO       20.1       (a)                                  volcanic breccia perhaps due to lava fountaining.
+   MnO      0.24       (a)
+   MgO      7.51       (a)
+   CaO      11.09      (a)                           Petrography
+   Na2O     0.3        (a)
+   K2O      0.08       (a)                              Green et al. (1975) described 72135 as a monomict
+   P2O5                                                      basaltic breccia in which individual fragments range
+   S %                                           from fine-grained, quenched basalt to spheres and
+    sum
+                                                          irregular shards of orange glass.  The texture is
+    Sc ppm                                                       variolitic with a groundmass of quenched pyroxene,
+   V                                                    ilmenite and plagioclase.   Patches up to 3.5 mm    Cr       2531      (a)
+--- mineralogy block 2; lines 1-8 ---
+Introduction   Table 1. Chemical composition of 72135
+                                                 Wolfe et al. (1981) termed 72135 an olivine basalt
+     reference  Green75                                           cataclasite, while Neal and Taylor (1993) called it a
+     weight                                                microbreccia.  It was collected from the mare surface
+    SiO2 %    38.9       (a)
+    TiO2      12.3       (a)                                 along the traverse to the South Massif (figure 2). Green
+    Al2O3     9.12       (a)                               (1975) inferred that 72135 was a welded tuff or
+   FeO       20.1       (a)                                  volcanic breccia perhaps due to lava fountaining.
+--- mineralogy block 3; lines 11-33 ---
+CaO      11.09      (a)                           Petrography
+   Na2O     0.3        (a)
+   K2O      0.08       (a)                              Green et al. (1975) described 72135 as a monomict
+   P2O5                                                      basaltic breccia in which individual fragments range
+   S %                                           from fine-grained, quenched basalt to spheres and
+    sum
+                                                          irregular shards of orange glass.  The texture is
+    Sc ppm                                                       variolitic with a groundmass of quenched pyroxene,
+   V                                                    ilmenite and plagioclase.   Patches up to 3.5 mm    Cr       2531      (a)
+   Co                                                   containing coarser pyroxene are scattered though the
+     Ni                                                rock.   Ilmenite  and  skeletal  olivine  form
+   Cu
+    Zn                                                  microphenocrysts.
+   Ga
+   Ge ppb                                     Chemistry    As
+    Se                                            Green et al. (1975) reported an analysis of 72135 by
+   Rb                                                      electron probe of 18 glass fragments from 72135 (table
+    Sr
+   Y                                                             1).
+     Zr
+   Nb                                         Moore and Lewis (1976) reported 12 ppm carbon and
+   Mo
+   Ru                                           49 ppm nitrogen.
+--- mineralogy block 4; lines 60-69 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm
+   U ppm
+     technique:  (a) average of glass analyses by e probe
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 5; lines 1-27 ---
+Introduction   Table 1. Chemical composition of 72135
+                                                 Wolfe et al. (1981) termed 72135 an olivine basalt
+     reference  Green75                                           cataclasite, while Neal and Taylor (1993) called it a
+     weight                                                microbreccia.  It was collected from the mare surface
+    SiO2 %    38.9       (a)
+    TiO2      12.3       (a)                                 along the traverse to the South Massif (figure 2). Green
+    Al2O3     9.12       (a)                               (1975) inferred that 72135 was a welded tuff or
+   FeO       20.1       (a)                                  volcanic breccia perhaps due to lava fountaining.
+   MnO      0.24       (a)
+   MgO      7.51       (a)
+   CaO      11.09      (a)                           Petrography
+   Na2O     0.3        (a)
+   K2O      0.08       (a)                              Green et al. (1975) described 72135 as a monomict
+   P2O5                                                      basaltic breccia in which individual fragments range
+   S %                                           from fine-grained, quenched basalt to spheres and
+    sum
+                                                          irregular shards of orange glass.  The texture is
+    Sc ppm                                                       variolitic with a groundmass of quenched pyroxene,
+   V                                                    ilmenite and plagioclase.   Patches up to 3.5 mm    Cr       2531      (a)
+   Co                                                   containing coarser pyroxene are scattered though the
+     Ni                                                rock.   Ilmenite  and  skeletal  olivine  form
+   Cu
+    Zn                                                  microphenocrysts.
+   Ga
+   Ge ppb                                     Chemistry    As
+    Se                                            Green et al. (1975) reported an analysis of 72135 by
+   Rb                                                      electron probe of 18 glass fragments from 72135 (table
+--- material block 6; lines 31-52 ---
+Nb                                         Moore and Lewis (1976) reported 12 ppm carbon and
+   Mo
+   Ru                                           49 ppm nitrogen.
+   Rh
+    Pd ppb                                    Other Studies    Ag ppb
+   Cd ppb                                      Numerous experimental studies were based on the
+     In ppb                                             composition of this rock (Green et al. 1975; O’Hara
+    Sn ppb
+    Sb ppb                                          and Humphries 1975; Longhi et al. 1978).
+    Te ppb
+    Cs ppm                                         Processing    Ba
+    La                                           72135 was collected along with a large soil sample
+   Ce                                               (72130-72134) and returned in the same bag (26E).
+    Pr
+   Nd
+   Sm                                              There are 13 thin sections of this ugly rock.
+    Eu
+   Gd
+    Tb
+    Dy
+   Ho
+    Er
+--- references block 7; lines 1-9 ---
+Introduction   Table 1. Chemical composition of 72135
+                                                 Wolfe et al. (1981) termed 72135 an olivine basalt
+     reference  Green75                                           cataclasite, while Neal and Taylor (1993) called it a
+     weight                                                microbreccia.  It was collected from the mare surface
+    SiO2 %    38.9       (a)
+    TiO2      12.3       (a)                                 along the traverse to the South Massif (figure 2). Green
+    Al2O3     9.12       (a)                               (1975) inferred that 72135 was a welded tuff or
+   FeO       20.1       (a)                                  volcanic breccia perhaps due to lava fountaining.
+   MnO      0.24       (a)
+--- references block 8; lines 60-69 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm
+   U ppm
+     technique:  (a) average of glass analyses by e probe
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: age,mineralogy,references ===
+--- mineralogy block 1; lines 10-22 ---
+,14                         ,46   ,49            TS                 TS  TS
+
+   References for 72135
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and  O’Hara M.J. and Humphries D.J. (1975)  Armalcolite
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   crystallization, phenocryst assemblages, eruption conditions
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.          and origin of eleven high titanium basalts from Taurus
+                                                             Littrow (abs). Lunar Sci. VI, 619-621. Lunar Planetary
+    Butler P. (1973) Lunar Sample Information Catalog   Institute, Houston.
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+    Curator’s Catalog. pp. 447.                           O’Hara M.J. and Humphries D.J. (1977)  Gravitational
+                                                             separation of quenching crystals: a cause of chemical
+--- mineralogy block 2; lines 27-39 ---
+Green D.H., Ringwood A.E., Ware N.G. and Hibberson W.O.   Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+   (1975b) Experimental petrology and petrogenesis of Apollo   geologic investigation of the Taurus-Littrow Valley: Apollo
+   17 mare basalts (abs).  Lunar Sci. VI, 311-313.  Lunar  17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+    Planetary Institute, Houston.                              280.
+
+   Longhi J., Walker D. and Hays J.F. (1978) The distribution
+    of Fe and Mg between olivine and lunar basaltic liquids.
+   Geochim. Cosmochim. Acta 42, 1545-1558.
+
+   LSPET (1973)  Apollo 17 lunar samples: Chemical and
+    petrographic description. Science 182, 659-672.
+
+   LSPET (1973) Preliminary Examination of lunar samples.
+--- age block 3; lines 10-22 ---
+,14                         ,46   ,49            TS                 TS  TS
+
+   References for 72135
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and  O’Hara M.J. and Humphries D.J. (1975)  Armalcolite
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   crystallization, phenocryst assemblages, eruption conditions
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.          and origin of eleven high titanium basalts from Taurus
+                                                             Littrow (abs). Lunar Sci. VI, 619-621. Lunar Planetary
+    Butler P. (1973) Lunar Sample Information Catalog   Institute, Houston.
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+    Curator’s Catalog. pp. 447.                           O’Hara M.J. and Humphries D.J. (1977)  Gravitational
+                                                             separation of quenching crystals: a cause of chemical
+--- references block 4; lines 8-20 ---
+,11                         ,40   ,47
+
+
+                 ,14                         ,46   ,49            TS                 TS  TS
+
+   References for 72135
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and  O’Hara M.J. and Humphries D.J. (1975)  Armalcolite
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   crystallization, phenocryst assemblages, eruption conditions
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.          and origin of eleven high titanium basalts from Taurus
+                                                             Littrow (abs). Lunar Sci. VI, 619-621. Lunar Planetary
+    Butler P. (1973) Lunar Sample Information Catalog   Institute, Houston.
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211

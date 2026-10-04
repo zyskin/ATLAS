@@ -1,0 +1,195 @@
+DOCUMENT_ID: 61536__compendium__005666384a
+ATLAS_SAMPLE_IDS: 61536
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61536.pdf
+SOURCE_PDF_SHA256: b2757b10149b670b68fd91ef3ea3fc9dffb7bccb41f704c7aeb0e69bb75e8908
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 23-34 ---
+It has a thin glass coating on surface. This sample is
+   not well studied.                             Chemistry
+                                        McKay et al. (1986) determined the composition.
+   Petrography
+   Ryder and Norman (1980) described the sample.  Other Studies
+  McKay et al. (1986) and Joy et al. (2012) reported the  McKay et al. (1986) and Joy et al. (2012) reported rare
+   maturity index Is/FeO = 9 (immature) for 61536.       gas content of the matrix finding excess 40Ar.
+
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- mineralogy block 2; lines 1-8 ---
+61536
+                                Glass Matrix Breccia
+                                        86 grams
+--- mineralogy block 3; lines 15-29 ---
+Figure 2: Photo of 61536 with granoblastic anorthosite
+                                     clast. Cube is 1 cm. S72-42298
+
+
+   Introduction                                     Significant Clast:
+   61536 was collected as a rake sample from near Plum  According to Ryder and Norman (1980), the large white
+   Crater (figure 2) – see section on 61500.  It contains a   clast is granoblastic anorthosite with 85% plagioclase.
+    large white clast held within a glass matrix (figure 1).  Many grains in this clast meet in triple junctions.
+     It has a thin glass coating on surface. This sample is
+   not well studied.                             Chemistry
+                                        McKay et al. (1986) determined the composition.
+   Petrography
+   Ryder and Norman (1980) described the sample.  Other Studies
+  McKay et al. (1986) and Joy et al. (2012) reported the  McKay et al. (1986) and Joy et al. (2012) reported rare
+   maturity index Is/FeO = 9 (immature) for 61536.       gas content of the matrix finding excess 40Ar.
+--- material block 4; lines 1-34 ---
+61536
+                                Glass Matrix Breccia
+                                        86 grams
+
+
+
+
+
+                         Figure 1: Photo of 61536. Cube is 1 cm. S72-43397
+
+
+
+
+
+                             Figure 2: Photo of 61536 with granoblastic anorthosite
+                                     clast. Cube is 1 cm. S72-42298
+
+
+   Introduction                                     Significant Clast:
+   61536 was collected as a rake sample from near Plum  According to Ryder and Norman (1980), the large white
+   Crater (figure 2) – see section on 61500.  It contains a   clast is granoblastic anorthosite with 85% plagioclase.
+    large white clast held within a glass matrix (figure 1).  Many grains in this clast meet in triple junctions.
+     It has a thin glass coating on surface. This sample is
+   not well studied.                             Chemistry
+                                        McKay et al. (1986) determined the composition.
+   Petrography
+   Ryder and Norman (1980) described the sample.  Other Studies
+  McKay et al. (1986) and Joy et al. (2012) reported the  McKay et al. (1986) and Joy et al. (2012) reported rare
+   maturity index Is/FeO = 9 (immature) for 61536.       gas content of the matrix finding excess 40Ar.
+
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- treatment block 5; lines 23-34 ---
+It has a thin glass coating on surface. This sample is
+   not well studied.                             Chemistry
+                                        McKay et al. (1986) determined the composition.
+   Petrography
+   Ryder and Norman (1980) described the sample.  Other Studies
+  McKay et al. (1986) and Joy et al. (2012) reported the  McKay et al. (1986) and Joy et al. (2012) reported rare
+   maturity index Is/FeO = 9 (immature) for 61536.       gas content of the matrix finding excess 40Ar.
+
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 2; CATEGORIES: material ===
+--- material block 1; lines 1-23 ---
+Figure 3: Photomicrograph of thin section of 61536.
+
+
+
+
+   Processing
+   The large white clast was designated ,2 and there are
+   two thin sections.
+
+
+               C Meyer    61536
+                   2012      86 grams
+
+             ,0          ,2               ,5TS     ,8                          white
+           85.5 g
+
+                                                     matrix
+                          ,3          ,4        McKay
+                PB     PB
+
+
+                              ,6           ,7
+                   TS       TS
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 61536
+
+
+    reference McKay86
+    weight                                            References for 61536
+   SiO2 %                                                     Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    TiO2      0.51     (a)
+   Al2O3     27.6     (a)                                       16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   FeO      4.47     (a)                                       Catalog. pp. 370.
+   MnO      0.07     (a)
+   MgO      4.9       (a)                                   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   CaO      16.7     (a)
+   Na2O     0.53     (a)                                          in Apollo 16 highland rocks: Manifestations of volatile-
+   K2O                                                   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   P2O5                                                   259.
+   S %
+   sum
+                                                       Joy K.H., Kring D.A., Bogard D.D., McKay D.S. and
+   Sc ppm   7.82     (a)                                    Zolensky M.E. (2012) Re-examination of the formation ages
+   V        16       (a)                                       of the Apollo 16 regolith breccias. Geochem. Cosmochim.
+--- material block 2; lines 14-47 ---
+K2O                                                   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   P2O5                                                   259.
+   S %
+   sum
+                                                       Joy K.H., Kring D.A., Bogard D.D., McKay D.S. and
+   Sc ppm   7.82     (a)                                    Zolensky M.E. (2012) Re-examination of the formation ages
+   V        16       (a)                                       of the Apollo 16 regolith breccias. Geochem. Cosmochim.
+    Cr       563      (a)                                    Acta doi: 10.1016
+   Co        21.6     (a)
+    Ni       260      (a)
+   Cu                                        LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   Zn                                                 and chemical description. Science 179, 23-34.
+   Ga
+   Ge ppb
+   As                                        LSPET (1972c) Preliminary examination of lunar samples.
+   Se                                                         In Apollo 16 Preliminary Science Report. NASA SP-315,
+   Rb                                                7-1—7-58.
+    Sr       186      (a)
+   Y
+    Zr       160      (a)                           McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+   Nb                                                  Johnson P. and Wentworth S.J. (1986) Apollo 16 regolith
+   Mo                                                            breccias: Characterization and evidence for early formation
+   Ru                                                             in the megaregolith. Proc. 16th Lunar Planet. Sci. Conf. in
+   Rh
+   Pd ppb                                                                     J. Geophys. Res. 91, D277-D303.
+   Ag ppb
+   Cd ppb                                                Phinney W. and Lofgren G. (1973) Description, classification
+     In ppb                                               and inventory of Apollo 16 rake samples from stations 1, 4
+   Sn ppb
+   Sb ppb                                              and 13. Curators Office.
+    Te ppb
+   Cs ppm   0.09     (a)                                  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Ba       114      (a)                                      rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   La       10       (a)
+--- references block 3; lines 1-11 ---
+Table 1. Chemical composition of 61536
+
+
+    reference McKay86
+    weight                                            References for 61536
+   SiO2 %                                                     Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    TiO2      0.51     (a)
+   Al2O3     27.6     (a)                                       16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   FeO      4.47     (a)                                       Catalog. pp. 370.
+   MnO      0.07     (a)
+   MgO      4.9       (a)                                   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+--- references block 4; lines 65-74 ---
+Os ppb
+      Ir ppb     9.8       (a)
+    Pt ppb
+   Au ppb    4.4       (a)
+   Th ppm   1.7       (a)
+   U ppm    0.5       (a)
+    technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2012

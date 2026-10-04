@@ -1,0 +1,217 @@
+DOCUMENT_ID: 70185__compendium__24cdfda305
+ATLAS_SAMPLE_IDS: 70185
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/70185.pdf
+SOURCE_PDF_SHA256: d1feb01909eeb0814cfe7d9e0d7718d2afedea0fa05350605a036d68cd512023
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+70185
+                                     Ilmenite Basalt
+                                           466.6 grams
+--- mineralogy block 2; lines 22-35 ---
+2 and 3).
+                                                            pattern is typical of Apollo 17 basalts (figure 7).
+
+   70185 has not been well studied and has not been dated.
+                                              Radiogenic age dating
+                                               Nyquist et al. (1976) determined the isotopic   Petrography
+                                                 composition of Sr, but did not report an age.   70185 is a granular pyroxene-plagioclase rock with
+                                                      Apollo 17 mare basalts are generally considered 3.72     little olivine and abundant ilmenite. Brown et al. (1975)
+                                            ± 0.04 b.y. old (see Paces et al. 1991).   give the mineralogic mode (with rather high ilmenite
+   abundance). The average grain size is about 0.8 mm
+    (figure 4). Mineral chemistry has not been reported.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-35 ---
+70185
+                                     Ilmenite Basalt
+                                           466.6 grams
+
+
+
+
+
+          Figure 1: Photo of top, zap pitted surface of 70185. NASA S73-15874. Cube is 1 cm. Note the smooth,
+          rounded exterior surface due to micrometeorite erosion.
+
+   Introduction
+   70185 was collected from the regolith near the deep                                            Chemistry
+    drill site at the Apollo 17 ALSEP station. It is a coarse-
+                                              The chemical analyses of 70185 are not in agreement,
+   grained high-Ti mare basalt (figure 1).   It has
+                                                       perhaps because only small portions were analyzed and
+   micrometeorite craters on all sides and has regions
+                                                                                      it is coarse-grained. However, it has less Ti than the
+   where there are numerous interconnecting vugs (figure
+                                                        majority of Apollo 17 basalts (figure 5). The REE
+   2 and 3).
+                                                            pattern is typical of Apollo 17 basalts (figure 7).
+
+   70185 has not been well studied and has not been dated.
+                                              Radiogenic age dating
+                                               Nyquist et al. (1976) determined the isotopic   Petrography
+                                                 composition of Sr, but did not report an age.   70185 is a granular pyroxene-plagioclase rock with
+                                                      Apollo 17 mare basalts are generally considered 3.72     little olivine and abundant ilmenite. Brown et al. (1975)
+                                            ± 0.04 b.y. old (see Paces et al. 1991).   give the mineralogic mode (with rather high ilmenite
+   abundance). The average grain size is about 0.8 mm
+    (figure 4). Mineral chemistry has not been reported.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 4; lines 19-34 ---
+it is coarse-grained. However, it has less Ti than the
+   where there are numerous interconnecting vugs (figure
+                                                        majority of Apollo 17 basalts (figure 5). The REE
+   2 and 3).
+                                                            pattern is typical of Apollo 17 basalts (figure 7).
+
+   70185 has not been well studied and has not been dated.
+                                              Radiogenic age dating
+                                               Nyquist et al. (1976) determined the isotopic   Petrography
+                                                 composition of Sr, but did not report an age.   70185 is a granular pyroxene-plagioclase rock with
+                                                      Apollo 17 mare basalts are generally considered 3.72     little olivine and abundant ilmenite. Brown et al. (1975)
+                                            ± 0.04 b.y. old (see Paces et al. 1991).   give the mineralogic mode (with rather high ilmenite
+   abundance). The average grain size is about 0.8 mm
+    (figure 4). Mineral chemistry has not been reported.
+
+Lunar Sample Compendium
+
+=== PDF PAGE 2; CATEGORIES: age,mineralogy ===
+--- mineralogy block 1; lines 1-12 ---
+Mineralogical Mode for 70185
+                                                                                  Brown et
+                                                                                                                                         al. 1975
+                                                                                     Olivine            0.4
+                                                                             Pyroxene         47.6
+                                                                                        Plagioclase       24
+                                                                        Opaques          23.9
+                                                                                                Silica             4.1
+                                                                                  Mesotasis            -
+
+
+                                           Cosmogenic isotopes and exposure ages
+--- age block 2; lines 8-22 ---
+Silica             4.1
+                                                                                  Mesotasis            -
+
+
+                                           Cosmogenic isotopes and exposure ages
+                                                Drozd et al. (1977) found that 70185 had a 81Kr = 113
+                                                        m.y. exposure age.
+
+                                                   O’Kelley et al. (1974) determined the cosmic-ray-
+                                                     induced activity of 22Na = 50 dpm/kg., 26Al = 70 dpm/
+                                                                kg., 46Sc = 47 dpm/kg., 54Mn = 95 dpm/kg and 56Co =
+                                                105 dpm/kg.
+
+                                                 Processing
+                                                    There are 4 thin section of 70185.
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-25 ---
+Table 1. Chemical composition of 70185.                     Lunar Basalts
+                                                                                                14
+    reference  Warner 75  Eldridge74  Rhodes76                                                       A17
+    weight                            Nyquist76                                 12
+   SiO2 %                           40.18  (c )                                               A11
+                                                                                                10                       70185
+    TiO2       9.6      (a)             11.52   (c )
+   Al2O3     10.2     (a)             9.04    (c )
+                                                                                                     8
+   FeO       18.9     (a)             17.64  (c )            TiO2
+   MnO      0.237   (a)             0.26    (c )                                  6
+   MgO       8.1      (a)              8.11    (c )
+   CaO       11.1     (a)             11.95   (c )                                  4
+   Na2O     0.433   (a)             0.39    (c )                                                              A12
+   K2O      0.093   (a)  0.05     (b) 0.04    (c )                                  2                        A15
+   P2O5                             0.02    (c )
+   S %                               0.17    (c )                                  0
+   sum                                                                                            0                5                10                15               20
+                                              MgO
+   Sc ppm   84       (a)            84      (a)
+   V        72       (a)                                          Figure 5: Composition of 70185 compared with that
+    Cr        2400    (a)            2737   (c )                        of other Apollo basalts.
+   Co        15.9     (a)             19.7    (a)
+    Ni
+   Cu                                                                                      300
+--- chemistry block 2; lines 38-50 ---
+Ru
+   Rh                                                                                         0
+   Pd ppb                                                                                      5             7             9            11            13            15
+   Ag ppb                                                                        Sm ppm
+   Cd ppb
+     In ppb
+                                                                Figure 6: Trace element diagram for Apollo 17.   Sn ppb
+   Sb ppb
+    Te ppb
+   Cs ppm
+   Ba                                66.3    (d)
+   La         11.1     (a)             5.24    (d)
+   Ce                                18.5    (d)
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 70185.                     Lunar Basalts
+                                                                                                14
+    reference  Warner 75  Eldridge74  Rhodes76                                                       A17
+    weight                            Nyquist76                                 12
+   SiO2 %                           40.18  (c )                                               A11
+                                                                                                10                       70185
+    TiO2       9.6      (a)             11.52   (c )
+   Al2O3     10.2     (a)             9.04    (c )
+                                                                                                     8
+--- references block 4; lines 67-76 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm                0.38     (b)
+   U ppm                 0.11     (b)
+    technique:  (a) INAA, (b) radiation count. (c ) XRF, (d) IDMS
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 6; CATEGORIES: age,mineralogy,references ===
+--- mineralogy block 1; lines 15-27 ---
+,31
+                         TS
+
+
+   References 70185
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   O’Kelley G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+    17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.          Cosmogenic radionuclides in samples from
+                                                               Taurus-Littrow: Effects of the solar flare of August 1972.
+    Butler P. (1973) Lunar Sample Information Catalog   Proc. 5th Lunar Sci. Conf. 2139-2147.
+    Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+    Curator’s Catalog. pp. 447.                            Rhodes J.M., Hubbard N.J., Wiesmann H., Rodgers K.V.,
+                                                 Brannon J.C. and Bansal B.M. (1976a) Chemistry,
+--- age block 2; lines 23-35 ---
+Taurus-Littrow: Effects of the solar flare of August 1972.
+    Butler P. (1973) Lunar Sample Information Catalog   Proc. 5th Lunar Sci. Conf. 2139-2147.
+    Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+    Curator’s Catalog. pp. 447.                            Rhodes J.M., Hubbard N.J., Wiesmann H., Rodgers K.V.,
+                                                 Brannon J.C. and Bansal B.M. (1976a) Chemistry,
+    Drozd R.J., Hohenberg C.M., Morgan C.J., Podosek F.A.   classification, and petrogenesis of Apollo 17 mare basalts.
+    and Wroge M.L. (1977)  Cosmic-ray exposure history at   Proc. 7th Lunar Sci. Conf. 1467-1489.
+    Taurus-Littrow. Proc. 8th Lunar Sci. Conf. 3027-3043.
+                                                       Warner R.D., Keil K., Murali A.V. and Schmitt R.A. (1975a)
+    Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1974a)   Petrogenetic relationships among Apollo-17 basalts.  In
+    Primordial radioelement concentrations in rocks and soils   Papers presented to the Conference on Origins of Mare
+    from Taurus-Littrow. Proc. 5th Lunar Sci. Conf. 1025-1033.   Basalts and their Implications for Lunar Evolution (Lunar
+                                                           Science Institute, Houston), 179-183.
+--- references block 3; lines 13-25 ---
+,29         ,9
+                                    ,30      TS
+                                    ,31
+                         TS
+
+
+   References 70185
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   O’Kelley G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+    17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.          Cosmogenic radionuclides in samples from
+                                                               Taurus-Littrow: Effects of the solar flare of August 1972.
+    Butler P. (1973) Lunar Sample Information Catalog   Proc. 5th Lunar Sci. Conf. 2139-2147.
+    Apollo 17.  Lunar Receiving Laboratory. MSC 03211

@@ -1,0 +1,335 @@
+DOCUMENT_ID: 15388__compendium__4ff5b37901
+ATLAS_SAMPLE_IDS: 15388
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15388.pdf
+SOURCE_PDF_SHA256: c8c088604c1bcefb277604f25fd4db4a3953a319ca04eabd710af1ef028e6df7
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 34-47 ---
+Ilmenite:  Nehru et al. (1974) studied the opaque
+   minerals in 15388.
+
+                                                             Mineralogical Mode of 15388   Chemistry
+                                                                           Dowty et
+   The composition of 15388 is low in FeO and high in                                                                                                                         al. 1973
+   TiO2 (figure 5), but sample size was small for such a              Olivine               - -
+   coarse grained-sample.                                            Pyroxene        51
+                                                                                 Plagioclase       36
+                                                                 Opaque          6
+                                                                                         Silica             0.5
+
+Lunar Sample Compendium
+--- mineralogy block 2; lines 10-48 ---
+cm. NASA S71-49197.
+
+
+   Introduction                                            Other Studies
+   Lunar sample 15388 was collected as a rake sample                                                      Bhandari et al. (1973) determined the density of solar
+   from the rim of Spur Crater (part way up the Apennine                                                                     flare tracks in the surface of 15388 and give a “suntan”
+    Front).  It is a pigeonite basalt with long pyroxene                                                      exposure age of less than 1 m.y.
+    crystals.  It has not been dated.
+                                                  Processing
+   Petrography                                                 15388 has been sawn to create splits.
+   Dowty et al. (1973) and Ryder (1985) describe 15388
+   as a coarse-grained, mare basalt with an apparent
+   abundance of plagioclase (figure 2). However, Nehru
+    et al. (1974), Ryder (1989) and Ryder and Steele (1987)
+   suggest that it may be significantly different from the
+   majority of the Apollo 15 basalts and may be unique.
+
+   Mineralogy
+   Olivine: none
+
+   Pyroxene: Dowty et al. (1973) reported the pyroxene
+   composition (figure 4).
+
+   Plagioclase: Plagioclase is calcic (An90-95).
+
+   Ilmenite:  Nehru et al. (1974) studied the opaque
+   minerals in 15388.
+
+                                                             Mineralogical Mode of 15388   Chemistry
+                                                                           Dowty et
+   The composition of 15388 is low in FeO and high in                                                                                                                         al. 1973
+   TiO2 (figure 5), but sample size was small for such a              Olivine               - -
+   coarse grained-sample.                                            Pyroxene        51
+                                                                                 Plagioclase       36
+                                                                 Opaque          6
+                                                                                         Silica             0.5
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 3; lines 1-27 ---
+15388
+                                Porphyritic Pigeonite Basalt
+                                               9.0 grams
+
+
+
+
+
+                                        Figure 1:  Photo of 15388. Sample is 2
+                                      cm. NASA S71-49197.
+
+
+   Introduction                                            Other Studies
+   Lunar sample 15388 was collected as a rake sample                                                      Bhandari et al. (1973) determined the density of solar
+   from the rim of Spur Crater (part way up the Apennine                                                                     flare tracks in the surface of 15388 and give a “suntan”
+    Front).  It is a pigeonite basalt with long pyroxene                                                      exposure age of less than 1 m.y.
+    crystals.  It has not been dated.
+                                                  Processing
+   Petrography                                                 15388 has been sawn to create splits.
+   Dowty et al. (1973) and Ryder (1985) describe 15388
+   as a coarse-grained, mare basalt with an apparent
+   abundance of plagioclase (figure 2). However, Nehru
+    et al. (1974), Ryder (1989) and Ryder and Steele (1987)
+   suggest that it may be significantly different from the
+   majority of the Apollo 15 basalts and may be unique.
+
+   Mineralogy
+--- age block 4; lines 10-23 ---
+cm. NASA S71-49197.
+
+
+   Introduction                                            Other Studies
+   Lunar sample 15388 was collected as a rake sample                                                      Bhandari et al. (1973) determined the density of solar
+   from the rim of Spur Crater (part way up the Apennine                                                                     flare tracks in the surface of 15388 and give a “suntan”
+    Front).  It is a pigeonite basalt with long pyroxene                                                      exposure age of less than 1 m.y.
+    crystals.  It has not been dated.
+                                                  Processing
+   Petrography                                                 15388 has been sawn to create splits.
+   Dowty et al. (1973) and Ryder (1985) describe 15388
+   as a coarse-grained, mare basalt with an apparent
+   abundance of plagioclase (figure 2). However, Nehru
+    et al. (1974), Ryder (1989) and Ryder and Steele (1987)
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 25-48 ---
+A17
+              12
+
+                                 A11              10                                                                                 100                           15388
+
+               8                                                                   sample/
+   TiO2                                                                           chondrite10
+               6                   15388
+
+               4                           ?
+                                               A12                                           1
+               2                        A15                                                           Ryder88
+                                                                                             Ma76
+                                                                                                                   Laul73
+
+               0
+                 0                5                10               15               20              0.1                                                                                    La      Pr    Sm    Gd     Dy      Er     Yb                                                                           Ce     Nd     Eu     Tb    Ho    Tm     Lu
+                 MgO
+           Figure 5: Composition of 15388 compared with           Figure 6: Normalized rare-earth-element diagram
+            that of other lunar basalt types.                              for 15388.
+--- mineralogy block 2; lines 12-24 ---
+En                                          Fs
+
+                                                  Fo                                        Fa
+        Figure 2: Photomicrographs of thin section                compiled by C Meyer
+        15388,11 by C Meyer @ 50 x (bottom is crossed       Figure 4: Composition of pyroxene in 15388 (from
+          nicols).                                        Dowty et al. 1973).
+
+
+                   Lunar Basalts
+              14                                                                                  1000
+--- material block 3; lines 1-7 ---
+Figure 3: Photomicrograph of matrix of 15388 (from
+                                                       Dowty et al. 1973).
+
+                                                                        15388
+                                                                         Di                   Hd
+
+                                                                                              Dowty et
+--- material block 4; lines 38-50 ---
+Laul73
+
+               0
+                 0                5                10               15               20              0.1                                                                                    La      Pr    Sm    Gd     Dy      Er     Yb                                                                           Ce     Nd     Eu     Tb    Ho    Tm     Lu
+                 MgO
+           Figure 5: Composition of 15388 compared with           Figure 6: Normalized rare-earth-element diagram
+            that of other lunar basalt types.                              for 15388.
+
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 30-42 ---
+Dowty E., Conrad G.H., Green J.A., Hlava P.F., Keil K.,                                                                         19th Lunar Planet. Sci. Conf. 43-50.
+   Moore R.B., Nehru C.E. and Prinz M. (1973a) Catalog of
+   Apollo 15 rake samples from stations 2 (St. George), 7 (Spur                                                       Ryder G. and Steele A. (1988) Chemical dispersion among
+    Crater) and 9a (Hadley Rille). Inst. Meteoritics Spec. Publ.                                                         Apollo 15 olivine-normative mare basalts. Proc. 18th Lunar
+   No 11, 51-73. Univ. New Mex. ABQ.                                                                Planet. Sci. 273-282. Lunar Planetary Institute, Houston.
+
+   Laul J.C. and Schmitt R.A. (1973b) Chemical composition                                                 Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+    of Apollo 15, 16, and 17 samples.  Proc. 4th  Lunar Sci.                                                                G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+    Conf. 1349-1367.                                                             Preliminary description of Apollo 15 sample environments.
+                                                             U.S.G.S. Interagency report: 36. pp219 with maps
+   LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+    description. Science 175, 363-375.                                                Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+                                                         M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+--- mineralogy block 2; lines 14-39 ---
+irradiation and evolution of the lunar regolith.  Proc. 4th
+   Lunar Sci. Conf. 2275-2290.
+
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    Office, MSC 03209
+
+                                                     Nehru C.E., Prinz M., Dowty E. and Keil K. (1974) Spinel-
+   Dowty E., Prinz M. and Keil K. (1973b)  Composition,                                                         group minerals and ilmenite in Apollo 15 rake samples. Am.
+    mineralogy, and petrology of 28 mare basalts from Apollo                                                            Mineral. 59, 1220-1235.
+   15 rake samples. Proc. 4th Lunar Sci. Conf. 423-444.
+
+                                                    Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+   Dowty E., Keil K. and Prinz M. (1974c) Lunar pyroxene-                                                           volumes). Curatoial Branch Pub. # 72, JSC#20787
+    phyric basalts: Crystallization under supercooled conditions.
+    J. Petrology 15, 419-453.                                                       Ryder G. (1989) Mare basalts on the Apennine Front and
+                                                                the Mare Stratigraphy of the Apollo 15 landing site. Proc.
+   Dowty E., Conrad G.H., Green J.A., Hlava P.F., Keil K.,                                                                         19th Lunar Planet. Sci. Conf. 43-50.
+   Moore R.B., Nehru C.E. and Prinz M. (1973a) Catalog of
+   Apollo 15 rake samples from stations 2 (St. George), 7 (Spur                                                       Ryder G. and Steele A. (1988) Chemical dispersion among
+    Crater) and 9a (Hadley Rille). Inst. Meteoritics Spec. Publ.                                                         Apollo 15 olivine-normative mare basalts. Proc. 18th Lunar
+   No 11, 51-73. Univ. New Mex. ABQ.                                                                Planet. Sci. 273-282. Lunar Planetary Institute, Houston.
+
+   Laul J.C. and Schmitt R.A. (1973b) Chemical composition                                                 Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+    of Apollo 15, 16, and 17 samples.  Proc. 4th  Lunar Sci.                                                                G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+    Conf. 1349-1367.                                                             Preliminary description of Apollo 15 sample environments.
+                                                             U.S.G.S. Interagency report: 36. pp219 with maps
+--- material block 3; lines 8-38 ---
+0.2 g  PB          1.5 g
+
+                                                                                 ,10
+                                                                                 ,11
+   References for 15388                                                 ,12
+   Bhandari N., Goswami J. and Lal D. (1973)  Surface        TS
+    irradiation and evolution of the lunar regolith.  Proc. 4th
+   Lunar Sci. Conf. 2275-2290.
+
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    Office, MSC 03209
+
+                                                     Nehru C.E., Prinz M., Dowty E. and Keil K. (1974) Spinel-
+   Dowty E., Prinz M. and Keil K. (1973b)  Composition,                                                         group minerals and ilmenite in Apollo 15 rake samples. Am.
+    mineralogy, and petrology of 28 mare basalts from Apollo                                                            Mineral. 59, 1220-1235.
+   15 rake samples. Proc. 4th Lunar Sci. Conf. 423-444.
+
+                                                    Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+   Dowty E., Keil K. and Prinz M. (1974c) Lunar pyroxene-                                                           volumes). Curatoial Branch Pub. # 72, JSC#20787
+    phyric basalts: Crystallization under supercooled conditions.
+    J. Petrology 15, 419-453.                                                       Ryder G. (1989) Mare basalts on the Apennine Front and
+                                                                the Mare Stratigraphy of the Apollo 15 landing site. Proc.
+   Dowty E., Conrad G.H., Green J.A., Hlava P.F., Keil K.,                                                                         19th Lunar Planet. Sci. Conf. 43-50.
+   Moore R.B., Nehru C.E. and Prinz M. (1973a) Catalog of
+   Apollo 15 rake samples from stations 2 (St. George), 7 (Spur                                                       Ryder G. and Steele A. (1988) Chemical dispersion among
+    Crater) and 9a (Hadley Rille). Inst. Meteoritics Spec. Publ.                                                         Apollo 15 olivine-normative mare basalts. Proc. 18th Lunar
+   No 11, 51-73. Univ. New Mex. ABQ.                                                                Planet. Sci. 273-282. Lunar Planetary Institute, Houston.
+
+   Laul J.C. and Schmitt R.A. (1973b) Chemical composition                                                 Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+    of Apollo 15, 16, and 17 samples.  Proc. 4th  Lunar Sci.                                                                G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+    Conf. 1349-1367.                                                             Preliminary description of Apollo 15 sample environments.
+--- material block 4; lines 42-53 ---
+M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+   LSPET (1972b) Preliminary examination of lunar samples.                                                              K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+   Apollo 15 Preliminary Science Report. NASA SP-289, 6-                                                                 G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+   1—6-28.                                                           Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary
+                                                         Geologic Investigation of the Apollo 15 landing site.  In
+  Ma M.-S., Murali A.V. and Schmitt R.A. (1976) Chemical                                                         Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+    constraints for mare basalt genesis.  Proc. 7th Lunar Sci.                                                              5-1-112.
+    Conf. 1673-1695.
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 5; lines 21-33 ---
+Dowty E., Prinz M. and Keil K. (1973b)  Composition,                                                         group minerals and ilmenite in Apollo 15 rake samples. Am.
+    mineralogy, and petrology of 28 mare basalts from Apollo                                                            Mineral. 59, 1220-1235.
+   15 rake samples. Proc. 4th Lunar Sci. Conf. 423-444.
+
+                                                    Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+   Dowty E., Keil K. and Prinz M. (1974c) Lunar pyroxene-                                                           volumes). Curatoial Branch Pub. # 72, JSC#20787
+    phyric basalts: Crystallization under supercooled conditions.
+    J. Petrology 15, 419-453.                                                       Ryder G. (1989) Mare basalts on the Apennine Front and
+                                                                the Mare Stratigraphy of the Apollo 15 landing site. Proc.
+   Dowty E., Conrad G.H., Green J.A., Hlava P.F., Keil K.,                                                                         19th Lunar Planet. Sci. Conf. 43-50.
+   Moore R.B., Nehru C.E. and Prinz M. (1973a) Catalog of
+   Apollo 15 rake samples from stations 2 (St. George), 7 (Spur                                                       Ryder G. and Steele A. (1988) Chemical dispersion among
+    Crater) and 9a (Hadley Rille). Inst. Meteoritics Spec. Publ.                                                         Apollo 15 olivine-normative mare basalts. Proc. 18th Lunar
+--- treatment block 6; lines 8-20 ---
+0.2 g  PB          1.5 g
+
+                                                                                 ,10
+                                                                                 ,11
+   References for 15388                                                 ,12
+   Bhandari N., Goswami J. and Lal D. (1973)  Surface        TS
+    irradiation and evolution of the lunar regolith.  Proc. 4th
+   Lunar Sci. Conf. 2275-2290.
+
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    Office, MSC 03209
+
+                                                     Nehru C.E., Prinz M., Dowty E. and Keil K. (1974) Spinel-
+--- references block 7; lines 6-18 ---
+,1       ,2      ,3    ,4          ,17TS
+                                                        0.2 g  PB          1.5 g
+
+                                                                                 ,10
+                                                                                 ,11
+   References for 15388                                                 ,12
+   Bhandari N., Goswami J. and Lal D. (1973)  Surface        TS
+    irradiation and evolution of the lunar regolith.  Proc. 4th
+   Lunar Sci. Conf. 2275-2290.
+
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    Office, MSC 03209
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 15388.
+
+
+     reference  Laul73  Ma 76      Ryder88     Dowty73
+     weight                       628 mg
+    SiO2 %                         44.2       (b) 45.7       (c )
+    TiO2       1.1      5.1       (a) 5.91       (b) 2.57       (c )
+    Al2O3     15.4    12.8      (a) 11.1       (b) 10.9       (c )
+   FeO       15.1    17.6      (a) 19.1       (b) 17.2       (c )
+   MnO       0.2     0.22      (a) 0.35       (b)  0.2        (c )
+   MgO      10      7.7       (a) 8          (b) 10.1       (c )
+   CaO       11.7    10.5      (a) 10.2       (b)  9.7        (c )
+   Na2O     0.43    0.42      (a) 0.32       (b) 0.39       (c )
+   K2O      0.024   0.032    (a)
+   P2O5                          0.06       (b) 0.02       (c )
+   S %
+    sum
+
+    Sc ppm   42     43        (a) 48.6       (a)
+   V        180    150      (a)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 15388.
+
+
+     reference  Laul73  Ma 76      Ryder88     Dowty73
+     weight                       628 mg
+    SiO2 %                         44.2       (b) 45.7       (c )
+    TiO2       1.1      5.1       (a) 5.91       (b) 2.57       (c )
+    Al2O3     15.4    12.8      (a) 11.1       (b) 10.9       (c )
+   FeO       15.1    17.6      (a) 19.1       (b) 17.2       (c )
+   MnO       0.2     0.22      (a) 0.35       (b)  0.2        (c )
+--- references block 3; lines 65-75 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm                         0.43       (a)
+   U ppm
+     technique:  (a) INAA, (b) fused bead elec. Probe, (c ) broad beam elec. Probe
+
+
+Lunar Sample Compendium
+C Meyer 2010

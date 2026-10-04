@@ -1,0 +1,363 @@
+DOCUMENT_ID: 10085__compendium__1096549a97
+ATLAS_SAMPLE_IDS: 10085
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10085.pdf
+SOURCE_PDF_SHA256: 3d9618f08ff2ec7660e5165b52aa76419faa16f8229022531dbe8cea3485eed5
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 10-34 ---
+Introduction                                Petrography
+   !0085 and 10084 were created during the Apollo 11  There are ~250 thin sections of 10085 material. This
+   preliminary examination by sieving a large portion of   is how the first anorthosites were recognized (Wood et
+   10002. 10084 was what passed through a 1 mm sieve   al. 1970) and Luny Rock # 1 was probably found this
+   and 10085 was what did not (figure 1). However, it is  way (Albee and Chodos 1970). A large metal particle
+   not likely that sieving such a large mass would have  (88 mg), termed “minimoon”, was found in 10085
+   gone to completion, so 10085 would still have had a   (figure 2).
+    lot of < 1 mm material.
+
+   The coarse-fine particles from 10085 were widely
+    distributed during the first allocations of lunar samples
+    (e.g. Chao et al. 1970, Wood et al. 1970, King et al.
+   1970, von Englehardt et al. 1970). An interesting aspect
+   of lunar samples is that they are fine-grained enough
+    for a sample on the order of 100 mg, or 2 mm in size,
+    to generally be large enough to represent a “whole
+   rock”.
+                                                             Figure 2: “Minimoon”. 3.5 mm. Goldstein et al. 1970.
+
+
+Lunar Sample Compendium
+C Meyer 2009
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 5-25 ---
+12
+                                 A11                                                                                                               troctolites
+              10                                                                                                                    90
+
+
+               8
+   TiO2                                                                                              mg-suite
+               6                                                                                                                          norites                 80                                                                                                                                   En
+                                                                                                                                   in
+               4
+                                               A12                                                                                                                                                                                                                                                                                                                                                                                                        low-Ca               2                        A15                                                                 gabbro-                           70
+                                                                                                                           norites
+
+               0                 0                5                10               15               20                                                                                                                                                                                                                                                               pyroxene
+                 MgO                                                                                        ferroan-anorthosite     60
+
+           Figure 3: Compsoition of small basalt fragments
+          and of tightly-clustered volcanic glass in coarse-                                                               50
+              fines.
+
+                                                                 Figure 4: Composition of pyroxene and plagioclase
+--- mineralogy block 2; lines 1-7 ---
+Lunar Basalts                                   An in plagioclase
+              14                                                                   75       80        85       90       95
+
+                                       A17
+              12
+                                 A11                                                                                                               troctolites
+              10                                                                                                                    90
+--- mineralogy block 3; lines 12-41 ---
+6                                                                                                                          norites                 80                                                                                                                                   En
+                                                                                                                                   in
+               4
+                                               A12                                                                                                                                                                                                                                                                                                                                                                                                        low-Ca               2                        A15                                                                 gabbro-                           70
+                                                                                                                           norites
+
+               0                 0                5                10               15               20                                                                                                                                                                                                                                                               pyroxene
+                 MgO                                                                                        ferroan-anorthosite     60
+
+           Figure 3: Compsoition of small basalt fragments
+          and of tightly-clustered volcanic glass in coarse-                                                               50
+              fines.
+
+                                                                 Figure 4: Composition of pyroxene and plagioclase
+                                                                           in some of the white rocks from 10085 (from Simon
+                                                                                et al. 1983).
+   King et al. (1970) state “ sample 10085,11 contained
+   1227 grains as follows: mafic holocrystalline rock
+    fragments, 585; microbreccia, 395; glass splatter and
+    agglomerates, 204; regularly shaped glass (spheres,
+    dumbbells etc), 6 ; anorthosite and other light colored
+    rock fragments, 37.” Wood et al. (1970) reported 37%
+    basalt, 52% soil breccia, 4% glass, 2% anorthosite,
+   1.5% anorthosite glass and 1.5% anorthositic breccia.
+
+    Beaty et al. (1979) and Grove and Beaty (1980) studied
+   numerous small basalt samples (figure 3, table 1).
+
+   Simon et al. (1983) and Laul et al. (1983) studied the
+    small white particles in 10085 (figure 4, table 2).
+--- material block 4; lines 15-58 ---
+A12                                                                                                                                                                                                                                                                                                                                                                                                        low-Ca               2                        A15                                                                 gabbro-                           70
+                                                                                                                           norites
+
+               0                 0                5                10               15               20                                                                                                                                                                                                                                                               pyroxene
+                 MgO                                                                                        ferroan-anorthosite     60
+
+           Figure 3: Compsoition of small basalt fragments
+          and of tightly-clustered volcanic glass in coarse-                                                               50
+              fines.
+
+                                                                 Figure 4: Composition of pyroxene and plagioclase
+                                                                           in some of the white rocks from 10085 (from Simon
+                                                                                et al. 1983).
+   King et al. (1970) state “ sample 10085,11 contained
+   1227 grains as follows: mafic holocrystalline rock
+    fragments, 585; microbreccia, 395; glass splatter and
+    agglomerates, 204; regularly shaped glass (spheres,
+    dumbbells etc), 6 ; anorthosite and other light colored
+    rock fragments, 37.” Wood et al. (1970) reported 37%
+    basalt, 52% soil breccia, 4% glass, 2% anorthosite,
+   1.5% anorthosite glass and 1.5% anorthositic breccia.
+
+    Beaty et al. (1979) and Grove and Beaty (1980) studied
+   numerous small basalt samples (figure 3, table 1).
+
+   Simon et al. (1983) and Laul et al. (1983) studied the
+    small white particles in 10085 (figure 4, table 2).
+
+   Chemistry
+   Laul et al. (1983) analyzed 38 small white rock
+    fragments from 10085 (table 2) and Beaty et al. (1979)
+    analyzed a number of small basalt fragments (table 1).
+
+   Processing
+   The sieving of 10084, 10085 is a mystery – see section
+   on 10084. In the 1980s, Simon picked white particles
+    out of ,104, followed by Larry Taylor who picked out
+    basalt particles – see processing photos from data pack.
+
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 10085 particles (basalts).
+
+
+    reference  Beaty 79
+    weight
+   SiO2 %
+    TiO2      10.2    11.6    10.2    10.1     9.3     10.3    12.1    11.1     (a)
+   Al2O3    8       8.2      8.1     8.1      8.7      8.2      8.8     8.3      (a)
+   FeO      20      21.5    20.2    20.4    20      20.6    20.4    19.5     (a)
+   MnO      0.25    0.25    0.25    0.25     0.25    0.24    0.23    0.25     (a)
+   MgO      8      8      8      7       7      7      8      7        (a)
+   CaO      10      11.1    10.6    11       10.8    10.1    10.7   10       (a)
+   Na2O      0.5     0.5     0.52    0.51     0.58    0.49    0.5     0.48     (a)
+   K2O       0.26    0.25    0.32    0.32     0.34    0.31    0.28    0.3      (a)
+   P2O5
+   S %
+   sum
+
+   Sc ppm   84     89     82     84      76     84     85     87       (a)
+   V        66     84     63     66      52     56     79     65       (a)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 10085 particles (basalts).
+
+
+    reference  Beaty 79
+    weight
+   SiO2 %
+    TiO2      10.2    11.6    10.2    10.1     9.3     10.3    12.1    11.1     (a)
+   Al2O3    8       8.2      8.1     8.1      8.7      8.2      8.8     8.3      (a)
+   FeO      20      21.5    20.2    20.4    20      20.6    20.4    19.5     (a)
+   MnO      0.25    0.25    0.25    0.25     0.25    0.24    0.23    0.25     (a)
+--- references block 3; lines 65-74 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm    1.8     1.6     2.1     1.9      2.8     2.3     2       2.1
+   U ppm
+    technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2009
+
+=== PDF PAGE 4; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 2. Chemical composition of 10085 particles (white rx).
+
+
+     reference  Laul 83        (see ref for more data)
+     weight
+    SiO2 %    Poik.                     granulitic              anor.                 gabbro                  norite
+    TiO2       0.4     0.56    0.5    0.3    0.29   0.82   0.2     0.2      0.1    0.3     0.3   0.37    0.3    (a)
+    Al2O3    29     19.9    22.8   25.5   30     27.8   32     35.5    34    20.6   27    25.5   16.5   (a)
+   FeO       2.7    7      7      5.4    2.7    4.2    1      0.17     0.3   7       7.9   5.55   8       (a)
+   MnO
+   MgO      2      10     9      7.5    4     5      0.5     0.5      0.5    11.5    2     6.4    17.5   (a)
+   CaO       16.9    13.5    14.3   16     16.2   16.2   18.9   19.6     18.5   12.9    16.5  15.8    9.3    (a)
+   Na2O     0.54    0.48    0.34   0.36   0.57   0.56   0.37   0.29     0.42   0.26    0.35  0.34    0.3    (a)
+   K2O       0.14    0.05   0.061  0.055  0.04   0.048  0.009  0.009   0.01   0.015   0.02  0.052  0.03   (a)
+   P2O5
+   S %
+    sum
+
+    Sc ppm   6      21     16.3   10.5   5.1    5.4    2.3    0.52     0.48  10     13   15    14     (a)
+   V        10     30     50    30    20    20                        20     20   40     110    (a)
+--- mineralogy block 2; lines 1-12 ---
+Table 2. Chemical composition of 10085 particles (white rx).
+
+
+     reference  Laul 83        (see ref for more data)
+     weight
+    SiO2 %    Poik.                     granulitic              anor.                 gabbro                  norite
+    TiO2       0.4     0.56    0.5    0.3    0.29   0.82   0.2     0.2      0.1    0.3     0.3   0.37    0.3    (a)
+    Al2O3    29     19.9    22.8   25.5   30     27.8   32     35.5    34    20.6   27    25.5   16.5   (a)
+   FeO       2.7    7      7      5.4    2.7    4.2    1      0.17     0.3   7       7.9   5.55   8       (a)
+   MnO
+   MgO      2      10     9      7.5    4     5      0.5     0.5      0.5    11.5    2     6.4    17.5   (a)
+   CaO       16.9    13.5    14.3   16     16.2   16.2   18.9   19.6     18.5   12.9    16.5  15.8    9.3    (a)
+--- references block 3; lines 1-10 ---
+Table 2. Chemical composition of 10085 particles (white rx).
+
+
+     reference  Laul 83        (see ref for more data)
+     weight
+    SiO2 %    Poik.                     granulitic              anor.                 gabbro                  norite
+    TiO2       0.4     0.56    0.5    0.3    0.29   0.82   0.2     0.2      0.1    0.3     0.3   0.37    0.3    (a)
+    Al2O3    29     19.9    22.8   25.5   30     27.8   32     35.5    34    20.6   27    25.5   16.5   (a)
+   FeO       2.7    7      7      5.4    2.7    4.2    1      0.17     0.3   7       7.9   5.55   8       (a)
+   MnO
+--- references block 4; lines 65-75 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm    0.9                    0.6    0.3    0.14                          0.12           0.5    0.82
+   U ppm     0.3                 1
+     technique:  (a) INAA
+
+
+Lunar Sample Compendium
+C Meyer 2009
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 36-47 ---
+Albee A.L. and Chodos A.A. (1970)  Microprobe   Goldstein J.I., Henderson E.P. and Yakowitz H. (1970)
+    investigations on Apollo 11 samples. Proc. Apollo 11 Lunar   Investigation of lunar metal particles. Proc. Apollo 11 Lunar
+    Science Conf. 135-157.                                          Sci. Conf. 499-512.
+
+    Albee, Burnett, Chodos, Eugster, Huneke, Papanastassiou,  Grove T.L. and Beaty D.W. (1980)  Classification,
+   Podosek, Price, Sanz, Tera and Wasserburg G.J. (1970) Ages,   experimental petrology and possible volcanic histories of
+    irradiation history, and chemical composition of lunar rocks   the Apollo 11 high-K basalts. Proc. 11th Lunar Planet. Sci.
+   from the Sea. Science 167, 463-466.                      Conf. 149-177.
+
+
+Lunar Sample Compendium
+C Meyer 2009
+--- mineralogy block 2; lines 20-39 ---
+Beaty D.W., Hill S.M.R., Albee A.L., Ma M.-S., and Schmitt
+                                                      R.A. (1979a) The petrology and chemistry of basaltic
+                                                           fragments from the Apollo 11 soil, part 1. Proc. 10th Lunar
+                                                                       Sci. Conf. 41-75.
+
+                                                Brown G.M., Emeleus C.H., Holland J.G. and Phillips R.
+                                                           (1970) Mineralogical, chemical, and petrological features
+                                                             of Apollo 11 rocks and their relationship to igneous
+                                                                processes. Proc. Apollo 11 Lunar Sci. Conf. 195-219.
+
+   References for 10085.                         Chao E.C.T., James O.B., Minkin J.A., Boreman J.A.,
+    Agrell S.O., Scoon J.H., Muir I.D., Long J.V.P., McConnell  Jackson E.D. and Raleigh C.B. (1970)  Petrology of
+    J.D.C. and Peckett A. (1970) Observations on the chemistry,  unshocked crystalline rocks and evidence of impact
+   mineralogy and petrology of some Apollo 11 lunar samples.  metamorphism in Apollo 11 returned lunar samples. Proc.
+    Proc. Apollo 11 Lunar Sci. Conf. 93-128.                  Apollo 11 Lunar Sci. Conf. 287-314.
+
+   Albee A.L. and Chodos A.A. (1970)  Microprobe   Goldstein J.I., Henderson E.P. and Yakowitz H. (1970)
+    investigations on Apollo 11 samples. Proc. Apollo 11 Lunar   Investigation of lunar metal particles. Proc. Apollo 11 Lunar
+    Science Conf. 135-157.                                          Sci. Conf. 499-512.
+--- material block 3; lines 16-28 ---
+Processing photos for ,104 and ,1161.
+
+
+
+                                                         Beaty D.W., Hill S.M.R., Albee A.L., Ma M.-S., and Schmitt
+                                                      R.A. (1979a) The petrology and chemistry of basaltic
+                                                           fragments from the Apollo 11 soil, part 1. Proc. 10th Lunar
+                                                                       Sci. Conf. 41-75.
+
+                                                Brown G.M., Emeleus C.H., Holland J.G. and Phillips R.
+                                                           (1970) Mineralogical, chemical, and petrological features
+                                                             of Apollo 11 rocks and their relationship to igneous
+                                                                processes. Proc. Apollo 11 Lunar Sci. Conf. 195-219.
+--- treatment block 4; lines 36-47 ---
+Albee A.L. and Chodos A.A. (1970)  Microprobe   Goldstein J.I., Henderson E.P. and Yakowitz H. (1970)
+    investigations on Apollo 11 samples. Proc. Apollo 11 Lunar   Investigation of lunar metal particles. Proc. Apollo 11 Lunar
+    Science Conf. 135-157.                                          Sci. Conf. 499-512.
+
+    Albee, Burnett, Chodos, Eugster, Huneke, Papanastassiou,  Grove T.L. and Beaty D.W. (1980)  Classification,
+   Podosek, Price, Sanz, Tera and Wasserburg G.J. (1970) Ages,   experimental petrology and possible volcanic histories of
+    irradiation history, and chemical composition of lunar rocks   the Apollo 11 high-K basalts. Proc. 11th Lunar Planet. Sci.
+   from the Sea. Science 167, 463-466.                      Conf. 149-177.
+
+
+Lunar Sample Compendium
+C Meyer 2009
+--- references block 5; lines 24-36 ---
+Brown G.M., Emeleus C.H., Holland J.G. and Phillips R.
+                                                           (1970) Mineralogical, chemical, and petrological features
+                                                             of Apollo 11 rocks and their relationship to igneous
+                                                                processes. Proc. Apollo 11 Lunar Sci. Conf. 195-219.
+
+   References for 10085.                         Chao E.C.T., James O.B., Minkin J.A., Boreman J.A.,
+    Agrell S.O., Scoon J.H., Muir I.D., Long J.V.P., McConnell  Jackson E.D. and Raleigh C.B. (1970)  Petrology of
+    J.D.C. and Peckett A. (1970) Observations on the chemistry,  unshocked crystalline rocks and evidence of impact
+   mineralogy and petrology of some Apollo 11 lunar samples.  metamorphism in Apollo 11 returned lunar samples. Proc.
+    Proc. Apollo 11 Lunar Sci. Conf. 93-128.                  Apollo 11 Lunar Sci. Conf. 287-314.
+
+   Albee A.L. and Chodos A.A. (1970)  Microprobe   Goldstein J.I., Henderson E.P. and Yakowitz H. (1970)
+
+=== PDF PAGE 6; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-7 ---
+King E.A., Carman M.F. and Butler J.C. (1970) Mineralogy
+    and petrology of coarse particulate material from the lunar
+    surface at Tranquillity base. Proc. Apollo 11 Lunar Sci. Conf.
+    599-606.
+
+    King E.A. and a cast of thousands (1969) Lunar Sample
+    Information Catalog, Apollo 11.  Lunar Receiving
+--- mineralogy block 2; lines 28-40 ---
+von Engelhardt W., Arndt J., Muller W.F. and Stoffler D.
+    (1970) Shock metamorphism of lunar rocks and origin of
+    the regolith at the Apollo 11 landing site. Proc. Apollo 11
+    Lunar Sci. Conf. 363-384.
+
+   Wood J.A., Marvin U.B., Powell B.N. and Dickey J.S. (1970)
+    Mineralogy and petrology of the Apollo 11 lunar sample.
+    Smithson. Astrophysi. Observ. Spec. Rep. 307
+
+   Wood J.A., Dickey J.S., Marvin U.B. and Powell B.N.
+    (1970a) Lunar anorthosites. Science 167, 602-604.
+
+   Wood J.A., Dickey J.S., Marvin U.B. and Powell B.N.
+--- material block 3; lines 1-8 ---
+King E.A., Carman M.F. and Butler J.C. (1970) Mineralogy
+    and petrology of coarse particulate material from the lunar
+    surface at Tranquillity base. Proc. Apollo 11 Lunar Sci. Conf.
+    599-606.
+
+    King E.A. and a cast of thousands (1969) Lunar Sample
+    Information Catalog, Apollo 11.  Lunar Receiving
+    Laboratory, MSC 412 pp
+--- material block 4; lines 24-36 ---
+Simon S.B., Papike J.J., Shearer C.K. and Laul J.C. (1983)
+    Petrology of the Apollo 11 highland component. Proc. 14th
+    Lunar Planet. Sci. Conf. in J. Geophys. Res. 88, B103-138.
+
+    von Engelhardt W., Arndt J., Muller W.F. and Stoffler D.
+    (1970) Shock metamorphism of lunar rocks and origin of
+    the regolith at the Apollo 11 landing site. Proc. Apollo 11
+    Lunar Sci. Conf. 363-384.
+
+   Wood J.A., Marvin U.B., Powell B.N. and Dickey J.S. (1970)
+    Mineralogy and petrology of the Apollo 11 lunar sample.
+    Smithson. Astrophysi. Observ. Spec. Rep. 307

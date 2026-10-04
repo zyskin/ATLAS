@@ -1,0 +1,182 @@
+DOCUMENT_ID: 10063__compendium__d8c486d3a5
+ATLAS_SAMPLE_IDS: 10063
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10063.pdf
+SOURCE_PDF_SHA256: f5b1a11b5c33eefc540ec229ac4a132a5e4cf8bcfe070e446b12b5e27e73f5a7
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 9-37 ---
+Figure 1: Photo of 10063,1 showing several rock clasts. Sample about 7 cm long. NASA S75-30490.
+
+
+   Introduction
+                                     Summary of Age Data for 10063   Simon et al. (1984) included breccia 10063 in their
+                                            None   comprehensive study of Apollo 11 regolith breccias –
+    their mode is given in the table. The most abundant
+                                                 Processing   component is mare basalt (figure 3). Although Simon
+    et al. found 22 small clasts of highland rock in 10063,  Apollo 11 samples were originally described and
+   they calculated that it has the least percentage of   cataloged in 1969 and “recataloged” by Kramer et al.
+   highland component (~15%). The large basalt clast   (1977).
+    (figure 2) has not been studied.
+                                                     Simon’s Mode
+   Petrography                                                   S    L
+   10063 is a typical regolith breccia and contains glass.       Mare Basalt                 5.3      13.6
+   The large basalt clast (figure 2) has not been studied.        Highland Component        0.2      0.4
+                                                                        Regolith breccia           1        1.7
+                                                                         Agglutinate                 1.7      1.5
+   Chemistry                                                  Pyroxene                   7.5      0.3
+   Goles et al. (1970) and Rhodes et al. (1981) reported        Olivine                     0.5
+                                                                           Plagioclase                 3.7   analyses of 10063 (Table 1). The composition of the
+                                                                           Ilmenite                    3.6
+   breccia is similar to the Apollo 11 soil 10084 (figure                                                               Orange glass                1.3      0.2
+    4).                                                              Other glass                 2.7      0.3
+                                                                     Matrix                     54.5 %
+
+
+Lunar Sample Compendium
+C Meyer 2009
+--- material block 2; lines 1-37 ---
+10063
+                                   Regolith Breccia
+                                       148 grams
+
+
+
+
+
+       Figure 1: Photo of 10063,1 showing several rock clasts. Sample about 7 cm long. NASA S75-30490.
+
+
+   Introduction
+                                     Summary of Age Data for 10063   Simon et al. (1984) included breccia 10063 in their
+                                            None   comprehensive study of Apollo 11 regolith breccias –
+    their mode is given in the table. The most abundant
+                                                 Processing   component is mare basalt (figure 3). Although Simon
+    et al. found 22 small clasts of highland rock in 10063,  Apollo 11 samples were originally described and
+   they calculated that it has the least percentage of   cataloged in 1969 and “recataloged” by Kramer et al.
+   highland component (~15%). The large basalt clast   (1977).
+    (figure 2) has not been studied.
+                                                     Simon’s Mode
+   Petrography                                                   S    L
+   10063 is a typical regolith breccia and contains glass.       Mare Basalt                 5.3      13.6
+   The large basalt clast (figure 2) has not been studied.        Highland Component        0.2      0.4
+                                                                        Regolith breccia           1        1.7
+                                                                         Agglutinate                 1.7      1.5
+   Chemistry                                                  Pyroxene                   7.5      0.3
+   Goles et al. (1970) and Rhodes et al. (1981) reported        Olivine                     0.5
+                                                                           Plagioclase                 3.7   analyses of 10063 (Table 1). The composition of the
+                                                                           Ilmenite                    3.6
+   breccia is similar to the Apollo 11 soil 10084 (figure                                                               Orange glass                1.3      0.2
+    4).                                                              Other glass                 2.7      0.3
+                                                                     Matrix                     54.5 %
+
+
+Lunar Sample Compendium
+C Meyer 2009
+--- age block 3; lines 7-19 ---
+Figure 1: Photo of 10063,1 showing several rock clasts. Sample about 7 cm long. NASA S75-30490.
+
+
+   Introduction
+                                     Summary of Age Data for 10063   Simon et al. (1984) included breccia 10063 in their
+                                            None   comprehensive study of Apollo 11 regolith breccias –
+    their mode is given in the table. The most abundant
+                                                 Processing   component is mare basalt (figure 3). Although Simon
+    et al. found 22 small clasts of highland rock in 10063,  Apollo 11 samples were originally described and
+   they calculated that it has the least percentage of   cataloged in 1969 and “recataloged” by Kramer et al.
+   highland component (~15%). The large basalt clast   (1977).
+
+=== PDF PAGE 2; CATEGORIES: material ===
+--- material block 1; lines 1-7 ---
+Figure 2: Photo of bottom of 10063,1 showing large (2 cm) clast of basalt (with large zap pit). NASA S75-30489.
+
+
+
+
+                                                                                                1000
+--- material block 2; lines 24-38 ---
+0.1
+                                                                                    La      Pr    Sm    Gd     Dy      Er     Yb                                                                             Ce    Nd     Eu     Tb    Ho    Tm     Lu
+
+                                                                 Figure 4: Normalized rare earth element diagram
+                                                                          for breccia 10063 compared with soil 10084 (data
+                                                              from Rhodes et al. 1981).
+
+        Figure 3: Thin section of small basalt clast in thin
+         section 10063,17. NASA S76-26275.
+
+
+Lunar Sample Compendium
+C Meyer 2009
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 10063.
+
+
+    reference  Goles70   Rhodes81
+    weight
+   SiO2 %    43.4        41.4      (b)
+    TiO2      8.8         9.07      (b)
+   Al2O3    13         11.47     (b)
+   FeO       16.8       17.18     (b)
+   MnO      0.21     (a) 0.26      (b)
+   MgO      7.8         7.83      (b)                             10063
+   CaO               13.6                          11.42     (b)
+   Na2O     0.46                           (a) 0.48                                           (b)                             148 grams
+   K2O                  0.22      (b)
+   P2O5                 0.14      (b)
+   S %
+   sum                                                         ,1                 ,9         ,15                    ,16      ,20
+                                                            PB      10 g                   0.3 g   PB                                                 127 g
+   Sc ppm   62.2     (a) 69
+   V        90       (a) 41                                                        ,18                       Rhodes    ,21
+--- material block 2; lines 62-73 ---
+W ppb
+                                                     and soils: Aluminous mare basalts or multi-component   Re ppb
+   Os ppb                                                  mixtures? Proc. 12th Lunar Planet. Sci. Conf. 607-620.
+      Ir ppb
+    Pt ppb
+   Au ppb                                          Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+   Th ppm                2.4        (a)                            of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+   U ppm    0.51     (a)
+    technique  (a) INAA, (b) XRF                                Conf. in J. Geophys. Res. 89, C109-132.
+
+Lunar Sample Compendium
+C Meyer 2009
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 10063.
+
+
+    reference  Goles70   Rhodes81
+    weight
+   SiO2 %    43.4        41.4      (b)
+    TiO2      8.8         9.07      (b)
+   Al2O3    13         11.47     (b)
+   FeO       16.8       17.18     (b)
+   MnO      0.21     (a) 0.26      (b)
+--- references block 4; lines 42-54 ---
+Sn ppb
+   Sb ppb
+    Te ppb
+   Cs ppm
+   Ba                 275       (a)
+   La        16.7     (a) 23.8      (a)
+   Ce                 63        (a)                     References for 10063.
+    Pr                                                   Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,
+   Nd
+   Sm       12.9     (a) 17.6      (a)                   Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+   Eu        1.83     (a) 1.9        (a)                         abundances by instrumental activation analyses in chips from
+   Gd                                                     27 lunar rocks. Proc. Apollo 11 Lunar Sci. Conf. 1165-1176.   Tb                     3.5        (a)
+   Dy
+--- references block 5; lines 64-73 ---
+Os ppb                                                  mixtures? Proc. 12th Lunar Planet. Sci. Conf. 607-620.
+      Ir ppb
+    Pt ppb
+   Au ppb                                          Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+   Th ppm                2.4        (a)                            of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+   U ppm    0.51     (a)
+    technique  (a) INAA, (b) XRF                                Conf. in J. Geophys. Res. 89, C109-132.
+
+Lunar Sample Compendium
+C Meyer 2009

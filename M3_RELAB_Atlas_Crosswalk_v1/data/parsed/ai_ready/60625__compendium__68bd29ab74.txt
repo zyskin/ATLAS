@@ -1,0 +1,170 @@
+DOCUMENT_ID: 60625__compendium__68bd29ab74
+ATLAS_SAMPLE_IDS: 60625
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60625.pdf
+SOURCE_PDF_SHA256: bfed4df3cd7fc76e468e0b2c1e1b62d8ee8a1329784c615fbbcc20122a1d3ec0
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 13-40 ---
+Introduction
+   Lunar sample 60625 is a white rock, peppered with         1000
+   micrometeorite pits on all sides (figures 1 and 2).  It                                            60625
+   was collected as a rake sample from the area near the          100
+   Lunar Module where the drill core and drive tubes were    sample/chondrite
+   taken (see section on 60600). The composition shows
+     it is plagioclase-rich, but it also has high content of           10
+  REE (i.e. it is an unusual breccia or impact melt rock).
+
+
+                                                                                                1
+   Petrography
+   Warner et al. (1976) described a texture with irregular
+   oikocrysts (pyroxene) up to 1 mm, enclosing euhedral             0.1
+   plagioclase chadocrysts (figure 4). Some plagioclase                  La  Ce   Pr  Nd Sm  Eu Gd  Tb  Dy  Ho  Er  Tm  Yb  Lu
+    is shocked. Ryder and Norman (1980) term this rock a
+    poikilitic impact melt breccia.  Hunter and Taylor        Figure 3: Normalized rare-earth-element diagram
+   (1981) found patches of rust.                                     for 60625 (data from Fruchter et al. 1974).
+
+   The mineralogy is 65% plagioclase (An95), 17% olivine
+    (Fo77) and 16% pyroxene (Wo7En75Fs18) with minor
+    ilmenite, armalcolite, Ni-Fe metal, and K-rich phase  Chemistry
+   (Warner et al. 1976).                            60625 has been analyzed by Fruchter et al. (1974)
+                                                              (figure 3).
+  Age
+   Not determined                                 Processing
+                                                   There are 4 thin sections of 60625.
+--- material block 2; lines 1-35 ---
+60625
+                               Impact Melt Breccia
+                                        117 grams
+
+
+
+
+
+        Figure 1: Photo of 60625 showing zap pits all sides.        Figure 2: Photo of opposite side of 60625. NASA
+      NASA S72-44915. Samples is 5 cm across.                 S72-44911. Cube is 1 cm.
+
+
+   Introduction
+   Lunar sample 60625 is a white rock, peppered with         1000
+   micrometeorite pits on all sides (figures 1 and 2).  It                                            60625
+   was collected as a rake sample from the area near the          100
+   Lunar Module where the drill core and drive tubes were    sample/chondrite
+   taken (see section on 60600). The composition shows
+     it is plagioclase-rich, but it also has high content of           10
+  REE (i.e. it is an unusual breccia or impact melt rock).
+
+
+                                                                                                1
+   Petrography
+   Warner et al. (1976) described a texture with irregular
+   oikocrysts (pyroxene) up to 1 mm, enclosing euhedral             0.1
+   plagioclase chadocrysts (figure 4). Some plagioclase                  La  Ce   Pr  Nd Sm  Eu Gd  Tb  Dy  Ho  Er  Tm  Yb  Lu
+    is shocked. Ryder and Norman (1980) term this rock a
+    poikilitic impact melt breccia.  Hunter and Taylor        Figure 3: Normalized rare-earth-element diagram
+   (1981) found patches of rust.                                     for 60625 (data from Fruchter et al. 1974).
+
+   The mineralogy is 65% plagioclase (An95), 17% olivine
+    (Fo77) and 16% pyroxene (Wo7En75Fs18) with minor
+    ilmenite, armalcolite, Ni-Fe metal, and K-rich phase  Chemistry
+   (Warner et al. 1976).                            60625 has been analyzed by Fruchter et al. (1974)
+--- age block 3; lines 31-43 ---
+The mineralogy is 65% plagioclase (An95), 17% olivine
+    (Fo77) and 16% pyroxene (Wo7En75Fs18) with minor
+    ilmenite, armalcolite, Ni-Fe metal, and K-rich phase  Chemistry
+   (Warner et al. 1976).                            60625 has been analyzed by Fruchter et al. (1974)
+                                                              (figure 3).
+  Age
+   Not determined                                 Processing
+                                                   There are 4 thin sections of 60625.
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 60625.
+             60625
+     reference Fruchter74  Warner76   Ryder82
+     weight
+    SiO2 %                45.3     (b)  45.6   (c )
+    TiO2                  0.32     (b)
+    Al2O3    25.9     (a)  29.6     (b)  22.8   (c )
+   FeO      5.4          3.7      (b)  5.8     (c )
+   MnO                  0.04     (b)
+   MgO                   3.3      (b)  9.6     (c )
+   CaO                  17.1     (b)  14.2   (c )
+   Na2O     0.49     (a)  0.47     (b)  0.54   (c )
+   K2O                  0.05     (b)  0.2     (c )
+   P2O5                 0.04     (b)
+   S %
+    sum
+
+    Sc ppm   9.7       (a)              9.8     (c )
+   V
+--- material block 2; lines 46-58 ---
+Ce       49       (a)                              References 60625.
+    Pr                                                         Butler P. (1972) Lunar Sample Information Catalog Apollo
+   Nd       34       (a)                                       16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   Sm       10.5     (a)              10.6   (c )                                                               Catalog. pp. 370.    Eu        1.4       (a)              1.46   (c )
+   Gd
+    Tb        1.4       (a)                                       Fruchter J.S., Kridelbaugh S.J., Robyn M.A. and Goles G.G.
+    Dy                                                     (1974)  Breccia 66055 and related clastic materials from
+   Ho                                                                 the Descartes region, Apollo 16. Proc. 5th Lunar Sci. Conf.    Er
+   Tm                                                   1035-1046.
+    Yb        6.7       (a)
+    Lu       1         (a)              1.1     (c )                Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+    Hf        6.3       (a)                                                                    in Apollo 16 highland rocks: Manifestations of volatile-    Ta        0.7       (a)
+  W ppb                                                 element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 60625.
+             60625
+     reference Fruchter74  Warner76   Ryder82
+     weight
+    SiO2 %                45.3     (b)  45.6   (c )
+    TiO2                  0.32     (b)
+    Al2O3    25.9     (a)  29.6     (b)  22.8   (c )
+   FeO      5.4          3.7      (b)  5.8     (c )
+   MnO                  0.04     (b)
+--- references block 4; lines 40-52 ---
+Sn ppb
+    Sb ppb                                                       Figure 5: Mineral composition diagrams for 60625
+    Te ppb                                                         (from Warner et al. 1976).
+    Cs ppm
+    Ba       190      (a)
+    La        20.7     (a)              23.3   (c )
+   Ce       49       (a)                              References 60625.
+    Pr                                                         Butler P. (1972) Lunar Sample Information Catalog Apollo
+   Nd       34       (a)                                       16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   Sm       10.5     (a)              10.6   (c )                                                               Catalog. pp. 370.    Eu        1.4       (a)              1.46   (c )
+   Gd
+    Tb        1.4       (a)                                       Fruchter J.S., Kridelbaugh S.J., Robyn M.A. and Goles G.G.
+    Dy                                                     (1974)  Breccia 66055 and related clastic materials from
+--- references block 5; lines 59-68 ---
+Re ppb                                                  259.
+   Os ppb
+       Ir ppb                                                    McKinley J.P., Taylor G.J., Keil K., Ma M.-S. and Schmitt     Pt ppb
+    Au ppb                                               R.A. (1984) Apollo 16: Impact sheets, contrasting nature of
+    Th ppm   4.1       (a)                                        the Cayley Plains and Descartes Mountains, and geologic
+   U ppm                                                            history. Proc. 14th Lunar Planet. Sci. Conf., in J. Geophys.
+     technique:  (a) INAA, (b) broad beam e-probe, (c ) prelim.                                                             Res. 89, B513-B524.
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: material ===
+--- material block 1; lines 26-38 ---
+LSPET (1972) Preliminary examination of lunar samples.   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+   Apollo 16 Preliminary Science Report. NASA SP-315, 7-   In Geology of the Apollo 16 area, central lunar highlands.
+   1—7-58.                                                   (Ulrich et al.) U.S.G.S. Prof. Paper 1048.
+
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16  Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904      and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+                                                      from the LM area and station 5.  Spec. Publ. #13, UNM
+   Ryder G. and Seymour R. (1982) Chemistry of Apollo 16   Institute of Meteoritics, Albuquerque. 87 pp.
+   impact melts: Numerous melt sheets, lunar cratering history
+
+
+Lunar Sample Compendium

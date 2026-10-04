@@ -1,0 +1,74 @@
+DOCUMENT_ID: 60645__compendium__361d6d6c59
+ATLAS_SAMPLE_IDS: 60645
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60645.pdf
+SOURCE_PDF_SHA256: b8a195bbf835b02436451e63892fd6730e023bd5009d1ff19ed1f86875926916
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material ===
+--- material block 1; lines 1-24 ---
+60645
+                               Impact melt Breccia
+                                            33.5 grams
+
+
+
+
+
+                        Figure 1: Photo of 60645. Tick marks at top are in mm. S72-46817
+
+   Introduction                                              Radiogenic age dating
+   60635 was collected as a rake sample near the LM (see
+                                         None    section on 60600). It is a vesicular fine-grained impact
+    melt.
+                                                 Processing
+                                                   There is only one thin section.   Petrography
+   60645 has an unusual coloration (figure 1). The
+   matrix is vesicular and has a variable texture (figure
+    2). Some areas are poikilitic, others are subophitic.       C Meyer  60645
+                                                     2012     33.5 grams   There is at least one large and perhaps other small
+   anorthosite clasts.
+
+   Chemistry                                                        ,0         ,1     ,6     ,7
+                                                              21.5 g   PB   7 g   4.2 g   None
+--- age block 2; lines 5-17 ---
+Figure 1: Photo of 60645. Tick marks at top are in mm. S72-46817
+
+   Introduction                                              Radiogenic age dating
+   60635 was collected as a rake sample near the LM (see
+                                         None    section on 60600). It is a vesicular fine-grained impact
+    melt.
+                                                 Processing
+                                                   There is only one thin section.   Petrography
+   60645 has an unusual coloration (figure 1). The
+
+=== PDF PAGE 2; CATEGORIES: material,references ===
+--- material block 1; lines 1-9 ---
+Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+                                                                Description, classification and inventory of 151 Apollo 16
+                                                             rake samples from the LM area and station 5.  Curator’s
+                                                               Catalog, JSC.
+
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.
+
+                                             LSPET (1972c) Preliminary examination of lunar samples.
+--- material block 2; lines 15-27 ---
+Sutton R.L. (1981) Documentation of Apollo 16 samples.          Figure 2: Thin section photomicrograph of 60645
+                                                                In Geology of the Apollo 16 area, central lunar highlands.          (Warner et al. 1976). Field of view is 3 mm.
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+   References for 60645                                                       Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo                                                       and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                                                       from the LM area and station 5.  Spec. Publ. #13, UNM
+    Catalog. pp. 370.                                                                        Institute of Meteoritics, Albuquerque. 87 pp.
+--- references block 3; lines 14-26 ---
+rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.          Figure 2: Thin section photomicrograph of 60645
+                                                                In Geology of the Apollo 16 area, central lunar highlands.          (Warner et al. 1976). Field of view is 3 mm.
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+   References for 60645                                                       Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo                                                       and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                                                       from the LM area and station 5.  Spec. Publ. #13, UNM
+    Catalog. pp. 370.                                                                        Institute of Meteoritics, Albuquerque. 87 pp.

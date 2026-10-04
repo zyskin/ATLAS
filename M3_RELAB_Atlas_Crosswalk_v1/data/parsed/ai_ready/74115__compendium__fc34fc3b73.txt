@@ -1,0 +1,202 @@
+DOCUMENT_ID: 74115__compendium__fc34fc3b73
+ATLAS_SAMPLE_IDS: 74115,74116,74117,74118,74119
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/74115.pdf
+SOURCE_PDF_SHA256: a26bf4c2abc1ec0fb0609d92677c2833f63d8a02bf9a3b3106ff1d88b4979d5a
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 19-43 ---
+both highland and mare regolith materials, mixed
+                                                           together.
+
+
+
+
+                                                         Mineralogical Mode for 74115
+        Figure 2: Photo of 74115,0 - from data pack.                                (Simon et al. 1990)
+                                                                      Matrix            65.3 %
+                                                                                     20-90 micron     90-100 micron
+ Introduction                                             Mare Basalt       0.5             1
+ 74115 is instant rock made by compaction of soil. These       KREEP Basalt
+ samples were collected from the blocky rim of a 15           Feld. Basalt
+ meter crater along the rover traverse across the “light           Plutonic           0.4                1.5
+                                                                              Granulitic         0.2             1
+ mantle”. These soil clods were collected with 74110                                                                         Breccia            0.8                4.2
+ (see also sections on 74111). They are very friable and           Olivine            1.5                0.4
+ broke apart during storage and processing.                      Pyroxene          3.7                1.1
+                                                                            Plagioclase        3.8                1.1
+                                                               Opaques          0.4
+                                                                        Glass              4.3                2.4
+                                                                          Agglutinate        3.4                2.8
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-40 ---
+74115 - 74119
+                                  Regolith Breccia
+                                      37 grams
+
+
+
+
+
+        Figure 1: Photo of 74115 during PET.                       Figure 3: Photomicrograph of thin section
+                                                                74115,14 - about 1 cm.
+
+
+                                            Petrography
+                                                    Fruland (1983) and Simon et al. (1990) included 74115
+                                                                     is their study of regolith breccia. Ryder (1993) and
+                                                 Neal and Taylor (1993) termed these particles “light
+                                                    gray breccias”, but they are nothing other than soil
+                                                          clods. They are very friable and porous. They contain
+                                                  both highland and mare regolith materials, mixed
+                                                           together.
+
+
+
+
+                                                         Mineralogical Mode for 74115
+        Figure 2: Photo of 74115,0 - from data pack.                                (Simon et al. 1990)
+                                                                      Matrix            65.3 %
+                                                                                     20-90 micron     90-100 micron
+ Introduction                                             Mare Basalt       0.5             1
+ 74115 is instant rock made by compaction of soil. These       KREEP Basalt
+ samples were collected from the blocky rim of a 15           Feld. Basalt
+ meter crater along the rover traverse across the “light           Plutonic           0.4                1.5
+                                                                              Granulitic         0.2             1
+ mantle”. These soil clods were collected with 74110                                                                         Breccia            0.8                4.2
+ (see also sections on 74111). They are very friable and           Olivine            1.5                0.4
+ broke apart during storage and processing.                      Pyroxene          3.7                1.1
+                                                                            Plagioclase        3.8                1.1
+                                                               Opaques          0.4
+                                                                        Glass              4.3                2.4
+                                                                          Agglutinate        3.4                2.8
+
+=== PDF PAGE 2; CATEGORIES: chemistry ===
+--- chemistry block 1; lines 1-13 ---
+Figure 4: Rough ride on way to Shorty Crater.
+
+
+  Chemistry
+  Simon et al. (1980) determined the chemical
+   composition. The sample has a rather high content of
+   Al2O3 – proof that this is light mantle material.
+
+  Processing
+  74110 and 74115-74119 were collected and returned
+   in the same bag and are probably all the same material.
+   There are currently 11 thin sections of these particles.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-22 ---
+25
+ Table 1. Chemical composition of 74115.
+                                                                             20                      Apollo soils
+ reference  Simon90                                                                                                       breccia
+ weight
+ SiO2 %                                                                    15
+ TiO2      2.65       (a)                   FeO                             74115
+ Al2O3     18.4       (a)                                                  10
+ FeO       10.5       (a)
+ MnO      0.133      (a)
+                                                                                5
+ MgO      9.4         (a)
+ CaO      13.3       (a)
+ Na2O     0.46       (a)                                                     0
+ K2O      0.15       (a)                                                       0       5       10      15      20      25      30      35
+ P2O5                                                       Al2O3
+ S %
+ sum
+
+ Sc ppm   27.2       (a)
+ V        55         (a)
+ Cr       1840      (a)
+--- mineralogy block 2; lines 62-74 ---
+Hf         6.1         (a)                                 Ryder G. (1993) Catalog of Apollo 17 rocks. Vol. 1 South
+ Ta        0.93       (a)                                   Massif
+ W ppb
+ Re ppb
+ Os ppb                                                   Shearer C.K., Papike J.J., Galbreath K.C. and Shimizu N.
+  Ir ppb     5.7        (a)                                   (1991) Exploring the lunar mantle with secondary ion mass
+ Pt ppb     7.2         (a)                                     spectometry: A comparison of lunar picritic glass beads from
+ Au ppb
+                                                              the Apollo 14 and Apollo 17 sites. Earth Planet. Sci. Lett. Th ppm    2.1         (a)
+ U ppm    0.62       (a)                                    102, 134-147.
+  technique:  (a) INAA
+
+Lunar Sample Compendium
+--- material block 3; lines 1-10 ---
+25
+ Table 1. Chemical composition of 74115.
+                                                                             20                      Apollo soils
+ reference  Simon90                                                                                                       breccia
+ weight
+ SiO2 %                                                                    15
+ TiO2      2.65       (a)                   FeO                             74115
+ Al2O3     18.4       (a)                                                  10
+ FeO       10.5       (a)
+ MnO      0.133      (a)
+--- material block 4; lines 27-39 ---
+Ga                                              References for 74115
+ Ge ppb                                                     Butler P. (1973) Lunar Sample Information Catalog Apollo
+ As
+                                                             17. Lunar Receiving Laboratory. MSC 03211 Curator’s Se
+ Rb        10.6       (a)                                     Catalog. pp. 447.
+ Sr        160        (a)
+ Y                                                 Fruland R.M. (1983)  Regolith Breccia Workbook.
+ Zr        140        (a)
+                                                              Curatorial Branch Publication # 66. JSC 19045. Nb
+ Mo
+ Ru                                        LSPET (1973)  Apollo 17 lunar samples: Chemical and
+ Rh                                                        petrographic description. Science 182, 659-672.
+ Pd ppb
+--- references block 5; lines 1-10 ---
+25
+ Table 1. Chemical composition of 74115.
+                                                                             20                      Apollo soils
+ reference  Simon90                                                                                                       breccia
+ weight
+ SiO2 %                                                                    15
+ TiO2      2.65       (a)                   FeO                             74115
+ Al2O3     18.4       (a)                                                  10
+ FeO       10.5       (a)
+ MnO      0.133      (a)
+--- references block 6; lines 21-33 ---
+V        55         (a)
+ Cr       1840      (a)
+ Co        31.5       (a)
+ Ni        220        (a)
+ Cu
+ Zn       30         (a)
+ Ga                                              References for 74115
+ Ge ppb                                                     Butler P. (1973) Lunar Sample Information Catalog Apollo
+ As
+                                                             17. Lunar Receiving Laboratory. MSC 03211 Curator’s Se
+ Rb        10.6       (a)                                     Catalog. pp. 447.
+ Sr        160        (a)
+ Y                                                 Fruland R.M. (1983)  Regolith Breccia Workbook.
+--- references block 7; lines 66-75 ---
+Os ppb                                                   Shearer C.K., Papike J.J., Galbreath K.C. and Shimizu N.
+  Ir ppb     5.7        (a)                                   (1991) Exploring the lunar mantle with secondary ion mass
+ Pt ppb     7.2         (a)                                     spectometry: A comparison of lunar picritic glass beads from
+ Au ppb
+                                                              the Apollo 14 and Apollo 17 sites. Earth Planet. Sci. Lett. Th ppm    2.1         (a)
+ U ppm    0.62       (a)                                    102, 134-147.
+  technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: material ===
+--- material block 1; lines 30-43 ---
+Simon S.B., Papike J.J., Gosselin D.C., Laul J.C., Hughes
+   S.S. and Schmitt R.A. (1990) Petrology and chemistry of
+   Apollo 17 regolith breccias: A history of mixing of highland
+   and mare regolith. Proc. 20th Lunar Planet. Sci. 219-230.
+   Lunar Planetary Institute, Houston.
+
+   Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+   Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+   geologic investigation of the Taurus-Littrow Valley: Apollo
+   17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.

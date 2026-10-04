@@ -1,0 +1,105 @@
+DOCUMENT_ID: 67757__compendium__78e1ca89bf
+ATLAS_SAMPLE_IDS: 67757,67759
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67757.pdf
+SOURCE_PDF_SHA256: fa744266d08f878d90ef7f82255d3bfce5c90e5bd4f24e1e9f71ba77aa1a08fb
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 17-29 ---
+Petrography
+   67757 is an impact melt with fine-grained subophitic
+   and poikilitic textures. According to Ryder and Norman
+   (1980) the poikilitic areas have a greater proportion of
+   mafic material than the subophitic areas. 67759 appears
+    similar (Stoffler et al. 1985). Both have glass veins.
+
+   Chemistry
+   These two particles have the same chemical
+   composition (Stoffler et al. 1985).
+
+                                                                 Figure 2: Photo of 67759.  S72-49566
+--- material block 2; lines 1-25 ---
+67757 – 4.8 grams
+                          67759 – 4.6 grams
+                                 Impact-melt Breccia
+
+
+
+
+
+                      Figure 1: Photo of 67757. S81-32698
+
+   Introduction
+   67757 and 67759 are rake samples collected from the
+   rim of North Ray Crater – see section on 67701. They
+   are feldspathic breccias with micropoikilitic texture,
+   probably  formed  by  impact  melting  and
+    recrystallization.
+
+   Petrography
+   67757 is an impact melt with fine-grained subophitic
+   and poikilitic textures. According to Ryder and Norman
+   (1980) the poikilitic areas have a greater proportion of
+   mafic material than the subophitic areas. 67759 appears
+    similar (Stoffler et al. 1985). Both have glass veins.
+
+   Chemistry
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 67757 and 59
+               67757   67759
+     reference    Stoffler85                                References for 67757 and 59
+     weight                                                      Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    SiO2 %     45.6     45.8      (a)
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s    TiO2        0.81     0.81      (a)
+    Al2O3      23       22.6      (a)                            Catalog. pp. 370.
+   FeO        5.7       5.8        (a)
+   MnO        0.06     0.06      (a)                    LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   MgO        9.8      10.3      (a)
+                                                       and chemical description. Science 179, 23-34.   CaO       14       13.6      (a)
+   Na2O       0.48     0.51      (a)
+   K2O        0.15     0.16      (a)                    LSPET (1972c) Preliminary examination of lunar samples.
+   P2O5       0.21     0.16      (a)                            In Apollo 16 Preliminary Science Report. NASA SP-315,
+   S %
+                                                      7-1—7-58.    sum
+     (a) DBA
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+--- mineralogy block 2; lines 18-30 ---
+Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+           67757                               Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and             4.8 grams                                                                  inventory. Curator Catalog, JSC
+
+                                                                  Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+         ,0           ,3                                        of some Apollo 16 rocks and fines: General petrologic model
+        4.7 g    PB                                      of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+
+                         ,1                                             Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                         ,2                                        A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                TS                              Reimold W.U., Wacker K. and Wanke H. (1985)
+--- material block 3; lines 15-27 ---
+S %
+                                                      7-1—7-58.    sum
+     (a) DBA
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+           67757                               Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and             4.8 grams                                                                  inventory. Curator Catalog, JSC
+
+                                                                  Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+         ,0           ,3                                        of some Apollo 16 rocks and fines: General petrologic model
+        4.7 g    PB                                      of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 67757 and 59
+               67757   67759
+     reference    Stoffler85                                References for 67757 and 59
+     weight                                                      Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    SiO2 %     45.6     45.8      (a)
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s    TiO2        0.81     0.81      (a)
+    Al2O3      23       22.6      (a)                            Catalog. pp. 370.
+   FeO        5.7       5.8        (a)
+   MnO        0.06     0.06      (a)                    LSPET (1973b) The Apollo 16 lunar samples: Petrographic

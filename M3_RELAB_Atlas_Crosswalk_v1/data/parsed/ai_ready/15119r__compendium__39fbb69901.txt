@@ -1,0 +1,266 @@
+DOCUMENT_ID: 15119r__compendium__39fbb69901
+ATLAS_SAMPLE_IDS: 15119
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15119r.pdf
+SOURCE_PDF_SHA256: 298d55320d814200acd7ba086e52b6ddf16af0a1148f3bce5d3f013a12ca96ea
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 9-30 ---
+Figure 1: Rake sample 15119 (basalt fragment breaking free
+                             of sil breccia). Cube is 1 inch. S71-48776.
+
+ Introduction
+                                                 Neal (2001). The composition indicates that it is an
+ Lunar sample 15119 is a rake sample from station 2
+                                                       olivine-normative basalt.
+ (Swann et al. 1972). Photos show it was partly a soil
+ breccia and partly a basalt fragment (figure 1).
+                                          Other Studies
+                                             Gose et al. (1072) and Pearce et al. (1973) determined Petrography
+                                                         the intensity of remanant magnetization.
+ Ryder (1985) gives the only description, describing a
+ “microporphyritc texture” with small phenocrysts of
+                                               Processing olivine set in a “groundmass of granular-looking
+                                             The basaltic portion (about half) broke free from the pyroxene enclosed in plagioclase” (figure 2). No mode
+                                                           breccia.  is given.
+
+ Chemistry
+ Analyses by Fruchter et al. (1973) and Chappell and
+ Green (1973) were repeated by Ryder et al. (2001) and
+--- material block 2; lines 1-31 ---
+15119
+                               Basalt (breccia attached)
+                                           14.1 grams
+
+
+
+
+
+                         Figure 1: Rake sample 15119 (basalt fragment breaking free
+                             of sil breccia). Cube is 1 inch. S71-48776.
+
+ Introduction
+                                                 Neal (2001). The composition indicates that it is an
+ Lunar sample 15119 is a rake sample from station 2
+                                                       olivine-normative basalt.
+ (Swann et al. 1972). Photos show it was partly a soil
+ breccia and partly a basalt fragment (figure 1).
+                                          Other Studies
+                                             Gose et al. (1072) and Pearce et al. (1973) determined Petrography
+                                                         the intensity of remanant magnetization.
+ Ryder (1985) gives the only description, describing a
+ “microporphyritc texture” with small phenocrysts of
+                                               Processing olivine set in a “groundmass of granular-looking
+                                             The basaltic portion (about half) broke free from the pyroxene enclosed in plagioclase” (figure 2). No mode
+                                                           breccia.  is given.
+
+ Chemistry
+ Analyses by Fruchter et al. (1973) and Chappell and
+ Green (1973) were repeated by Ryder et al. (2001) and
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-23 ---
+References for 15119                                         Lunar Basalts
+   Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’            14
+   Office, MSC 03209                                                                                 A17
+                                                                                               12
+  Chappell B.W. and Green D.H. (1973)  Chemical            10                   A11
+   compositions and petrogenetic relationships in Apollo 15
+  mare basalts. Earth Planet. Sci. Lett. 18, 237-246.                         8                                            TiO2
+                                                                                                   6
+   Fruchter J.S., Stoeser J.W., Lindstrom M.M. and Goles G.G.
+   (1973) Apollo 15 clastic materials and their relationship to             4                        15119  A12
+   local geologic features. Proc. 4th Lunar Sci. Conf. 1227-             2                        A15
+  1237.
+                                                                                                   0
+                                                                                                     0                5                10                15               20
+  Gose W.A., Pearce G.W., Strangway D.W. and Carnes J.                                             MgO
+   (1972) Magnetism of Apollo 15 samples. In The Apollo
+  15 Lunar Samples, 415-417.                                   Figure 3: Chemical composition of 15119 com-
+                                                              pared with other Apollo basalts.
+  Lofgren G.E., Donaldson C.H. and Usselman T.M. (1975)
+  Geology, petrology and crystallization of Apollo 15 quartz-
+  normative basalts. Proc. 6th Lunar Sci. Conf. 79-99.
+                                                        E.W., Reed V.S. and Sutton R.L. (1971b)  Preliminary
+  LSPET (1972a) The Apollo 15 lunar samples: A preliminary   description of Apollo 15 sample environments.  U.S.G.S.
+--- chemistry block 2; lines 42-65 ---
+Strangway D.W.  (1973)  Magnetic         13           15385       15659   basalt
+   studies on Apollo 15 and 16 lunar
+                                                                                                15672   samples. Proc. 4th Lunar Sci. Conf.         12
+                                                                            15555        15623
+                                                                                   15536                                                                                                    pigeonite basalt  3045-3076.                                                             15016                                                                                       15535
+                                                  11           15636                                     (quartz normative)
+                                                                                                                 15651  Ryder G. (1985) Catalog of Apollo 15                              15633 15545       15663                    MgO
+                                                                           15647   15379                                  15065  Rocks (three volumes).  Curatoial                                                  10
+  Branch Pub. # 72, JSC#20787                                           15256     15598                15485            15595                                                                                                                          15058
+                                                                               15557         15105                                15499                                                                                                                          15076
+                                                 9                    15119                                  15597      15495
+  Ryder G. and Schuraytz B.C. (2001)                                             15529          15668            15476
+                                                                                                                                   15596
+                                                                     15388                15556              15085       15117  Chemical variations of the large         8
+  Apollo 15 olivine-normative mare                                                                                   15682
+   basalt rock samples. J. Geophys. Res.                                                 7                                                               15118
+   106, E1, 1435-1451.
+
+  Swann G.A., Hait M.H., Schaber G.C.,
+                                        43       44       45      46       47      48        49  Freeman V.L., Ulrich G.E., Wolfe
+                                                     SiO2
+
+Lunar Sample Compendium
+C Meyer 2010
+--- mineralogy block 3; lines 32-47 ---
+106, 27865-27885.                                     Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+                                                             5-1-112.
+  Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+  Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+
+                                                                                                      15387
+  mineralogy and petrology.  Rev.
+  Geophys. Space Phys. 14, 475-540.                     picritic                                              C Meyer
+                                                      basalt                                                            2006
+  Pearce  G.W.,  Gose  W.A.  and                                      olivine-normative
+  Strangway D.W.  (1973)  Magnetic         13           15385       15659   basalt
+   studies on Apollo 15 and 16 lunar
+                                                                                                15672   samples. Proc. 4th Lunar Sci. Conf.         12
+                                                                            15555        15623
+                                                                                   15536                                                                                                    pigeonite basalt  3045-3076.                                                             15016                                                                                       15535
+                                                  11           15636                                     (quartz normative)
+--- mineralogy block 4; lines 50-62 ---
+Branch Pub. # 72, JSC#20787                                           15256     15598                15485            15595                                                                                                                          15058
+                                                                               15557         15105                                15499                                                                                                                          15076
+                                                 9                    15119                                  15597      15495
+  Ryder G. and Schuraytz B.C. (2001)                                             15529          15668            15476
+                                                                                                                                   15596
+                                                                     15388                15556              15085       15117  Chemical variations of the large         8
+  Apollo 15 olivine-normative mare                                                                                   15682
+   basalt rock samples. J. Geophys. Res.                                                 7                                                               15118
+   106, E1, 1435-1451.
+
+  Swann G.A., Hait M.H., Schaber G.C.,
+                                        43       44       45      46       47      48        49  Freeman V.L., Ulrich G.E., Wolfe
+                                                     SiO2
+--- material block 5; lines 34-63 ---
+Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+  Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+
+                                                                                                      15387
+  mineralogy and petrology.  Rev.
+  Geophys. Space Phys. 14, 475-540.                     picritic                                              C Meyer
+                                                      basalt                                                            2006
+  Pearce  G.W.,  Gose  W.A.  and                                      olivine-normative
+  Strangway D.W.  (1973)  Magnetic         13           15385       15659   basalt
+   studies on Apollo 15 and 16 lunar
+                                                                                                15672   samples. Proc. 4th Lunar Sci. Conf.         12
+                                                                            15555        15623
+                                                                                   15536                                                                                                    pigeonite basalt  3045-3076.                                                             15016                                                                                       15535
+                                                  11           15636                                     (quartz normative)
+                                                                                                                 15651  Ryder G. (1985) Catalog of Apollo 15                              15633 15545       15663                    MgO
+                                                                           15647   15379                                  15065  Rocks (three volumes).  Curatoial                                                  10
+  Branch Pub. # 72, JSC#20787                                           15256     15598                15485            15595                                                                                                                          15058
+                                                                               15557         15105                                15499                                                                                                                          15076
+                                                 9                    15119                                  15597      15495
+  Ryder G. and Schuraytz B.C. (2001)                                             15529          15668            15476
+                                                                                                                                   15596
+                                                                     15388                15556              15085       15117  Chemical variations of the large         8
+  Apollo 15 olivine-normative mare                                                                                   15682
+   basalt rock samples. J. Geophys. Res.                                                 7                                                               15118
+   106, E1, 1435-1451.
+
+  Swann G.A., Hait M.H., Schaber G.C.,
+                                        43       44       45      46       47      48        49  Freeman V.L., Ulrich G.E., Wolfe
+                                                     SiO2
+--- age block 6; lines 14-26 ---
+0                5                10                15               20
+  Gose W.A., Pearce G.W., Strangway D.W. and Carnes J.                                             MgO
+   (1972) Magnetism of Apollo 15 samples. In The Apollo
+  15 Lunar Samples, 415-417.                                   Figure 3: Chemical composition of 15119 com-
+                                                              pared with other Apollo basalts.
+  Lofgren G.E., Donaldson C.H. and Usselman T.M. (1975)
+  Geology, petrology and crystallization of Apollo 15 quartz-
+  normative basalts. Proc. 6th Lunar Sci. Conf. 79-99.
+                                                        E.W., Reed V.S. and Sutton R.L. (1971b)  Preliminary
+  LSPET (1972a) The Apollo 15 lunar samples: A preliminary   description of Apollo 15 sample environments.  U.S.G.S.
+   description. Science 175, 363-375.                        Interagency report: 36. pp219 with maps
+
+  LSPET (1972b) Preliminary examination of lunar samples.  Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+--- treatment block 7; lines 36-48 ---
+15387
+  mineralogy and petrology.  Rev.
+  Geophys. Space Phys. 14, 475-540.                     picritic                                              C Meyer
+                                                      basalt                                                            2006
+  Pearce  G.W.,  Gose  W.A.  and                                      olivine-normative
+  Strangway D.W.  (1973)  Magnetic         13           15385       15659   basalt
+   studies on Apollo 15 and 16 lunar
+                                                                                                15672   samples. Proc. 4th Lunar Sci. Conf.         12
+                                                                            15555        15623
+                                                                                   15536                                                                                                    pigeonite basalt  3045-3076.                                                             15016                                                                                       15535
+                                                  11           15636                                     (quartz normative)
+                                                                                                                 15651  Ryder G. (1985) Catalog of Apollo 15                              15633 15545       15663                    MgO
+--- references block 8; lines 1-7 ---
+References for 15119                                         Lunar Basalts
+   Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’            14
+   Office, MSC 03209                                                                                 A17
+                                                                                               12
+  Chappell B.W. and Green D.H. (1973)  Chemical            10                   A11
+   compositions and petrogenetic relationships in Apollo 15
+  mare basalts. Earth Planet. Sci. Lett. 18, 237-246.                         8                                            TiO2
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 15119.
+
+
+  reference  Ryder2001           Neal2001  Chappel73  Fruchter78
+  weight
+ SiO2 %    44.9     (d)                     45.23   (c )
+  TiO2      2.57     (d)                      2.64    (c ) 2.85     (a)
+ Al2O3     8.96     (d)                      9.24    (c ) 8.94     (a)
+ FeO      22.23    (d) 22.1   (a)            22.25   (c ) 22       (a)
+ MnO      0.28     (d)                      0.31    (c )
+ MgO      9.38     (d)                      8.93    (c )
+ CaO      10.04    (d)                     10.55   (c )
+ Na2O     0.264    (d) 0.27   (a)            0.3     (c ) 0.29     (a)
+ K2O      0.048    (d)                      0.05    (c )
+ P2O5     0.072    (d)                      0.09    (c )
+ S %                                        0.05    (c )
+ sum
+
+ Sc ppm             44     (a) 58     (b)           45       (a)
+ V                                 (a) 447    (b)
+--- material block 2; lines 56-68 ---
+Ho                              1.07   (b)
+  Er                           3       (b)                        15119
+ Tm                               0.4     (b)                           14.1 g
+ Yb                    2.36   (a) 2.5     (b)              2.1      (a)
+ Lu                    0.32   (a) 0.34   (b)             0.38     (a)
+  Hf                    2.89   (a) 3.35   (b)              2.8      (a)
+  Ta                    0.41   (a) 0.56   (b)                              breccia                     basalt
+ W ppb                        80     (b)
+ Re ppb
+ Os ppb                                                    ,1      ,4              ,19            ,0   Ir ppb                                                         PB                                                      2.5 g   2.5 g           1.9 g         2.65 g  Pt ppb
+ Au ppb
+                                                                                                                 ,3 Th ppm               0.49   (a)
+                                                                                                     ,12 U ppm
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 15119.
+
+
+  reference  Ryder2001           Neal2001  Chappel73  Fruchter78
+  weight
+ SiO2 %    44.9     (d)                     45.23   (c )
+  TiO2      2.57     (d)                      2.64    (c ) 2.85     (a)
+ Al2O3     8.96     (d)                      9.24    (c ) 8.94     (a)
+ FeO      22.23    (d) 22.1   (a)            22.25   (c ) 22       (a)
+ MnO      0.28     (d)                      0.31    (c )
+--- references block 4; lines 63-73 ---
+W ppb                        80     (b)
+ Re ppb
+ Os ppb                                                    ,1      ,4              ,19            ,0   Ir ppb                                                         PB                                                      2.5 g   2.5 g           1.9 g         2.65 g  Pt ppb
+ Au ppb
+                                                                                                                 ,3 Th ppm               0.49   (a)
+                                                                                                     ,12 U ppm
+                                                                                                     ,14  technique  (a) INAA, (b) ICP-MS, (c ) XRF, (d) fused bead, elec. probe
+                                                                           TS
+
+Lunar Sample Compendium
+C Meyer 2010

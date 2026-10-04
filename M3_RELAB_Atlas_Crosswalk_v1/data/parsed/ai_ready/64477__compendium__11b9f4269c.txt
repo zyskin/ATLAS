@@ -1,0 +1,56 @@
+DOCUMENT_ID: 64477__compendium__11b9f4269c
+ATLAS_SAMPLE_IDS: 64477
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64477.pdf
+SOURCE_PDF_SHA256: 14f2343f5778d36fa550dc31052f61fb6f0c3e999d7cf51235b0ae6dc6effc7a
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,references ===
+--- material block 1; lines 1-8 ---
+64477 – 19.3 grams
+                              Impact Melt Breccia
+
+
+
+
+
+                  Figure 1 a,b: Photos of two sides of 64477. Scale in cm. S72-40143 and 129
+--- material block 2; lines 13-26 ---
+16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   included 64475 and 64476.
+                                                              Catalog. pp. 370.
+
+   Petrography                               LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   Warner et al. (1973) termed 64477 “cataclastic  and chemical description. Science 179, 23-34.
+    anorthosite to light matrix breccia plus mesostasis-rich
+    basalt”.                                             Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Chemistry
+                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.
+   none                                                               In Geology of the Apollo 16 area, central lunar highlands.
+                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   Radiogenic age dating
+--- age block 3; lines 20-32 ---
+basalt”.                                             Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Chemistry
+                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.
+   none                                                               In Geology of the Apollo 16 area, central lunar highlands.
+                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   Radiogenic age dating
+   none                                             Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+                                                        Apollo 16 rocks: Classification and petrogenetic model.
+   Processing                                             Proc. 4th Lunar Sci. Conf. 481-504.
+   There are 2 thin sections of 64477.
+
+                                                      64477
+--- references block 4; lines 5-17 ---
+Figure 1 a,b: Photos of two sides of 64477. Scale in cm. S72-40143 and 129
+
+
+   Introduction                                    References for 64477
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo   64477 is part of the residue of doc bag #3 which
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   included 64475 and 64476.
+                                                              Catalog. pp. 370.
+
+   Petrography                               LSPET (1973b) The Apollo 16 lunar samples: Petrographic

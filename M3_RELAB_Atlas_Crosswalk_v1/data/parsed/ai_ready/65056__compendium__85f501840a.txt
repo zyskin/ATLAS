@@ -1,0 +1,155 @@
+DOCUMENT_ID: 65056__compendium__85f501840a
+ATLAS_SAMPLE_IDS: 65056
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65056.pdf
+SOURCE_PDF_SHA256: b9e59fe4e5d9fb775e8063e755fc126639391876b44dcd1e8b837fa03a4221c1
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 1-34 ---
+65056
+                                Glass Matrix Breccia
+                                            64.8 grams
+
+
+
+
+
+                           Figure 1: Photo of 65056. Cube is 1 cm. S72-40136
+
+
+   Introduction                                    References for 65056
+   65056 is a large glass object that contains interesting   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   white clasts (figures 1 and 3).                            16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                              Catalog. pp. 370.
+   Petrography
+                                                         Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   The glass in 65056 has devitrified as various variolitic                                                                   in Apollo 16 highland rocks: Manifestations of volatile-
+    textures (bow-ties, sheaths and radiating clusters of                                                          element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   plagioclase).  The white clasts are about 1 cm in   259.
+   dimention.
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   One white clast has large plagioclase crystals, and  and chemical description. Science 179, 23-34.
+   would be called an anorthosite.
+                                             LSPET (1972c) Preliminary examination of lunar samples.
+                                                               In Apollo 16 Preliminary Science Report. NASA SP-315,   Another white clast has a poikioblastic texture (figure
+                                                     7-1—7-58.
+    ) and may be a norite.
+
+                                                          Morris R.V., See T.H. and Horz F. (1986) Composition of
+   Chemistry                                                the Cayley Formation at Apollo 16 as inferred from impact
+   Morris et al. (1986) and See et al. (1986) studied 65056.   melt splashes.  Proc. 17th Lunar Planet. Sci. Conf. in  J.
+                                                       Geophys. Res. 90, E21-E42.
+   Cosmogenic isotopes and exposure ages
+--- material block 2; lines 1-8 ---
+65056
+                                Glass Matrix Breccia
+                                            64.8 grams
+--- material block 3; lines 17-32 ---
+Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   The glass in 65056 has devitrified as various variolitic                                                                   in Apollo 16 highland rocks: Manifestations of volatile-
+    textures (bow-ties, sheaths and radiating clusters of                                                          element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   plagioclase).  The white clasts are about 1 cm in   259.
+   dimention.
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   One white clast has large plagioclase crystals, and  and chemical description. Science 179, 23-34.
+   would be called an anorthosite.
+                                             LSPET (1972c) Preliminary examination of lunar samples.
+                                                               In Apollo 16 Preliminary Science Report. NASA SP-315,   Another white clast has a poikioblastic texture (figure
+                                                     7-1—7-58.
+    ) and may be a norite.
+
+                                                          Morris R.V., See T.H. and Horz F. (1986) Composition of
+   Chemistry                                                the Cayley Formation at Apollo 16 as inferred from impact
+   Morris et al. (1986) and See et al. (1986) studied 65056.   melt splashes.  Proc. 17th Lunar Planet. Sci. Conf. in  J.
+--- age block 4; lines 31-43 ---
+Chemistry                                                the Cayley Formation at Apollo 16 as inferred from impact
+   Morris et al. (1986) and See et al. (1986) studied 65056.   melt splashes.  Proc. 17th Lunar Planet. Sci. Conf. in  J.
+                                                       Geophys. Res. 90, E21-E42.
+   Cosmogenic isotopes and exposure ages
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16   Rancitelli et al. (19730 determined the 22Na and
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   26Al activity due to cosmic ray activation.
+                                                       See T.H., Horz F. and Morris R.V. (1986) Apollo 16 impact-
+   Processing                                            melt splashes: Petrography and major-element composition.
+   There are 3 thin sections.                               Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 91,
+                                                        E3-E20.
+
+Lunar Sample Compendium
+--- references block 5; lines 6-18 ---
+Figure 1: Photo of 65056. Cube is 1 cm. S72-40136
+
+
+   Introduction                                    References for 65056
+   65056 is a large glass object that contains interesting   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   white clasts (figures 1 and 3).                            16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                              Catalog. pp. 370.
+   Petrography
+                                                         Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   The glass in 65056 has devitrified as various variolitic                                                                   in Apollo 16 highland rocks: Manifestations of volatile-
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 65056
+
+
+                                                                      reference  Morris86    Rancitelli73
+                                                                   weight    See86
+                                                           SiO2 %   45.25   (b)
+                                                              TiO2      0.36     (b)
+                                                           Al2O3    26.18   (b)
+                                                   FeO      5.28     (a)
+                                              MnO
+                                              MgO      7.79     (b)
+                                                CaO      14.56   (b)
+                                                   Na2O     0.61     (b)
+                                                 K2O      0.11     (b) 0.128     (c )
+                                                   P2O5
+                                                  S %
+                                                     sum
+
+                                                         Sc ppm   6.85     (a)
+                                                  V
+--- material block 2; lines 25-37 ---
+Zn
+                                                 Ga
+                                                  Ge ppb
+                                                        As
+                                                      Se
+                                                    Rb
+         Figure 2: Thin section photo of clast in 65056.         Sr
+                                                  Y
+                                                                      Zr
+                                                    Nb
+                                                Mo
+                                                    Ru
+                                                    Rh
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 65056
+
+
+                                                                      reference  Morris86    Rancitelli73
+                                                                   weight    See86
+                                                           SiO2 %   45.25   (b)
+                                                              TiO2      0.36     (b)
+                                                           Al2O3    26.18   (b)
+                                                   FeO      5.28     (a)
+                                              MnO
+--- references block 4; lines 64-74 ---
+Os ppb
+                                                                                                            Ir ppb
+                                                                      Pt ppb
+                                                      Au ppb
+                                                         Th ppm   2.67     (a)  1.55      (c )
+                                              U ppm    1.04     (a)  0.41      (c )
+                                                                       technique:  (a) INAA, (b) broad beam e probe, (c ) radiation count.
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 4; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+Figure 4: Thin
+         section of clast in
+        65056 by C Meyer
+        2 mm across

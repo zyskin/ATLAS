@@ -1,0 +1,95 @@
+DOCUMENT_ID: 67769__compendium__d393e3cf2b
+ATLAS_SAMPLE_IDS: 67769
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67769.pdf
+SOURCE_PDF_SHA256: c10d9f657dcd1be202a480bf7ffaf39af0b085233db2c04748f59697ce0981e8
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 14-30 ---
+Ray Crater – see section on 67701.   It has a
+    micropoikilitic texture indicating that it is an impact
+   melt breccia.
+
+   Petrography
+    Steele and Smith (1973) studied the mineral chemistry
+   of 67769, finding that plagioclase was An85-95 and that
+   both high-Ca and low-Ca pyroxene were present. The
+   pyroxene forms oikocrysts that surround plagioacse
+    inclusions.  Poikilitic ilmenite and Fe-metal is found
+    at boundaries of pyroxene oikocrysts. Figure 2 is from     Figure 3: Composition of pyroxene and olivine in
+   Ryder and Norman (1980). Soffler et al. (1981, 1985)    67769 (Steele and Smith 1973).
+    classify it as micropoikilitic impact melt but offer no
+    analysis and it remains unstudied (and an opportunity
+    for future generations).
+
+   Processing
+--- material block 2; lines 1-32 ---
+67769
+                               Impact Melt Breccia
+                                        3 grams
+
+
+
+
+
+         Figure 1: Photo of 67769. Scle marked in mm.
+        S72-51044
+                                                                 Figure 2: Photomicrograph of 67769.
+   Introduction
+   67769 is a rake sample collected from the rim of North
+  Ray Crater – see section on 67701.   It has a
+    micropoikilitic texture indicating that it is an impact
+   melt breccia.
+
+   Petrography
+    Steele and Smith (1973) studied the mineral chemistry
+   of 67769, finding that plagioclase was An85-95 and that
+   both high-Ca and low-Ca pyroxene were present. The
+   pyroxene forms oikocrysts that surround plagioacse
+    inclusions.  Poikilitic ilmenite and Fe-metal is found
+    at boundaries of pyroxene oikocrysts. Figure 2 is from     Figure 3: Composition of pyroxene and olivine in
+   Ryder and Norman (1980). Soffler et al. (1981, 1985)    67769 (Steele and Smith 1973).
+    classify it as micropoikilitic impact melt but offer no
+    analysis and it remains unstudied (and an opportunity
+    for future generations).
+
+   Processing
+   There is one thin section.
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 14-26 ---
+rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+    67515 to 68537:  Sample classification, description and
+    inventory. Curator Catalog, JSC
+
+    Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    of some Apollo 16 rocks and fines: General petrologic model
+    of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+
+     Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Reimold W.U., Wacker K. and Wanke H. (1985)
+--- material block 2; lines 10-22 ---
+In Apollo 16 Preliminary Science Report. NASA SP-315,
+    7-1—7-58.                                                                                             ,1
+                                                              TS
+    Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+    67515 to 68537:  Sample classification, description and
+    inventory. Curator Catalog, JSC
+
+    Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    of some Apollo 16 rocks and fines: General petrologic model
+    of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+--- references block 3; lines 1-7 ---
+References for 67769
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s              67769
+    Catalog. pp. 370.                                    3 grams
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+    and chemical description. Science 179, 23-34.

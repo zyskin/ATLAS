@@ -1,0 +1,212 @@
+DOCUMENT_ID: 63556__compendium__226b1c63c8
+ATLAS_SAMPLE_IDS: 63556
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63556.pdf
+SOURCE_PDF_SHA256: 5d2838392b18906fe357869da0a80ccb7a1de69b21cdab9f2e8573e570f2b082
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 8-20 ---
+Figure 1: Photo of 63556. Scale is cm/mm. S72-55401
+
+   Introduction
+   63556 was collected as a rake sample from station 13,
+   on the flank of North Ray Crater – see section on 63500.
+     It is a poikilitic impact melt with the bulk composition
+   of KREEP. It has a few micrometeorite zap pits (figure
+    1).
+
+   Petrography
+   This rake sample is similar in texture and composition
+   with 62235. It is holocrystalline with a patchy network
+--- mineralogy block 2; lines 15-38 ---
+of KREEP. It has a few micrometeorite zap pits (figure
+    1).
+
+   Petrography
+   This rake sample is similar in texture and composition
+   with 62235. It is holocrystalline with a patchy network
+   of pyroxene oikocrysts enclosing a few fragments of
+   plagioclase (figures 2 and 3). Ilmenite is concentrated
+   between pyroxene oikocrysts (Warner et al. 1973;
+   Simonds et al. 1973).
+                                                                Figure 2: Photomicrograph of thin section 63556
+   Pyroxene:  Simonds et al. (1973) reported the
+   composition of pyroxene (Wo7En73Fs20).
+
+                                                     Mineralogical Mode 63556   Chemistry
+                                                                                Simonds et
+   This rake sample is very KREEPy (table 1 and figure                                                                                                                          al. 1973
+    4).                                                                     Plagioclase       68 %
+                                                                   Pyroxene        29
+                                                                          Olivine          2
+                                                               Opaques         1
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 3; lines 1-37 ---
+63556
+                                  Poikilitic Impact Melt Breccia
+                                            18.1 grams
+
+
+
+
+
+                         Figure 1: Photo of 63556. Scale is cm/mm. S72-55401
+
+   Introduction
+   63556 was collected as a rake sample from station 13,
+   on the flank of North Ray Crater – see section on 63500.
+     It is a poikilitic impact melt with the bulk composition
+   of KREEP. It has a few micrometeorite zap pits (figure
+    1).
+
+   Petrography
+   This rake sample is similar in texture and composition
+   with 62235. It is holocrystalline with a patchy network
+   of pyroxene oikocrysts enclosing a few fragments of
+   plagioclase (figures 2 and 3). Ilmenite is concentrated
+   between pyroxene oikocrysts (Warner et al. 1973;
+   Simonds et al. 1973).
+                                                                Figure 2: Photomicrograph of thin section 63556
+   Pyroxene:  Simonds et al. (1973) reported the
+   composition of pyroxene (Wo7En73Fs20).
+
+                                                     Mineralogical Mode 63556   Chemistry
+                                                                                Simonds et
+   This rake sample is very KREEPy (table 1 and figure                                                                                                                          al. 1973
+    4).                                                                     Plagioclase       68 %
+                                                                   Pyroxene        29
+                                                                          Olivine          2
+                                                               Opaques         1
+
+Lunar Sample Compendium
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 63556
+
+
+    reference   Stoffler85  Wasson77
+    weight
+   SiO2 %    47.2     (b)
+    TiO2       0.65     (b) 1.17    1.2      (a)
+   Al2O3     23.4     (b) 19.6    19.6     (a)
+   FeO       5.3      (b) 8.2      8.7      (a)
+   MnO       0.06     (b) 0.1      0.1      (a)
+   MgO       7.2      (b) 10.3    10.3     (a)
+   CaO       14.6     (b) 12      11.7     (a)
+   Na2O      0.57     (b) 0.59    0.58     (a)
+   K2O       0.44     (b) 0.34    0.37     (a)
+   P2O5      0.35     (b)
+   S %
+   sum
+
+   Sc ppm                15.7    15       (a)
+   V                   35     34       (a)
+--- mineralogy block 2; lines 55-67 ---
+Dy                  30     27       (a)               En                                          Fs
+   Ho
+    Er
+   Tm                                            Fo                                        Fa
+   Yb                    16.4    15.5     (a)                                   compiled by C Meyer
+   Lu                    2.28    2.18     (a)
+    Hf                     17.4    17.2     (a)                          Figure 5: Composition diagram for pyroxene in
+    Ta                     1.8      1.8      (a)                       63556 (data from Simonds et al. 1973).
+  W ppb
+   Re ppb
+   Os ppb
+      Ir ppb               13     20       (a)
+    Pt ppb
+--- age block 3; lines 21-42 ---
+Cr                  1250   1190    (a)                        Figure 4: Normalized rare-earth-element diagram
+   Co                    26.7    55       (a)                           for 63556 (from Ryder and Noram 1980).
+    Ni                  346    730     (a)
+   Cu
+   Zn
+   Ga                     4.7                (a)
+   Ge ppb              850               (a)               Radiogenic age dating
+   As
+   Se                                                 Borchardt et al. (1986) reported an Ar/Ar plateau age
+   Rb                                                    of 2.15 b.y.  (generally samples of this type are 3.9
+    Sr                                                                 b.y.).
+   Y
+    Zr                  800    720     (a)
+   Nb                                       Cosmogenic isotopes and exposure ages
+   Mo
+   Ru                  43                 (a)                 Borchardt et al. (1986) reported an 38Ar exposure age
+   Rh                                                    of 9 m.y.
+   Pd ppb
+   Ag ppb
+   Cd ppb                                         Processing
+     In ppb                 0.12               (a)                 There are two thin sections of 63556.
+   Sn ppb
+--- references block 4; lines 1-10 ---
+Table 1. Chemical composition of 63556
+
+
+    reference   Stoffler85  Wasson77
+    weight
+   SiO2 %    47.2     (b)
+    TiO2       0.65     (b) 1.17    1.2      (a)
+   Al2O3     23.4     (b) 19.6    19.6     (a)
+   FeO       5.3      (b) 8.2      8.7      (a)
+   MnO       0.06     (b) 0.1      0.1      (a)
+--- references block 5; lines 65-74 ---
+Os ppb
+      Ir ppb               13     20       (a)
+    Pt ppb
+   Au ppb                 5.5     13       (a)
+   Th ppm                8.3      8.2      (a)
+   U ppm                 2.2     2        (a)
+    technique: (a) INAA+RNAA, (b) broad-beam elec. Probe
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 4; CATEGORIES: age,material,references ===
+--- material block 1; lines 22-46 ---
+R.A. (1984) Apollo 16: Impact sheets, contrasting nature of
+    the Cayley Plains and Descartes Mountains, and geologic
+     history. Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys.
+    Res. 89, B513-B524.
+
+    Phinney W. and Lofgren G. (1973) Description, classification
+    and inventory of Apollo 16 rake samples from stations 1, 4
+    and 13. Curators Office.
+
+    Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+   Simonds C.H., Warner J.L. and Phinney W.C. (1973)
+    Petrology of Apollo 16 poikilitic rocks.  Proc. 4th Lunar
+     Sci. Conf. 613-632.
+
+     Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+      J. and Rehfeldt A. (1981) Distribution and provenance of
+    lunar highland rock types at North Ray Crater, Apollo 16.
+    Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+     Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Reimold W.U., Wacker K. and Wanke H. (1985)
+    Composition and evolution of the lunar crust in the Descartes
+--- age block 2; lines 1-10 ---
+References for 63556                             Wasson J.T., Warren P.H., Kallemeyn G.W., McEwing C.E.,
+    Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,   Mittlefehldt D.W. and Boynton W.V. (1977) SCCRV, a major
+   Wacker K. and Jessberger E.K. (1986)  Composition,  component of highlands rocks. Proc. 8th Lunar Sci. Conf.
+     structure and age of the Apollo 16 subregolith basement as   2237-2252.
+    deduced from the chemistry of post-Imbrium melt bombs.
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,
+    E43-E54.
+
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+--- references block 3; lines 1-7 ---
+References for 63556                             Wasson J.T., Warren P.H., Kallemeyn G.W., McEwing C.E.,
+    Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,   Mittlefehldt D.W. and Boynton W.V. (1977) SCCRV, a major
+   Wacker K. and Jessberger E.K. (1986)  Composition,  component of highlands rocks. Proc. 8th Lunar Sci. Conf.
+     structure and age of the Apollo 16 subregolith basement as   2237-2252.
+    deduced from the chemistry of post-Imbrium melt bombs.
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,
+    E43-E54.

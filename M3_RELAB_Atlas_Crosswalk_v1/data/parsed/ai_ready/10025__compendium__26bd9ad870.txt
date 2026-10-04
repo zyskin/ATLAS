@@ -1,0 +1,104 @@
+DOCUMENT_ID: 10025__compendium__26bd9ad870
+ATLAS_SAMPLE_IDS: 10025
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10025.pdf
+SOURCE_PDF_SHA256: a4a4862a6cd45ba2f34f2d90b1b87e6cd2037db835c0f54d5d41fe139f4eb7de
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 7-27 ---
+Figure 1: Photo of 10025. Sample is 5.5 cm long. NASA S76-28225.
+
+
+
+           Mineralogical Mode
+                                Chao et al. 1971
+               Basaltic rock               12.9
+               Anorthositic rock           0.2
+              Mineral fragments           4.4
+             Glass-welded aggregate     10.9
+               Devitrified glass            1.7
+             Heterogeneous glass        1.6
+            Homogeneous glass         2.1
+               Basaltic microbreccia       0.5
+               Anorthositic breccia         0.3
+            Shocked                    0.3
+             Less than 25 microns       21.5
+             Pore space                 43.9
+--- mineralogy block 2; lines 31-41 ---
+10025w as collected as part of the contingency sample  Kramer et al. (1979) noted that there were zap pits (with
+   from the area immediately in front of the Lunar Module   raised rims!). Chao et al. (1971) illustrate a cross
+   (LM).  It is a friable regolith breccia (figure 1)..        section thru one of these micrometeorite crater in 10025
+                                                              (figure 2).
+   Petrography
+   Chao et al. (1971) studied a thin section (figure 3) and  Chemistry
+   reported a mode.                                none
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-39 ---
+10025
+                                       Breccia
+                                               8.1 grams
+
+
+
+
+
+                     Figure 1: Photo of 10025. Sample is 5.5 cm long. NASA S76-28225.
+
+
+
+           Mineralogical Mode
+                                Chao et al. 1971
+               Basaltic rock               12.9
+               Anorthositic rock           0.2
+              Mineral fragments           4.4
+             Glass-welded aggregate     10.9
+               Devitrified glass            1.7
+             Heterogeneous glass        1.6
+            Homogeneous glass         2.1
+               Basaltic microbreccia       0.5
+               Anorthositic breccia         0.3
+            Shocked                    0.3
+             Less than 25 microns       21.5
+             Pore space                 43.9
+
+                                                                Figure 2: Cross section through a micrometeorite
+                                                                       crater on the surface of 10025 (Chao et al. 1971).
+   Introduction
+   10025w as collected as part of the contingency sample  Kramer et al. (1979) noted that there were zap pits (with
+   from the area immediately in front of the Lunar Module   raised rims!). Chao et al. (1971) illustrate a cross
+   (LM).  It is a friable regolith breccia (figure 1)..        section thru one of these micrometeorite crater in 10025
+                                                              (figure 2).
+   Petrography
+   Chao et al. (1971) studied a thin section (figure 3) and  Chemistry
+   reported a mode.                                none
+
+=== PDF PAGE 3; CATEGORIES: mineralogy,references ===
+--- mineralogy block 1; lines 36-48 ---
+Laboratory, MSC 412 pp
+
+   Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo
+   11 Lunar Sample Information Catalogue (revised).
+    Curator’s Office, JSC 12522
+
+   Lofgren G.E. (1971b)  Devitrified glass fragments from
+   Apollo 11 and Apollo 12 lunar samples.  Proc. 2nd Lunar
+    Sci. Conf. 949-955
+
+   LSPET (1969) Preliminary examination of lunar samples
+   from Apollo 11. Science 165, 1211-1227.
+--- references block 2; lines 16-28 ---
+cataloged in 1969 and “recataloged” by Kramer et al.
+   (1977).  There are only two thin sections.
+
+
+
+
+   References for 10025
+   Chao E.C.T., James O.B., Minkin J.A., Boreman J.A.,
+   Jackson E.D. and Raleigh C.B. (1970)  Petrology of
+   unshocked crystalline rocks and evidence of impact
+   metamorphism in Apollo 11 returned lunar samples. Proc.
+    Apollo 11 Lunar Sci. Conf. 287-314.

@@ -1,0 +1,228 @@
+DOCUMENT_ID: 65325__compendium__80d93925e8
+ATLAS_SAMPLE_IDS: 65325,65327
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65325.pdf
+SOURCE_PDF_SHA256: db46ec72f2e2bbe462c5bf63b69c5acfe06531ac66a95aeadf3f9649693db0af
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 6-25 ---
+Figure 1: Photo of 65235. Scale in mm/cm. NASA S72-47662.
+
+   Introduction                                Petrography
+   Lunar sample 65325 and 65327 were collected with  The interior of 65325 and 65327 is ~99% plagioclase
+   65315 and returned with rake samples collected from   (An97) with ~ 1% orthopyroxene (Wo2En63), trace
+    station 5 near Stone Mountain – see section on 65315   ilmenite and rust (Warren and Wasson 1978). The
+      . They are white rocks with a thin coat of black glass   texture is that of a badly crushed rock with broken
+    (figure 1 and 2). They have  zap pits on the white  fragments of plagioclase (1.0 to 0.1 mm) arranged in a
+   surfaces where the black glass has apparently been  jumble (figure 3).  Mineral compositions plot in the
+   eroded off. They are friable anorthosite very like 65315   field of ferroan anorthosite (figure 5).
+   from the same sample bag (and may have been part of
+     it). The anorthosite is cataclastic but chemically  The glass coating attached to this sample has higher
+    pristine (i.e. low Ir, low KREEP).              REE content than the glass attached to 65315 (figure
+                                                                  6).
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 2; lines 7-21 ---
+Figure 1: Photo of 65235. Scale in mm/cm. NASA S72-47662.
+
+   Introduction                                Petrography
+   Lunar sample 65325 and 65327 were collected with  The interior of 65325 and 65327 is ~99% plagioclase
+   65315 and returned with rake samples collected from   (An97) with ~ 1% orthopyroxene (Wo2En63), trace
+    station 5 near Stone Mountain – see section on 65315   ilmenite and rust (Warren and Wasson 1978). The
+      . They are white rocks with a thin coat of black glass   texture is that of a badly crushed rock with broken
+    (figure 1 and 2). They have  zap pits on the white  fragments of plagioclase (1.0 to 0.1 mm) arranged in a
+   surfaces where the black glass has apparently been  jumble (figure 3).  Mineral compositions plot in the
+   eroded off. They are friable anorthosite very like 65315   field of ferroan anorthosite (figure 5).
+   from the same sample bag (and may have been part of
+     it). The anorthosite is cataclastic but chemically  The glass coating attached to this sample has higher
+    pristine (i.e. low Ir, low KREEP).              REE content than the glass attached to 65315 (figure
+
+=== PDF PAGE 2; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 1-27 ---
+Figure 2: Photo of 65327. Scale is marked in mm. S72-47678
+
+
+   Mineralogy
+    Olivine: none
+
+   Pyroxene:  Warren and Wasson (1978) determined
+    orthopyroxene was Wo2En63.  Bersch et al. (1991)
+    presented precise pyroxene analyses (figure 4).
+
+    Plagioclase:  Warren and Wasson (1978) reported
+    plagioclase was An96-97.
+
+    Ilmenite: trace
+
+    Rust: Hunter and Taylor (1981) reported “rust”.
+                                                                Figure 3: Photomicrograph of thin section 65325,6.
+   Chemistry                                                   Field of view is 1.3 mm. NASA S79-27681.
+   Warren and Wasson (1978) and Ebihara et al. (1992)
+    determined the composition of 65325 (table 1). Morris
+     et al. (1986) found the glass coating was high in KREEP
+    (figure 6). Howevr, the interior anorthosite is pristine.
+    Cirlin and Housley (1981) determined Cd and Zn
+    contents.
+
+=== PDF PAGE 3; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 1-29 ---
+65325                                            An in plagioclase                Di                   Hd                                                                               75       80        85       90       95
+            Bersch et al
+           1991
+
+                                                                                                                                                             troctolites
+                                                                                                                                90
+
+
+
+                                                                                                          mg-suite
+                                                                                                                                          norites                 80                                                                                                                                  En
+                                                                                                                                  in
+   En                                          Fs                                                                                                                                                                                                                                                                                                                                                                                                       low-Ca                                                                                                          gabbro-                           70
+   Fo                                        Fa                                   norites        65325
+          compiled by C Meyer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         pyroxene
+                                                                                                                                                ferroan-        60
+       Figure 4: Pyroxene composition of 65325 (Bersch et                                                           anorthosite
+          al. 1991).
+
+                                                                                                                                50
+   Other Studies
+    Cirlin and Housley (1981) showed that most of the Zn
+                                                               Figure 5: Plagioclase and pyroxene composition of    in 65235 was on the surface of the cracks (figure 7).
+                                                         65325 (data from Warren and Wasson 1978).
+
+   Processing                                                                          1000
+   There are 4 thin sections of each sample.                                    65325
+--- mineralogy block 2; lines 45-57 ---
+0.1
+                                                                                     La      Pr    Sm    Gd     Dy      Er     Yb                                                                            Ce    Nd     Eu     Tb     Ho    Tm     Lu
+
+                                                                  Figure 6: Normalized rare-earth-element compo-
+                                                                                sition diagram for 65325 and glass coating (data
+                                                                from Warren and Wasson 1978 and Morris et al.
+                                                                    1986).
+
+=== PDF PAGE 4; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 65325.
+                                                 glass       anor
+     reference  Warren78           Ebihara92  Morris 86   See 86       Cirlin and Housley 1981
+     weight                              See 86
+    SiO2 %           44.07    (b)            44.73    (c ) 44.08   (e)
+    TiO2                                      0.39     (c ) 0.02     (e)
+    Al2O3             35.1     (b)            26.51    (c ) 35.15   (e)
+   FeO       0.3     0.27     (b)             5.71     (c ) 0.28     (e)
+   MnO      0.008   0.008    (b)                         0.01     (e)
+   MgO              0.23     (b)             7.48     (c ) 0.23     (e)
+   CaO      19.6    19.7     (b)            14.82    (c ) 19.6     (e)
+   Na2O     0.39    0.38     (b)             0.35     (c ) 0.34     (e)
+   K2O                                      0.06     (c ) 0.01     (e)
+   P2O5
+   S %
+    sum
+
+    Sc ppm   0.44    0.41     (b)            10.92    (b)
+   V
+--- mineralogy block 2; lines 1-8 ---
+Table 1. Chemical composition of 65325.
+                                                 glass       anor
+     reference  Warren78           Ebihara92  Morris 86   See 86       Cirlin and Housley 1981
+     weight                              See 86
+    SiO2 %           44.07    (b)            44.73    (c ) 44.08   (e)
+    TiO2                                      0.39     (c ) 0.02     (e)
+    Al2O3             35.1     (b)            26.51    (c ) 35.15   (e)
+   FeO       0.3     0.27     (b)             5.71     (c ) 0.28     (e)
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 65325.
+                                                 glass       anor
+     reference  Warren78           Ebihara92  Morris 86   See 86       Cirlin and Housley 1981
+     weight                              See 86
+    SiO2 %           44.07    (b)            44.73    (c ) 44.08   (e)
+    TiO2                                      0.39     (c ) 0.02     (e)
+    Al2O3             35.1     (b)            26.51    (c ) 35.15   (e)
+   FeO       0.3     0.27     (b)             5.71     (c ) 0.28     (e)
+   MnO      0.008   0.008    (b)                         0.01     (e)
+--- references block 4; lines 64-74 ---
+Os ppb
+       Ir ppb     0.12    0.0076  (b) 0.017   (a)
+     Pt ppb                        <0.27   (a)
+    Au ppb    0.052   0.021    (b) <0.01   (a)
+    Th ppm                                   4.09     (b)
+   U ppm                       1E-03   (a) 1.08     (b)
+     technique:  (a) RNAA, (b) INAA, (c ) emp, (d) FLAA, (e) DBA
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 5-23 ---
+18, 2085-2088.                                    Warren P.H. and Wasson J.T. (1978)  Compositional-
+                                                              petrographic investigation of pristine nonmare rocks. Proc.
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo    9th Lunar Planet. Sci. Conf. 185-217.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     Warren P.H. and Kallemeyn G.W. (1984) Pristine rocks (8th
+                                                                   foray): Plagiophile element ratios, crustal genesis, and the
+    Cirlin E.H. and Housley R.M. (1981)  Distribution and   bulk composition of the Moon. Proc. 15th Lunar Planet.
+    evolution of Zn, Cd, and Pb in Apollo 16 regolith samples   Sci. Conf. in J. Geophys. Res. 89, C16-C24.
+   and the average U-Pb ages of the parent rocks. Proc. 12th
+   Lunar Planet. Sci. Conf. 529-540.                       Warren P.H. (1993) A concise compilation of petrologic
+                                                             information on possibly pristine nonmare Moon rocks. Am.
+   Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)   Mineral. 78, 360-376.
+   Trace elements in 59 mostly highland moon rocks. Proc.
+    22nd Lunar Planet. Sci. Conf. 417-426. Lunar Planetary
+    Institute, Houston
+
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+    in Apollo 16 highland rocks: Manifestations of volatile-
+   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+--- mineralogy block 2; lines 29-41 ---
+Catalog, JSC.
+                                             C Meyer     65325
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic      2012        67.9 g
+   and chemical description. Science 179, 23-34.
+
+   LSPET (1972c) Preliminary examination of lunar samples.                                                           ,0            ,1    ,10              ,3    ,8      ,15
+    In Apollo 16 Preliminary Science Report. NASA SP-315,            PB               PB   0.3 g  PB                                                65.46 g        glass coat   7-1—7-58.
+
+                                                                               ,13        ,11          ,5            ,18   Morris R.V., See T.H. and Horz F. (1986) Composition of                                                          TS       0.14 g       ,6         TS
+    the Cayley Formation at Apollo 16 as inferred from impact                             TS
+    melt splashes.  Proc. 17th Lunar Planet. Sci. Conf. in  J.
+   Geophys. Res. 90, E21-E42.
+--- material block 3; lines 6-18 ---
+petrographic investigation of pristine nonmare rocks. Proc.
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo    9th Lunar Planet. Sci. Conf. 185-217.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     Warren P.H. and Kallemeyn G.W. (1984) Pristine rocks (8th
+                                                                   foray): Plagiophile element ratios, crustal genesis, and the
+    Cirlin E.H. and Housley R.M. (1981)  Distribution and   bulk composition of the Moon. Proc. 15th Lunar Planet.
+    evolution of Zn, Cd, and Pb in Apollo 16 regolith samples   Sci. Conf. in J. Geophys. Res. 89, C16-C24.
+   and the average U-Pb ages of the parent rocks. Proc. 12th
+   Lunar Planet. Sci. Conf. 529-540.                       Warren P.H. (1993) A concise compilation of petrologic
+                                                             information on possibly pristine nonmare Moon rocks. Am.
+   Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)   Mineral. 78, 360-376.
+   Trace elements in 59 mostly highland moon rocks. Proc.
+    22nd Lunar Planet. Sci. Conf. 417-426. Lunar Planetary
+--- material block 4; lines 22-34 ---
+in Apollo 16 highland rocks: Manifestations of volatile-
+   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    259.
+
+   Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+    Description, classification and inventory of 151 Apollo 16
+    rake samples from the LM area and station 5.  Curator’s
+    Catalog, JSC.
+                                             C Meyer     65325
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic      2012        67.9 g
+   and chemical description. Science 179, 23-34.
+
+   LSPET (1972c) Preliminary examination of lunar samples.                                                           ,0            ,1    ,10              ,3    ,8      ,15
+--- references block 5; lines 1-7 ---
+References for 65325                                  Sutton R.L. (1981) Documentation of Apollo 16 samples.
+   Bersch M.G., Taylor G.J., Keil K. and Norman M.D. (1991)   In Geology of the Apollo 16 area, central lunar highlands.
+   Mineral compositions in pristine lunar highland rocks and   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    the diversity of highland magmatism. Geophys. Res. Lett.
+    18, 2085-2088.                                    Warren P.H. and Wasson J.T. (1978)  Compositional-
+                                                              petrographic investigation of pristine nonmare rocks. Proc.
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo    9th Lunar Planet. Sci. Conf. 185-217.

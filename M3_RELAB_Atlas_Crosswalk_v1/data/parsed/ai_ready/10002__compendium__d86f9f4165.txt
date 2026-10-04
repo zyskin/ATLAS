@@ -1,0 +1,214 @@
+DOCUMENT_ID: 10002__compendium__d86f9f4165
+ATLAS_SAMPLE_IDS: 10002
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10002.pdf
+SOURCE_PDF_SHA256: 1140240d1a081cbfbb0a6258f542e64751cb23c21eeca759c90ea513fd338626
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material,references,treatment ===
+--- chemistry block 1; lines 23-39 ---
+LSPET (1969) and O’Kelley et al. (1970) determined
+   the cosmic-ray-induced activity of 10002 as 26Al = 97       Figure 1: Grain size distribution of 10002 compared
+   dpm/kg, 22Na = 44 dpm/kg, 46Sc = 9 dpm/kg, 54Mn       with cores (LSPET 1969).
+   = 28 dpm/kg and 56Co = 27 dpm/kg.
+
+   Processing
+   There are reports that the bulk soil sample (10002) was     Table 1. Chemical composition of 10002.
+    partly in a “Teflon bag”, and partly loose in the ALSRC.
+   The ALSRC also contained a mesh of aluminum wire        reference LSPET69    O’Kelley70
+    called “York mesh”, and it must have been difficult to       weight    301 g
+                                                    K2O      0.132    (a)
+    extract the soil from this mesh. Sample containers are      Th ppm    1.6       (a)
+   discussed in the tool catalog by Judy Allton (1989).       U ppm    0.46      (a)
+                                                                           technique:  (a) radiation counting
+
+   The processing of 10002 was complicated and is a bit
+   of a mystery. That’s because some of it was used in
+--- material block 2; lines 1-47 ---
+10002          DRAFT
+                                  Bulk Soil
+                                       5629 grams
+
+
+   Introduction
+   10002 is the number given the bulk soil returned in
+  ALSRC 1003. 10084 and 10086 are portions of 10002.
+   Please see section on 10084.
+
+   Petrography
+   The grain size distribution of 10002 was originally
+   reported by LSPET (1969)(figure 1).
+
+   Chemistry
+   There are no “bulk” analyses of 10002, as such.
+   However, 10084 was a split of 10002, and presumably
+   the same (< 1mm).  There is a partial analysis of a
+    large split (301 g) by radiation counting in LSPET
+   (1969) and O’Kelley et al. (1970)(table 1).
+
+   Cosmogenic isotopes and exposure ages
+  LSPET (1969) and O’Kelley et al. (1970) determined
+   the cosmic-ray-induced activity of 10002 as 26Al = 97       Figure 1: Grain size distribution of 10002 compared
+   dpm/kg, 22Na = 44 dpm/kg, 46Sc = 9 dpm/kg, 54Mn       with cores (LSPET 1969).
+   = 28 dpm/kg and 56Co = 27 dpm/kg.
+
+   Processing
+   There are reports that the bulk soil sample (10002) was     Table 1. Chemical composition of 10002.
+    partly in a “Teflon bag”, and partly loose in the ALSRC.
+   The ALSRC also contained a mesh of aluminum wire        reference LSPET69    O’Kelley70
+    called “York mesh”, and it must have been difficult to       weight    301 g
+                                                    K2O      0.132    (a)
+    extract the soil from this mesh. Sample containers are      Th ppm    1.6       (a)
+   discussed in the tool catalog by Judy Allton (1989).       U ppm    0.46      (a)
+                                                                           technique:  (a) radiation counting
+
+   The processing of 10002 was complicated and is a bit
+   of a mystery. That’s because some of it was used in
+   the quarantine studies, some was split off to be the
+   primary soil samples 10084 and 10086. It is not known
+   which parts were sieved, nor what size sieves were used
+   and when. Apparently, a portion of ,26 was sieved in
+   1980 for Larry Taylor.
+--- age block 3; lines 18-30 ---
+the same (< 1mm).  There is a partial analysis of a
+    large split (301 g) by radiation counting in LSPET
+   (1969) and O’Kelley et al. (1970)(table 1).
+
+   Cosmogenic isotopes and exposure ages
+  LSPET (1969) and O’Kelley et al. (1970) determined
+   the cosmic-ray-induced activity of 10002 as 26Al = 97       Figure 1: Grain size distribution of 10002 compared
+   dpm/kg, 22Na = 44 dpm/kg, 46Sc = 9 dpm/kg, 54Mn       with cores (LSPET 1969).
+   = 28 dpm/kg and 56Co = 27 dpm/kg.
+
+   Processing
+   There are reports that the bulk soil sample (10002) was     Table 1. Chemical composition of 10002.
+    partly in a “Teflon bag”, and partly loose in the ALSRC.
+--- treatment block 4; lines 36-49 ---
+technique:  (a) radiation counting
+
+   The processing of 10002 was complicated and is a bit
+   of a mystery. That’s because some of it was used in
+   the quarantine studies, some was split off to be the
+   primary soil samples 10084 and 10086. It is not known
+   which parts were sieved, nor what size sieves were used
+   and when. Apparently, a portion of ,26 was sieved in
+   1980 for Larry Taylor.
+--- references block 5; lines 25-42 ---
+dpm/kg, 22Na = 44 dpm/kg, 46Sc = 9 dpm/kg, 54Mn       with cores (LSPET 1969).
+   = 28 dpm/kg and 56Co = 27 dpm/kg.
+
+   Processing
+   There are reports that the bulk soil sample (10002) was     Table 1. Chemical composition of 10002.
+    partly in a “Teflon bag”, and partly loose in the ALSRC.
+   The ALSRC also contained a mesh of aluminum wire        reference LSPET69    O’Kelley70
+    called “York mesh”, and it must have been difficult to       weight    301 g
+                                                    K2O      0.132    (a)
+    extract the soil from this mesh. Sample containers are      Th ppm    1.6       (a)
+   discussed in the tool catalog by Judy Allton (1989).       U ppm    0.46      (a)
+                                                                           technique:  (a) radiation counting
+
+   The processing of 10002 was complicated and is a bit
+   of a mystery. That’s because some of it was used in
+   the quarantine studies, some was split off to be the
+   primary soil samples 10084 and 10086. It is not known
+   which parts were sieved, nor what size sieves were used
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 30-42 ---
+(1970)  Primordial radionuclide abundances, solar proton
+     Carrier W.D. (1973) Lunar grain size distribution. The Moon  and cosmic ray effects and ages of Apollo 11 lunar samples
+     6, 250-263.                                        by non-destructive gamma-ray spectrometry. Proc. Apollo
+                                                         11 Lunar Sci. Conf. 1407-1424.
+   Duke M.B., Woo C.C., Sellers G.A., Bird M.L. and
+    Finkelman R.B. (1970) Genesis of lunar soil at Tranquillity  Wakita H., Schmitt R.A. and Rey P. (1970)  Elemental
+    base. Proc. Apollo 11 Lunar Sci. Conf. 347-362.           abundances of major, minor, and trace elements in Apollo
+                                                        11 lunar rocks, soil, and core samples. Proc. Apollo 11 Lunar
+    King E.A. and a cast of thousands (1969) Lunar Sample   Sci. Conf. 1685-1717.
+    Information Catalog, Apollo 11.  Lunar Receiving
+    Laboratory, MSC 412 pp
+
+    Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo
+--- mineralogy block 2; lines 13-25 ---
+References for 10002.
+                                                       Laul J.C. and Papike J.J. (1980)  The lunar regolith:    Agrell S.O., Scoon J.H., Muir I.D., Long J.V.P., McConnell
+                                                         Comparative chemistry of the Apollo sites. Proc. 11th Lunar    J.D.C. and Peckett A. (1970) Observations on the chemistry,
+                                                                 Planet. Sci. Conf. 1307-1340.    mineralogy and petrology of some Apollo 11 lunar samples.
+    Proc. Apollo 11 Lunar Sci. Conf. 93-128.
+                                             LSPET (1969) Preliminary examination of lunar samples
+                                                       from Apollo 11. Science 165, 1211-1227.    Beaty D.W., Hill S.M.R., Albee A.L., Ma M.-S., and Schmitt
+    R.A. (1979a) The petrology and chemistry of basaltic
+                                                       Marvin U.B., Wood J.A., Taylor G.J., Reid J.B., Powell B.N.,    fragments from the Apollo 11 soil, part 1. Proc. 10th Lunar
+                                                       Dickey J.S. and Bower J.F. (1971) Relative proportions and     Sci. Conf. 41-75.
+--- material block 3; lines 11-43 ---
+note: complicated
+
+
+
+
+   References for 10002.
+                                                       Laul J.C. and Papike J.J. (1980)  The lunar regolith:    Agrell S.O., Scoon J.H., Muir I.D., Long J.V.P., McConnell
+                                                         Comparative chemistry of the Apollo sites. Proc. 11th Lunar    J.D.C. and Peckett A. (1970) Observations on the chemistry,
+                                                                 Planet. Sci. Conf. 1307-1340.    mineralogy and petrology of some Apollo 11 lunar samples.
+    Proc. Apollo 11 Lunar Sci. Conf. 93-128.
+                                             LSPET (1969) Preliminary examination of lunar samples
+                                                       from Apollo 11. Science 165, 1211-1227.    Beaty D.W., Hill S.M.R., Albee A.L., Ma M.-S., and Schmitt
+    R.A. (1979a) The petrology and chemistry of basaltic
+                                                       Marvin U.B., Wood J.A., Taylor G.J., Reid J.B., Powell B.N.,    fragments from the Apollo 11 soil, part 1. Proc. 10th Lunar
+                                                       Dickey J.S. and Bower J.F. (1971) Relative proportions and     Sci. Conf. 41-75.
+                                                            probable sources of rock fragments in the Apollo 12 soil
+                                                             samples. Proc. 2nd Lunar Sci. Conf. 679-699.    Beaty D.W. and Albee A.L. (1980)  The geology and
+    petrology of the Apollo 11 landing site.  Proc. 11th Lunar
+                                                         O’Kelley G.D., Eldridge J.S., Schonfeld E. and Bell P.R    Planet. Sci. Conf. 23-35.
+                                                           (1970)  Primordial radionuclide abundances, solar proton
+     Carrier W.D. (1973) Lunar grain size distribution. The Moon  and cosmic ray effects and ages of Apollo 11 lunar samples
+     6, 250-263.                                        by non-destructive gamma-ray spectrometry. Proc. Apollo
+                                                         11 Lunar Sci. Conf. 1407-1424.
+   Duke M.B., Woo C.C., Sellers G.A., Bird M.L. and
+    Finkelman R.B. (1970) Genesis of lunar soil at Tranquillity  Wakita H., Schmitt R.A. and Rey P. (1970)  Elemental
+    base. Proc. Apollo 11 Lunar Sci. Conf. 347-362.           abundances of major, minor, and trace elements in Apollo
+                                                        11 lunar rocks, soil, and core samples. Proc. Apollo 11 Lunar
+    King E.A. and a cast of thousands (1969) Lunar Sample   Sci. Conf. 1685-1717.
+    Information Catalog, Apollo 11.  Lunar Receiving
+    Laboratory, MSC 412 pp
+
+    Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo
+    11 Lunar Sample Information Catalogue (revised). Curator’s
+--- age block 4; lines 25-37 ---
+Dickey J.S. and Bower J.F. (1971) Relative proportions and     Sci. Conf. 41-75.
+                                                            probable sources of rock fragments in the Apollo 12 soil
+                                                             samples. Proc. 2nd Lunar Sci. Conf. 679-699.    Beaty D.W. and Albee A.L. (1980)  The geology and
+    petrology of the Apollo 11 landing site.  Proc. 11th Lunar
+                                                         O’Kelley G.D., Eldridge J.S., Schonfeld E. and Bell P.R    Planet. Sci. Conf. 23-35.
+                                                           (1970)  Primordial radionuclide abundances, solar proton
+     Carrier W.D. (1973) Lunar grain size distribution. The Moon  and cosmic ray effects and ages of Apollo 11 lunar samples
+     6, 250-263.                                        by non-destructive gamma-ray spectrometry. Proc. Apollo
+                                                         11 Lunar Sci. Conf. 1407-1424.
+   Duke M.B., Woo C.C., Sellers G.A., Bird M.L. and
+    Finkelman R.B. (1970) Genesis of lunar soil at Tranquillity  Wakita H., Schmitt R.A. and Rey P. (1970)  Elemental
+    base. Proc. Apollo 11 Lunar Sci. Conf. 347-362.           abundances of major, minor, and trace elements in Apollo
+                                                        11 lunar rocks, soil, and core samples. Proc. Apollo 11 Lunar
+--- treatment block 5; lines 1-12 ---
+C Meyer            10002                    10084     10086                     2009
+                              5629 g
+
+
+                                    ,6        ,7      ,16     ,24                                                                         ,37   ,76      “biopool“                                                                   ,26               ,4                           1165 g  844 g  161 g  77 g        88 g  110 g
+                                                                                sieved
+
+              ,78   ,79   ,80   ,81   ,82   ,83   ,84                                                               ,86     ,89      ,90     ,91     ,92            267  293  305  303  231  265  257                                                   249 g          14 g   240 g  184 g
+                   reserve                                                                 1 - 2 mm   < 1 mm
+                                                    2 - 4 mm
+                           note: complicated
+--- references block 6; lines 10-22 ---
+2 - 4 mm
+                           note: complicated
+
+
+
+
+   References for 10002.
+                                                       Laul J.C. and Papike J.J. (1980)  The lunar regolith:    Agrell S.O., Scoon J.H., Muir I.D., Long J.V.P., McConnell
+                                                         Comparative chemistry of the Apollo sites. Proc. 11th Lunar    J.D.C. and Peckett A. (1970) Observations on the chemistry,
+                                                                 Planet. Sci. Conf. 1307-1340.    mineralogy and petrology of some Apollo 11 lunar samples.
+    Proc. Apollo 11 Lunar Sci. Conf. 93-128.
+                                             LSPET (1969) Preliminary examination of lunar samples
+                                                       from Apollo 11. Science 165, 1211-1227.    Beaty D.W., Hill S.M.R., Albee A.L., Ma M.-S., and Schmitt

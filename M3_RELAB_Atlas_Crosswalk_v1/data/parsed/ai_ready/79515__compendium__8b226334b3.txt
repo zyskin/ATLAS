@@ -1,0 +1,145 @@
+DOCUMENT_ID: 79515__compendium__8b226334b3
+ATLAS_SAMPLE_IDS: 79515
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/79515.pdf
+SOURCE_PDF_SHA256: f8078c122a9e335acc23c87509729118d90f6725cc3c49dfad3b309204edfd51
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 9-21 ---
+Figure 1: Photo of 79515. Scale in cm. S73-19745.
+
+
+                                            Chemistry
+                                              The analysis by Warner et al. (1979) shows Ti is a bit
+                                                     lower than most Apollo 17 basalts and in the range of
+                                                    Apollo 11 (figure 3). Trace elements indicate it is a
+                                                        type B Apollo 17 basalt (figure 4).
+
+                                                   There is only one thin section.
+
+                                                   References for 79515
+                                                             Butler P. (1973) Lunar Sample Information Catalog
+--- mineralogy block 2; lines 1-8 ---
+79515
+                                     Ilmenite Basalt
+                                        33 grams
+--- material block 3; lines 1-40 ---
+79515
+                                     Ilmenite Basalt
+                                        33 grams
+
+
+
+
+
+                                Figure 1: Photo of 79515. Scale in cm. S73-19745.
+
+
+                                            Chemistry
+                                              The analysis by Warner et al. (1979) shows Ti is a bit
+                                                     lower than most Apollo 17 basalts and in the range of
+                                                    Apollo 11 (figure 3). Trace elements indicate it is a
+                                                        type B Apollo 17 basalt (figure 4).
+
+                                                   There is only one thin section.
+
+                                                   References for 79515
+                                                             Butler P. (1973) Lunar Sample Information Catalog
+                                                      Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+                                                               Curator’s Catalog. pp. 447.
+
+                                        Ma M-S., Schmitt R.A., Warner R.D., Taylor G.J. and Keil
+                                                       K. (1979b) Composition, petrography, and genesis of Apollo          Figure 2: Map of area around Van Serg Crater.
+                                                     17 high-Ti mare basalts (abs). Lunar Planet. Sci. X, 765-
+   Introduction                                          767. Lunar Planetary Institute, Houston.
+   79515 is a small basalt sample collected by raking near
+                                                        Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+   Van Serg Crater out in the middle of Taurus-Littrow                                                                 rocks. Vol. 3 Central Valley
+    Valley.
+                                                     Warner R.D., Taylor G.J., Conrad G.H., Northrop H.R.,
+   Petrography                                         Barker S., Keil K., Ma M.-S. and Schmitt R. (1979a) Apollo
+   79515 is a medium-grained, vuggy, subophitic to  17 high-Ti mare basalts: New bulk compositional data,
+    variolitic basalt (Neal and Taylor 1993).            magma types, and petrogenesis. Proc. 10th Lunar Planet.
+                                                                       Sci. Conf. 225-247.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- references block 4; lines 14-26 ---
+lower than most Apollo 17 basalts and in the range of
+                                                    Apollo 11 (figure 3). Trace elements indicate it is a
+                                                        type B Apollo 17 basalt (figure 4).
+
+                                                   There is only one thin section.
+
+                                                   References for 79515
+                                                             Butler P. (1973) Lunar Sample Information Catalog
+                                                      Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+                                                               Curator’s Catalog. pp. 447.
+
+                                        Ma M-S., Schmitt R.A., Warner R.D., Taylor G.J. and Keil
+                                                       K. (1979b) Composition, petrography, and genesis of Apollo          Figure 2: Map of area around Van Serg Crater.
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-26 ---
+Table 1. Chemical composition of 79515.                     Lunar Basalts
+                                                                                                14
+
+    reference  Warner79                                                                 12                         A17
+    weight
+                                                                                                      A11
+    SiO2 %                                                                                 10                         79515
+    TiO2      10.2      (a)
+    Al2O3     9.1        (a)                                                                 8
+   FeO       18.7      (a)                           TiO2
+   MnO      0.275     (a)                                                                 6
+   MgO     9          (a)
+   CaO      11        (a)                                                                 4
+                                                                                                                     A12
+   Na2O     0.385     (a)
+                                                                                                     2                        A15   K2O      0.048     (a)
+   P2O5
+   S %                                                                                          0 0                5                10                15               20
+   sum
+                                              MgO
+    Sc ppm   82        (a)
+   V        100       (a)                                           Figure 3: Composition of lunar basalts.
+    Cr       3003      (a)
+   Co       23        (a)
+    Ni
+   Cu
+--- material block 2; lines 40-52 ---
+Pd ppb
+   Ag ppb
+   Cd ppb
+     In ppb                                                         Figure 4: Normalized rare-earth-element diagram
+   Sn ppb                                                                 for 79515 compared with A and B types of Apollo 17
+   Sb ppb
+                                                                             basalt.    Te ppb
+   Cs ppm
+   Ba
+    La         5.3        (a)                                C Meyer
+   Ce       20        (a)                                          2011        79515
+    Pr                                                  33 grams
+   Nd       21        (a)
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 79515.                     Lunar Basalts
+                                                                                                14
+
+    reference  Warner79                                                                 12                         A17
+    weight
+                                                                                                      A11
+    SiO2 %                                                                                 10                         79515
+    TiO2      10.2      (a)
+    Al2O3     9.1        (a)                                                                 8
+   FeO       18.7      (a)                           TiO2
+--- references block 4; lines 67-76 ---
+Os ppb
+       Ir ppb                                                Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    Pt ppb                                                     Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+   Au ppb                                                   geologic investigation of the Taurus-Littrow Valley: Apollo
+    Th ppm
+   U ppm                                             17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+     technique:  (a) INAA                                       280.
+
+Lunar Sample Compendium
+C Meyer 2011

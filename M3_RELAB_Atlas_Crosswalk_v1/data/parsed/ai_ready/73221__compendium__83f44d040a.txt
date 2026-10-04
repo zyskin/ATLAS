@@ -1,0 +1,527 @@
+DOCUMENT_ID: 73221__compendium__83f44d040a
+ATLAS_SAMPLE_IDS: 73221,73241,73261,73281
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/73221.pdf
+SOURCE_PDF_SHA256: b6d23ae4ae0ab88f82776bc464a4764393444553993514eafbb6a67fe152770b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 23-35 ---
+Figure 1: Trench dug at Apollo 17, station 3 (10-15 cm deep).  AS17-138-21149. Gnomen
+                legs are 50 cm apart (see also figure 3).
+
+   Introduction
+                                                             variation is due to variation in agglutinate content and
+   Station 3 was on the ejecta blanket of Lara Crater
+                                                        not due to a variation in chemical composition.
+   (Wolfe et al. 1981). Breccia samples 73235 and 73255
+   were located nearby as was a double drive tube
+                                                      This trench showed a nice progression of cosmic-ray-
+   (unopened).
+                                                     induced activity – from high at the surface and low at
+                                                      depth - showing that the activity was due to low energy
+--- mineralogy block 2; lines 21-33 ---
+Figure 1: Trench dug at Apollo 17, station 3 (10-15 cm deep).  AS17-138-21149. Gnomen
+                legs are 50 cm apart (see also figure 3).
+
+   Introduction
+                                                             variation is due to variation in agglutinate content and
+   Station 3 was on the ejecta blanket of Lara Crater
+                                                        not due to a variation in chemical composition.
+   (Wolfe et al. 1981). Breccia samples 73235 and 73255
+   were located nearby as was a double drive tube
+                                                      This trench showed a nice progression of cosmic-ray-
+   (unopened).
+--- material block 3; lines 24-47 ---
+legs are 50 cm apart (see also figure 3).
+
+   Introduction
+                                                             variation is due to variation in agglutinate content and
+   Station 3 was on the ejecta blanket of Lara Crater
+                                                        not due to a variation in chemical composition.
+   (Wolfe et al. 1981). Breccia samples 73235 and 73255
+   were located nearby as was a double drive tube
+                                                      This trench showed a nice progression of cosmic-ray-
+   (unopened).
+                                                     induced activity – from high at the surface and low at
+                                                      depth - showing that the activity was due to low energy
+   The station 3 trench was dug in an area on the rim of a
+                                                              solar flares rather than high energy cosmic rays (figure
+   ten meter crater where there was noticeable color
+                                                                  1). The only problem with trenching is that there is
+   variation (figure 3). The nicely persevered color
+                                                   slumping from surface material, preventing perfect
+   variation indicates that micro-gardening has not
+                                                       sampling.
+    recently disturbed the regolith at this site. The color
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 4; lines 26-38 ---
+Introduction
+                                                             variation is due to variation in agglutinate content and
+   Station 3 was on the ejecta blanket of Lara Crater
+                                                        not due to a variation in chemical composition.
+   (Wolfe et al. 1981). Breccia samples 73235 and 73255
+   were located nearby as was a double drive tube
+                                                      This trench showed a nice progression of cosmic-ray-
+   (unopened).
+                                                     induced activity – from high at the surface and low at
+                                                      depth - showing that the activity was due to low energy
+   The station 3 trench was dug in an area on the rim of a
+                                                              solar flares rather than high energy cosmic rays (figure
+   ten meter crater where there was noticeable color
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 5-32 ---
+180                    73261
+
+                                                                                                            160           20                      Apollo soils
+                                                                                                            140             73221
+
+           15                                 C       120
+                                                                                                            100  FeO                                     ppm
+                                                  73221                                      80           10                                                  73241
+                                                  73261                                      60
+                                                  73281
+             5                                                                                           40
+                                                                                                             20                              Lunar Soils
+             0                                                                                                   0
+               0       5       10      15      20      25      30      35                    0          20          40          60          80         100         120
+                     Al2O3                                               maturity (Is/FeO)
+            Figure 4: Composition of trench samples at            Figure 5: Carbon content and maturity index for two
+              station 3 compared with that of othr Apollo soil         trench samples.
+             samples.
+
+   Petrography                                             Meyer (1973) found an abundance of feldspathic
+   The maturity of 73221, 73241, 73261 and 73281 is Is/   breccia in the 4 – 10 mm size fraction of 73244. Jolliff
+   FeO = 43, 18, 45 and 34 and the average grain size is                                                                   et al. (1996) and Bence et al. (1974) studied numerous
+    70, 81, 60 and 60 microns, respectively (Morris 1978,                                                    coarse-fine  particles from 73243 and 73263
+    Graf 1993).                                                              respectively.
+
+
+
+Lunar Sample Compendium
+--- material block 2; lines 15-32 ---
+5                                                                                           40
+                                                                                                             20                              Lunar Soils
+             0                                                                                                   0
+               0       5       10      15      20      25      30      35                    0          20          40          60          80         100         120
+                     Al2O3                                               maturity (Is/FeO)
+            Figure 4: Composition of trench samples at            Figure 5: Carbon content and maturity index for two
+              station 3 compared with that of othr Apollo soil         trench samples.
+             samples.
+
+   Petrography                                             Meyer (1973) found an abundance of feldspathic
+   The maturity of 73221, 73241, 73261 and 73281 is Is/   breccia in the 4 – 10 mm size fraction of 73244. Jolliff
+   FeO = 43, 18, 45 and 34 and the average grain size is                                                                   et al. (1996) and Bence et al. (1974) studied numerous
+    70, 81, 60 and 60 microns, respectively (Morris 1978,                                                    coarse-fine  particles from 73243 and 73263
+    Graf 1993).                                                              respectively.
+
+
+
+Lunar Sample Compendium
+--- treatment block 3; lines 13-31 ---
+73261                                      60
+                                                  73281
+             5                                                                                           40
+                                                                                                             20                              Lunar Soils
+             0                                                                                                   0
+               0       5       10      15      20      25      30      35                    0          20          40          60          80         100         120
+                     Al2O3                                               maturity (Is/FeO)
+            Figure 4: Composition of trench samples at            Figure 5: Carbon content and maturity index for two
+              station 3 compared with that of othr Apollo soil         trench samples.
+             samples.
+
+   Petrography                                             Meyer (1973) found an abundance of feldspathic
+   The maturity of 73221, 73241, 73261 and 73281 is Is/   breccia in the 4 – 10 mm size fraction of 73244. Jolliff
+   FeO = 43, 18, 45 and 34 and the average grain size is                                                                   et al. (1996) and Bence et al. (1974) studied numerous
+    70, 81, 60 and 60 microns, respectively (Morris 1978,                                                    coarse-fine  particles from 73243 and 73263
+    Graf 1993).                                                              respectively.
+
+=== PDF PAGE 3; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-21 ---
+Modal content of soil 73221 – 73281 (90-150 micron).
+                    From Heiken and McKay 1974.
+                                    73221 73241 73261 73281
+                            Agglutinates               26.3     8.4      34.3     24.6 %
+                             Basalt                   3       1       2        3.7
+                            Breccia                    46.6     61.5     39.1     46.6
+                            Anorthosite                 0.6     3        1.9      1.9
+                            Norite
+                        Gabbro
+                             Plagioclase                 11.3     11.4     9.7      9.3
+                          Pyroxene                8        5.3     7        0.3
+                            Olivine                     1.3      0.7                0.3
+                             Ilmenite                    0.3                0.6      1.3
+                         Orange glass                         0.3      1.7      1.3
+                           Glass other                 3.5      6.7      2.5      2.9
+
+   Chemistry                                       carbon for 73221 and 73261, while 73241 and 73281
+   Figures 4 and 7 compare the composition of 73221  had 42 and 81 ppm carbon. Chang et al. also reported
+    etc. with other Apollo soil samples. Rose et al. (1974)  44 ppm nitrogen for 73221, 22 ppm nitrogen for 73241
+   and Wanke et al. (1974) found that there was little  and 54 and 40 ppm nitrogen for 73261 and 73281.
+    variation in composition in spite of variation in color.
+--- material block 2; lines 1-41 ---
+Modal content of soil 73221 – 73281 (90-150 micron).
+                    From Heiken and McKay 1974.
+                                    73221 73241 73261 73281
+                            Agglutinates               26.3     8.4      34.3     24.6 %
+                             Basalt                   3       1       2        3.7
+                            Breccia                    46.6     61.5     39.1     46.6
+                            Anorthosite                 0.6     3        1.9      1.9
+                            Norite
+                        Gabbro
+                             Plagioclase                 11.3     11.4     9.7      9.3
+                          Pyroxene                8        5.3     7        0.3
+                            Olivine                     1.3      0.7                0.3
+                             Ilmenite                    0.3                0.6      1.3
+                         Orange glass                         0.3      1.7      1.3
+                           Glass other                 3.5      6.7      2.5      2.9
+
+   Chemistry                                       carbon for 73221 and 73261, while 73241 and 73281
+   Figures 4 and 7 compare the composition of 73221  had 42 and 81 ppm carbon. Chang et al. also reported
+    etc. with other Apollo soil samples. Rose et al. (1974)  44 ppm nitrogen for 73221, 22 ppm nitrogen for 73241
+   and Wanke et al. (1974) found that there was little  and 54 and 40 ppm nitrogen for 73261 and 73281.
+    variation in composition in spite of variation in color.
+                                           Cosmogenic isotopes and exposure ages
+  LSPET (1973) and Moore et al. (1974) reported 155                                                  O’Kelley et al. (1974) determined the cosmic-ray-
+   and 170 ppm carbon for 73221 and 73261 respectively                                                     induced activity of 22Na = 310 dpm/kg, 26Al = 197
+    (figure 5). Chang et al. (1974) reported 81 and 88 ppm                                                   dpm/kg, 46Sc = 33 dpm/kg, 54Mn = 230 dpm/kg, and
+
+
+
+
+
+         average grain size = 70 microns                                                        average grain size = 81 microns
+
+
+
+
+
+       Figure 6a: Grain size distribution for 73220                  Figure 6b: Grain size distribution for 73240 (Graf
+       (Graf 1993, data from McKay).                              1993, data from McKay).
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 3; lines 17-29 ---
+Chemistry                                       carbon for 73221 and 73261, while 73241 and 73281
+   Figures 4 and 7 compare the composition of 73221  had 42 and 81 ppm carbon. Chang et al. also reported
+    etc. with other Apollo soil samples. Rose et al. (1974)  44 ppm nitrogen for 73221, 22 ppm nitrogen for 73241
+   and Wanke et al. (1974) found that there was little  and 54 and 40 ppm nitrogen for 73261 and 73281.
+    variation in composition in spite of variation in color.
+                                           Cosmogenic isotopes and exposure ages
+  LSPET (1973) and Moore et al. (1974) reported 155                                                  O’Kelley et al. (1974) determined the cosmic-ray-
+   and 170 ppm carbon for 73221 and 73261 respectively                                                     induced activity of 22Na = 310 dpm/kg, 26Al = 197
+    (figure 5). Chang et al. (1974) reported 81 and 88 ppm                                                   dpm/kg, 46Sc = 33 dpm/kg, 54Mn = 230 dpm/kg, and
+
+=== PDF PAGE 4; CATEGORIES: age,material ===
+--- material block 1; lines 1-33 ---
+average grain size = 60 microns                average grain size = 60 microns
+
+
+
+
+
+                                                                 Figure 6d: Grain size distribution for 73280 (Graf            Figure 6c: Grain size distribution for 73260
+                                                                 1993, data from McKay).            (Graf 1993, data from McKay).
+
+
+    56Co = 810 dpm/kg for the top soil 73221.  For 73241
+    they determined 22Na = 110 dpm/kg, 26Al = 92 dpm/
+    kg, 46Sc = 10 dpm/kg, 54Mn = 80 dpm/kg, and 56Co =
+   95 dpm/kg.  For 73261 they determined  22Na = 42
+   dpm/kg, 26Al = 57 dpm/kg, 46Sc = 8 dpm/kg, 54Mn =
+   52 dpm/kg, and 56Co = 5 dpm/kg.  For 73281 they
+    determined 22Na = 42dpm/kg, 26Al = 46 dpm/kg, and
+   54Mn = 50 dpm/kg,
+
+   Other Studies
+   Fireman et al. (1976, 1977) and Jull et al. (1995) studied
+    short-lived radioactive 3H and 14C as function of depth
+    in this trench.
+                                                                 Figure 7: Normalized rare-earth-element diagram
+   Crozaz et al. (1974) studied the density of cosmic-ray         for 73221 compared with mare and highland soil
+    induced nuclear tracks in feldspar crystals as function        samples from Apollo 17.
+    of depth in regolith.
+
+
+
+
+
+Lunar Sample Compendium
+--- age block 2; lines 19-31 ---
+Other Studies
+   Fireman et al. (1976, 1977) and Jull et al. (1995) studied
+    short-lived radioactive 3H and 14C as function of depth
+    in this trench.
+                                                                 Figure 7: Normalized rare-earth-element diagram
+   Crozaz et al. (1974) studied the density of cosmic-ray         for 73221 compared with mare and highland soil
+    induced nuclear tracks in feldspar crystals as function        samples from Apollo 17.
+    of depth in regolith.
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-30 ---
+Table 2. Chemical composition of 73241.   Table 1. Chemical composition of 73221.
+
+                                                                     reference  Rose74    Wanke74  Eldridge74
+    reference  Rose74     Wanke74    Eldridge74
+                                                                   weight
+    weight
+                                                           SiO2 %    44.55   (a) 45.37  (b)
+   SiO2 %    45.2      (a) 45.15    (b)
+                                                             TiO2       1.73     (a) 1.68    (b)
+    TiO2       1.86      (a) 1.82      (b)
+                                                           Al2O3     20.2     (a) 20.6    (b)
+   Al2O3     21.03    (a) 20.6      (b)
+                                                  FeO       8.45     (a) 8.39    (b)
+   FeO       8.85      (a) 8.75      (b)
+                                              MnO       0.11     (a)  0.11    (b)
+   MnO       0.11      (a) 0.115     (b)
+                                              MgO       11.11    (a) 9.65    (b)
+   MgO       8.97      (a) 9.38      (b)
+                                                CaO       12.9     (a) 12.6    (b)
+   CaO       12.86    (a) 12.46    (b)
+                                                  Na2O      0.46     (a) 0.45    (b)
+   Na2O      0.41      (a) 0.46      (b)
+                                                 K2O       0.16     (a) 0.145  (b) 0.146   (c )
+   K2O       0.16      (a) 0.14      (b) 0.142    (c )
+                                                   P2O5      0.15     (a) 0.126  (b)
+   P2O5
+                                                  S %
+   S %
+                                                    sum
+   sum
+--- references block 2; lines 1-10 ---
+Table 2. Chemical composition of 73241.   Table 1. Chemical composition of 73221.
+
+                                                                     reference  Rose74    Wanke74  Eldridge74
+    reference  Rose74     Wanke74    Eldridge74
+                                                                   weight
+    weight
+                                                           SiO2 %    44.55   (a) 45.37  (b)
+   SiO2 %    45.2      (a) 45.15    (b)
+                                                             TiO2       1.73     (a) 1.68    (b)
+    TiO2       1.86      (a) 1.82      (b)
+--- references block 3; lines 130-140 ---
+Au ppb               4       (b)
+   Au ppb               13        (b)
+                                                        Th ppm                 2.3     (b) 2.25    (c )
+   Th ppm                 2.7       (b) 2.13      (c )
+                                              U ppm                 0.58    (b) 0.64    (c )
+   U ppm                              0.63      (c )
+                                                                       technique:  (a) “mucrochemical”, (b) multiple, (c ) radiation count.
+    technique:  (a) “microchemical”, (b) multiple, (c ) radiation count.
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 6; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-30 ---
+Table 4. Chemical composition of 73281.   Table 3. Chemical composition of 73261.
+
+                                                                      reference  Rose74    Wanke74   Eldridge74
+     reference  Rose74   Wanke74   Eldridge74
+                                                                   weight
+     weight
+                                                           SiO2 %   45.31    (a) 46      (b)
+    SiO2 %    44.71   (a) 45.15   (b)
+                                                              TiO2      1.76     (a) 1.75    (b)
+    TiO2       1.9      (a) 1.82    (b)
+                                                           Al2O3     20.23    (a) 20.8    (b)
+    Al2O3     19.69   (a) 20.2    (b)
+                                                   FeO       8.82     (a) 8.54    (b)
+   FeO       8.86    (a) 8.84    (b)
+                                              MnO      0.11     (a)  0.11    (b)
+   MnO       0.11    (a) 0.12    (b)
+                                              MgO      9.95     (a) 9.98    (b)
+   MgO       10.95   (a) 9.65    (b)
+                                                CaO      12.91    (a) 11.76   (b)
+   CaO       12.9    (a) 12.7    (b)
+                                                   Na2O     0.41     (a) 0.44    (b)
+   Na2O      0.4      (a) 0.46    (b)
+                                                 K2O      0.16     (a) 0.137   (b) 0.142   (c )
+   K2O       0.16    (a) 0.15    (b) 0.13     (c )
+                                                   P2O5     0.14     (a)
+   P2O5      0.14    (a) 0.13    (b)
+                                                  S %
+   S %
+                                                     sum
+    sum
+--- references block 2; lines 1-10 ---
+Table 4. Chemical composition of 73281.   Table 3. Chemical composition of 73261.
+
+                                                                      reference  Rose74    Wanke74   Eldridge74
+     reference  Rose74   Wanke74   Eldridge74
+                                                                   weight
+     weight
+                                                           SiO2 %   45.31    (a) 46      (b)
+    SiO2 %    44.71   (a) 45.15   (b)
+                                                              TiO2      1.76     (a) 1.75    (b)
+    TiO2       1.9      (a) 1.82    (b)
+--- references block 3; lines 130-140 ---
+Au ppb
+    Au ppb
+                                                         Th ppm                2.5      (b) 2.33    (c )
+    Th ppm                2.8      (b) 2.4       (c )
+                                              U ppm                            0.58    (c )
+   U ppm                            0.67     (c )
+                                                                       technique:  (a) “microchemical”, (b) multiple, (c ) radiation count.
+     technique:  (a) “microchemical”, (b) multiple, (c ) radiation count.
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 7; CATEGORIES: material ===
+--- material block 1; lines 34-46 ---
+,0       ,4
+                                           79 g   100 g
+
+
+     C Meyer                                      same bag
+       2010             73280                              73285 - 2.6 g
+                    169 gr.                                            glassy breccia
+                   < 1 mm
+
+    73280    73281             73282  73283  73284
+    53 g     96 g                 5.4 g    4.7 g   7 g
+     reserve                                                       4 - 10 mm
+
+=== PDF PAGE 8; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 27-53 ---
+Fireman E.L., DeFelice J. and D’Amico J. (1976)  Solar   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+    wind 3H and 14C abundances and solar surface processes.  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+    Proc. 7th Lunar Sci. Conf. 525-531.                          Office, Houston
+
+    Fireman E.L., DeFelice J. and D’Amico J. (1977) 14C in   Morris R.V. (1978) The surface exposure (maturity) of lunar
+    lunar soil: Temperature-release and grain-size dependence.   soils: Some concepts and Is/FeO compilation. Proc. 9th
+    Proc. 8th Lunar Sci. Conf. 3749-3754.                   Lunar Sci. Conf. 2287-2297.
+
+    Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   O’Kelley G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+    Reference Pub. 1265, March 1993                      Cosmogenic radionuclides in samples from
+                                                               Taurus-Littrow: Effects of the solar flare of August 1972.
+    Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Proc. 5th Lunar Sci. Conf. 2139-2147.
+
+    Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    Space Phys. 13, 567-587.                                    regolith: Chemistry, Mineralogy and Petrology.  Rev.
+                                                        Geophys. Space Phys. 20, 761-826.
+    Heiken G.H. and McKay D.S. (1974) Petrology of Apollo
+    17 soils. Proc. 5th Lunar Sci. Conf. 843-860.              Rose H.J., Cuttitta F., Berman S., Brown F.W., Carron M.K.,
+                                                                 Christian R.P., Dwornik E.J. and Greenland L.P. (1974a)
+     Jull A.J.T., Lal D. and Donahue D.J. (1995) Evidence for a  Chemical composition of rocks and soils at Taurus-Littrow.
+    non-cosmogenic implanted 14C component in lunar samples.   Proc. 5th Lunar Sci. Conf. 1119-1133.
+    Earth Planet. Sci. Lett. 136, 693-702.
+                                                           Schonfeld E. (1974) The contamination of lunar highland
+   LSPET (1973a) Apollo 17 lunar samples : Chemical and   rocks by KREEP: Interpretations by mixing models. Proc.
+    petrographic description. Science 182, 659-690.                 5th Lunar Sci. Conf. 1269-1286.
+--- mineralogy block 2; lines 36-48 ---
+Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   O’Kelley G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+    Reference Pub. 1265, March 1993                      Cosmogenic radionuclides in samples from
+                                                               Taurus-Littrow: Effects of the solar flare of August 1972.
+    Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Proc. 5th Lunar Sci. Conf. 2139-2147.
+
+    Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    Space Phys. 13, 567-587.                                    regolith: Chemistry, Mineralogy and Petrology.  Rev.
+                                                        Geophys. Space Phys. 20, 761-826.
+    Heiken G.H. and McKay D.S. (1974) Petrology of Apollo
+    17 soils. Proc. 5th Lunar Sci. Conf. 843-860.              Rose H.J., Cuttitta F., Berman S., Brown F.W., Carron M.K.,
+                                                                 Christian R.P., Dwornik E.J. and Greenland L.P. (1974a)
+     Jull A.J.T., Lal D. and Donahue D.J. (1995) Evidence for a  Chemical composition of rocks and soils at Taurus-Littrow.
+    non-cosmogenic implanted 14C component in lunar samples.   Proc. 5th Lunar Sci. Conf. 1119-1133.
+--- material block 3; lines 1-17 ---
+References for 73221, 73241, 73261 and 73281.
+    Bence A.E., Delano J.W., Papike J.J. and Cameron K.L.  McKay D.S., Fruland R.M. and Heiken G.H. (1974) Grain
+    (1974) Petrology of the highlands massifs at Taurus-Littrow:   size and the evolution of lunar soils. Proc. 5th Lunar Sci.
+   An analysis of the 2-4 mm soil fraction. Proc. 5th Lunar   Conf. 887-906.
+     Sci. Conf. 785-827.
+                                                   Meyer C. (1973) Apollo 17 Coarse Fines (4-10 mm) Sample
+    Butler P. (1973) Lunar Sample Information Catalog Apollo   Location, Classification and Photo Index. Curator Report.
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s   pp. 182.
+    Catalog. pp. 447.
+                                                              Mitchell J.K., Carrier W.D., Costes N.C., Houston W.N.,
+    Butler J.C. and King E.A. (1974) Analysis of the grain size-   Scott R.F. and Hovland H.J. (1973) 8. Soil-Mechanics. In
+    frequency distributions of lunar fines. Proc. 5th Lunar Sci.   Apollo 17 Preliminary Science Rpt. NASA SP-330. pages
+    Conf. 829-841.                                             8-1-22.
+
+   Chang S., Lennon K. and Gibson E.K. (1974) Abundances  Moore C.B., Lewis C.F. and Cripe J.D. (1974a) Total carbon
+    of C, N, H, He and S in Apollo 17 soils. Proc. 5th Lunar  and sulfur contents of Apollo 17 lunar samples. Proc. 5th
+     Sci. Conf. 1785-1800.                                Lunar Sci. Conf. 1897-1906.
+--- material block 4; lines 27-48 ---
+Fireman E.L., DeFelice J. and D’Amico J. (1976)  Solar   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+    wind 3H and 14C abundances and solar surface processes.  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+    Proc. 7th Lunar Sci. Conf. 525-531.                          Office, Houston
+
+    Fireman E.L., DeFelice J. and D’Amico J. (1977) 14C in   Morris R.V. (1978) The surface exposure (maturity) of lunar
+    lunar soil: Temperature-release and grain-size dependence.   soils: Some concepts and Is/FeO compilation. Proc. 9th
+    Proc. 8th Lunar Sci. Conf. 3749-3754.                   Lunar Sci. Conf. 2287-2297.
+
+    Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   O’Kelley G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+    Reference Pub. 1265, March 1993                      Cosmogenic radionuclides in samples from
+                                                               Taurus-Littrow: Effects of the solar flare of August 1972.
+    Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Proc. 5th Lunar Sci. Conf. 2139-2147.
+
+    Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    Space Phys. 13, 567-587.                                    regolith: Chemistry, Mineralogy and Petrology.  Rev.
+                                                        Geophys. Space Phys. 20, 761-826.
+    Heiken G.H. and McKay D.S. (1974) Petrology of Apollo
+    17 soils. Proc. 5th Lunar Sci. Conf. 843-860.              Rose H.J., Cuttitta F., Berman S., Brown F.W., Carron M.K.,
+                                                                 Christian R.P., Dwornik E.J. and Greenland L.P. (1974a)
+     Jull A.J.T., Lal D. and Donahue D.J. (1995) Evidence for a  Chemical composition of rocks and soils at Taurus-Littrow.
+    non-cosmogenic implanted 14C component in lunar samples.   Proc. 5th Lunar Sci. Conf. 1119-1133.
+--- treatment block 5; lines 1-10 ---
+References for 73221, 73241, 73261 and 73281.
+    Bence A.E., Delano J.W., Papike J.J. and Cameron K.L.  McKay D.S., Fruland R.M. and Heiken G.H. (1974) Grain
+    (1974) Petrology of the highlands massifs at Taurus-Littrow:   size and the evolution of lunar soils. Proc. 5th Lunar Sci.
+   An analysis of the 2-4 mm soil fraction. Proc. 5th Lunar   Conf. 887-906.
+     Sci. Conf. 785-827.
+                                                   Meyer C. (1973) Apollo 17 Coarse Fines (4-10 mm) Sample
+    Butler P. (1973) Lunar Sample Information Catalog Apollo   Location, Classification and Photo Index. Curator Report.
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s   pp. 182.
+    Catalog. pp. 447.
+                                                              Mitchell J.K., Carrier W.D., Costes N.C., Houston W.N.,
+--- treatment block 6; lines 26-38 ---
+from Taurus-Littrow. Proc. 5th Lunar Sci. Conf. 1025-1033.   335.
+
+    Fireman E.L., DeFelice J. and D’Amico J. (1976)  Solar   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+    wind 3H and 14C abundances and solar surface processes.  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+    Proc. 7th Lunar Sci. Conf. 525-531.                          Office, Houston
+
+    Fireman E.L., DeFelice J. and D’Amico J. (1977) 14C in   Morris R.V. (1978) The surface exposure (maturity) of lunar
+    lunar soil: Temperature-release and grain-size dependence.   soils: Some concepts and Is/FeO compilation. Proc. 9th
+    Proc. 8th Lunar Sci. Conf. 3749-3754.                   Lunar Sci. Conf. 2287-2297.
+
+    Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   O’Kelley G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+    Reference Pub. 1265, March 1993                      Cosmogenic radionuclides in samples from
+                                                               Taurus-Littrow: Effects of the solar flare of August 1972.
+--- references block 7; lines 1-7 ---
+References for 73221, 73241, 73261 and 73281.
+    Bence A.E., Delano J.W., Papike J.J. and Cameron K.L.  McKay D.S., Fruland R.M. and Heiken G.H. (1974) Grain
+    (1974) Petrology of the highlands massifs at Taurus-Littrow:   size and the evolution of lunar soils. Proc. 5th Lunar Sci.
+   An analysis of the 2-4 mm soil fraction. Proc. 5th Lunar   Conf. 887-906.
+     Sci. Conf. 785-827.
+                                                   Meyer C. (1973) Apollo 17 Coarse Fines (4-10 mm) Sample
+    Butler P. (1973) Lunar Sample Information Catalog Apollo   Location, Classification and Photo Index. Curator Report.
+--- references block 8; lines 31-43 ---
+Fireman E.L., DeFelice J. and D’Amico J. (1977) 14C in   Morris R.V. (1978) The surface exposure (maturity) of lunar
+    lunar soil: Temperature-release and grain-size dependence.   soils: Some concepts and Is/FeO compilation. Proc. 9th
+    Proc. 8th Lunar Sci. Conf. 3749-3754.                   Lunar Sci. Conf. 2287-2297.
+
+    Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   O’Kelley G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+    Reference Pub. 1265, March 1993                      Cosmogenic radionuclides in samples from
+                                                               Taurus-Littrow: Effects of the solar flare of August 1972.
+    Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Proc. 5th Lunar Sci. Conf. 2139-2147.
+
+    Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    Space Phys. 13, 567-587.                                    regolith: Chemistry, Mineralogy and Petrology.  Rev.
+                                                        Geophys. Space Phys. 20, 761-826.
+
+=== PDF PAGE 9; CATEGORIES: chemistry ===
+--- chemistry block 1; lines 1-9 ---
+Wänke H., Palme H., Baddenhausen H., Dreibus G., Jagoutz
+    E., Kruse H., Spettel B., Teschke F. and Thacker R. (1974)
+   Chemistry of Apollo 16 and 17 samples: bulk composition,
+    late-stage accumulation and early differentiation of the
+   Moon.  Proc. 5th Lunar Sci. Conf. 1307-1335.
+
+   Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    geologic investigation of the Taurus-Littrow Valley: Apollo

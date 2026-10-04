@@ -1,0 +1,292 @@
+DOCUMENT_ID: 12030__compendium__f04caf79ef
+ATLAS_SAMPLE_IDS: 12030
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/12030.pdf
+SOURCE_PDF_SHA256: 994e756d861fba86c35f74fc7e17961d9eb44c8ac52554d614bdc1a0cd4519c2
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 8-29 ---
+25
+                                                                              20                      Apollo soils
+
+
+                                                                              15
+                     12030             FeO               12030
+                                                                              10
+
+
+                                                                                  5
+
+
+                                                                                  0
+                                                                                    0       5       10      15      20      25      30      35
+                                                            Al2O3
+
+                                                              Figure 2: Composition of 12030 compared with
+                                                                  other Apollo soil samples.
+
+
+                                                          Mineralogical Mode       Figure 1: Location of 12030 from near ALSEP site.
+--- chemistry block 2; lines 35-47 ---
+was collected near Head Crater and ALSEP site (exact                  Breccias         75
+  location not documented) and included “two large                  Spherules        1
+  agglutinate fragments”, returned in the same bag.
+                                                         Mineralogical Mode
+                                                                           Frondel et al. 1971
+  Petrography                                                                                Olivine +
+  The maturity index for 12030 is Is/FeO = 14 (very               Pyroxene         64.6 %
+  immature) and McKay et al. (1971) found very few                  Plagioclase       19.8
+  “glazed aggregates”.                                              Opaques          6.8
+                                                                                   Glass, angular     8.4
+                                                                                   Glass, rounded    0.4
+  Frondel et al. (1971) determined the mineral mode, but                   Silica           0
+  did not specify agglutinates.
+--- mineralogy block 3; lines 23-52 ---
+Al2O3
+
+                                                              Figure 2: Composition of 12030 compared with
+                                                                  other Apollo soil samples.
+
+
+                                                          Mineralogical Mode       Figure 1: Location of 12030 from near ALSEP site.
+                                                             McKay et al. (1971)
+                                                                           Glazed
+                                                                             Aggregates        0.5 %
+                                                                                  Single Xtl        4  Introduction                                                                                Glasses          13
+  12030 are fines collected in documented bag #1.  It                Rocks           5
+  was collected near Head Crater and ALSEP site (exact                  Breccias         75
+  location not documented) and included “two large                  Spherules        1
+  agglutinate fragments”, returned in the same bag.
+                                                         Mineralogical Mode
+                                                                           Frondel et al. 1971
+  Petrography                                                                                Olivine +
+  The maturity index for 12030 is Is/FeO = 14 (very               Pyroxene         64.6 %
+  immature) and McKay et al. (1971) found very few                  Plagioclase       19.8
+  “glazed aggregates”.                                              Opaques          6.8
+                                                                                   Glass, angular     8.4
+                                                                                   Glass, rounded    0.4
+  Frondel et al. (1971) determined the mineral mode, but                   Silica           0
+  did not specify agglutinates.
+
+  The large agglutinates have not been studied.                                          Other Studies
+                                          Heymann et al. (1972) reported rare gas content and
+  Chemistry                                                           isotopic rations for 12030.
+  The only chemical analysis of 12030 is the partial
+--- material block 4; lines 1-8 ---
+12030
+                                           Soil
+                                       75 grams
+--- material block 5; lines 20-32 ---
+0
+                                                                                    0       5       10      15      20      25      30      35
+                                                            Al2O3
+
+                                                              Figure 2: Composition of 12030 compared with
+                                                                  other Apollo soil samples.
+
+
+                                                          Mineralogical Mode       Figure 1: Location of 12030 from near ALSEP site.
+                                                             McKay et al. (1971)
+                                                                           Glazed
+                                                                             Aggregates        0.5 %
+--- material block 6; lines 49-61 ---
+The large agglutinates have not been studied.                                          Other Studies
+                                          Heymann et al. (1972) reported rare gas content and
+  Chemistry                                                           isotopic rations for 12030.
+  The only chemical analysis of 12030 is the partial
+  analysis by Frondel et al. (1971) of the fine fraction.                                                     Arrhenius et al. (1971) studied the frequency of grains
+                                                     with high fossil nuclear tracks in 12030 (and all other
+  Kerridge et al. (1978) found 160 ppm C and 24 ppm N                                                   Apollo 12 soil and core samples).
+  in 12030.
+
+
+
+
+Lunar Sample Compendium
+--- treatment block 7; lines 35-59 ---
+was collected near Head Crater and ALSEP site (exact                  Breccias         75
+  location not documented) and included “two large                  Spherules        1
+  agglutinate fragments”, returned in the same bag.
+                                                         Mineralogical Mode
+                                                                           Frondel et al. 1971
+  Petrography                                                                                Olivine +
+  The maturity index for 12030 is Is/FeO = 14 (very               Pyroxene         64.6 %
+  immature) and McKay et al. (1971) found very few                  Plagioclase       19.8
+  “glazed aggregates”.                                              Opaques          6.8
+                                                                                   Glass, angular     8.4
+                                                                                   Glass, rounded    0.4
+  Frondel et al. (1971) determined the mineral mode, but                   Silica           0
+  did not specify agglutinates.
+
+  The large agglutinates have not been studied.                                          Other Studies
+                                          Heymann et al. (1972) reported rare gas content and
+  Chemistry                                                           isotopic rations for 12030.
+  The only chemical analysis of 12030 is the partial
+  analysis by Frondel et al. (1971) of the fine fraction.                                                     Arrhenius et al. (1971) studied the frequency of grains
+                                                     with high fossil nuclear tracks in 12030 (and all other
+  Kerridge et al. (1978) found 160 ppm C and 24 ppm N                                                   Apollo 12 soil and core samples).
+  in 12030.
+
+=== PDF PAGE 2; CATEGORIES: chemistry,references,treatment ===
+--- chemistry block 1; lines 1-24 ---
+200                                          Table 1. Chemical composition of 12030.
+                180
+
+                160        12030                                               reference  Frondel71
+                140                                                           weight    < 0.037 mm
+                120                                                    SiO2 %    46.6      (a)
+   C
+                100                                                      TiO2      3.5       (a)
+   ppm                                                       Al2O3     14.7      (a)
+                 80                                             FeO       14.3      (a)
+                 60                                         MnO      0.21      (a)
+                 40                                         MgO     9         (a)
+                 20                                          CaO      10.7      (a)
+                                         Lunar Soils        Na2O     0.49      (a)
+                   0
+                     0          20          40          60          80         100         120      K2O      0.31      (a)
+                                                       P2O5
+                          maturity (Is/FeO)                    S %
+                                                        sum
+           Figure 3: Carbon content and maturity index for
+          12030.                                             Sc ppm
+                                                      V
+                                                                   Cr       2053     (a)
+                                                       Co
+--- treatment block 2; lines 12-26 ---
+40                                         MgO     9         (a)
+                 20                                          CaO      10.7      (a)
+                                         Lunar Soils        Na2O     0.49      (a)
+                   0
+                     0          20          40          60          80         100         120      K2O      0.31      (a)
+                                                       P2O5
+                          maturity (Is/FeO)                    S %
+                                                        sum
+           Figure 3: Carbon content and maturity index for
+          12030.                                             Sc ppm
+                                                      V
+                                                                   Cr       2053     (a)
+                                                       Co
+                                                                           Ni
+                                                       Cu
+--- references block 3; lines 1-10 ---
+200                                          Table 1. Chemical composition of 12030.
+                180
+
+                160        12030                                               reference  Frondel71
+                140                                                           weight    < 0.037 mm
+                120                                                    SiO2 %    46.6      (a)
+   C
+                100                                                      TiO2      3.5       (a)
+   ppm                                                       Al2O3     14.7      (a)
+                 80                                             FeO       14.3      (a)
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 42-53 ---
+McKay D.S., Morrison D.A., Clanton U.S., Ladle G.H. and
+  Lindsay J. (1971) Apollo 12 soil and breccias. Proc. Second
+  Lunar Sci. Conf. 755-774.
+
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+   soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Sci. Conf. 2287-2297.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- mineralogy block 2; lines 12-37 ---
+NASA TR R-353. JSC (catalog)
+  Friedman I., O’Niel J.R., Gleason J.D. and Hardcastle K.G.
+  (1971) The carbon and hydrogen content and isotopic   Yaniv A. and Heymann D. (1972) Atmospheric Ar40 in lunar
+  composition of some Apollo 12 materials. Proc. 2nd Lunar   fines. Proc. 3rd Lunar Sci. Conf. 1967-1981.
+   Sci. Conf. 1407-1415.
+
+  Frondel C., Klein C. and Ito J. (1971) Mineralogical and
+  chemical data on Apollo 12 lunar fines. Proc. Second Lunar
+   Sci. Conf. 719-726.
+
+  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+  Pub. 1265
+
+  Heyman D., Yaniv A. and Lakatos S. (1972)  Inert gases
+  from Apollo 12, 14 and 15 fines. Proc. 3rd Lunar Sci. Conf.
+  1857-1863.
+
+  King E.A., Butler J.C. and Carman M.F. (1971) The lunar
+   regolith as sampled by Apollo 11 and 12: Grain size analyses,
+  modal analyses and origins of particles. Proc. 2nd Lunar
+   Sci. Conf. 737-746.
+
+  Kerridge J.F., Kaplan I.R., Kung C.C., Winter D.A.,
+  Friedman D.L. and DesMarais D.J. (1978) Light element
+  geochemistry of the Apollo 12 site. Geochim. Cosmochim.
+  Acta 42, 391-402.
+--- material block 3; lines 1-11 ---
+References for 12030
+  Arrhenius G., Liang S., MacDougal D., Wilkening L.,   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Bhandari N., Bhat S., Lal D., Rajagopalan G., Tamhane A.S.,  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  and Venkatavaradan V.S. (1971) The exposure history of   Office, Houston.
+  the Apollo 12 regolith.  Proc. 2nd Lunar Sci. Conf. 2583-
+  2598.                                             Shoemaker E.M. and 12 others (1970b)  10. Preliminary
+                                                           geologic investigation of the Apollo 12 landing site.  In
+  Crozaz G., Walker R. and Woolum D. (1971) Nuclear track   Apollo 12 Preliminary Science Rpt. NASA SP-235 page 113-
+   studies of dynamic surface processes on the moon and the   156.
+  constancy of solar activity. Proc. 2nd Lunar Sci. Conf. 2543-
+  2558.                                              Warner J. (1970)  Apollo 12 Lunar Sample Information.
+--- material block 4; lines 16-50 ---
+Sci. Conf. 1407-1415.
+
+  Frondel C., Klein C. and Ito J. (1971) Mineralogical and
+  chemical data on Apollo 12 lunar fines. Proc. Second Lunar
+   Sci. Conf. 719-726.
+
+  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+  Pub. 1265
+
+  Heyman D., Yaniv A. and Lakatos S. (1972)  Inert gases
+  from Apollo 12, 14 and 15 fines. Proc. 3rd Lunar Sci. Conf.
+  1857-1863.
+
+  King E.A., Butler J.C. and Carman M.F. (1971) The lunar
+   regolith as sampled by Apollo 11 and 12: Grain size analyses,
+  modal analyses and origins of particles. Proc. 2nd Lunar
+   Sci. Conf. 737-746.
+
+  Kerridge J.F., Kaplan I.R., Kung C.C., Winter D.A.,
+  Friedman D.L. and DesMarais D.J. (1978) Light element
+  geochemistry of the Apollo 12 site. Geochim. Cosmochim.
+  Acta 42, 391-402.
+
+  Marvin U.B. (1978)  Apollo 12 coarse fines (2-10 mm):
+  Sample locations, description and inventory. Curators Office,
+  JSC#14434
+
+  McKay D.S., Morrison D.A., Clanton U.S., Ladle G.H. and
+  Lindsay J. (1971) Apollo 12 soil and breccias. Proc. Second
+  Lunar Sci. Conf. 755-774.
+
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+   soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Sci. Conf. 2287-2297.
+--- treatment block 5; lines 41-53 ---
+JSC#14434
+
+  McKay D.S., Morrison D.A., Clanton U.S., Ladle G.H. and
+  Lindsay J. (1971) Apollo 12 soil and breccias. Proc. Second
+  Lunar Sci. Conf. 755-774.
+
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+   soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Sci. Conf. 2287-2297.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- references block 6; lines 1-7 ---
+References for 12030
+  Arrhenius G., Liang S., MacDougal D., Wilkening L.,   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Bhandari N., Bhat S., Lal D., Rajagopalan G., Tamhane A.S.,  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  and Venkatavaradan V.S. (1971) The exposure history of   Office, Houston.
+  the Apollo 12 regolith.  Proc. 2nd Lunar Sci. Conf. 2583-
+  2598.                                             Shoemaker E.M. and 12 others (1970b)  10. Preliminary
+                                                           geologic investigation of the Apollo 12 landing site.  In

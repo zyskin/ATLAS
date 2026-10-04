@@ -1,0 +1,191 @@
+DOCUMENT_ID: 72131__compendium__16b6acce26
+ATLAS_SAMPLE_IDS: 72131
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72131.pdf
+SOURCE_PDF_SHA256: 125bfd06736392fbf1acbbba10c243f518b0436f1bcf1bcdb97e350fcd498727
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 18-39 ---
+25
+                                               Introduction
+         20                      Apollo soils      Soil sample 72131 was collected from the mare surface
+          72131
+                                                                at LRV-1 (figure 1) along with rock sample 72135.
+         15
+ FeO                                            Petrography
+         10                                            Morris (1978) determined the maturity index (Is/FeO
+                                                      =60).          5
+
+          0                                      The large sample in the same bag, 72135, is an unusual
+            0       5       10      15      20      25      30      35   breccia composed of mare basalt (Neal and Taylor
+                    Al2O3                      1992).
+       Figure 2: FeO content of 72131 compared with
+       composition of other Apollo soil samples.          Chemistry
+                                             The chemical composition of 72131 is similar to the
+                                      ALSEP site.
+
+
+
+
+                             C Meyer            72130                             72135
+--- material block 2; lines 1-47 ---
+72131
+                                          Soil
+                                         220.5 grams
+
+
+
+
+
+                                          72131
+
+
+
+
+
+         Figure 1: Location of soil sample 72130 at LRV-1 on Apollo 17 map (Meyer 1973). S73-24071
+
+
+         25
+                                               Introduction
+         20                      Apollo soils      Soil sample 72131 was collected from the mare surface
+          72131
+                                                                at LRV-1 (figure 1) along with rock sample 72135.
+         15
+ FeO                                            Petrography
+         10                                            Morris (1978) determined the maturity index (Is/FeO
+                                                      =60).          5
+
+          0                                      The large sample in the same bag, 72135, is an unusual
+            0       5       10      15      20      25      30      35   breccia composed of mare basalt (Neal and Taylor
+                    Al2O3                      1992).
+       Figure 2: FeO content of 72131 compared with
+       composition of other Apollo soil samples.          Chemistry
+                                             The chemical composition of 72131 is similar to the
+                                      ALSEP site.
+
+
+
+
+                             C Meyer            72130                             72135
+                                     2010                220.5 g                            337 g
+                                                < 1 mm                                                                         breccia
+
+                     72130      72131              72132  72133  72134
+                      80 g       108 g                  8.5 g   11 g    13 g
+
+                                                                                                  4 - 10 mm
+--- treatment block 3; lines 19-31 ---
+Introduction
+         20                      Apollo soils      Soil sample 72131 was collected from the mare surface
+          72131
+                                                                at LRV-1 (figure 1) along with rock sample 72135.
+         15
+ FeO                                            Petrography
+         10                                            Morris (1978) determined the maturity index (Is/FeO
+                                                      =60).          5
+
+          0                                      The large sample in the same bag, 72135, is an unusual
+            0       5       10      15      20      25      30      35   breccia composed of mare basalt (Neal and Taylor
+                    Al2O3                      1992).
+       Figure 2: FeO content of 72131 compared with
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 72131.
+
+
+  reference  Korotev92
+  weight
+  SiO2 %
+  TiO2
+  Al2O3
+  FeO       16.5     (a)
+  MnO
+  MgO
+  CaO
+  Na2O     0.396   (a)
+  K2O
+  P2O5
+  S %
+  sum
+
+  Sc ppm    58.4     (a)                                          Figure 3: Normalized rare-earth-element content of
+  V
+--- chemistry block 2; lines 48-60 ---
+Ce        24.3     (a)                                    Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Pr                                              Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Nd       21       (a)
+ Sm        7.76     (a)                                         Office, Houston
+  Eu        1.62     (a)
+  Gd                                                     Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Tb        1.85     (a)                                             soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Dy
+  Ho                                                Lunar Sci. Conf. 2287-2297.
+  Er
+  Tm                                                  Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+  Yb        6.65     (a)                                         rocks, central valley. Volumes 2 and 3.  Curators Office
+  Lu        0.92     (a)
+--- material block 3; lines 15-27 ---
+P2O5
+  S %
+  sum
+
+  Sc ppm    58.4     (a)                                          Figure 3: Normalized rare-earth-element content of
+  V
+  Cr        2960    (a)                                      72131 - note close similarity to mare soil 75061.
+  Co        33.4     (a)
+  Ni        180      (a)
+  Cu                                              References for 72131
+  Zn
+  Ga                                                         Butler P. (1973) Lunar Sample Information Catalog Apollo
+  Ge ppb                                                     17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+--- treatment block 4; lines 47-59 ---
+La        8.18     (a)
+  Ce        24.3     (a)                                    Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Pr                                              Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Nd       21       (a)
+ Sm        7.76     (a)                                         Office, Houston
+  Eu        1.62     (a)
+  Gd                                                     Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Tb        1.85     (a)                                             soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Dy
+  Ho                                                Lunar Sci. Conf. 2287-2297.
+  Er
+  Tm                                                  Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+  Yb        6.65     (a)                                         rocks, central valley. Volumes 2 and 3.  Curators Office
+--- references block 5; lines 1-10 ---
+Table 1. Chemical composition of 72131.
+
+
+  reference  Korotev92
+  weight
+  SiO2 %
+  TiO2
+  Al2O3
+  FeO       16.5     (a)
+  MnO
+--- references block 6; lines 18-30 ---
+Sc ppm    58.4     (a)                                          Figure 3: Normalized rare-earth-element content of
+  V
+  Cr        2960    (a)                                      72131 - note close similarity to mare soil 75061.
+  Co        33.4     (a)
+  Ni        180      (a)
+  Cu                                              References for 72131
+  Zn
+  Ga                                                         Butler P. (1973) Lunar Sample Information Catalog Apollo
+  Ge ppb                                                     17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+  As                                                        Catalog. pp. 447.
+  Se
+  Rb
+--- references block 7; lines 65-74 ---
+Os ppb
+    Ir ppb     5        (a)                                      geologic investigation of the Taurus-Littrow Valley: Apollo
+  Pt ppb                                             17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+  Au ppb    6        (a)                                     280.
+  Th ppm    0.93     (a)
+  U ppm     0.36     (a)
+  technique:  (a) INAA, (b)
+
+Lunar Sample Compendium
+C Meyer 2010

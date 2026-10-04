@@ -1,0 +1,577 @@
+DOCUMENT_ID: 15311__compendium__18368eb454
+ATLAS_SAMPLE_IDS: 15311
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15311.pdf
+SOURCE_PDF_SHA256: 1f59496192125318ad696257ffd4a819ab10f7de4e2375b3e454a22878922a76
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 11-30 ---
+Introduction                                                                            25
+ Soil sample 15310 was collected as part of a large rake
+ sample (figure 1) and may contain material rubbed off          20                      Apollo soils
+ of the friable rocks collected by the rake. On the other
+ hand, it is certain to also contain some soil collected          15
+                               FeO                               15311 by the rake and/or attached to the rocks. In any case
+ 15311 is a large soil sample that goes along with 15301          10
+ and it has about the same composition..
+                                                                                5
+
+ Petrography                                                            0
+ The fines from this sample have not been characterized.             0       5       10      15      20      25      30      35
+An unpublished mode by Heiken and McKay (1972 )                    Al2O3
+ reported an abundance of green glass particles. Indeed           Figure 2: Composition of 15311 compared with
+ several friable “green glass” clods were included in           other Apollo soil samples.
+ the rake sample and in the coarse-fines.
+--- mineralogy block 2; lines 18-32 ---
+15311 is a large soil sample that goes along with 15301          10
+ and it has about the same composition..
+                                                                                5
+
+ Petrography                                                            0
+ The fines from this sample have not been characterized.             0       5       10      15      20      25      30      35
+An unpublished mode by Heiken and McKay (1972 )                    Al2O3
+ reported an abundance of green glass particles. Indeed           Figure 2: Composition of 15311 compared with
+ several friable “green glass” clods were included in           other Apollo soil samples.
+ the rake sample and in the coarse-fines.
+
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 3; lines 1-32 ---
+15311
+                                       Soil (rake)
+                                     464 grams
+
+
+
+
+
+                              Figure 1: Raked area from rim of Spur Crater. AS15-90-
+                             12234.  The feet on the Gnomon are 50 cm apart.
+
+ Introduction                                                                            25
+ Soil sample 15310 was collected as part of a large rake
+ sample (figure 1) and may contain material rubbed off          20                      Apollo soils
+ of the friable rocks collected by the rake. On the other
+ hand, it is certain to also contain some soil collected          15
+                               FeO                               15311 by the rake and/or attached to the rocks. In any case
+ 15311 is a large soil sample that goes along with 15301          10
+ and it has about the same composition..
+                                                                                5
+
+ Petrography                                                            0
+ The fines from this sample have not been characterized.             0       5       10      15      20      25      30      35
+An unpublished mode by Heiken and McKay (1972 )                    Al2O3
+ reported an abundance of green glass particles. Indeed           Figure 2: Composition of 15311 compared with
+ several friable “green glass” clods were included in           other Apollo soil samples.
+ the rake sample and in the coarse-fines.
+
+
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 10-22 ---
+Compare this with the rake sample which was in the
+  ratio of 7 mare basalt, 2 KREEP basalt, 3 impact melt
+  rocks, 13 green glass clods, 39 regolith breccias and 2
+  agglutinates (table 2).
+
+ Chemistry
+  Korotev (1987) determined the bulk composition of
+ 15311 (table 1).  Several labs reported data on the
+  coarse fines (table 3). Again this “soil” sample reflects
+  the composition of KREEP – either from KREEP basalt
+  or from the impact melt rocks (which themselves carry
+  a high KREEP component) (figure 3).
+--- mineralogy block 2; lines 2-18 ---
+for 15311 soil, 15314 impact melt rock and 15314
+     KREEP basalt (see tables).
+
+ The coarse fines (4-10 mm) were cataloged by Powell
+  (1972), Phinney et al. (1972) and Ryder and Sherman
+  (1989). They reported on 5 mare basalt, 1 KREEP
+  basalt, 8 impact melt rocks, 3 green glass clods, 10
+  regolith breccias and one ropy glass particle in 15434.
+ Compare this with the rake sample which was in the
+  ratio of 7 mare basalt, 2 KREEP basalt, 3 impact melt
+  rocks, 13 green glass clods, 39 regolith breccias and 2
+  agglutinates (table 2).
+
+ Chemistry
+  Korotev (1987) determined the bulk composition of
+ 15311 (table 1).  Several labs reported data on the
+  coarse fines (table 3). Again this “soil” sample reflects
+--- mineralogy block 3; lines 21-47 ---
+a high KREEP component) (figure 3).
+
+                                                                Figure 4: Ar/Ar plateau diagrams for two impact
+                                                                  melt rocks from the coarse fines from 14311
+                                                              (Dalrymple and Ryder 1993).
+
+          Modal content of soil 15311
+                                            Summary of Age Data for 15314
+          From Morris et al. 1983                                                                                             Ar/Ar
+             (Heiken and McKay 1972)                                                                   Dalrymple and Ryder 1991  3869 ± 16 m.y.
+              Agglutinates           9 %                                                3881 ± 17 m.y.
+              Basalt                    5.5
+             Breccia               15             As is the case for 15301, this soil has high Mg and Fe
+              Anorthosite                           due to a significant amount of mafic green glass
+              Norite                                                              particles found in abundance in and around Spur Crater
+            Gabbro
+                                                          (see 15425 – 15427).
+              Plagioclase            3
+            Pyroxene              10
+              Olivine                1               Radiogenic age dating
+              Ilmenite                  2.3               Dalrymple and Ryder (1991, 1993) determined the age
+            Green Glass            46 %               of two impact melt rocks found in the coarse-fines using
+            Yellow Glass             4.5                 the Ar/Ar dating technique (figure 3), concluding that
+             Glass other               2.5
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 4; lines 1-47 ---
+Figure 3: Normalized rare-earth-element diagram
+        for 15311 soil, 15314 impact melt rock and 15314
+     KREEP basalt (see tables).
+
+ The coarse fines (4-10 mm) were cataloged by Powell
+  (1972), Phinney et al. (1972) and Ryder and Sherman
+  (1989). They reported on 5 mare basalt, 1 KREEP
+  basalt, 8 impact melt rocks, 3 green glass clods, 10
+  regolith breccias and one ropy glass particle in 15434.
+ Compare this with the rake sample which was in the
+  ratio of 7 mare basalt, 2 KREEP basalt, 3 impact melt
+  rocks, 13 green glass clods, 39 regolith breccias and 2
+  agglutinates (table 2).
+
+ Chemistry
+  Korotev (1987) determined the bulk composition of
+ 15311 (table 1).  Several labs reported data on the
+  coarse fines (table 3). Again this “soil” sample reflects
+  the composition of KREEP – either from KREEP basalt
+  or from the impact melt rocks (which themselves carry
+  a high KREEP component) (figure 3).
+
+                                                                Figure 4: Ar/Ar plateau diagrams for two impact
+                                                                  melt rocks from the coarse fines from 14311
+                                                              (Dalrymple and Ryder 1993).
+
+          Modal content of soil 15311
+                                            Summary of Age Data for 15314
+          From Morris et al. 1983                                                                                             Ar/Ar
+             (Heiken and McKay 1972)                                                                   Dalrymple and Ryder 1991  3869 ± 16 m.y.
+              Agglutinates           9 %                                                3881 ± 17 m.y.
+              Basalt                    5.5
+             Breccia               15             As is the case for 15301, this soil has high Mg and Fe
+              Anorthosite                           due to a significant amount of mafic green glass
+              Norite                                                              particles found in abundance in and around Spur Crater
+            Gabbro
+                                                          (see 15425 – 15427).
+              Plagioclase            3
+            Pyroxene              10
+              Olivine                1               Radiogenic age dating
+              Ilmenite                  2.3               Dalrymple and Ryder (1991, 1993) determined the age
+            Green Glass            46 %               of two impact melt rocks found in the coarse-fines using
+            Yellow Glass             4.5                 the Ar/Ar dating technique (figure 3), concluding that
+             Glass other               2.5
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 5; lines 22-47 ---
+Figure 4: Ar/Ar plateau diagrams for two impact
+                                                                  melt rocks from the coarse fines from 14311
+                                                              (Dalrymple and Ryder 1993).
+
+          Modal content of soil 15311
+                                            Summary of Age Data for 15314
+          From Morris et al. 1983                                                                                             Ar/Ar
+             (Heiken and McKay 1972)                                                                   Dalrymple and Ryder 1991  3869 ± 16 m.y.
+              Agglutinates           9 %                                                3881 ± 17 m.y.
+              Basalt                    5.5
+             Breccia               15             As is the case for 15301, this soil has high Mg and Fe
+              Anorthosite                           due to a significant amount of mafic green glass
+              Norite                                                              particles found in abundance in and around Spur Crater
+            Gabbro
+                                                          (see 15425 – 15427).
+              Plagioclase            3
+            Pyroxene              10
+              Olivine                1               Radiogenic age dating
+              Ilmenite                  2.3               Dalrymple and Ryder (1991, 1993) determined the age
+            Green Glass            46 %               of two impact melt rocks found in the coarse-fines using
+            Yellow Glass             4.5                 the Ar/Ar dating technique (figure 3), concluding that
+             Glass other               2.5
+
+Lunar Sample Compendium
+C Meyer 2010
+--- references block 6; lines 37-47 ---
+(see 15425 – 15427).
+              Plagioclase            3
+            Pyroxene              10
+              Olivine                1               Radiogenic age dating
+              Ilmenite                  2.3               Dalrymple and Ryder (1991, 1993) determined the age
+            Green Glass            46 %               of two impact melt rocks found in the coarse-fines using
+            Yellow Glass             4.5                 the Ar/Ar dating technique (figure 3), concluding that
+             Glass other               2.5
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 32-69 ---
+15319   8        regolith breccia                          15359   4.2      fine-grained impact melt
+ 15320   4.7      regolith breccia                          15360   9.3      regolith breccia
+ 15321   0.3      regolith breccia                          15361   0.9      anorthosite breccia
+ 15322   8.4      regolith breccia                          15362   4.2       cataclastic anorthosite
+ 15323   4.4      regolith breccia                          15363   0.5      anorthosite breccia
+ 15324   32.3     regolith breccia                          15364   1.5      anorthosite breccia
+ 15325   57.8    dense regolith breccia                     15365   2.9      indurated green glass clod
+ 15326   2.5      regolith breccia                          15366   3.3     green glass clod
+ 15327   12.4      clast-rich glassy melt                      15367   1.1     green glass clod
+ 15328   0.3      regolith breccia                          15368   0.4     green glass clod
+ 15329   2.2      regolith breccia, glass-coated               15369   2.5     green glass clod
+ 15330   57.8     regolith breccia                           15370   2.9     green glass clod
+ 15331   2.6      regolith breccia                          15371   0.5     green glass clod
+ 15332   2.3      agglutinate                              15372   0.8     green glass clod
+ 15333   0.3      regolith breccia                           15373   0.6     green glass clod
+ 15334   7.5      regolith breccia                           15374   1       green glass clod
+ 15335   6        regolith breccia                           15375   0.4     green glass clod
+ 15336   0.2      regolith breccia                           15376   1       green glass clod
+ 15337   4.3      regolith breccia                           15377   0.5     green glass clod
+ 15338   11.1     regolith breccia                           15378   3.3      regolith breccia
+ 15339   0.4      regolith breccia                           15379   64.3    mare basalt
+ 15340   0.9      regolith breccia                          15380   5.2     mare basalt
+ 15341   1.6      regolith breccia                          15381   0.3     mare basalt
+ 15342   7.5      regolith breccia                          15382   3.2     KREEP basalt
+ 15343   6.9      regolith breccia                          15383   1.4       glass with basalt
+ 15344   7.9      regolith breccia                          15384   1.4     mare basalt
+ 15345   12.3     vesicular glass with breccia                 15385   8.7     mare basalt
+ 15346   3.1      regolith breccia                          15386   7.5     KREEP basalt
+ 15347   3.2      regolith breccia                           15387   2      mare basalt
+ 15348   0.3      regolith breccia                          15388   9      mare basalt
+ 15349   2.3      regolith breccia                          15389   2.8      agglutinate
+ 15350   2.9      regolith breccia                          15390   3.5       glass
+ 15351   4.2      regolith breccia                          15391   0.3       glass
+ 15352   2.9      regolith breccia                          15392   0.4       glass
+ 15353   10.6     regolith breccia
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 2; lines 1-69 ---
+C Meyer                                                              rake samples
+      2010            15310
+
+                                                                                            15380  15390            464 g                               15315  15320  15340  15360
+  reserve       < 1 mm                  2 - 4 mm    4 - 10 mm
+
+                                                                                            15382  15392
+ 15310  15311   15312  15313  15314          15319                15369       KREEP
+ 140 g   295 g    10 g    9.8 g   8.4 g                                  15370   15386 basalt
+                            1 - 2 mm                                      15329
+                                                                                            15389                                                                       15330  15349
+                                                                              15350  15379
+                                        ,30       ,34       ,36      ,14
+                                    0.417 g KREEP   0.21 g   0.31 g
+                                    impact   basalt    impact  mare                  15356 impact melt rock
+                                      melt               melt     basalt                 15357
+
+                                                                       15339
+                                       see Ryder and Sherman                                                                              15359
+
+
+
+
+ Table 2: Rake samples from 15310.
+
+
+         grams   Ryder’s name.                           15354   0.3      regolith breccia
+ 15315   35.6     regolith breccia                          15355   5.2      regolith breccia
+ 15316   6.1      regolith breccia                          15356   2        fine-grained impact melt
+ 15317   0.6      regolith breccia                           15357   11.8     fine-grained impact melt
+ 15318   5.4      regolith breccia                          15358   14.6     glassy breccia with KREEP basalt clasts
+ 15319   8        regolith breccia                          15359   4.2      fine-grained impact melt
+ 15320   4.7      regolith breccia                          15360   9.3      regolith breccia
+ 15321   0.3      regolith breccia                          15361   0.9      anorthosite breccia
+ 15322   8.4      regolith breccia                          15362   4.2       cataclastic anorthosite
+ 15323   4.4      regolith breccia                          15363   0.5      anorthosite breccia
+ 15324   32.3     regolith breccia                          15364   1.5      anorthosite breccia
+ 15325   57.8    dense regolith breccia                     15365   2.9      indurated green glass clod
+ 15326   2.5      regolith breccia                          15366   3.3     green glass clod
+ 15327   12.4      clast-rich glassy melt                      15367   1.1     green glass clod
+ 15328   0.3      regolith breccia                          15368   0.4     green glass clod
+ 15329   2.2      regolith breccia, glass-coated               15369   2.5     green glass clod
+ 15330   57.8     regolith breccia                           15370   2.9     green glass clod
+ 15331   2.6      regolith breccia                          15371   0.5     green glass clod
+ 15332   2.3      agglutinate                              15372   0.8     green glass clod
+ 15333   0.3      regolith breccia                           15373   0.6     green glass clod
+ 15334   7.5      regolith breccia                           15374   1       green glass clod
+ 15335   6        regolith breccia                           15375   0.4     green glass clod
+ 15336   0.2      regolith breccia                           15376   1       green glass clod
+ 15337   4.3      regolith breccia                           15377   0.5     green glass clod
+ 15338   11.1     regolith breccia                           15378   3.3      regolith breccia
+ 15339   0.4      regolith breccia                           15379   64.3    mare basalt
+ 15340   0.9      regolith breccia                          15380   5.2     mare basalt
+ 15341   1.6      regolith breccia                          15381   0.3     mare basalt
+ 15342   7.5      regolith breccia                          15382   3.2     KREEP basalt
+ 15343   6.9      regolith breccia                          15383   1.4       glass with basalt
+ 15344   7.9      regolith breccia                          15384   1.4     mare basalt
+ 15345   12.3     vesicular glass with breccia                 15385   8.7     mare basalt
+ 15346   3.1      regolith breccia                          15386   7.5     KREEP basalt
+ 15347   3.2      regolith breccia                           15387   2      mare basalt
+ 15348   0.3      regolith breccia                          15388   9      mare basalt
+ 15349   2.3      regolith breccia                          15389   2.8      agglutinate
+ 15350   2.9      regolith breccia                          15390   3.5       glass
+ 15351   4.2      regolith breccia                          15391   0.3       glass
+ 15352   2.9      regolith breccia                          15392   0.4       glass
+ 15353   10.6     regolith breccia
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 4; CATEGORIES: age,chemistry,material,references ===
+--- chemistry block 1; lines 1-18 ---
+Table 1. Chemical composition of 15311        3.87 b.y. was the age of the Imbrium impact ! Wow !
+                                            So much information from such small particles !
+  reference  Korotev87
+  weight
+  SiO2 %                                         Processing
+  TiO2       1.42     (a)                              15311 was returned in sample collection bag 3 placed
+  Al2O3     16.9     (a)                                      in ALSRC#2 (which did not seal).  FeO       12.7     (a)
+ MnO       0.17     (a)                                                It is the soil collected and returned along with the rake
+ MgO       11.9     (a)                                  sample. As such, it probably contains material abraded
+ CaO       10.4     (a)
+ Na2O      0.43     (a)                                       off of friable rake samples.
+ K2O
+  P2O5                                     PS Samples greater than 1 cm are called “walnuts”
+ S %
+  sum                                          and samples in the 4 – 10 mm size range are called
+                                                           :coarse-fines, or “peanuts”.
+  Sc ppm    24.5     (a)
+ V        89       (a)
+--- material block 2; lines 2-17 ---
+So much information from such small particles !
+  reference  Korotev87
+  weight
+  SiO2 %                                         Processing
+  TiO2       1.42     (a)                              15311 was returned in sample collection bag 3 placed
+  Al2O3     16.9     (a)                                      in ALSRC#2 (which did not seal).  FeO       12.7     (a)
+ MnO       0.17     (a)                                                It is the soil collected and returned along with the rake
+ MgO       11.9     (a)                                  sample. As such, it probably contains material abraded
+ CaO       10.4     (a)
+ Na2O      0.43     (a)                                       off of friable rake samples.
+ K2O
+  P2O5                                     PS Samples greater than 1 cm are called “walnuts”
+ S %
+  sum                                          and samples in the 4 – 10 mm size range are called
+                                                           :coarse-fines, or “peanuts”.
+  Sc ppm    24.5     (a)
+--- age block 3; lines 1-7 ---
+Table 1. Chemical composition of 15311        3.87 b.y. was the age of the Imbrium impact ! Wow !
+                                            So much information from such small particles !
+  reference  Korotev87
+  weight
+  SiO2 %                                         Processing
+  TiO2       1.42     (a)                              15311 was returned in sample collection bag 3 placed
+  Al2O3     16.9     (a)                                      in ALSRC#2 (which did not seal).  FeO       12.7     (a)
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 15311        3.87 b.y. was the age of the Imbrium impact ! Wow !
+                                            So much information from such small particles !
+  reference  Korotev87
+  weight
+  SiO2 %                                         Processing
+  TiO2       1.42     (a)                              15311 was returned in sample collection bag 3 placed
+  Al2O3     16.9     (a)                                      in ALSRC#2 (which did not seal).  FeO       12.7     (a)
+ MnO       0.17     (a)                                                It is the soil collected and returned along with the rake
+ MgO       11.9     (a)                                  sample. As such, it probably contains material abraded
+--- references block 5; lines 63-72 ---
+Os ppb
+   Ir ppb      4.8       (a)
+  Pt ppb
+  Au ppb     4.5       (a)
+  Th ppm    2.8       (a)
+ U ppm     0.86     (a)
+  technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 3. Composition of some particles from 15310.
+ 15314     ,29,149      ,26,97       ,30           ,30         ,32                   ,34
+ reference  Laul87      Ryder87    Wiesman76             Laul87             Hubbard73
+ weight     impact melt  impact melt  impact melt  same      impact melt       KREEP basalt
+ SiO2 %              48        (b)              48.5    (b)
+ TiO2       1.2       (a) 1.37      (b) 1.09      (c ) 1.31    (b) 0.97      (a)         2.02        (c )
+ Al2O3     15.2      (a) 17.3      (b)              16.1    (b) 16.2      (a)         16.7
+ FeO       10.2      (a)  8.6        (b)               8.6      (b)                      10.4
+ MnO      0.125    (a) 0.143     (b)              0.15    (b)  8.7        (a)
+ MgO      16.8      (a) 12.8      (b)              13.8    (b) 0.122     (a)         8.56        (c )
+ CaO       9.4       (a) 10.5      (b)              10.2    (b) 13.2      (a)         7.67        (c )
+ Na2O      0.4       (a) 0.52      (b)              0.58    (b)  9.7        (a)         0.68
+ K2O       0.18      (a) 0.35      (b) 0.3       (c ) 0.35    (b) 0.55      (a)         0.53        (c )
+ P2O5                  0.37      (b)              0.34    (b) 0.44      (a)
+ S %
+ sum
+
+ Sc ppm   16        (a) 21.1      (a)              20.2    (a) 18        (a)
+ V        60        (a)                                  60        (a)
+--- material block 2; lines 1-10 ---
+Table 3. Composition of some particles from 15310.
+ 15314     ,29,149      ,26,97       ,30           ,30         ,32                   ,34
+ reference  Laul87      Ryder87    Wiesman76             Laul87             Hubbard73
+ weight     impact melt  impact melt  impact melt  same      impact melt       KREEP basalt
+ SiO2 %              48        (b)              48.5    (b)
+ TiO2       1.2       (a) 1.37      (b) 1.09      (c ) 1.31    (b) 0.97      (a)         2.02        (c )
+ Al2O3     15.2      (a) 17.3      (b)              16.1    (b) 16.2      (a)         16.7
+ FeO       10.2      (a)  8.6        (b)               8.6      (b)                      10.4
+ MnO      0.125    (a) 0.143     (b)              0.15    (b)  8.7        (a)
+ MgO      16.8      (a) 12.8      (b)              13.8    (b) 0.122     (a)         8.56        (c )
+--- references block 3; lines 1-9 ---
+Table 3. Composition of some particles from 15310.
+ 15314     ,29,149      ,26,97       ,30           ,30         ,32                   ,34
+ reference  Laul87      Ryder87    Wiesman76             Laul87             Hubbard73
+ weight     impact melt  impact melt  impact melt  same      impact melt       KREEP basalt
+ SiO2 %              48        (b)              48.5    (b)
+ TiO2       1.2       (a) 1.37      (b) 1.09      (c ) 1.31    (b) 0.97      (a)         2.02        (c )
+ Al2O3     15.2      (a) 17.3      (b)              16.1    (b) 16.2      (a)         16.7
+ FeO       10.2      (a)  8.6        (b)               8.6      (b)                      10.4
+ MnO      0.125    (a) 0.143     (b)              0.15    (b)  8.7        (a)
+--- references block 4; lines 64-74 ---
+Os ppb
+ Ir ppb     15        (a)                                        2.9        (a)
+ Pt ppb
+ Au ppb    12.7      (a)                                  4          (a)
+ Th ppm   6         (a)              5.89      (c ) 7        (a)  6.7        (a)         10.8        (c )
+ U ppm     1.5       (a)              1.84      (c ) 2.5      (a)  1.6        (a)         3.1         (c )
+ technique:  (a) INAA, (b) fused-bead e-probe, (c ) IDMS
+
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 6; CATEGORIES: age,chemistry,material,references,treatment ===
+--- chemistry block 1; lines 1-11 ---
+References for 15310
+  Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’  Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+  Office, MSC 03209                                     volumes). Curatoial Branch Pub. # 72, JSC#20787
+
+  Dalrymple G.B. and Ryder G. (1991) 40Ar/39Ar ages of six  Ryder G. and Spudis P. (1987) Chemical composition and
+  Apollo 15 impact melt rocks by laser step heating. Geophys.   origin of Apollo 15 impact melts. Proc. 17th Lunar Planet.
+  Res. Lett. 18, 1163-1166.                                        Sci. Conf. in J. Geophys. Res. 92, E432-446.
+
+  Dalrymple G.B. and Ryder G. (1993) 40Ar/39Ar age spectra  Ryder G. and Sherman S.B. (1989) The Apollo 15 Coarse
+  of Apollo 15 impact melt rocks by laser step-heating and   Fines. Curators Office #81, JSC#24035
+  their bearing on the history of lunar basin formation.  J.
+--- chemistry block 2; lines 33-45 ---
+LSPET (1972b) Preliminary examination of lunar samples.
+  Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+  1—6-28.
+
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+  soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  Lunar Planet . Sci. Conf. 2287-2298.
+
+  Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Handbook of Lunar Soils. JSC 19069
+
+  Phinney W.C., Warner J ., Simonds C.H. and Lofgren G.E.
+--- material block 3; lines 1-34 ---
+References for 15310
+  Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’  Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+  Office, MSC 03209                                     volumes). Curatoial Branch Pub. # 72, JSC#20787
+
+  Dalrymple G.B. and Ryder G. (1991) 40Ar/39Ar ages of six  Ryder G. and Spudis P. (1987) Chemical composition and
+  Apollo 15 impact melt rocks by laser step heating. Geophys.   origin of Apollo 15 impact melts. Proc. 17th Lunar Planet.
+  Res. Lett. 18, 1163-1166.                                        Sci. Conf. in J. Geophys. Res. 92, E432-446.
+
+  Dalrymple G.B. and Ryder G. (1993) 40Ar/39Ar age spectra  Ryder G. and Sherman S.B. (1989) The Apollo 15 Coarse
+  of Apollo 15 impact melt rocks by laser step-heating and   Fines. Curators Office #81, JSC#24035
+  their bearing on the history of lunar basin formation.  J.
+  Geophys. Res. 98, 13,085-13,095.                    Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+                                                              G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Preliminary description of Apollo 15 sample environments.
+  Reference Pub. 1265, March 1993                         U.S.G.S. Interagency report: 36. pp219 with maps
+
+  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+                                                       M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+  Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+  Space Phys. 13, 567-587.                                    G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+                                                          Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary
+  Korotev R.L. (1987) Mixing levels, the Apennine Front soil   Geologic Investigation of the Apollo 15 landing site.  In
+  component, and compositional trends in the Apollo 15 soils.   Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+  Proc. 17th Lunar Planet. Sci. Conf. E411-431.               5-1-112.
+
+  Laul J.C., Simon S.B. and Papike J.J. (1988)  Chemistry
+  and petrology of the Apennine Front, Apollo 15, Part II:
+  Impact melt rocks. Proc. 18th Lunar Planet. Sci. Conf. 203-
+  217. Lunar Planetary Institute, Houston.
+
+ LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+  description. Science 175, 363-375.
+
+ LSPET (1972b) Preliminary examination of lunar samples.
+--- material block 4; lines 40-52 ---
+Lunar Planet . Sci. Conf. 2287-2298.
+
+  Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Handbook of Lunar Soils. JSC 19069
+
+  Phinney W.C., Warner J ., Simonds C.H. and Lofgren G.E.
+  (1972) Classification and distribution of rock types at Spur
+  Crater. In The Apollo 15 Lunar Samples, 149-153. LPI
+
+  Powell B.N. (1972)  Apollo 15 Coarse Fines (4-10mm):
+  Sample classification, description and inventory. MSC
+  03228 Curator’s Office JSC
+--- age block 5; lines 3-15 ---
+Office, MSC 03209                                     volumes). Curatoial Branch Pub. # 72, JSC#20787
+
+  Dalrymple G.B. and Ryder G. (1991) 40Ar/39Ar ages of six  Ryder G. and Spudis P. (1987) Chemical composition and
+  Apollo 15 impact melt rocks by laser step heating. Geophys.   origin of Apollo 15 impact melts. Proc. 17th Lunar Planet.
+  Res. Lett. 18, 1163-1166.                                        Sci. Conf. in J. Geophys. Res. 92, E432-446.
+
+  Dalrymple G.B. and Ryder G. (1993) 40Ar/39Ar age spectra  Ryder G. and Sherman S.B. (1989) The Apollo 15 Coarse
+  of Apollo 15 impact melt rocks by laser step-heating and   Fines. Curators Office #81, JSC#24035
+  their bearing on the history of lunar basin formation.  J.
+  Geophys. Res. 98, 13,085-13,095.                    Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+                                                              G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Preliminary description of Apollo 15 sample environments.
+  Reference Pub. 1265, March 1993                         U.S.G.S. Interagency report: 36. pp219 with maps
+--- treatment block 6; lines 32-44 ---
+description. Science 175, 363-375.
+
+ LSPET (1972b) Preliminary examination of lunar samples.
+  Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+  1—6-28.
+
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+  soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  Lunar Planet . Sci. Conf. 2287-2298.
+
+  Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Handbook of Lunar Soils. JSC 19069
+--- references block 7; lines 1-21 ---
+References for 15310
+  Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’  Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+  Office, MSC 03209                                     volumes). Curatoial Branch Pub. # 72, JSC#20787
+
+  Dalrymple G.B. and Ryder G. (1991) 40Ar/39Ar ages of six  Ryder G. and Spudis P. (1987) Chemical composition and
+  Apollo 15 impact melt rocks by laser step heating. Geophys.   origin of Apollo 15 impact melts. Proc. 17th Lunar Planet.
+  Res. Lett. 18, 1163-1166.                                        Sci. Conf. in J. Geophys. Res. 92, E432-446.
+
+  Dalrymple G.B. and Ryder G. (1993) 40Ar/39Ar age spectra  Ryder G. and Sherman S.B. (1989) The Apollo 15 Coarse
+  of Apollo 15 impact melt rocks by laser step-heating and   Fines. Curators Office #81, JSC#24035
+  their bearing on the history of lunar basin formation.  J.
+  Geophys. Res. 98, 13,085-13,095.                    Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+                                                              G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Preliminary description of Apollo 15 sample environments.
+  Reference Pub. 1265, March 1993                         U.S.G.S. Interagency report: 36. pp219 with maps
+
+  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+                                                       M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+  Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+  Space Phys. 13, 567-587.                                    G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+                                                          Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary

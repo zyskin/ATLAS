@@ -1,0 +1,597 @@
+DOCUMENT_ID: 60019__compendium__6b9e5ee7a0
+ATLAS_SAMPLE_IDS: 60019
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60019.pdf
+SOURCE_PDF_SHA256: e0f8fb08fdce5ac5124e6e178467603d37645ead00a86ea73a69cbb54a29b90d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-23 ---
+60019
+                                  Ancient Regolith Breccia
+                                           1887 grams
+
+
+
+
+
+                               Truely White                                   ,5
+
+
+
+
+                                            Clast 2
+position
+
+of              Clast 1
+
+slab 18
+
+
+slab 127
+--- material block 2; lines 26-38 ---
+,4
+
+
+
+
+
+                   Figure 1: Photo of top surface of lunar breccia 60019. Note the abundance of micrometeorite craters.
+                  S72-42574. Cube is 1 cm. Approximate position of first slab and column indicated by thin black lines
+                 and position of two additioanl slabs by white lines.
+
+
+
+     Lunar Sample Compendium
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 4-27 ---
+Introduction                                     (1989) have all given descriptions of the matrix of
+   Lunar sample 60019 is a dark glassy-matrix breccia  60019. Simon et al. noted that it contained brown glass.
+    with several large white clasts. It is found to have high
+    40Ar/38Ar and excess fission Xe, so it has been classified  Mineralogy
+    as an “ancient regolith breccia” (McKay et al. 1986),  Mineral compositions (plagioclase, pyroxene and
+    although there is no date given.                         olivine) can be found in Takeda et al. (1988) and in
+                                                              Pieters and Taylor (1989). Trace element analyses for
+   One  side  (the  top)  of 60019 has numerous   plagioclase and pyroxene were reported by Steele et
+    micrometeorite craters (figure 1). The other side of
+   60019 was covered with a thick vesicular glass coat  Mineralogical Mode for 60019
+   and apparently protected from meteorite bombardment   (from Simon et al. 1988)
+    (figure 2).  It may have been a glass-covered bomb.                              20-90 micron     90-1000 micron
+                                                                Matrix < 20 micron         50.9 %
+                                                        Mare basalt              0                  0.7 %
+   Petrography                                              KREEP basalt            0               0
+   Lunar sample 60019 is a clast-rich coherent regolith   Feldspathic basalt           0.1             0
+    breccia (Ryder and Norman 1980, Fruland 1983). The   Plutonic rock frag.         0                  6.2
+    maturity is low (Is/FeO = 0.2 (McKay et al. 1986)).   Granulite                0                  3.4
+                                                                      Poik. rocks               1                  6.8
+   However, Bernatowitz et al. (1978) and McKay et al.                                                               Impact melts                0.3                7.2
+    (1986) found it to have high concentrations of rare   Regolith brec.            0                  1.5
+    gases, with excess 129Xe.                                    Agglutinate                 0.2                1.7
+                                                                       Plagioclase                 6.3                6.1
+                                                                    Olivine                     0.5                0.2   McKay et al. (1986), Simon et al. (1988), Korotev
+--- mineralogy block 2; lines 1-33 ---
+Figure 2: Photo of bottom surface of 60019, showing coating with vesicular glass.
+                     S72-42578. Cube is 1 cm. for scale.
+
+   Introduction                                     (1989) have all given descriptions of the matrix of
+   Lunar sample 60019 is a dark glassy-matrix breccia  60019. Simon et al. noted that it contained brown glass.
+    with several large white clasts. It is found to have high
+    40Ar/38Ar and excess fission Xe, so it has been classified  Mineralogy
+    as an “ancient regolith breccia” (McKay et al. 1986),  Mineral compositions (plagioclase, pyroxene and
+    although there is no date given.                         olivine) can be found in Takeda et al. (1988) and in
+                                                              Pieters and Taylor (1989). Trace element analyses for
+   One  side  (the  top)  of 60019 has numerous   plagioclase and pyroxene were reported by Steele et
+    micrometeorite craters (figure 1). The other side of
+   60019 was covered with a thick vesicular glass coat  Mineralogical Mode for 60019
+   and apparently protected from meteorite bombardment   (from Simon et al. 1988)
+    (figure 2).  It may have been a glass-covered bomb.                              20-90 micron     90-1000 micron
+                                                                Matrix < 20 micron         50.9 %
+                                                        Mare basalt              0                  0.7 %
+   Petrography                                              KREEP basalt            0               0
+   Lunar sample 60019 is a clast-rich coherent regolith   Feldspathic basalt           0.1             0
+    breccia (Ryder and Norman 1980, Fruland 1983). The   Plutonic rock frag.         0                  6.2
+    maturity is low (Is/FeO = 0.2 (McKay et al. 1986)).   Granulite                0                  3.4
+                                                                      Poik. rocks               1                  6.8
+   However, Bernatowitz et al. (1978) and McKay et al.                                                               Impact melts                0.3                7.2
+    (1986) found it to have high concentrations of rare   Regolith brec.            0                  1.5
+    gases, with excess 129Xe.                                    Agglutinate                 0.2                1.7
+                                                                       Plagioclase                 6.3                6.1
+                                                                    Olivine                     0.5                0.2   McKay et al. (1986), Simon et al. (1988), Korotev
+                                                              Pyroxene                1                  0.4
+    (1996), Takeda et al.(1988) and Pieters and Taylor                                                          Opaques                 0               0
+                                                                   Glass                       4.4                4.5
+
+Lunar Sample Compendium
+C Meyer 2009
+--- material block 3; lines 1-30 ---
+Figure 2: Photo of bottom surface of 60019, showing coating with vesicular glass.
+                     S72-42578. Cube is 1 cm. for scale.
+
+   Introduction                                     (1989) have all given descriptions of the matrix of
+   Lunar sample 60019 is a dark glassy-matrix breccia  60019. Simon et al. noted that it contained brown glass.
+    with several large white clasts. It is found to have high
+    40Ar/38Ar and excess fission Xe, so it has been classified  Mineralogy
+    as an “ancient regolith breccia” (McKay et al. 1986),  Mineral compositions (plagioclase, pyroxene and
+    although there is no date given.                         olivine) can be found in Takeda et al. (1988) and in
+                                                              Pieters and Taylor (1989). Trace element analyses for
+   One  side  (the  top)  of 60019 has numerous   plagioclase and pyroxene were reported by Steele et
+    micrometeorite craters (figure 1). The other side of
+   60019 was covered with a thick vesicular glass coat  Mineralogical Mode for 60019
+   and apparently protected from meteorite bombardment   (from Simon et al. 1988)
+    (figure 2).  It may have been a glass-covered bomb.                              20-90 micron     90-1000 micron
+                                                                Matrix < 20 micron         50.9 %
+                                                        Mare basalt              0                  0.7 %
+   Petrography                                              KREEP basalt            0               0
+   Lunar sample 60019 is a clast-rich coherent regolith   Feldspathic basalt           0.1             0
+    breccia (Ryder and Norman 1980, Fruland 1983). The   Plutonic rock frag.         0                  6.2
+    maturity is low (Is/FeO = 0.2 (McKay et al. 1986)).   Granulite                0                  3.4
+                                                                      Poik. rocks               1                  6.8
+   However, Bernatowitz et al. (1978) and McKay et al.                                                               Impact melts                0.3                7.2
+    (1986) found it to have high concentrations of rare   Regolith brec.            0                  1.5
+    gases, with excess 129Xe.                                    Agglutinate                 0.2                1.7
+                                                                       Plagioclase                 6.3                6.1
+                                                                    Olivine                     0.5                0.2   McKay et al. (1986), Simon et al. (1988), Korotev
+                                                              Pyroxene                1                  0.4
+    (1996), Takeda et al.(1988) and Pieters and Taylor                                                          Opaques                 0               0
+                                                                   Glass                       4.4                4.5
+--- treatment block 4; lines 15-27 ---
+(figure 2).  It may have been a glass-covered bomb.                              20-90 micron     90-1000 micron
+                                                                Matrix < 20 micron         50.9 %
+                                                        Mare basalt              0                  0.7 %
+   Petrography                                              KREEP basalt            0               0
+   Lunar sample 60019 is a clast-rich coherent regolith   Feldspathic basalt           0.1             0
+    breccia (Ryder and Norman 1980, Fruland 1983). The   Plutonic rock frag.         0                  6.2
+    maturity is low (Is/FeO = 0.2 (McKay et al. 1986)).   Granulite                0                  3.4
+                                                                      Poik. rocks               1                  6.8
+   However, Bernatowitz et al. (1978) and McKay et al.                                                               Impact melts                0.3                7.2
+    (1986) found it to have high concentrations of rare   Regolith brec.            0                  1.5
+    gases, with excess 129Xe.                                    Agglutinate                 0.2                1.7
+                                                                       Plagioclase                 6.3                6.1
+                                                                    Olivine                     0.5                0.2   McKay et al. (1986), Simon et al. (1988), Korotev
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 11-23 ---
+Clast 1 (WC-1)(about 3 cm)
+                                                    According to Ryder and Norman (1980) the large white
+                                                                 clast seen in figures 1 and 12 has a poikilitic texture
+                                                  and is made up of “granoblastic impactites, cataclastic
+                                                           anorthosite and aluminous basalt”. Rose et al. (1975)
+                                                         reported the chemical composition (table 1), which
+                                                    does not appear to be greatly different from that of the
+                                                     matrix of the bulk breccia.  Takeda et al. (1988)
+                                                          reported pyroxene and plagioclase compositions. Thin
+                                                           section numbers of this clast include ,77 ,78 ,81 ,82
+                                                  and ,207. A portion of this rock can be seen in figure
+                                                                3.
+--- mineralogy block 2; lines 1-26 ---
+the smaller clasts (termed WF-1, WF-4 and WC-1).
+                                             They are feldspathic and poikilitic in texture.  In
+                                                             addition, Galindo (1985) identified two small basalt
+                                                                   clasts.
+
+                                                              Pieters and Taylor (1989) have also studied small clasts
+                                                              in 60019 (by combined mineralogy and spectroscopy).
+                                              They were mostly feldspathic “impact melts”, with
+                                                         various proportions of minerals (termed clasts A, B,
+                                                 D, G and R).
+
+                                                         Clast 1 (WC-1)(about 3 cm)
+                                                    According to Ryder and Norman (1980) the large white
+                                                                 clast seen in figures 1 and 12 has a poikilitic texture
+                                                  and is made up of “granoblastic impactites, cataclastic
+                                                           anorthosite and aluminous basalt”. Rose et al. (1975)
+                                                         reported the chemical composition (table 1), which
+                                                    does not appear to be greatly different from that of the
+                                                     matrix of the bulk breccia.  Takeda et al. (1988)
+                                                          reported pyroxene and plagioclase compositions. Thin
+                                                           section numbers of this clast include ,77 ,78 ,81 ,82
+                                                  and ,207. A portion of this rock can be seen in figure
+                                                                3.
+
+                                                         Clast 2 (WC-2)(about 4 cm)
+                                                        Figures 1 and 8 show that this clast is probably several
+--- mineralogy block 3; lines 32-55 ---
+Clast IV:
+                                                  See figure 17. TS ,83 ,84
+
+                                                   Ba-2: Basalt
+                                 A small basalt clast is illustrated in figures 7 and 12.
+                                                  Takeda et al. (1987) reported analyses of the pyroxene
+                                                              (figure 8) and plagioclase (An95-98) in this clast.      Figure 3: Photomicrographs of thin section 60019,82
+        (field of view 1.3 mm). Top is plane polarized S79-
+                                                     Truly White      27699; middle is crossed polarized S79-27700; bottom
+                                                  See figure 1. This 5 mm truly white clast (dedicated to        is reflected light S79-27698. A portion of clast 1 (WC-
+      1) is on the right, matrix on the left.                   Paul Warren) on butt end ,5, needs to be studied (by
+                                                        him).
+    al. (1980) and Takeda et al. (1988). A minor amount
+   of “rust” is reported by Hunter and Taylor (1981).     Chemistry
+                                                Rose et al. (1975), McKay et al. (1986), Simon et al.
+   Significant Clasts                                (1988) and Korotev (1996) obtained similar results
+   60019 has numerous large white clasts which were   (table 1). The glass coating is also similar (figure 9).
+   nicely mapped and described by Galindo (1985).
+   Takeda et al. (1987, 1988) have reported on several of
+
+
+Lunar Sample Compendium
+C Meyer 2009
+--- material block 4; lines 1-49 ---
+the smaller clasts (termed WF-1, WF-4 and WC-1).
+                                             They are feldspathic and poikilitic in texture.  In
+                                                             addition, Galindo (1985) identified two small basalt
+                                                                   clasts.
+
+                                                              Pieters and Taylor (1989) have also studied small clasts
+                                                              in 60019 (by combined mineralogy and spectroscopy).
+                                              They were mostly feldspathic “impact melts”, with
+                                                         various proportions of minerals (termed clasts A, B,
+                                                 D, G and R).
+
+                                                         Clast 1 (WC-1)(about 3 cm)
+                                                    According to Ryder and Norman (1980) the large white
+                                                                 clast seen in figures 1 and 12 has a poikilitic texture
+                                                  and is made up of “granoblastic impactites, cataclastic
+                                                           anorthosite and aluminous basalt”. Rose et al. (1975)
+                                                         reported the chemical composition (table 1), which
+                                                    does not appear to be greatly different from that of the
+                                                     matrix of the bulk breccia.  Takeda et al. (1988)
+                                                          reported pyroxene and plagioclase compositions. Thin
+                                                           section numbers of this clast include ,77 ,78 ,81 ,82
+                                                  and ,207. A portion of this rock can be seen in figure
+                                                                3.
+
+                                                         Clast 2 (WC-2)(about 4 cm)
+                                                        Figures 1 and 8 show that this clast is probably several
+                                                              clasts adjacent to each other. They have not been
+                                                             studied.
+
+                                                         Clast III:
+                                                  See figure 17. TS ,79 ,80
+
+                                                         Clast IV:
+                                                  See figure 17. TS ,83 ,84
+
+                                                   Ba-2: Basalt
+                                 A small basalt clast is illustrated in figures 7 and 12.
+                                                  Takeda et al. (1987) reported analyses of the pyroxene
+                                                              (figure 8) and plagioclase (An95-98) in this clast.      Figure 3: Photomicrographs of thin section 60019,82
+        (field of view 1.3 mm). Top is plane polarized S79-
+                                                     Truly White      27699; middle is crossed polarized S79-27700; bottom
+                                                  See figure 1. This 5 mm truly white clast (dedicated to        is reflected light S79-27698. A portion of clast 1 (WC-
+      1) is on the right, matrix on the left.                   Paul Warren) on butt end ,5, needs to be studied (by
+                                                        him).
+    al. (1980) and Takeda et al. (1988). A minor amount
+   of “rust” is reported by Hunter and Taylor (1981).     Chemistry
+                                                Rose et al. (1975), McKay et al. (1986), Simon et al.
+   Significant Clasts                                (1988) and Korotev (1996) obtained similar results
+   60019 has numerous large white clasts which were   (table 1). The glass coating is also similar (figure 9).
+
+=== PDF PAGE 4; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 10-36 ---
+figure 9).
+
+
+
+
+
+        Figure 6: Pyroxene composition of white clasts in
+       60019 (from Takeda et al. 1988). Analyses of ,207 are
+       from WC-1.
+
+
+   Moore and Lewis (1976) reported high carbon and                                                                Figure 8: Pyroxene composition in basalt clast
+    nitrogen contents for the matrix of 60019 (162 ppm       Ba-2 in 60019 (Takeda et al. 1977).
+   and 56 ppm) and one clast (110 ppm and 28 ppm)
+    respectively (figure 10). It also has high Ni, Ir and Au       1000
+   (Simon et al 1988). All this data indicates that 60019                            60019
+    should be considered as a soil breccia.                              100
+                                                                                                                                                                    bulk rock
+                                                                                                sample/
+   Other Studies                                                                      chondrite
+                                                                                                                                                             glass coat
+   Rare gases are reported in McKay et al. (1986) and         10
+    Bernatowitz et al. (1978). This sample has excess 129Xe
+   from extinct 129I., as well as “excess fission Xe” and
+    high 40Ar/38Ar (indicators of implantation of an ancient          1
+    component).
+--- material block 2; lines 1-33 ---
+WC
+
+
+
+
+
+       Figure 5: Thin section of clast 1, 60019. Field of view
+          is 3 mm.
+                                                                Figure 7: Mare basalt clast Ba-2 in 60019 (see
+                                                                         figure 9).
+
+
+
+
+
+        Figure 6: Pyroxene composition of white clasts in
+       60019 (from Takeda et al. 1988). Analyses of ,207 are
+       from WC-1.
+
+
+   Moore and Lewis (1976) reported high carbon and                                                                Figure 8: Pyroxene composition in basalt clast
+    nitrogen contents for the matrix of 60019 (162 ppm       Ba-2 in 60019 (Takeda et al. 1977).
+   and 56 ppm) and one clast (110 ppm and 28 ppm)
+    respectively (figure 10). It also has high Ni, Ir and Au       1000
+   (Simon et al 1988). All this data indicates that 60019                            60019
+    should be considered as a soil breccia.                              100
+                                                                                                                                                                    bulk rock
+                                                                                                sample/
+   Other Studies                                                                      chondrite
+                                                                                                                                                             glass coat
+   Rare gases are reported in McKay et al. (1986) and         10
+    Bernatowitz et al. (1978). This sample has excess 129Xe
+   from extinct 129I., as well as “excess fission Xe” and
+--- age block 3; lines 39-49 ---
+Three slabs were cut through the middle of 60019 (see
+    figures 1 and 11). The first slab was cut in 1974 and       Figure 9: Normalized rare-earth-element diagram for
+                                                         60019 (data from McKay et al. 1986, Simon et al.    the other two in 1984 (Galindo 1985). Butt end (,4)
+                                                               1988, Korotev 1996 and Morris et al. 1986).     fell to pieces (figure 16). There are 43 thin sections of
+    60019. The study of clasts in 60019 has not been well
+    coordinated. Few have been analyzed and none have
+   been dated.
+
+
+Lunar Sample Compendium
+C Meyer 2009
+
+=== PDF PAGE 5; CATEGORIES: material ===
+--- material block 1; lines 1-12 ---
+Rock
+                    CMB                                60019
+
+                                Regolith Breccia
+
+                                       soil
+
+
+
+
+
+                   0                 50               100               150               200
+
+=== PDF PAGE 6; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 60019.
+
+
+     reference  Rose75           McKay86 Korotev96 Simon88    See86                Morris86
+     weight     matrix   clast 1                                          glass     interior       glass
+    SiO2 %    45.25   45.26    (b)                                  44.95    45.25    (c )
+    TiO2      0.59     0.77      (b)                      0.66      (a) 0.43     0.35     (c )
+    Al2O3     26.34   23.15    (b)                      27.7      (a) 28.13    26.31    (c )
+   FeO       5.3      6.88      (b) 5.32      5.33       5.46      (a) 4.89     5.3      (c ) 4.98     (a)
+   MnO                                               0.074     (a)  0.1      0.06     (c )
+   MgO      6.73     9.5       (b)                       6.7       (a) 5.56     6.79     (c )
+   CaO      14.93   13.57    (b) 14.9     15         15.1      (a) 15.81    14.93    (c )
+   Na2O     0.46     0.48      (b) 0.441    0.475      0.51      (a) 0.45     0.47     (c ) 0.46     (a)
+   K2O       0.14     0.18      (b)                      0.152     (a) 0.08     0.14     (c )
+   P2O5      0.18     0.27      (b)
+   S %
+    sum
+
+    Sc ppm   11      11        (b) 8.92      8.7        9.4       (a)                       6.15     (a)
+   V        26      22        (b)                    14        (a)
+--- mineralogy block 2; lines 1-11 ---
+Table 1. Chemical composition of 60019.
+
+
+     reference  Rose75           McKay86 Korotev96 Simon88    See86                Morris86
+     weight     matrix   clast 1                                          glass     interior       glass
+    SiO2 %    45.25   45.26    (b)                                  44.95    45.25    (c )
+    TiO2      0.59     0.77      (b)                      0.66      (a) 0.43     0.35     (c )
+    Al2O3     26.34   23.15    (b)                      27.7      (a) 28.13    26.31    (c )
+   FeO       5.3      6.88      (b) 5.32      5.33       5.46      (a) 4.89     5.3      (c ) 4.98     (a)
+   MnO                                               0.074     (a)  0.1      0.06     (c )
+   MgO      6.73     9.5       (b)                       6.7       (a) 5.56     6.79     (c )
+--- material block 3; lines 1-11 ---
+Table 1. Chemical composition of 60019.
+
+
+     reference  Rose75           McKay86 Korotev96 Simon88    See86                Morris86
+     weight     matrix   clast 1                                          glass     interior       glass
+    SiO2 %    45.25   45.26    (b)                                  44.95    45.25    (c )
+    TiO2      0.59     0.77      (b)                      0.66      (a) 0.43     0.35     (c )
+    Al2O3     26.34   23.15    (b)                      27.7      (a) 28.13    26.31    (c )
+   FeO       5.3      6.88      (b) 5.32      5.33       5.46      (a) 4.89     5.3      (c ) 4.98     (a)
+   MnO                                               0.074     (a)  0.1      0.06     (c )
+   MgO      6.73     9.5       (b)                       6.7       (a) 5.56     6.79     (c )
+--- references block 4; lines 1-10 ---
+Table 1. Chemical composition of 60019.
+
+
+     reference  Rose75           McKay86 Korotev96 Simon88    See86                Morris86
+     weight     matrix   clast 1                                          glass     interior       glass
+    SiO2 %    45.25   45.26    (b)                                  44.95    45.25    (c )
+    TiO2      0.59     0.77      (b)                      0.66      (a) 0.43     0.35     (c )
+    Al2O3     26.34   23.15    (b)                      27.7      (a) 28.13    26.31    (c )
+   FeO       5.3      6.88      (b) 5.32      5.33       5.46      (a) 4.89     5.3      (c ) 4.98     (a)
+   MnO                                               0.074     (a)  0.1      0.06     (c )
+--- references block 5; lines 65-75 ---
+Os ppb
+       Ir ppb                            8.4       11.2       5.5       (a)
+     Pt ppb
+    Au ppb                       9        9          1.4       (a)
+    Th ppm                         3.35      3.12       3.05      (a)                       1.59     (a)
+   U ppm                          0.86      0.86       0.9       (a)                       0.68     (a)
+     technique:  (a) INAA, (b) microchemical, (c ) elec. Probe
+
+
+Lunar Sample Compendium
+C Meyer 2009
+
+=== PDF PAGE 7; CATEGORIES: material ===
+--- material block 1; lines 1-13 ---
+Note: Orientation reversed
+
+
+
+
+
+                                 Clast 2
+
+
+
+                                        ,25
+
+=== PDF PAGE 8; CATEGORIES: material ===
+--- material block 1; lines 1-16 ---
+Clast 2
+
+                                                Clast 1
+
+
+
+
+
+         Figure 12: Photo and map of N1 side of slab (,127) of 60019 from Galindo (1985). S84-46294. Cube is 1 cm.
+        White box is approximate location of mare basalt clast (figure 6).
+
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 10; CATEGORIES: material,references ===
+--- material block 1; lines 2-13 ---
+References for 60019                                    Butler P. (1972) Lunar Sample Information Catalog Apollo
+    Bernatowicz T.J., Hohenberg C.M., Hudson B., Kennedy   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    B.M. and Podosek F. (1978b) Excess fission xenon at Apollo   Catalog. pp. 370.
+    16. Proc. 9th Lunar Planet. Sci. Conf. 1571-1597.
+                                                         Fruland Ruth M. (1983)  Regolith Breccia Workbook.
+                                                                 Curatorial Branch Publication # 66. JSC 19045.
+
+
+Lunar Sample Compendium
+C Meyer 2009
+--- references block 2; lines 1-10 ---
+Figure 14: Photo and map of N1 side of slab (,132) of 60019. S84-46302. Cube is 1 cm.
+
+
+   References for 60019                                    Butler P. (1972) Lunar Sample Information Catalog Apollo
+    Bernatowicz T.J., Hohenberg C.M., Hudson B., Kennedy   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    B.M. and Podosek F. (1978b) Excess fission xenon at Apollo   Catalog. pp. 370.
+    16. Proc. 9th Lunar Planet. Sci. Conf. 1571-1597.
+                                                         Fruland Ruth M. (1983)  Regolith Breccia Workbook.
+                                                                 Curatorial Branch Publication # 66. JSC 19045.
+
+=== PDF PAGE 11; CATEGORIES: material ===
+--- material block 1; lines 1-11 ---
+Figure 15: Photo and map of S1 side of slab (,132) of 60019. S84-46300. Cube is 1
+                 cm.
+
+
+   Galindo C. (1985) Regolith breccia 60019. Lunar Sample   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    Newsletter 43, Appendix 2, 23-37. Curators Office, Houston.   259.
+
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite  James O.B. (1981) Tentative classification of the Apollo 16
+    in Apollo 16 highland rocks: Manifestations of volatile-   breccias (abs). Lunar Planet. Sci. XII, 506-508.
+
+=== PDF PAGE 12; CATEGORIES: material ===
+--- material block 1; lines 1-12 ---
+Figure 16: Photo and map of N1 side of end piece (,4) of 60019. S84-46298. Cube is 1 cm. Saw
+          marks are visible.
+
+
+    Korotev R.L. (1996c) On the relationship between the  McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+    Apollo 16 ancient regolith breccias and feldspathic   Johnson P. and Wentworth S.J. (1986) Apollo 16 regolith
+    fragmental breccias, and the composition of the prebasin   breccias: Characterization and evidence for early formation
+     crust in the Central Highlands of the Moon.  Meteor. &   in the megaregolith. Proc. 16th Lunar Planet. Sci. Conf. in
+    Planet. Sci. 31, 403-412.                                              J. Geophys. Res. 91, D277-D303.
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 13; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 28-40 ---
+Pieters C.M. and Taylor G.J. (1989) Millimeter petrology                                                             Mineralogical studies of clasts in lunar highland regolith
+   and kilometer mineral exploration of the Moon. Proc. 19th                                                               breccia 60019 and in lunar meteorite Y82129.  Proc. 18th
+   Lunar Planet. Sci. Conf. 115-125.                                                       Lunar Planet. Sci. Conf. 33-43.
+
+   Rose H.J., Baedecker P.A., Berman S., Christian R.P.,
+                                                       Warner J.L., Simonds C.H. and Phinney W.C. (1973) Apollo   Dwornik E.J., Finkelman R.B. and Schnepfe M.M. (1975)
+                                                     16 rocks: Classification and petrogenetic model. Proc. 4th   Chemical composition of rocks and soils returned by the
+                                                       Lunar Sci. Conf. 481-504.   Apollo 15, 16, and 17 missions. Proc. 6th Lunar Sci. Conf.
+   1363-1373.
+                                                            Wilshire H.G., Stuart-Alexander D.E. and Jackson E.D.
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16   (1973) Apollo 16 rocks – Petrology and classification.  J.
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904      Geophys. Res. 78, 2379-2391.
+--- mineralogy block 2; lines 11-34 ---
+Clast 2
+
+                  Figure 17: More clasts exposed on the surface of 60019 (W1 face). S72-42573B
+
+
+   Moore C.B. and Lewis C.F. (1976) Total nitrogen contents  Mg, Ti, K, Sr, Ba in lunar plagioclase.  Proc. 11th Lunar
+    of Apollo 15, 16 and 17 lunar rocks and breccias (abs). Lunar   Planet. Sci. Conf. 571-590.
+    Sci. VII, 571-573.
+
+                                                       Takeda H., Miyamoto M., Galindo C. and Ishii T. (1987)
+   Morris R.V., See T.H. and Horz F. (1986) Composition of                                                        Mineralogy of a basaltic clast in lunar highland regolith
+    the Cayley Formation at Apollo 16 as inferred from impact                                                               breccia 60019.  Proc. 17th Lunar Planet. Sci. Conf., in J.
+    melt splashes.  Proc. 17th Lunar Planet. Sci. Conf. in  J.                                                       Geophys. Res. 92, E462-E470.
+   Geophys. Res. 90, E21-E42.
+
+                                                      Takeda H., Miyamoto M., Mori H. and Tagai T. (1988)
+    Pieters C.M. and Taylor G.J. (1989) Millimeter petrology                                                             Mineralogical studies of clasts in lunar highland regolith
+   and kilometer mineral exploration of the Moon. Proc. 19th                                                               breccia 60019 and in lunar meteorite Y82129.  Proc. 18th
+   Lunar Planet. Sci. Conf. 115-125.                                                       Lunar Planet. Sci. Conf. 33-43.
+
+   Rose H.J., Baedecker P.A., Berman S., Christian R.P.,
+                                                       Warner J.L., Simonds C.H. and Phinney W.C. (1973) Apollo   Dwornik E.J., Finkelman R.B. and Schnepfe M.M. (1975)
+                                                     16 rocks: Classification and petrogenetic model. Proc. 4th   Chemical composition of rocks and soils returned by the
+--- material block 3; lines 1-35 ---
+Clast III
+
+
+
+
+                                                                                             Clast IV
+
+
+
+
+
+                                                             Clast 2
+
+                  Figure 17: More clasts exposed on the surface of 60019 (W1 face). S72-42573B
+
+
+   Moore C.B. and Lewis C.F. (1976) Total nitrogen contents  Mg, Ti, K, Sr, Ba in lunar plagioclase.  Proc. 11th Lunar
+    of Apollo 15, 16 and 17 lunar rocks and breccias (abs). Lunar   Planet. Sci. Conf. 571-590.
+    Sci. VII, 571-573.
+
+                                                       Takeda H., Miyamoto M., Galindo C. and Ishii T. (1987)
+   Morris R.V., See T.H. and Horz F. (1986) Composition of                                                        Mineralogy of a basaltic clast in lunar highland regolith
+    the Cayley Formation at Apollo 16 as inferred from impact                                                               breccia 60019.  Proc. 17th Lunar Planet. Sci. Conf., in J.
+    melt splashes.  Proc. 17th Lunar Planet. Sci. Conf. in  J.                                                       Geophys. Res. 92, E462-E470.
+   Geophys. Res. 90, E21-E42.
+
+                                                      Takeda H., Miyamoto M., Mori H. and Tagai T. (1988)
+    Pieters C.M. and Taylor G.J. (1989) Millimeter petrology                                                             Mineralogical studies of clasts in lunar highland regolith
+   and kilometer mineral exploration of the Moon. Proc. 19th                                                               breccia 60019 and in lunar meteorite Y82129.  Proc. 18th
+   Lunar Planet. Sci. Conf. 115-125.                                                       Lunar Planet. Sci. Conf. 33-43.
+
+   Rose H.J., Baedecker P.A., Berman S., Christian R.P.,
+                                                       Warner J.L., Simonds C.H. and Phinney W.C. (1973) Apollo   Dwornik E.J., Finkelman R.B. and Schnepfe M.M. (1975)
+                                                     16 rocks: Classification and petrogenetic model. Proc. 4th   Chemical composition of rocks and soils returned by the
+                                                       Lunar Sci. Conf. 481-504.   Apollo 15, 16, and 17 missions. Proc. 6th Lunar Sci. Conf.
+--- material block 4; lines 41-53 ---
+See T.H., Horz F. and Morris R.V. (1986) Apollo 16 impact-
+    melt splashes: Petrography and major-element composition.
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 91,
+   E3-E20.
+
+   Simon S.B., Papike J.J., Laul J.C., Hughes S.S. and Schmitt
+   R.A. (1988) Apollo 16 regolith breccias and soils: Recorders
+    of exotic component addition to the Descarts region of the
+   moon. Earth Planet. Sci. Lett. 89, 147-162.
+
+    Steele I.M., Hutcheon I.D. and Smith J.V. (1980)  Ion
+   microprobe analysis and petrogenetic interpretations of Li,

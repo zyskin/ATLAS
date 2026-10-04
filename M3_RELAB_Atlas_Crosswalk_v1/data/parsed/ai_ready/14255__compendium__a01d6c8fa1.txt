@@ -1,0 +1,208 @@
+DOCUMENT_ID: 14255__compendium__a01d6c8fa1
+ATLAS_SAMPLE_IDS: 14255
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14255.pdf
+SOURCE_PDF_SHA256: 79670be7d15aaccf07f5699f13619fa292a5b17892118f739d96f05d97d54efa
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 12-30 ---
+Figure 2: Map of Apollo 14 traverse with location of 14255.
+
+  Introduction                                Petrography
+  14255 is a regolith breccia with glass coat (figure 1).  Phinney et al. (1975) described the samples from the
+   It was collected as part of the “comprehensive sample”  comprehensive collection.  It is a friable fine-grained,
+  taken near the ALSEP station. Compare with 14259   glass-matix breccia with a thin coat of black glass over
+   soil.                                           most of its surface. There are micrometeorite zap pits
+                                               on all sides.
+  The Apollo 14 regolith breccias (vitric matrix breccias)
+  are slightly more aluminous than the Fra Mauro  Fruland (1983) included 14255 in the compilation of
+  breccias (crystalline matrix breccias).                   regolith breccias. It was studied by Simon et al. (1989)
+                                         who reported a high percentage of agglutinates (matrix
+                                                                  free). The matrix contains light-brown glass.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-8 ---
+14255
+                                   Regolith Breccia
+                                          22.12 grams
+--- material block 3; lines 12-30 ---
+Figure 2: Map of Apollo 14 traverse with location of 14255.
+
+  Introduction                                Petrography
+  14255 is a regolith breccia with glass coat (figure 1).  Phinney et al. (1975) described the samples from the
+   It was collected as part of the “comprehensive sample”  comprehensive collection.  It is a friable fine-grained,
+  taken near the ALSEP station. Compare with 14259   glass-matix breccia with a thin coat of black glass over
+   soil.                                           most of its surface. There are micrometeorite zap pits
+                                               on all sides.
+  The Apollo 14 regolith breccias (vitric matrix breccias)
+  are slightly more aluminous than the Fra Mauro  Fruland (1983) included 14255 in the compilation of
+  breccias (crystalline matrix breccias).                   regolith breccias. It was studied by Simon et al. (1989)
+                                         who reported a high percentage of agglutinates (matrix
+                                                                  free). The matrix contains light-brown glass.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 3-28 ---
+12
+                                                                                                                      14255
+                                                                                                             11
+
+
+                                                                                                             10
+                                           FeO
+                                                                    wt. %   9
+
+                                                                                                                  8              CMB      VMB
+
+                                                                                                                  7
+
+
+                                                                                                                  6
+
+
+                                                                                                                  5
+                                                                                                                  12     13    14    15     16     17    18     19     20    21    22     23
+                                                                             Al2O3 wt. %
+
+                                                                 Figure 4: Composition of 14255 compared with
+                                                                     other Apollo 14 breccia samples.
+
+
+                                                                                              1000
+--- mineralogy block 2; lines 72-82 ---
+Description, Classification and Inventory of the
+                                                     Comprehensive sample from Apollo 14. Curator’s Catalog,
+              ,0              ,8       ,9                   pp. 46.
+            15.5 g     PB     2.4 g
+                                                 Simon S.B., Papike J.J., Shearer C.K., Hughes S.S. and
+                                    ,11                          Schmitt R.A. (1989) Petrology of Apollo 14 regolith breccias
+                                    ,12                       and ion microprobe studies of glass beads. Proc. 19th Lunar
+                                    ,13                           Planet. Sci. Conf. 1-17.
+                          TS
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 19-31 ---
+5
+                                                                                                                  12     13    14    15     16     17    18     19     20    21    22     23
+                                                                             Al2O3 wt. %
+
+                                                                 Figure 4: Composition of 14255 compared with
+                                                                     other Apollo 14 breccia samples.
+
+
+                                                                                              1000
+
+                                                                                              KREEP
+--- material block 4; lines 53-82 ---
+Figure 3: Photomicrograph of thin section                          Ce    Nd     Eu     Tb    Ho    Tm     Lu
+       14255,6 (scale unknown).
+                                                                 Figure 5: Normalized rare-earth-element diagram
+                                                                          for 14255 comparted with KREEP.
+
+
+  The obvious clast seen in figure 1 has not been studied.                                                   References for 14255
+                                                          Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+  Chemistry                                         Samples. Curators Office. JSC 14240
+  Excellent analyses of 14255 were reported by Simonds
+   et al. (1977) and Simon et al. (1989) (table 1). But the  Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14
+  composition is very like the Apollo 14 soil.              breccias: General characteristics and classification. Proc.
+                                                                              3rd Lunar Sci. Conf. 645-659.
+  Processing                                            LSPET (1971) Preliminary examination of lunar samples
+  14255 was returned in weigh bag 1007. There are 5                                                     from Apollo 14. Science 173, 681-693.
+   thin sections of 14255.
+                                                          Fruland R.M. (1983)  Regolith Breccia Workbook. JSC
+             C Meyer                              19045                 2011       14255
+                       22.15 g                                                   Phinney W.C., Simonds C.H. and Warner J. (1975)
+                                                       Description, Classification and Inventory of the
+                                                     Comprehensive sample from Apollo 14. Curator’s Catalog,
+              ,0              ,8       ,9                   pp. 46.
+            15.5 g     PB     2.4 g
+                                                 Simon S.B., Papike J.J., Shearer C.K., Hughes S.S. and
+                                    ,11                          Schmitt R.A. (1989) Petrology of Apollo 14 regolith breccias
+                                    ,12                       and ion microprobe studies of glass beads. Proc. 19th Lunar
+                                    ,13                           Planet. Sci. Conf. 1-17.
+                          TS
+Lunar Sample Compendium
+C Meyer 2011
+--- references block 5; lines 53-65 ---
+Figure 3: Photomicrograph of thin section                          Ce    Nd     Eu     Tb    Ho    Tm     Lu
+       14255,6 (scale unknown).
+                                                                 Figure 5: Normalized rare-earth-element diagram
+                                                                          for 14255 comparted with KREEP.
+
+
+  The obvious clast seen in figure 1 has not been studied.                                                   References for 14255
+                                                          Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+  Chemistry                                         Samples. Curators Office. JSC 14240
+  Excellent analyses of 14255 were reported by Simonds
+   et al. (1977) and Simon et al. (1989) (table 1). But the  Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14
+  composition is very like the Apollo 14 soil.              breccias: General characteristics and classification. Proc.
+                                                                              3rd Lunar Sci. Conf. 645-659.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 14255.       Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+                                                           Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+   reference Simon89   Simonds77                                 revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+   weight    145 mg    glass       matrix                           Sci. Conf. 1869-1893.
+  SiO2 %              47.05   (b) 47.35   (c )
+   TiO2      1.62     (a) 1.72    (b) 1.75    (c )
+  Al2O3    17.9     (a) 17.87   (b) 17.45   (c )                  Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of
+  FeO      10.6     (a) 9.85    (b) 10.46   (c )                   the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+  MnO      0.143   (a)            0.16    (c )                   38.
+  MgO      9.5      (a) 9.4      (b) 9.48    (c )
+  CaO      10.5     (a) 11.16   (b) 11.09   (c )
+  Na2O     0.64     (a) 0.62    (b) 0.66    (c )              Swann G.A., Trask N.J., Hait M.H. and Sutton R.L. (1971a)
+  K2O      0.51     (a) 0.46    (b) 0.47    (c )                 Geologic setting of the Apollo 14 samples.  Science 173,
+  P2O5                           0.45    (c )                 716-719.
+  S %                             0.09    (c )
+  sum
+                                               Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+  Sc ppm   22       (a)                                   M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+  V        36       (a)                                       Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+--- mineralogy block 2; lines 1-10 ---
+Table 1. Chemical composition of 14255.       Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+                                                           Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+   reference Simon89   Simonds77                                 revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+   weight    145 mg    glass       matrix                           Sci. Conf. 1869-1893.
+  SiO2 %              47.05   (b) 47.35   (c )
+   TiO2      1.62     (a) 1.72    (b) 1.75    (c )
+  Al2O3    17.9     (a) 17.87   (b) 17.45   (c )                  Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of
+  FeO      10.6     (a) 9.85    (b) 10.46   (c )                   the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+  MnO      0.143   (a)            0.16    (c )                   38.
+  MgO      9.5      (a) 9.4      (b) 9.48    (c )
+--- material block 3; lines 1-10 ---
+Table 1. Chemical composition of 14255.       Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+                                                           Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+   reference Simon89   Simonds77                                 revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+   weight    145 mg    glass       matrix                           Sci. Conf. 1869-1893.
+  SiO2 %              47.05   (b) 47.35   (c )
+   TiO2      1.62     (a) 1.72    (b) 1.75    (c )
+  Al2O3    17.9     (a) 17.87   (b) 17.45   (c )                  Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of
+  FeO      10.6     (a) 9.85    (b) 10.46   (c )                   the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+  MnO      0.143   (a)            0.16    (c )                   38.
+  MgO      9.5      (a) 9.4      (b) 9.48    (c )
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 14255.       Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+                                                           Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+   reference Simon89   Simonds77                                 revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+   weight    145 mg    glass       matrix                           Sci. Conf. 1869-1893.
+  SiO2 %              47.05   (b) 47.35   (c )
+   TiO2      1.62     (a) 1.72    (b) 1.75    (c )
+  Al2O3    17.9     (a) 17.87   (b) 17.45   (c )                  Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of
+  FeO      10.6     (a) 9.85    (b) 10.46   (c )                   the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+  MnO      0.143   (a)            0.16    (c )                   38.
+--- references block 5; lines 64-73 ---
+Os ppb
+     Ir ppb    10       (a)
+   Pt ppb
+  Au ppb    7.5      (a)
+  Th ppm   11.6     (a)
+  U ppm    3.2      (a)
+   technique:  (a) INAA, (b) e. probe, (c ) XRF
+
+Lunar Sample Compendium
+C Meyer 2011

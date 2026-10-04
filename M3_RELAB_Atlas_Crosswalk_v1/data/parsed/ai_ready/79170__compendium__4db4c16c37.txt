@@ -1,0 +1,115 @@
+DOCUMENT_ID: 79170__compendium__4db4c16c37
+ATLAS_SAMPLE_IDS: 79110,79130,79170,79190
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/79170.pdf
+SOURCE_PDF_SHA256: d7fee15ab1f1987c9c5449e794ab590ae1866a1ce409692e042df904b1d6e464
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,treatment ===
+--- material block 1; lines 1-8 ---
+79010, 79110, 79130, 79150, 79170 and 79190
+                                 Soil or breccia fragments
+                                     87, 66, 4, 5.6, 43 and 13 grams
+--- material block 2; lines 17-47 ---
+Figure 1: Approximate location of samples 79170                                                                Figure 2: Map of station 9 on rim of Van Serg
+       and 79190 (see Wolf et al. 1976)                                                                       Crater.
+   Introduction
+   These samples are bag residue returned along with  process of bagging and returning six large rock
+   breccia and basalt samples 79035, 79115, 79135,   fragments. This soil supplements soil samples 79510,
+   79155, 79175 and 79195, respectively. They  79120 etc. from the same location (figure 2).
+   undoubtedly contain a mix of soil and material abraded
+   off of the large samples in the same bags (table). These  The rock samples are described in the catalogs by
+    soil samples have not been sieved nor studied.         Butler (1973) and Meyer (1994). Additional soil was
+                                                      probably still attached to the large samples.
+   Petrography
+   The regolith in the vicinity of Van Serg Crater contains
+   numerous rock fragments (figure 1). A total of 219
+   grams of soil (possibly mixed with breccia fragments)
+   from the rim of Van Serg Crater was collected in the
+
+
+                        soil/crumbs  rock- weight type
+                    79010 - 79035 - 2806 g   reg. breccia
+                    79110 - 79115 - 346 g    breccia
+                    79130 - 79135 - 2283 g   reg. breccia
+                    79150 - 79155 - 319 g    basalt
+                    79170 - 79175 - 678 g    reg. breccia
+                    79190 - 79195 - 368 g    breccia
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 3; lines 22-34 ---
+Introduction
+   These samples are bag residue returned along with  process of bagging and returning six large rock
+   breccia and basalt samples 79035, 79115, 79135,   fragments. This soil supplements soil samples 79510,
+   79155, 79175 and 79195, respectively. They  79120 etc. from the same location (figure 2).
+   undoubtedly contain a mix of soil and material abraded
+   off of the large samples in the same bags (table). These  The rock samples are described in the catalogs by
+    soil samples have not been sieved nor studied.         Butler (1973) and Meyer (1994). Additional soil was
+                                                      probably still attached to the large samples.
+   Petrography
+   The regolith in the vicinity of Van Serg Crater contains
+   numerous rock fragments (figure 1). A total of 219
+   grams of soil (possibly mixed with breccia fragments)
+   from the rim of Van Serg Crater was collected in the
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 20-32 ---
+Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+    Office, Houston
+
+   Morris R.V. (1978) The surface exposure (maturity) of lunar
+    soils: Some concepts and Is/FeO compilation. Proc. 9th
+   Lunar Sci. Conf. 2287-2297.
+
+   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    regolith: Chemistry, Mineralogy and Petrology.  Rev.
+   Geophys. Space Phys. 20, 761-826.
+--- mineralogy block 2; lines 24-36 ---
+Morris R.V. (1978) The surface exposure (maturity) of lunar
+    soils: Some concepts and Is/FeO compilation. Proc. 9th
+   Lunar Sci. Conf. 2287-2297.
+
+   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    regolith: Chemistry, Mineralogy and Petrology.  Rev.
+   Geophys. Space Phys. 20, 761-826.
+
+   Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    geologic investigation of the Taurus-Littrow Valley: Apollo
+   17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- material block 3; lines 24-36 ---
+Morris R.V. (1978) The surface exposure (maturity) of lunar
+    soils: Some concepts and Is/FeO compilation. Proc. 9th
+   Lunar Sci. Conf. 2287-2297.
+
+   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    regolith: Chemistry, Mineralogy and Petrology.  Rev.
+   Geophys. Space Phys. 20, 761-826.
+
+   Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    geologic investigation of the Taurus-Littrow Valley: Apollo
+   17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- treatment block 4; lines 19-31 ---
+Curator’s Office JSC 26088 pp. 644
+
+   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+    Office, Houston
+
+   Morris R.V. (1978) The surface exposure (maturity) of lunar
+    soils: Some concepts and Is/FeO compilation. Proc. 9th
+   Lunar Sci. Conf. 2287-2297.
+
+   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    regolith: Chemistry, Mineralogy and Petrology.  Rev.
+   Geophys. Space Phys. 20, 761-826.
+--- references block 5; lines 1-7 ---
+References for 79110 and 79170
+    Butler P. (1973) Lunar Sample Information Catalog Apollo
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+    Catalog. pp. 447.
+
+   Heiken G.H. (1974) A catalog of lunar soils. JSC Curator

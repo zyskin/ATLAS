@@ -1,0 +1,233 @@
+DOCUMENT_ID: 64475__compendium__f50383d4a5
+ATLAS_SAMPLE_IDS: 64475,64476
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64475.pdf
+SOURCE_PDF_SHA256: 95858b8217a22c0e9ee51ff98f8a659c983cb08cf83d35368f0e273a6f86f00d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+64475 and 64476
+                                    Dilithologic Breccia
+                                   1032 and 125 grams
+--- material block 2; lines 15-27 ---
+was at a boulder field on Stone Mountain (figures 3, 4
+   and 5). The samples may be from South Ray Crater
+   (where “dilithic” samples seem to come from). Their
+    orientation is known from surface photography and the
+   top side of 64475 has numerous micrometeorite craters.
+   They are both “black and white” rocks with veins of
+   dark impact melt rock intruding white cataclastic
+    anorthosite (figures 1, 2 and 11).
+
+   These samples don’t seem to have been properly
+    studied.
+
+=== PDF PAGE 3; CATEGORIES: material ===
+--- material block 1; lines 1-22 ---
+Wilshire and Moore (1974) suggest that the dark phase
+                                              was originally the matrix of the rock, but that at a later
+                                                      time portions of the white cataclastic anorthosite were
+                                                       mobilized giving the appearance that the white material
+                                                                        is invading the dark (figure 6).
+           64475, 76
+                                            Chemistry
+                                            Scoon (1974) analyzed a chip containing both
+                                                              lithologies and McKinley et al. (1983) provided trace
+                                                     element analysis of the melt rock litholog (table 1).
+                                                64475 has very high Ni, Ir and Au content. Clark and
+                                                      Keith (1973) determined bulk U, Th and K in 64476
+                                                    (whole sample). Moore and Lewis (1976) reported 55
+                                        ppm carbon and 92 ppm nitrogen.
+
+                                             The analyses of the ‘melt rock’ lithology is fairly
+                                          common among various Apollo 16 dilithologic breccias
+                                                 (McKinley et al. 1983; James et al. 1984).
+
+=== PDF PAGE 4; CATEGORIES: age,mineralogy ===
+--- mineralogy block 1; lines 1-31 ---
+An in plagioclase
+                                                                                75       80        85       90       95
+
+
+
+                                                                                                                                                              troctolites
+                                                                 64475
+                                                                       McKinley 83                                         90
+
+
+                                                                                                           mg-suite
+                                                                                                                                          norites                 80                                                                                                                                   En
+                                                                                                                                   in
+                                                                                                                                                                                                                                                                                                                                                                                                        low-Ca                                                                                                           gabbro-                           70
+                                                                                                                           norites                                                                                                                             pyroxene
+                                                                                                                                                 ferroan-        60
+                                                                                                                                            anorthosite
+
+
+
+                                                                                                                                 50
+
+
+
+                                                                 Figure 7: Composition of plagioclase and pyroxene
+                                                                           in anorthositic portion of 64475 (McKinley et al.
+                                                                   1983).
+
+
+
+                                           Cosmogenic isotopes and exposure ages
+--- age block 2; lines 26-42 ---
+in anorthositic portion of 64475 (McKinley et al.
+                                                                   1983).
+
+
+
+                                           Cosmogenic isotopes and exposure ages
+                                                      Clark and Keith (1973) determined the cosmic-ray-
+                                                     induced activity of 64476 as 26Al = 132 dpm/kg., 22Na
+                                           = 48 dpm/kg. and 46Sc = 1.5 dpm/kg.  Bogard and
+                                                  Gibson (1975) reported a young cosmic ray exposure
+                                                    age of around 1 m.y., but within accuracy, the same as
+                                                           other samples from South Ray Crater.
+
+                                           Other Studies
+                                                    Stephenson et al. (1974) attempted to determine the
+                                                    remanent magnetization of chips of 64475.
+                                               Bogard and Gibson (1975) reported the rare gas
+
+=== PDF PAGE 6; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 64475.
+                                   64476
+     reference   McKinley 84            Scoon 74    Clark73
+     weight                                       125 g
+    SiO2 %                 47.1      (b)  44.81    (c )
+    TiO2        0.8      (a) 0.84      (b)  0.54      (c )
+    Al2O3      21.2     (a) 22.9      (b)  28.32    (c )
+   FeO       8        (a)  5.7       (b)  4.64      (c )
+   MnO        0.082    (a) 0.08      (b)  0.06      (c )
+   MgO        11.1     (a)  9.4       (b)  5.61      (c )
+   CaO        13.3     (a) 13        (b)  15.88    (c )
+   Na2O       0.515    (a)  0.6       (b)  0.49      (c )
+   K2O        0.16     (a)  0.2       (b)  0.12      (c ) 0.08     (c )
+   P2O5                    0.2       (b)  0.15      (c )
+   S %
+    sum
+
+    Sc ppm     10.6     (a)
+   V          33       (a)
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 64475.
+                                   64476
+     reference   McKinley 84            Scoon 74    Clark73
+     weight                                       125 g
+    SiO2 %                 47.1      (b)  44.81    (c )
+    TiO2        0.8      (a) 0.84      (b)  0.54      (c )
+    Al2O3      21.2     (a) 22.9      (b)  28.32    (c )
+   FeO       8        (a)  5.7       (b)  4.64      (c )
+   MnO        0.082    (a) 0.08      (b)  0.06      (c )
+--- references block 3; lines 64-74 ---
+Os ppb
+       Ir ppb      30       (a)
+     Pt ppb
+    Au ppb     30       (a)
+    Th ppm     4.1      (a)                           1.19     (c )
+   U ppm      1.2      (a)                           0.31     (c )
+     technique:  (a) INNA, (b) strange and uncertain, (c ) wet chem. , (d) radiation counting
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 9; CATEGORIES: age,material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 7-19 ---
+16. Lunar Receiving Laboratory. MSC 03210 Curator’s   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Catalog. pp. 370.
+                                                            Wilshire H.G., Stuart-Alexander D.E. and Jackson E.D.
+    Clark R.S. and Keith J.E. (1973) Determination of natural   (1973) Apollo 16 rocks – Petrology and classification.  J.
+   and cosmic ray induced radionuclides in Apollo 16 lunar  Geophys. Res. 78, 2379-2391.
+    samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+                                                              Wilshire H.G. and Moore H.J. (1974)  Glass-coated lunar
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite   rock fragments.  J. Geol. 82, 403-417.
+    in Apollo 16 highland rocks: Manifestations of volatile-
+   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    259.
+
+   James O.B. (1981) Petrologic and age relations of the Apollo
+--- material block 2; lines 1-36 ---
+References 64475 and 64476                       Stephenson A., Collinson D.W. and Runcorn S.K. (1974)
+   Bogard D.D. and Gibson E.K. (1975)  Volatile gases in   Lunar magnetic field paleointensity determinations on Apollo
+    breccia 68115 (abs). Lunar Sci. VI, 63-65. Lunar Planet.   11, 16 and 17 rocks. Proc. 5th Lunar Sci. Conf. 2859-2871.
+     Inst., Houston.
+                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Butler P. (1972) Lunar Sample Information Catalog Apollo   In Geology of the Apollo 16 area, central lunar highlands.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Catalog. pp. 370.
+                                                            Wilshire H.G., Stuart-Alexander D.E. and Jackson E.D.
+    Clark R.S. and Keith J.E. (1973) Determination of natural   (1973) Apollo 16 rocks – Petrology and classification.  J.
+   and cosmic ray induced radionuclides in Apollo 16 lunar  Geophys. Res. 78, 2379-2391.
+    samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+                                                              Wilshire H.G. and Moore H.J. (1974)  Glass-coated lunar
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite   rock fragments.  J. Geol. 82, 403-417.
+    in Apollo 16 highland rocks: Manifestations of volatile-
+   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    259.
+
+   James O.B. (1981) Petrologic and age relations of the Apollo
+   16 rocks: Implications for subsurface geology and the age
+    of the Nectaris Basin. Proc. 12th Lunar Planet. Sci. Conf.
+   209-233.
+
+   James O.B., Flohr M.K. and Lindstrom M.M. (1984)
+    Petrology and geochemistry of lunar dimict breccia 61015.
+    Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys. Res. 89,
+   C63-C86.
+
+   Korotev R.L. (1987) The meteorite component of Apollo
+   16 noritic impact melt breccias. Proc.  17th Lunar Planet.
+    Sci. Conf. in J. Geophys. Res. E491-E512.
+
+   LSPET (1973) The Apollo 16 lunar samples: Petrographic
+   and chemical description. Science 179, 23-34.
+
+   LSPET (1972) Preliminary examination of lunar samples.
+--- age block 3; lines 5-26 ---
+Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Butler P. (1972) Lunar Sample Information Catalog Apollo   In Geology of the Apollo 16 area, central lunar highlands.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Catalog. pp. 370.
+                                                            Wilshire H.G., Stuart-Alexander D.E. and Jackson E.D.
+    Clark R.S. and Keith J.E. (1973) Determination of natural   (1973) Apollo 16 rocks – Petrology and classification.  J.
+   and cosmic ray induced radionuclides in Apollo 16 lunar  Geophys. Res. 78, 2379-2391.
+    samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+                                                              Wilshire H.G. and Moore H.J. (1974)  Glass-coated lunar
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite   rock fragments.  J. Geol. 82, 403-417.
+    in Apollo 16 highland rocks: Manifestations of volatile-
+   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    259.
+
+   James O.B. (1981) Petrologic and age relations of the Apollo
+   16 rocks: Implications for subsurface geology and the age
+    of the Nectaris Basin. Proc. 12th Lunar Planet. Sci. Conf.
+   209-233.
+
+   James O.B., Flohr M.K. and Lindstrom M.M. (1984)
+    Petrology and geochemistry of lunar dimict breccia 61015.
+    Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys. Res. 89,
+--- treatment block 4; lines 1-8 ---
+References 64475 and 64476                       Stephenson A., Collinson D.W. and Runcorn S.K. (1974)
+   Bogard D.D. and Gibson E.K. (1975)  Volatile gases in   Lunar magnetic field paleointensity determinations on Apollo
+    breccia 68115 (abs). Lunar Sci. VI, 63-65. Lunar Planet.   11, 16 and 17 rocks. Proc. 5th Lunar Sci. Conf. 2859-2871.
+     Inst., Houston.
+                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Butler P. (1972) Lunar Sample Information Catalog Apollo   In Geology of the Apollo 16 area, central lunar highlands.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Catalog. pp. 370.
+--- references block 5; lines 1-7 ---
+References 64475 and 64476                       Stephenson A., Collinson D.W. and Runcorn S.K. (1974)
+   Bogard D.D. and Gibson E.K. (1975)  Volatile gases in   Lunar magnetic field paleointensity determinations on Apollo
+    breccia 68115 (abs). Lunar Sci. VI, 63-65. Lunar Planet.   11, 16 and 17 rocks. Proc. 5th Lunar Sci. Conf. 2859-2871.
+     Inst., Houston.
+                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Butler P. (1972) Lunar Sample Information Catalog Apollo   In Geology of the Apollo 16 area, central lunar highlands.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.

@@ -1,0 +1,200 @@
+DOCUMENT_ID: 78535__compendium__ab5f26b244
+ATLAS_SAMPLE_IDS: 78535,78536,78537,78538,78539,78545,78568
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/78535.pdf
+SOURCE_PDF_SHA256: ade20972b00b693b68216b01aee51a12a2b2f4d17e605ad252c9dd128089b19b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 12-38 ---
+Figure 1: Photo of 78535. Cube is 1 cm. S73-21390
+
+   Introduction                                    white clast, possibly shocked anorthosite (Meyer
+   78535 and related samples are coherent regolith   1994)..
+   breccias with numerous small plagioclase inclusions
+    set in a dark brown (glassy) matrix.                 Warner et al. (1979) reported glass analyses for 78535,
+                                                  and other rocks.
+   See also section on 78546, which was well studied by
+   Simon et al. (1990) and seems to be the same type of
+    breccia.
+
+   Petrography
+   Butler (1973), Keil et al. (1974), Warner et al (1978)
+   and Meyer (1994) briefly describe 78535 in their
+    catalogs.  “The breccia matrix consists of abundant
+   small mineral clasts together with dark brown glass
+    that firmly cements the rock. Porosity is low. There
+    are small clasts of mare basalt, breccias of various type,
+    glass with various color and numerous mineral clasts.”
+
+   78568 has a thin white coating on one side (figure 9),
+   but is otherwise similar to 78535  it also has a large        Figure 2: Map of station 8, Apollo A17.
+
+
+Lunar Sample Compendium
+--- material block 2; lines 2-37 ---
+78536 – 8.67 grams
+                         78537 – 11.76 grams
+                         78538 - 5.82 grams
+                         78539 – 3.73 grams
+                          78545 – 8.6 grams
+                          78568 – 3.6 grams
+                            Speckeled Regolith Breccia
+
+
+
+
+
+                            Figure 1: Photo of 78535. Cube is 1 cm. S73-21390
+
+   Introduction                                    white clast, possibly shocked anorthosite (Meyer
+   78535 and related samples are coherent regolith   1994)..
+   breccias with numerous small plagioclase inclusions
+    set in a dark brown (glassy) matrix.                 Warner et al. (1979) reported glass analyses for 78535,
+                                                  and other rocks.
+   See also section on 78546, which was well studied by
+   Simon et al. (1990) and seems to be the same type of
+    breccia.
+
+   Petrography
+   Butler (1973), Keil et al. (1974), Warner et al (1978)
+   and Meyer (1994) briefly describe 78535 in their
+    catalogs.  “The breccia matrix consists of abundant
+   small mineral clasts together with dark brown glass
+    that firmly cements the rock. Porosity is low. There
+    are small clasts of mare basalt, breccias of various type,
+    glass with various color and numerous mineral clasts.”
+
+   78568 has a thin white coating on one side (figure 9),
+   but is otherwise similar to 78535  it also has a large        Figure 2: Map of station 8, Apollo A17.
+
+=== PDF PAGE 2; CATEGORIES: material ===
+--- material block 1; lines 1-7 ---
+Figure3a: Closeup of 78535 showing classic speckeled lithology of dark matrix regolith breccias
+                found on North Massif. S73-32349.
+
+=== PDF PAGE 3; CATEGORIES: material ===
+--- material block 1; lines 4-16 ---
+Chemistry
+   The chemical analysis of 78535 by Laul and Schmitt
+   (1975) seems to be more aluminous than 78546, which
+   otherwise seems similar (figure 10), but the REE
+   analyses are similar to the local soil (figure 11).
+
+   Processing
+   There are a couple thin sections each for 78535,78537
+   and 78568.
+
+=== PDF PAGE 7; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-22 ---
+25
+   Table 1. Chemical composition of 78535.
+             78535                                                          20                      Apollo soils
+    reference  Laul75                                                                                                         breccia
+    weight
+   SiO2 %                                                                    15
+    TiO2      3.9       (a)                    FeO                              78535
+   Al2O3     17.2     (a)                                                    10
+   FeO       11.3      (a)
+   MnO      0.14     (a)
+                                                                                   5
+   MgO      9.7       (a)
+   CaO       11.6      (a)
+   Na2O     0.38     (a)                                                      0
+   K2O      0.09     (a)                                                        0       5       10      15      20      25      30      35
+   P2O5                                                       Al2O3
+   S %
+   sum                                                          Figure 10: Composition of 78535, compared with
+                                                                   lunar soils.
+   Sc ppm   32        (a)
+   V        70        (a)
+    Cr       2053     (a)
+--- material block 2; lines 1-10 ---
+25
+   Table 1. Chemical composition of 78535.
+             78535                                                          20                      Apollo soils
+    reference  Laul75                                                                                                         breccia
+    weight
+   SiO2 %                                                                    15
+    TiO2      3.9       (a)                    FeO                              78535
+   Al2O3     17.2     (a)                                                    10
+   FeO       11.3      (a)
+   MnO      0.14     (a)
+--- references block 3; lines 1-10 ---
+25
+   Table 1. Chemical composition of 78535.
+             78535                                                          20                      Apollo soils
+    reference  Laul75                                                                                                         breccia
+    weight
+   SiO2 %                                                                    15
+    TiO2      3.9       (a)                    FeO                              78535
+   Al2O3     17.2     (a)                                                    10
+   FeO       11.3      (a)
+   MnO      0.14     (a)
+--- references block 4; lines 65-74 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm   1         (a)
+   U ppm
+    technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 8; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 26-38 ---
+Catalog. pp. 447.                                       Apollo 17 regolith breccias: A history of mixing of highland
+                                                       and mare regolith. Proc. 20th Lunar Planet. Sci. 219-230.
+    Keil K., Dowty E. and Prinz M. (1974)  Description,  Lunar Planetary Institute, Houston.
+     classification and inventory of 113 Apollo 17 rake samples
+    from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.    Warner R.D., Keil K., Nehru C.E. and Taylor G.J. (1978)
+                                                           Catalogue of Apollo 17 rake samples from Stations la, 2, 7,
+    Laul J.C. and Schmitt R.A. (1975c) Chemical composition  and 8. Spec. Publ. #18, UNM Institute of Meteoritics,
+    of Apollo 17 samples: Boulder breccias (2), rake breccias   Albuquerque. 88 pp.
+     (8), and others (abs).  Lunar Sci. VI, 489-491.  Lunar
+    Planetary Institute, Houston.                           Warner R.D., Taylor G.J. and Keil K. (1979c) Composition
+                                                                of glasses in Apollo 17 soil breccias (abs). Lunar Planet.
+   LSPET (1973)  Apollo 17 lunar samples: Chemical and   Sci. X, 1298-1300. Lunar Planetary Institute, Houston.
+    petrographic description. Science 182, 659-672.
+--- material block 2; lines 20-48 ---
+References for 78535 and related samples
+    Butler P. (1973) Lunar Sample Information Catalog Apollo  Simon S.B., Papike J.J., Gosselin D.C., Laul J.C., Hughes
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s   S.S. and Schmitt R.A. (1990) Petrology and chemistry of
+    Catalog. pp. 447.                                       Apollo 17 regolith breccias: A history of mixing of highland
+                                                       and mare regolith. Proc. 20th Lunar Planet. Sci. 219-230.
+    Keil K., Dowty E. and Prinz M. (1974)  Description,  Lunar Planetary Institute, Houston.
+     classification and inventory of 113 Apollo 17 rake samples
+    from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.    Warner R.D., Keil K., Nehru C.E. and Taylor G.J. (1978)
+                                                           Catalogue of Apollo 17 rake samples from Stations la, 2, 7,
+    Laul J.C. and Schmitt R.A. (1975c) Chemical composition  and 8. Spec. Publ. #18, UNM Institute of Meteoritics,
+    of Apollo 17 samples: Boulder breccias (2), rake breccias   Albuquerque. 88 pp.
+     (8), and others (abs).  Lunar Sci. VI, 489-491.  Lunar
+    Planetary Institute, Houston.                           Warner R.D., Taylor G.J. and Keil K. (1979c) Composition
+                                                                of glasses in Apollo 17 soil breccias (abs). Lunar Planet.
+   LSPET (1973)  Apollo 17 lunar samples: Chemical and   Sci. X, 1298-1300. Lunar Planetary Institute, Houston.
+    petrographic description. Science 182, 659-672.
+                                                    Warner R.D., Taylor G.J., Wentworth S.J., Huss G.R.,
+   LSPET (1973) Preliminary Examination of lunar samples.  Mansker W.L., Planner H.N., Sayeed U.A. and Keil K.
+    Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –   (1979d)  Electron microprobe analyses of glasses from
+    7-46.                                                 Apollo 17 rake sample breccias and Apollo 17 drill core.
+                                  UNM Spec. Publ. #20, Albuquerque, 20 pp.
+   Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+    Curator’s Office JSC 26088 pp. 644                      Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    76 78                                                    Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+                                                             geologic investigation of the Taurus-Littrow Valley: Apollo
+                                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- references block 3; lines 17-29 ---
+,3
+                                                                                                                  ,4
+                                                                            TS
+
+
+
+   References for 78535 and related samples
+    Butler P. (1973) Lunar Sample Information Catalog Apollo  Simon S.B., Papike J.J., Gosselin D.C., Laul J.C., Hughes
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s   S.S. and Schmitt R.A. (1990) Petrology and chemistry of
+    Catalog. pp. 447.                                       Apollo 17 regolith breccias: A history of mixing of highland
+                                                       and mare regolith. Proc. 20th Lunar Planet. Sci. 219-230.
+    Keil K., Dowty E. and Prinz M. (1974)  Description,  Lunar Planetary Institute, Houston.
+     classification and inventory of 113 Apollo 17 rake samples

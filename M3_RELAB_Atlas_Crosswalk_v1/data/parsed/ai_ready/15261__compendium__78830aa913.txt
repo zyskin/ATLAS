@@ -1,0 +1,492 @@
+DOCUMENT_ID: 15261__compendium__78830aa913
+ATLAS_SAMPLE_IDS: 15260
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15261.pdf
+SOURCE_PDF_SHA256: b161c5d49ba43197bbd61f94c704e96b73b9b95abcb9a5043177ec303eea20b9
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 10-35 ---
+from bottom of this trench (~25 cm). The legs on the Gnomen are 50 cm. apart.
+
+
+
+   Introduction
+    Soil samples 15260 and 15012 were collected from
+                                                   Modal content of soils 15260.    the bottom of a small trench at station 6, Apollo 15
+                                                    From Morris et al. 1983.   (Swann et al. 1972). 15012 was placed in a special
+   environmental sample container (SESC) and was
+                                                                                   15260
+    sealed. Morris et al. (1983) state that this trench was
+                                                                          Agglutinates             50.5
+   only 10 cm deep, but the picture looks more like 20-25                                                                           Basalt                 4
+  cm deep (figure 1). The trench was dug on the rim of                                                                       Breccia                  8.5
+   a crater about 12 meters across. Core sample 15009               Anorthosite              0.5
+   was from the other side of the 12 m crater.  Soils               Norite
+   samples 15240, 15250, 15270 and 15290 were            Gabbro
+    collected nearby.  Station 6 was located about 350               Plagioclase               0.5
+   meters to the east of Spur Crater on the Apennine Front,             Pyroxene              14
+   well above the mare surface.                                        Olivine                  2.5
+                                                                            Ilmenite                      -
+                                                                      Glass other            19
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 2; lines 1-30 ---
+15260
+                                   Trench Soil
+                                          610.5 grams
+
+
+
+
+
+                      Figure 1: Apollo 15 trench, station 6. AS15-86-11643. Sample 15260 was collected
+                     from bottom of this trench (~25 cm). The legs on the Gnomen are 50 cm. apart.
+
+
+
+   Introduction
+    Soil samples 15260 and 15012 were collected from
+                                                   Modal content of soils 15260.    the bottom of a small trench at station 6, Apollo 15
+                                                    From Morris et al. 1983.   (Swann et al. 1972). 15012 was placed in a special
+   environmental sample container (SESC) and was
+                                                                                   15260
+    sealed. Morris et al. (1983) state that this trench was
+                                                                          Agglutinates             50.5
+   only 10 cm deep, but the picture looks more like 20-25                                                                           Basalt                 4
+  cm deep (figure 1). The trench was dug on the rim of                                                                       Breccia                  8.5
+   a crater about 12 meters across. Core sample 15009               Anorthosite              0.5
+   was from the other side of the 12 m crater.  Soils               Norite
+   samples 15240, 15250, 15270 and 15290 were            Gabbro
+    collected nearby.  Station 6 was located about 350               Plagioclase               0.5
+   meters to the east of Spur Crater on the Apennine Front,             Pyroxene              14
+   well above the mare surface.                                        Olivine                  2.5
+                                                                            Ilmenite                      -
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 1-8 ---
+Petrography
+   15260 is a mature soil with Is/FeO = 77 (Morris 1978)
+   with agglutinate content ~ 50% (McKay et al.
+    unpublished). Walker and Papike (1981) calculate that
+     this soil is made up of 28 % mare basalt, 18 % LKFM,
+   ~14 % anorthosite, ~25 % KREEP and ~17 % mafic
+    green glass.  Soil breccias 15265 and 15266 were
+    returned in a separate bag.
+--- chemistry block 2; lines 15-35 ---
+KREEP basalt (15263,42) found as a “coarse-fine”
+                                                                               25
+    particle in this trench.
+                                                                               20                      Apollo soils
+   Chemistry
+    Taylor et al. (1973), Korotev (1987), Duncan et al.          15
+                                 FeO    (1975) and others have analyzed 15260 (table 1, figures
+   3 and 4). Kaplan et al. (1976) determined the C, N and          10              15260
+   S content (156 ppm, 106 ppm and 700 ppm
+                                                                                    5
+    respectively). Moore et al. (1973) reported 115 ppm
+    C. This soil has a carbon content consistent with its           0
+    maturity (figure 5).                                                         0       5      10      15      20      25      30      35
+                                                             Al2O3
+   Simon et al. (1987) reported the composition of a          Figure 3: Chemical composition of lunar soils.
+    particle of KREEP basalt in coarse-fines from this soil
+    (figure 4).                                                                         1000
+
+                                                                                               KREEP
+   Cosmogenic isotopes and exposure ages                      100
+    Rancitelli et al. (1972) determined the cosmic ray    sample/
+--- chemistry block 3; lines 53-65 ---
+60
+
+                 40                                                                 flare intensity averaged over 30 yr obtained from the
+                 20                              Lunar Soils     tritium depth dependence was approximately the same
+                   0
+                      0           20          40           60          80          100         120   as the flare intensity averaged over 1000 yr obtained
+                                                    from 39Ar measurements.”                          maturity (Is/FeO)
+
+         Figure 5: Carbon content and matruity for lunar
+            soils. Data from Kaplan et al. (1976), Moore (1974)
+        and Morris (1977).
+
+Lunar Sample Compendium
+--- mineralogy block 4; lines 1-17 ---
+Petrography
+   15260 is a mature soil with Is/FeO = 77 (Morris 1978)
+   with agglutinate content ~ 50% (McKay et al.
+    unpublished). Walker and Papike (1981) calculate that
+     this soil is made up of 28 % mare basalt, 18 % LKFM,
+   ~14 % anorthosite, ~25 % KREEP and ~17 % mafic
+    green glass.  Soil breccias 15265 and 15266 were
+    returned in a separate bag.
+
+    Best and Minkin (1972) and Warner et al. (1972)
+    studied the composition of glass beads in 15261.
+    Goldstein and Axon (1972) and Axon and Goldstein
+    (1972) analyzed metallic iron grains in this sample      Figure 2: Ni and Co content of iron grain from 15261
+    (figure 2). Simon et al. (1987) described a sample of      (from Goldstein and Axon 1972).
+   KREEP basalt (15263,42) found as a “coarse-fine”
+                                                                               25
+    particle in this trench.
+--- material block 5; lines 1-36 ---
+Petrography
+   15260 is a mature soil with Is/FeO = 77 (Morris 1978)
+   with agglutinate content ~ 50% (McKay et al.
+    unpublished). Walker and Papike (1981) calculate that
+     this soil is made up of 28 % mare basalt, 18 % LKFM,
+   ~14 % anorthosite, ~25 % KREEP and ~17 % mafic
+    green glass.  Soil breccias 15265 and 15266 were
+    returned in a separate bag.
+
+    Best and Minkin (1972) and Warner et al. (1972)
+    studied the composition of glass beads in 15261.
+    Goldstein and Axon (1972) and Axon and Goldstein
+    (1972) analyzed metallic iron grains in this sample      Figure 2: Ni and Co content of iron grain from 15261
+    (figure 2). Simon et al. (1987) described a sample of      (from Goldstein and Axon 1972).
+   KREEP basalt (15263,42) found as a “coarse-fine”
+                                                                               25
+    particle in this trench.
+                                                                               20                      Apollo soils
+   Chemistry
+    Taylor et al. (1973), Korotev (1987), Duncan et al.          15
+                                 FeO    (1975) and others have analyzed 15260 (table 1, figures
+   3 and 4). Kaplan et al. (1976) determined the C, N and          10              15260
+   S content (156 ppm, 106 ppm and 700 ppm
+                                                                                    5
+    respectively). Moore et al. (1973) reported 115 ppm
+    C. This soil has a carbon content consistent with its           0
+    maturity (figure 5).                                                         0       5      10      15      20      25      30      35
+                                                             Al2O3
+   Simon et al. (1987) reported the composition of a          Figure 3: Chemical composition of lunar soils.
+    particle of KREEP basalt in coarse-fines from this soil
+    (figure 4).                                                                         1000
+
+                                                                                               KREEP
+   Cosmogenic isotopes and exposure ages                      100
+    Rancitelli et al. (1972) determined the cosmic ray    sample/
+    induced activity of 22Na = 37 dpm/kg. and 26Al = 50    chondrite                             15261
+--- material block 6; lines 43-55 ---
+200
+
+                180
+                                                                                                                   0.1
+                160                                                                       La      Pr    Sm    Gd    Dy      Er     Yb                                                                           Ce    Nd     Eu     Tb    Ho    Tm     Lu
+                140                             15260                       Figure 4: Normalized rare-earth-element diagram
+   C      120                                                              for trench soil 15261 and one of the coarse-fine
+   ppm  100                                                              particles found in it (KREEP).
+                 80
+
+                 60
+
+                 40                                                                 flare intensity averaged over 30 yr obtained from the
+--- age block 7; lines 29-41 ---
+Simon et al. (1987) reported the composition of a          Figure 3: Chemical composition of lunar soils.
+    particle of KREEP basalt in coarse-fines from this soil
+    (figure 4).                                                                         1000
+
+                                                                                               KREEP
+   Cosmogenic isotopes and exposure ages                      100
+    Rancitelli et al. (1972) determined the cosmic ray    sample/
+    induced activity of 22Na = 37 dpm/kg. and 26Al = 50    chondrite                             15261
+   dpm/kg. Fireman et al. (1972) reported on 37Ar, 39Ar           10
+   and 3H (tritium) found in 15261 stating that “the solar-
+
+                                                                                                              1
+--- treatment block 8; lines 1-8 ---
+Petrography
+   15260 is a mature soil with Is/FeO = 77 (Morris 1978)
+   with agglutinate content ~ 50% (McKay et al.
+    unpublished). Walker and Papike (1981) calculate that
+     this soil is made up of 28 % mare basalt, 18 % LKFM,
+   ~14 % anorthosite, ~25 % KREEP and ~17 % mafic
+    green glass.  Soil breccias 15265 and 15266 were
+    returned in a separate bag.
+--- treatment block 9; lines 21-33 ---
+FeO    (1975) and others have analyzed 15260 (table 1, figures
+   3 and 4). Kaplan et al. (1976) determined the C, N and          10              15260
+   S content (156 ppm, 106 ppm and 700 ppm
+                                                                                    5
+    respectively). Moore et al. (1973) reported 115 ppm
+    C. This soil has a carbon content consistent with its           0
+    maturity (figure 5).                                                         0       5      10      15      20      25      30      35
+                                                             Al2O3
+   Simon et al. (1987) reported the composition of a          Figure 3: Chemical composition of lunar soils.
+    particle of KREEP basalt in coarse-fines from this soil
+    (figure 4).                                                                         1000
+
+                                                                                               KREEP
+--- treatment block 10; lines 53-65 ---
+60
+
+                 40                                                                 flare intensity averaged over 30 yr obtained from the
+                 20                              Lunar Soils     tritium depth dependence was approximately the same
+                   0
+                      0           20          40           60          80          100         120   as the flare intensity averaged over 1000 yr obtained
+                                                    from 39Ar measurements.”                          maturity (Is/FeO)
+
+         Figure 5: Carbon content and matruity for lunar
+            soils. Data from Kaplan et al. (1976), Moore (1974)
+        and Morris (1977).
+
+Lunar Sample Compendium
+
+=== PDF PAGE 3; CATEGORIES: material ===
+--- material block 1; lines 1-36 ---
+Other Studies
+   Holland et al. (1972) studied the temperature release
+    (pyrolysis) of soil 15261 for various molecular species
+    (figure 6).
+
+   Processing
+   Sample 15260 was returned in a sample collection bag
+   (#3) and would have seen the air in the LM, CSM and
+    Pacific. This is a relatively large soil sample for Apollo
+   15, especially when you consider the added amount
+   from the trench in the SESC container (see 15012).
+
+
+                                                              Average grain size = 53 microns
+
+
+
+
+
+                                                                 Figure 7: Grain size distribution of 15260 (Graf
+                                                                    1993).
+
+       Figure 6: Volatile release curves for 15261 (from
+      Holland et al. 1972).
+
+
+
+                C                      Meyer        15260                          15265   15266                     2010
+                                                                314 g   271 g                           610.5 grams
+                                                                                                                                     soil breccias
+
+
+               15260        15261           15262    15263    15264            reserve
+               172 g          416.6 g            9.1 g      6.7 g      5.9 g
+
+                                     < 1 mm                      1 - 2 mm      2 - 4 mm      4 - 10 mm
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 15260.
+                                                                       KREEP basalt
+     reference  Korotev87    Taylor 73    Duncan75   Brunfelt72  Hughes72    Rancitelli72        Simon 87
+     weight                                                                                  15263,42
+    SiO2 %                            46.35    (b)
+    TiO2       1.5       (a)               1.5       (b)  1.4      (a)                                    1.7          (a)
+    Al2O3     16.4      (a)              16.4     (b)  16.1     (a)                                   15.3        (a)
+   FeO       12.3      (a)              12.28    (b)  12.1     (a)                                    9.9          (a)
+   MnO      0.16      (a)              0.159    (b)  0.16     (a)                                   0.14        (a)
+   MgO      10.7      (a)              10.71    (b)                                                 9.6          (a)
+   CaO      11        (a)              11.15    (b)  11.89    (a)                                    9.4          (a)
+   Na2O     0.44      (a)              0.39     (b)  0.44     (a)                                   0.74        (a)
+   K2O                                0.19     (b)                           0.2        (d)        0.54        (a)
+   P2O5                              0.219    (b)
+   S %                               0.084    (b)             0.089    (c )
+    sum
+
+    Sc ppm    23.8      (a)                           23.3     (a)                                   20.2        (a)
+   V                               81        (b) 131      (a)                               65          (a)
+--- material block 2; lines 1-8 ---
+Table 1. Chemical composition of 15260.
+                                                                       KREEP basalt
+     reference  Korotev87    Taylor 73    Duncan75   Brunfelt72  Hughes72    Rancitelli72        Simon 87
+     weight                                                                                  15263,42
+    SiO2 %                            46.35    (b)
+    TiO2       1.5       (a)               1.5       (b)  1.4      (a)                                    1.7          (a)
+    Al2O3     16.4      (a)              16.4     (b)  16.1     (a)                                   15.3        (a)
+   FeO       12.3      (a)              12.28    (b)  12.1     (a)                                    9.9          (a)
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 15260.
+                                                                       KREEP basalt
+     reference  Korotev87    Taylor 73    Duncan75   Brunfelt72  Hughes72    Rancitelli72        Simon 87
+     weight                                                                                  15263,42
+    SiO2 %                            46.35    (b)
+    TiO2       1.5       (a)               1.5       (b)  1.4      (a)                                    1.7          (a)
+    Al2O3     16.4      (a)              16.4     (b)  16.1     (a)                                   15.3        (a)
+   FeO       12.3      (a)              12.28    (b)  12.1     (a)                                    9.9          (a)
+   MnO      0.16      (a)              0.159    (b)  0.16     (a)                                   0.14        (a)
+--- references block 4; lines 64-73 ---
+Os ppb                                                         7.5       (c )
+       Ir ppb      7.5       (a)                            7.4      (a) 7         (c )
+     Pt ppb
+    Au ppb    107      (a)                            5.5      (a) 4.1       (c )
+    Th ppm    4.2       (a)  4.12      (e)               3.6      (a)              4.64       (d)        12          (a)
+   U ppm     1.13      (a)  1.08      (e)              1.14     (a)              1.18       (d)         3.3          (a)
+     technique:  (a) INAA, (b) XRF, (c ) RNAA, (d) radiation counting, (e) Spark source mass spec.
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 4-16 ---
+Sci. Lett. 18, 173-180.                                  Holland P.T., Simoneit B.R., Wszolek P.C. and Burlingame
+                                                       A.L. (1972) Compounds of carbon and other volatile
+    Best J.B. and Minkin J.A. (1972) Apollo 15 glasses of impact   elements in Apollo 14 and 15 samples. Proc. 3rd Lunar Sci.
+    origin. In The Apollo 15 Samples, 34-39. LPI             Conf. 2131-2149.
+
+    Brunfelt A.O., Heier K.S., Nilssen B., Steiennes E. and  Hughes T.C., Keays R.R. and Lovering J.F. (1973) Siderphile
+   Sundvoll B. (1972)  Elemental composition of Apollo 15  and volatile trace elements in Apollo 14, 15 and 16 rocks
+    samples. In The Apollo 15 Lunar Samples 195-197. LPI  and fines: Evidence for the extralunar component Tl-, Au-
+                                                       and Ag- enriched rocks in the Ancient Lunar Crust (abs).
+    Butler (1972) Lunar Sample Information Catalog: Apollo  Lunar Sci. IV, 400-402. LPI.
+    15. MSC 03209
+                                                       Kaplan I.R., Kerridge J.F. and Petrowski C. (1976) Light
+   Cadogen P.H., Eglington G., Firth J.N.M., Maxwell J.R., May   element geochemistry of the Apollo 15 site. Proc. 7th Lunar
+--- chemistry block 2; lines 47-59 ---
+Goldstein J.I. and Axon H.J. (1972) Metallic particles from   Morris R.V. (1976) Surface exposure indicies of lunar soils:
+   3 Apollo 15 soils (abs). In The Apollo 15 Lunar Samples,  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-
+    78-81. LPI.                                             335.
+
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Morris R.V. (1978) The surface exposure (maturity) of lunar
+   Reference Pub. 1265, March 1993                               soils: Some concepts and Is/FeO compilation.  Proc. 9th
+                                                      Lunar Planet. Sci. Conf. 2287-2298.
+   Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+                                                          Morris R.V. (1980) Origins and size distribution of metallic
+                                                                 iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+
+Lunar Sample Compendium
+--- material block 3; lines 1-9 ---
+References for 15260                               Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+   Axon H.J. and Goldstein J.I. (1973)  Metallic particles of  Space Phys. 13, 567-587.
+    high cobalt content in Apollo 15 soil samples. Earth Planet.
+    Sci. Lett. 18, 173-180.                                  Holland P.T., Simoneit B.R., Wszolek P.C. and Burlingame
+                                                       A.L. (1972) Compounds of carbon and other volatile
+    Best J.B. and Minkin J.A. (1972) Apollo 15 glasses of impact   elements in Apollo 14 and 15 samples. Proc. 3rd Lunar Sci.
+    origin. In The Apollo 15 Samples, 34-39. LPI             Conf. 2131-2149.
+
+    Brunfelt A.O., Heier K.S., Nilssen B., Steiennes E. and  Hughes T.C., Keays R.R. and Lovering J.F. (1973) Siderphile
+--- material block 4; lines 15-43 ---
+Kaplan I.R., Kerridge J.F. and Petrowski C. (1976) Light
+   Cadogen P.H., Eglington G., Firth J.N.M., Maxwell J.R., May   element geochemistry of the Apollo 15 site. Proc. 7th Lunar
+   and Pillinger C.T. (1972)  Survey of lunar carbon   Sci. Conf. 481-492.
+   compounds: II. The carbon chemistry of Apollo 11, 12, 14
+   and 15 samples. Proc. 3rd Lunar Sci. Conf. 2069-2091.     Keihm S.J. and Langseth M.G. (1973) Surface brightness
+                                                          temperatures at he Apollo 17 heat flow site – thermal
+   Cameron K.L., Delano J.W., Bence A.E. and Papike J.J.   conductivity of the upper 15 cm of the regolith. Proc. 4th
+    (1972) Petrology of the 2-4 mm sized soil fragments from  Lunar Sci. Conf. 2503-2514.
+   Apollo 15. In The Apollo 15 Lunar Samples. 1-4. LPI
+                                                        Korotev R.L. (1987) Mixing levels, the Apennine Front soil
+   Cameron K.L., Delano J.W., Bence A.E. and Papike J.J.  component, and compositional trends in the Apollo 15 soils.
+   (1973)  Petrology of the 2-4 mm soil fraction from the   Proc. 17th Lunar Planet. Sci. Conf. E411-431.
+   Hadley-Apennine region of the moon. Earth Planet. Sci.
+    Lett. 19, 9-21.                                LSPET (1972)  Apollo 15 Lunar samples – preliminary
+                                                                   description. Science 175, 363-375.
+   Duncan A.R., Sher M.K., Abraham Y.C., Erlank A.J., Willis
+     J.P. and Ahrens L. (1975)  Interpretation of compositional   Mitchell J.K., Bromwell L.G., Carrier W.D., Costes N.C.,
+    variability of Apollo 15 soils.  Proc. 6th Lunar Sci. Conf.  Houston W.N. and Scott R.F. (1972)  7. Soil-Mechanics
+   2309-2320.                                             Experiment. In Apollo 15 Preliminary Science Rpt. NASA
+                                                         SP-289. pages 7-17-28.
+    Durrani S.A., Prachyabrued W., Hwang F.S.W., Edgington
+    J.A. and Blair I.M. (1973) Thermoluminescence of some  Moore C.B. and Cripe J.D. (1974) Total sulfur contents of
+   Apollo 14 and 16 fines and rock samples. Proc. 4th Lunar   Apollo 15 and Apollo 16 lunar samples (abs). Lunar Sci. V,
+    Sci. Conf. 2465-2480.                                   523-525. LPI.
+
+   Fireman E.L., D’Amico J., DeFelice J. and Spannagel G.  Moore C.B., Lewis C.F. and Gibson E.K. (1972) Carbon
+    (1972)  Radioactivities in returned lunar materials. Proc.  and nitrogen in Apollo 15 lunar samples. (abs).  In The
+     3rd Lunar Sci. Conf. 1747-1763.                         Apollo 15 Lunar Samples 316-318. LPI.
+--- material block 5; lines 46-60 ---
+Sci. Conf. 1577-1586.                                                 4th Lunar Sci. Conf. 1613-1624.
+
+    Goldstein J.I. and Axon H.J. (1972) Metallic particles from   Morris R.V. (1976) Surface exposure indicies of lunar soils:
+   3 Apollo 15 soils (abs). In The Apollo 15 Lunar Samples,  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-
+    78-81. LPI.                                             335.
+
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Morris R.V. (1978) The surface exposure (maturity) of lunar
+   Reference Pub. 1265, March 1993                               soils: Some concepts and Is/FeO compilation.  Proc. 9th
+                                                      Lunar Planet. Sci. Conf. 2287-2298.
+   Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+                                                          Morris R.V. (1980) Origins and size distribution of metallic
+                                                                 iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 6; lines 20-32 ---
+temperatures at he Apollo 17 heat flow site – thermal
+   Cameron K.L., Delano J.W., Bence A.E. and Papike J.J.   conductivity of the upper 15 cm of the regolith. Proc. 4th
+    (1972) Petrology of the 2-4 mm sized soil fragments from  Lunar Sci. Conf. 2503-2514.
+   Apollo 15. In The Apollo 15 Lunar Samples. 1-4. LPI
+                                                        Korotev R.L. (1987) Mixing levels, the Apennine Front soil
+   Cameron K.L., Delano J.W., Bence A.E. and Papike J.J.  component, and compositional trends in the Apollo 15 soils.
+   (1973)  Petrology of the 2-4 mm soil fraction from the   Proc. 17th Lunar Planet. Sci. Conf. E411-431.
+   Hadley-Apennine region of the moon. Earth Planet. Sci.
+    Lett. 19, 9-21.                                LSPET (1972)  Apollo 15 Lunar samples – preliminary
+                                                                   description. Science 175, 363-375.
+   Duncan A.R., Sher M.K., Abraham Y.C., Erlank A.J., Willis
+     J.P. and Ahrens L. (1975)  Interpretation of compositional   Mitchell J.K., Bromwell L.G., Carrier W.D., Costes N.C.,
+    variability of Apollo 15 soils.  Proc. 6th Lunar Sci. Conf.  Houston W.N. and Scott R.F. (1972)  7. Soil-Mechanics
+--- treatment block 7; lines 46-58 ---
+Sci. Conf. 1577-1586.                                                 4th Lunar Sci. Conf. 1613-1624.
+
+    Goldstein J.I. and Axon H.J. (1972) Metallic particles from   Morris R.V. (1976) Surface exposure indicies of lunar soils:
+   3 Apollo 15 soils (abs). In The Apollo 15 Lunar Samples,  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-
+    78-81. LPI.                                             335.
+
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Morris R.V. (1978) The surface exposure (maturity) of lunar
+   Reference Pub. 1265, March 1993                               soils: Some concepts and Is/FeO compilation.  Proc. 9th
+                                                      Lunar Planet. Sci. Conf. 2287-2298.
+   Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+                                                          Morris R.V. (1980) Origins and size distribution of metallic
+                                                                 iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+--- references block 8; lines 1-7 ---
+References for 15260                               Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+   Axon H.J. and Goldstein J.I. (1973)  Metallic particles of  Space Phys. 13, 567-587.
+    high cobalt content in Apollo 15 soil samples. Earth Planet.
+    Sci. Lett. 18, 173-180.                                  Holland P.T., Simoneit B.R., Wszolek P.C. and Burlingame
+                                                       A.L. (1972) Compounds of carbon and other volatile
+    Best J.B. and Minkin J.A. (1972) Apollo 15 glasses of impact   elements in Apollo 14 and 15 samples. Proc. 3rd Lunar Sci.
+    origin. In The Apollo 15 Samples, 34-39. LPI             Conf. 2131-2149.
+--- references block 9; lines 47-59 ---
+Goldstein J.I. and Axon H.J. (1972) Metallic particles from   Morris R.V. (1976) Surface exposure indicies of lunar soils:
+   3 Apollo 15 soils (abs). In The Apollo 15 Lunar Samples,  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-
+    78-81. LPI.                                             335.
+
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Morris R.V. (1978) The surface exposure (maturity) of lunar
+   Reference Pub. 1265, March 1993                               soils: Some concepts and Is/FeO compilation.  Proc. 9th
+                                                      Lunar Planet. Sci. Conf. 2287-2298.
+   Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+                                                          Morris R.V. (1980) Origins and size distribution of metallic
+                                                                 iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+
+Lunar Sample Compendium
+
+=== PDF PAGE 6; CATEGORIES: age,material ===
+--- material block 1; lines 1-21 ---
+Sci. Conf. 1697-1712.                                  Walker R.J. and Papike J.J. (1981) The Apollo 15 regolith:
+                                                       Chemical modeling and mare/highland mixing. Proc. 12th
+    Morris R.V., Score R., Dardano C. and Heiken G. (1983)  Lunar Planet. Sci. Conf. 509-517.
+   Handbook of Lunar Soils. JSC 19069
+                                                       Warner J., Ridley W.I., Reid A.M. and Brown R.W. (1972)
+    Petrowski C., Kapaln I.R. and Kerridge J.F. (1976) Light   Apollo 15 glasses and the distribution of non-mare crustal
+    element geochemistry of the Apollo 15 site  (abs). Lunar   rock types (abs) In The Apollo 15 Lunar Samples, 179-
+     Sci. VII, 685-687. LPI.                                  181. LPI
+
+    Powell B.N. (1972)  Apollo 15 Coarse Fines (4-10mm):  Yokoyama Y., Reyss J.L., Guichard F. and Sato J. (1972)
+    Sample classification, description and inventory. MSC   Cosmonuclides in lunar soil from Apollo 15. (abs) In The
+    03228 Curator’s Office JSC                             Apollo 15 Lunar Samples, 404-406. LPI.
+
+    Powell B.N., Aitken F.K. and Weiblen P.W. (1973)  Yokoyama Y., Reyss J.L. and Guichard F. (1975) 22Na-
+     Classification, distribution and origin of lithic fragments from  26Al studies of lunar regolith. Proc. 6th Lunar Sci. Conf.
+    the Hadley-Apennine region.  Proc. 4th Lunar Sci. Conf.   1823-1844.
+    445-460.
+
+     Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+    (1972)  Lunar surface processes and cosmic ray
+    characterization from Apollo 12-15 lunar sample analyses.
+--- age block 2; lines 14-26 ---
+Powell B.N., Aitken F.K. and Weiblen P.W. (1973)  Yokoyama Y., Reyss J.L. and Guichard F. (1975) 22Na-
+     Classification, distribution and origin of lithic fragments from  26Al studies of lunar regolith. Proc. 6th Lunar Sci. Conf.
+    the Hadley-Apennine region.  Proc. 4th Lunar Sci. Conf.   1823-1844.
+    445-460.
+
+     Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+    (1972)  Lunar surface processes and cosmic ray
+    characterization from Apollo 12-15 lunar sample analyses.
+    Proc. 3rd Lunar Sci. Conf. 1681-1693.
+
+    Ridley W.I., Reid A.M., Warner J.L. and Brown R.W. (1973a)
+    Apollo 15 green glasses. Phys. Earth Planet. Interiors 7,
+    133-136.

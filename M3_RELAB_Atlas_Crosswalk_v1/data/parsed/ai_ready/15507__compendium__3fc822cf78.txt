@@ -1,0 +1,50 @@
+DOCUMENT_ID: 15507__compendium__3fc822cf78
+ATLAS_SAMPLE_IDS: 15507
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15507.pdf
+SOURCE_PDF_SHA256: 8bf3918b5ce1225f11e104c437480fd2dbc19af7a28daf2ef31d395f91b1421d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: mineralogy,references ===
+--- mineralogy block 1; lines 1-32 ---
+15507
+                                    Glass Object
+                                               3.9 grams
+
+
+
+
+
+           Figures 1 and 2: Two views of 15507. Field of view about 1 cm. S71-44539 and 44540.
+
+
+   Introduction                                    References for 15507
+   15507 is made up of three glass particles that fit   Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+   together as a hollow egg.  It has not been subdivided   Office, MSC 03209
+   nor studied. This sample was collected and returned
+   with 15505 from a site near Hadley Rille – see section  LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+   on 15501.                                                    description. Science 175, 363-375.
+
+                                             LSPET (1972b) Preliminary examination of lunar samples.
+   Petrography                                                         Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+   There is a zap pit on the interior wall of the large  1—6-28.
+   vesicle, proving that it was already broken on the
+   lunar surface (Ryder 1985).                       Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+                                                           volumes). Curatoial Branch Pub. # 72, JSC#20787
+   Note: the transcript mentions that the astronauts                                                 Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+   were also trying to pick up a glass ball, but that   G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+   they dropped it?                                       Preliminary description of Apollo 15 sample environments.
+                                                             U.S.G.S. Interagency report: 36. pp219 with maps
+
+                                                Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+                                                         M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+                                                              K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+--- references block 2; lines 6-18 ---
+Figures 1 and 2: Two views of 15507. Field of view about 1 cm. S71-44539 and 44540.
+
+
+   Introduction                                    References for 15507
+   15507 is made up of three glass particles that fit   Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+   together as a hollow egg.  It has not been subdivided   Office, MSC 03209
+   nor studied. This sample was collected and returned
+   with 15505 from a site near Hadley Rille – see section  LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+   on 15501.                                                    description. Science 175, 363-375.

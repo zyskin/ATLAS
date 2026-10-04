@@ -1,0 +1,158 @@
+DOCUMENT_ID: 76545__compendium__ef3a6b40d7
+ATLAS_SAMPLE_IDS: 76545,76546,76547,76548,76549
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/76545.pdf
+SOURCE_PDF_SHA256: a3f4fdba284121a2e2ea7ade50e0c024b6ccaedfcabf2bc3ed76923ecb0abb6d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 17-30 ---
+Only 76545 and 76548 have thin sections.    in the initial exam by Phinney et al. (1974).
+
+   Petrography
+   Phinney et al. (1977) used the SEM to study the matrix
+   of 76545.
+
+   Lots of small white clasts set in black glass matrix.
+  Some particles also have shiny black glass (Meyer
+   1994).
+
+   Chemistry
+   Only 76545 has been analyzed (table 1) and it is exactly
+   the same as the soil collected with it.
+--- material block 2; lines 1-33 ---
+76545 – 7.7 grams
+                         76546 – 24.3 grams
+                          76547 – 10 grams
+                         76548 – 2.53 grams
+                          76549 – 9.2 grams
+                                   Regolith Breccia
+
+
+
+
+
+                             Figure 1: Photo of 76545. Scale in mm. S73-19611
+
+   Introduction
+   76545 – 76549 are from a rake sample taken at station
+                                                 Processing   6 (figure ). They look alike and were grouped together
+                                                Only 76545 and 76548 have thin sections.    in the initial exam by Phinney et al. (1974).
+
+   Petrography
+   Phinney et al. (1977) used the SEM to study the matrix
+   of 76545.
+
+   Lots of small white clasts set in black glass matrix.
+  Some particles also have shiny black glass (Meyer
+   1994).
+
+   Chemistry
+   Only 76545 has been analyzed (table 1) and it is exactly
+   the same as the soil collected with it.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: material,references ===
+--- material block 1; lines 12-32 ---
+Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+                                                               Curator’s Office JSC 26088 pp. 644
+                                                     76 78
+
+          Figure 6: Thin section photomicrogaph of 76545     Muehlberger W.R. and many others (1973)  Preliminary
+         showing mostly matrix.                             Geological Investigation of the Apollo 17 Landing Site. In
+                                                        Apollo 17 Preliminary Science Report. NASA SP-330.
+
+                                                    Phinney W.C., Simonds C.H. and Warner J. (1974)
+                                                                 Description, Classification and Inventory of Apollo 17 Rake
+                                                       Samples from Station 6. Curator’s Catalog, pp. 46.
+
+                                                         Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+                                                           (1976a) Lithification of vitric- and clastic-matrix breccias:
+                                       SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+
+                                                     Simonds C.H. and Warner J.L. (1981)  Petrochemistry of
+                                                         Apollo 16 and 17 samples (abs). Lunar Planet. Sci. XII,
+                                                           993-995. Lunar Planetary Institute, Houston.
+--- references block 2; lines 1-7 ---
+References for 77545.
+                                                             Butler P. (1973) Lunar Sample Information Catalog
+                                                       Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+                                                               Curator’s Catalog. pp. 447.
+
+                                             LSPET (1973)  Apollo 17 lunar samples: Chemical and
+                                                               petrographic description. Science 182, 659-672.
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-23 ---
+25
+   Table 1. Chemical composition of 76545,
+                                                                                20                      Apollo soils
+    reference  Simonds81  Wiesmann75                                                                                   breccia
+    weight
+   SiO2 %    43.45    (a)                                                   15
+    TiO2       3.69      (a)                    FeO
+                                                                                                    76545
+   Al2O3     17.89    (a)                                                   10
+   FeO       10.94    (a)
+   MnO       0.15      (a)
+                                                                                   5
+   MgO      10.51    (a)
+   CaO       12.21    (a)
+   Na2O      0.4       (a)                                                      0
+   K2O       0.13      (a)                                                        0       5       10      15      20      25      30      35
+   P2O5      0.09      (a)                                            Al2O3
+   S %       0.07      (a)
+   sum                                                           Figure 7: Composition of 76545 compared with that
+                                                                           of Apollo soil samples.   Sc ppm
+   V
+    Cr                     (a)
+   Co
+--- material block 2; lines 1-10 ---
+25
+   Table 1. Chemical composition of 76545,
+                                                                                20                      Apollo soils
+    reference  Simonds81  Wiesmann75                                                                                   breccia
+    weight
+   SiO2 %    43.45    (a)                                                   15
+    TiO2       3.69      (a)                    FeO
+                                                                                                    76545
+   Al2O3     17.89    (a)                                                   10
+   FeO       10.94    (a)
+--- material block 3; lines 14-26 ---
+CaO       12.21    (a)
+   Na2O      0.4       (a)                                                      0
+   K2O       0.13      (a)                                                        0       5       10      15      20      25      30      35
+   P2O5      0.09      (a)                                            Al2O3
+   S %       0.07      (a)
+   sum                                                           Figure 7: Composition of 76545 compared with that
+                                                                           of Apollo soil samples.   Sc ppm
+   V
+    Cr                     (a)
+   Co
+    Ni
+   Cu
+   Zn
+--- references block 4; lines 1-10 ---
+25
+   Table 1. Chemical composition of 76545,
+                                                                                20                      Apollo soils
+    reference  Simonds81  Wiesmann75                                                                                   breccia
+    weight
+   SiO2 %    43.45    (a)                                                   15
+    TiO2       3.69      (a)                    FeO
+                                                                                                    76545
+   Al2O3     17.89    (a)                                                   10
+   FeO       10.94    (a)
+--- references block 5; lines 63-72 ---
+Re ppb                                                                       TS
+   Os ppb
+      Ir ppb
+    Pt ppb                            76546          76547           76549   Au ppb
+   Th ppm                1.56       (b)             24.3 grams      10 grams          9.2 grams
+   U ppm                 0.43       (b)
+    technique:  (a) XRF, (b) IDMS
+
+Lunar Sample Compendium
+C Meyer 2011

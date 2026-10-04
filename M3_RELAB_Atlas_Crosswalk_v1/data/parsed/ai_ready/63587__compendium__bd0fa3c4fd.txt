@@ -1,0 +1,98 @@
+DOCUMENT_ID: 63587__compendium__bd0fa3c4fd
+ATLAS_SAMPLE_IDS: 63587
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63587.pdf
+SOURCE_PDF_SHA256: 6070b39cbaac681e1c66cb2b83cddd73ecb790e4958abe26f3fdb461f83e11bf
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 18-31 ---
+Processing
+   Petrography
+                                                   There are two thin sections.
+   63587 was described by Ryder and Norman (1980) as
+   a “vesicular impact melt”.  It has large interlocking
+   pyroxene oikocrysts with enclosed plagioclase crystals                63587
+   and ilmenite crystals concentrated in the interoikocryst                  20.5 grams
+   areas (figure 2).  Lithic clasts include cataclstic
+    anorthosite and one large granoblastic dunite (Ryder
+   and Norman 1980).                                          ,0        ,2    ,3        ,8        ,9
+                                                       15.6 g  PB   0.3 g    3.8 g    0.2 g
+   The compositional variation of Apollo 16 impact-melt
+   rocks is discussed by Korotev (1994).                                      ,4
+--- material block 2; lines 1-29 ---
+63587
+                               Impact Melt Breccia
+                                            20.5 grams
+
+
+
+
+
+                         Figure 1: Photo of 63587 with mm scale. S80-37431
+
+   Introduction                                            Chemistry
+   63587 was collected as a rake sample from the flank                                            None
+   of North Ray Crater, Apollo 16 – see section on 63500.
+     It is a coherent impact melt breccia with a poikilitic                                              Radiogenic age dating
+    texture and numerous clasts (figure 1). It has numerous
+                                            None
+   micrometeorite craters on its surface.
+
+                                                 Processing
+   Petrography
+                                                   There are two thin sections.
+   63587 was described by Ryder and Norman (1980) as
+   a “vesicular impact melt”.  It has large interlocking
+   pyroxene oikocrysts with enclosed plagioclase crystals                63587
+   and ilmenite crystals concentrated in the interoikocryst                  20.5 grams
+   areas (figure 2).  Lithic clasts include cataclstic
+    anorthosite and one large granoblastic dunite (Ryder
+   and Norman 1980).                                          ,0        ,2    ,3        ,8        ,9
+                                                       15.6 g  PB   0.3 g    3.8 g    0.2 g
+--- age block 3; lines 8-20 ---
+Figure 1: Photo of 63587 with mm scale. S80-37431
+
+   Introduction                                            Chemistry
+   63587 was collected as a rake sample from the flank                                            None
+   of North Ray Crater, Apollo 16 – see section on 63500.
+     It is a coherent impact melt breccia with a poikilitic                                              Radiogenic age dating
+    texture and numerous clasts (figure 1). It has numerous
+                                            None
+   micrometeorite craters on its surface.
+
+                                                 Processing
+   Petrography
+
+=== PDF PAGE 2; CATEGORIES: material,references ===
+--- material block 1; lines 3-23 ---
+References for 63587
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                       Phinney W. and Lofgren G. (1973) Description, classification
+                                                       and inventory of Apollo 16 rake samples from stations 1, 4
+    Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite  and 13. Curators Office.
+     in Apollo 16 highland rocks: Manifestations of volatile-
+    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    259.                                                     rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Korotev R.L. (1994) Compositional variation in Apollo 16   Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+    impact melt breccias and inferences for the geology and    J. and Rehfeldt A. (1981) Distribution and provenance of
+    bombardment history of the central highlands of the Moon.   lunar highland rock types at North Ray Crater, Apollo 16.
+    Geochim. Cosmochim. Acta 58, 3931-3969.                Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    and chemical description. Science 179, 23-34.              In Geology of the Apollo 16 area, central lunar highlands.
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   LSPET (1972c) Preliminary examination of lunar samples.
+--- references block 2; lines 1-11 ---
+Figure 2: Photomicrograph of thin section 63587,4 using crossed-polarizers. Width of field 2 mm.
+
+
+
+   References for 63587
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                       Phinney W. and Lofgren G. (1973) Description, classification
+                                                       and inventory of Apollo 16 rake samples from stations 1, 4
+    Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite  and 13. Curators Office.
+     in Apollo 16 highland rocks: Manifestations of volatile-

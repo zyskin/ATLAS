@@ -1,0 +1,496 @@
+DOCUMENT_ID: 12034__compendium__50e5ecdf5d
+ATLAS_SAMPLE_IDS: 12034
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/12034.pdf
+SOURCE_PDF_SHA256: 36b46f6190ad57dfc09402de04d88e050a29afa564fb6ec0c696508b9f15fc14
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,treatment ===
+--- material block 1; lines 1-27 ---
+12034          DRAFT
+                                   Regolith Breccia
+                                       155 grams
+
+
+
+
+
+          Figure 1: Lunar sample 12034 after first saw cut in 1970. NASA S75-34235. Cube is 1 cm.
+
+   Introduction                                                     contains abundant KREEP; both as glasses and
+   12034 was collected from the bottom of the same trench                                                      annealed lithic fragments.
+   as soil sample 12033.  These samples were located
+   about 15 meters inside the rim of Head Crater                                                12034 has not been dated, but there is evidence in the
+   (Schoemaker et al. 1970). “Let’s sample that rock that                                               U/Pb data that there has been a young event.
+    I dug up from down deep (~15 cm). Let me get a photo
+    of it (AS12-49-7195 - 6)”.                                             Petrography
+                                              Simon et al. (1985) described regolith breccias from
+   12034 is a regolith breccia, but it is largely made up of
+                                                   Apollo 12 and give new analyses. They note that
+   components foreign to the Apollo 12 regolith and is
+                                                       although 12034 is a soil breccia, it is unlike the soils at
+   from some distant, non-mare, regolith (figure 1).  It
+
+
+Lunar Sample Compendium
+C Meyer 2007
+--- age block 2; lines 8-20 ---
+Figure 1: Lunar sample 12034 after first saw cut in 1970. NASA S75-34235. Cube is 1 cm.
+
+   Introduction                                                     contains abundant KREEP; both as glasses and
+   12034 was collected from the bottom of the same trench                                                      annealed lithic fragments.
+   as soil sample 12033.  These samples were located
+   about 15 meters inside the rim of Head Crater                                                12034 has not been dated, but there is evidence in the
+   (Schoemaker et al. 1970). “Let’s sample that rock that                                               U/Pb data that there has been a young event.
+    I dug up from down deep (~15 cm). Let me get a photo
+    of it (AS12-49-7195 - 6)”.                                             Petrography
+                                              Simon et al. (1985) described regolith breccias from
+   12034 is a regolith breccia, but it is largely made up of
+                                                   Apollo 12 and give new analyses. They note that
+--- treatment block 3; lines 6-18 ---
+Figure 1: Lunar sample 12034 after first saw cut in 1970. NASA S75-34235. Cube is 1 cm.
+
+   Introduction                                                     contains abundant KREEP; both as glasses and
+   12034 was collected from the bottom of the same trench                                                      annealed lithic fragments.
+   as soil sample 12033.  These samples were located
+   about 15 meters inside the rim of Head Crater                                                12034 has not been dated, but there is evidence in the
+   (Schoemaker et al. 1970). “Let’s sample that rock that                                               U/Pb data that there has been a young event.
+    I dug up from down deep (~15 cm). Let me get a photo
+    of it (AS12-49-7195 - 6)”.                                             Petrography
+                                              Simon et al. (1985) described regolith breccias from
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-15 ---
+Mode for 12034
+                                                                        Chao et al. 1971  McGee et al. 1979
+                                                                        Basaltic rock                5.2 %             5.96
+                                                                      Anorthositic rock           1.6
+                                                                 Mineral fragments          14.7            12
+                                                                Glass-welded aggregate     25.7
+                                                                         Devitrified glass            2.2
+                                                               Heterogeneous glass        6.6             23
+                                                        Homogeneous glass         0.3                        tr.
+                                                                        Basaltic microbreccia       0.3             5
+                                                                      Anorthositic microbx.       1.8
+                                                                Less than 25 microns       27.3            53
+                                                                Pore space                 14.2
+--- material block 2; lines 1-10 ---
+Mode for 12034
+                                                                        Chao et al. 1971  McGee et al. 1979
+                                                                        Basaltic rock                5.2 %             5.96
+                                                                      Anorthositic rock           1.6
+                                                                 Mineral fragments          14.7            12
+                                                                Glass-welded aggregate     25.7
+                                                                         Devitrified glass            2.2
+                                                               Heterogeneous glass        6.6             23
+                                                        Homogeneous glass         0.3                        tr.
+                                                                        Basaltic microbreccia       0.3             5
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 33-51 ---
+Waters et al. (1971) noted a vague stratified nature of       and Wanke et al. 1971).
+    the sample. Chao et al. (1971) and Anderson and Smith                                                                                25
+   (1971) reported 14% and 10% pore space, respectively.
+                                                                                20                      Apollo soils
+   The glass clast population in 12034 is extremely
+    diverse, ranging from colorless, pale green, yellow or          15
+                                FeO   orange homogeneous glass to completely devitrified
+    glass with included mineral grains (Chao et al. 1971;          10           12034
+   von Engelhardt et al. 1971). Subrounded to rounded
+   fragments of maskelynite and devitrified maskelynite           5
+   occur commonly as inclusions in the large devitrified           0
+    glass clasts. Devitrification features in glass clasts take             0       5       10      15      20      25      30      35
+    the form of vaiolitic clusters of plagioclase needles and                    Al2O3
+   more commonly axiolitic intergrowths of tightly packed                                                                Figure 6: Composition of regolith breccia compared
+   plagioclase and pyroxene crystals (McGee et al. 1979).                                                                   with all lunar soils (see table).
+
+   The lithic clasts in 12034 include basalts, dark-matrix
+    breccia, cataclastic anorthosite and anorthositic gabbro  composition of KREEP. Based on what we know now,
+   (see modes in tables).  Rare basalts have textures   they are probably fragments of impact melt.
+--- mineralogy block 2; lines 1-58 ---
+Modal Petrology for 12034                                     12034
+                                                                        Di                   Hd                                Simon et al. 1985
+          Mare Basalt                 1.7                               McGee1979   et al
+        ANT                    3
+       CMB                       0.7
+             Poik. Bas.                  1.2
+             Regolith bx.                2.8
+             Agglutinate              8
+           Pyroxene                   1.5
+             Olivine                     0.3
+             Plag.                    2                  En                                          Fs
+           Opaques
+            Glass                       5.2                  Fo                                        Fa
+            Matrix                     45.5                                     compiled by C Meyer
+                                                                Figure 4: Composition of pyroxene found in
+                                                                   matrix of 12034.
+
+   Apollo 12. Simon et al. (1985) and Anderson and Smith          1000
+   (1971) note that it contains Mg-rich orthopyroxene and                                          12010
+    olivine.                                                                                100                                12034
+                                                                                                     12073                                                                                 sample/
+   Sample 12034 is a fragmental matrix breccia similar    chondrite
+    in appearance to the Apollo 11 fragmental matrix            10
+    breccias, but with a much lower porosity (figure 2).
+
+                                                                                                           1   According to McGee et al. (1979) it consists of a variety
+   of glass, mineral and lithic clasts contained in a matrix
+   of brown glass fragments and comminuted debris              0.1
+                                                                                                   Pr                                                                        Sm                                                                                          Gd                                                                                                     Dy                                                                                                                                     Er                                                                                                                  Yb                                                                                                               Tb                                                                                                    Ho                                                                                                   Tm                                                                                                                                  Lu    (figure 3). The texture of the matrix is seriate with               La Ce                                                                                     Nd                                                                                           Eu
+   fragments ranging in size from the limit of resolution
+   up to 2 mm. Brown glass fragments dominate the less       Figure 5: Comparison of REE for three regolith
+   than 0.05 mm size fraction (Phinney et al. 1976).        breccias from Apollo 12 (data from Goles et al. 1971
+   Waters et al. (1971) noted a vague stratified nature of       and Wanke et al. 1971).
+    the sample. Chao et al. (1971) and Anderson and Smith                                                                                25
+   (1971) reported 14% and 10% pore space, respectively.
+                                                                                20                      Apollo soils
+   The glass clast population in 12034 is extremely
+    diverse, ranging from colorless, pale green, yellow or          15
+                                FeO   orange homogeneous glass to completely devitrified
+    glass with included mineral grains (Chao et al. 1971;          10           12034
+   von Engelhardt et al. 1971). Subrounded to rounded
+   fragments of maskelynite and devitrified maskelynite           5
+   occur commonly as inclusions in the large devitrified           0
+    glass clasts. Devitrification features in glass clasts take             0       5       10      15      20      25      30      35
+    the form of vaiolitic clusters of plagioclase needles and                    Al2O3
+   more commonly axiolitic intergrowths of tightly packed                                                                Figure 6: Composition of regolith breccia compared
+   plagioclase and pyroxene crystals (McGee et al. 1979).                                                                   with all lunar soils (see table).
+
+   The lithic clasts in 12034 include basalts, dark-matrix
+    breccia, cataclastic anorthosite and anorthositic gabbro  composition of KREEP. Based on what we know now,
+   (see modes in tables).  Rare basalts have textures   they are probably fragments of impact melt.
+   ranging from ophitic to vitrophryic. Anderson and
+   Smith (1971) reported “grey mottled” basalts in 12034.  Chemistry
+   These are made up of about half plagioclase and half  One can use the whole rock U and Th measurements
+   low-Ca pyroxene (orthopyroxene?) and have the bulk  from radiation counting (O’Kelley et al. 1971,
+
+Lunar Sample Compendium
+C Meyer 2007
+--- material block 3; lines 1-58 ---
+Modal Petrology for 12034                                     12034
+                                                                        Di                   Hd                                Simon et al. 1985
+          Mare Basalt                 1.7                               McGee1979   et al
+        ANT                    3
+       CMB                       0.7
+             Poik. Bas.                  1.2
+             Regolith bx.                2.8
+             Agglutinate              8
+           Pyroxene                   1.5
+             Olivine                     0.3
+             Plag.                    2                  En                                          Fs
+           Opaques
+            Glass                       5.2                  Fo                                        Fa
+            Matrix                     45.5                                     compiled by C Meyer
+                                                                Figure 4: Composition of pyroxene found in
+                                                                   matrix of 12034.
+
+   Apollo 12. Simon et al. (1985) and Anderson and Smith          1000
+   (1971) note that it contains Mg-rich orthopyroxene and                                          12010
+    olivine.                                                                                100                                12034
+                                                                                                     12073                                                                                 sample/
+   Sample 12034 is a fragmental matrix breccia similar    chondrite
+    in appearance to the Apollo 11 fragmental matrix            10
+    breccias, but with a much lower porosity (figure 2).
+
+                                                                                                           1   According to McGee et al. (1979) it consists of a variety
+   of glass, mineral and lithic clasts contained in a matrix
+   of brown glass fragments and comminuted debris              0.1
+                                                                                                   Pr                                                                        Sm                                                                                          Gd                                                                                                     Dy                                                                                                                                     Er                                                                                                                  Yb                                                                                                               Tb                                                                                                    Ho                                                                                                   Tm                                                                                                                                  Lu    (figure 3). The texture of the matrix is seriate with               La Ce                                                                                     Nd                                                                                           Eu
+   fragments ranging in size from the limit of resolution
+   up to 2 mm. Brown glass fragments dominate the less       Figure 5: Comparison of REE for three regolith
+   than 0.05 mm size fraction (Phinney et al. 1976).        breccias from Apollo 12 (data from Goles et al. 1971
+   Waters et al. (1971) noted a vague stratified nature of       and Wanke et al. 1971).
+    the sample. Chao et al. (1971) and Anderson and Smith                                                                                25
+   (1971) reported 14% and 10% pore space, respectively.
+                                                                                20                      Apollo soils
+   The glass clast population in 12034 is extremely
+    diverse, ranging from colorless, pale green, yellow or          15
+                                FeO   orange homogeneous glass to completely devitrified
+    glass with included mineral grains (Chao et al. 1971;          10           12034
+   von Engelhardt et al. 1971). Subrounded to rounded
+   fragments of maskelynite and devitrified maskelynite           5
+   occur commonly as inclusions in the large devitrified           0
+    glass clasts. Devitrification features in glass clasts take             0       5       10      15      20      25      30      35
+    the form of vaiolitic clusters of plagioclase needles and                    Al2O3
+   more commonly axiolitic intergrowths of tightly packed                                                                Figure 6: Composition of regolith breccia compared
+   plagioclase and pyroxene crystals (McGee et al. 1979).                                                                   with all lunar soils (see table).
+
+   The lithic clasts in 12034 include basalts, dark-matrix
+    breccia, cataclastic anorthosite and anorthositic gabbro  composition of KREEP. Based on what we know now,
+   (see modes in tables).  Rare basalts have textures   they are probably fragments of impact melt.
+   ranging from ophitic to vitrophryic. Anderson and
+   Smith (1971) reported “grey mottled” basalts in 12034.  Chemistry
+   These are made up of about half plagioclase and half  One can use the whole rock U and Th measurements
+   low-Ca pyroxene (orthopyroxene?) and have the bulk  from radiation counting (O’Kelley et al. 1971,
+
+Lunar Sample Compendium
+C Meyer 2007
+--- treatment block 4; lines 26-38 ---
+1   According to McGee et al. (1979) it consists of a variety
+   of glass, mineral and lithic clasts contained in a matrix
+   of brown glass fragments and comminuted debris              0.1
+                                                                                                   Pr                                                                        Sm                                                                                          Gd                                                                                                     Dy                                                                                                                                     Er                                                                                                                  Yb                                                                                                               Tb                                                                                                    Ho                                                                                                   Tm                                                                                                                                  Lu    (figure 3). The texture of the matrix is seriate with               La Ce                                                                                     Nd                                                                                           Eu
+   fragments ranging in size from the limit of resolution
+   up to 2 mm. Brown glass fragments dominate the less       Figure 5: Comparison of REE for three regolith
+   than 0.05 mm size fraction (Phinney et al. 1976).        breccias from Apollo 12 (data from Goles et al. 1971
+   Waters et al. (1971) noted a vague stratified nature of       and Wanke et al. 1971).
+    the sample. Chao et al. (1971) and Anderson and Smith                                                                                25
+   (1971) reported 14% and 10% pore space, respectively.
+                                                                                20                      Apollo soils
+   The glass clast population in 12034 is extremely
+    diverse, ranging from colorless, pale green, yellow or          15
+
+=== PDF PAGE 4; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 40-52 ---
+Reed and Jovanovic (1971)     halogens
+
+   Processing
+   One end was cut off 12034 in 1970, and in 1975, a
+    small slab was cut (see figures).  There are 16 thin
+    sections.  12034 was never studied in “consortium
+   mode”.
+
+
+
+
+
+Lunar Sample Compendium
+--- material block 2; lines 3-17 ---
+obtained by Simon et al. (1985) is high in U and Th,
+    while the splits analyzed by Goles et al. (1971) and
+   Wakita et al. (1971) appear low.
+
+   Using chemical mixing models, but with different
+   assumed compositions for end members, Meyer et al.
+    (1971) calculated that 12034 is ~30 % mare basalt, ~5
+  % anorthosite and ~ 66 % KREEP, while Simon et al.
+    (1985) calculated that 12034 is ~ 1 % basalt, 8 %
+    anorthosite and 89 % low-KREEP. Finally, McKay et
+     al. (1971) calculated ~ 56 % KREEP for 12034, using
+   K, Rb and Ba only.
+
+   Radiogenic age dating
+   Tatsumoto et al. (1971) determined the U, Th and Pb
+--- material block 3; lines 24-36 ---
+O’Kelly et al. (1971) determined the cosmic ray
+    induced activity of 12034 as 22Na = 29 dpm/kg, 26Al =
+   45 dpm/kg, 46Sc = <10 dpm/kg, 48V = <60 dpm/kg, 54Mn
+   = 16 dpm/kg, 56Co = <16 dpm/kg and 60Co = < 4 dpm/
+    kg. Rancitelli et al. (1971) determined 22Na = 34 dpm/
+    kg, 26Al = 60 dpm/kg, 54Mn = <40 dpm/kg, 56Co = <56
+   dpm/kg and 60Co = 1.5 dpm/kg.  Breccia 12034 was
+    shielded from solar cosmic rays, having been buried
+    in a trench.
+
+   Basford et al. (1973) determined the isotopic
+    composition of Kr and Xe, but do not give an expsoure
+    age.
+--- age block 4; lines 10-42 ---
+% anorthosite and ~ 66 % KREEP, while Simon et al.
+    (1985) calculated that 12034 is ~ 1 % basalt, 8 %
+    anorthosite and 89 % low-KREEP. Finally, McKay et
+     al. (1971) calculated ~ 56 % KREEP for 12034, using
+   K, Rb and Ba only.
+
+   Radiogenic age dating
+   Tatsumoto et al. (1971) determined the U, Th and Pb
+                                                                Figure 7: U/Pb concordia diagram showing that    isotopes in 12034, providing evidence for a young event
+                                                         12034 data is discordant (Tatsumoto et al. 1971).    (figure 7). The Nd – Sm data give a model age for
+   KREEP in 12034 of 4.3 – 4.4 b.y. (Lugmair and Carlson
+    1978).
+
+   Cosmogenic isotopes and exposure ages
+   O’Kelly et al. (1971) determined the cosmic ray
+    induced activity of 12034 as 22Na = 29 dpm/kg, 26Al =
+   45 dpm/kg, 46Sc = <10 dpm/kg, 48V = <60 dpm/kg, 54Mn
+   = 16 dpm/kg, 56Co = <16 dpm/kg and 60Co = < 4 dpm/
+    kg. Rancitelli et al. (1971) determined 22Na = 34 dpm/
+    kg, 26Al = 60 dpm/kg, 54Mn = <40 dpm/kg, 56Co = <56
+   dpm/kg and 60Co = 1.5 dpm/kg.  Breccia 12034 was
+    shielded from solar cosmic rays, having been buried
+    in a trench.
+
+   Basford et al. (1973) determined the isotopic
+    composition of Kr and Xe, but do not give an expsoure
+    age.
+
+   Other Studies
+    Epstein and Taylor (1971)     oxygen isotopes
+   Reed and Jovanovic (1971)     halogens
+
+   Processing
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 12034.
+
+
+    reference  Simon85     Wakita 71            O’Kelly71   Hubbard73  Wiesmann75 Goles71    Rancitelli71 Tatsumoto71
+    weight                  0.199    .267 g     155 g
+   SiO2 %                 45.8                (a)             47.76    (d)              45.78   (e)
+    TiO2       1.8        (e)  2.7      2.8      (a)             2.33      (d) 2.28       (c ) 2.3      (e)
+   Al2O3     14.7      (e)  15.7     15.7     (a)             15.49    (d)               14.6     (e)
+   FeO      12        (e)  13.3                (a)             12.42    (d)              13.29   (e)
+   MnO       0.156     (e)  0.167    0.173    (a)             0.19      (d)               0.17     (e)
+   MgO       8.3        (e)  9.6                 (a)             8.31      (d)
+   CaO       11.5      (e)  11.2     11.6     (a)             10.85    (d)               11.3     (e)
+   Na2O      0.78      (e)  0.788    0.755    (a)             0.67      (d) 0.86       (c ) 0.78     (e)
+   K2O       0.67      (e)          0.529    (a) 0.55     (b) 0.48      (d) 0.5        (c )            0.56     (b)
+   P2O5                                                    0.53      (d)
+   S %                                                     0.09      (d)
+   sum
+
+   Sc ppm    29        (e) 31                  (a)                                  30       (e)
+   V         65        (e) 90      110      (a)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 12034.
+
+
+    reference  Simon85     Wakita 71            O’Kelly71   Hubbard73  Wiesmann75 Goles71    Rancitelli71 Tatsumoto71
+    weight                  0.199    .267 g     155 g
+   SiO2 %                 45.8                (a)             47.76    (d)              45.78   (e)
+    TiO2       1.8        (e)  2.7      2.8      (a)             2.33      (d) 2.28       (c ) 2.3      (e)
+   Al2O3     14.7      (e)  15.7     15.7     (a)             15.49    (d)               14.6     (e)
+   FeO      12        (e)  13.3                (a)             12.42    (d)              13.29   (e)
+   MnO       0.156     (e)  0.167    0.173    (a)             0.19      (d)               0.17     (e)
+--- references block 3; lines 65-74 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm    17.2      (e)  13.2                (a) 13.1     (b)              11.7       (c ) 11.53    (e) 13.9     (b) 13        (c )
+   U ppm     4.5        (e)                       3.4       (b)              3.4        (c )             3.53     (b) 3.5        (c )
+    technique  (a) RNAA, (b) radiation counting, (c ) IDMS, (d) XRF, (e) INAA
+
+Lunar Sample Compendium
+C Meyer 2007
+
+=== PDF PAGE 9; CATEGORIES: material,references ===
+--- material block 1; lines 1-26 ---
+Figure 11: Slab (,82) cut from 12034 facing middle piece (,9). Cube is 1 cm. NASA S75-34238.
+
+
+   References for 12034                                   Epstein S. and Taylor H.P. (1971) O18/O16, Si30/Si28, D/
+   Anderson A.T. and Smith J.V. (1971)  Nature occurrence  H and C13/C12 ratios in lunar samples. Proc. 2nd Lunar Sci.
+   and exotic origin of “grey mottled” (Luny Rock) basalts in   Conf. 1421-1441.
+   Apollo 12 soils and breccias.  Proc. 2nd Lunar Sci. Conf.
+   431-438.                                               Fruland R.M. (1983)  Regolith Breccia Workbook. JSC
+                                                    19045
+   Basford J.R., Dragon J.C., Pepin R.O., Coscio M.R. and
+   Murthy V.R. (1973) Krypton and Xenon in lunar fines. Proc.   Goles G.G., Ducan A.R., Lindstrom D.J., Martin M.R., Beyer
+     4th Lunar Sci. Conf. 1915-1955.                            R.L., Beyer R.L., Osawa M., Randle K., Meek L.T.,
+                                                             Steinborn T.L. and McKay S.M. (1971) Analysis of Apollo
+   Chao E.C.T., Boreman J.A. and Desborough G.A. (1971)  12 specimens: Compositional variations, differentiation
+   The petrology of unshocked and shocked Apollo 11 and   processes and lunar soil mixing models.  Proc. 2nd Lunar
+   Apollo 12 microbreccias. Proc. 2nd Lunar Sci. Conf. 797-   Sci. Conf. 1063-1081.
+    816.
+                                             LSPET (1970) Preliminary Examination of Lunar Samples
+   von Engelhardt W., Arndt J., Muller W.F. and Stoffler D.  from Apollo 12 Science 167, 1325-1339
+   (1971)  Shock metamorphism and origin of regolith and
+    breccias at the Apollo 11 and Apollo 12 landing sites. Proc.  Lugmair G.W. and Carlson R.W. (1978) The Sm-Nd history
+    2nd Lunar Sci. Conf. 833-854.                               of KREEP. Proc. 9th Lunar Planet. Sci. Conf. 689-704.
+--- references block 2; lines 1-10 ---
+Figure 11: Slab (,82) cut from 12034 facing middle piece (,9). Cube is 1 cm. NASA S75-34238.
+
+
+   References for 12034                                   Epstein S. and Taylor H.P. (1971) O18/O16, Si30/Si28, D/
+   Anderson A.T. and Smith J.V. (1971)  Nature occurrence  H and C13/C12 ratios in lunar samples. Proc. 2nd Lunar Sci.
+   and exotic origin of “grey mottled” (Luny Rock) basalts in   Conf. 1421-1441.
+   Apollo 12 soils and breccias.  Proc. 2nd Lunar Sci. Conf.
+   431-438.                                               Fruland R.M. (1983)  Regolith Breccia Workbook. JSC
+                                                    19045
+   Basford J.R., Dragon J.C., Pepin R.O., Coscio M.R. and
+
+=== PDF PAGE 10; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 12-24 ---
+Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+                                                        (1971) Erosion and mixing of the lunar surface from   Meyer C., Brett R., Hubbard N.J., Morrison D.A., McKay
+                                                       cosmogenic and primordial radionuclide measurements in    D.S., Aitken F.K, Taketda H. and Schonfeld E. (1971)
+                                                         Apollo 12 samples. Proc. 2nd Lunar Sci. Conf. 1757-1772.    Mineralogy, chemistry and origin of the KREEP component
+     in soil samples from the Ocean of Storms. Proc. 2nd Lunar
+                                                    Reed G.W. and Jovanovic S. (1971) The halogen and other     Sci. Conf. 393-411.
+                                                                    trace elements in Apollo 12 samples. Proc. 2nd Lunar Sci.
+                                                           Conf. 1261-1276.    O’Kelly, G.D., Eldridge J.S., Schonfeld E. and Bell P.R.
+    (1971) Abundances of the primordial radionuclides K, Th
+                                                     Schoemaker E.M., Batson R.M., Bean A.L., Conrad C.,    and U in Apollo 12 samples.  Proc. 2nd Lunar Sci. Conf.
+                                                 Dahlem D.H., Goddard E.N., Hait M.H., Larson K.B.,    1159-1168.
+                                                         Schaber G.C., Schleicher D.L., Sutton R.L., Swann G.A.,
+                                                   and Waters A.C. (1970)  10. Preliminary Geologic    O’Kelly, G.D., Eldridge J.S., Schonfeld E. and Bell P.R.
+--- mineralogy block 2; lines 9-21 ---
+(1976) Lithification of vitric- and clastic-matrix breccias:   McKay D.S., Morrison D.A., Clayton U.S., Ladle G.H. and
+                                       SEM petrography. Proc. 7th Lunar Sci. Conf. 2469-2493.    Lindsay J.F. (1971) Apollo 12 soils and breccias. Proc. 2nd
+    Lunar Sci. Conf. 755-773.
+                                                                     Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+                                                        (1971) Erosion and mixing of the lunar surface from   Meyer C., Brett R., Hubbard N.J., Morrison D.A., McKay
+                                                       cosmogenic and primordial radionuclide measurements in    D.S., Aitken F.K, Taketda H. and Schonfeld E. (1971)
+                                                         Apollo 12 samples. Proc. 2nd Lunar Sci. Conf. 1757-1772.    Mineralogy, chemistry and origin of the KREEP component
+     in soil samples from the Ocean of Storms. Proc. 2nd Lunar
+                                                    Reed G.W. and Jovanovic S. (1971) The halogen and other     Sci. Conf. 393-411.
+                                                                    trace elements in Apollo 12 samples. Proc. 2nd Lunar Sci.
+                                                           Conf. 1261-1276.    O’Kelly, G.D., Eldridge J.S., Schonfeld E. and Bell P.R.
+    (1971) Abundances of the primordial radionuclides K, Th
+                                                     Schoemaker E.M., Batson R.M., Bean A.L., Conrad C.,    and U in Apollo 12 samples.  Proc. 2nd Lunar Sci. Conf.
+--- material block 3; lines 3-22 ---
+exposure ages of lunar samples from Apollo 12 samples.   McGee P.E., Simonds C.H., Warner J.L. and Phinney W.C.
+                                                               Proc. 2nd Lunar Sci. Conf. 1747-1755.    (1979) Introduction to the Apollo Collections: Part II Lunar
+    Breccias. JSC Curator’s Office
+                                                        Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+                                                           (1976) Lithification of vitric- and clastic-matrix breccias:   McKay D.S., Morrison D.A., Clayton U.S., Ladle G.H. and
+                                       SEM petrography. Proc. 7th Lunar Sci. Conf. 2469-2493.    Lindsay J.F. (1971) Apollo 12 soils and breccias. Proc. 2nd
+    Lunar Sci. Conf. 755-773.
+                                                                     Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+                                                        (1971) Erosion and mixing of the lunar surface from   Meyer C., Brett R., Hubbard N.J., Morrison D.A., McKay
+                                                       cosmogenic and primordial radionuclide measurements in    D.S., Aitken F.K, Taketda H. and Schonfeld E. (1971)
+                                                         Apollo 12 samples. Proc. 2nd Lunar Sci. Conf. 1757-1772.    Mineralogy, chemistry and origin of the KREEP component
+     in soil samples from the Ocean of Storms. Proc. 2nd Lunar
+                                                    Reed G.W. and Jovanovic S. (1971) The halogen and other     Sci. Conf. 393-411.
+                                                                    trace elements in Apollo 12 samples. Proc. 2nd Lunar Sci.
+                                                           Conf. 1261-1276.    O’Kelly, G.D., Eldridge J.S., Schonfeld E. and Bell P.R.
+    (1971) Abundances of the primordial radionuclides K, Th
+                                                     Schoemaker E.M., Batson R.M., Bean A.L., Conrad C.,    and U in Apollo 12 samples.  Proc. 2nd Lunar Sci. Conf.
+                                                 Dahlem D.H., Goddard E.N., Hait M.H., Larson K.B.,    1159-1168.
+
+=== PDF PAGE 11; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 14-26 ---
+Wakita H. and Schmitt R.A. (1971)  Bulk elemental
+   composition of Apollo 12 samples: Five igneous and one
+    breccia rocks and four soils. Proc. 2nd Lunar Sci. Conf. 1231-
+   1236.
+
+   Wakita H., Rey P. and Schmitt R.A. (1971) Abundances of
+    the 14 rare-earth elements and 12 other trace elements in
+   Apollo 12 samples. Proc. 2nd Lunar Sci. Conf. 1319-1329.
+
+   Waters A.C., Fisher R.V., Garrison R.E. and Wax D. (1971)
+   Matrix characteristics and origin of lunar breccia samples
+   12034 and 12073. Proc. 2nd Lunar Sci. Conf. 893-907.
+--- material block 2; lines 1-30 ---
+Figure 13: Sawn surface of 12034,80 (butt end). NASA S75-34244.
+
+
+
+
+   Simon S.B., Papike J.J. and Gosselin D.C. (1985) Petrology  Wiesmann H. and Hubbard N.J. (1975) A compilation of
+   and chemistry of Apollo 12 regolith breccias.  Proc. 16th   the Lunar Sample data generated by the Gast, Nyquist and
+   Lunar Planet. Sci. Conf. D75-86.                       Hubbard PI-ships. JSC unpublished
+
+   Tatsumoto M., Knight R.J. and Doe B.R. (1971) U-Th-Pb
+    systematics of Apollo 12 lunar samples.  Proc. 2nd Lunar
+    Sci. Conf. 1521-1546.
+
+   Wakita H. and Schmitt R.A. (1971)  Bulk elemental
+   composition of Apollo 12 samples: Five igneous and one
+    breccia rocks and four soils. Proc. 2nd Lunar Sci. Conf. 1231-
+   1236.
+
+   Wakita H., Rey P. and Schmitt R.A. (1971) Abundances of
+    the 14 rare-earth elements and 12 other trace elements in
+   Apollo 12 samples. Proc. 2nd Lunar Sci. Conf. 1319-1329.
+
+   Waters A.C., Fisher R.V., Garrison R.E. and Wax D. (1971)
+   Matrix characteristics and origin of lunar breccia samples
+   12034 and 12073. Proc. 2nd Lunar Sci. Conf. 893-907.
+
+
+
+Lunar Sample Compendium
+C Meyer 2007

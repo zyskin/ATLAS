@@ -1,0 +1,197 @@
+DOCUMENT_ID: 76136__compendium__3b95398f53
+ATLAS_SAMPLE_IDS: 76136
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/76136.pdf
+SOURCE_PDF_SHA256: 4731852f3dc79f057493075fd406edefe4d44a784f666f2e641e1cce6ad87a3d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 11-23 ---
+Introduction                                 Usselman et al. (1975) experimentally reproduced
+   76136 is a rare example of a mare basalt that has been   textures and mineral chemistries of high-titanium mare
+   transported across the mare-highland boundary at the   basalts.
+   base of the North Massif, Apollo 17.  Its surface is
+   rounded by micrometeorite bombardment (figure 1).  Chemistry
+     It is an ilmenite basalt with olivine phenocrysts.      The chemical composition of 76136 was determined
+                                                by Rhodes et al. (1976). It is a type A, Apollo 17 basalt
+   Petrography                                           (figures 4 and 5).
+   Brown et al. (1975) give the modal mineralogy of
+   76136 and other Apollo 17 basalts. Elongate ilmenite  Radiogenic age dating
+   and equant olivine are set in a holocrystalline intersertal  Nyquist et al. (1976) determined Rb, Sr and Sr87/86, but
+   matrix (figure 2). Olivine is surrounded by pyroxene.   did not determine an age.
+--- mineralogy block 2; lines 1-8 ---
+76136
+                                     Ilmenite Basalt
+                                            86.6 grams
+--- mineralogy block 3; lines 11-29 ---
+Introduction                                 Usselman et al. (1975) experimentally reproduced
+   76136 is a rare example of a mare basalt that has been   textures and mineral chemistries of high-titanium mare
+   transported across the mare-highland boundary at the   basalts.
+   base of the North Massif, Apollo 17.  Its surface is
+   rounded by micrometeorite bombardment (figure 1).  Chemistry
+     It is an ilmenite basalt with olivine phenocrysts.      The chemical composition of 76136 was determined
+                                                by Rhodes et al. (1976). It is a type A, Apollo 17 basalt
+   Petrography                                           (figures 4 and 5).
+   Brown et al. (1975) give the modal mineralogy of
+   76136 and other Apollo 17 basalts. Elongate ilmenite  Radiogenic age dating
+   and equant olivine are set in a holocrystalline intersertal  Nyquist et al. (1976) determined Rb, Sr and Sr87/86, but
+   matrix (figure 2). Olivine is surrounded by pyroxene.   did not determine an age.
+   Pyroxene chemistry has not been studied.
+                                                 Processing
+                                                   There are 7 thin sections.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 4; lines 1-29 ---
+76136
+                                     Ilmenite Basalt
+                                            86.6 grams
+
+
+
+
+
+                       Figure 1: Photos of 76135. Cube is 1 cm. S73-23923 and 934.
+
+
+   Introduction                                 Usselman et al. (1975) experimentally reproduced
+   76136 is a rare example of a mare basalt that has been   textures and mineral chemistries of high-titanium mare
+   transported across the mare-highland boundary at the   basalts.
+   base of the North Massif, Apollo 17.  Its surface is
+   rounded by micrometeorite bombardment (figure 1).  Chemistry
+     It is an ilmenite basalt with olivine phenocrysts.      The chemical composition of 76136 was determined
+                                                by Rhodes et al. (1976). It is a type A, Apollo 17 basalt
+   Petrography                                           (figures 4 and 5).
+   Brown et al. (1975) give the modal mineralogy of
+   76136 and other Apollo 17 basalts. Elongate ilmenite  Radiogenic age dating
+   and equant olivine are set in a holocrystalline intersertal  Nyquist et al. (1976) determined Rb, Sr and Sr87/86, but
+   matrix (figure 2). Olivine is surrounded by pyroxene.   did not determine an age.
+   Pyroxene chemistry has not been studied.
+                                                 Processing
+                                                   There are 7 thin sections.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 5; lines 15-29 ---
+base of the North Massif, Apollo 17.  Its surface is
+   rounded by micrometeorite bombardment (figure 1).  Chemistry
+     It is an ilmenite basalt with olivine phenocrysts.      The chemical composition of 76136 was determined
+                                                by Rhodes et al. (1976). It is a type A, Apollo 17 basalt
+   Petrography                                           (figures 4 and 5).
+   Brown et al. (1975) give the modal mineralogy of
+   76136 and other Apollo 17 basalts. Elongate ilmenite  Radiogenic age dating
+   and equant olivine are set in a holocrystalline intersertal  Nyquist et al. (1976) determined Rb, Sr and Sr87/86, but
+   matrix (figure 2). Olivine is surrounded by pyroxene.   did not determine an age.
+   Pyroxene chemistry has not been studied.
+                                                 Processing
+                                                   There are 7 thin sections.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-26 ---
+Table 1. Chemical composition of 76136.                     Lunar Basalts
+                                                                                                14
+
+    reference  Rhodes76                                                                 12              76136    A17
+    weight
+                                                                                                      A11
+    SiO2 %    38.6       (a)                                                             10
+    TiO2      12.64      (a)
+    Al2O3     8.65       (a)                                                                8
+   FeO      19.12      (a)                           TiO2
+   MnO      0.28       (a)                                                                6
+   MgO      8.61       (a)
+   CaO      10.53      (a)                                                                4
+                                                                                                                     A12
+   Na2O     0.38       (a)
+                                                                                                     2                        A15   K2O      0.06       (a)
+   P2O5     0.06       (a)
+   S %       0.18       (a)                                                                0 0                5                10                15               20
+   sum
+                                              MgO
+    Sc ppm   82         (c )
+   V                                                               Figure 3: Composition of lunar basalts.
+    Cr       3010      (a)
+   Co        18.7       (c )                                                           300
+    Ni                                                                             Apollo 17 basalts   Cu
+                                                                                               250
+--- material block 2; lines 62-74 ---
+Yb        10.2       (b)
+    Lu        1.42       (c )
+    Hf         9.4        (b)
+    Ta                                                           Figure 5: Normalized rare-earth-element diagram
+  W ppb
+                                                                           for 76136 compared with A and B types of Apollo 17   Re ppb
+   Os ppb                                                                basalt.
+       Ir ppb
+    Pt ppb
+   Au ppb
+    Th ppm
+   U ppm
+     technique:  (a) XRF, (b) IDMS, (c ) INAA
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 76136.                     Lunar Basalts
+                                                                                                14
+
+    reference  Rhodes76                                                                 12              76136    A17
+    weight
+                                                                                                      A11
+    SiO2 %    38.6       (a)                                                             10
+    TiO2      12.64      (a)
+    Al2O3     8.65       (a)                                                                8
+   FeO      19.12      (a)                           TiO2
+--- references block 4; lines 68-77 ---
+Os ppb                                                                basalt.
+       Ir ppb
+    Pt ppb
+   Au ppb
+    Th ppm
+   U ppm
+     technique:  (a) XRF, (b) IDMS, (c ) INAA
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 10-22 ---
+,30   ,33
+                                      TS  TS
+
+
+   References for 76136                               Usselman T.M., Lofgren G.E., Donaldson C.H. and Williams
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and   R.J. (1975) Experimentally reproduced textures and mineral
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   chemistries of high-titanium mare basalts. Proc. 6th Lunar
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.             Sci. Conf. 997-1020.
+
+    Butler P. (1973) Lunar Sample Information Catalog   Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211   Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    Curator’s Catalog. pp. 447.                                geologic investigation of the Taurus-Littrow Valley: Apollo
+                                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- material block 2; lines 38-50 ---
+Muehlberger W.R. and many others (1973)  Preliminary
+    Geological Investigation of the Apollo 17 Landing Site. In
+   Apollo 17 Preliminary Science Report. NASA SP-330.
+
+   Nyquist L.E., Bansal B.M. and Wiesmann H. (1975a) Rb-
+    Sr ages and initial 87Sr/86Sr for Apollo 17 basalts and KREEP
+    basalt 15386. Proc. 6th Lunar Sci. Conf. 1445-1465.
+
+   Rhodes J.M., Hubbard N.J., Wiesmann H., Rodgers K.V.,
+   Brannon J.C. and Bansal B.M. (1976a) Chemistry,
+    classification, and petrogenesis of Apollo 17 mare basalts.
+    Proc. 7th Lunar Sci. Conf. 1467-1489.
+--- references block 3; lines 8-20 ---
+,7     ,28   ,31
+                                  TS    ,29   ,32
+                                                      ,30   ,33
+                                      TS  TS
+
+
+   References for 76136                               Usselman T.M., Lofgren G.E., Donaldson C.H. and Williams
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and   R.J. (1975) Experimentally reproduced textures and mineral
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   chemistries of high-titanium mare basalts. Proc. 6th Lunar
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.             Sci. Conf. 997-1020.
+
+    Butler P. (1973) Lunar Sample Information Catalog   Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211   Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The

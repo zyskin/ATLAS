@@ -1,0 +1,140 @@
+DOCUMENT_ID: 63548__compendium__96006d951c
+ATLAS_SAMPLE_IDS: 63539,63548,63586
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63548.pdf
+SOURCE_PDF_SHA256: b6f49f22ee20b0d4d9139cdd236531d0223d321298a1a54cfaee24fc4c56238c
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 13-25 ---
+Figure 3: Photo of 63586       Figure 1: Photo of 63548.
+                                                                                      with mm scale. S80-37439    Mm scale. S80-37443
+
+   Introduction
+                                            Chemistry
+   63548, and its cousins 63539 and 63586, were collected
+                                                                 Stoffler et al. (1985) reported the chemical composition
+   as rake samples from station 13, near North Ray Crater.
+                                                               (table 1), which is highly aluminous.
+   They are fragments of fine-grained, coherent impact
+    melt.
+                                                 Processing
+                                                   There are 2 thin sections of each sample.   Petrography
+--- mineralogy block 2; lines 22-34 ---
+They are fragments of fine-grained, coherent impact
+    melt.
+                                                 Processing
+                                                   There are 2 thin sections of each sample.   Petrography
+   Phinney and Lofgren (1973) and Ryder and Norman
+   (1980) briefly described the samples. They have
+   abundant, rounded clasts of anorthite set in an aphanitic
+   matrix (figures 4 and 5).
+
+
+          63548              63539            63586
+            1.1 grams             0.4 grams         2 grams
+--- material block 3; lines 1-10 ---
+63548 – 1.1 grams
+                          63539 – 0.4 grams
+                          63586 – 2 grams
+                               Impact Melt Breccia
+
+
+
+
+
+                                           Figure 2: Photo of 63539.
+--- material block 4; lines 14-35 ---
+with mm scale. S80-37439    Mm scale. S80-37443
+
+   Introduction
+                                            Chemistry
+   63548, and its cousins 63539 and 63586, were collected
+                                                                 Stoffler et al. (1985) reported the chemical composition
+   as rake samples from station 13, near North Ray Crater.
+                                                               (table 1), which is highly aluminous.
+   They are fragments of fine-grained, coherent impact
+    melt.
+                                                 Processing
+                                                   There are 2 thin sections of each sample.   Petrography
+   Phinney and Lofgren (1973) and Ryder and Norman
+   (1980) briefly described the samples. They have
+   abundant, rounded clasts of anorthite set in an aphanitic
+   matrix (figures 4 and 5).
+
+
+          63548              63539            63586
+            1.1 grams             0.4 grams         2 grams
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 9-33 ---
+LSPET (1973b) The Apollo 16 lunar samples: Petrographic                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.
+   and chemical description. Science 179, 23-34.                                                               In Geology of the Apollo 16 area, central lunar highlands.
+                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   LSPET (1972c) Preliminary examination of lunar samples.
+    In Apollo 16 Preliminary Science Report. NASA SP-315,
+   7-1—7-58.
+                                                   Table 1. Chemical composition of 63548
+   Phinney W. and Lofgren G. (1973) Description, classification                 63548  63539   63586
+   and inventory of Apollo 16 rake samples from stations 1, 4         reference   Stoffler85
+                                                                        weight
+   and 13. Curators Office.                                                               SiO2 %    43.3    44.5     43.8     (a)
+                                                                  TiO2       0.43    0.33     0.42     (a)
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16       Al2O3     31.6    31.7     32.2     (a)
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904          FeO       3.5      2.8      3.2      (a)
+                                                 MnO       0.02    0.04     0.05     (a)
+                                                 MgO       3.2     2.47     2.8      (a)
+    Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley      CaO       17.2    17.5     16.9     (a)
+     J. and Rehfeldt A. (1981) Distribution and provenance of      Na2O      0.55    0.52     0.54     (a)
+    lunar highland rock types at North Ray Crater, Apollo 16.      K2O       0.04    0.04     0.04     (a)
+                                                       P2O5      0.05    0.06     0.03     (a)
+    Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+    Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+--- material block 2; lines 11-33 ---
+(Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   LSPET (1972c) Preliminary examination of lunar samples.
+    In Apollo 16 Preliminary Science Report. NASA SP-315,
+   7-1—7-58.
+                                                   Table 1. Chemical composition of 63548
+   Phinney W. and Lofgren G. (1973) Description, classification                 63548  63539   63586
+   and inventory of Apollo 16 rake samples from stations 1, 4         reference   Stoffler85
+                                                                        weight
+   and 13. Curators Office.                                                               SiO2 %    43.3    44.5     43.8     (a)
+                                                                  TiO2       0.43    0.33     0.42     (a)
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16       Al2O3     31.6    31.7     32.2     (a)
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904          FeO       3.5      2.8      3.2      (a)
+                                                 MnO       0.02    0.04     0.05     (a)
+                                                 MgO       3.2     2.47     2.8      (a)
+    Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley      CaO       17.2    17.5     16.9     (a)
+     J. and Rehfeldt A. (1981) Distribution and provenance of      Na2O      0.55    0.52     0.54     (a)
+    lunar highland rock types at North Ray Crater, Apollo 16.      K2O       0.04    0.04     0.04     (a)
+                                                       P2O5      0.05    0.06     0.03     (a)
+    Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+    Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+--- references block 3; lines 1-23 ---
+Figure 5: Photomicrograph of thin section 63539,7.         Figure 4: Photomicrograph of thin section 63548,6.
+                                                              Width 2 mm. From Ryder and Norman 1980.         Width 2 mm. From Ryder and Norman 1980.
+
+   References for 63548, 539 and 586                                                Reimold W.U., Wacker K. and Wanke H. (1985)
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo                                                         Composition and evolution of the lunar crust in the Descartes
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                                                                 highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+    Catalog. pp. 370.                                                            Res. 90, C449-C506.
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.
+   and chemical description. Science 179, 23-34.                                                               In Geology of the Apollo 16 area, central lunar highlands.
+                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   LSPET (1972c) Preliminary examination of lunar samples.
+    In Apollo 16 Preliminary Science Report. NASA SP-315,
+   7-1—7-58.
+                                                   Table 1. Chemical composition of 63548
+   Phinney W. and Lofgren G. (1973) Description, classification                 63548  63539   63586
+   and inventory of Apollo 16 rake samples from stations 1, 4         reference   Stoffler85
+                                                                        weight
+   and 13. Curators Office.                                                               SiO2 %    43.3    44.5     43.8     (a)
+                                                                  TiO2       0.43    0.33     0.42     (a)
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16       Al2O3     31.6    31.7     32.2     (a)
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904          FeO       3.5      2.8      3.2      (a)
+                                                 MnO       0.02    0.04     0.05     (a)

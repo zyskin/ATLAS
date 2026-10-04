@@ -1,0 +1,380 @@
+DOCUMENT_ID: 15595__compendium__07bf9505f1
+ATLAS_SAMPLE_IDS: 15595,15596
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15595.pdf
+SOURCE_PDF_SHA256: 9414c2318bfc5c32b9d8ca0c262286c3961fd93fd9d58302a21ec14b4cc6d74b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 16-27 ---
+NASA S71-47070.  Sample is 7 cm across.
+
+
+  Introduction                                         side of the Rille (figure 2). The lunar regolith was thin
+  Lunar samples 15595 and 15596 were chipped from a   in this area, with abundant rock samples (basalts)
+  small boulder near the edge of Hadley Rille in an area  exposed (Swann et al. 1971). However, both pigeonite
+  called The Terrace (see transcript in 15597). The   basalt and olivine-normative basalts were found in this
+  boulder is thought to be “bedrock” in this region   location.
+  (equivalent to the outcrops seen in telephoto of the other
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 2; lines 1-8 ---
+15595 and 15596
+                    Vuggy Vitrophyric Pigeonite Basalt
+                                     237.6 and 224.8 grams
+--- material block 3; lines 13-27 ---
+Figure 2:  Photo of 15596 showing surface that was exposed to micrometeorites.
+              NASA S71-47070.  Sample is 7 cm across.
+
+
+  Introduction                                         side of the Rille (figure 2). The lunar regolith was thin
+  Lunar samples 15595 and 15596 were chipped from a   in this area, with abundant rock samples (basalts)
+  small boulder near the edge of Hadley Rille in an area  exposed (Swann et al. 1971). However, both pigeonite
+  called The Terrace (see transcript in 15597). The   basalt and olivine-normative basalts were found in this
+  boulder is thought to be “bedrock” in this region   location.
+  (equivalent to the outcrops seen in telephoto of the other
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 6-24 ---
+Figure 3: Boulder sampled with 15595 and 15596 (location indicated).  AS15-82-11143.
+
+  Petrography
+                                            Brown et al. (1972) described the groundmass as made  Ryder (1985) describe both 15595 and 15596 as a “fine-
+                                               up of “clinopyroxene, plagioclase and opaques, with   grained, porphyritic mare basalt with conspicuously
+                                                 occasional  rare zoned olivine and Cr-spinel   irregularly distributed vugs (figures 1 and 2). Pigeonite
+                                                      microphenocrysts.”   phenocrysts are set in as spherulitic, almost vitrophyric
+  groundmass.  - - - The sample is olive gray to olive
+                                              The larger pyroxene phenocrysts have homogeneous   black, angular, and tough. The broken surface is hackly,
+                                                         pigeonite cores, with a sharp transition to sub-calcic   the other are smoothed to irregular and have zap pits
+                                                          augite rims. The fine groundmass pyroxene are zoned   (micrometeorite craters)”. Vugs make up 15 to 30 %
+                                                             to Fe-rich pyroxferroite (Brown et al. 1973).   of volume.
+
+                                                   Lofgren et al. (1975, 1976) and Grove and Walker  15596 has the same texture but with somewhat larger
+                                                     (1977) have studied the cooling history of vitrophyric   pyroxenes, and a groundmass that is more crystalline.
+                                                         pigeonite basalts.
+--- material block 2; lines 6-18 ---
+Figure 3: Boulder sampled with 15595 and 15596 (location indicated).  AS15-82-11143.
+
+  Petrography
+                                            Brown et al. (1972) described the groundmass as made  Ryder (1985) describe both 15595 and 15596 as a “fine-
+                                               up of “clinopyroxene, plagioclase and opaques, with   grained, porphyritic mare basalt with conspicuously
+                                                 occasional  rare zoned olivine and Cr-spinel   irregularly distributed vugs (figures 1 and 2). Pigeonite
+                                                      microphenocrysts.”   phenocrysts are set in as spherulitic, almost vitrophyric
+  groundmass.  - - - The sample is olive gray to olive
+                                              The larger pyroxene phenocrysts have homogeneous   black, angular, and tough. The broken surface is hackly,
+                                                         pigeonite cores, with a sharp transition to sub-calcic   the other are smoothed to irregular and have zap pits
+                                                          augite rims. The fine groundmass pyroxene are zoned   (micrometeorite craters)”. Vugs make up 15 to 30 %
+
+=== PDF PAGE 3; CATEGORIES: material ===
+--- material block 1; lines 1-7 ---
+Figure 4: Telephoto of opposite side of Hadley Rille showing thining of regolith and layered outcrop of basalt,
+      possibly similar to sample collection side of 15595. NASA AS15-89-12045
+
+=== PDF PAGE 4; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 6-30 ---
+A11
+                                                                                                   10
+
+
+                                                                                                    8
+                                            TiO2
+                                                                                                    6
+
+
+                                                                                                    4
+                                                                                                                    A12
+                                                                                                    2                        A15
+                                                                                               15595
+                                                                                                    0
+                                                                                                      0                5                10               15               20
+                                              MgO
+
+                                                              Figure 7: Chemical composition of 15595 compared
+                                                                 with that of other lunar basalts.
+--- mineralogy block 2; lines 41-58 ---
+Cosmogenic isotopes and exposure ages
+  Behrmann et al. (1972) and Pepin et al. (1974)                                              Gose et al. (1972) and Pearce et al. (1973) measured
+  determined a cosmic ray exposure age of 110 m.y. by                                                          the magnetic properties of 15595 and 15596, finding
+   81Kr method.                                                             that the direction of remanent magnetizations was
+                                                              different for the two sample (of the same boulder?).
+
+                Mineralogical Mode of 15595
+                                Sample Catalog  Papike et       Grove and
+                                     Butler 1971        al. 1976         Walker 1977     15596
+                     Olivine           3-5 %
+                   Pyroxene         60-65             48.1            52              41
+                     Plagioclase       35
+                 Opaque          1                  0.3                                   0.2
+                       Silica
+                  Groundmass                        51.6            48              59
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 3; lines 28-46 ---
+Figure 6: Photomicrographs of 15595,33 by C
+       Meyer @30x (bottom is with crossed polarizers).           Figure 8: Normalized rare-earth-element digram for
+                                                        15595 (data by Fruchter et al. 1973) compared with
+                                                        15601 soil.
+  Chemistry
+   Fruchter et al. (1973) and Chappell and Green (1973)                                           Other Studies
+  analyzed 15595 (figures 7 and 8).  Rhodes and                                             Behrmann et al. (1972), Pepin et al. (1974) and Drozd
+  Blanchard (1983) reported that they had analyzed                                                                  et al. (1974) measured the isotopic ratios of all of the
+  15596, but gave no data.                                                             rare gas elements and studied the spallation reactions
+                                                         of the rock with solar and galactic cosmic rays.
+  Cosmogenic isotopes and exposure ages
+  Behrmann et al. (1972) and Pepin et al. (1974)                                              Gose et al. (1972) and Pearce et al. (1973) measured
+  determined a cosmic ray exposure age of 110 m.y. by                                                          the magnetic properties of 15595 and 15596, finding
+   81Kr method.                                                             that the direction of remanent magnetizations was
+                                                              different for the two sample (of the same boulder?).
+--- age block 4; lines 37-49 ---
+analyzed 15595 (figures 7 and 8).  Rhodes and                                             Behrmann et al. (1972), Pepin et al. (1974) and Drozd
+  Blanchard (1983) reported that they had analyzed                                                                  et al. (1974) measured the isotopic ratios of all of the
+  15596, but gave no data.                                                             rare gas elements and studied the spallation reactions
+                                                         of the rock with solar and galactic cosmic rays.
+  Cosmogenic isotopes and exposure ages
+  Behrmann et al. (1972) and Pepin et al. (1974)                                              Gose et al. (1972) and Pearce et al. (1973) measured
+  determined a cosmic ray exposure age of 110 m.y. by                                                          the magnetic properties of 15595 and 15596, finding
+   81Kr method.                                                             that the direction of remanent magnetizations was
+                                                              different for the two sample (of the same boulder?).
+
+                Mineralogical Mode of 15595
+                                Sample Catalog  Papike et       Grove and
+                                     Butler 1971        al. 1976         Walker 1977     15596
+--- treatment block 5; lines 37-49 ---
+analyzed 15595 (figures 7 and 8).  Rhodes and                                             Behrmann et al. (1972), Pepin et al. (1974) and Drozd
+  Blanchard (1983) reported that they had analyzed                                                                  et al. (1974) measured the isotopic ratios of all of the
+  15596, but gave no data.                                                             rare gas elements and studied the spallation reactions
+                                                         of the rock with solar and galactic cosmic rays.
+  Cosmogenic isotopes and exposure ages
+  Behrmann et al. (1972) and Pepin et al. (1974)                                              Gose et al. (1972) and Pearce et al. (1973) measured
+  determined a cosmic ray exposure age of 110 m.y. by                                                          the magnetic properties of 15595 and 15596, finding
+   81Kr method.                                                             that the direction of remanent magnetizations was
+                                                              different for the two sample (of the same boulder?).
+
+                Mineralogical Mode of 15595
+                                Sample Catalog  Papike et       Grove and
+                                     Butler 1971        al. 1976         Walker 1977     15596
+--- references block 6; lines 38-50 ---
+Blanchard (1983) reported that they had analyzed                                                                  et al. (1974) measured the isotopic ratios of all of the
+  15596, but gave no data.                                                             rare gas elements and studied the spallation reactions
+                                                         of the rock with solar and galactic cosmic rays.
+  Cosmogenic isotopes and exposure ages
+  Behrmann et al. (1972) and Pepin et al. (1974)                                              Gose et al. (1972) and Pearce et al. (1973) measured
+  determined a cosmic ray exposure age of 110 m.y. by                                                          the magnetic properties of 15595 and 15596, finding
+   81Kr method.                                                             that the direction of remanent magnetizations was
+                                                              different for the two sample (of the same boulder?).
+
+                Mineralogical Mode of 15595
+                                Sample Catalog  Papike et       Grove and
+                                     Butler 1971        al. 1976         Walker 1977     15596
+                     Olivine           3-5 %
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 15595.
+
+
+  reference  Chappell73  Fruchter73
+  weight
+  SiO2 %    48.07    (a)
+  TiO2      1.77      (a) 1.68     (b)
+  Al2O3     9.06      (a) 9.07     (b)
+  FeO       20.23    (a) 18.91   (b)
+  MnO       0.3       (a)
+  MgO      9.21      (a)
+  CaO      10.52    (a)
+  Na2O     0.35      (a) 0.286   (b)
+  K2O       0.05      (a)
+  P2O5      0.07      (a)
+  S %       0.05      (a)
+                                                                                            15387
+  sum
+                                                            picritic                                              C Meyer  Sc ppm              45       (b)
+                                                basalt                                                            2010  V
+--- chemistry block 2; lines 25-51 ---
+Zn                                                                                   15672
+                                            12         15622
+  Ga        2.8       (a)                                                                     15555        15623
+                                                              15630                                                                      15016  15536                         pigeonite basalt  Ge ppb
+                                                               15636                                                                                  15535                     (quartz normative)  As                                       11                                                                     15547
+  Se                                                          15641   15633 15545 1562015605 15663            15651
+                                                                                15546 15607   15665                 15065  Rb        0.72      (a)      MgO                  15683  15379
+  Sr        103.8    (a)                     10               15647
+                                                                                     15598                                                                          15676                                                                                                            15485  Y           26                          (a)                                                                                                            15595                                                                                                                   15058                                                                                   15256                                                                          15557                                                                                         15105                                                                                                                              15499  Zr           94                                                                                                                  15076                          (a)                                             15675                                                                                    15674
+  Nb            8         (a)                    9
+                                                                            15119  15529   15678  15668   15666   1547515597      15495  Mo
+                                                                                                            15596  Ru                                                          15388                15556              15085        15117                                          8
+  Rh
+  Pd ppb                                                                                                                 15682
+  Ag ppb                                  7                                                               15118
+  Cd ppb
+   In ppb
+  Sn ppb
+  Sb ppb
+  Te ppb                              43       44       45      46       47      48        49
+  Cs ppm                                           SiO2
+  Ba
+  La                      5.4      (b)
+  Ce
+  Pr
+  Nd
+ Sm                     3.9      (b)
+--- mineralogy block 3; lines 16-28 ---
+S %       0.05      (a)
+                                                                                            15387
+  sum
+                                                            picritic                                              C Meyer  Sc ppm              45       (b)
+                                                basalt                                                            2010  V
+  Cr        3558     (a) 3450    (b)
+                                                                       olivine-normative  Co                  42       (b)                        15385       15659
+  Ni                                        13                           basalt
+  Cu                                                                     15643
+  Zn                                                                                   15672
+                                            12         15622
+  Ga        2.8       (a)                                                                     15555        15623
+                                                              15630                                                                      15016  15536                         pigeonite basalt  Ge ppb
+--- material block 4; lines 14-34 ---
+K2O       0.05      (a)
+  P2O5      0.07      (a)
+  S %       0.05      (a)
+                                                                                            15387
+  sum
+                                                            picritic                                              C Meyer  Sc ppm              45       (b)
+                                                basalt                                                            2010  V
+  Cr        3558     (a) 3450    (b)
+                                                                       olivine-normative  Co                  42       (b)                        15385       15659
+  Ni                                        13                           basalt
+  Cu                                                                     15643
+  Zn                                                                                   15672
+                                            12         15622
+  Ga        2.8       (a)                                                                     15555        15623
+                                                              15630                                                                      15016  15536                         pigeonite basalt  Ge ppb
+                                                               15636                                                                                  15535                     (quartz normative)  As                                       11                                                                     15547
+  Se                                                          15641   15633 15545 1562015605 15663            15651
+                                                                                15546 15607   15665                 15065  Rb        0.72      (a)      MgO                  15683  15379
+  Sr        103.8    (a)                     10               15647
+                                                                                     15598                                                                          15676                                                                                                            15485  Y           26                          (a)                                                                                                            15595                                                                                                                   15058                                                                                   15256                                                                          15557                                                                                         15105                                                                                                                              15499  Zr           94                                                                                                                  15076                          (a)                                             15675                                                                                    15674
+  Nb            8         (a)                    9
+--- references block 5; lines 1-10 ---
+Table 1. Chemical composition of 15595.
+
+
+  reference  Chappell73  Fruchter73
+  weight
+  SiO2 %    48.07    (a)
+  TiO2      1.77      (a) 1.68     (b)
+  Al2O3     9.06      (a) 9.07     (b)
+  FeO       20.23    (a) 18.91   (b)
+  MnO       0.3       (a)
+--- references block 6; lines 65-74 ---
+Os ppb
+    Ir ppb
+  Pt ppb
+  Au ppb
+  Th ppm
+  U ppm
+  technique:  (a) XRF, (b) INAA
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 6; CATEGORIES: age,references ===
+--- age block 1; lines 35-47 ---
+,39
+                                                                           TS
+
+                                                   References for 15595 and 15596.
+                                                        Arvidson R., Crozaz G., Drozd R.J., Hohenberg C.M. and
+                                                  Morgan C.J. (1975) Cosmic ray exposure ages
+                                                               of features and events at the Apollo landing sites. The Moon
+                                                              13, 259-276.
+
+                                                   Behrmann C., Crozaz G., Drozd R., Hohenberg C.M., Ralston
+                                                                   C., Walker R.M. and Yuhas D. (1972) Rare gas and particle
+                                                                 track studies of Apollo 15 samples: Hadley Rille and special
+--- references block 2; lines 4-16 ---
+1 cm
+
+          Figure 9: Group photo of pieces cut from slab cut from 15595. NASA S71-60629.
+
+
+   Sato et al. (1973) measured the oxygen fugacity as a
+   function of temperature by an insitu technique.
+
+  Processing
+  A slab was cut through the middle of 15595 (figure 9)
+  and cut into columns. 15596 remains essentially intact.
+  There are 10 thin sections for 15595 and 5 for 15596.
+--- references block 3; lines 33-45 ---
+,39
+                                                                           TS
+
+                                                   References for 15595 and 15596.
+                                                        Arvidson R., Crozaz G., Drozd R.J., Hohenberg C.M. and
+                                                  Morgan C.J. (1975) Cosmic ray exposure ages
+                                                               of features and events at the Apollo landing sites. The Moon
+                                                              13, 259-276.
+
+                                                   Behrmann C., Crozaz G., Drozd R., Hohenberg C.M., Ralston
+
+=== PDF PAGE 7; CATEGORIES: age,chemistry,treatment ===
+--- chemistry block 1; lines 26-38 ---
+Drozd R.J., Hohenberg C.M., Morgan C.J. and Ralston C.E.   Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+  (1974) Cosmic-ray exposure history at the Apollo 16 and   Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+  other lunar sites: lunar surface dynamics.  Geochim.    4th Lunar Sci. Conf. 3045-3076.
+  Cosmochim. Acta 38, 1625-1642.
+                                                         Pepin R.O., Basford J.R., Dragon J.C., Johnson N.L., Coscio
+  Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1972)  M.R. and Murthy V.R. (1974) Rare gases and trace elements
+  Concentrations of cosmogenic radionuclides in Apollo 15   in Apollo 15 drill fines: Depositional chronologies and K-
+  rocks and soils.  In The Apollo 15 Lunar Samples, 357-  Ar ages and production rates of spallation-porduced 3He,
+  359.                                                     22Ne and 38Ar vrs depth. Proc. 5th Lunar Sci. Conf. 2149-
+                                                        2184.
+  Fruchter J.S., Stoeser J.W., Lindstrom M.M. and Goles G.G.
+  (1973) Apollo 15 clastic materials and their relationship to  Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+--- age block 2; lines 22-34 ---
+Compston W., de Laeter J.R. and Vernon M.J. (1972)   Papanastassiou D.A. and Wasserburg G.J. (1973) Rb-Sr ages
+  Strontium isotope geochemistry of Apollo 15 basalts.  In   and initial strontium in basalts from Apollo 15. Earth Planet.
+  The Apollo 15 Lunar Samples, 347-351.                     Sci. Lett. 17, 324-337.
+
+  Drozd R.J., Hohenberg C.M., Morgan C.J. and Ralston C.E.   Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+  (1974) Cosmic-ray exposure history at the Apollo 16 and   Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+  other lunar sites: lunar surface dynamics.  Geochim.    4th Lunar Sci. Conf. 3045-3076.
+  Cosmochim. Acta 38, 1625-1642.
+                                                         Pepin R.O., Basford J.R., Dragon J.C., Johnson N.L., Coscio
+  Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1972)  M.R. and Murthy V.R. (1974) Rare gases and trace elements
+  Concentrations of cosmogenic radionuclides in Apollo 15   in Apollo 15 drill fines: Depositional chronologies and K-
+  rocks and soils.  In The Apollo 15 Lunar Samples, 357-  Ar ages and production rates of spallation-porduced 3He,
+--- age block 3; lines 45-61 ---
+Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+  Grove T.L. and Walker D. (1977) Cooling histories of Apollo   G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+  15 quartz-normative basalts.  Proc. 8th  Lunar Sci. Conf.   Preliminary description of Apollo 15 sample environments.
+  1501-1520.                                               U.S.G.S. Interagency report: 36. pp219 with maps
+
+  Lofgren G.E., Donaldson C.H. and Usselman T.M. (1975)  Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+  Geology, petrology and crystallization of Apollo 15 quartz-   M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+  normative basalts. Proc. 6th Lunar Sci. Conf. 79-99.        K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+                                                               G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+  Lofgren G.E., Grove T.L., Brown R.W. and Smith D.P. (1979)   Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary
+  Comparison of dynamic crystallization techniques on Apollo   Geologic Investigation of the Apollo 15 landing site.  In
+  15 quartz normative basalts. Proc. 10th Lunar Planet. Sci.   Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+  Conf. 423-438.                                            5-1-112.
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 4; lines 22-34 ---
+Compston W., de Laeter J.R. and Vernon M.J. (1972)   Papanastassiou D.A. and Wasserburg G.J. (1973) Rb-Sr ages
+  Strontium isotope geochemistry of Apollo 15 basalts.  In   and initial strontium in basalts from Apollo 15. Earth Planet.
+  The Apollo 15 Lunar Samples, 347-351.                     Sci. Lett. 17, 324-337.
+
+  Drozd R.J., Hohenberg C.M., Morgan C.J. and Ralston C.E.   Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+  (1974) Cosmic-ray exposure history at the Apollo 16 and   Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+  other lunar sites: lunar surface dynamics.  Geochim.    4th Lunar Sci. Conf. 3045-3076.
+  Cosmochim. Acta 38, 1625-1642.
+                                                         Pepin R.O., Basford J.R., Dragon J.C., Johnson N.L., Coscio
+  Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1972)  M.R. and Murthy V.R. (1974) Rare gases and trace elements
+  Concentrations of cosmogenic radionuclides in Apollo 15   in Apollo 15 drill fines: Depositional chronologies and K-
+  rocks and soils.  In The Apollo 15 Lunar Samples, 357-  Ar ages and production rates of spallation-porduced 3He,

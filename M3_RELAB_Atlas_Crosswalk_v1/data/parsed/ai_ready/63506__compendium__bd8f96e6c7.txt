@@ -1,0 +1,101 @@
+DOCUMENT_ID: 63506__compendium__bd8f96e6c7
+ATLAS_SAMPLE_IDS: 63506
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63506.pdf
+SOURCE_PDF_SHA256: 42959c1cda8c7dc0c0e74daf7ef35ae4be0be552a1a2df1052269b5364b7cd7c
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy,treatment ===
+--- mineralogy block 1; lines 9-21 ---
+Figure 1: Photo of 63506. Tick marks are 1 mm. S81-32696
+
+   Introduction
+   Lunar soils are sieved and particles larger than 1 cm
+   are given numbers – see section on soil 63500. This
+   round particle is coherent and appears to be mostly
+   plagioclase (figure 1).
+
+   Petrography
+   63506 was termed “meta-basalt” by Warner et al.
+   (1973). However, it has numerous relic clasts and is
+    clearly a breccia (figure 2). According to Warner et al.
+   (1973), 63506 is crystalline and similar to 61549.
+--- material block 2; lines 1-26 ---
+63506
+                               Impact Melt Breccia
+                                               4.9 grams
+
+
+
+
+
+                      Figure 1: Photo of 63506. Tick marks are 1 mm. S81-32696
+
+   Introduction
+   Lunar soils are sieved and particles larger than 1 cm
+   are given numbers – see section on soil 63500. This
+   round particle is coherent and appears to be mostly
+   plagioclase (figure 1).
+
+   Petrography
+   63506 was termed “meta-basalt” by Warner et al.
+   (1973). However, it has numerous relic clasts and is
+    clearly a breccia (figure 2). According to Warner et al.
+   (1973), 63506 is crystalline and similar to 61549.
+
+   Hunter and Taylor (1983) found no rust.
+
+                                                                  Figure 2: Photomicrograph of thin section
+   Chemistry                                                                   63506,13.  It is 2 mm across.
+--- age block 3; lines 23-36 ---
+Hunter and Taylor (1983) found no rust.
+
+                                                                  Figure 2: Photomicrograph of thin section
+   Chemistry                                                                   63506,13.  It is 2 mm across.
+   Not determined
+
+   Radiogenic age dating
+   Norman et al. (2006) determined an Ar/Ar plateau age
+   of about 4 b.y. (figure 3).
+
+
+
+
+Lunar Sample Compendium
+--- treatment block 4; lines 6-18 ---
+Figure 1: Photo of 63506. Tick marks are 1 mm. S81-32696
+
+   Introduction
+   Lunar soils are sieved and particles larger than 1 cm
+   are given numbers – see section on soil 63500. This
+   round particle is coherent and appears to be mostly
+   plagioclase (figure 1).
+
+   Petrography
+   63506 was termed “meta-basalt” by Warner et al.
+
+=== PDF PAGE 3; CATEGORIES: material,references ===
+--- material block 1; lines 17-29 ---
+LSPET (1972c) Preliminary examination of lunar samples.
+    In Apollo 16 Preliminary Science Report. NASA SP-315,
+   7-1—7-58.
+
+   Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+   impact events within the lunar cataclysm from 40Ar-39Ar ages
+   and compositions of Apollo 16 impact melt rocks. Geochim.
+   Cosmochim. Acta 70, 6032-6049.
+
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Sutton R.L. (1981) Documentation of Apollo 16 samples.
+--- references block 2; lines 1-10 ---
+Figure 3: Ar/Ar plateau diagram for 63506 (Norman et al. 2006).
+
+
+   References for 63506
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s            63506
+    Catalog. pp. 370.                                           4.9 grams
+
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+                                                                         ,0       ,1     ,18    in Apollo 16 highland rocks: Manifestations of volatile-

@@ -1,0 +1,36 @@
+DOCUMENT_ID: 68002__compendium__e46263dfe8
+ATLAS_SAMPLE_IDS: 68001,68002
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/68002.pdf
+SOURCE_PDF_SHA256: 73011f9ec70f5de3e4c6036f37ffeeb32232f814409a76fcaa293e3ee922a352
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 6-18 ---
+top
+                                                          0.0 cm
+
+                                       68002,6000  W1
+                                      epoxy
+                                           encapsulated
+                                           core
+
+
+
+
+
+                                                 TS
+
+=== PDF PAGE 6; CATEGORIES: material ===
+--- material block 1; lines 1-12 ---
+0.0 cm
+
+                                         68001,6004 W1
+                                        epoxy
+                                             encapsulated
+                                             core
+
+
+
+
+
+                                                  TS from opposing face

@@ -1,0 +1,171 @@
+DOCUMENT_ID: 64559__compendium__a835094b54
+ATLAS_SAMPLE_IDS: 64559
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64559.pdf
+SOURCE_PDF_SHA256: bbed7c399d498cec7ce2983fd782fb8cc3dec83ab7bc1b2ff8df8f8eba447fe3
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 18-30 ---
+includes clasts of anorthite, it is an impact melt
+   breccias (figure 2)                              64559
+                                                21.8 grams
+   Chemistry
+   The composition of 64559 is similar to that of dark
+    lithology of the dilithologic breccias from station 4
+    (table). It is trace element rich. Most important is that    ,0          ,1
+   the Ni, Ir and Au are high indicating that it is an impact    21.6 g   PB
+   melt rock.
+
+                                                                                  ,4
+                                                       TS
+--- mineralogy block 2; lines 12-24 ---
+section on 64501.  It appears to be a piece of the dark   properties. Gooley et al. (1973) reported the Ni and
+    lithology that is part of the abundant dimict breccias  Co in the metallic iron.
+   from that location (64535 etc).
+                                                 Processing
+   Petrography                                    There is only one thin section.
+   The texture of 64559 is that of a basalt, but since it
+   includes clasts of anorthite, it is an impact melt
+   breccias (figure 2)                              64559
+                                                21.8 grams
+   Chemistry
+   The composition of 64559 is similar to that of dark
+    lithology of the dilithologic breccias from station 4
+    (table). It is trace element rich. Most important is that    ,0          ,1
+--- material block 3; lines 1-32 ---
+64559
+                               Impact Melt Breccia
+                                            21.8 grams
+
+
+
+
+
+                        Figure 1: Photo of 64559. Cm/mm scale. S72-55387.
+   Introduction                              Other Studies
+   64559 is a rake sample from Stone Mountain – see  Pearce and Simonds 1974) studied the magnetic
+    section on 64501.  It appears to be a piece of the dark   properties. Gooley et al. (1973) reported the Ni and
+    lithology that is part of the abundant dimict breccias  Co in the metallic iron.
+   from that location (64535 etc).
+                                                 Processing
+   Petrography                                    There is only one thin section.
+   The texture of 64559 is that of a basalt, but since it
+   includes clasts of anorthite, it is an impact melt
+   breccias (figure 2)                              64559
+                                                21.8 grams
+   Chemistry
+   The composition of 64559 is similar to that of dark
+    lithology of the dilithologic breccias from station 4
+    (table). It is trace element rich. Most important is that    ,0          ,1
+   the Ni, Ir and Au are high indicating that it is an impact    21.6 g   PB
+   melt rock.
+
+                                                                                  ,4
+                                                       TS
+
+Lunar Sample Compendium
+C Meyer 2012
+--- treatment block 4; lines 5-17 ---
+Figure 1: Photo of 64559. Cm/mm scale. S72-55387.
+   Introduction                              Other Studies
+   64559 is a rake sample from Stone Mountain – see  Pearce and Simonds 1974) studied the magnetic
+    section on 64501.  It appears to be a piece of the dark   properties. Gooley et al. (1973) reported the Ni and
+    lithology that is part of the abundant dimict breccias  Co in the metallic iron.
+   from that location (64535 etc).
+                                                 Processing
+   Petrography                                    There is only one thin section.
+   The texture of 64559 is that of a basalt, but since it
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+References for 64559   Table 1. Chemical composition of 64559
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  McKinley83
+    weight                                                     Catalog. pp. 370.
+   SiO2 %                 47.6      (b)
+    TiO2      0.9        (a)  0.8        (b)                      Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization
+   Al2O3     20.7      (a)  21.6      (b)
+                                                                  history of metal particles in Apollo 16 rake samples. Proc.   FeO       9.4        (a)  5.68      (b)
+   MnO      0.085     (a)  0.08      (b)                                  4th Lunar Sci. Conf. 799-810.
+   MgO      11.6       (a)  10.4      (b)
+   CaO      12.1      (a)  12.7      (b)                       Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   Na2O     0.506     (a)  0.54      (b)
+                                                                   in Apollo 16 highland rocks: Manifestations of volatile-   K2O      0.19      (a)  0.22      (b)
+   P2O5                                                  element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   S %                                                     259.
+   sum
+                                                        Korotev R.L. (1994) Compositional variation in Apollo 16   Sc ppm    11.3       (a)
+   V        32         (a)                                   impact melt breccias and inferences for the geology and
+    Cr                     (a)                               bombardment history of the central highlands of the Moon.
+--- material block 2; lines 2-24 ---
+Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  McKinley83
+    weight                                                     Catalog. pp. 370.
+   SiO2 %                 47.6      (b)
+    TiO2      0.9        (a)  0.8        (b)                      Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization
+   Al2O3     20.7      (a)  21.6      (b)
+                                                                  history of metal particles in Apollo 16 rake samples. Proc.   FeO       9.4        (a)  5.68      (b)
+   MnO      0.085     (a)  0.08      (b)                                  4th Lunar Sci. Conf. 799-810.
+   MgO      11.6       (a)  10.4      (b)
+   CaO      12.1      (a)  12.7      (b)                       Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   Na2O     0.506     (a)  0.54      (b)
+                                                                   in Apollo 16 highland rocks: Manifestations of volatile-   K2O      0.19      (a)  0.22      (b)
+   P2O5                                                  element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   S %                                                     259.
+   sum
+                                                        Korotev R.L. (1994) Compositional variation in Apollo 16   Sc ppm    11.3       (a)
+   V        32         (a)                                   impact melt breccias and inferences for the geology and
+    Cr                     (a)                               bombardment history of the central highlands of the Moon.
+   Co       94         (a)                                 Geochim. Cosmochim. Acta 58, 3931-3969.
+    Ni        1560      (a)
+   Cu
+   Zn                                        LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   Ga                                                 and chemical description. Science 179, 23-34.
+--- material block 3; lines 34-46 ---
+Ru                                                          the Cayley Plains and Descartes Mountains, and geologic
+   Rh                                                               history. Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys.
+   Pd ppb
+                                                            Res. 89, B513-B524.   Ag ppb
+   Cd ppb
+     In ppb                                                 Phinney W. and Lofgren G. (1973) Description, classification
+   Sn ppb                                              and inventory of Apollo 16 rake samples from stations 1, 4
+   Sb ppb
+                                                       and 13. Curators Office.    Te ppb
+   Cs ppm
+   Ba       300       (a)                                 Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   La        29.2      (a)                                     rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Ce       75         (a)
+--- age block 4; lines 1-12 ---
+References for 64559   Table 1. Chemical composition of 64559
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  McKinley83
+    weight                                                     Catalog. pp. 370.
+   SiO2 %                 47.6      (b)
+    TiO2      0.9        (a)  0.8        (b)                      Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization
+   Al2O3     20.7      (a)  21.6      (b)
+                                                                  history of metal particles in Apollo 16 rake samples. Proc.   FeO       9.4        (a)  5.68      (b)
+   MnO      0.085     (a)  0.08      (b)                                  4th Lunar Sci. Conf. 799-810.
+   MgO      11.6       (a)  10.4      (b)
+   CaO      12.1      (a)  12.7      (b)                       Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   Na2O     0.506     (a)  0.54      (b)
+--- references block 5; lines 1-9 ---
+References for 64559   Table 1. Chemical composition of 64559
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  McKinley83
+    weight                                                     Catalog. pp. 370.
+   SiO2 %                 47.6      (b)
+    TiO2      0.9        (a)  0.8        (b)                      Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization
+   Al2O3     20.7      (a)  21.6      (b)
+                                                                  history of metal particles in Apollo 16 rake samples. Proc.   FeO       9.4        (a)  5.68      (b)
+   MnO      0.085     (a)  0.08      (b)                                  4th Lunar Sci. Conf. 799-810.
+--- references block 6; lines 63-72 ---
+Os ppb
+      Ir ppb     42        (a)
+    Pt ppb
+   Au ppb    36         (a)
+   Th ppm    4.3        (a)
+   U ppm     1.2        (a)
+    technique:  (a) INAA, broad beam e probe
+
+Lunar Sample Compendium
+C Meyer 2012

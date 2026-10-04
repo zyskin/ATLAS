@@ -1,0 +1,100 @@
+DOCUMENT_ID: 67529__compendium__be6b311429
+ATLAS_SAMPLE_IDS: 67529
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67529.pdf
+SOURCE_PDF_SHA256: 112aeea7f29399f39e71c6459f59f7be374384235f8e30b3ed02854ff46e1c9f
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 13-33 ---
+67529 was collected by rake from the soil near the        Figure 2: Map of South Rim where rake sample
+                                                        was collected.   White Boulders on the rim of North Ray Crater - see
+    section on 67481.  It is a cataclastic anorthosite, not  LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   unlike the boulder (67455).                          and chemical description. Science 179, 23-34.
+
+   Petrography                               LSPET (1972c) Preliminary examination of lunar samples.
+                                                               In Apollo 16 Preliminary Science Report. NASA SP-315,   Figure 3 shows that the plagioclase in 67429 is highly
+                                                     7-1—7-58.
+   shocked, sheared and even melted. Hanson et al. (1979)
+   and Steele et al. (1980) reported analyses of the                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   plagioclase (An97) and pyroxene (En50)(figure 4).       rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+   Chemistry                                              Steele I.M., Hutcheon I.D. and Smith J.V. (1980)  Ion
+   None                                                microprobe analysis and petrogenetic interpretations of Li,
+                                                Mg, Ti, K, Sr, Ba in lunar plagioclase.  Proc. 11th Lunar
+   Radiogenic age dating                                 Planet. Sci. Conf. 571-590.
+   None
+                                                       Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and
+   Processing                                                inventory. Curator Catalog, JSC
+   The is one thin section of 67529.
+--- mineralogy block 2; lines 37-47 ---
+16. Lunar Receiving Laboratory. MSC 03210 Curator’s   Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+    Catalog. pp. 370.
+                                                                      Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+   Hansen E.C., Steele I.M. and Smith J.V. (1979a)  Lunar   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+    highland rocks: Element partitioning among minerals 1:  Reimold W.U., Wacker K. and Wanke H. (1985)
+   Electron microprobe analyses of Na, K, and Fe in   Composition and evolution of the lunar crust in the Descartes
+    plagioclase; mg partitioning with orthopyroxene. Proc. 10th   highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+   Lunar Planet. Sci. Conf. 627-638.                         Res. 90, C449-C506.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 3; lines 7-19 ---
+Figure 1: Photo of 67529. Scale maked in mm.
+         S72-51043
+
+   Introduction
+   67529 was collected by rake from the soil near the        Figure 2: Map of South Rim where rake sample
+                                                        was collected.   White Boulders on the rim of North Ray Crater - see
+    section on 67481.  It is a cataclastic anorthosite, not  LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   unlike the boulder (67455).                          and chemical description. Science 179, 23-34.
+
+   Petrography                               LSPET (1972c) Preliminary examination of lunar samples.
+                                                               In Apollo 16 Preliminary Science Report. NASA SP-315,   Figure 3 shows that the plagioclase in 67429 is highly
+--- material block 4; lines 24-42 ---
+Chemistry                                              Steele I.M., Hutcheon I.D. and Smith J.V. (1980)  Ion
+   None                                                microprobe analysis and petrogenetic interpretations of Li,
+                                                Mg, Ti, K, Sr, Ba in lunar plagioclase.  Proc. 11th Lunar
+   Radiogenic age dating                                 Planet. Sci. Conf. 571-590.
+   None
+                                                       Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and
+   Processing                                                inventory. Curator Catalog, JSC
+   The is one thin section of 67529.
+                                                                       Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+   References for 67529                                               J. and Rehfeldt A. (1981) Distribution and provenance of
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   lunar highland rock types at North Ray Crater, Apollo 16.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+    Catalog. pp. 370.
+                                                                      Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+   Hansen E.C., Steele I.M. and Smith J.V. (1979a)  Lunar   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+    highland rocks: Element partitioning among minerals 1:  Reimold W.U., Wacker K. and Wanke H. (1985)
+   Electron microprobe analyses of Na, K, and Fe in   Composition and evolution of the lunar crust in the Descartes
+--- age block 5; lines 22-34 ---
+and Steele et al. (1980) reported analyses of the                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   plagioclase (An97) and pyroxene (En50)(figure 4).       rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+   Chemistry                                              Steele I.M., Hutcheon I.D. and Smith J.V. (1980)  Ion
+   None                                                microprobe analysis and petrogenetic interpretations of Li,
+                                                Mg, Ti, K, Sr, Ba in lunar plagioclase.  Proc. 11th Lunar
+   Radiogenic age dating                                 Planet. Sci. Conf. 571-590.
+   None
+                                                       Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and
+   Processing                                                inventory. Curator Catalog, JSC
+   The is one thin section of 67529.
+                                                                       Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+--- references block 6; lines 29-41 ---
+None
+                                                       Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and
+   Processing                                                inventory. Curator Catalog, JSC
+   The is one thin section of 67529.
+                                                                       Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+   References for 67529                                               J. and Rehfeldt A. (1981) Distribution and provenance of
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   lunar highland rock types at North Ray Crater, Apollo 16.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+    Catalog. pp. 370.
+                                                                      Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+   Hansen E.C., Steele I.M. and Smith J.V. (1979a)  Lunar   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+    highland rocks: Element partitioning among minerals 1:  Reimold W.U., Wacker K. and Wanke H. (1985)

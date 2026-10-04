@@ -1,0 +1,224 @@
+DOCUMENT_ID: 77515__compendium__08fc950b22
+ATLAS_SAMPLE_IDS: 77515
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/77515.pdf
+SOURCE_PDF_SHA256: bbe71813535e797877febddba11936e0fed8df64b74a233da873275c545bc7d3
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 19-31 ---
+This large sample deserves more study and should be
+dated by someone.
+
+Petrography                                                      77515The texture of 77515 is poikiloblastic with irregular
+pigenoite oikocrysts enclosing abundant euhedral
+plagioclase laths and tablets and minor rounded olivine
+grains (figure 3). Ilmenite is dispersed throughout and
+is also poikilitic. Warner et al (1977) found the mineral          Figure 2: Map of station 7, Apollo 17.
+mode to be 52.7% plagioclase, 44.5% pyroxene and
+
+   Lunar Sample Compendium
+  C Meyer 2011
+--- material block 2; lines 1-22 ---
+77515
+                         Micropoikilitic Impact Melt Breccia
+                                        337.6 grams
+
+
+
+
+
+                  Figure 1: Photo of bottom surface of 77515 showing thick patina and numerous
+                 zap pits. S73-23496. Scale and cube are 1 cm.
+
+
+Introduction
+77515 was collected from the lunar surface a few
+meters from the station 7 boulder (figure 2).  It is an
+impact melt breccia apparently similar to 77135. There
+is a patina with micrometeoite craters on all surfaces
+(figure 1). Numerous small vesicles are also apparent.
+
+This large sample deserves more study and should be
+dated by someone.
+--- age block 3; lines 15-27 ---
+meters from the station 7 boulder (figure 2).  It is an
+impact melt breccia apparently similar to 77135. There
+is a patina with micrometeoite craters on all surfaces
+(figure 1). Numerous small vesicles are also apparent.
+
+This large sample deserves more study and should be
+dated by someone.
+
+Petrography                                                      77515The texture of 77515 is poikiloblastic with irregular
+pigenoite oikocrysts enclosing abundant euhedral
+plagioclase laths and tablets and minor rounded olivine
+grains (figure 3). Ilmenite is dispersed throughout and
+is also poikilitic. Warner et al (1977) found the mineral          Figure 2: Map of station 7, Apollo 17.
+
+=== PDF PAGE 2; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 1-11 ---
+Figure 3a: Photomicrographs of thin section                Figure 3b: Micropoikilitic texture of 77515 (from
+    77515,11 by C Meyer @50x.                           Meyer 1994). Partially crossed nicols.
+
+
+2% ilmenite. Mineral compositions are given in figure
+4.
+
+Chemistry
+Laul and Schmitt (1975) reported the chemical
+composition, finding that it was the same as for 77135
+(figure 5).
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-41 ---
+Figure 4: Composition of pyroxene and olivine in
+    77515 (Warner et al. 1977).
+                                                        Figure 5: Normalized rare-earth-element diagram for
+                                                  77515 compared with nearby breccia 77135.
+
+
+
+
+
+   Mineral Mode ( Warner et al. 1977)
+
+                                   Vol. %
+     Matrix                  87
+     Mineral clasts              10.9
+      Lithic clasts                 2.1
+
+     Mineral clasts
+
+        Plagioclase              7.7
+        Olivine/Pyroxene       3
+       Opaque
+         Metal/troilite              0..2
+        Other
+
+      Lithic Clasts
+
+     ANT                     0.4
+         Devit. Anorthosite       0.8
+        Breccia                  0.4
+       Other                    0.5
+
+     Percent of matrix
+
+        Plagioclase             52.7
+        Olivine/pyroxene        44.5
+       Opaque               2
+         Metal/troilite            0.2
+        Other                    0.7
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-19 ---
+Figure 4: Composition of pyroxene and olivine in
+    77515 (Warner et al. 1977).
+                                                        Figure 5: Normalized rare-earth-element diagram for
+                                                  77515 compared with nearby breccia 77135.
+
+
+
+
+
+   Mineral Mode ( Warner et al. 1977)
+
+                                   Vol. %
+     Matrix                  87
+     Mineral clasts              10.9
+      Lithic clasts                 2.1
+
+     Mineral clasts
+
+        Plagioclase              7.7
+--- material block 3; lines 23-38 ---
+Other
+
+      Lithic Clasts
+
+     ANT                     0.4
+         Devit. Anorthosite       0.8
+        Breccia                  0.4
+       Other                    0.5
+
+     Percent of matrix
+
+        Plagioclase             52.7
+        Olivine/pyroxene        44.5
+       Opaque               2
+         Metal/troilite            0.2
+        Other                    0.7
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-18 ---
+References for 77515Table 1. Chemical composition of 77515.
+                                                           Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                           17. Lunar Receiving Laboratory. MSC 03211 Curator’sreference  Laul 1975   Warner77
+weight                                                     Catalog. pp. 447.
+SiO2 %                48.3      (b)
+TiO2       1.4       (a) 1.51      (b)                        Laul J.C. and Schmitt R.A. (1975c) Chemical composition
+Al2O3     18.6      (a) 18.2      (b)
+                                                           of Apollo 17 samples: Boulder breccias (2), rake brecciasFeO       8.4       (a)  8.1        (b)
+MnO       0.1       (a)  0.9        (b)                              (8), and others (abs).  Lunar Sci. VI, 489-491.  Lunar
+MgO      11        (a) 11        (b)                          Planetary Institute, Houston.
+CaO      11        (a)  11.4      (b)
+Na2O     0.68      (a)  0.7        (b)
+                                          LSPET (1973)  Apollo 17 lunar samples: Chemical andK2O       0.24      (a) 0.28      (b)
+P2O5                  0.27      (b)                          petrographic description. Science 182, 659-672.
+S %
+sum                                       LSPET (1973) Preliminary Examination of lunar samples.
+                                                     Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –Sc ppm   14        (a)
+V        30        (a)                                      7-46.
+--- material block 2; lines 2-14 ---
+Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                           17. Lunar Receiving Laboratory. MSC 03211 Curator’sreference  Laul 1975   Warner77
+weight                                                     Catalog. pp. 447.
+SiO2 %                48.3      (b)
+TiO2       1.4       (a) 1.51      (b)                        Laul J.C. and Schmitt R.A. (1975c) Chemical composition
+Al2O3     18.6      (a) 18.2      (b)
+                                                           of Apollo 17 samples: Boulder breccias (2), rake brecciasFeO       8.4       (a)  8.1        (b)
+MnO       0.1       (a)  0.9        (b)                              (8), and others (abs).  Lunar Sci. VI, 489-491.  Lunar
+MgO      11        (a) 11        (b)                          Planetary Institute, Houston.
+CaO      11        (a)  11.4      (b)
+Na2O     0.68      (a)  0.7        (b)
+                                          LSPET (1973)  Apollo 17 lunar samples: Chemical andK2O       0.24      (a) 0.28      (b)
+P2O5                  0.27      (b)                          petrographic description. Science 182, 659-672.
+--- material block 3; lines 29-46 ---
+Sr                                                   Muehlberger W.R. and many others (1973)  Preliminary
+Y                                                       Geological Investigation of the Apollo 17 Landing Site. In
+Zr
+                                                    Apollo 17 Preliminary Science Report. NASA SP-330.Nb
+Mo
+Ru                                                 Warner R.D., Taylor G.J. and Keil K. (1977b) Petrology of
+Rh                                                              crystalline matrix breccias from Apollo 17 rake samples.
+Pd ppb
+                                                         Proc. 8th Lunar Sci. Conf. 1987-2006.Ag ppb
+Cd ppb
+In ppb                                              Warner R.D., Keil K., Nehru C.E. and Taylor G.J. (1978)
+Sn ppb                                                 Catalogue of Apollo 17 rake samples from Stations la, 2, 7,
+Sb ppb
+                                                  and 8. Spec. Publ. #18, UNM Institute of Meteoritics,Te ppb
+Cs ppm                                                Albuquerque. 88 pp.
+Ba       350      (a)
+La        29.8      (a)                                  Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+Ce       73        (a)
+--- references block 4; lines 1-7 ---
+References for 77515Table 1. Chemical composition of 77515.
+                                                           Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                           17. Lunar Receiving Laboratory. MSC 03211 Curator’sreference  Laul 1975   Warner77
+weight                                                     Catalog. pp. 447.
+SiO2 %                48.3      (b)
+TiO2       1.4       (a) 1.51      (b)                        Laul J.C. and Schmitt R.A. (1975c) Chemical composition
+Al2O3     18.6      (a) 18.2      (b)
+--- references block 5; lines 60-69 ---
+W ppb
+Re ppb
+Os                                                                                                         ,4                                                                                                                  ,7                                                                              ,2                                                                            ,6                                                                                    ,9                                                              ,3   ppb                              ,0          ,1Ir  ppb                                                                                              0.6 g                                                                                                      0.7 g                                                                       0.6 g                                                         26 g                                                                         2.1 g                                  PB                                       PBPt  ppb                         305 g
+Au ppb
+Th ppm    4.1       (a)
+U ppm                                                     ,12   ,11
+technique:  (a) INAA, (b) broad beam e. probe               TS  TS
+
+  Lunar Sample Compendium
+  C Meyer 2011

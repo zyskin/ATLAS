@@ -1,0 +1,234 @@
+DOCUMENT_ID: 14267__compendium__209b020815
+ATLAS_SAMPLE_IDS: 14267
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14267.pdf
+SOURCE_PDF_SHA256: 2a8072c11bf07566a39ca6da02b60251c95e3f637ba857e8f1d1f134b85d1c6d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 13-47 ---
+Figure 2: Large micrometeorite crater on exterior
+                                                                    surface of 14267. S7125265.
+   Introduction
+   14276 is from the “comprehensive sample” taken near
+   the ALSEP station at Apollo 14 (Sutton et al. 1971). It
+    is a glass-coated soil breccia (figures 1 and 2).
+
+   14276 was studied by the “European Consortium”
+   (Eglinton et al. 1974).
+
+   Petrography
+   Phinney et al. (1975) found that 14267 had a frothy
+    glass coating on one surface, and micrometeorite pits
+   on all sides. The interior is a vitric matrix breccia with
+   numerous small light-colored clasts (figure 4). The
+   grain size distribution is seriate.
+                                                                  Figure 3: Location of comprehensive sample on
+   14276 is a fine-grained, coherent, polymict breccias       map of Apollo 14 traverse.
+   with a dark matrix of vitreous appearance (Eglinton et
+    al. 1974). There are more lithic fragments than mineral
+   or glass fragments (figure 4). There are minute vesicles
+   and iron grains in the glassy matrix.  Clasts include  Chemistry
+    glass, basalts, metaclastic breccias and mineral grains.  Scoon (in Eglinton 1974) determined the chemical
+   Shock feature are prevalent (Eglinton et al.).          composition by classical techniques (table 1). The
+                                                   sample has the same composition as the Apollo 14 soil
+   The majority of the vitric clasts show flow-banding.   (figure 6).
+   Numerous glass analyses are found in Eglinton et al.
+                                           Cosmogenic isotopes and exposure ages
+   Pyroxene and olivine analyses are presented in figure   Eglinton et al. (1974) calculate an exposure age of 60
+    5. Orthopyroxene and some olivine is quite mafic.     m.y. based on 21Ne.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-8 ---
+14267
+                                  Vitric–matrix Breccia
+                                           54.77 grams
+--- material block 3; lines 13-44 ---
+Figure 2: Large micrometeorite crater on exterior
+                                                                    surface of 14267. S7125265.
+   Introduction
+   14276 is from the “comprehensive sample” taken near
+   the ALSEP station at Apollo 14 (Sutton et al. 1971). It
+    is a glass-coated soil breccia (figures 1 and 2).
+
+   14276 was studied by the “European Consortium”
+   (Eglinton et al. 1974).
+
+   Petrography
+   Phinney et al. (1975) found that 14267 had a frothy
+    glass coating on one surface, and micrometeorite pits
+   on all sides. The interior is a vitric matrix breccia with
+   numerous small light-colored clasts (figure 4). The
+   grain size distribution is seriate.
+                                                                  Figure 3: Location of comprehensive sample on
+   14276 is a fine-grained, coherent, polymict breccias       map of Apollo 14 traverse.
+   with a dark matrix of vitreous appearance (Eglinton et
+    al. 1974). There are more lithic fragments than mineral
+   or glass fragments (figure 4). There are minute vesicles
+   and iron grains in the glassy matrix.  Clasts include  Chemistry
+    glass, basalts, metaclastic breccias and mineral grains.  Scoon (in Eglinton 1974) determined the chemical
+   Shock feature are prevalent (Eglinton et al.).          composition by classical techniques (table 1). The
+                                                   sample has the same composition as the Apollo 14 soil
+   The majority of the vitric clasts show flow-banding.   (figure 6).
+   Numerous glass analyses are found in Eglinton et al.
+                                           Cosmogenic isotopes and exposure ages
+   Pyroxene and olivine analyses are presented in figure   Eglinton et al. (1974) calculate an exposure age of 60
+    5. Orthopyroxene and some olivine is quite mafic.     m.y. based on 21Ne.
+--- age block 4; lines 36-47 ---
+glass, basalts, metaclastic breccias and mineral grains.  Scoon (in Eglinton 1974) determined the chemical
+   Shock feature are prevalent (Eglinton et al.).          composition by classical techniques (table 1). The
+                                                   sample has the same composition as the Apollo 14 soil
+   The majority of the vitric clasts show flow-banding.   (figure 6).
+   Numerous glass analyses are found in Eglinton et al.
+                                           Cosmogenic isotopes and exposure ages
+   Pyroxene and olivine analyses are presented in figure   Eglinton et al. (1974) calculate an exposure age of 60
+    5. Orthopyroxene and some olivine is quite mafic.     m.y. based on 21Ne.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 5-28 ---
+Eglinton et al. (1974) reported on cosmic-ray tracks
+    (low), rare gas isotopes (abundant) and carbide content
+    (low). They infer an age of 3.9 b.y. but caution that
+    since this is obviously a soil breccias, it could be
+    younger, with inherited 40Ar.
+
+   Table 1. Chemical composition of 14267.                                                              Figure 5: Composition of pyroxene and olivine in
+                                                       14267 (from Eglinton et al. 1974)..
+     reference  Eglinton74
+     weight
+    SiO2 %   48.35      (a)
+    TiO2      2.11        (a)                             Processing
+    Al2O3     16.57      (a)
+   FeO       10.3       (a)                       On the lunar surface, all rocks in a 14 meter circle were
+   MnO      0.13       (a)                                 collected and put in weigh bag 1039, which was
+   MgO      7.92       (a)                                  returned in ALSRC 1007. 14267 was one of these.  It   CaO      10.29      (a)
+   Na2O     0.9         (a)                           was studied by the “European Consortium” (Eglinton
+   K2O      0.78       (a)                                       et al. 1974), where it was cut exactly in half in Bristol,
+   P2O5     0.57       (a)
+   S %       0.08       (a)                              England and half returned to Houston Texas. There
+    sum                                                    are 5 thin sections.  There is a copy of the sample
+                                                       handling report in the datapack (sans figures).
+    Sc ppm
+   V
+--- mineralogy block 2; lines 5-17 ---
+Eglinton et al. (1974) reported on cosmic-ray tracks
+    (low), rare gas isotopes (abundant) and carbide content
+    (low). They infer an age of 3.9 b.y. but caution that
+    since this is obviously a soil breccias, it could be
+    younger, with inherited 40Ar.
+
+   Table 1. Chemical composition of 14267.                                                              Figure 5: Composition of pyroxene and olivine in
+                                                       14267 (from Eglinton et al. 1974)..
+     reference  Eglinton74
+     weight
+    SiO2 %   48.35      (a)
+    TiO2      2.11        (a)                             Processing
+    Al2O3     16.57      (a)
+--- material block 3; lines 2-14 ---
+Other Studies
+    Eglinton et al. (1974) reported on cosmic-ray tracks
+    (low), rare gas isotopes (abundant) and carbide content
+    (low). They infer an age of 3.9 b.y. but caution that
+    since this is obviously a soil breccias, it could be
+    younger, with inherited 40Ar.
+
+   Table 1. Chemical composition of 14267.                                                              Figure 5: Composition of pyroxene and olivine in
+                                                       14267 (from Eglinton et al. 1974)..
+     reference  Eglinton74
+     weight
+--- age block 4; lines 1-13 ---
+Figure 4: Interior of 14267 after saw cut in Bristol (Eglinton et al. 1974).
+
+
+   Other Studies
+    Eglinton et al. (1974) reported on cosmic-ray tracks
+    (low), rare gas isotopes (abundant) and carbide content
+    (low). They infer an age of 3.9 b.y. but caution that
+    since this is obviously a soil breccias, it could be
+    younger, with inherited 40Ar.
+
+   Table 1. Chemical composition of 14267.                                                              Figure 5: Composition of pyroxene and olivine in
+                                                       14267 (from Eglinton et al. 1974)..
+     reference  Eglinton74
+--- references block 5; lines 7-19 ---
+(low). They infer an age of 3.9 b.y. but caution that
+    since this is obviously a soil breccias, it could be
+    younger, with inherited 40Ar.
+
+   Table 1. Chemical composition of 14267.                                                              Figure 5: Composition of pyroxene and olivine in
+                                                       14267 (from Eglinton et al. 1974)..
+     reference  Eglinton74
+     weight
+    SiO2 %   48.35      (a)
+    TiO2      2.11        (a)                             Processing
+    Al2O3     16.57      (a)
+   FeO       10.3       (a)                       On the lunar surface, all rocks in a 14 meter circle were
+   MnO      0.13       (a)                                 collected and put in weigh bag 1039, which was
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 15-36 ---
+,59                            13
+             ,46                         TS                            12                             Apollo 14 breccias
+             1.6 g
+                                                                                                              11
+                                                                                        14267
+                                                                                                              10
+                                            FeO
+                                                                     wt. %   9
+
+                                                                                                                   8              CMB      VMB
+
+                                                                                                                   7
+   References for 14267                                                                       6
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock                 5
+   Samples. Curators Office. JSC 14240                                              12     13    14    15     16     17    18    19     20     21    22     23
+                                                                              Al2O3 wt. %
+   Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14         Figure 6: Composition of Apollo 14 breccias.
+    breccias: General characteristics and classification. Proc.
+     3rd Lunar Sci. Conf. 645-659.
+                                                Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+                                                       M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,    Eglinton G., Mays B.J., Pillinger C.T., Agrell S.O., Scoon
+                                                             Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)    J.H., Dran J.C., Maurette M., Bowell E., Dollfus A., Geake
+--- material block 2; lines 22-44 ---
+wt. %   9
+
+                                                                                                                   8              CMB      VMB
+
+                                                                                                                   7
+   References for 14267                                                                       6
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock                 5
+   Samples. Curators Office. JSC 14240                                              12     13    14    15     16     17    18    19     20     21    22     23
+                                                                              Al2O3 wt. %
+   Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14         Figure 6: Composition of Apollo 14 breccias.
+    breccias: General characteristics and classification. Proc.
+     3rd Lunar Sci. Conf. 645-659.
+                                                Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+                                                       M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,    Eglinton G., Mays B.J., Pillinger C.T., Agrell S.O., Scoon
+                                                             Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)    J.H., Dran J.C., Maurette M., Bowell E., Dollfus A., Geake
+                                                     Geology of the Apollo 14 landing site in the Fra Mauro    J.E., Schultz L. and Signer P. (1974) The history of lunar
+                                                            Highlands. U.S.G.S. Prof. Paper 880.    breccia 14267. Proc. 5th Lunar Sci. Conf. 1159-1180.
+
+                                                Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait   LSPET (1971) Preliminary examination of lunar samples
+                                                         M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,   from Apollo 14. Science 173, 681-693.
+                                                         Schaber G.G., Schafer J.P., Shepard A.B., Sutton R.L., Trask
+                                                                      N.J., Ulrich G.E., Wilshire H.G. and Wolfe E.W. (1972) 3.   Phinney W.C., Simonds C.H. and Warner J. (1975)
+                                                              Preliminary Geologic Investigation of the Apollo 14 landing   Description, Classification and Inventory of the
+--- references block 3; lines 21-33 ---
+FeO
+                                                                     wt. %   9
+
+                                                                                                                   8              CMB      VMB
+
+                                                                                                                   7
+   References for 14267                                                                       6
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock                 5
+   Samples. Curators Office. JSC 14240                                              12     13    14    15     16     17    18    19     20     21    22     23
+                                                                              Al2O3 wt. %
+   Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14         Figure 6: Composition of Apollo 14 breccias.
+    breccias: General characteristics and classification. Proc.
+     3rd Lunar Sci. Conf. 645-659.

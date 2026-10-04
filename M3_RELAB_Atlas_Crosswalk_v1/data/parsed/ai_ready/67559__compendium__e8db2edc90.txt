@@ -1,0 +1,317 @@
+DOCUMENT_ID: 67559__compendium__e8db2edc90
+ATLAS_SAMPLE_IDS: 67559
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67559.pdf
+SOURCE_PDF_SHA256: b6140439cf15b8e5bc549050ae567582b2885d7f41e2a9b2e8267f9e3c658ac6
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 7-24 ---
+Figure 1: Photo of 67559 with scale (mm). S80-34090
+
+   Introduction
+   67559 was collected as a rake sample from the rim of
+   North Ray Crater – see section on 67481. It has a nice       Mineralogical Mode 67559
+   igneous texture indicating that it cooled from a liquid,                        Vaniman and     Reimold et
+    albeit, highly aluminous (figures 1 and 2).  It contains                           Papike 1980         al. 1985
+                                                                             Plagioclase        74.7 %           83.1
+   a trace of Ni, Ir and Au and has been dated at 3.76 ±                                                                    Pyroxene         20.1              13.8
+   0.04 b.y., which makes it a critical sample.                      Olivine            2.1                    -
+                                                             Opaque           2.1                1.1
+    Yes, Virginia, there are basalts in the lunar highlands,          Mesostasis                       2
+   but they are, in fact, impact melts! See also sections of
+   68415, 68416.
+--- material block 2; lines 1-18 ---
+67559
+                                 Highland Basalt
+                                           32.84 grams
+
+
+
+
+
+                          Figure 1: Photo of 67559 with scale (mm). S80-34090
+
+   Introduction
+   67559 was collected as a rake sample from the rim of
+   North Ray Crater – see section on 67481. It has a nice       Mineralogical Mode 67559
+   igneous texture indicating that it cooled from a liquid,                        Vaniman and     Reimold et
+    albeit, highly aluminous (figures 1 and 2).  It contains                           Papike 1980         al. 1985
+                                                                             Plagioclase        74.7 %           83.1
+   a trace of Ni, Ir and Au and has been dated at 3.76 ±                                                                    Pyroxene         20.1              13.8
+   0.04 b.y., which makes it a critical sample.                      Olivine            2.1                    -
+--- age block 3; lines 11-23 ---
+Introduction
+   67559 was collected as a rake sample from the rim of
+   North Ray Crater – see section on 67481. It has a nice       Mineralogical Mode 67559
+   igneous texture indicating that it cooled from a liquid,                        Vaniman and     Reimold et
+    albeit, highly aluminous (figures 1 and 2).  It contains                           Papike 1980         al. 1985
+                                                                             Plagioclase        74.7 %           83.1
+   a trace of Ni, Ir and Au and has been dated at 3.76 ±                                                                    Pyroxene         20.1              13.8
+   0.04 b.y., which makes it a critical sample.                      Olivine            2.1                    -
+                                                             Opaque           2.1                1.1
+    Yes, Virginia, there are basalts in the lunar highlands,          Mesostasis                       2
+   but they are, in fact, impact melts! See also sections of
+   68415, 68416.
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy,treatment ===
+--- mineralogy block 1; lines 1-7 ---
+Figure 3a: Pyroxene in rake samples including
+                                                                                   field of 67559 (Steele and Smith 1973).
+
+                                                                        67559                                                                         Di                   Hd
+         Figure 2 a: Internal texture of 68559,1 (Ryder and                VanimanPapike 1981and
+       Norman 1980). Crossed polarizer - width of field is
+        2 mm.
+--- mineralogy block 2; lines 13-43 ---
+En                                          Fs
+
+                                                  Fo                                        Fa
+
+                                                                                                     compiled by C Meyer
+
+                                                                 Figure 3b: Olivine and pyroxene in 67559
+                                                             (Vaniman and Papike 1981).
+
+
+
+
+         Figure 2b: Internal texture of 67559,13 (Reimold et
+            al. 1985).
+
+
+   Petrography
+    Steele and Smith (1973) state that “feldspar-rich basalt
+   67559 has pyroxene and olivine ranges essentially
+    identical to those of 68415”. Ryder and Norman (1980)
+   and Vaniman and Papike (1981) noticed the same thing
+    (figure 3).  Reimold et al. (1985) separated the
+    mesostasis and studied it carefully by SEM.
+
+    Plagioclase grains up to 1 mm are zoned from An98-90.
+                                                                 Figure 4: Normalized rare-earth-element
+    Refer to figures 6 and 7.                                  diagram for 67559 (Ryder and Norman 1980).
+
+   Chemistry
+   Nava et al. (1974), Stoffler et al. (1985) and Wasson
+    et al. (1977) have reported analyses of 67559.
+--- material block 3; lines 1-7 ---
+Figure 3a: Pyroxene in rake samples including
+                                                                                   field of 67559 (Steele and Smith 1973).
+
+                                                                        67559                                                                         Di                   Hd
+         Figure 2 a: Internal texture of 68559,1 (Ryder and                VanimanPapike 1981and
+       Norman 1980). Crossed polarizer - width of field is
+        2 mm.
+--- material block 4; lines 24-36 ---
+Figure 2b: Internal texture of 67559,13 (Reimold et
+            al. 1985).
+
+
+   Petrography
+    Steele and Smith (1973) state that “feldspar-rich basalt
+   67559 has pyroxene and olivine ranges essentially
+    identical to those of 68415”. Ryder and Norman (1980)
+   and Vaniman and Papike (1981) noticed the same thing
+    (figure 3).  Reimold et al. (1985) separated the
+    mesostasis and studied it carefully by SEM.
+--- treatment block 5; lines 28-40 ---
+Petrography
+    Steele and Smith (1973) state that “feldspar-rich basalt
+   67559 has pyroxene and olivine ranges essentially
+    identical to those of 68415”. Ryder and Norman (1980)
+   and Vaniman and Papike (1981) noticed the same thing
+    (figure 3).  Reimold et al. (1985) separated the
+    mesostasis and studied it carefully by SEM.
+
+    Plagioclase grains up to 1 mm are zoned from An98-90.
+                                                                 Figure 4: Normalized rare-earth-element
+    Refer to figures 6 and 7.                                  diagram for 67559 (Ryder and Norman 1980).
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 67559
+
+
+                                                                     reference Wasson77  Nava74
+                                                                   weight    Vaniman
+                                                           SiO2 %               45.3     (b)
+                                                             TiO2      0.47     (a) 0.26     (b)
+                                                          Al2O3     29.8     (a) 27.42    (b)
+                                                  FeO       4.31     (a) 4.3       (b)
+                                              MnO      0.06     (a) 0.054    (b)
+                                              MgO      3.8      (a) 4.47     (b)
+                                                CaO      16.5     (a) 16.4     (b)
+                                                  Na2O     0.51     (a) 0.5       (b)
+                                                 K2O      0.08     (a) 0.078    (b)
+                                                   P2O5                 0.113    (b)
+                                                  S %
+                                                    sum
+
+                                                        Sc ppm    8.8      (a)
+                                                  V        21       (a)
+--- material block 2; lines 51-63 ---
+Sm        3.1      (a)
+   Radiogenic age dating                           Eu        1.2      (a)
+   Reimold et al. (1985) dated 67559 at 3.76 ± 0.04 b.y.  Gd
+   by Rb-Sr and also reported data for Sm-Nd. Tera et al.   Tb        0.66     (a)
+                                                      Dy        4.3      (a)
+   (1974) also reported Rb/Sr and U/Th/Pb data for the  Ho
+   whole rock.  I can’t comprehend why there is no age   Er
+                                             Tm
+   by Ar/Ar.                                                     Yb        2.4      (a)
+                                                           Lu        0.34     (a)
+   Processing                                                Hf         2.4      (a)                                                              Ta        0.28     (a)
+   There are 4 thin sections from 3 different regions, yet  W ppb
+   no clasts were found.                              Re ppb
+--- age block 3; lines 33-63 ---
+Zr
+          Figure 5: Two diagrams lifted from Reimold et al.   Nb
+                                               Mo
+           (1985).                                     Ru       26       (a)
+                                                   Rh
+                                                      Pd ppb
+        Summary of Age Data for 67559             Ag ppb
+                                     Rb/Sr                 Cd ppb
+                                                                               In ppb     11       (a)           Reimold et al. 1985         3.76 +/- 0.04 b.y.
+                                                      Sn ppb
+            Caution: Changes in decay constant.                                                      Sb ppb
+                                                              Te ppb
+                                                      Cs ppm
+                                                     Ba       76       (a)
+   Additional data can be found in Tera et al. (1974) and   La         7.2      (a)
+                                                   Ce       18       (a)
+   Reimold et al. (1985).                                     Pr
+                                                   Nd       11       (a)
+                                           Sm        3.1      (a)
+   Radiogenic age dating                           Eu        1.2      (a)
+   Reimold et al. (1985) dated 67559 at 3.76 ± 0.04 b.y.  Gd
+   by Rb-Sr and also reported data for Sm-Nd. Tera et al.   Tb        0.66     (a)
+                                                      Dy        4.3      (a)
+   (1974) also reported Rb/Sr and U/Th/Pb data for the  Ho
+   whole rock.  I can’t comprehend why there is no age   Er
+                                             Tm
+   by Ar/Ar.                                                     Yb        2.4      (a)
+                                                           Lu        0.34     (a)
+   Processing                                                Hf         2.4      (a)                                                              Ta        0.28     (a)
+   There are 4 thin sections from 3 different regions, yet  W ppb
+   no clasts were found.                              Re ppb
+--- references block 4; lines 1-10 ---
+Table 1. Chemical composition of 67559
+
+
+                                                                     reference Wasson77  Nava74
+                                                                   weight    Vaniman
+                                                           SiO2 %               45.3     (b)
+                                                             TiO2      0.47     (a) 0.26     (b)
+                                                          Al2O3     29.8     (a) 27.42    (b)
+                                                  FeO       4.31     (a) 4.3       (b)
+                                              MnO      0.06     (a) 0.054    (b)
+--- references block 5; lines 64-73 ---
+Os ppb
+                                                                                                           Ir ppb     11       (a)
+                                                                     Pt ppb
+                                                      Au ppb    5        (a)
+                                                        Th ppm    1.1      (a)
+                                              U ppm    0.39     (a)
+                                                                       technique:  (a) INAA, (b) AA, colorimetry
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 6; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 17-35 ---
+deduced from the chemistry of post-Imbrium melt bombs.   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,
+    E43-E54.                                                    Steele I.M. and Smith J.V. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   inventory. Curator Catalog, JSC
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                            Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+                                                                of some Apollo 16 rocks and fines: General petrologic model
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic   of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+    and chemical description. Science 179, 23-34.
+                                                               Steele I.M., Hutcheon I.D. and Smith J.V. (1980)  Ion
+   LSPET (1972c) Preliminary examination of lunar samples.   microprobe analysis and petrogenetic interpretations of Li,
+    In Apollo 16 Preliminary Science Report. NASA SP-315,  Mg, Ti, K, Sr, Ba in lunar plagioclase.  Proc. 11th Lunar
+    7-1—7-58.                                                 Planet. Sci. Conf. 571-590.
+
+    McKinley J.P., Taylor G.J., Keil K., Ma M.-S. and Schmitt   Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+    R.A. (1984) Apollo 16: Impact sheets, contrasting nature of    J. and Rehfeldt A. (1981) Distribution and provenance of
+    the Cayley Plains and Descartes Mountains, and geologic   lunar highland rock types at North Ray Crater, Apollo 16.
+     history. Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys.   Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+--- mineralogy block 2; lines 40-52 ---
+Proc. 5th Lunar Sci. Conf. 1087-1096.                    Composition and evolution of the lunar crust in the Descartes
+                                                                  highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+    Vaniman D.T. and Papike J.J. (1978) The lunar highland   Res. 90, C449-C506.
+    melt-rock suite. Geophys. Res. Lett. 5, 429-432.
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Vaniman D.T. and Papike J.J. (1980) Lunar highland melt   In Geology of the Apollo 16 area, central lunar highlands.
+    rocks: Chemistry, petrology and silicate mineralogy. In Proc.   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Conf. Lunar Highlands Crust (Papike J.J. and Merrill R.B.,
+    eds.) 271-337. Pergamon.  Lunar Planetary Institute,   Tera F., Papanastassiou D.A. and Wasserburg G.J. (1974)
+    Houston.                                                    Isotopic evidence for a terminal lunar cataclysm.  Earth
+                                                                 Planet. Sci. Lett. 22, 1-21.
+    Reimold W.U., Nyquist L.E., Bansal B.M., Wooden J.L.,
+    Shih C.-Y., Wiesmann H. and Mackinnnon I.D.R. (1985)  Wasson J.T., Warren P.H., Kallemeyn G.W., McEwing C.E.,
+--- material block 3; lines 13-25 ---
+References for 67559                                     TS
+    Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,
+   Wacker K. and Jessberger E.K. (1986)  Composition,
+     structure and age of the Apollo 16 subregolith basement as  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    deduced from the chemistry of post-Imbrium melt bombs.   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,
+    E43-E54.                                                    Steele I.M. and Smith J.V. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   inventory. Curator Catalog, JSC
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                            Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+                                                                of some Apollo 16 rocks and fines: General petrologic model
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic   of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+--- material block 4; lines 28-49 ---
+LSPET (1972c) Preliminary examination of lunar samples.   microprobe analysis and petrogenetic interpretations of Li,
+    In Apollo 16 Preliminary Science Report. NASA SP-315,  Mg, Ti, K, Sr, Ba in lunar plagioclase.  Proc. 11th Lunar
+    7-1—7-58.                                                 Planet. Sci. Conf. 571-590.
+
+    McKinley J.P., Taylor G.J., Keil K., Ma M.-S. and Schmitt   Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+    R.A. (1984) Apollo 16: Impact sheets, contrasting nature of    J. and Rehfeldt A. (1981) Distribution and provenance of
+    the Cayley Plains and Descartes Mountains, and geologic   lunar highland rock types at North Ray Crater, Apollo 16.
+     history. Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys.   Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+    Res. 89, B513-B524.
+                                                                       Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+   Nava D.F. (1974a) Chemical compositions of some soils   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+    and rock types from the Apollo 15, 16, and 17 lunar sites.  Reimold W.U., Wacker K. and Wanke H. (1985)
+    Proc. 5th Lunar Sci. Conf. 1087-1096.                    Composition and evolution of the lunar crust in the Descartes
+                                                                  highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+    Vaniman D.T. and Papike J.J. (1978) The lunar highland   Res. 90, C449-C506.
+    melt-rock suite. Geophys. Res. Lett. 5, 429-432.
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Vaniman D.T. and Papike J.J. (1980) Lunar highland melt   In Geology of the Apollo 16 area, central lunar highlands.
+    rocks: Chemistry, petrology and silicate mineralogy. In Proc.   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Conf. Lunar Highlands Crust (Papike J.J. and Merrill R.B.,
+    eds.) 271-337. Pergamon.  Lunar Planetary Institute,   Tera F., Papanastassiou D.A. and Wasserburg G.J. (1974)
+    Houston.                                                    Isotopic evidence for a terminal lunar cataclysm.  Earth
+--- age block 5; lines 10-22 ---
+,19
+   References for 67559                                     TS
+    Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,
+   Wacker K. and Jessberger E.K. (1986)  Composition,
+     structure and age of the Apollo 16 subregolith basement as  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    deduced from the chemistry of post-Imbrium melt bombs.   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,
+    E43-E54.                                                    Steele I.M. and Smith J.V. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   inventory. Curator Catalog, JSC
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+--- references block 6; lines 7-19 ---
+,1            ,9          ,13      ,20                    ,28
+                           TS          ,10        0.9 g    0.4 g             TS                                   TS
+
+
+                                                                                 ,19
+   References for 67559                                     TS
+    Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,
+   Wacker K. and Jessberger E.K. (1986)  Composition,
+     structure and age of the Apollo 16 subregolith basement as  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    deduced from the chemistry of post-Imbrium melt bombs.   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,
+    E43-E54.                                                    Steele I.M. and Smith J.V. (1972c) Apollo 16 rake samples

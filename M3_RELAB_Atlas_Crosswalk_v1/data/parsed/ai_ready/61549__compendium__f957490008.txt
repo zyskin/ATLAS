@@ -1,0 +1,129 @@
+DOCUMENT_ID: 61549__compendium__f957490008
+ATLAS_SAMPLE_IDS: 61549
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61549.pdf
+SOURCE_PDF_SHA256: fa3ef0c7676f22b37cb69957c97d04805d6ff9e93ed883bf94130799f806224a
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 13-33 ---
+– see section on 61500.  It is a coherent dense impact
+   melt with microlites of mafic minerals in aphanitic
+   matrix.  It is similar to 63506.
+
+   Petrography
+   Warner et al. (1973) termed 61549 “metabasalt with
+   meta-norite clast”. “The texture of this rock reflects  En                                          Fs
+   the metamorphism. The matrix of the rock consists of
+                                                  Fo                                        Fa
+   prismatic to skeletal olivine crystals (Fo83) and H-         compiled by C Meyer
+   shaped, skeletal plagioclase tablets set in a groundmass
+    of anhedral pyroxene and fine-grained plagioclase          Figure 2: Mafic minerals in 61549.
+   (figure ).  Immersed in this matrix are abundant
+   plagioclase relics, few pink spinel relics and one large  Chemistry
+   meta-norite.”                                        Preliminary (table 1).
+
+   The composition of mafic minerals in 61549 are given  Radiogenic age dating
+   by Warner et al. (figure 2).                    None
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 2; lines 1-31 ---
+61549
+                               Mafic Impact Melt
+                                            3.76 grams
+
+
+
+
+
+                      Figure 1: Photo of 61549. Tick marks are 1 mm. S72-55347
+
+   Introduction                                                      Di                   Hd
+   61549 was collected as a rake sample near Plum Crater          Warner et al. 1976
+   – see section on 61500.  It is a coherent dense impact
+   melt with microlites of mafic minerals in aphanitic
+   matrix.  It is similar to 63506.
+
+   Petrography
+   Warner et al. (1973) termed 61549 “metabasalt with
+   meta-norite clast”. “The texture of this rock reflects  En                                          Fs
+   the metamorphism. The matrix of the rock consists of
+                                                  Fo                                        Fa
+   prismatic to skeletal olivine crystals (Fo83) and H-         compiled by C Meyer
+   shaped, skeletal plagioclase tablets set in a groundmass
+    of anhedral pyroxene and fine-grained plagioclase          Figure 2: Mafic minerals in 61549.
+   (figure ).  Immersed in this matrix are abundant
+   plagioclase relics, few pink spinel relics and one large  Chemistry
+   meta-norite.”                                        Preliminary (table 1).
+
+   The composition of mafic minerals in 61549 are given  Radiogenic age dating
+   by Warner et al. (figure 2).                    None
+--- age block 3; lines 23-33 ---
+shaped, skeletal plagioclase tablets set in a groundmass
+    of anhedral pyroxene and fine-grained plagioclase          Figure 2: Mafic minerals in 61549.
+   (figure ).  Immersed in this matrix are abundant
+   plagioclase relics, few pink spinel relics and one large  Chemistry
+   meta-norite.”                                        Preliminary (table 1).
+
+   The composition of mafic minerals in 61549 are given  Radiogenic age dating
+   by Warner et al. (figure 2).                    None
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 61549.       References for 61549
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    reference  Ryder82                                         16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    weight                                                     Catalog. pp. 370.
+   SiO2 %    45.7     (a)
+                                                                               ‘    TiO2
+   Al2O3     20.7     (a)                           LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   FeO       6.2      (a)                                  and chemical description. Science 179, 23-34.
+   MnO
+   MgO       14.6     (a)
+                                             LSPET (1972c) Preliminary examination of lunar samples.   CaO       11.5     (a)
+   Na2O      0.46     (a)                                       In Apollo 16 Preliminary Science Report. NASA SP-315,
+   K2O       0.18     (a)                                 7-1—7-58.
+   P2O5
+   S %
+                                                         Phinney W. and Lofgren G. (1973) Description, classification   sum
+                                                       and inventory of Apollo 16 rake samples from stations 1, 4
+   Sc ppm    8.6      (a)                                  and 13. Curators Office.
+   V
+--- material block 2; lines 11-23 ---
+LSPET (1972c) Preliminary examination of lunar samples.   CaO       11.5     (a)
+   Na2O      0.46     (a)                                       In Apollo 16 Preliminary Science Report. NASA SP-315,
+   K2O       0.18     (a)                                 7-1—7-58.
+   P2O5
+   S %
+                                                         Phinney W. and Lofgren G. (1973) Description, classification   sum
+                                                       and inventory of Apollo 16 rake samples from stations 1, 4
+   Sc ppm    8.6      (a)                                  and 13. Curators Office.
+   V
+    Cr
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16   Co        32       (a)
+    Ni                                                       rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Cu
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 61549.       References for 61549
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    reference  Ryder82                                         16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    weight                                                     Catalog. pp. 370.
+   SiO2 %    45.7     (a)
+                                                                               ‘    TiO2
+   Al2O3     20.7     (a)                           LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   FeO       6.2      (a)                                  and chemical description. Science 179, 23-34.
+   MnO
+--- references block 4; lines 62-71 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm
+   U ppm
+    technique:  (a) prelimineary data
+
+Lunar Sample Compendium
+C Meyer 2012

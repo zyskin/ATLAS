@@ -1,0 +1,130 @@
+DOCUMENT_ID: 67235__compendium__bfd1724818
+ATLAS_SAMPLE_IDS: 67235
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67235.pdf
+SOURCE_PDF_SHA256: 6d72ed25f6945b8523c9e9b1d830a14e79f0f120fe1946f918a9fb3dfa4e4ba1
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 6-29 ---
+Figure 1a,b: Top and bottom of 67235. Cube is 1 cm. S80-30317 and 318
+
+   Introduction
+                                                   Ilmenite occurs as clumps between pyroxene   67235 is a large special sample that was collected to
+                                                            oikocrysts. This texture is consistent with impact melt   study the outer surface of a lunar rock. It was returned
+                                                           rock.    in a special padded bag (Horz et al. 1972). However,
+   40 years later, it has still not been studied.
+                                            Chemistry
+   67235 was apparently found to lack special surface  Lindstrom and Salpus (1982) reported an analysis.
+    features.   It breaks into small coherent rhombs.   It
+   appears to be homogeneous throughout.             Processing
+                                                67235 has not been sawn, nor much disturbed.
+   This rock should be dated – probably by Ar/Ar.
+
+   Petrography
+  Two thin section, both from the same location, show
+   67235 to be a poikilitic impact melt rock (figure 2).
+   Pyroxene oikocrysts enclose fragments of plagioclase.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 2; lines 1-29 ---
+67235
+                               Impact Melt Breccia
+                                       936 grams
+
+
+
+
+
+                        Figure 1a,b: Top and bottom of 67235. Cube is 1 cm. S80-30317 and 318
+
+   Introduction
+                                                   Ilmenite occurs as clumps between pyroxene   67235 is a large special sample that was collected to
+                                                            oikocrysts. This texture is consistent with impact melt   study the outer surface of a lunar rock. It was returned
+                                                           rock.    in a special padded bag (Horz et al. 1972). However,
+   40 years later, it has still not been studied.
+                                            Chemistry
+   67235 was apparently found to lack special surface  Lindstrom and Salpus (1982) reported an analysis.
+    features.   It breaks into small coherent rhombs.   It
+   appears to be homogeneous throughout.             Processing
+                                                67235 has not been sawn, nor much disturbed.
+   This rock should be dated – probably by Ar/Ar.
+
+   Petrography
+  Two thin section, both from the same location, show
+   67235 to be a poikilitic impact melt rock (figure 2).
+   Pyroxene oikocrysts enclose fragments of plagioclase.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- age block 3; lines 15-27 ---
+40 years later, it has still not been studied.
+                                            Chemistry
+   67235 was apparently found to lack special surface  Lindstrom and Salpus (1982) reported an analysis.
+    features.   It breaks into small coherent rhombs.   It
+   appears to be homogeneous throughout.             Processing
+                                                67235 has not been sawn, nor much disturbed.
+   This rock should be dated – probably by Ar/Ar.
+
+   Petrography
+  Two thin section, both from the same location, show
+   67235 to be a poikilitic impact melt rock (figure 2).
+   Pyroxene oikocrysts enclose fragments of plagioclase.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 67235
+
+
+    reference  Lindstrom 1982
+    weight
+   SiO2 %
+    TiO2
+   Al2O3     20.1           (a)
+   FeO       7.23           (a)
+   MnO
+   MgO       12.4           (a)
+   CaO       12.8           (a)
+   Na2O      0.488         (a)
+   K2O
+   P2O5
+   S %
+   sum
+
+   Sc ppm    12.1           (a)
+   V
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 67235
+
+
+    reference  Lindstrom 1982
+    weight
+   SiO2 %
+    TiO2
+   Al2O3     20.1           (a)
+   FeO       7.23           (a)
+   MnO
+--- references block 3; lines 65-74 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm    4.9            (a)
+   U ppm     1.33           (a)
+    technique  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 4; CATEGORIES: references ===
+--- references block 1; lines 1-10 ---
+Figure 3a: Thin section 67235,4. 1 cm across.             Figure 3b: Thin section 67235,5.
+
+
+                                                    References for 67235.
+                 C Meyer 67235                          Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s                     2011   936 grams
+                                                               Catalog. pp. 370.
+
+               ,0        ,1             ,2      ,3               Hörz F., Carrier W.D., Young J.W., Duke C.M., Nagle J.S.
+           887 g   43 g      PB    1.3 g             and Fryxell R. (1972) Apollo 16 special samples. In Apollo

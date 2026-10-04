@@ -1,0 +1,156 @@
+DOCUMENT_ID: 67647__compendium__118e08067b
+ATLAS_SAMPLE_IDS: 67647
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67647.pdf
+SOURCE_PDF_SHA256: 7188fe1e0645f6059ad2589fbc82394812c43379f1c153fe334b9234d725fd17
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 14-33 ---
+the rim of North Ray Crater (NRC) – see section on
+                                                    67601.  It is relatively coherent with lots of zap pits
+                                                              (figure 1).
+
+                                             Petrography
+                                                67647 appears to be a highland regolith breccia with a
+                                               low maturity index Is/FeO = 2 (Jerde et al. 1987).
+                                                 However, it is broadly similar to other crushed white
+                                                       rocks on the rim of NRC. It has glass clasts, and glass
+                                                              in the matrix (figure 3).
+
+                                            Chemistry
+                                                     Jerde et al. (1987) found that 67647 was highly
+                                                  aluminous, with low trace element content, but
+                                                               relatively high Ir.
+
+                  Figure 2: Map of NRC.                Processing
+                                                   There is a thin section.
+
+Lunar Sample Compendium
+--- mineralogy block 2; lines 16-28 ---
+(figure 1).
+
+                                             Petrography
+                                                67647 appears to be a highland regolith breccia with a
+                                               low maturity index Is/FeO = 2 (Jerde et al. 1987).
+                                                 However, it is broadly similar to other crushed white
+                                                       rocks on the rim of NRC. It has glass clasts, and glass
+                                                              in the matrix (figure 3).
+
+                                            Chemistry
+                                                     Jerde et al. (1987) found that 67647 was highly
+                                                  aluminous, with low trace element content, but
+                                                               relatively high Ir.
+--- material block 3; lines 1-29 ---
+67647
+                                   Regolith Breccia
+                                        48 grams
+
+
+
+
+
+                            Figure 1: Photo of 67647. Scale in mm. S80-34091
+
+
+                                                 Introduction
+                                                67647 was collected as a rake sample from just inside
+                                                           the rim of North Ray Crater (NRC) – see section on
+                                                    67601.  It is relatively coherent with lots of zap pits
+                                                              (figure 1).
+
+                                             Petrography
+                                                67647 appears to be a highland regolith breccia with a
+                                               low maturity index Is/FeO = 2 (Jerde et al. 1987).
+                                                 However, it is broadly similar to other crushed white
+                                                       rocks on the rim of NRC. It has glass clasts, and glass
+                                                              in the matrix (figure 3).
+
+                                            Chemistry
+                                                     Jerde et al. (1987) found that 67647 was highly
+                                                  aluminous, with low trace element content, but
+                                                               relatively high Ir.
+--- treatment block 4; lines 14-26 ---
+the rim of North Ray Crater (NRC) – see section on
+                                                    67601.  It is relatively coherent with lots of zap pits
+                                                              (figure 1).
+
+                                             Petrography
+                                                67647 appears to be a highland regolith breccia with a
+                                               low maturity index Is/FeO = 2 (Jerde et al. 1987).
+                                                 However, it is broadly similar to other crushed white
+                                                       rocks on the rim of NRC. It has glass clasts, and glass
+                                                              in the matrix (figure 3).
+
+                                            Chemistry
+                                                     Jerde et al. (1987) found that 67647 was highly
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+References for 67647                           Table 1. Chemical composition of 67647
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   reference  Jerde87
+    Catalog. pp. 370.                                             weight
+                                                           SiO2 %    44.5       (a)
+                                                             TiO2       0.25       (a)
+    Jerde E.A., Warren P.H., Morris R.V., Heiken G.H. and   Al2O3     30.2       (a)
+   Vaniman D.T. (1987) A potpourri of regolith breccias:  FeO       2.38       (a)
+   “New” samples from the Apollo 14, 16 and 17 landing sites.  MnO      0.035      (a)
+                                              MgO       3.18       (a)
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 92,                                                CaO       17.6       (a)
+   E526-E536.                                      Na2O     0.515      (a)
+                                                 K2O       0.048      (a)
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic  P2O5
+                                                  S %
+   and chemical description. Science 179, 23-34.                                                    sum
+
+   LSPET (1972c) Preliminary examination of lunar samples.   Sc ppm   5           (a)
+    In Apollo 16 Preliminary Science Report. NASA SP-315,  V
+--- material block 2; lines 2-14 ---
+Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   reference  Jerde87
+    Catalog. pp. 370.                                             weight
+                                                           SiO2 %    44.5       (a)
+                                                             TiO2       0.25       (a)
+    Jerde E.A., Warren P.H., Morris R.V., Heiken G.H. and   Al2O3     30.2       (a)
+   Vaniman D.T. (1987) A potpourri of regolith breccias:  FeO       2.38       (a)
+   “New” samples from the Apollo 14, 16 and 17 landing sites.  MnO      0.035      (a)
+                                              MgO       3.18       (a)
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 92,                                                CaO       17.6       (a)
+   E526-E536.                                      Na2O     0.515      (a)
+                                                 K2O       0.048      (a)
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic  P2O5
+--- material block 3; lines 21-33 ---
+7-1—7-58.                                                   Co         5.3         (a)
+                                                                     Ni        35          (a)
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16  Cu
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904      Zn
+                                                 Ga         4.2         (a)
+                                                 Ge ppb
+   Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples  As
+   67515 to 68537:  Sample classification, description and  Se
+    inventory. Curator Catalog, JSC                       Rb
+                                                                 Sr        190        (a)
+                                                  Y
+    Sutton R.L. (1981) Documentation of Apollo 16 samples.   Zr
+    In Geology of the Apollo 16 area, central lunar highlands.  Nb
+--- references block 4; lines 1-9 ---
+References for 67647                           Table 1. Chemical composition of 67647
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   reference  Jerde87
+    Catalog. pp. 370.                                             weight
+                                                           SiO2 %    44.5       (a)
+                                                             TiO2       0.25       (a)
+    Jerde E.A., Warren P.H., Morris R.V., Heiken G.H. and   Al2O3     30.2       (a)
+   Vaniman D.T. (1987) A potpourri of regolith breccias:  FeO       2.38       (a)
+   “New” samples from the Apollo 14, 16 and 17 landing sites.  MnO      0.035      (a)
+--- references block 5; lines 63-72 ---
+Os ppb
+                                                                                                           Ir ppb     3           (a)
+                                                                     Pt ppb
+                                                      Au ppb
+                                                        Th ppm    0.23       (a)
+                                              U ppm     0.086      (a)
+                                                                      technique:  (a) INAA+RNAA
+
+Lunar Sample Compendium
+C Meyer 2012

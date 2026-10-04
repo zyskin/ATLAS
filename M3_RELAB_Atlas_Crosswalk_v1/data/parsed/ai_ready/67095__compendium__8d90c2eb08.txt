@@ -1,0 +1,339 @@
+DOCUMENT_ID: 67095__compendium__8d90c2eb08
+ATLAS_SAMPLE_IDS: 67095
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67095.pdf
+SOURCE_PDF_SHA256: 4d5aab95cbc05f1aa9231c5f5a5d81ffdc28fe60578493422644f89ac72f8a0f
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 23-37 ---
+Figures 2a, b illustrate the interior texture.  Large                                 A slab was cut through the middle of 76095. There are
+   plagioclase laths and some plagioclase inclusions                                                21 thin sections of 67095 (yet no good description!).
+   dominate the texture.
+
+   Chemistry
+   Warren and Wasson (1978) and Lindstrom and Salpus
+   (1981) reported the chemical composition of the
+    interior (figure 3). See et al. (1986) and Morris et al.
+   (1986) determined the chemical composition of the
+    glass coating.  Rancitelli et al. (1973) determined K,
+   U, Th for bulk sample (including glass coat). There
+   are significant amounts of meteoritic siderophiles in
+   the interior.
+
+Lunar Sample Compendium
+--- mineralogy block 2; lines 3-38 ---
+339.8 grams
+
+
+
+
+
+                         Figure 1: Glass coated sample 67095. Scale in cm. S72-37788.
+
+
+   Introduction                                              Radiogenic age dating
+   67095 is a glass-coated basaltic impact melt (figure 1)                                            67095 has not been dated.
+   or “bomb”.  It was found inside the rim of North Ray
+    Crater. It has not been dated, but the exposure to cosmic                                           Cosmogenic isotopes and exposure ages
+   rays is 50 m.y. (the age of North Ray Crater).                                                Drozd et al. (1974) determined 81Kr exposure age of
+                                                       50.2 m.y. Fruchter et al. (1978) determined the cosmic-
+   Petrography                                                       ray-induced activity of 26Al = 67.9 dpm/kg and 53Mn =
+   The only petrographic description of 67095 is found                                                261 dpm/kg. Rancitelli et al. (1973) determined 22Na
+    in Warren and Wasson (1978). They calculate that it is                                           = 56 dpm/kg and 26Al = 89 dpm/kg.
+   about 62% plagioclase (An90-95), 17% pyroxene
+   (En47Fs13Wo40-En59Fs27Wo14) and 12% olivine (Fo78-83).                                                 Processing
+   Figures 2a, b illustrate the interior texture.  Large                                 A slab was cut through the middle of 76095. There are
+   plagioclase laths and some plagioclase inclusions                                                21 thin sections of 67095 (yet no good description!).
+   dominate the texture.
+
+   Chemistry
+   Warren and Wasson (1978) and Lindstrom and Salpus
+   (1981) reported the chemical composition of the
+    interior (figure 3). See et al. (1986) and Morris et al.
+   (1986) determined the chemical composition of the
+    glass coating.  Rancitelli et al. (1973) determined K,
+   U, Th for bulk sample (including glass coat). There
+   are significant amounts of meteoritic siderophiles in
+   the interior.
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 3; lines 1-19 ---
+67095
+                                    Basaltic Impact Melt
+                                           339.8 grams
+
+
+
+
+
+                         Figure 1: Glass coated sample 67095. Scale in cm. S72-37788.
+
+
+   Introduction                                              Radiogenic age dating
+   67095 is a glass-coated basaltic impact melt (figure 1)                                            67095 has not been dated.
+   or “bomb”.  It was found inside the rim of North Ray
+    Crater. It has not been dated, but the exposure to cosmic                                           Cosmogenic isotopes and exposure ages
+   rays is 50 m.y. (the age of North Ray Crater).                                                Drozd et al. (1974) determined 81Kr exposure age of
+                                                       50.2 m.y. Fruchter et al. (1978) determined the cosmic-
+   Petrography                                                       ray-induced activity of 26Al = 67.9 dpm/kg and 53Mn =
+   The only petrographic description of 67095 is found                                                261 dpm/kg. Rancitelli et al. (1973) determined 22Na
+--- age block 4; lines 6-22 ---
+Figure 1: Glass coated sample 67095. Scale in cm. S72-37788.
+
+
+   Introduction                                              Radiogenic age dating
+   67095 is a glass-coated basaltic impact melt (figure 1)                                            67095 has not been dated.
+   or “bomb”.  It was found inside the rim of North Ray
+    Crater. It has not been dated, but the exposure to cosmic                                           Cosmogenic isotopes and exposure ages
+   rays is 50 m.y. (the age of North Ray Crater).                                                Drozd et al. (1974) determined 81Kr exposure age of
+                                                       50.2 m.y. Fruchter et al. (1978) determined the cosmic-
+   Petrography                                                       ray-induced activity of 26Al = 67.9 dpm/kg and 53Mn =
+   The only petrographic description of 67095 is found                                                261 dpm/kg. Rancitelli et al. (1973) determined 22Na
+    in Warren and Wasson (1978). They calculate that it is                                           = 56 dpm/kg and 26Al = 89 dpm/kg.
+   about 62% plagioclase (An90-95), 17% pyroxene
+   (En47Fs13Wo40-En59Fs27Wo14) and 12% olivine (Fo78-83).                                                 Processing
+
+=== PDF PAGE 3; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 67095.
+
+
+    reference  Laul 74    Palme78   Warren 78         See86             Morris86    Lindstrom81                  Rancitelli73
+    weight                                                  glass      interior   glass                        glass
+   SiO2 %             49         46.2    46.6        45.78    47.3                 (b)
+    TiO2      0.66     (a)            0.73    0.72      (a) 0.63     0.71                 (b)
+   Al2O3     21.7     (a) 23.7       21.8    21.77    (a) 27.29    22.2                 (b)
+   FeO       5.8      (a) 5.5        5.34    5.71      (a) 4.66      5.6                  (b) 5.18    5.18    4.87    (a)
+   MnO      0.08     (a) 0.08       0.08    0.08      (a) 0.07     0.08                 (b)
+   MgO      12       (a) 9.28       11.47   11.29    (a) 5.53     11                   (b)
+   CaO       12.4     (a) 13.5       12.6    12.5      (a) 15.6     12.8                 (b) 14.3    14.4    16.3    (a)
+   Na2O     0.59     (a) 0.68       0.64    0.62      (a) 0.61     0.61                 (b) 0.65    0.715   0.576  (a)
+   K2O       0.25     (a) 0.31       0.26    0.28      (a) 0.13     0.27                 (b)                            0.23
+   P2O5
+   S %
+   sum
+
+   Sc ppm    8.4      (a) 11.2     (a) 9.4     9.3       (a)                    9.97      (a) 9.25    11.9    8.7     (a)
+   V        30       (a)
+--- mineralogy block 2; lines 1-11 ---
+Table 1. Chemical composition of 67095.
+
+
+    reference  Laul 74    Palme78   Warren 78         See86             Morris86    Lindstrom81                  Rancitelli73
+    weight                                                  glass      interior   glass                        glass
+   SiO2 %             49         46.2    46.6        45.78    47.3                 (b)
+    TiO2      0.66     (a)            0.73    0.72      (a) 0.63     0.71                 (b)
+   Al2O3     21.7     (a) 23.7       21.8    21.77    (a) 27.29    22.2                 (b)
+   FeO       5.8      (a) 5.5        5.34    5.71      (a) 4.66      5.6                  (b) 5.18    5.18    4.87    (a)
+   MnO      0.08     (a) 0.08       0.08    0.08      (a) 0.07     0.08                 (b)
+   MgO      12       (a) 9.28       11.47   11.29    (a) 5.53     11                   (b)
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 67095.
+
+
+    reference  Laul 74    Palme78   Warren 78         See86             Morris86    Lindstrom81                  Rancitelli73
+    weight                                                  glass      interior   glass                        glass
+   SiO2 %             49         46.2    46.6        45.78    47.3                 (b)
+    TiO2      0.66     (a)            0.73    0.72      (a) 0.63     0.71                 (b)
+   Al2O3     21.7     (a) 23.7       21.8    21.77    (a) 27.29    22.2                 (b)
+   FeO       5.8      (a) 5.5        5.34    5.71      (a) 4.66      5.6                  (b) 5.18    5.18    4.87    (a)
+   MnO      0.08     (a) 0.08       0.08    0.08      (a) 0.07     0.08                 (b)
+--- references block 4; lines 65-74 ---
+Os ppb
+      Ir ppb     4        (a)            3.73    4.36      (a)
+    Pt ppb
+   Au ppb    4        (a) 2        (a) 2.77    6.77      (a)
+   Th ppm    3.2      (a) 3.65     (a) 3.3     3.5       (a)                    2.72      (a) 3.55    5.01    2.12    (a)  3.98
+   U ppm     0.8      (a) 1.1      (a) 1.1     1         (a)                    1.02      (a) 0.98    1.28    0.59    (a)  1.18
+    technique  (a) INAA, (b) elec probe
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 4; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 2. Chemical composition of 67095 cont.
+
+
+     reference  Hertogen77
+     weight       int.       glass
+    SiO2 %
+    TiO2
+    Al2O3
+   FeO
+   MnO
+   MgO
+   CaO
+   Na2O
+   K2O
+   P2O5
+   S %
+    sum
+
+    Sc ppm
+   V
+--- mineralogy block 2; lines 1-11 ---
+Table 2. Chemical composition of 67095 cont.
+
+
+     reference  Hertogen77
+     weight       int.       glass
+    SiO2 %
+    TiO2
+    Al2O3
+   FeO
+   MnO
+   MgO
+--- references block 3; lines 1-10 ---
+Table 2. Chemical composition of 67095 cont.
+
+
+     reference  Hertogen77
+     weight       int.       glass
+    SiO2 %
+    TiO2
+    Al2O3
+   FeO
+   MnO
+--- references block 4; lines 65-75 ---
+Os ppb
+       Ir ppb     1.38      5.81       (z)
+     Pt ppb
+    Au ppb    1.17      2.02       (z)
+    Th ppm
+   U ppm    1.36      1.07       (z)
+     technique:  (z) RNAA
+
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 6-18 ---
+2010         340 g
+
+                       ,1                                      ,2                                 slab
+                 182 g                          end
+
+
+                                              ,6                                              ,12                                               ,8                            ,3                                ,96                                                                 ,20                                                  ,15                                                        ,2      ,22                                         3.7 g                         glass                                PB                                glass                             PB                                                                 8.5 g                                                                      ,23                                   PB                                         40 g   11 g
+                                                ,52   ,35  ,39                         ,92
+                 PB                                            ,50  ,94    ,23   ,61  ,63  ,64
+                                                ,56   ,38  ,42           PB       18 g  5 g         3.3 g
+                         ,93               TS  TS  TS
+                  TS                                                                                  ,57
+                                                                                                     ,88 ,72 ,73
+
+=== PDF PAGE 6; CATEGORIES: age,references ===
+--- age block 1; lines 7-24 ---
+References for 67095
+                                                               Butler P. (1972) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                               Catalog. pp. 370.
+
+                                                     Drozd R.J., Hohenberg C.M., Morgan C.J. and Ralston C.E.
+                                                           (1974) Cosmic-ray exposure history at the Apollo 16 and
+                                                            other lunar sites: lunar surface dynamics.  Geochim.
+                                                    Cosmochim. Acta 38, 1625-1642.
+
+                                                              Fruchter J.S., Rancitelli L.A., Evans J.C. and Perkins R.W.
+                                                           (1978a) Lunar surface processes and cosmic ray histories
+                                                            over the past several million years. Proc. 9th Lunar Planet.
+                                                                        Sci. Conf. 2019-2032.
+
+                                                         Hertogen J., Janssens M.-J., Takahashi H., Palme H. and
+                                                       Anders E. (1977) Lunar basins and craters: Evidence for
+                                                                 systematic compositional changes of bombarding population.
+--- references block 2; lines 1-13 ---
+Figure 5: Subdivision of 67095. Scale in cm. S73-33247.
+
+
+
+
+
+                                                References for 67095
+                                                               Butler P. (1972) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                               Catalog. pp. 370.
+
+                                                     Drozd R.J., Hohenberg C.M., Morgan C.J. and Ralston C.E.
+                                                           (1974) Cosmic-ray exposure history at the Apollo 16 and
+
+=== PDF PAGE 7; CATEGORIES: material,mineralogy,treatment ===
+--- mineralogy block 1; lines 26-46 ---
+U.S. Geol. Survey Prof. Paper 1048
+   Morris R.V., See T.H. and Horz F. (1986) Composition of
+    the Cayley Formation at Apollo 16 as inferred from impact  Vaniman D.T. and Papike J.J. (1978) The lunar highland
+    melt splashes.  Proc. 17th Lunar Planet. Sci. Conf. in  J.   melt-rock suite. Geophys. Res. Lett. 5, 429-432.
+   Geophys. Res. 90, E21-E42.
+                                                    Vaniman D.T. and Papike J.J. (1980) Lunar highland melt
+   Palme H., Baddenhausen H., Blum K., Cendales M., Dreibus   rocks: Chemistry, petrology and silicate mineralogy. In Proc.
+    G., Hofmeister H., Kmse H., Palme C., Spettel B. Vilcsek E.   Conf. Lunar Highlands Crust (Papike J.J. and Merrill R.B.,
+   and Wanke H. (1978) New data on lunar samples and   eds.) 271-337. Pergamon.  Lunar Planetary Institute,
+    achondrites and a comparison of the least fractionated   Houston.
+   samples from the earth, the moon, and the eucrite parent
+    body. Proc. 9th Lunar Planet. Sci. Conf. 25-57.          Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+                                                        Apollo 16 rocks: Classification and petrogenetic model.
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties   Proc. 4th Lunar Sci. Conf. 481-504.
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.              Warren P.H. and Wasson J.T. (1978)  Compositional-
+                                                              petrographic investigation of pristine nonmare rocks. Proc.
+   Phinney W. and Lofgren G. (1973) Description, classification    9th Lunar Planet. Sci. Conf. 185-217.
+   and inventory of Apollo 16 rake samples from stations 1, 4
+   and 13.  Curators Office. JSC
+--- material block 2; lines 1-12 ---
+Korotev R.L. (1996) On the relationship between the Apollo   Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 91,
+   16 ancient regolith breccias and feldspathic fragmental   E3-E20.
+    breccias, and the composition of the prebasin crust in the
+    Central Highlands of the Moon. Meteor. & Planet. Sci. 31,   Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+   403-412.                                                                  J. and Rehfeldt A. (1981) Distribution and provenance of
+                                                                lunar highland rock types at North Ray Crater, Apollo 16.
+   Laul J.C.. Hill D.W. and Schmitt R.A. (1974)  Chemical   Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+    studies of Apollo 16 and 17 samples. Proc. 5th Lunar Sci.
+    Conf. 1047-1066.                                               Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                                                               A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Lindstrom M.M. and Salpus P.A. (1981)  Geochemical  Reimold W.U., Wacker K. and Wanke H.  (1985)
+    studies of rocks from North Ray Crater Apollo 16. Proc.   Composition and evolution of the lunar crust in the Descartes
+--- material block 3; lines 23-35 ---
+LSPET (1972) Preliminary examination of lunar samples.
+   Apollo 16 Preliminary Science Report. NASA SP-315, 7-   Ulrich G.E., Hodges C.A. and Muehlberger W.R. (1981)
+   1—7-58.                                           Geology of the Apollo 16 Area, Central Lunar Highlands.
+                                                           U.S. Geol. Survey Prof. Paper 1048
+   Morris R.V., See T.H. and Horz F. (1986) Composition of
+    the Cayley Formation at Apollo 16 as inferred from impact  Vaniman D.T. and Papike J.J. (1978) The lunar highland
+    melt splashes.  Proc. 17th Lunar Planet. Sci. Conf. in  J.   melt-rock suite. Geophys. Res. Lett. 5, 429-432.
+   Geophys. Res. 90, E21-E42.
+                                                    Vaniman D.T. and Papike J.J. (1980) Lunar highland melt
+   Palme H., Baddenhausen H., Blum K., Cendales M., Dreibus   rocks: Chemistry, petrology and silicate mineralogy. In Proc.
+    G., Hofmeister H., Kmse H., Palme C., Spettel B. Vilcsek E.   Conf. Lunar Highlands Crust (Papike J.J. and Merrill R.B.,
+   and Wanke H. (1978) New data on lunar samples and   eds.) 271-337. Pergamon.  Lunar Planetary Institute,
+    achondrites and a comparison of the least fractionated   Houston.
+--- material block 4; lines 38-50 ---
+Apollo 16 rocks: Classification and petrogenetic model.
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties   Proc. 4th Lunar Sci. Conf. 481-504.
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.              Warren P.H. and Wasson J.T. (1978)  Compositional-
+                                                              petrographic investigation of pristine nonmare rocks. Proc.
+   Phinney W. and Lofgren G. (1973) Description, classification    9th Lunar Planet. Sci. Conf. 185-217.
+   and inventory of Apollo 16 rake samples from stations 1, 4
+   and 13.  Curators Office. JSC
+
+    Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+   (1973)  Lunar surface and solar process analyses from
+   cosmogenic radionuclide measurements at the Apollo 16 site
+    (abs). Lunar Sci. IV, 609-612. Lunar Planetary Institute,
+--- treatment block 5; lines 33-45 ---
+G., Hofmeister H., Kmse H., Palme C., Spettel B. Vilcsek E.   Conf. Lunar Highlands Crust (Papike J.J. and Merrill R.B.,
+   and Wanke H. (1978) New data on lunar samples and   eds.) 271-337. Pergamon.  Lunar Planetary Institute,
+    achondrites and a comparison of the least fractionated   Houston.
+   samples from the earth, the moon, and the eucrite parent
+    body. Proc. 9th Lunar Planet. Sci. Conf. 25-57.          Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+                                                        Apollo 16 rocks: Classification and petrogenetic model.
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties   Proc. 4th Lunar Sci. Conf. 481-504.
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.              Warren P.H. and Wasson J.T. (1978)  Compositional-
+                                                              petrographic investigation of pristine nonmare rocks. Proc.
+   Phinney W. and Lofgren G. (1973) Description, classification    9th Lunar Planet. Sci. Conf. 185-217.
+   and inventory of Apollo 16 rake samples from stations 1, 4
+   and 13.  Curators Office. JSC

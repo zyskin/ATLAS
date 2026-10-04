@@ -1,0 +1,185 @@
+DOCUMENT_ID: 10070__compendium__9de1028526
+ATLAS_SAMPLE_IDS: 10070
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10070.pdf
+SOURCE_PDF_SHA256: 4abbb2376bf1c8ce55282056de0244a634ba8f4758d9568015fb3e3cc7010279
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 13-39 ---
+more matrix than most and a higher content of rare gas                                                        cataloged in 1969 and “recataloged” by Kramer et al.
+   than the soil.                                                          (1977). There are 3 thin sections. Some parts of 10070
+                                                 were renumbered 10999, apparently because they are
+   Petrography                                    samples of an unknown basalt.
+   Simon et al. (1984) included breccia 10070 in their
+   comprehensive study of Apollo 11 regolith breccias –
+    their mode is given in the table. They calculated that
+     it had about 27 % highland component, but couldn’t
+    directly identify that many clasts of highland rock.
+                                                        Simon’s Mode for 10070
+                                                                   S    L
+   Chemistry                                                               Mare Basalt                 6.4      6.3
+   Rhodes and Blanchard (1981) found that the            Highland Component        0.7
+   composition of 10070 was similar to that of the other             Regolith breccia            3.6      2.2
+    regolith breccias and 10084 (figures 3 and 4 ).                     Agglutinate                 7.8      3.8
+                                                                      Pyroxene                   4.2
+                                                                             Olivine                     0.1
+   Other Studies                                                         Plagioclase                 1.1
+   Funkhouser et al. (1970) and Bogard et al. (1971)             Ilmenite                    0.6
+   reported the abundance and isotopic composition of           Orange glass                1.8      0.2
+                                                                         Other glass                 1.5    rare gases from 10070.                                                                         Matrix                     59.7 %
+
+
+
+
+
+Lunar Sample Compendium
+--- material block 2; lines 1-39 ---
+10070
+                                   Regolith Breccia
+                                            60.1 grams
+
+
+
+
+
+                        Figure 1: Photo of 10070,4. Scale is 5 cm across. NASA S75-34241.
+
+   Introduction                                                 Processing
+   10070 is a typical Apollo 11 regolith breccia.  It has                                                  Apollo 11 samples were originally described and
+   more matrix than most and a higher content of rare gas                                                        cataloged in 1969 and “recataloged” by Kramer et al.
+   than the soil.                                                          (1977). There are 3 thin sections. Some parts of 10070
+                                                 were renumbered 10999, apparently because they are
+   Petrography                                    samples of an unknown basalt.
+   Simon et al. (1984) included breccia 10070 in their
+   comprehensive study of Apollo 11 regolith breccias –
+    their mode is given in the table. They calculated that
+     it had about 27 % highland component, but couldn’t
+    directly identify that many clasts of highland rock.
+                                                        Simon’s Mode for 10070
+                                                                   S    L
+   Chemistry                                                               Mare Basalt                 6.4      6.3
+   Rhodes and Blanchard (1981) found that the            Highland Component        0.7
+   composition of 10070 was similar to that of the other             Regolith breccia            3.6      2.2
+    regolith breccias and 10084 (figures 3 and 4 ).                     Agglutinate                 7.8      3.8
+                                                                      Pyroxene                   4.2
+                                                                             Olivine                     0.1
+   Other Studies                                                         Plagioclase                 1.1
+   Funkhouser et al. (1970) and Bogard et al. (1971)             Ilmenite                    0.6
+   reported the abundance and isotopic composition of           Orange glass                1.8      0.2
+                                                                         Other glass                 1.5    rare gases from 10070.                                                                         Matrix                     59.7 %
+
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 1-22 ---
+25
+                                                                                20                      Apollo soils
+                                                                                              10070           breccia
+
+                                                                                15
+                                 FeO          10084
+
+                                                                                10
+
+
+                                                                                    5
+
+
+                                                                                    0
+                                                                                      0       5       10      15      20      25      30      35
+                                                             Al2O3
+
+                                                                 Figure 3: Composition of 10070 and 10084
+                                                           compared with that of Apollo soil samples.
+
+
+                                                                                                1000
+--- material block 2; lines 1-9 ---
+25
+                                                                                20                      Apollo soils
+                                                                                              10070           breccia
+
+                                                                                15
+                                 FeO          10084
+
+                                                                                10
+--- material block 3; lines 13-25 ---
+0
+                                                                                      0       5       10      15      20      25      30      35
+                                                             Al2O3
+
+                                                                 Figure 3: Composition of 10070 and 10084
+                                                           compared with that of Apollo soil samples.
+
+
+                                                                                                1000
+
+                                                                                   10070       Figure 2: Photomicrograph of 10070,22. NASA S76-
+      26308.                                                                               100
+--- material block 4; lines 40-52 ---
+0.1
+                                                                                     La      Pr    Sm    Gd     Dy      Er     Yb                                                                             Ce    Nd     Eu     Tb    Ho    Tm     Lu
+
+                                                                 Figure 4: Normalized rare earth element diagram
+                                                                          for breccia 10070 compared with soil 10084 (data
+                                                              from Wiesmann et al. 1975).
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-18 ---
+Table 1. Chemical composition of 10070.      References for 10070
+                                                       Bogard D.D., Funkhouser J.G., Schaeffer O.A. and Zahringer
+    reference  Rhodes81  Wiesmann75  Goles70                                                                                  J. (1971) Noble gas abundances in lunar material-cosmic    weight              51 mg
+   SiO2 %   42       (a)              44                       ray spallation products and radiation ages from the Sea of
+    TiO2      7.47     (a)                8.3                        Tranquillity and the Ocean of Storms. J. Geophys. Res. 76,
+   Al2O3     13.01   (a)              14
+   FeO      15.71   (a)               16.2                   2757-2779.
+   MnO      0.21     (a)                0.2      (c )
+   MgO      7.99     (a)                8.6
+   CaO      11.81   (a)               12.3                   Funkhauser J.G., Schaeffer O.A., Bogard D.D. and Zahringer
+   Na2O     0.44     (a)                0.5      (c )                    J. (1970) Gas analysis of the lunar surface. Proc. Apollo 11
+   K2O      0.19     (a) 0.18       (b)
+                                                      Lunar Sci. Conf. 1111-1116.   P2O5     0.14     (a)
+   S %
+   sum                                                  Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,
+   Sc ppm                             57.4    (c )           Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+   V                               82      (c )              abundances by instrumental activation analyses in chips from
+    Cr       2050    (a) 2100       (b) 1860    (c )
+--- material block 2; lines 37-49 ---
+Cd ppb                                                  (1970) The Apollo 11 samples: Introduction. Proc. Apollo
+     In ppb
+   Sn ppb                                                11 Lunar Science Conf. 1-54.
+   Sb ppb
+    Te ppb
+   Cs ppm                                          Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+   Ba                 192        (b) 310     (c )               of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+   La                    17.9       (b) 17.3    (c )
+                                                            Conf. in J. Geophys. Res. 89, C109-132.   Ce                    51.8       (b) 56      (c )
+    Pr
+   Nd                    40.2       (b)                                                  Wiesmann H. and Hubbard N.J. (1975) A compilation of   Sm                   13.7       (b) 13.1    (c )
+   Eu                    1.77       (b) 1.74    (c )               the Lunar Sample Data Generated by the Gast, Nyquist and
+   Gd                    19.2       (b)                      Hubbard Lunar Sample PI-Ships. Unpublished. JSC
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 10070.      References for 10070
+                                                       Bogard D.D., Funkhouser J.G., Schaeffer O.A. and Zahringer
+    reference  Rhodes81  Wiesmann75  Goles70                                                                                  J. (1971) Noble gas abundances in lunar material-cosmic    weight              51 mg
+   SiO2 %   42       (a)              44                       ray spallation products and radiation ages from the Sea of
+    TiO2      7.47     (a)                8.3                        Tranquillity and the Ocean of Storms. J. Geophys. Res. 76,
+   Al2O3     13.01   (a)              14
+   FeO      15.71   (a)               16.2                   2757-2779.
+   MnO      0.21     (a)                0.2      (c )
+   MgO      7.99     (a)                8.6
+--- references block 4; lines 61-70 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm
+   U ppm                0.71       (b) 0.62    (c )
+    technique: (a) XRF, (b) IDMS, (c ) INAA
+
+Lunar Sample Compendium
+C Meyer 2011

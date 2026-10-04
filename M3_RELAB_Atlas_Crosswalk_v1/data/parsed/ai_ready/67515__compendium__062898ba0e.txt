@@ -1,0 +1,99 @@
+DOCUMENT_ID: 67515__compendium__062898ba0e
+ATLAS_SAMPLE_IDS: 67515,67516,67517,67518,67519
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67515.pdf
+SOURCE_PDF_SHA256: e02c3b77513378100503148191f632ca224de16d73faf46b9803b3f8f7556b6e
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-12 ---
+67515 – 60.8 grams
+                                              67516 – 14.4 grams
+                                              67517 – 9.65 grams
+                                              67518 – 3.74 grams
+                                              67519 – 2.04 grams
+                                                              Anorthositic Breccia
+
+
+
+
+        Figure 1: Photo of 67515. Cube is 1 cm. S72-43481
+
+=== PDF PAGE 3; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 28-46 ---
+Petrography                                                               In Apollo 16 Preliminary Science Report. NASA SP-315,
+    Steele and Smith (1972) gave the original descriptions                                                     7-1—7-58.
+   of these particles.  Ryder and Norman (1980) and
+    Stoffler et al. (1981) found that they were feldspathic  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    granulite and contain areas of aphanitic impact melt.   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   In thin section they appear to be pristine and monomict
+    (figures 7 - 13). They are mostly plagioclase, with  Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and   only minor mafic minerals. Textures of lithic fragments
+                                                                 inventory. Curator Catalog, JSC   vary from cataclastic anorthosite to feldspathic
+    granulite.                                                                       Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+                                                                                  J. and Rehfeldt A. (1981) Distribution and provenance of
+   Although there are eight thin sections, there has been                                                                lunar highland rock types at North Ray Crater, Apollo 16.
+   no petrographic description with resulting pyroxene   Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+   diagrams. They await study - perhaps along with the
+   White Boulder samples (67455 etc.)                       Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                                                               A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Chemistry                                   Reimold W.U., Wacker K. and Wanke H. (1985)
+                                                         Composition and evolution of the lunar crust in the Descartes   None
+                                                                 highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+--- material block 2; lines 15-45 ---
+,3                                              ,1    ,5
+                              TS                             TS  TS
+
+   Introduction                                                   References for 67515
+   These chalky white rocks were returned in the same   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   bag. They are from a rake sample taken near the White   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   Boulder on the south rim of North Ray Crater - see   Catalog. pp. 370.
+    section on 67481. They are friable, which is why they
+   are rounded.  They contain lithic fragments of  LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.    cataclastic anorthosite and feldspathic granulite.
+
+                                             LSPET (1972c) Preliminary examination of lunar samples.
+   Petrography                                                               In Apollo 16 Preliminary Science Report. NASA SP-315,
+    Steele and Smith (1972) gave the original descriptions                                                     7-1—7-58.
+   of these particles.  Ryder and Norman (1980) and
+    Stoffler et al. (1981) found that they were feldspathic  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    granulite and contain areas of aphanitic impact melt.   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   In thin section they appear to be pristine and monomict
+    (figures 7 - 13). They are mostly plagioclase, with  Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and   only minor mafic minerals. Textures of lithic fragments
+                                                                 inventory. Curator Catalog, JSC   vary from cataclastic anorthosite to feldspathic
+    granulite.                                                                       Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+                                                                                  J. and Rehfeldt A. (1981) Distribution and provenance of
+   Although there are eight thin sections, there has been                                                                lunar highland rock types at North Ray Crater, Apollo 16.
+   no petrographic description with resulting pyroxene   Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+   diagrams. They await study - perhaps along with the
+   White Boulder samples (67455 etc.)                       Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                                                               A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Chemistry                                   Reimold W.U., Wacker K. and Wanke H. (1985)
+                                                         Composition and evolution of the lunar crust in the Descartes   None
+--- age block 3; lines 42-54 ---
+White Boulder samples (67455 etc.)                       Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                                                               A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Chemistry                                   Reimold W.U., Wacker K. and Wanke H. (1985)
+                                                         Composition and evolution of the lunar crust in the Descartes   None
+                                                                 highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+                                                            Res. 90, C449-C506.
+   Radiogenic age dating
+   None                                                   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                               In Geology of the Apollo 16 area, central lunar highlands.
+                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- references block 4; lines 13-25 ---
+,0                                        ,1     ,2,2                       ,0       ,3   ,4    ,2                            3.4 g                         PB   0.10.1 gg                  1.5 g  PB PB  0.4 g
+
+                                              ,3                                              ,1    ,5
+                              TS                             TS  TS
+
+   Introduction                                                   References for 67515
+   These chalky white rocks were returned in the same   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   bag. They are from a rake sample taken near the White   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   Boulder on the south rim of North Ray Crater - see   Catalog. pp. 370.
+    section on 67481. They are friable, which is why they
+   are rounded.  They contain lithic fragments of  LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.    cataclastic anorthosite and feldspathic granulite.

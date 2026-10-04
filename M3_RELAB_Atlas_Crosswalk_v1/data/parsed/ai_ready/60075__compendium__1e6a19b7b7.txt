@@ -1,0 +1,125 @@
+DOCUMENT_ID: 60075__compendium__1e6a19b7b7
+ATLAS_SAMPLE_IDS: 60075
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60075.pdf
+SOURCE_PDF_SHA256: 969e0b2e9d56135e3f646535c3655e467f25b5bb6ad16549d00a95a995d0977b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 17-32 ---
+Petrography                              = 630 ppm.
+   The only petrographic description is that of Ryder and
+  Norman (1980): 60075 is a “highly porous and  Radiogenic age dating
+   fragmental breccia composed of abundant small clasts  none
+    in a fine-grained clastic matrix. Lithic clasts include
+   granoblastic anorthosites, troctolites and norites,  Processing
+    cataclastic anorthosite, spinel-bearing basaltic impact  This sample must have broke up during transit, because
+   melt and vitric matrix breccia. Plagioclase, pyroxene   there were 13 pieces during PET.  There are 6 thin
+   and olivine clasts are also present as well as metal,   sections, from 2 potted butts.
+    troilite, oxide and devitrified brown glass fragments.
+   Pyroxene and plagioclase clasts occasionally contain
+    parallel rod and stringers of exsolved opaques”. None
+   of these phases have apparently been analyzed.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 2; lines 1-30 ---
+60075
+                                Fragmental Breccia
+                                           183.8 grams
+
+
+
+
+
+                                Figure 1: Photo of 60075 . Scale in cm/mm. S75-33675
+
+
+   Introduction                               Chemistry
+   60075 was collected about 170 meters from the LM.  70075 is highly aluminous (Rose et al. 1975).  The
+     It is a friable, porous, feldspathic breccia (figure 1). It  low value for Ni indicates that a clast was analyzed.
+   has not been well-studied.                       Moore and Lewis (1976) and Cripe and Moore (1975)
+                                                          reported carbon = 4 ppm, nitrogen = 66 ppm and sulfur
+   Petrography                              = 630 ppm.
+   The only petrographic description is that of Ryder and
+  Norman (1980): 60075 is a “highly porous and  Radiogenic age dating
+   fragmental breccia composed of abundant small clasts  none
+    in a fine-grained clastic matrix. Lithic clasts include
+   granoblastic anorthosites, troctolites and norites,  Processing
+    cataclastic anorthosite, spinel-bearing basaltic impact  This sample must have broke up during transit, because
+   melt and vitric matrix breccia. Plagioclase, pyroxene   there were 13 pieces during PET.  There are 6 thin
+   and olivine clasts are also present as well as metal,   sections, from 2 potted butts.
+    troilite, oxide and devitrified brown glass fragments.
+   Pyroxene and plagioclase clasts occasionally contain
+    parallel rod and stringers of exsolved opaques”. None
+   of these phases have apparently been analyzed.
+--- age block 3; lines 13-25 ---
+60075 was collected about 170 meters from the LM.  70075 is highly aluminous (Rose et al. 1975).  The
+     It is a friable, porous, feldspathic breccia (figure 1). It  low value for Ni indicates that a clast was analyzed.
+   has not been well-studied.                       Moore and Lewis (1976) and Cripe and Moore (1975)
+                                                          reported carbon = 4 ppm, nitrogen = 66 ppm and sulfur
+   Petrography                              = 630 ppm.
+   The only petrographic description is that of Ryder and
+  Norman (1980): 60075 is a “highly porous and  Radiogenic age dating
+   fragmental breccia composed of abundant small clasts  none
+    in a fine-grained clastic matrix. Lithic clasts include
+   granoblastic anorthosites, troctolites and norites,  Processing
+    cataclastic anorthosite, spinel-bearing basaltic impact  This sample must have broke up during transit, because
+   melt and vitric matrix breccia. Plagioclase, pyroxene   there were 13 pieces during PET.  There are 6 thin
+   and olivine clasts are also present as well as metal,   sections, from 2 potted butts.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+References for 60075   Table 1. Chemical composition of 60075
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  Rose 75
+    weight                                                     Catalog. pp. 370.
+   SiO2 %    45.47     (a)
+    TiO2       0.2        (a)                                   Cripe J.D. and Moore C.B. (1975) Total sulfur contents of
+   Al2O3     32.55     (a)
+                                                         Apollo 15, 16, and 17 samples (abs). Lunar Sci. VI, 167-   FeO       1.73      (a)
+   MnO       0.02      (a)                                    169. Lunar Planetary Institute, Houston.
+   MgO       1.87      (a)
+   CaO       17.63     (a)                                  Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   Na2O      0.67      (a)
+   K2O       0.05      (a)                                        in Apollo 16 highland rocks: Manifestations of volatile-
+   P2O5      0.02      (a)                                   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   S %                                                     259.
+   sum
+   Sc ppm    5.1        (a)                           LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   V          9.1        (a)                                 and chemical description. Science 179, 23-34.
+    Cr                      (a)
+--- chemistry block 2; lines 27-39 ---
+Se                                                          of Apollo 15, 16 and 17 lunar rocks and breccias (abs). Lunar
+   Rb        1          (a)                                           Sci. VII, 571-573. Lunar Planetary Institute, Houston.
+    Sr        174       (a)
+   Y          7.6        (a)                               Rose H.J., Baedecker P.A., Berman S., Christian R.P.,
+    Zr        28        (a)
+   Nb                                               Dwornik E.J., Finkelman R.B. and Schnepfe M.M. (1975a)
+   Mo                                                 Chemical composition of rocks and soils returned by the
+   Ru                                                   Apollo 15, 16, and 17 missions. Proc. 6th Lunar Sci. Conf.
+   Rh                                                   1363-1373.
+   Pd ppb
+   Ag ppb
+   Cd ppb                                              Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+     In ppb                                                    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+--- references block 3; lines 1-9 ---
+References for 60075   Table 1. Chemical composition of 60075
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  Rose 75
+    weight                                                     Catalog. pp. 370.
+   SiO2 %    45.47     (a)
+    TiO2       0.2        (a)                                   Cripe J.D. and Moore C.B. (1975) Total sulfur contents of
+   Al2O3     32.55     (a)
+                                                         Apollo 15, 16, and 17 samples (abs). Lunar Sci. VI, 167-   FeO       1.73      (a)
+   MnO       0.02      (a)                                    169. Lunar Planetary Institute, Houston.
+--- references block 4; lines 62-71 ---
+Os ppb                                     0.8 g  PB   1.1 g  PB   0.5 g
+      Ir ppb
+    Pt ppb
+   Au ppb                             Moore            ,33   Rose    ,36                                                                ,34             ,37
+   Th ppm                                                    ,35          TS
+   U ppm                                                     ,38
+    technique:  (a) “microchemical”                     TS
+
+Lunar Sample Compendium
+C Meyer 2012

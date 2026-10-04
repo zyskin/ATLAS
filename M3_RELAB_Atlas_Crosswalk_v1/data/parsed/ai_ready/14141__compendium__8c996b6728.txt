@@ -1,0 +1,409 @@
+DOCUMENT_ID: 14141__compendium__8c996b6728
+ATLAS_SAMPLE_IDS: 14141
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14141.pdf
+SOURCE_PDF_SHA256: 2cde3cd8acdfe7ee5625707ea52a3770a35a9ec0797392188bd8e01e13f924a1
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 33-45 ---
+sample at Cone Crater didn’t work, because the material
+   was too coarse and fell out (Sutton et al. (1972) and
+   Swann et al. (1972). The material in the soil is similar
+    to the Fra Mauro breccias – see 14321 etc.
+
+   Petrography                                             Figure 3: Photo of area where 14141 was collected.
+   The maturity index Is/FeO = 5.7 is very low for this    NASA AS14-64-9127.
+    soil (Morris 1978). The grain size distribution for
+   14141 was determined by King et al. (1972) and
+                                              Kramer and Twedell (1977) described some of the  McKay et al. (1972) and summarized by Graf (1993).
+                                                               particles (coarse fines) that were seived from this soil.     It is a much coarser soil that other Apollo samples
+                                                Hubbard et al. (1973) and Warren et al. (1978) have    (figure 4).
+                                                      analyzed coarse fine particles (table 1).
+--- material block 2; lines 1-8 ---
+14141
+                                            Soil
+                                           56.25 grams
+--- material block 3; lines 16-53 ---
+carrying tools and samples. NASA AS14-64-9121.         and ALSEP.
+
+
+
+
+   CDR     Right now, I’m sampling a layer that is sort of a light
+    grey just under the regolith. That went into bag 9 (14141) and
+   bag 10 was a sample of some of the surface rocks (14068-14072)
+   – that were right around that area. It looks like kind of a secondary
+    impact that has disrupted the surface regolith and gone on down
+    into the grey area.
+
+
+
+   Introduction
+    Soil sample 14141 was collected from near the rim of
+   Cone Crater (figures 1, 2, 3). An attempt to take a core
+   sample at Cone Crater didn’t work, because the material
+   was too coarse and fell out (Sutton et al. (1972) and
+   Swann et al. (1972). The material in the soil is similar
+    to the Fra Mauro breccias – see 14321 etc.
+
+   Petrography                                             Figure 3: Photo of area where 14141 was collected.
+   The maturity index Is/FeO = 5.7 is very low for this    NASA AS14-64-9127.
+    soil (Morris 1978). The grain size distribution for
+   14141 was determined by King et al. (1972) and
+                                              Kramer and Twedell (1977) described some of the  McKay et al. (1972) and summarized by Graf (1993).
+                                                               particles (coarse fines) that were seived from this soil.     It is a much coarser soil that other Apollo samples
+                                                Hubbard et al. (1973) and Warren et al. (1978) have    (figure 4).
+                                                      analyzed coarse fine particles (table 1).
+
+  McKay et al. (1972) and Simon et al. (1982) studied
+                                            Chemistry   the petrology of this soil and compared it with other
+                                                    Laul et al. (1982), Lindstrom et al. (1972), Morgan et   Apollo 14 soils. It is similar except that there are fewer
+                                                                          al. (19720 and Wasson et al. (1973) determined the    agglutinates.
+
+Lunar Sample Compendium
+C Meyer 2008
+--- treatment block 4; lines 33-45 ---
+sample at Cone Crater didn’t work, because the material
+   was too coarse and fell out (Sutton et al. (1972) and
+   Swann et al. (1972). The material in the soil is similar
+    to the Fra Mauro breccias – see 14321 etc.
+
+   Petrography                                             Figure 3: Photo of area where 14141 was collected.
+   The maturity index Is/FeO = 5.7 is very low for this    NASA AS14-64-9127.
+    soil (Morris 1978). The grain size distribution for
+   14141 was determined by King et al. (1972) and
+                                              Kramer and Twedell (1977) described some of the  McKay et al. (1972) and summarized by Graf (1993).
+                                                               particles (coarse fines) that were seived from this soil.     It is a much coarser soil that other Apollo samples
+                                                Hubbard et al. (1973) and Warren et al. (1978) have    (figure 4).
+                                                      analyzed coarse fine particles (table 1).
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 27-39 ---
+ilmenite              0.2           0.4       0.7
+           glass                5.6           4.7       20.3
+
+
+
+
+    chemical composition of 14141 (table 1). Hubbard et
+     al. (1973) and Warren et al. (1978) give compositions
+    of coarse fine particles.
+
+   Moore et al. (1972) and Cadogen et al. (1972) reported
+   low carbon content (figure 6).
+--- mineralogy block 2; lines 1-34 ---
+Modal content of soil 14141
+              90 – 150 micron
+               from McKay et al. 1972
+                Agglutinates     5.2%
+                 Basalt             4.2
+                Breccia           57.3
+                Anorthosite
+                Norite
+              Gabbro
+                 Plagioclase        7.6
+               Pyroxene 11.8
+                Olivine            0.4
+                 Ilmenite           0.4
+                Glass other        12.4
+
+      Mode for soil 14141.
+          from Simon et al. 1982
+                           90+ microns  90-20    20-10
+           agglutinates          11.7
+           dark matrix breccia   21.3
+          fused component                  16.9      14.3
+               lithic clasts          36.2          42.2      18.3
+           plagioclase           9.7         14       27.7
+          pyroxene            14.7        18       13.7
+             olivine                             3.8      3
+              silica                                         1.7
+            ilmenite              0.2           0.4       0.7
+           glass                5.6           4.7       20.3
+
+
+
+
+    chemical composition of 14141 (table 1). Hubbard et
+     al. (1973) and Warren et al. (1978) give compositions
+--- material block 3; lines 1-26 ---
+Modal content of soil 14141
+              90 – 150 micron
+               from McKay et al. 1972
+                Agglutinates     5.2%
+                 Basalt             4.2
+                Breccia           57.3
+                Anorthosite
+                Norite
+              Gabbro
+                 Plagioclase        7.6
+               Pyroxene 11.8
+                Olivine            0.4
+                 Ilmenite           0.4
+                Glass other        12.4
+
+      Mode for soil 14141.
+          from Simon et al. 1982
+                           90+ microns  90-20    20-10
+           agglutinates          11.7
+           dark matrix breccia   21.3
+          fused component                  16.9      14.3
+               lithic clasts          36.2          42.2      18.3
+           plagioclase           9.7         14       27.7
+          pyroxene            14.7        18       13.7
+             olivine                             3.8      3
+              silica                                         1.7
+--- material block 4; lines 37-49 ---
+Moore et al. (1972) and Cadogen et al. (1972) reported
+   low carbon content (figure 6).
+
+   Other Studies
+   Crozaz et al. (1972) and Berdot et al. (1972) measured
+    tracks from cosmic rays, finding fewer grains with high
+                                                                 Figure 4: Unusual grain size distribution for 14141    track density than for 14259 (mature surface).
+                                                                  (from Graf 1993).
+--- treatment block 5; lines 37-49 ---
+Moore et al. (1972) and Cadogen et al. (1972) reported
+   low carbon content (figure 6).
+
+   Other Studies
+   Crozaz et al. (1972) and Berdot et al. (1972) measured
+    tracks from cosmic rays, finding fewer grains with high
+                                                                 Figure 4: Unusual grain size distribution for 14141    track density than for 14259 (mature surface).
+                                                                  (from Graf 1993).
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 1-22 ---
+25                                                                           1000
+           20                      Apollo soils
+                                                                                            100                             14141
+           15
+  FeO                                                                                 sample/chondrite
+           10                      14141                                               10
+
+
+            5
+
+                                                                                              1
+
+            0
+              0       5       10      15      20      25      30      35
+
+                                                                                                               0.1                     Al2O3
+                                                                                                   La Ce   Pr  Nd Sm  Eu Gd  Tb  Dy  Ho  Er  Tm  Yb  Lu
+         Figure 5: Composition of Apollo soil samples
+                                                                 Figure 7: Normalized rare-earth-element diagram          including 14141.
+                                                                           for 14141 (data from Laul et al. 1982).
+                   200
+--- chemistry block 2; lines 32-44 ---
+C                                                                                              Meyer        14141                    60                                                                                           2008
+                   14141                                                56.25 g                    40
+
+                    20                              Lunar Soils
+                       0
+                          0          20          40          60          80         100         120          14141      14142       14143      14140
+                                                                       28.5 g       5.35 g         6.73 g       7.43 g                             maturity (Is/FeO)
+                                                                                                                  less than 1 mm       1 - 2 mm            2 - 4 mm         4 - 10 mm
+        Figure 6: Carbon content and maturity index for
+       14141 (data from Moore et al. 1972 and Morris                ,23       ,24        ,25       ,27
+                                                                                        2.5 g     2.5 g      1.6 g     7.3 g
+         1978).
+--- material block 3; lines 12-24 ---
+0
+              0       5       10      15      20      25      30      35
+
+                                                                                                               0.1                     Al2O3
+                                                                                                   La Ce   Pr  Nd Sm  Eu Gd  Tb  Dy  Ho  Er  Tm  Yb  Lu
+         Figure 5: Composition of Apollo soil samples
+                                                                 Figure 7: Normalized rare-earth-element diagram          including 14141.
+                                                                           for 14141 (data from Laul et al. 1982).
+                   200
+
+                   180
+--- treatment block 4; lines 32-46 ---
+C                                                                                              Meyer        14141                    60                                                                                           2008
+                   14141                                                56.25 g                    40
+
+                    20                              Lunar Soils
+                       0
+                          0          20          40          60          80         100         120          14141      14142       14143      14140
+                                                                       28.5 g       5.35 g         6.73 g       7.43 g                             maturity (Is/FeO)
+                                                                                                                  less than 1 mm       1 - 2 mm            2 - 4 mm         4 - 10 mm
+        Figure 6: Carbon content and maturity index for
+       14141 (data from Moore et al. 1972 and Morris                ,23       ,24        ,25       ,27
+                                                                                        2.5 g     2.5 g      1.6 g     7.3 g
+         1978).
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 14141.
+                      soil < 1 mm                                         coarse fines
+      reference  Laul 82    Lindstrom72 Morgan72  Wasson73      Warren78                           Hubbard73
+      weight                                                 14143A 14143B 14143C 14143D     Weismann76
+     SiO2 %
+      TiO2       1.6     (a) 1.63      (a)                              2.33     2.9      1.57     1.57      (a)  6.13      (c )
+     Al2O3     17      (a) 16.5      (a)                              13.2     15.9     17.2     16.8      (a)
+     FeO       10.4    (a) 10.16    (a)                              17.4     10.9     9.6      10.9      (a)
+    MnO      0.135   (a) 0.124    (a)                              0.27     0.15     0.13     0.14      (a)
+    MgO       9.8     (a)                                           9.95     10.9     11.3     10.6      (a)  4.8        (c )
+    CaO       10.4    (a)                                           12.7    9        9.2      9.2       (a) 16        (c )
+     Na2O      0.85    (a) 0.79      (a)                              0.71     0.9      0.9      0.81      (a)  0.63      (c )
+     K2O       0.64    (a) 0.64      (a)                              0.23     0.83     1.1      0.9       (a)
+     Cr2O3     0.19    (a)                                                                                  0.23      (c )
+     S %
+     sum
+
+     Sc ppm    23.4    (a) 21.5      (a)                          59      22.5     21.6     24.8      (a)
+     V        45      (a)                                      135     42      45      47        (a)
+--- material block 2; lines 1-8 ---
+Table 1. Chemical composition of 14141.
+                      soil < 1 mm                                         coarse fines
+      reference  Laul 82    Lindstrom72 Morgan72  Wasson73      Warren78                           Hubbard73
+      weight                                                 14143A 14143B 14143C 14143D     Weismann76
+     SiO2 %
+      TiO2       1.6     (a) 1.63      (a)                              2.33     2.9      1.57     1.57      (a)  6.13      (c )
+     Al2O3     17      (a) 16.5      (a)                              13.2     15.9     17.2     16.8      (a)
+     FeO       10.4    (a) 10.16    (a)                              17.4     10.9     9.6      10.9      (a)
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 14141.
+                      soil < 1 mm                                         coarse fines
+      reference  Laul 82    Lindstrom72 Morgan72  Wasson73      Warren78                           Hubbard73
+      weight                                                 14143A 14143B 14143C 14143D     Weismann76
+     SiO2 %
+      TiO2       1.6     (a) 1.63      (a)                              2.33     2.9      1.57     1.57      (a)  6.13      (c )
+     Al2O3     17      (a) 16.5      (a)                              13.2     15.9     17.2     16.8      (a)
+     FeO       10.4    (a) 10.16    (a)                              17.4     10.9     9.6      10.9      (a)
+    MnO      0.135   (a) 0.124    (a)                              0.27     0.15     0.13     0.14      (a)
+--- references block 4; lines 64-74 ---
+Os ppb
+          Ir ppb                              12.6    (b)  7.3       (b)               4.7                             (b)
+      Pt ppb
+     Au ppb                           11      (b)  7.8       (b)               4.4      5.1      5.1       (b)
+     Th ppm   15      (a) 15.3      (a)                                               15.4     15.4      (a)
+    U ppm     4.2     (a)                                             0.7      5.8      4.9      3.5       (a)  1.24      (c )
+       technique:  (a) INAA, (b) RNAA, (c ) IDMS
+
+
+Lunar Sample Compendium
+C Meyer 2008
+
+=== PDF PAGE 5; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-13 ---
+References for 14141.
+   Berdot J.L., Chetrit G.C., Lorin J.C., Pellas P. and Poupeau   Morris R.V. (1976) Surface exposure indicies of lunar soils:
+    G. (1972) Track studies of Apollo 14 rocks and Apollo 14,  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-
+   Apollo 15 and Luna 16 soils.  Proc. 3rd Lunar Sci. Conf.   335.
+   2867-2881.
+                                                           Morris R.V. (1978) The surface exposure (maturity) of lunar
+   Cadogen P.H., Eglington G., Firth J.N.M., Maxwell J.R., May   soils: Some concepts and Is/FeO compilation.  Proc. 9th
+    B.J. and Pillinger C.T. (1972)  Survey of lunar carbon  Lunar Sci. Conf. 2287-2297.
+   compounds: II. The carbon chemistry of Apollo 11, 12, 14
+   and 15 samples. Proc. 3rd Lunar Sci. Conf. 2069-2091.     Simon S.B., Papike J.J. and Laul J.C. (1982) The Apollo 14
+                                                                     regolith: Petrology of cores 14210/14211 and 14220 and
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   soils 14141, 14148 and 14149. Proc. 13th Lunar Sci. Conf.
+   Pub. 1265                                   JGR 87, A232-246.
+--- chemistry block 2; lines 49-60 ---
+and Gibson E.K. (1972) Total carbon, nitrogen and sulfur
+    in Apollo 14 lunar samples. Proc. 3rd Lunar Sci. Conf. 2051-
+   2058.
+
+   Morgan J.W., Laul J.C., Krahenbuhl U., Ganapathy R. and
+   Anders E. (1972b)  Major impacts on the moon:
+    Characterization from trace elements in Apollo 12 and 14
+    samples. Proc. 3rd  Lunar Sci. Conf. 1377-1395.
+
+
+Lunar Sample Compendium
+C Meyer 2008
+--- mineralogy block 3; lines 16-28 ---
+D., Walker R.M. and Yuhas D. (1972b)  Solar flare and   the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+    galactic cosmic ray studies of Apollo,14 and 15 samples.   38.
+    Proc. 3rd Lunar Sci. Conf. 2917-2931.
+                                                Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+   Hubbard N.J., Rhodes J.M., Gast P.W., Bansal B.M., Shih   M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,
+    C.-Y., Wiesmann H. and Nyquist L.E. (1973b) Lunar rock   Schaber G.G., Schafer J.P., Shepard A.B., Sutton R.L., Trask
+    types: The role of plagioclase in non-mare and highland rock   N.J., Ulrich G.E., Wilshire H.G. and Wolf E.W.  (1971)
+    types. Proc. 4th Lunar Sci. Conf. 1297-1312.               Preliminary geologic investigations of the Apollo 14 landing
+                                                                                site. In Apollo 14; Preliminary Science Report. NASA SP-
+   King E.A., Butler J.C. and Carman M.F. (1972) Chondrules   272, 39-85.
+    in Apollo 14 samples and size analyses of Apollo 14 and 15
+    fines. Proc. 3rd Lunar Sci. Conf. 673-686.              Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+                                                       M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+--- material block 4; lines 5-46 ---
+2867-2881.
+                                                           Morris R.V. (1978) The surface exposure (maturity) of lunar
+   Cadogen P.H., Eglington G., Firth J.N.M., Maxwell J.R., May   soils: Some concepts and Is/FeO compilation.  Proc. 9th
+    B.J. and Pillinger C.T. (1972)  Survey of lunar carbon  Lunar Sci. Conf. 2287-2297.
+   compounds: II. The carbon chemistry of Apollo 11, 12, 14
+   and 15 samples. Proc. 3rd Lunar Sci. Conf. 2069-2091.     Simon S.B., Papike J.J. and Laul J.C. (1982) The Apollo 14
+                                                                     regolith: Petrology of cores 14210/14211 and 14220 and
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   soils 14141, 14148 and 14149. Proc. 13th Lunar Sci. Conf.
+   Pub. 1265                                   JGR 87, A232-246.
+
+   Crozaz G., Drozd R., Hohenberg C.M., Hoyt H.P., Rajan   Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of
+    D., Walker R.M. and Yuhas D. (1972b)  Solar flare and   the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+    galactic cosmic ray studies of Apollo,14 and 15 samples.   38.
+    Proc. 3rd Lunar Sci. Conf. 2917-2931.
+                                                Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+   Hubbard N.J., Rhodes J.M., Gast P.W., Bansal B.M., Shih   M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,
+    C.-Y., Wiesmann H. and Nyquist L.E. (1973b) Lunar rock   Schaber G.G., Schafer J.P., Shepard A.B., Sutton R.L., Trask
+    types: The role of plagioclase in non-mare and highland rock   N.J., Ulrich G.E., Wilshire H.G. and Wolf E.W.  (1971)
+    types. Proc. 4th Lunar Sci. Conf. 1297-1312.               Preliminary geologic investigations of the Apollo 14 landing
+                                                                                site. In Apollo 14; Preliminary Science Report. NASA SP-
+   King E.A., Butler J.C. and Carman M.F. (1972) Chondrules   272, 39-85.
+    in Apollo 14 samples and size analyses of Apollo 14 and 15
+    fines. Proc. 3rd Lunar Sci. Conf. 673-686.              Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+                                                       M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+   Kramer F.E. and Twedell D.B. (1977) Apoloo 14 coarse   Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+    fines (4-10 mm) sample location and clasification. JSC  Geology of the Apollo 14 landing site in the Fra Mauro
+   12922                                                     highlands. U.S. Geological Survey Professional Paper 880
+
+   Laul J.C., Papike J.J. and Simon S.B. (1982) The Apollo 14  Warren P.H., Afiattalab F. and Wasson J.T. (1978)
+    regolith: Chemistry of cores 14210/14211 and 14220 and   Investigation of unusual KREEPy samples: Pristine rock
+    soils 14141, 14148 and 14149. Proc. 13th Lunar Sci. Conf.   15386, Cone Crater soil fragments 14143, and 12023, a
+   JGR 87, A247-259.                                           typical Apollo 12 soil. Proc. 9th Lunar Planet. Sci. Conf.
+                                                          653-660.
+   Lindstrom M.M., Duncan A.R., Fruchter J.S., McKay S.M.,
+   Stoeser J.W., Goles G.G. and Lindstrom D.J. (1972)  Wasson J.T., Chou C-L., Bild R.W. and Baedecker P.A.
+   Compositional characteristics of some Apollo 14 clastic   (1973)  Extralunar materials in Cone-crater soil 14141.
+    materials. Proc. 3rd Lunar Sci. Conf. 1201-1214.          Geochim. Cosmochim Acta 37, 2349-2353.
+
+   McKay D.S., Heiken G.H., Taylor R.M., Clanton U.S.,
+   Morrison D.A. and Ladle G.H. (1972) Apollo 14 soils: Size
+    distribution and particle types. Proc. 3rd Lunar Sci. Conf.
+   983-995.
+--- age block 5; lines 11-23 ---
+regolith: Petrology of cores 14210/14211 and 14220 and
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   soils 14141, 14148 and 14149. Proc. 13th Lunar Sci. Conf.
+   Pub. 1265                                   JGR 87, A232-246.
+
+   Crozaz G., Drozd R., Hohenberg C.M., Hoyt H.P., Rajan   Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of
+    D., Walker R.M. and Yuhas D. (1972b)  Solar flare and   the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+    galactic cosmic ray studies of Apollo,14 and 15 samples.   38.
+    Proc. 3rd Lunar Sci. Conf. 2917-2931.
+                                                Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+   Hubbard N.J., Rhodes J.M., Gast P.W., Bansal B.M., Shih   M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,
+    C.-Y., Wiesmann H. and Nyquist L.E. (1973b) Lunar rock   Schaber G.G., Schafer J.P., Shepard A.B., Sutton R.L., Trask
+    types: The role of plagioclase in non-mare and highland rock   N.J., Ulrich G.E., Wilshire H.G. and Wolf E.W.  (1971)
+    types. Proc. 4th Lunar Sci. Conf. 1297-1312.               Preliminary geologic investigations of the Apollo 14 landing
+--- treatment block 6; lines 1-12 ---
+References for 14141.
+   Berdot J.L., Chetrit G.C., Lorin J.C., Pellas P. and Poupeau   Morris R.V. (1976) Surface exposure indicies of lunar soils:
+    G. (1972) Track studies of Apollo 14 rocks and Apollo 14,  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-
+   Apollo 15 and Luna 16 soils.  Proc. 3rd Lunar Sci. Conf.   335.
+   2867-2881.
+                                                           Morris R.V. (1978) The surface exposure (maturity) of lunar
+   Cadogen P.H., Eglington G., Firth J.N.M., Maxwell J.R., May   soils: Some concepts and Is/FeO compilation.  Proc. 9th
+    B.J. and Pillinger C.T. (1972)  Survey of lunar carbon  Lunar Sci. Conf. 2287-2297.
+   compounds: II. The carbon chemistry of Apollo 11, 12, 14
+   and 15 samples. Proc. 3rd Lunar Sci. Conf. 2069-2091.     Simon S.B., Papike J.J. and Laul J.C. (1982) The Apollo 14
+                                                                     regolith: Petrology of cores 14210/14211 and 14220 and
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   soils 14141, 14148 and 14149. Proc. 13th Lunar Sci. Conf.
+--- references block 7; lines 1-7 ---
+References for 14141.
+   Berdot J.L., Chetrit G.C., Lorin J.C., Pellas P. and Poupeau   Morris R.V. (1976) Surface exposure indicies of lunar soils:
+    G. (1972) Track studies of Apollo 14 rocks and Apollo 14,  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-
+   Apollo 15 and Luna 16 soils.  Proc. 3rd Lunar Sci. Conf.   335.
+   2867-2881.
+                                                           Morris R.V. (1978) The surface exposure (maturity) of lunar
+   Cadogen P.H., Eglington G., Firth J.N.M., Maxwell J.R., May   soils: Some concepts and Is/FeO compilation.  Proc. 9th

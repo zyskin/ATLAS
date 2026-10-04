@@ -1,0 +1,416 @@
+DOCUMENT_ID: 10068__compendium__04e690555f
+ATLAS_SAMPLE_IDS: 10068
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10068.pdf
+SOURCE_PDF_SHA256: 51ab479aa03d1e4ef5ed019e18a0b0d4c39862672e8055fe4d65e79a54132eef
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 13-35 ---
+Fruland (1983) describes 10068 as a “coherent,   study led by Abhijit Basu.  It was de-lithified using a
+   medium grey regolith breccia.” The original rock was   freeze-thaw technique (Basu et al. 2000), the grain size
+   blocky in shape and had rounded surfaces that were   distribution determined (figure 5) and the composition
+   covered with micrometeorite craters, although one side   of each size measured (figure 4).
+   was relatively flat with no observable microcraters
+    (figure 1).                                   Petrography
+                                                        Keil et al. (1970) originally determined the mode of
+                                                           the breccia matrix and of included basalt fragments.
+
+
+                     Mineralogical Mode (Basu et al.)
+                                      >500    250-500 150-250 90-150  45-90   20-45 microns
+                      Mare rock        72.3    52       47.7    38      21       12.6
+                         Highland rock     4.3      2.3      1.7      0.3      0.3      0.7
+                         Reg. Breccia      12.8     25.8    30       38.7     50.7     43.2
+                            Agglutinate       10.6     10.9    12       12.7     12.7     14.3
+                             Plagioclase       0        1.3     1       1        4.3      5.3
+                         Pyroxene        0        1.3      3.7     6        6.3     13
+                             Ilmenite         0       0        0.3      0.3      1.3     8
+                           Glass            0        6.3      3.7     3        3.3      2.7
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-33 ---
+10068
+                                   Regolith Breccia
+                                       218 grams
+
+
+
+
+
+                          Figure 1: Part of 10068,5. NASA S76-22545. Sample is 5 cm across.
+
+
+   Introduction                                     This sample was the subject of a detailed consortium
+   Fruland (1983) describes 10068 as a “coherent,   study led by Abhijit Basu.  It was de-lithified using a
+   medium grey regolith breccia.” The original rock was   freeze-thaw technique (Basu et al. 2000), the grain size
+   blocky in shape and had rounded surfaces that were   distribution determined (figure 5) and the composition
+   covered with micrometeorite craters, although one side   of each size measured (figure 4).
+   was relatively flat with no observable microcraters
+    (figure 1).                                   Petrography
+                                                        Keil et al. (1970) originally determined the mode of
+                                                           the breccia matrix and of included basalt fragments.
+
+
+                     Mineralogical Mode (Basu et al.)
+                                      >500    250-500 150-250 90-150  45-90   20-45 microns
+                      Mare rock        72.3    52       47.7    38      21       12.6
+                         Highland rock     4.3      2.3      1.7      0.3      0.3      0.7
+                         Reg. Breccia      12.8     25.8    30       38.7     50.7     43.2
+                            Agglutinate       10.6     10.9    12       12.7     12.7     14.3
+                             Plagioclase       0        1.3     1       1        4.3      5.3
+                         Pyroxene        0        1.3      3.7     6        6.3     13
+                             Ilmenite         0       0        0.3      0.3      1.3     8
+                           Glass            0        6.3      3.7     3        3.3      2.7
+--- references block 3; lines 8-20 ---
+Figure 1: Part of 10068,5. NASA S76-22545. Sample is 5 cm across.
+
+
+   Introduction                                     This sample was the subject of a detailed consortium
+   Fruland (1983) describes 10068 as a “coherent,   study led by Abhijit Basu.  It was de-lithified using a
+   medium grey regolith breccia.” The original rock was   freeze-thaw technique (Basu et al. 2000), the grain size
+   blocky in shape and had rounded surfaces that were   distribution determined (figure 5) and the composition
+   covered with micrometeorite craters, although one side   of each size measured (figure 4).
+   was relatively flat with no observable microcraters
+    (figure 1).                                   Petrography
+                                                        Keil et al. (1970) originally determined the mode of
+                                                           the breccia matrix and of included basalt fragments.
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 30-42 ---
+Figure 2: Photomicrograph of thin section
+          10068,35. NASA S76-26328.
+
+   McKay et al. (1970) remarked on the apparent sintering
+     at sharp boundaries of broken glass particles.
+
+   Basu et al. (2000) found that the maturity index Is/FeO
+   = 84 (compared with 78 for soil 10084). They observed
+    that 10068 was “extremely rich  in recycled
+    agglutinates”(about 12 %). However, a mature soil
+    has about 30 % agglutinates. Funkhouser et al. (1970)
+    determined that 10068 had rare gas content similar to
+     soil, although, in general, Apollo 11 breccias had higher
+--- chemistry block 2; lines 52-64 ---
+compositions of “shock vitrified” plagioclase in 10068.
+
+   Chemistry
+   Goles et al. (1970) and Annell and Heltz (1970)
+    determined the composition of 10068. The rare earth
+    element pattern for 10068 is similar to the soil (figure
+     3). Lindstrom (1999) reported trace element analyses
+    of different grain sizes (figure 4). Note the high Ni
+    content. The carbon content of 10068 is relatively high
+    (figure 9).
+--- mineralogy block 3; lines 28-58 ---
+Figure 2: Photomicrograph of thin section
+          10068,35. NASA S76-26328.
+
+   McKay et al. (1970) remarked on the apparent sintering
+     at sharp boundaries of broken glass particles.
+
+   Basu et al. (2000) found that the maturity index Is/FeO
+   = 84 (compared with 78 for soil 10084). They observed
+    that 10068 was “extremely rich  in recycled
+    agglutinates”(about 12 %). However, a mature soil
+    has about 30 % agglutinates. Funkhouser et al. (1970)
+    determined that 10068 had rare gas content similar to
+     soil, although, in general, Apollo 11 breccias had higher
+    rare gas contents than the soils due to solar wind
+    implantation and subsequent degassing (figure 8).
+
+                                                                 Figure 4: Normalized rare earth contents of
+   Mineralogy                                                         different grain size fractions of 10068 (Lindstrom
+   Pyroxene: Keil et al. (1970) studied the compositions        1999).
+    of pyroxene grains in 10068.
+
+   Plagioclase:  Keil  et  al. (1970) studied the
+    compositions of “shock vitrified” plagioclase in 10068.
+
+   Chemistry
+   Goles et al. (1970) and Annell and Heltz (1970)
+    determined the composition of 10068. The rare earth
+    element pattern for 10068 is similar to the soil (figure
+     3). Lindstrom (1999) reported trace element analyses
+--- material block 4; lines 20-69 ---
+0.1
+                                                                                    La      Pr    Sm    Gd     Dy      Er     Yb                                                                             Ce    Nd     Eu     Tb    Ho    Tm     Lu
+
+                                                                Figure 3: Normalized rare earth element diagram for
+                                                                    breccia 10068 compared with soil 10084 (data from
+                                                             Goles et al. 1970).
+
+
+          Figure 2: Photomicrograph of thin section
+          10068,35. NASA S76-26328.
+
+   McKay et al. (1970) remarked on the apparent sintering
+     at sharp boundaries of broken glass particles.
+
+   Basu et al. (2000) found that the maturity index Is/FeO
+   = 84 (compared with 78 for soil 10084). They observed
+    that 10068 was “extremely rich  in recycled
+    agglutinates”(about 12 %). However, a mature soil
+    has about 30 % agglutinates. Funkhouser et al. (1970)
+    determined that 10068 had rare gas content similar to
+     soil, although, in general, Apollo 11 breccias had higher
+    rare gas contents than the soils due to solar wind
+    implantation and subsequent degassing (figure 8).
+
+                                                                 Figure 4: Normalized rare earth contents of
+   Mineralogy                                                         different grain size fractions of 10068 (Lindstrom
+   Pyroxene: Keil et al. (1970) studied the compositions        1999).
+    of pyroxene grains in 10068.
+
+   Plagioclase:  Keil  et  al. (1970) studied the
+    compositions of “shock vitrified” plagioclase in 10068.
+
+   Chemistry
+   Goles et al. (1970) and Annell and Heltz (1970)
+    determined the composition of 10068. The rare earth
+    element pattern for 10068 is similar to the soil (figure
+     3). Lindstrom (1999) reported trace element analyses
+    of different grain sizes (figure 4). Note the high Ni
+    content. The carbon content of 10068 is relatively high
+    (figure 9).
+
+
+
+                                                                 Figure 5: Grain size distribution of 10068 after
+                                                                      freeze-thaw cycling (Basu et al. 1999).
+
+Lunar Sample Compendium
+C Meyer 2011
+--- treatment block 5; lines 30-45 ---
+Figure 2: Photomicrograph of thin section
+          10068,35. NASA S76-26328.
+
+   McKay et al. (1970) remarked on the apparent sintering
+     at sharp boundaries of broken glass particles.
+
+   Basu et al. (2000) found that the maturity index Is/FeO
+   = 84 (compared with 78 for soil 10084). They observed
+    that 10068 was “extremely rich  in recycled
+    agglutinates”(about 12 %). However, a mature soil
+    has about 30 % agglutinates. Funkhouser et al. (1970)
+    determined that 10068 had rare gas content similar to
+     soil, although, in general, Apollo 11 breccias had higher
+    rare gas contents than the soils due to solar wind
+    implantation and subsequent degassing (figure 8).
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-21 ---
+Table 1. Chemical composition of 10068.                25
+                                                                                20                      Apollo soils    reference  Goles70   Annell70    Lindstrom99
+    weight                                                                                   10068            breccia
+   SiO2 %    41.3                                                           15
+    TiO2      7.8                        FeO          10084
+   Al2O3     12.3
+   FeO       16.5                   16.7       (a)                         10
+   MnO      0.19     (a) 0.26     (b)
+   MgO      6.5                                                                5
+   CaO      12.2                    11.6       (a)
+   Na2O     0.44     (a)             0.47       (a)
+                                                                                   0
+   K2O                              0.22       (a)                                                                                     0       5       10      15      20      25      30      35
+   P2O5
+   S %                                                        Al2O3
+   sum
+
+   Sc ppm   60.9     (a) 71       (b) 67.6       (a)
+   V        46       (a) 58       (b)                    Other Studies
+    Cr       1890    (a) 2600    (b) 2190       (a)             Funkhouser et al. (1970) determined the isotopic ratio
+   Co        31.7     (a) 33       (b) 29.7       (a)
+--- mineralogy block 2; lines 30-42 ---
+Y                  108      (b)                        determined by hydrogen flame ionization pyrolysis
+    Zr        700     (a) 482      (b) 441        (a)
+   Nb                 31       (b)                      (Ponnamperuma et al. 1970).
+   Mo
+   Ru                                          Noble et al. (2002 and 2003) have studied space   Rh
+   Pd ppb                                             weathering of grains in 10068 and have been able to
+   Ag ppb                                                 distinguish between vapor deposits and glass rims
+   Cd ppb
+     In ppb                                            (which contain nanophase iron).
+   Sn ppb
+   Sb ppb                                         Processing    Te ppb
+   Cs ppm                                         Apollo 11 samples were originally described and
+   Ba       150     (a) 250      (b) 219        (a)              cataloged in 1969 and “re-cataloged” by Kramer et al.
+--- material block 3; lines 1-9 ---
+Table 1. Chemical composition of 10068.                25
+                                                                                20                      Apollo soils    reference  Goles70   Annell70    Lindstrom99
+    weight                                                                                   10068            breccia
+   SiO2 %    41.3                                                           15
+    TiO2      7.8                        FeO          10084
+   Al2O3     12.3
+   FeO       16.5                   16.7       (a)                         10
+   MnO      0.19     (a) 0.26     (b)
+   MgO      6.5                                                                5
+--- references block 4; lines 1-8 ---
+Table 1. Chemical composition of 10068.                25
+                                                                                20                      Apollo soils    reference  Goles70   Annell70    Lindstrom99
+    weight                                                                                   10068            breccia
+   SiO2 %    41.3                                                           15
+    TiO2      7.8                        FeO          10084
+   Al2O3     12.3
+   FeO       16.5                   16.7       (a)                         10
+   MnO      0.19     (a) 0.26     (b)
+--- references block 5; lines 60-69 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm                            2.6         (a)
+   U ppm    0.61     (a)              0.7         (a)
+    technique: (a) INAA, (b) emission spec.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 35-47 ---
+1070, Hintenberger et al. 1976). Units STP cc/g.
+
+
+                                                                 Figure 9: Unknown
+   References for 10068
+    Annell C.S. and Helz A.W. (1970) Emission spectrographic
+    determination of trace elements in lunar samples from Apollo
+    11. Proc. Apollo 11 Lunar Sci. Conf. 991-994.
+                                                              Epstein S. and Taylor H.P. (1970) The concentration and
+                                                                  isotopic composition of hydrogen, carbon and silicon in
+    Basu A., Wentworth S.J. and McKay D.S. (1999) Petrology
+                                                         Apollo 11 lunar rocks and minerals. Proc. Apollo 11 Lunar
+    of disaggregated products of regolith breccia 10068 (abs).
+--- material block 2; lines 41-63 ---
+determination of trace elements in lunar samples from Apollo
+    11. Proc. Apollo 11 Lunar Sci. Conf. 991-994.
+                                                              Epstein S. and Taylor H.P. (1970) The concentration and
+                                                                  isotopic composition of hydrogen, carbon and silicon in
+    Basu A., Wentworth S.J. and McKay D.S. (1999) Petrology
+                                                         Apollo 11 lunar rocks and minerals. Proc. Apollo 11 Lunar
+    of disaggregated products of regolith breccia 10068 (abs).
+                                                                        Sci. Conf. 1085-1096.
+    Lunar Planet. Sci. XXX Lunar Planetary Institute, Houston.
+
+                                                          Funkhauser J.G., Schaeffer O.A., Bogard D.D. and Zahringer
+    Basu A., Bogard D.D., Garrison D.H., Lauer H.V., Lindstrom
+                                                                                   J. (1970) Gas analysis of the lunar surface. Proc. Apollo 11
+    D., McKay D.S., Morris R.V., Pieters C.M. and Wentworth
+                                                      Lunar Sci. Conf. 1111-1116.
+     S.J. (2000) A status report on the consortium study of regolith
+    breccia 10068 (abs#1941). Lunar Planet. Sci. XXXI, Lunar
+                                                         Funkhauser J.G., Jessberger E., Muller O. and Zahringer J.
+    Planetary Institute, Houston.
+                                                           (1971) Active and inert gasses in Apollo 12 and 11 samples
+
+
+Lunar Sample Compendium
+--- treatment block 3; lines 1-8 ---
+Figure 6: Partial fluorination experiment showing
+         enriched 30Si and 18O on surfaces of finest fraction
+          (Epstein and Taylor 1971).
+--- references block 4; lines 33-45 ---
+Figure 8: Implanted solar wind in 10068 compared
+         with Apollo 11 soils and breccias (Funkhouser et al.
+         1070, Hintenberger et al. 1976). Units STP cc/g.
+
+
+                                                                 Figure 9: Unknown
+   References for 10068
+    Annell C.S. and Helz A.W. (1970) Emission spectrographic
+    determination of trace elements in lunar samples from Apollo
+    11. Proc. Apollo 11 Lunar Sci. Conf. 991-994.
+                                                              Epstein S. and Taylor H.P. (1970) The concentration and
+                                                                  isotopic composition of hydrogen, carbon and silicon in
+    Basu A., Wentworth S.J. and McKay D.S. (1999) Petrology
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 39-51 ---
+Curator’s Office, JSC 12522                         Simon S.B., Papike J.J., Shearer C.K. and Laul J.C. (1983)
+                                                             Petrology of the Apollo 11 highland component. Proc. 14th
+   Lofgren G.E. (1971b)  Devitrified glass fragments from  Lunar Planet. Sci. Conf. in J. Geophys. Res. 88, B103-138.
+   Apollo 11 and Apollo 12 lunar samples.  Proc. 2nd Lunar
+    Sci. Conf. 949-955                                 Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+                                                               of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+   Lindstrom D.J. (1999) Trace element analyses of grain size   Conf. in J. Geophys. Res. 89, C109-132.
+    separates from disaggregated soil (abs# ). Lunar Planet.
+    Sci. XXX, Lunar Planetary Institute, Houston.           Ponnamperuma C. (1972)  Lunar organic analysis:
+                                                               Implications for chemical evolution. Space Life Sci. 3, 493-
+   McGee P.E., Warner J.L., Simonds C.E. and Phinney W.C.   496.
+    (1979) Introduction to the Apollo collections. Part II: Lunar
+    Breccias. Curator’s Office. JSC
+--- mineralogy block 2; lines 23-47 ---
+McKay D.S. and Morrison D.A. (1971) Lunar breccias. J.
+   Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,   Geophys. Res. 76, 5658-5669.
+   Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+   abundances by instrumental activation analyses in chips from  Noble S.K., Pieters C.M., Taylor L.A., Morris R.V., Allen
+   27 lunar rocks. Proc. Apollo 11 Lunar Sci. Conf. 1165-1176   C.C., McKay D.S. and Keller L.P. (2001)  The optical
+      .                                                             properties of the finest fraction of lunar soil: Implications
+    Keil K., Bunch T.E. and Prinz M. (1970) Mineralogy and   for space weathering. Meteor. & Planet. Sci. 36, 31-42.
+   composition of Apollo 11 lunar samples. Proc. Apollo 11
+   Lunar Sci. Conf. 561-598.                             Noble S.K., Keller L.P. and Pieters C.M. (2005) Evidence
+                                                               of space weathering in regolith breccias I: Lunar regolith
+   King E.A. and a cast of thousands (1969) Lunar Sample   breccias. Meteor. & Planet. Sci. 40, 397-408.
+   Information Catalog, Apollo 11.  Lunar Receiving
+    Laboratory, MSC 412 pp                                 Schmitt H.H., Lofgren G., Swann G.A. and Simmons G.
+                                                           (1970) The Apollo 11 samples: Introduction. Proc. Apollo
+   Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo   11 Lunar Science Conf. 1-54.
+   11 Lunar Sample Information Catalogue (revised).
+    Curator’s Office, JSC 12522                         Simon S.B., Papike J.J., Shearer C.K. and Laul J.C. (1983)
+                                                             Petrology of the Apollo 11 highland component. Proc. 14th
+   Lofgren G.E. (1971b)  Devitrified glass fragments from  Lunar Planet. Sci. Conf. in J. Geophys. Res. 88, B103-138.
+   Apollo 11 and Apollo 12 lunar samples.  Proc. 2nd Lunar
+    Sci. Conf. 949-955                                 Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+                                                               of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+   Lindstrom D.J. (1999) Trace element analyses of grain size   Conf. in J. Geophys. Res. 89, C109-132.
+    separates from disaggregated soil (abs# ). Lunar Planet.
+    Sci. XXX, Lunar Planetary Institute, Houston.           Ponnamperuma C. (1972)  Lunar organic analysis:
+--- material block 3; lines 15-52 ---
+released by crushing at room temperature and heating at low
+    temperature. Proc. 2nd Lunar Sci. Conf. 1381-1396.      McKay D.S., Greenwood W.R. and Morrison D.A. (1970)
+                                                            Origin of small lunar particles and breccias from the Apollo
+   Fruland Ruth M. (1983)  Regolith Breccia Workbook.  11 site. Proc. Apollo 11 Lunar Sci. Conf. 673-693.
+    Curatorial Branch Publication # 66. JSC 19045.
+                                            McKay D.S. and Morrison D.A. (1971) Lunar breccias. J.
+   Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,   Geophys. Res. 76, 5658-5669.
+   Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+   abundances by instrumental activation analyses in chips from  Noble S.K., Pieters C.M., Taylor L.A., Morris R.V., Allen
+   27 lunar rocks. Proc. Apollo 11 Lunar Sci. Conf. 1165-1176   C.C., McKay D.S. and Keller L.P. (2001)  The optical
+      .                                                             properties of the finest fraction of lunar soil: Implications
+    Keil K., Bunch T.E. and Prinz M. (1970) Mineralogy and   for space weathering. Meteor. & Planet. Sci. 36, 31-42.
+   composition of Apollo 11 lunar samples. Proc. Apollo 11
+   Lunar Sci. Conf. 561-598.                             Noble S.K., Keller L.P. and Pieters C.M. (2005) Evidence
+                                                               of space weathering in regolith breccias I: Lunar regolith
+   King E.A. and a cast of thousands (1969) Lunar Sample   breccias. Meteor. & Planet. Sci. 40, 397-408.
+   Information Catalog, Apollo 11.  Lunar Receiving
+    Laboratory, MSC 412 pp                                 Schmitt H.H., Lofgren G., Swann G.A. and Simmons G.
+                                                           (1970) The Apollo 11 samples: Introduction. Proc. Apollo
+   Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo   11 Lunar Science Conf. 1-54.
+   11 Lunar Sample Information Catalogue (revised).
+    Curator’s Office, JSC 12522                         Simon S.B., Papike J.J., Shearer C.K. and Laul J.C. (1983)
+                                                             Petrology of the Apollo 11 highland component. Proc. 14th
+   Lofgren G.E. (1971b)  Devitrified glass fragments from  Lunar Planet. Sci. Conf. in J. Geophys. Res. 88, B103-138.
+   Apollo 11 and Apollo 12 lunar samples.  Proc. 2nd Lunar
+    Sci. Conf. 949-955                                 Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+                                                               of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+   Lindstrom D.J. (1999) Trace element analyses of grain size   Conf. in J. Geophys. Res. 89, C109-132.
+    separates from disaggregated soil (abs# ). Lunar Planet.
+    Sci. XXX, Lunar Planetary Institute, Houston.           Ponnamperuma C. (1972)  Lunar organic analysis:
+                                                               Implications for chemical evolution. Space Life Sci. 3, 493-
+   McGee P.E., Warner J.L., Simonds C.E. and Phinney W.C.   496.
+    (1979) Introduction to the Apollo collections. Part II: Lunar
+    Breccias. Curator’s Office. JSC
+--- treatment block 4; lines 22-34 ---
+Curatorial Branch Publication # 66. JSC 19045.
+                                            McKay D.S. and Morrison D.A. (1971) Lunar breccias. J.
+   Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,   Geophys. Res. 76, 5658-5669.
+   Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+   abundances by instrumental activation analyses in chips from  Noble S.K., Pieters C.M., Taylor L.A., Morris R.V., Allen
+   27 lunar rocks. Proc. Apollo 11 Lunar Sci. Conf. 1165-1176   C.C., McKay D.S. and Keller L.P. (2001)  The optical
+      .                                                             properties of the finest fraction of lunar soil: Implications
+    Keil K., Bunch T.E. and Prinz M. (1970) Mineralogy and   for space weathering. Meteor. & Planet. Sci. 36, 31-42.
+   composition of Apollo 11 lunar samples. Proc. Apollo 11
+   Lunar Sci. Conf. 561-598.                             Noble S.K., Keller L.P. and Pieters C.M. (2005) Evidence
+                                                               of space weathering in regolith breccias I: Lunar regolith
+   King E.A. and a cast of thousands (1969) Lunar Sample   breccias. Meteor. & Planet. Sci. 40, 397-408.
+   Information Catalog, Apollo 11.  Lunar Receiving

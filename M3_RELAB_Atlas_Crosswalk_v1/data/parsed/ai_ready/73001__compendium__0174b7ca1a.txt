@@ -1,0 +1,164 @@
+DOCUMENT_ID: 73001__compendium__0174b7ca1a
+ATLAS_SAMPLE_IDS: 73001,73002
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/73001.pdf
+SOURCE_PDF_SHA256: 2ac614812e695020fa7a188142c87003f10d1312ccc2e13f963331f9bc122969
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-31 ---
+73001 – 809 grams
+                          73002 – 430 grams
+                          Core, double drive tube, unopened
+
+
+
+
+
+                             Figure 1: Photo of 73002/1. AS17-137-20981
+
+   Introduction
+   73001 is the bottom segment of a double drive tube,
+   from below 22 cm depth. It was placed in a core sample
+   vacuum container (CSVC), and as of 2011, it has not
+   been opened.  Since it was collected from below 22
+   cm, by simply pounding it in, it may have still been
+   “frozen” at the time it was sealed (regolith below about
+   20 cm is about 250 ± 2 deg K, (Keihm and Langseth
+   1973).
+
+   The upper segment, 73002, has also never been opened,
+   but X-rays show that it contains several rocks (figure
+    4). 73220-80 is a nearby trench, and 73210 is a good
+    soil for comparison. Note that in figure 1, the double
+   drive tube appears to have been completely filled.
+   However, it went in easy, and material fell out of the                                                                Figure 2: Special vacuum container (CSVC) used to
+   bottom of the top tube before it was capped (see                                                                hold short lunar drive tube (core).  It has the same
+    transcript).                                                     type of In seal used with the SESC (Allton 1989).
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: material ===
+--- material block 1; lines 5-42 ---
+Figure 3: Location of double drive tube at station 3, Apollo 17.
+
+
+    Station 3 is located on the light mantle approximately                                                          In addition, large fragments like the ones now in the
+   50 meters east of the rim of Laura Crater (Wolfe et al.                                                       core could have obstructed sampling. The lower drive
+   1981) and contains landslide material off of the South                                                        tube (73001) was sealed in the Core Sample Vacuum
+    Massif (figure 3).                                                      Container immediately following separation from the
+                                                   upper drive tube, and has not been removed for x-
+   Petrography                                                        radiography. From the x-radiographs of 73002, the
+   73002 was X-rayed (figure 4).  It “is permeated by                                                          follower was seated approximately 12 cm below the
+    cracks, possibly caused by the wedging of large                                                             top, and there appears to be 3 cm of partial void
+    fragments into the drive tube or from the spillage of                                                      immediately below the follower. Much of the 73002
+    about 4 cm of soil onto the lunar surface. Whether or                                                        core is permeated by cracks associated with large rock
+    not these cracks have disrupted the stratigraphy is                                                    fragments.  Two major stratigraphic units were
+    uncertain, at least two major stratigraphic intervals                                                             identified, but no sharp stratigraphic breaks are
+   seem to be present in the X-ray, but there is no                                                           evident.”
+    indication of the soil profile seen in the nearby trench.
+   The material is coarse grained and massive with distinct                                                73001 (and 73002) were returned under vacuum in
+    rock fragments (probably basalt), reflecting expected                                           ALSRC#2. When 73001 was received in Houston, it
+    surface conditions near local craters and within the Lara                                               was placed in another vacuum container (Butler 1973).
+    Crater ejecta blanket.”(LSPET 1973).                                                                               It has not been kept cold, but since it is sealed, an
+                                                      experiment to detect gasses is indicated, should it ever
+   Note : The figure for 73001 in the core catalog (Duke                                                   be opened.
+   and Nagle 1976) is that of 76001.
+                                                73002 was X-rayed, then transferred to Brooks AFB,
+   Chemistry                                                        then White Sands, for remote storage and posterity.
+   See sections on 73220 and 73120.
+
+   Processing
+   From Butler (1973), page 59 “Core return - - - is
+   somewhat low because about 4 cm of sample was
+    spilled from the bottom of the upper drive tube (73002)
+    before being capped and the keeper rammed into place.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: material ===
+--- material block 1; lines 1-22 ---
+Figure 4: Sketch and description of X-ray of 73002 prepared as part of preliminary examination (LSPET 1973).
+
+
+   Transcript                              CDR    Forty-six, Bob, is going into the long can. OK,
+  LMP   Oh, there’s no guarantee that this is a crater rim.    Bob, the long can is sealed. None of the material in this
+          -    - -                                                  core, in ether the top section or the bottom section, look
+  CDR    Well, the first core has gone down pretty good.      unlike that stuff just beneath the surface that we smpled at
+  LMP   Oh, you won’t have any problem in here coring.     theat special stop back there. It’s a bluish-gray, and it tends
+  CDR    Oh, man, I tell you, I wish I was putting a drill   to clod and break up in your hands. And that’s core 31.
+    hole here. Looks pretty nice.                           You’ve got two-thirds of a core after I packed it down a
+    Note: Mitchell et al. report that it took less than 9 hammer    little bit.
+    blows.
+          -    - -
+  CDR   When I broke the cores apart, there’s just a bit of
+    dried clods and the bottom core’s full; but about an inch and
+    a half of the top core just zero G to 1/6 G’d itself right out
+    (spilled).
+          -    - -
+
+=== PDF PAGE 4; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 33-45 ---
+Mitchell J.K., Carrier W.D., Costes N.C., Houston W.N.,
+    Scott R.F. and Hovland H.J. (1973) 8. Soil-Mechanics. In
+    Apollo 17 Preliminary Science Rpt. NASA SP-330. pages
+    8-1-22.
+
+    Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    regolith: Chemistry, Mineralogy and Petrology.  Rev.
+    Geophys. Space Phys. 20, 761-826.
+
+    Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    geologic investigation of the Taurus-Littrow Valley: Apollo
+    17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- material block 2; lines 3-24 ---
+sampling tools and containers. JSC-23454 pp97 Curator’s
+    Office. JSC.
+
+    Butler P. (1973) Lunar Sample Information Catalog: Apollo
+    17 MSC 03211
+
+   Duke M.B. and Nagle J.S.  (1976)  Lunar Core Catalog.
+   JSC09252 rev. Curators’ Office
+
+    Fryxell R. and Heiken G. (1974) Preservation of lunar core
+    samples: Preparation and interpretation of three-dimensional
+     stratigraphic sections. Proc. 5th Lunar Sci. Conf. 935-966.
+
+   Keihm S.J. and Langseth M.G. (1973) Surface brightness
+    temperatures at the Apollo 17 heat flow site: thermal
+    conductivity of the upper 15 cm of regolith. Proc. 4th Lunar
+     Sci. Conf. 2503-2513.
+
+    Korotev R.L. and Kremser D. (1992)  Compositional
+     variations in Apollo 17 soils and their relationships to the
+    geology of the Taurus-Littrow site. Proc. 22nd Lunar Planet.
+     Sci. Conf. 275-301.
+--- material block 3; lines 28-45 ---
+LSPET (1973c) Preliminary examination of lunar samples.
+    Apollo 17 Preliminary Science Report. NASA SP-330, 7-
+   1—7-46.
+
+    Mitchell J.K., Carrier W.D., Costes N.C., Houston W.N.,
+    Scott R.F. and Hovland H.J. (1973) 8. Soil-Mechanics. In
+    Apollo 17 Preliminary Science Rpt. NASA SP-330. pages
+    8-1-22.
+
+    Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    regolith: Chemistry, Mineralogy and Petrology.  Rev.
+    Geophys. Space Phys. 20, 761-826.
+
+    Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    geologic investigation of the Taurus-Littrow Valley: Apollo
+    17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- references block 4; lines 1-7 ---
+References for 73001
+    Allton J.H. (1989) Catalog of Apollo lunar surface geologic
+    sampling tools and containers. JSC-23454 pp97 Curator’s
+    Office. JSC.
+
+    Butler P. (1973) Lunar Sample Information Catalog: Apollo
+    17 MSC 03211

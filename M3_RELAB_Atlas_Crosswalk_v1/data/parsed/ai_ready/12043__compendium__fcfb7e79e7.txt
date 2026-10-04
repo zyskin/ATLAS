@@ -1,0 +1,223 @@
+DOCUMENT_ID: 12043__compendium__fcfb7e79e7
+ATLAS_SAMPLE_IDS: 12043
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/12043.pdf
+SOURCE_PDF_SHA256: 04eb4c0bdc493801fe0f270bdfce7b54c3307ff021b4e49ed171f45083692afc
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 8-37 ---
+Figure 1: Lunar basalt 12043,0 showing zap pits and rounded surface. Sample is 4 cm. NASA # S94-035810.
+
+
+
+   Introduction
+   All sides of this  little potato have numerous   Plagioclase: The composition of plagioclase is An78-
+   micrometeorite craters (figure 1). It has not been dated.    88 (ave. An84).
+
+   Petrography                                        Metallic iron: Found attached to chromite.
+   The petrology of 12043 is discussed in Baldridge et al.
+   (1979). 12043 is a medium-grained pigeonite basalt
+   with 10% large (3 mm), prismatic phenocrysts of
+   pyroxene and olivine set in a subophitic to variolitic
+   groundmass of pyroxene, plagioclase, ilmenite,
+   chromite, cristobalite, metallic iron and mesostasis.
+   Olivine phenocrysts are embayed, and overgrown by
+   pyroxene.                                              Mineralogical Mode for 12043
+                                                                                    Neal et           Baldridge
+   Mineralogy                                                                                                 al. 1994             et al. 1979
+                                                                          Olivine            0.9                0.9
+   Olivine: The composition of olivine is Fo70-65 (ave.         Pyroxene         57.7              57.7
+    Fo66).                                                                  Plagioclase       32.9              32.9
+                                                                             Ilmenite           3.5                3.5
+   Pyroxene: The pyroxene composition of 12043 is         Chromite +Usp    0.2                0.3
+                                                                          mesostasis         0.8                0.6
+   given in Baldridge et al. (1979)(figure 2).                                                                                     “silica”            3.7                3.7
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-25 ---
+12043
+                                     Pigeonite Basalt
+                                        60 grams
+
+
+
+
+
+      Figure 1: Lunar basalt 12043,0 showing zap pits and rounded surface. Sample is 4 cm. NASA # S94-035810.
+
+
+
+   Introduction
+   All sides of this  little potato have numerous   Plagioclase: The composition of plagioclase is An78-
+   micrometeorite craters (figure 1). It has not been dated.    88 (ave. An84).
+
+   Petrography                                        Metallic iron: Found attached to chromite.
+   The petrology of 12043 is discussed in Baldridge et al.
+   (1979). 12043 is a medium-grained pigeonite basalt
+   with 10% large (3 mm), prismatic phenocrysts of
+   pyroxene and olivine set in a subophitic to variolitic
+   groundmass of pyroxene, plagioclase, ilmenite,
+   chromite, cristobalite, metallic iron and mesostasis.
+   Olivine phenocrysts are embayed, and overgrown by
+   pyroxene.                                              Mineralogical Mode for 12043
+--- age block 3; lines 9-21 ---
+Figure 1: Lunar basalt 12043,0 showing zap pits and rounded surface. Sample is 4 cm. NASA # S94-035810.
+
+
+
+   Introduction
+   All sides of this  little potato have numerous   Plagioclase: The composition of plagioclase is An78-
+   micrometeorite craters (figure 1). It has not been dated.    88 (ave. An84).
+
+   Petrography                                        Metallic iron: Found attached to chromite.
+   The petrology of 12043 is discussed in Baldridge et al.
+   (1979). 12043 is a medium-grained pigeonite basalt
+   with 10% large (3 mm), prismatic phenocrysts of
+   pyroxene and olivine set in a subophitic to variolitic
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,mineralogy ===
+--- chemistry block 1; lines 6-34 ---
+A11
+                                                                                                     10
+
+
+                                                                                                      8
+                                             TiO2
+                                                                                                      6
+
+                                                                                                      4                  12043
+    En                                          Fs                                             A12
+                                                                                                      2                        A15
+    Fo                                        Fa
+                                                                                                      0
+            compiled by C Meyer                                                                           0                5                10               15               20
+                                              MgO
+           Figure 2: Composition of pyroxene in 12043 (from
+           Baldridge et al. 1979).                                 Figure 3: Composition of 12043 compared with
+                                                                          that of other lunar basalts.
+
+   Chemistry                                                                        1000
+   Rhodes et al. (1977) and Snyder et al. (1997)                                                                                    12043
+    determined the chemical composition of 12038 (table
+   1 and figures 3 and 4).                                                          100
+
+   Radiogenic age dating                                                       10
+   Not dated.                                                            sample/                                                                                         chondrite
+--- mineralogy block 2; lines 1-10 ---
+12043                                    Lunar Basalts
+                 Di                   Hd                              14
+             Baldridge et al. 1979
+                olivine                                                                                                 A17
+                                                                                                     12
+
+                                                                                                         A11
+                                                                                                     10
+--- mineralogy block 3; lines 16-28 ---
+En                                          Fs                                             A12
+                                                                                                      2                        A15
+    Fo                                        Fa
+                                                                                                      0
+            compiled by C Meyer                                                                           0                5                10               15               20
+                                              MgO
+           Figure 2: Composition of pyroxene in 12043 (from
+           Baldridge et al. 1979).                                 Figure 3: Composition of 12043 compared with
+                                                                          that of other lunar basalts.
+
+   Chemistry                                                                        1000
+   Rhodes et al. (1977) and Snyder et al. (1997)                                                                                    12043
+    determined the chemical composition of 12038 (table
+--- age block 4; lines 25-38 ---
+Chemistry                                                                        1000
+   Rhodes et al. (1977) and Snyder et al. (1997)                                                                                    12043
+    determined the chemical composition of 12038 (table
+   1 and figures 3 and 4).                                                          100
+
+   Radiogenic age dating                                                       10
+   Not dated.                                                            sample/                                                                                         chondrite
+
+
+                                                                                                               1
+   There are 4 thin sections.
+
+    List of Photo #s for 12043                                                               0.1   La      Pr    Sm    Gd     Dy      Er     Yb                                                                             Ce     Nd     Eu     Tb    Ho    Tm     Lu
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+References for 12043   Table 1. Chemical composition of 12043.
+                                                            Baldridge W.S., Beaty D.W., Hill S.M.R. and Albee A.L.
+    reference Rhodes77  Baldridge79  Snyder97                  (1979) The petrology of the Apollo 12 pigeonite basalt suite.
+    weight                                                    Proc. 10th Lunar Planet. Sci. Conf. 141-179.
+   SiO2 %   46.77   (c ) 47.11     (d) 46.8
+    TiO2      3.38    (c ) 3.39         3.38
+   Al2O3     10.09   (c ) 10.56        10.1                LSPET (1970) Preliminary examination of lunar samples
+   FeO      19.5    (c ) 19.52        19.5
+   MnO      0.29    (c ) 0.25         0.29                    from Apollo 12. Science 167, 1325-1339.
+   MgO      7.68    (c ) 7.9          7.68
+   CaO      10.96   (c ) 11.15       11
+                                                        Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-   Na2O     0.27    (a) 0.27         0.27
+   K2O      0.06    (c ) 0.02         0.06                       G. and Schmitt R.A. (1994a) Basalt generation at the Apollo
+   P2O5     0.06    (c ) 0.06         0.06                                                     12 site, Part 1: New data, classification and re-evaluation.   S %       0.07    (c ) 0.11
+   sum                                                        Meteoritics 29, 334-348.
+
+   Sc ppm   52.4    (a)
+   V                                                   Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-
+    Cr       3300   (a)             2270     (e)                G. and Schmitt R.A. (1994b) Basalt generation at the Apollo
+--- mineralogy block 2; lines 62-71 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm                           0.85      (e)
+   U ppm                            0.258    (e)
+    technique:  (a) INAA, (b) IDMS, (c ) XRF, (d) from mode, (e) ICP-MS
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-25 ---
+References for 12043   Table 1. Chemical composition of 12043.
+                                                            Baldridge W.S., Beaty D.W., Hill S.M.R. and Albee A.L.
+    reference Rhodes77  Baldridge79  Snyder97                  (1979) The petrology of the Apollo 12 pigeonite basalt suite.
+    weight                                                    Proc. 10th Lunar Planet. Sci. Conf. 141-179.
+   SiO2 %   46.77   (c ) 47.11     (d) 46.8
+    TiO2      3.38    (c ) 3.39         3.38
+   Al2O3     10.09   (c ) 10.56        10.1                LSPET (1970) Preliminary examination of lunar samples
+   FeO      19.5    (c ) 19.52        19.5
+   MnO      0.29    (c ) 0.25         0.29                    from Apollo 12. Science 167, 1325-1339.
+   MgO      7.68    (c ) 7.9          7.68
+   CaO      10.96   (c ) 11.15       11
+                                                        Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-   Na2O     0.27    (a) 0.27         0.27
+   K2O      0.06    (c ) 0.02         0.06                       G. and Schmitt R.A. (1994a) Basalt generation at the Apollo
+   P2O5     0.06    (c ) 0.06         0.06                                                     12 site, Part 1: New data, classification and re-evaluation.   S %       0.07    (c ) 0.11
+   sum                                                        Meteoritics 29, 334-348.
+
+   Sc ppm   52.4    (a)
+   V                                                   Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-
+    Cr       3300   (a)             2270     (e)                G. and Schmitt R.A. (1994b) Basalt generation at the Apollo
+   Co       37      (a)              36.4      (e)
+    Ni                                18.2      (e)              12 site, Part 2: Source heterogeneity, multiple melts and
+   Cu                                10.1      (e)                  crustal contamination. Meteoritics 29, 349-361.
+   Zn                                9.02      (e)
+   Ga                                3.15      (e)
+   Ge ppb                                            Rhodes J.M., Blanchard D.P., Dungan M.A., Brannon J.C.,
+--- references block 4; lines 1-9 ---
+References for 12043   Table 1. Chemical composition of 12043.
+                                                            Baldridge W.S., Beaty D.W., Hill S.M.R. and Albee A.L.
+    reference Rhodes77  Baldridge79  Snyder97                  (1979) The petrology of the Apollo 12 pigeonite basalt suite.
+    weight                                                    Proc. 10th Lunar Planet. Sci. Conf. 141-179.
+   SiO2 %   46.77   (c ) 47.11     (d) 46.8
+    TiO2      3.38    (c ) 3.39         3.38
+   Al2O3     10.09   (c ) 10.56        10.1                LSPET (1970) Preliminary examination of lunar samples
+   FeO      19.5    (c ) 19.52        19.5
+   MnO      0.29    (c ) 0.25         0.29                    from Apollo 12. Science 167, 1325-1339.
+--- references block 5; lines 62-71 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm                           0.85      (e)
+   U ppm                            0.258    (e)
+    technique:  (a) INAA, (b) IDMS, (c ) XRF, (d) from mode, (e) ICP-MS
+
+Lunar Sample Compendium
+C Meyer 2011

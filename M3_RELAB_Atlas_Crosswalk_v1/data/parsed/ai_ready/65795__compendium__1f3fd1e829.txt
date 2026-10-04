@@ -1,0 +1,208 @@
+DOCUMENT_ID: 65795__compendium__1f3fd1e829
+ATLAS_SAMPLE_IDS: 65795
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65795.pdf
+SOURCE_PDF_SHA256: df77fb70073ec441a81f95a58d9f8af5c945ad1011ae1d5f507ffe196513a65f
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 7-20 ---
+Figure 1: Photo of 65795 with mm scale. S72-48955
+
+   Introduction
+                                            Chemistry   65795 is a rake sample from station 5 – see section on
+                                                 Warner et al. (1976) reported major element analysis   65701.  It has a basaltic texture, is highly aluminous
+                                                  and Deutsch and Stoffler (1987) reported trace element   and has high Ir and Au so it is considered an “impact
+                                                           analysis (table).   melt”. 65795 has been dated at 3.81 b.y.
+
+                                              Radiogenic age dating   Petrography
+                                                Deutsch and Stoffler (1987) determined a Rb-Sr   Dowty et al. (1974), Warner et al. (1976) and Ryder
+                                                        isochron age of 3.81 b.y.for 65795 (figure ) with (ë87 =   and Norman (1980) describe 65795 as an igneous rock
+                                                                   1.42-11 yr-1).   with “basaltic” texture (figure 2).  Plagioclase laths
+--- mineralogy block 2; lines 14-31 ---
+and Deutsch and Stoffler (1987) reported trace element   and has high Ir and Au so it is considered an “impact
+                                                           analysis (table).   melt”. 65795 has been dated at 3.81 b.y.
+
+                                              Radiogenic age dating   Petrography
+                                                Deutsch and Stoffler (1987) determined a Rb-Sr   Dowty et al. (1974), Warner et al. (1976) and Ryder
+                                                        isochron age of 3.81 b.y.for 65795 (figure ) with (ë87 =   and Norman (1980) describe 65795 as an igneous rock
+                                                                   1.42-11 yr-1).   with “basaltic” texture (figure 2).  Plagioclase laths
+   are up to 1.5 mm long and poikilitically enclose
+                                                 Processing   pyroxene and olivine. Some plagioclase are blocky
+                                                   There are 4 thin sections.   and may be relict xenocrysts.  Plagioclsae is An98;
+    olivine and pyroxene range in composition (figure 3).
+   Accessory minerals are ilmenite, Ni-Fe metal, troilite
+   and a silica phase.
+
+
+
+
+Lunar Sample Compendium
+--- material block 3; lines 1-25 ---
+65795
+                                 Highland Basalt
+                                            6.84 grams
+
+
+
+
+
+                            Figure 1: Photo of 65795 with mm scale. S72-48955
+
+   Introduction
+                                            Chemistry   65795 is a rake sample from station 5 – see section on
+                                                 Warner et al. (1976) reported major element analysis   65701.  It has a basaltic texture, is highly aluminous
+                                                  and Deutsch and Stoffler (1987) reported trace element   and has high Ir and Au so it is considered an “impact
+                                                           analysis (table).   melt”. 65795 has been dated at 3.81 b.y.
+
+                                              Radiogenic age dating   Petrography
+                                                Deutsch and Stoffler (1987) determined a Rb-Sr   Dowty et al. (1974), Warner et al. (1976) and Ryder
+                                                        isochron age of 3.81 b.y.for 65795 (figure ) with (ë87 =   and Norman (1980) describe 65795 as an igneous rock
+                                                                   1.42-11 yr-1).   with “basaltic” texture (figure 2).  Plagioclase laths
+   are up to 1.5 mm long and poikilitically enclose
+                                                 Processing   pyroxene and olivine. Some plagioclase are blocky
+                                                   There are 4 thin sections.   and may be relict xenocrysts.  Plagioclsae is An98;
+    olivine and pyroxene range in composition (figure 3).
+   Accessory minerals are ilmenite, Ni-Fe metal, troilite
+--- age block 4; lines 9-25 ---
+Figure 1: Photo of 65795 with mm scale. S72-48955
+
+   Introduction
+                                            Chemistry   65795 is a rake sample from station 5 – see section on
+                                                 Warner et al. (1976) reported major element analysis   65701.  It has a basaltic texture, is highly aluminous
+                                                  and Deutsch and Stoffler (1987) reported trace element   and has high Ir and Au so it is considered an “impact
+                                                           analysis (table).   melt”. 65795 has been dated at 3.81 b.y.
+
+                                              Radiogenic age dating   Petrography
+                                                Deutsch and Stoffler (1987) determined a Rb-Sr   Dowty et al. (1974), Warner et al. (1976) and Ryder
+                                                        isochron age of 3.81 b.y.for 65795 (figure ) with (ë87 =   and Norman (1980) describe 65795 as an igneous rock
+                                                                   1.42-11 yr-1).   with “basaltic” texture (figure 2).  Plagioclase laths
+   are up to 1.5 mm long and poikilitically enclose
+                                                 Processing   pyroxene and olivine. Some plagioclase are blocky
+                                                   There are 4 thin sections.   and may be relict xenocrysts.  Plagioclsae is An98;
+    olivine and pyroxene range in composition (figure 3).
+   Accessory minerals are ilmenite, Ni-Fe metal, troilite
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 9-21 ---
+En                                          Fs
+
+                                                  Fo                                        Fa
+                                                                                                     compiled by C Meyer
+
+                                                                Figure 3: Pyroxene and olivine in 65795 (Warner
+                                                                                et al. 1976).
+
+
+        Figure 2: Photomicrograph of thin section 65795,2
+        Width of field is 2.5 mm.
+--- material block 2; lines 31-51 ---
+Deutsch A. and Stoffler D. (1987) Rb-Sr-analyses of Apollo
+    16 melt rocks and a new age estimate for the Imbrium basin:
+    Lunar basin chronology and the early heavy bombardment          Figure 4: Internal Rb-Sr isochron for 65795
+    of the moon. Geochim. Cosmochim. Acta 51, 1951-1964.           (Deutsch and Stofler 1984).
+
+   Dowty E., Keil K. and Prinz M. (1974a) Igneous rocks from
+    Apollo 16 rake samples. Proc. 5th Lunar Sci. Conf. 431-  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    445.                                                     rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Description, classification and inventory of 151 Apollo 16   In Geology of the Apollo 16 area, central lunar highlands.
+    rake samples from the LM area and station 5.  Curator’s   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Catalog, JSC.
+                                                       Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic  and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+    and chemical description. Science 179, 23-34.            from the LM area and station 5.  Spec. Publ. #13, UNM
+                                                                        Institute of Meteoritics, Albuquerque. 87 pp.
+   LSPET (1972c) Preliminary examination of lunar samples.
+    In Apollo 16 Preliminary Science Report. NASA SP-315,            C Meyer       65795
+    7-1—7-58.                                                                   2012          6.8 grams
+--- age block 3; lines 16-38 ---
+et al. 1976).
+
+
+        Figure 2: Photomicrograph of thin section 65795,2
+        Width of field is 2.5 mm.
+
+       Summary of Age Data for 65795
+                                     Rb-Sr
+            Deutsch and Stoffler 1987   3.81 ± 0.04 b.y
+
+   References for 65795
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+    Deutsch A. and Stoffler D. (1987) Rb-Sr-analyses of Apollo
+    16 melt rocks and a new age estimate for the Imbrium basin:
+    Lunar basin chronology and the early heavy bombardment          Figure 4: Internal Rb-Sr isochron for 65795
+    of the moon. Geochim. Cosmochim. Acta 51, 1951-1964.           (Deutsch and Stofler 1984).
+
+   Dowty E., Keil K. and Prinz M. (1974a) Igneous rocks from
+    Apollo 16 rake samples. Proc. 5th Lunar Sci. Conf. 431-  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    445.                                                     rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+--- references block 4; lines 20-32 ---
+Width of field is 2.5 mm.
+
+       Summary of Age Data for 65795
+                                     Rb-Sr
+            Deutsch and Stoffler 1987   3.81 ± 0.04 b.y
+
+   References for 65795
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+    Deutsch A. and Stoffler D. (1987) Rb-Sr-analyses of Apollo
+    16 melt rocks and a new age estimate for the Imbrium basin:
+
+=== PDF PAGE 4; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+Figure 6: This is 65795,9.
+                It is a basalt and it is from
+            the highlands. Any
+           Questions? 2 mm across
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 65795
+
+
+    reference  McKinely84  Dowty74     Deutsch87
+    weight                Warner76
+   SiO2 %                 45.2      (a)
+    TiO2                    0.19      (a)
+   Al2O3                  31.4      (a)
+   FeO                    2.25      (a)
+   MnO                   0.02      (a)
+   MgO                   2.78      (a)
+   CaO                    17.3      (a)
+   Na2O                   0.44      (a) 0.39      (b)
+   K2O                    0.07      (a) 0.04      (b)
+   P2O5                   0.08      (a)
+   S %
+   sum
+
+   Sc ppm                              5.85      (b)
+   V
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 65795
+
+
+    reference  McKinely84  Dowty74     Deutsch87
+    weight                Warner76
+   SiO2 %                 45.2      (a)
+    TiO2                    0.19      (a)
+   Al2O3                  31.4      (a)
+   FeO                    2.25      (a)
+   MnO                   0.02      (a)
+--- references block 3; lines 65-74 ---
+Os ppb
+      Ir ppb                            12        (b)
+    Pt ppb
+   Au ppb                                3.8       (b)
+   Th ppm                              0.84      (b)
+   U ppm                               0.25      (b)
+    technique:  (a) broad beam e probe, (b) INAA
+
+Lunar Sample Compendium
+C Meyer 2012

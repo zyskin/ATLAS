@@ -1,0 +1,111 @@
+DOCUMENT_ID: 67628__compendium__7218f17035
+ATLAS_SAMPLE_IDS: 67628,67685,67686,67687,67688
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67628.pdf
+SOURCE_PDF_SHA256: c417e8c23374fb353bd03a3b79b062450415964b2362f8b6dd7d4f9e358e6632
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 10-22 ---
+Figure 1: Group photo of 68628, Cm cube.  S80-28626
+
+   Introduction
+   67628 was renumbered by Ryder and Norman (1980) when they made the catalog.  It is a collection of four
+   “glass bombs” that were collected as rake samples from just inside the rim of North Ray Crater – see section on
+   67601.
+
+
+
+
+Lunar Sample Compendium
+--- material block 2; lines 1-22 ---
+67628 - 0
+                                         67685 – 28 grams
+                                         67686 – 12 grams
+                                         67687 – 7.6 grams
+                                         67688 – 2.3 grams
+                                                          Breccia
+
+
+
+
+
+                                 Figure 1: Group photo of 68628, Cm cube.  S80-28626
+
+   Introduction
+   67628 was renumbered by Ryder and Norman (1980) when they made the catalog.  It is a collection of four
+   “glass bombs” that were collected as rake samples from just inside the rim of North Ray Crater – see section on
+   67601.
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 3; CATEGORIES: age,mineralogy ===
+--- mineralogy block 1; lines 8-20 ---
+None       Figure 5: Photo of 67688. About 1 cm. S80-34084.
+
+                                              Radiogenic age dating
+                                            Not
+   Petrography
+   Borchardt et al. (1985) correctly labeled these particles                                                 Processing
+   “glass bombs”. They include a collection of lithic                                                67628 was originally cataloged as 4 glass particles,
+   fragments as clasts (figures 1 – 4). They are not unlike                                                         but Ryder and Norman (1980) treated them as separate
+   the collection that is 67629.                                                               particles – so they were renumbered. They each have
+                                                      a thin section.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 2; lines 4-16 ---
+Chemistry
+                                            None       Figure 5: Photo of 67688. About 1 cm. S80-34084.
+
+                                              Radiogenic age dating
+                                            Not
+   Petrography
+   Borchardt et al. (1985) correctly labeled these particles                                                 Processing
+   “glass bombs”. They include a collection of lithic                                                67628 was originally cataloged as 4 glass particles,
+   fragments as clasts (figures 1 – 4). They are not unlike                                                         but Ryder and Norman (1980) treated them as separate
+   the collection that is 67629.                                                               particles – so they were renumbered. They each have
+
+=== PDF PAGE 7; CATEGORIES: age,material,references ===
+--- material block 1; lines 14-26 ---
+References for 67628 and 67685
+   Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Wacker K. and Jessberger E.K. (1986)  Composition,   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+    structure and age of the Apollo 16 subregolith basement as
+   deduced from the chemistry of post-Imbrium melt bombs.  Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+   Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,  67515 to 68537:  Sample classification, description and
+   E43-E54.                                                    inventory. Curator Catalog, JSC
+
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+    Catalog. pp. 370.                                 Reimold W.U., Wacker K. and Wanke H. (1985)
+--- age block 2; lines 13-25 ---
+TS
+
+
+   References for 67628 and 67685
+   Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Wacker K. and Jessberger E.K. (1986)  Composition,   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+    structure and age of the Apollo 16 subregolith basement as
+   deduced from the chemistry of post-Imbrium melt bombs.  Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+   Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,  67515 to 68537:  Sample classification, description and
+   E43-E54.                                                    inventory. Curator Catalog, JSC
+
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+--- references block 3; lines 10-22 ---
+,4
+                                          ,5                          ,2                     ,1
+                            TS                 TS                                                 ,2                                                                                         ,3                                                                            TS
+                                                            TS
+
+
+   References for 67628 and 67685
+   Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Wacker K. and Jessberger E.K. (1986)  Composition,   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+    structure and age of the Apollo 16 subregolith basement as
+   deduced from the chemistry of post-Imbrium melt bombs.  Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+   Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,  67515 to 68537:  Sample classification, description and
+   E43-E54.                                                    inventory. Curator Catalog, JSC

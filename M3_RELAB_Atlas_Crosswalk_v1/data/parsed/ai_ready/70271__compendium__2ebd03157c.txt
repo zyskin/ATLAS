@@ -1,0 +1,255 @@
+DOCUMENT_ID: 70271__compendium__2ebd03157c
+ATLAS_SAMPLE_IDS: 70250,70270
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/70271.pdf
+SOURCE_PDF_SHA256: 8a982e8b5e84e55efad0309bcdc632b5243ecc53cafc51107d5dbf920e748713
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 16-28 ---
+Introduction                                      considered true soils, because they may contain bits
+  70250 is the soil collected along with 70255 (basalt),  and pieces of the large sample in bag.
+  70270 is a soil sample collected along with 70275
+  (basalt) and 70290 is a soil sample collected along with  Petrography
+  70295 (breccia) near the SEP (Science Experiment  Morris (1978) determined the maturity index (Is/FeO)
+  Package) site (figure 1). The precise location of 70295   of 70250 and 70271 as 43 and 56 respectively. This
+   is unknown. Since they are “bag residue”, they are not  high maturity must indicate that these are true soils.
+
+
+
+Lunar Sample Compendium
+--- material block 2; lines 1-28 ---
+70250, 70270 and 70290
+                                           Soil
+                                        62, 193 and 56 grams
+
+
+
+
+
+                                                                 70251
+                                                                 70271
+
+
+
+
+     Figure 1: Location of soil samples 70250 and 70270 at SEP site on Apollo 17 map (Meyer 1973). S73-24071
+
+
+  Introduction                                      considered true soils, because they may contain bits
+  70250 is the soil collected along with 70255 (basalt),  and pieces of the large sample in bag.
+  70270 is a soil sample collected along with 70275
+  (basalt) and 70290 is a soil sample collected along with  Petrography
+  70295 (breccia) near the SEP (Science Experiment  Morris (1978) determined the maturity index (Is/FeO)
+  Package) site (figure 1). The precise location of 70295   of 70250 and 70271 as 43 and 56 respectively. This
+   is unknown. Since they are “bag residue”, they are not  high maturity must indicate that these are true soils.
+
+
+
+Lunar Sample Compendium
+--- treatment block 3; lines 16-29 ---
+Introduction                                      considered true soils, because they may contain bits
+  70250 is the soil collected along with 70255 (basalt),  and pieces of the large sample in bag.
+  70270 is a soil sample collected along with 70275
+  (basalt) and 70290 is a soil sample collected along with  Petrography
+  70295 (breccia) near the SEP (Science Experiment  Morris (1978) determined the maturity index (Is/FeO)
+  Package) site (figure 1). The precise location of 70295   of 70250 and 70271 as 43 and 56 respectively. This
+   is unknown. Since they are “bag residue”, they are not  high maturity must indicate that these are true soils.
+
+
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 1-23 ---
+Table 1. Composition of 70251 and 70271.              25
+            70251      70271                                                                               20                      Apollo soils   reference  Korotev92   Korotev92
+   weight
+   SiO2 %                                                                    15 70151, 70271
+   TiO2                            FeO
+  Al2O3
+  FeO       16.7      (a) 16.7      (a)                                    10
+  MnO
+  MgO                                                                          5
+  CaO
+  Na2O      0.402     (a) 0.395     (a)
+                                                                                  0
+  K2O                                                                                    0       5       10      15      20      25      30      35
+  P2O5
+  S %                                                        Al2O3
+  sum
+                                                                 Figure 2: FeO content of 70251 and 70271
+  Sc ppm    59        (a) 61.7      (a)                            compared with other Apollo soil samples.
+  V
+   Cr        3000     (a) 2970      (a)
+  Co         34.5      (a) 35.5      (a)
+   Ni        180       (a) 160       (a)
+  Cu
+--- chemistry block 2; lines 39-51 ---
+Cd ppb                                                                for 70250 showing similarity with mare soil 75061.
+   In ppb
+  Sn ppb
+  Sb ppb
+   Te     ppb
+  Cs     ppm                                     Chemistry
+  Ba        100       (a) 100       (a)                   The chemical composition of 70251 and 70271 has
+   La         8.26      (a) 7.74      (a)                     been determined by Korotev (1992). These are typical
+  Ce         23.7      (a) 23.3      (a)
+   Pr                                            mare soils (figures 2 and 3). 70290 has not been sieved
+  Nd        21        (a) 24        (a)                      nor analyzed.
+  Sm        8.17      (a) 8.12      (a)
+  Eu         1.76      (a) 1.7        (a)
+--- material block 3; lines 12-24 ---
+0
+  K2O                                                                                    0       5       10      15      20      25      30      35
+  P2O5
+  S %                                                        Al2O3
+  sum
+                                                                 Figure 2: FeO content of 70251 and 70271
+  Sc ppm    59        (a) 61.7      (a)                            compared with other Apollo soil samples.
+  V
+   Cr        3000     (a) 2970      (a)
+  Co         34.5      (a) 35.5      (a)
+   Ni        180       (a) 160       (a)
+  Cu
+  Zn
+--- material block 4; lines 33-45 ---
+Nb
+  Mo
+  Ru
+  Rh
+  Pd ppb
+  Ag ppb                                                       Figure 3: Normalized rare-earth-element diagram
+  Cd ppb                                                                for 70250 showing similarity with mare soil 75061.
+   In ppb
+  Sn ppb
+  Sb ppb
+   Te     ppb
+  Cs     ppm                                     Chemistry
+  Ba        100       (a) 100       (a)                   The chemical composition of 70251 and 70271 has
+--- treatment block 5; lines 42-54 ---
+Sb ppb
+   Te     ppb
+  Cs     ppm                                     Chemistry
+  Ba        100       (a) 100       (a)                   The chemical composition of 70251 and 70271 has
+   La         8.26      (a) 7.74      (a)                     been determined by Korotev (1992). These are typical
+  Ce         23.7      (a) 23.3      (a)
+   Pr                                            mare soils (figures 2 and 3). 70290 has not been sieved
+  Nd        21        (a) 24        (a)                      nor analyzed.
+  Sm        8.17      (a) 8.12      (a)
+  Eu         1.76      (a) 1.7        (a)
+  Gd
+  Tb         2.03      (a) 1.94      (a)
+  Dy
+--- references block 6; lines 1-8 ---
+Table 1. Composition of 70251 and 70271.              25
+            70251      70271                                                                               20                      Apollo soils   reference  Korotev92   Korotev92
+   weight
+   SiO2 %                                                                    15 70151, 70271
+   TiO2                            FeO
+  Al2O3
+  FeO       16.7      (a) 16.7      (a)                                    10
+  MnO
+--- references block 7; lines 64-73 ---
+Os ppb
+     Ir ppb     6         (a) 7          (a)
+   Pt ppb
+  Au ppb     5.5       (a) 4          (a)
+  Th ppm    1.01      (a) 0.78      (a)
+  U ppm     0.24      (a) 0.3        (a)
+   technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 43-55 ---
+Apollo 17. Lunar Receiving Laboratory. MSC 03211
+  Curator’s Catalog. pp. 447.                              Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+                                                  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator    Office, Houston
+
+  Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Space Phys. 13, 567-587.                                        soils: Some concepts and Is/FeO compilation. Proc. 9th
+                                                     Lunar Sci. Conf. 2287-2297.
+  Korotev R.L. and Kremser D. (1992) Compositional
+   variations in Apollo 17 soils and their relationships to the    Morris R.V. (1980) Origins and size distribution of
+  geology of the Taurus-Littrow site. Proc. 22nd Lunar        metallic iron particles in the lunar regolith. Proc. 11th
+  Planet. Sci. Conf. 275-301.                            Lunar Planet. Sci. Conf. 1697-1712.
+--- material block 2; lines 1-24 ---
+C Meyer         70250                       70255
+                  2010           62 grams                     277 grams
+
+                                                                                                                basalt
+
+        70250      70251           70252    70253    70254     70256
+        25 g        32 g             1 g      1 g      1 g       2 g
+
+
+     ,1        ,2          ,0       ,1
+   16 g    6 g       31 g   0.5 g
+
+
+
+                           C Meyer         70270                           70275
+                                   2010           193 grams                        171 g
+                                        < 1 mm
+                                                                                                                                     basalt
+                          70270     70271                    70272   70273    70274
+                              70.5 g     116 g                    3 g       1.5 g      2.2 g
+
+                                                                                          4 - 10 mm
+
+                                           ,0      ,1        ,2
+--- material block 3; lines 27-40 ---
+C Meyer
+   2010     70290                   70295
+         56 grams                 361 grams
+
+                                                         dark matrix
+                                                              breccia
+
+                   unsieved
+
+
+
+                                                 Meyer C. (1973) Apollo 17 Coarse Fines (4-10 mm)
+--- material block 4; lines 47-59 ---
+Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Space Phys. 13, 567-587.                                        soils: Some concepts and Is/FeO compilation. Proc. 9th
+                                                     Lunar Sci. Conf. 2287-2297.
+  Korotev R.L. and Kremser D. (1992) Compositional
+   variations in Apollo 17 soils and their relationships to the    Morris R.V. (1980) Origins and size distribution of
+  geology of the Taurus-Littrow site. Proc. 22nd Lunar        metallic iron particles in the lunar regolith. Proc. 11th
+  Planet. Sci. Conf. 275-301.                            Lunar Planet. Sci. Conf. 1697-1712.
+
+  LSPET (1973a) Apollo 17 lunar samples : Chemical and  Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+  petrographic description. Science 182, 659-690.            Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+                                                           geologic investigation of the Taurus-Littrow Valley: Apollo
+  LSPET (1973c) Preliminary examination of lunar samples.  17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- treatment block 5; lines 42-54 ---
+Butler P. (1973) Lunar Sample Information Catalog         Report. pp. 182.
+  Apollo 17. Lunar Receiving Laboratory. MSC 03211
+  Curator’s Catalog. pp. 447.                              Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+                                                  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator    Office, Houston
+
+  Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Space Phys. 13, 567-587.                                        soils: Some concepts and Is/FeO compilation. Proc. 9th
+                                                     Lunar Sci. Conf. 2287-2297.
+  Korotev R.L. and Kremser D. (1992) Compositional
+   variations in Apollo 17 soils and their relationships to the    Morris R.V. (1980) Origins and size distribution of
+  geology of the Taurus-Littrow site. Proc. 22nd Lunar        metallic iron particles in the lunar regolith. Proc. 11th
+  Planet. Sci. Conf. 275-301.                            Lunar Planet. Sci. Conf. 1697-1712.
+--- references block 6; lines 35-47 ---
+unsieved
+
+
+
+                                                 Meyer C. (1973) Apollo 17 Coarse Fines (4-10 mm)
+  References for 70271                              Sample Location, Classification and Photo Index. Curator
+  Butler P. (1973) Lunar Sample Information Catalog         Report. pp. 182.
+  Apollo 17. Lunar Receiving Laboratory. MSC 03211
+  Curator’s Catalog. pp. 447.                              Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+                                                  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator    Office, Houston

@@ -1,0 +1,166 @@
+DOCUMENT_ID: 63525__compendium__102f39f133
+ATLAS_SAMPLE_IDS: 63525,63526,63528,63555
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63525.pdf
+SOURCE_PDF_SHA256: 45aba0d1e59df1898f9465f2a5df5b31c0c41469b7d5b44fc833070994bbfdb4
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-11 ---
+63525 – 6.68 grams
+                          63526 – 2.9 grams
+                          63528 – 4.1 grams
+                          63555 – 3.4 grams
+                               Impact Melt Breccia
+
+
+
+
+
+                                                                 Figure 2: Photo of 63526. Scale in mm. S80-37427
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 9-33 ---
+Introduction                                               Radiogenic age dating
+    63525, 63526, 63528 and 63555 are small rake samples                                            Norman et al. (2006) dated two splits of 63525 (figure
+    taken from the surface near Shadow Rock – see section                                                                   3).
+   on 63501.  These samples are impact melt breccia,
+    probably dug up by North Ray Crater.
+                                                Table 1. Chemical composition of 63526 and
+                                                63528.
+   Petrography
+   Phinney et al. (1976) describe these samples together   reference  Stoffler85
+    as “tough crystalline breccia”. Based on examination   weight
+   by SEM, they noted that glass was missing from the   SiO2 %    45.3     45.3     (a)
+                                                              TiO2      0.34     0.26     (a)
+    matrix of these samples. The grain size distribution is   Al2O3    31      29.7     (a)
+     seriate, although they contain many small lithic clasts  FeO       2.79     3.4      (a)
+    (figure 2).  Thin section 63526,9 contains a nice  MnO      0.03     0.03     (a)                                              MgO      2.64     3.3      (a)
+    granoblastic norite clast.                         CaO       17.2     17.5     (a)
+                                                   Na2O      0.6      0.47     (a)
+                                                 K2O       0.34     0.26     (a)
+   Chemistry                                      P2O5     0.03     0.03     (a)
+    Stoffler et al. (1985) reported the composition of 63526  S %
+   and 63528.                                       sum
+
+Lunar Sample Compendium
+C Meyer 2012
+--- mineralogy block 2; lines 14-31 ---
+probably dug up by North Ray Crater.
+                                                Table 1. Chemical composition of 63526 and
+                                                63528.
+   Petrography
+   Phinney et al. (1976) describe these samples together   reference  Stoffler85
+    as “tough crystalline breccia”. Based on examination   weight
+   by SEM, they noted that glass was missing from the   SiO2 %    45.3     45.3     (a)
+                                                              TiO2      0.34     0.26     (a)
+    matrix of these samples. The grain size distribution is   Al2O3    31      29.7     (a)
+     seriate, although they contain many small lithic clasts  FeO       2.79     3.4      (a)
+    (figure 2).  Thin section 63526,9 contains a nice  MnO      0.03     0.03     (a)                                              MgO      2.64     3.3      (a)
+    granoblastic norite clast.                         CaO       17.2     17.5     (a)
+                                                   Na2O      0.6      0.47     (a)
+                                                 K2O       0.34     0.26     (a)
+   Chemistry                                      P2O5     0.03     0.03     (a)
+    Stoffler et al. (1985) reported the composition of 63526  S %
+   and 63528.                                       sum
+--- material block 3; lines 1-31 ---
+Figure 2: Photomicrograph of thin section 63525,11 showing seriate grain size distribu-
+                 tion and various clast types. (from Ryder and Norman 1980). Field of view is 3 mm.
+
+
+
+
+
+                   Figure 3: Ar/Ar plateau diagram for 63525 (Norman et al. 2006).
+
+   Introduction                                               Radiogenic age dating
+    63525, 63526, 63528 and 63555 are small rake samples                                            Norman et al. (2006) dated two splits of 63525 (figure
+    taken from the surface near Shadow Rock – see section                                                                   3).
+   on 63501.  These samples are impact melt breccia,
+    probably dug up by North Ray Crater.
+                                                Table 1. Chemical composition of 63526 and
+                                                63528.
+   Petrography
+   Phinney et al. (1976) describe these samples together   reference  Stoffler85
+    as “tough crystalline breccia”. Based on examination   weight
+   by SEM, they noted that glass was missing from the   SiO2 %    45.3     45.3     (a)
+                                                              TiO2      0.34     0.26     (a)
+    matrix of these samples. The grain size distribution is   Al2O3    31      29.7     (a)
+     seriate, although they contain many small lithic clasts  FeO       2.79     3.4      (a)
+    (figure 2).  Thin section 63526,9 contains a nice  MnO      0.03     0.03     (a)                                              MgO      2.64     3.3      (a)
+    granoblastic norite clast.                         CaO       17.2     17.5     (a)
+                                                   Na2O      0.6      0.47     (a)
+                                                 K2O       0.34     0.26     (a)
+   Chemistry                                      P2O5     0.03     0.03     (a)
+    Stoffler et al. (1985) reported the composition of 63526  S %
+   and 63528.                                       sum
+--- age block 4; lines 4-17 ---
+Figure 3: Ar/Ar plateau diagram for 63525 (Norman et al. 2006).
+
+   Introduction                                               Radiogenic age dating
+    63525, 63526, 63528 and 63555 are small rake samples                                            Norman et al. (2006) dated two splits of 63525 (figure
+    taken from the surface near Shadow Rock – see section                                                                   3).
+   on 63501.  These samples are impact melt breccia,
+    probably dug up by North Ray Crater.
+                                                Table 1. Chemical composition of 63526 and
+                                                63528.
+   Petrography
+--- references block 5; lines 12-24 ---
+taken from the surface near Shadow Rock – see section                                                                   3).
+   on 63501.  These samples are impact melt breccia,
+    probably dug up by North Ray Crater.
+                                                Table 1. Chemical composition of 63526 and
+                                                63528.
+   Petrography
+   Phinney et al. (1976) describe these samples together   reference  Stoffler85
+    as “tough crystalline breccia”. Based on examination   weight
+   by SEM, they noted that glass was missing from the   SiO2 %    45.3     45.3     (a)
+                                                              TiO2      0.34     0.26     (a)
+    matrix of these samples. The grain size distribution is   Al2O3    31      29.7     (a)
+     seriate, although they contain many small lithic clasts  FeO       2.79     3.4      (a)
+    (figure 2).  Thin section 63526,9 contains a nice  MnO      0.03     0.03     (a)                                              MgO      2.64     3.3      (a)
+
+=== PDF PAGE 6; CATEGORIES: material,references ===
+--- material block 1; lines 21-33 ---
+TS                             TS
+
+
+
+   References for 63525 - 63529                              Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo    J. and Rehfeldt A. (1981) Distribution and provenance of
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   lunar highland rock types at North Ray Crater, Apollo 16.
+    Catalog. pp. 370.                                         Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+    Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite   Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+     in Apollo 16 highland rocks: Manifestations of volatile-   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-  Reimold W.U., Wacker K. and Wanke H. (1985)
+    259.                                                  Composition and evolution of the lunar crust in the Descartes
+--- material block 2; lines 38-54 ---
+LSPET (1972c) Preliminary examination of lunar samples.   In Geology of the Apollo 16 area, central lunar highlands.
+    In Apollo 16 Preliminary Science Report. NASA SP-315,   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    7-1—7-58.
+
+   Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+    impact events within the lunar cataclysm from 40Ar-39Ar ages
+    and compositions of Apollo 16 impact melt rocks. Geochim.
+    Cosmochim. Acta 70, 6032-6049.
+
+    Phinney W. and Lofgren G. (1973) Description, classification
+    and inventory of Apollo 16 rake samples from stations 1, 4
+    and 13. Curators Office.
+
+    Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+--- references block 3; lines 19-31 ---
+,6                                         ,11
+                                                                                     ,7                                         ,12
+                                                      TS                             TS
+
+
+
+   References for 63525 - 63529                              Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo    J. and Rehfeldt A. (1981) Distribution and provenance of
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   lunar highland rock types at North Ray Crater, Apollo 16.
+    Catalog. pp. 370.                                         Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+    Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite   Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+     in Apollo 16 highland rocks: Manifestations of volatile-   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,

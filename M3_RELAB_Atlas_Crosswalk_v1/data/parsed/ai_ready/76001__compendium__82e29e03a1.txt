@@ -1,0 +1,432 @@
+DOCUMENT_ID: 76001__compendium__82e29e03a1
+ATLAS_SAMPLE_IDS: 76001
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/76001.pdf
+SOURCE_PDF_SHA256: 46622f47a391d2fff2880495c9cdf621e67a4aa15a13215c1840a26220cc4459
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 18-53 ---
+Nishiizumi et al. (1990) based on data for cosmogenic
+                                                           radionuclides.
+
+                                             Petrography
+                                                      Stu Nagle (1979) first described core sample 76001
+                                                  and Papike and Wyszynski (1980) reported the optical
+                                                       mineral mode. While Nagle could distinguish as many
+                                                          as six stratigraphic units based on bulk observation,
+                                                   Papike and Wyszynski could only distinguish two
+                                                         petrographic units using thin sections; B (top) and A
+                                                         (bottom). Unit B extends from 0-20 cm, while unit A
+                                                       extends from 20-32 cm. Unit B is enriched in KREEPy
+                                                                noritic breccia and depleted in gabbroic anorthosite
+                                                              reative to unit A. Basalt fragments and fragments of
+                                                           the orange glass are present throughout the core, but
+                                                       only appear to be a minor component. This is surprising
+                                                         considering that the core was taken not far from a Mare
+                                                          surface and that the whole area is seen form orbit to
+                                                   have a “dark mantle”.
+
+
+                                                   Mineralogical Mode 76001
+                                                                a la Papike and Wyszinski (1980)
+                                                                                       Unit A          Unit B
+                                                     Mare Basalt              2.6 %           3.8
+           ~17 cm       bottom                       Anor. Norite, Troct.      13.5             5.1
+                                         RNB + POIK             4.4              8.4
+          Figure 1: Low-resolution scan of epoxy                Fused Soil               43.2            48.6
+          encapsulated core 76001(about 30 cm long).               Oliv. + Pyx.              4.9              5.7
+                                                                   Plagioclase              24.4           22
+                                                      Opaque                  1.2              1.3
+                 high-res                                Orange glass             2.9              3.2
+                                                             Other glass               2.9              1.9
+
+Lunar Sample Compendium
+C Meyer 2007
+--- material block 2; lines 1-52 ---
+76001
+                                    Drive Tube
+                                                 Station 6
+                top
+                                                 Introduction
+                                                  Lunar core 76001 (~34.5 cm) was collected from the
+                                                  bottom of the slope of the North Massif about 250
+                                                     meters for the boundary with the mare surface and
+                        ~17 cm                about 10 meters below the big boulder seen in all the
+                                                               pictures.  It is a single drive tube (711.6 grams).
+
+                                              To date, drive tube 76001 has not been analyzed in as
+                                           much detail as other lunar cores.  It was found to be
+                                                           relatively uniform with depth, apparently due to
+                                                      continuous downslope migration of material from the
+                                                North Massif (Korotev and Bishop 1993).  The
+                                                       depositional history of this core is discussed by
+                                                      Nishiizumi et al. (1990) based on data for cosmogenic
+                                                           radionuclides.
+
+                                             Petrography
+                                                      Stu Nagle (1979) first described core sample 76001
+                                                  and Papike and Wyszynski (1980) reported the optical
+                                                       mineral mode. While Nagle could distinguish as many
+                                                          as six stratigraphic units based on bulk observation,
+                                                   Papike and Wyszynski could only distinguish two
+                                                         petrographic units using thin sections; B (top) and A
+                                                         (bottom). Unit B extends from 0-20 cm, while unit A
+                                                       extends from 20-32 cm. Unit B is enriched in KREEPy
+                                                                noritic breccia and depleted in gabbroic anorthosite
+                                                              reative to unit A. Basalt fragments and fragments of
+                                                           the orange glass are present throughout the core, but
+                                                       only appear to be a minor component. This is surprising
+                                                         considering that the core was taken not far from a Mare
+                                                          surface and that the whole area is seen form orbit to
+                                                   have a “dark mantle”.
+
+
+                                                   Mineralogical Mode 76001
+                                                                a la Papike and Wyszinski (1980)
+                                                                                       Unit A          Unit B
+                                                     Mare Basalt              2.6 %           3.8
+           ~17 cm       bottom                       Anor. Norite, Troct.      13.5             5.1
+                                         RNB + POIK             4.4              8.4
+          Figure 1: Low-resolution scan of epoxy                Fused Soil               43.2            48.6
+          encapsulated core 76001(about 30 cm long).               Oliv. + Pyx.              4.9              5.7
+                                                                   Plagioclase              24.4           22
+                                                      Opaque                  1.2              1.3
+                 high-res                                Orange glass             2.9              3.2
+                                                             Other glass               2.9              1.9
+
+Lunar Sample Compendium
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,references,treatment ===
+--- chemistry block 1; lines 1-39 ---
+25                                                                                 1000
+           20                      Apollo soils                                        76001
+                                                                                                     100
+
+           15                                                                   sample/
+  FeO                                                                            chondrite
+                                                                                                      10
+           10
+
+                         76001
+             5                                                                                               1              76501
+
+
+             0
+               0       5      10      15      20      25      30      35               0.1
+                                                                                      La      Pr    Sm    Gd     Dy      Er     Yb                                                                             Ce     Nd     Eu     Tb    Ho    Tm     Lu                     Al2O3
+
+         Figure 2: Chemical composition of lunar soils               Figure 3: Normalized rare-earth-element composi-
+        campared with that of 76001.                                   tion of 76001 compared with that of 76501 (from
+                                                                      Korotev, unpublished and Hubbard et al. 1974).
+
+
+
+
+   Morris and Lauer (1979) found that the magnetic
+                                                 Processing    maturity index (Is/FeO) was uniformly mature with
+                                                   Lunar core 76001 is a single drive tube collected from    depth (figure 4).
+                                                           the soil at the bottom of the North Massif about 250
+                                                      meters from the mare boundary. It was simply pushed   Chemistry
+                                                                      in, up to about 16 cm, and then hammered (5-6 blows)
+   Korotev and Bishop (1993) found that 76001 had a
+                                                             to 37.1 cm (34.5 cm were recovered).  76001 was
+    relatively homogeneous chemical composition (62
+                                                   capped on both ends and brought to Earth in a bag
+    splits) (with the exception of a few metallic iron
+                                                 where it was not well protected from spacecraft nor
+    nuggets with high Ir, Au or Ni). Table 1 compares the
+                                                             Pacific Ocean atmospheres.
+    average composition of 76001 with that of 76501 and
+--- material block 2; lines 21-79 ---
+Morris and Lauer (1979) found that the magnetic
+                                                 Processing    maturity index (Is/FeO) was uniformly mature with
+                                                   Lunar core 76001 is a single drive tube collected from    depth (figure 4).
+                                                           the soil at the bottom of the North Massif about 250
+                                                      meters from the mare boundary. It was simply pushed   Chemistry
+                                                                      in, up to about 16 cm, and then hammered (5-6 blows)
+   Korotev and Bishop (1993) found that 76001 had a
+                                                             to 37.1 cm (34.5 cm were recovered).  76001 was
+    relatively homogeneous chemical composition (62
+                                                   capped on both ends and brought to Earth in a bag
+    splits) (with the exception of a few metallic iron
+                                                 where it was not well protected from spacecraft nor
+    nuggets with high Ir, Au or Ni). Table 1 compares the
+                                                             Pacific Ocean atmospheres.
+    average composition of 76001 with that of 76501 and
+    other soils at station 6 (Rhodes et al. 1974; Korotev
+                                                          In the LRL, it was X-rayed and material taken from
+   and Kremser 1992). Average for the top of the core
+                                                           the top 4 mm in order to have splits from the lunar
+    (unit B) and for that of the bottom (unit A) show that
+                                                          surface (figure 8).  It was then extruded and dissected
+    they are basically the same mix of highland materials
+                                                            in 1978 (Curatorial Newsletter#23).  Finally, the
+   and mare materials (~3 to 1). Interestingly soil samples
+                                                    remainder (~1/3) was encapsulated in epoxy, split
+   found near the big boulder have slightly elevated REE
+                                                        lengthwise (twice), with one side cut into potted butts
+   – probably derived from the boulder.
+                                                  (PB) for three sets of continuous thin sections (as
+                                                              indicated). Figure 1 is a collage of photos of a sawn
+   One might speculate that the slight increase in trace
+                                                            surface cut lengthwise thru the epoxy encapsulated core
+    element content of unit B compared to that of unit A
+                                                              (called a “reference” piece).
+   was due to the arrival of the big boulder about 20 m.y.
+   ago !
+                                                  Korotev and Bishop (1993) reported two kinds of
+                                                        contamination; high Au in the topmost samples and
+   Cosmogenic isotopes and exposure ages                                                            several “nuggets” of metallic iron (with terrestrial-like
+   The activity of cosmic and solar ray (SCR)-produced                                                       composition) in the upper part.
+    radionuclides has been carefully determined for core
+    76001. These include 22Na, 26Al and 53Mn (figure 5)
+                                                References
+   and 14C, 36Cl (figure 6).  They generally show a
+                                                 Crozaz G. (1980)  Irradiation history of the lunar
+    predictable pattern for a core in steady state.
+                                                              regolith at the Apollo 14, 15 and 17 sites: Additional
+                                                                  insights. Proc. 11th Lunar Planet. Sci. Conf. 1453-1462.
+   Other Studies
+    Crozaz (1980) found a high count of cosmic ray induced                                                           Curatorial Newsletter (1979) Core synopsis 76001.
+    tracks throughout the core (figure 7).
+
+
+Lunar Sample Compendium
+C Meyer 2007
+--- age block 3; lines 68-79 ---
+and 14C, 36Cl (figure 6).  They generally show a
+                                                 Crozaz G. (1980)  Irradiation history of the lunar
+    predictable pattern for a core in steady state.
+                                                              regolith at the Apollo 14, 15 and 17 sites: Additional
+                                                                  insights. Proc. 11th Lunar Planet. Sci. Conf. 1453-1462.
+   Other Studies
+    Crozaz (1980) found a high count of cosmic ray induced                                                           Curatorial Newsletter (1979) Core synopsis 76001.
+    tracks throughout the core (figure 7).
+
+
+Lunar Sample Compendium
+C Meyer 2007
+--- treatment block 4; lines 19-32 ---
+campared with that of 76001.                                   tion of 76001 compared with that of 76501 (from
+                                                                      Korotev, unpublished and Hubbard et al. 1974).
+
+
+
+
+   Morris and Lauer (1979) found that the magnetic
+                                                 Processing    maturity index (Is/FeO) was uniformly mature with
+                                                   Lunar core 76001 is a single drive tube collected from    depth (figure 4).
+                                                           the soil at the bottom of the North Massif about 250
+                                                      meters from the mare boundary. It was simply pushed   Chemistry
+                                                                      in, up to about 16 cm, and then hammered (5-6 blows)
+   Korotev and Bishop (1993) found that 76001 had a
+                                                             to 37.1 cm (34.5 cm were recovered).  76001 was
+--- treatment block 5; lines 63-75 ---
+Cosmogenic isotopes and exposure ages                                                            several “nuggets” of metallic iron (with terrestrial-like
+   The activity of cosmic and solar ray (SCR)-produced                                                       composition) in the upper part.
+    radionuclides has been carefully determined for core
+    76001. These include 22Na, 26Al and 53Mn (figure 5)
+                                                References
+   and 14C, 36Cl (figure 6).  They generally show a
+                                                 Crozaz G. (1980)  Irradiation history of the lunar
+    predictable pattern for a core in steady state.
+                                                              regolith at the Apollo 14, 15 and 17 sites: Additional
+                                                                  insights. Proc. 11th Lunar Planet. Sci. Conf. 1453-1462.
+   Other Studies
+    Crozaz (1980) found a high count of cosmic ray induced                                                           Curatorial Newsletter (1979) Core synopsis 76001.
+    tracks throughout the core (figure 7).
+--- references block 6; lines 52-73 ---
+– probably derived from the boulder.
+                                                  (PB) for three sets of continuous thin sections (as
+                                                              indicated). Figure 1 is a collage of photos of a sawn
+   One might speculate that the slight increase in trace
+                                                            surface cut lengthwise thru the epoxy encapsulated core
+    element content of unit B compared to that of unit A
+                                                              (called a “reference” piece).
+   was due to the arrival of the big boulder about 20 m.y.
+   ago !
+                                                  Korotev and Bishop (1993) reported two kinds of
+                                                        contamination; high Au in the topmost samples and
+   Cosmogenic isotopes and exposure ages                                                            several “nuggets” of metallic iron (with terrestrial-like
+   The activity of cosmic and solar ray (SCR)-produced                                                       composition) in the upper part.
+    radionuclides has been carefully determined for core
+    76001. These include 22Na, 26Al and 53Mn (figure 5)
+                                                References
+   and 14C, 36Cl (figure 6).  They generally show a
+                                                 Crozaz G. (1980)  Irradiation history of the lunar
+    predictable pattern for a core in steady state.
+                                                              regolith at the Apollo 14, 15 and 17 sites: Additional
+                                                                  insights. Proc. 11th Lunar Planet. Sci. Conf. 1453-1462.
+   Other Studies
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 1-8 ---
+Figure 4: Morris and Lauer presented this depth profile of the
+                       FeO and maturity index of 76001 in their abstract (1979).
+
+
+
+
+   Evans J.C., Fruchter J.S., Reeves J.H., Rancitelli L.A.
+                                                      Nishiizumi K., Arnold J.R., Kubik P.W. and Sharma P.
+--- chemistry block 2; lines 26-38 ---
+Regolith: Chemistry, mineralogy and petrology. Rev.
+   of Apollo 17 core 76001.  (abs) LPS XXIV, p. 819-
+                                                  Geophys. Space Phys 20, 761-826.
+   820.
+
+                                              Rhodes et al. (1974)  The relationships between
+   Morris R.V. and Lauer H.V. (1979) FeO and surface                                                    geology and soil chemistry at the Apollo 17 landing
+   exposure (maturity) depth profiles of cores 15010/11                                                                         site. Proc. 5th Lunar Sci. Conf. 1097-1117.
+   (Hadley Rille) and 76001 (North Massif). (abs) LPS
+   X, 861-862.
+
+   Nagle J.S. (1979)  Drive tube 76001 – continuous
+   accumulation with complications?  Proc. 10th Lunar
+--- mineralogy block 3; lines 13-32 ---
+Sci. Conf. 1497-1509.
+                                                           radionuclides. Lunar Planet. Sci. 21, 895-896.
+
+    Jull A.J.T., Cloudt S., Donahue D.J., Sisterson J.M.,
+                                                     Papike J.J and Wyszynski J. (1980) Apollo 17 drive
+   Reedy R.C. and Masarik J. (1998) 14C depth profiles
+                                                        tube 76001: Modal petrology. Proc. 11th Lunar Planet.
+    in Apollo 15 and 17 cores and lunar rock 68815.
+                                                               Sci. Conf. 1609-1621.
+   Geochim. Cosmochim. Acta 62, 3025-3036.
+
+                                                      Papike J.J., Simon S.B. and Laul J.C. (1982) The Lunar
+   Korotev R.L. and Bishop K.M. (1993) Composition
+                                                          Regolith: Chemistry, mineralogy and petrology. Rev.
+   of Apollo 17 core 76001.  (abs) LPS XXIV, p. 819-
+                                                  Geophys. Space Phys 20, 761-826.
+   820.
+
+                                              Rhodes et al. (1974)  The relationships between
+   Morris R.V. and Lauer H.V. (1979) FeO and surface                                                    geology and soil chemistry at the Apollo 17 landing
+--- material block 4; lines 14-38 ---
+radionuclides. Lunar Planet. Sci. 21, 895-896.
+
+    Jull A.J.T., Cloudt S., Donahue D.J., Sisterson J.M.,
+                                                     Papike J.J and Wyszynski J. (1980) Apollo 17 drive
+   Reedy R.C. and Masarik J. (1998) 14C depth profiles
+                                                        tube 76001: Modal petrology. Proc. 11th Lunar Planet.
+    in Apollo 15 and 17 cores and lunar rock 68815.
+                                                               Sci. Conf. 1609-1621.
+   Geochim. Cosmochim. Acta 62, 3025-3036.
+
+                                                      Papike J.J., Simon S.B. and Laul J.C. (1982) The Lunar
+   Korotev R.L. and Bishop K.M. (1993) Composition
+                                                          Regolith: Chemistry, mineralogy and petrology. Rev.
+   of Apollo 17 core 76001.  (abs) LPS XXIV, p. 819-
+                                                  Geophys. Space Phys 20, 761-826.
+   820.
+
+                                              Rhodes et al. (1974)  The relationships between
+   Morris R.V. and Lauer H.V. (1979) FeO and surface                                                    geology and soil chemistry at the Apollo 17 landing
+   exposure (maturity) depth profiles of cores 15010/11                                                                         site. Proc. 5th Lunar Sci. Conf. 1097-1117.
+   (Hadley Rille) and 76001 (North Massif). (abs) LPS
+   X, 861-862.
+
+   Nagle J.S. (1979)  Drive tube 76001 – continuous
+   accumulation with complications?  Proc. 10th Lunar
+--- treatment block 5; lines 1-8 ---
+Figure 4: Morris and Lauer presented this depth profile of the
+                       FeO and maturity index of 76001 in their abstract (1979).
+
+
+
+
+   Evans J.C., Fruchter J.S., Reeves J.H., Rancitelli L.A.
+                                                      Nishiizumi K., Arnold J.R., Kubik P.W. and Sharma P.
+--- treatment block 6; lines 27-39 ---
+of Apollo 17 core 76001.  (abs) LPS XXIV, p. 819-
+                                                  Geophys. Space Phys 20, 761-826.
+   820.
+
+                                              Rhodes et al. (1974)  The relationships between
+   Morris R.V. and Lauer H.V. (1979) FeO and surface                                                    geology and soil chemistry at the Apollo 17 landing
+   exposure (maturity) depth profiles of cores 15010/11                                                                         site. Proc. 5th Lunar Sci. Conf. 1097-1117.
+   (Hadley Rille) and 76001 (North Massif). (abs) LPS
+   X, 861-862.
+
+   Nagle J.S. (1979)  Drive tube 76001 – continuous
+   accumulation with complications?  Proc. 10th Lunar
+    Planet. Sci. Conf. 1385-1399.
+
+=== PDF PAGE 5; CATEGORIES: material ===
+--- material block 1; lines 7-26 ---
+Figure 6 a, b: Depth profiles of radionuclides (14C
+        and 36Cl) in lunar core 76001 (from Nishiizumi et
+            al. 1990).
+
+
+
+
+
+                                                                Figure 8: Illustration how the core was dissected.
+
+
+
+
+Lunar Sample Compendium
+C Meyer 2007
+
+=== PDF PAGE 6; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 76001 and station 6 soils.
+
+
+     reference  Korotev (unpublished)      Rhodes74   Korotev92
+     weight     ave     unit B   unit A      76501        station 6
+    SiO2 %                              43.41   (c ) 43.5      (d)
+    TiO2                                  3.15     (c ) 3.35      (d)
+    Al2O3                               18.63   (c ) 18.25     (d)
+   FeO       10.58   10.6    10.3     (a) 10.32   (c ) 10.73     (d)
+   MnO                                  0.14     (c ) 0.15      (d)
+   MgO                                  11.08   (c ) 10.76     (d)
+   CaO       12.3    12.3    12.2     (a) 12.28   (c ) 12.15     (d)
+   Na2O      0.39    0.39    0.384   (a) 0.35     (c ) 0.4       (d)
+   K2O                                    0.1      (c ) 0.12      (d)
+   P2O5                                 0.08     (c ) 0.095     (d)
+   S %                                  0.07     (c ) 0.07      (d)
+    sum
+
+    Sc ppm    28.2    28.7    27.5     (a)              28.8      (d)
+   V
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 76001 and station 6 soils.
+
+
+     reference  Korotev (unpublished)      Rhodes74   Korotev92
+     weight     ave     unit B   unit A      76501        station 6
+    SiO2 %                              43.41   (c ) 43.5      (d)
+    TiO2                                  3.15     (c ) 3.35      (d)
+    Al2O3                               18.63   (c ) 18.25     (d)
+   FeO       10.58   10.6    10.3     (a) 10.32   (c ) 10.73     (d)
+   MnO                                  0.14     (c ) 0.15      (d)
+--- references block 3; lines 65-75 ---
+Os ppb
+       Ir ppb      8.8     8.5     7.7      (a)              9.7       (d)
+     Pt ppb
+    Au ppb     4.1    3       2.9      (a)              4.1       (d)
+    Th ppm    1.55    1.56    1.51     (a)              1.63      (d)
+   U ppm     0.42    0.42    0.42     (a) 0.44     (b)  0.44      (d)
+     technique:  (a) INAA, (b ) IDMS, (c ) XRF, (d) literature average
+
+
+Lunar Sample Compendium
+C Meyer 2007
+
+=== PDF PAGE 7; CATEGORIES: material ===
+--- material block 1; lines 6-18 ---
+0.0 cm W1
+                                     76001,6011
+                                   epoxy
+                                        encapsulated
+                                        core
+
+
+
+
+                                                        1.0 cm

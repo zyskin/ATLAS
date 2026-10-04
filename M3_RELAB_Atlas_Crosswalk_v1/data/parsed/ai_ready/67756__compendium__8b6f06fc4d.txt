@@ -1,0 +1,104 @@
+DOCUMENT_ID: 67756__compendium__8b6f06fc4d
+ATLAS_SAMPLE_IDS: 67756
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67756.pdf
+SOURCE_PDF_SHA256: 19e29d5f9b89ea3ff5f82f669dad4e95d1243fba40f862dede848d3259beeb2b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 9-21 ---
+Figure 1: Photo of 67756. Scale in mm. S72-51276
+
+
+   Introduction                                            Chemistry
+   67756 is a rake sample collected from the rim of North
+                                            None
+   Ray Crater – see section on 67701. It is a plagioclase-
+   rich breccia, with minerals that seem to have
+                                              Radiogenic age dating    equilibrated – hence it is called “recrystallized”.
+                                            Not
+   Petrography
+                                                 Processing   This small chalky white particle was described by
+                                           One thin section.   Ryder and Norman (1980) and analyzed by Steele and
+--- material block 2; lines 1-22 ---
+67756
+                                   Recrystallized Breccia
+                                               4.8 grams
+
+
+
+
+
+                                  Figure 1: Photo of 67756. Scale in mm. S72-51276
+
+
+   Introduction                                            Chemistry
+   67756 is a rake sample collected from the rim of North
+                                            None
+   Ray Crater – see section on 67701. It is a plagioclase-
+   rich breccia, with minerals that seem to have
+                                              Radiogenic age dating    equilibrated – hence it is called “recrystallized”.
+                                            Not
+   Petrography
+                                                 Processing   This small chalky white particle was described by
+                                           One thin section.   Ryder and Norman (1980) and analyzed by Steele and
+   Smith (1973), but it is of no importance.
+--- age block 3; lines 11-23 ---
+Introduction                                            Chemistry
+   67756 is a rake sample collected from the rim of North
+                                            None
+   Ray Crater – see section on 67701. It is a plagioclase-
+   rich breccia, with minerals that seem to have
+                                              Radiogenic age dating    equilibrated – hence it is called “recrystallized”.
+                                            Not
+   Petrography
+                                                 Processing   This small chalky white particle was described by
+                                           One thin section.   Ryder and Norman (1980) and analyzed by Steele and
+   Smith (1973), but it is of no importance.
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 1-7 ---
+Figure 3: Pyroxene and olivine diagram including
+                                                                   analyses of 67756 (Steele and Smith 1973).
+
+
+                                                    References for 67756
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+--- mineralogy block 2; lines 14-26 ---
+rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+         Figure 2: Thin section photomicrogaph of 67756
+                                                       Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples        from Ryder and Norman 1980.
+                                                    67515 to 68537:  Sample classification, description and
+                                                                  inventory. Curator Catalog, JSC
+
+            67756                                    Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+                                                                of some Apollo 16 rocks and fines: General petrologic model              4.8 grams                                                                of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+
+
+                ,0         ,2
+              4.6 g   PB
+--- material block 3; lines 10-22 ---
+LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+         Figure 2: Thin section photomicrogaph of 67756
+                                                       Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples        from Ryder and Norman 1980.
+                                                    67515 to 68537:  Sample classification, description and
+                                                                  inventory. Curator Catalog, JSC
+
+            67756                                    Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+                                                                of some Apollo 16 rocks and fines: General petrologic model              4.8 grams                                                                of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+--- references block 4; lines 1-11 ---
+Figure 3: Pyroxene and olivine diagram including
+                                                                   analyses of 67756 (Steele and Smith 1973).
+
+
+                                                    References for 67756
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                               Catalog. pp. 370.
+
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.

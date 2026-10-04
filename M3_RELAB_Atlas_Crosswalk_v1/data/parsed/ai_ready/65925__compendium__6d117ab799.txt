@@ -1,0 +1,141 @@
+DOCUMENT_ID: 65925__compendium__6d117ab799
+ATLAS_SAMPLE_IDS: 65925,65926,65927
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65925.pdf
+SOURCE_PDF_SHA256: 134bf67c195539a22096e8fd442d1a52336b89b8fad4ffa32752fdba5a5438e9
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 15-27 ---
+,0       ,2    ,1
+   Petrography                                              3.4 g  PB   0.2 g
+   Keil et al. (1972) described these rake samples as soil
+    breccias. Thin sections show they have seriate grain                          ,4
+    size distribution with occasional white clasts. Jerde et                 TS
+    al. (1983) and Joy et al. (2012) reported the maturity
+   index Is/FeO = 41 (submature) for 65925.               Jerde E.A., Warren P.H., Morris R.V., Heiken G.H. and
+                                                   Vaniman D.T. (1987) A potpourri of regolith breccias:
+   Chemistry                                   “New” samples from the Apollo 14, 16 and 17 landing sites.
+   Jerde et al. (1983) determined the composition.         Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 92,
+                                                      E526-E536.
+
+   References for 65925, 926 and 927                  Joy K.H., Kring D.A., Bogard D.D., McKay D.S. and
+--- material block 2; lines 1-33 ---
+65925, 65926 and 65927
+                                        Soil Breccia
+                                         3.82, 3.03 and 0.72 grams
+
+
+
+
+
+                        Figure 1: Photo of 65925. Tick marks at bottom are 1 mm apart. S72-48068
+
+   Introduction                                65925
+   The section on 65901 discusses the location of these              3.8 grams
+   samples.  They are rounded, friable soil breccias
+    (figures 1 – 3).
+                                                                      ,0       ,2    ,1
+   Petrography                                              3.4 g  PB   0.2 g
+   Keil et al. (1972) described these rake samples as soil
+    breccias. Thin sections show they have seriate grain                          ,4
+    size distribution with occasional white clasts. Jerde et                 TS
+    al. (1983) and Joy et al. (2012) reported the maturity
+   index Is/FeO = 41 (submature) for 65925.               Jerde E.A., Warren P.H., Morris R.V., Heiken G.H. and
+                                                   Vaniman D.T. (1987) A potpourri of regolith breccias:
+   Chemistry                                   “New” samples from the Apollo 14, 16 and 17 landing sites.
+   Jerde et al. (1983) determined the composition.         Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 92,
+                                                      E526-E536.
+
+   References for 65925, 926 and 927                  Joy K.H., Kring D.A., Bogard D.D., McKay D.S. and
+                                                          Zolensky M.E. (2012) Re-examination of the formation ages    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               of the Apollo 16 regolith breccias. Geochem. Cosmochim.    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                         Acta doi: 10.1016    Catalog. pp. 370.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- treatment block 3; lines 14-26 ---
+(figures 1 – 3).
+                                                                      ,0       ,2    ,1
+   Petrography                                              3.4 g  PB   0.2 g
+   Keil et al. (1972) described these rake samples as soil
+    breccias. Thin sections show they have seriate grain                          ,4
+    size distribution with occasional white clasts. Jerde et                 TS
+    al. (1983) and Joy et al. (2012) reported the maturity
+   index Is/FeO = 41 (submature) for 65925.               Jerde E.A., Warren P.H., Morris R.V., Heiken G.H. and
+                                                   Vaniman D.T. (1987) A potpourri of regolith breccias:
+   Chemistry                                   “New” samples from the Apollo 14, 16 and 17 landing sites.
+   Jerde et al. (1983) determined the composition.         Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 92,
+                                                      E526-E536.
+--- references block 4; lines 21-33 ---
+index Is/FeO = 41 (submature) for 65925.               Jerde E.A., Warren P.H., Morris R.V., Heiken G.H. and
+                                                   Vaniman D.T. (1987) A potpourri of regolith breccias:
+   Chemistry                                   “New” samples from the Apollo 14, 16 and 17 landing sites.
+   Jerde et al. (1983) determined the composition.         Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 92,
+                                                      E526-E536.
+
+   References for 65925, 926 and 927                  Joy K.H., Kring D.A., Bogard D.D., McKay D.S. and
+                                                          Zolensky M.E. (2012) Re-examination of the formation ages    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               of the Apollo 16 regolith breccias. Geochem. Cosmochim.    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                         Acta doi: 10.1016    Catalog. pp. 370.
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 65925
+
+
+    reference  Jerde86
+    weight
+   SiO2 %    45.4     (a)
+    TiO2       0.62     (a)
+   Al2O3     24.9     (a)
+   FeO       5.65     (a)
+   MnO       0.08     (a)
+   MgO       7.81     (a)
+   CaO       14.3     (a)
+   Na2O      0.46     (a)
+   K2O       0.12     (a)
+   P2O5
+   S %
+   sum
+
+   Sc ppm    10.3     (a)
+   V
+--- material block 2; lines 36-48 ---
+Ru
+   Rh
+   Pd ppb
+                                Keil K., Dowty E., Prinz M. and   Ag ppb
+   Cd ppb                  Bunch T.E. (1972)  Description,
+     In ppb                          classification and inventory of 151
+   Sn ppb                     Apollo 16 rake samples from the
+   Sb ppb
+                   LM area and station 5.  Curator’s    Te ppb
+   Cs ppm    0.37     (a)         Catalog, JSC.
+   Ba       130      (a)
+   La         12.6     (a)      LSPET (1973b) The Apollo 16
+   Ce       31        (a)
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 65925
+
+
+    reference  Jerde86
+    weight
+   SiO2 %    45.4     (a)
+    TiO2       0.62     (a)
+   Al2O3     24.9     (a)
+   FeO       5.65     (a)
+   MnO       0.08     (a)
+--- references block 4; lines 65-74 ---
+Sutton R.L. (1981) Documentation of Apollo 16   Os ppb
+      Ir ppb      12.7     (a)         samples. In Geology of the Apollo 16 area, central                                                                                               ,0       ,2    ,1       ,3
+    Pt ppb                        lunar highlands. (Ulrich et al. ) U.S.G.S. Prof. Paper                                                                                     2.5 g  PB  0.3 g   0.2 g
+   Au ppb    8         (a)        1048.
+   Th ppm    2.49     (a)
+   U ppm     0.63     (a)                                                                                           ,4
+    technique:  (a) INAA                                                            TS
+
+Lunar Sample Compendium
+C Meyer 2012

@@ -1,0 +1,130 @@
+DOCUMENT_ID: 60525__compendium__8c61ccf371
+ATLAS_SAMPLE_IDS: 60525
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60525.pdf
+SOURCE_PDF_SHA256: d1d1f5964b7af2655f796b1d3b7c238d42f2a3b2bab316a8c37c463dd91af5ea
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 14-27 ---
+Catalog. pp. 370.
+   Petrography
+                                                         Hunter R.H. and Taylor L.A. (1981b) Rust and schreibersite
+   Warner et al. (1976) described 60525 as heterogeneous,                                                                   in Apollo 16 highland rocks: Manifestations of volatile-
+   with half of matrix with poikilitic texture and half with                                                          element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   subophitic texture. There are numerous inclusions of   259.
+   plagioclase and lithic fragments (figure 2).  Minor
+   minerals include metallic iron (9% Ni), zircon, spinel  LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   and a K-rich phase.  Pyroxenes are not equilibrated  and chemical description. Science 179, 23-34.
+    (figure 3).
+                                             LSPET (1972c) Preliminary examination of lunar samples.
+                                                               In Apollo 16 Preliminary Science Report. NASA SP-315,   Chemistry
+                                                     7-1—7-58.
+   Warner et al. (1976), McKinley et al. (1983) and
+--- material block 2; lines 1-24 ---
+60525 – 12.8 grams
+                               Impact Melt Breccia
+
+
+
+
+
+                            Figure 1: This little potato is about 4 cm long. S73-20495
+
+
+   Introduction                                    References for 60525
+   60525 was collected as a rake sample – see section on   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   60501.                                                    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                              Catalog. pp. 370.
+   Petrography
+                                                         Hunter R.H. and Taylor L.A. (1981b) Rust and schreibersite
+   Warner et al. (1976) described 60525 as heterogeneous,                                                                   in Apollo 16 highland rocks: Manifestations of volatile-
+   with half of matrix with poikilitic texture and half with                                                          element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   subophitic texture. There are numerous inclusions of   259.
+   plagioclase and lithic fragments (figure 2).  Minor
+   minerals include metallic iron (9% Ni), zircon, spinel  LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   and a K-rich phase.  Pyroxenes are not equilibrated  and chemical description. Science 179, 23-34.
+    (figure 3).
+                                             LSPET (1972c) Preliminary examination of lunar samples.
+--- references block 3; lines 5-17 ---
+Figure 1: This little potato is about 4 cm long. S73-20495
+
+
+   Introduction                                    References for 60525
+   60525 was collected as a rake sample – see section on   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   60501.                                                    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                              Catalog. pp. 370.
+   Petrography
+                                                         Hunter R.H. and Taylor L.A. (1981b) Rust and schreibersite
+   Warner et al. (1976) described 60525 as heterogeneous,                                                                   in Apollo 16 highland rocks: Manifestations of volatile-
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 60525
+
+
+                                                                      reference  Warner 76 Korotev94
+                                                                   weight             1F
+                                                           SiO2 %    46.1    (a)
+                                                              TiO2      1.05    (a)
+                                                           Al2O3     21.2    (a)
+                                                   FeO       7.2     (a) 8.03      (b)
+                                              MnO      0.08    (a)
+                                              MgO      9.3     (a)
+                                                CaO      12.9    (a) 12.7      (b)
+                                                   Na2O     0.64    (a) 0.53      (b)
+                                                 K2O      0.27    (a)
+                                                   P2O5     0.26    (a)
+                                                  S %
+                                                     sum
+
+                                                         Sc ppm               14.3      (b)
+                                                  V
+--- mineralogy block 2; lines 39-51 ---
+En                                          Fs   Ag ppb
+                                                    Cd ppb
+                                                                               In ppb    Fo                                        Fa
+                                                      Sn ppb
+           compiled by C Meyer                                      Sb ppb
+                                                               Te ppb
+                                                      Cs ppm               0.43      (b)       Figure 3: Composition of olivine and pyroxene in                                                      Ba                 474       (b)
+      60625 (from Warner et al. 1976).                       La                   50.3      (b)
+                                                    Ce                 131       (b)
+                                                                 Pr
+                                                    Nd                 78         (b)
+             60525                       Sm                   22.9      (b)
+               12.8 grams                      EuGd                   1.86      (b)
+--- material block 3; lines 60-71 ---
+W ppb
+                                                    Re ppb
+                                                    Os ppb
+                                                                                                            Ir ppb                12.7      (b)
+                                                                      Pt ppb
+    Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.  Au ppb                11.5       (b)
+    and Keil K. (1976c)  Catalog of Apollo 16 rake samples   Th ppm               8.2        (b)
+    from the LM area and station 5.  Spec. Publ. #13, UNM  U ppm                2.09      (b)
+     Institute of Meteoritics, Albuquerque. 87 pp.                  technique:  (a) broad beam e probe, (b) Randy’s strange average
+
+Lunar Sample Compendium
+C Meyer 2012
+--- references block 4; lines 1-10 ---
+Table 1. Chemical composition of 60525
+
+
+                                                                      reference  Warner 76 Korotev94
+                                                                   weight             1F
+                                                           SiO2 %    46.1    (a)
+                                                              TiO2      1.05    (a)
+                                                           Al2O3     21.2    (a)
+                                                   FeO       7.2     (a) 8.03      (b)
+                                              MnO      0.08    (a)
+--- references block 5; lines 62-71 ---
+Os ppb
+                                                                                                            Ir ppb                12.7      (b)
+                                                                      Pt ppb
+    Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.  Au ppb                11.5       (b)
+    and Keil K. (1976c)  Catalog of Apollo 16 rake samples   Th ppm               8.2        (b)
+    from the LM area and station 5.  Spec. Publ. #13, UNM  U ppm                2.09      (b)
+     Institute of Meteoritics, Albuquerque. 87 pp.                  technique:  (a) broad beam e probe, (b) Randy’s strange average
+
+Lunar Sample Compendium
+C Meyer 2012

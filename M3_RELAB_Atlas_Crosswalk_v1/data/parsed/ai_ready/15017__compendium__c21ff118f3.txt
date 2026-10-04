@@ -1,0 +1,124 @@
+DOCUMENT_ID: 15017__compendium__c21ff118f3
+ATLAS_SAMPLE_IDS: 15017
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15017.pdf
+SOURCE_PDF_SHA256: 96cdf761ac27cb6ebb71f461b17d23fa387eaed617e4525d713132d882cfff81
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+15017
+                                    Glass Sphere
+                                               9.8 grams
+--- mineralogy block 2; lines 22-33 ---
+Figure 4: Location of 15017 on map of Apollo 15.
+
+
+                                                 Introduction
+                                                15017 was seen from the Lunar Module and collected
+                                                                  at beginning of second EVA. The astronauts called it
+                                                      a “little glass Aggie”.  However, it was hollow and
+                                                     broke apart on the return to Earth (figure 1).
+          Figure 3: Photo of 15017. AS15-86-11604
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 8-20 ---
+In thin section the glass is pale green and banded.
+
+   Chemistry
+   15017 appears to be heterogeneous. Fabel et al. (1972)
+    reported analyses for glass in 15017 with a range of
+    composition (Al2O3 = 7.5 – 12.5). Wanke et al. (1976)
+   and Ganapathy et al. (1973) have also reported bulk
+    analyses (table 1).
+
+   Other Studies
+    Fleischer et al. (1973) determined the density of nuclear
+    tracks as a function of depth. Hartung et al. (1973)     Figure 5: Density distribution of micrometeorite
+--- mineralogy block 2; lines 1-28 ---
+Petrography
+   Ryder (1985) gives a description of 15017.  It is a
+   very vesicular glass with numerous included
+   mineral grains.  Only the outside surface was
+   smooth and shiny. Some interior vesicles were
+   open to the outside. There were a few zap pit on
+   some of the surface, but little accretionary material.
+
+    In thin section the glass is pale green and banded.
+
+   Chemistry
+   15017 appears to be heterogeneous. Fabel et al. (1972)
+    reported analyses for glass in 15017 with a range of
+    composition (Al2O3 = 7.5 – 12.5). Wanke et al. (1976)
+   and Ganapathy et al. (1973) have also reported bulk
+    analyses (table 1).
+
+   Other Studies
+    Fleischer et al. (1973) determined the density of nuclear
+    tracks as a function of depth. Hartung et al. (1973)     Figure 5: Density distribution of micrometeorite
+   and Morrison et all. (1973) reported the flux of      craters on fresh glass surface of 15017 (Morrison et
+    microcrater impacts on glass surfaces of 15017 (figure      al.1973).
+    5).
+
+                                                    References for 15017
+                                                                 Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+                                                                  Office, MSC 03209
+--- references block 3; lines 19-31 ---
+Fleischer et al. (1973) determined the density of nuclear
+    tracks as a function of depth. Hartung et al. (1973)     Figure 5: Density distribution of micrometeorite
+   and Morrison et all. (1973) reported the flux of      craters on fresh glass surface of 15017 (Morrison et
+    microcrater impacts on glass surfaces of 15017 (figure      al.1973).
+    5).
+
+                                                    References for 15017
+                                                                 Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+                                                                  Office, MSC 03209
+
+                                                            Fabel G.W., White W.B., White E.W. and Roy R. (1972)
+                                                           Structure of lunar glasses by Raman and soft x-ray
+                                                               spectroscopy. Proc. 3rd Lunar Sci. Conf. 939-951.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 15017.       Ganapathy R., Morgan J.W., Krahenbuhl U. and Anders E.
+                                                           (1973) Ancient meteoritic components in lunar highland
+    reference  Ganapathy73  Wanke 76                          rocks: Clues from trace elements in Apollo 15 and 16
+    weight                                                   samples. Proc. 4th Lunar Sci. Conf. 1239-1261.
+   SiO2 %                  49.9     (b)
+    TiO2
+   Al2O3                    14.9     (b)                       Hartung J.B., Horz F., Aitken F.K., Gault D.E. and Brownlee
+   FeO                     14.3     (b)                       D.E. (1973) The development of microcrater populations
+   MnO                      0.2      (b)                     on lunar rocks. Proc. 4th Lunar Sci. Conf. 3213-3234.
+   MgO                     10.7     (b)
+   CaO                     9.74     (b)
+   Na2O                    0.44     (b)                  LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+   K2O                     0.21     (b)                           description. Science 175, 363-375.
+   P2O5
+   S %                                       LSPET (1972b) Preliminary examination of lunar samples.
+   sum
+                                                         Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+   Sc ppm                  29.9     (b)                     1—6-28.
+   V
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 15017.       Ganapathy R., Morgan J.W., Krahenbuhl U. and Anders E.
+                                                           (1973) Ancient meteoritic components in lunar highland
+    reference  Ganapathy73  Wanke 76                          rocks: Clues from trace elements in Apollo 15 and 16
+    weight                                                   samples. Proc. 4th Lunar Sci. Conf. 1239-1261.
+   SiO2 %                  49.9     (b)
+    TiO2
+   Al2O3                    14.9     (b)                       Hartung J.B., Horz F., Aitken F.K., Gault D.E. and Brownlee
+   FeO                     14.3     (b)                       D.E. (1973) The development of microcrater populations
+   MnO                      0.2      (b)                     on lunar rocks. Proc. 4th Lunar Sci. Conf. 3213-3234.
+--- references block 3; lines 64-73 ---
+Os ppb
+      Ir ppb      9.1         (a) 8        (b)
+    Pt ppb
+   Au ppb     2.9         (a)
+   Th ppm                  3.93     (b)
+   U ppm     1.41        (a)
+    technique:  (a) RNAA, (b) various
+
+Lunar Sample Compendium
+C Meyer 2011

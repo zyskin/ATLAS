@@ -1,0 +1,108 @@
+DOCUMENT_ID: 64538__compendium__14f9d5c7fc
+ATLAS_SAMPLE_IDS: 64538
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64538.pdf
+SOURCE_PDF_SHA256: 151048979915a21c95d8375bfb2a8983ab9a9bdc2429c5ab61c8edf28127eb5d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 4-26 ---
+Figure 1: Photo of 64538 with 1 cm orientation cube. S72-43419.
+   Introduction                                   Table 1. Chemical composition of 64538.
+   64538 is a rake sample from station 4, Apollo 16 – see
+    section on 64501.  It is slightly different from 64546       reference  McKinley83
+    etc., because it has three lithologies (figure 1) and the       weight                                                              SiO2 %    45.3      (a)
+   only analysis seems to be much more aluminous. The      TiO2       0.01      (a)
+   are micrometeorite craters on all surfaces.                 Al2O3     33.3      (a)
+                                                     FeO       1.26      (a)
+                                                MnO       0.01      (a)
+   Petrography                                  MgO       1.16      (a)
+   Ryder and Norman (1980) provide the only description.     CaO       18.2      (a)                                                     Na2O      0.07      (a)
+   There are three lithologies separated by sharp     K2O       0.04      (a)
+   boundaries. Two lithologies seem to be those of the     P2O5
+                                                    S %
+   dimict breccia so common at this site. But the majority     sum
+   of the sample is a coherent, medium grey, glassy matrix        (a)
+    lithology. Mineral chemistry is not reported.
+--- material block 2; lines 1-44 ---
+64538
+                                   Polylithologic Breccia
+                                        30 grams
+
+
+
+
+
+                            Figure 1: Photo of 64538 with 1 cm orientation cube. S72-43419.
+   Introduction                                   Table 1. Chemical composition of 64538.
+   64538 is a rake sample from station 4, Apollo 16 – see
+    section on 64501.  It is slightly different from 64546       reference  McKinley83
+    etc., because it has three lithologies (figure 1) and the       weight                                                              SiO2 %    45.3      (a)
+   only analysis seems to be much more aluminous. The      TiO2       0.01      (a)
+   are micrometeorite craters on all surfaces.                 Al2O3     33.3      (a)
+                                                     FeO       1.26      (a)
+                                                MnO       0.01      (a)
+   Petrography                                  MgO       1.16      (a)
+   Ryder and Norman (1980) provide the only description.     CaO       18.2      (a)                                                     Na2O      0.07      (a)
+   There are three lithologies separated by sharp     K2O       0.04      (a)
+   boundaries. Two lithologies seem to be those of the     P2O5
+                                                    S %
+   dimict breccia so common at this site. But the majority     sum
+   of the sample is a coherent, medium grey, glassy matrix        (a)
+    lithology. Mineral chemistry is not reported.
+
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   Chemistry                                        and chemical description. Science 179, 23-34.
+   McKinley et al. (1983) reported the only analysis,
+   which may be unrepresentative. The Ti content is very  McKinley J.P., Taylor G.J., Keil K., Ma M.-S. and Schmitt
+   low and Al is very high.                              R.A. (1984) Apollo 16: Impact sheets, contrasting nature of
+                                                                the Cayley Plains and Descartes Mountains, and geologic
+                                                                      history. Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys.   Processing
+                                                            Res. 89, B513-B524.
+   There are two thin sections of 64538.
+
+                                                         Phinney W. and Lofgren G. (1973) Description, classification
+   References for 64538                               and inventory of Apollo 16 rake samples from stations 1, 4
+                                                       and 13. Curators Office.    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16    Catalog. pp. 370.
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.    in Apollo 16 highland rocks: Manifestations of volatile-
+--- treatment block 3; lines 14-26 ---
+only analysis seems to be much more aluminous. The      TiO2       0.01      (a)
+   are micrometeorite craters on all surfaces.                 Al2O3     33.3      (a)
+                                                     FeO       1.26      (a)
+                                                MnO       0.01      (a)
+   Petrography                                  MgO       1.16      (a)
+   Ryder and Norman (1980) provide the only description.     CaO       18.2      (a)                                                     Na2O      0.07      (a)
+   There are three lithologies separated by sharp     K2O       0.04      (a)
+   boundaries. Two lithologies seem to be those of the     P2O5
+                                                    S %
+   dimict breccia so common at this site. But the majority     sum
+   of the sample is a coherent, medium grey, glassy matrix        (a)
+    lithology. Mineral chemistry is not reported.
+--- references block 4; lines 6-18 ---
+Figure 1: Photo of 64538 with 1 cm orientation cube. S72-43419.
+   Introduction                                   Table 1. Chemical composition of 64538.
+   64538 is a rake sample from station 4, Apollo 16 – see
+    section on 64501.  It is slightly different from 64546       reference  McKinley83
+    etc., because it has three lithologies (figure 1) and the       weight                                                              SiO2 %    45.3      (a)
+   only analysis seems to be much more aluminous. The      TiO2       0.01      (a)
+   are micrometeorite craters on all surfaces.                 Al2O3     33.3      (a)
+                                                     FeO       1.26      (a)
+                                                MnO       0.01      (a)
+   Petrography                                  MgO       1.16      (a)
+--- references block 5; lines 32-44 ---
+the Cayley Plains and Descartes Mountains, and geologic
+                                                                      history. Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys.   Processing
+                                                            Res. 89, B513-B524.
+   There are two thin sections of 64538.
+
+                                                         Phinney W. and Lofgren G. (1973) Description, classification
+   References for 64538                               and inventory of Apollo 16 rake samples from stations 1, 4
+                                                       and 13. Curators Office.    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16    Catalog. pp. 370.
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.    in Apollo 16 highland rocks: Manifestations of volatile-

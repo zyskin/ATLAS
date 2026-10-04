@@ -1,0 +1,79 @@
+DOCUMENT_ID: 65905__compendium__d64fc63662
+ATLAS_SAMPLE_IDS: 65905
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65905.pdf
+SOURCE_PDF_SHA256: a2dace106ce3b44d1628434fa84916969f6347d66ed43f09844bc021e5776563
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 6-31 ---
+Figure 1: Hard dense particles from same bag as 67905. Scale in mm. S72-46431
+
+
+                                                Table 1. Chemical composition of 65905
+
+
+                                                                      reference  McKinley83
+                                                                    weight
+                                                            SiO2 %    47.2     (a)
+                                                              TiO2      1.24     (a)
+                                                            Al2O3     23.5     (a)
+                                                   FeO       5.62     (a)
+                                               MnO       0.1       (a)
+                                               MgO      6.61     (a)
+                                                 CaO       13.8     (a)
+                                                   Na2O     0.67     (a)
+                                                  K2O       0.71     (a)
+                                                    P2O5     0.48     (a)
+                                                   S %
+                                                     sum
+                                                                                  (a) ?
+--- material block 2; lines 1-8 ---
+65905
+                               Impact Melt Breccia
+                                            12.1 grams
+--- material block 3; lines 27-39 ---
+S %
+                                                     sum
+                                                                                  (a) ?
+
+
+                                                 Introduction
+                                                65905 is one of several dense particles found in soil
+                                                   sample 65901 (figures 1 and 2). The section on 65901
+          Figure 2: Photo of 65905 from Ryder and Norman   discusses the location of these samples.
+          1980. sample is 2.5 cm across.
+--- references block 4; lines 9-21 ---
+Figure 1: Hard dense particles from same bag as 67905. Scale in mm. S72-46431
+
+
+                                                Table 1. Chemical composition of 65905
+
+
+                                                                      reference  McKinley83
+                                                                    weight
+                                                            SiO2 %    47.2     (a)
+                                                              TiO2      1.24     (a)
+                                                            Al2O3     23.5     (a)
+                                                   FeO       5.62     (a)
+                                               MnO       0.1       (a)
+
+=== PDF PAGE 2; CATEGORIES: material,references ===
+--- material block 1; lines 1-10 ---
+Petrography                                    References for 65905
+   Ryder and Norman (1980) termed 65905 “basaltic   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    impact melt” but McKinley et al. (1983) termed it   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                               Catalog. pp. 370.    “poikilitic melt breccia”. Pieces have been allocated
+    to Randy Korotev and Larry Taylor, but they have not
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+    informed the Curator what was learned.                                                       and chemical description. Science 179, 23-34.
+
+    Hey, it’s got about the best poikilitic texture I’ve seen  LSPET (1972c) Preliminary examination of lunar samples.
+    (figure 4 and 5).                                          In Apollo 16 Preliminary Science Report. NASA SP-315,
+--- references block 2; lines 1-7 ---
+Petrography                                    References for 65905
+   Ryder and Norman (1980) termed 65905 “basaltic   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    impact melt” but McKinley et al. (1983) termed it   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                               Catalog. pp. 370.    “poikilitic melt breccia”. Pieces have been allocated
+    to Randy Korotev and Larry Taylor, but they have not
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+    informed the Curator what was learned.                                                       and chemical description. Science 179, 23-34.

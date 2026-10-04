@@ -1,0 +1,173 @@
+DOCUMENT_ID: 63585__compendium__76c3536108
+ATLAS_SAMPLE_IDS: 63585
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63585.pdf
+SOURCE_PDF_SHA256: 2cfd54a38955580aa467aba569fccd96697005c832bd47783a7692d317b0a968
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 25-48 ---
+Compositional variation of Apollo 16 impact-melt
+                                                                Figure 2: Photomicrograph of thin section 63585,4.
+   rocks is discussed by Korotev (1994).                                                         3 mm across.
+
+   Chemistry
+    Stoffler et al. (1985) reported an analysis.  It is rather     Table 1. Chemical composition of 63585
+   aluminous. The chip sent to Rhodes for analysis was
+   apparently not analysed.                                          reference   Stoffler86                                                                        weight
+                                                               SiO2 %   45         (a)
+   Other Studies                                              TiO2       0.84      (a)
+                                                               Al2O3     27.5      (a)
+   Pearce and Simonds (1974) studied the magnetic      FeO       3.1        (a)
+    properties.                                      MnO       0.02      (a)
+                                                 MgO       6.5        (a)
+                                                   CaO       16.2      (a)
+   Processing                                        Na2O      0.48      (a)
+   There are 5 thin section of 63585 and several chips.       K2O       0.23      (a)
+                                                       P2O5      0.14      (a)
+                                                     S %
+                                                        sum
+                                                                                      (a) broad beam e. probe
+--- material block 2; lines 1-27 ---
+63585
+                                  Basaltic Impact Breccia
+                                            32.6 grams
+
+
+
+
+
+                               Figure 1: Photo of 63585 with 1 cm cube for scale. S72-43490
+
+   Introduction
+   63585 is an impact melt breccia with regions that have
+    basaltic texture and other areas that are poikilitic.  It
+   was collected as a rake sample from station 13, on the
+    flank of North Ray Crater, Apollo 16, and has numerous
+   micrometeorite craters on the surface (figure 1).
+
+   Petrography
+   Warner et al. (1973) reported 63585 as a “basalt”, while
+   von Engelhardt (1979) found it was a poikilitic impact
+    breccia. So it has regions with both textures (figures 2
+   and 3). The analyses of mafic mineral in the basaltic
+   region are reproduced in figure 4. Hunter and Taylor
+   (1980) reported lots of rust in 63585.
+
+   Compositional variation of Apollo 16 impact-melt
+                                                                Figure 2: Photomicrograph of thin section 63585,4.
+--- treatment block 3; lines 31-43 ---
+Stoffler et al. (1985) reported an analysis.  It is rather     Table 1. Chemical composition of 63585
+   aluminous. The chip sent to Rhodes for analysis was
+   apparently not analysed.                                          reference   Stoffler86                                                                        weight
+                                                               SiO2 %   45         (a)
+   Other Studies                                              TiO2       0.84      (a)
+                                                               Al2O3     27.5      (a)
+   Pearce and Simonds (1974) studied the magnetic      FeO       3.1        (a)
+    properties.                                      MnO       0.02      (a)
+                                                 MgO       6.5        (a)
+                                                   CaO       16.2      (a)
+   Processing                                        Na2O      0.48      (a)
+   There are 5 thin section of 63585 and several chips.       K2O       0.23      (a)
+                                                       P2O5      0.14      (a)
+--- references block 4; lines 27-39 ---
+Figure 2: Photomicrograph of thin section 63585,4.
+   rocks is discussed by Korotev (1994).                                                         3 mm across.
+
+   Chemistry
+    Stoffler et al. (1985) reported an analysis.  It is rather     Table 1. Chemical composition of 63585
+   aluminous. The chip sent to Rhodes for analysis was
+   apparently not analysed.                                          reference   Stoffler86                                                                        weight
+                                                               SiO2 %   45         (a)
+   Other Studies                                              TiO2       0.84      (a)
+                                                               Al2O3     27.5      (a)
+   Pearce and Simonds (1974) studied the magnetic      FeO       3.1        (a)
+    properties.                                      MnO       0.02      (a)
+                                                 MgO       6.5        (a)
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 7-32 ---
+En                                          Fs
+
+                                                  Fo                                        Fa
+                                                                                                     compiled by C Meyer
+
+                                                                  Figure 4: Composition of olivine and pyroxene in
+                                                           63585 (adapted from Warner et al. 1973).
+
+       Figure 3: Photomicrograph of thin section
+        63585,10. 3 mm across.
+
+                                                                       Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                                                                A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   References for 63585                                                 Reimold W.U., Wacker K. and Wanke H. (1985)
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo                                                         Composition and evolution of the lunar crust in the Descartes
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                                                                  highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+    Catalog. pp. 370.                                         Res. 90, C449-C506.
+
+    von Engelhardt W. (1979)  Ilmenite in the crystallization   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    sequence of lunar rocks. Proc. 10th Lunar Sci. Conf. 677-   In Geology of the Apollo 16 area, central lunar highlands.
+    694.                                                       (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+    Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite  Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+     in Apollo 16 highland rocks: Manifestations of volatile-   Apollo 16 rocks: Classification and petrogenetic model.
+    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-   Proc. 4th Lunar Sci. Conf. 481-504.
+--- material block 2; lines 30-61 ---
+Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite  Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+     in Apollo 16 highland rocks: Manifestations of volatile-   Apollo 16 rocks: Classification and petrogenetic model.
+    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-   Proc. 4th Lunar Sci. Conf. 481-504.
+    259.
+
+    Korotev R.L. (1994) Compositional variation in Apollo 16
+                                                       63585    impact melt breccias and inferences for the geology and
+                                                               32.6 grams    bombardment history of the central highlands of the Moon.
+    Geochim. Cosmochim. Acta 58, 3931-3969.
+
+                                                                    ,0        ,1    ,8     ,7     ,6      ,16    ,17   ,18   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                           20.6 g  PB  PB   1 g   0.6 g   6 g   2 g   0.9 g    and chemical description. Science 179, 23-34.
+                                                                                     Mike
+   LSPET (1972c) Preliminary examination of lunar samples.                  ,4     ,10  Rhodes
+                                                                                              ,5     ,11
+    In Apollo 16 Preliminary Science Report. NASA SP-315,           TS    ,12
+    7-1—7-58.                                                       TS
+
+    Phinney W. and Lofgren G. (1973) Description, classification
+    and inventory of Apollo 16 rake samples from stations 1, 4
+    and 13. Curators Office.
+
+    Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+     Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+      J. and Rehfeldt A. (1981) Distribution and provenance of
+    lunar highland rock types at North Ray Crater, Apollo 16.
+    Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- age block 3; lines 20-32 ---
+A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   References for 63585                                                 Reimold W.U., Wacker K. and Wanke H. (1985)
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo                                                         Composition and evolution of the lunar crust in the Descartes
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                                                                  highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+    Catalog. pp. 370.                                         Res. 90, C449-C506.
+
+    von Engelhardt W. (1979)  Ilmenite in the crystallization   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    sequence of lunar rocks. Proc. 10th Lunar Sci. Conf. 677-   In Geology of the Apollo 16 area, central lunar highlands.
+    694.                                                       (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+    Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite  Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+     in Apollo 16 highland rocks: Manifestations of volatile-   Apollo 16 rocks: Classification and petrogenetic model.
+    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-   Proc. 4th Lunar Sci. Conf. 481-504.
+--- references block 4; lines 15-27 ---
+Figure 3: Photomicrograph of thin section
+        63585,10. 3 mm across.
+
+                                                                       Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                                                                A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   References for 63585                                                 Reimold W.U., Wacker K. and Wanke H. (1985)
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo                                                         Composition and evolution of the lunar crust in the Descartes
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                                                                  highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+    Catalog. pp. 370.                                         Res. 90, C449-C506.
+
+    von Engelhardt W. (1979)  Ilmenite in the crystallization   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    sequence of lunar rocks. Proc. 10th Lunar Sci. Conf. 677-   In Geology of the Apollo 16 area, central lunar highlands.

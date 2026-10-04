@@ -1,0 +1,242 @@
+DOCUMENT_ID: 12011__compendium__2b14df6325
+ATLAS_SAMPLE_IDS: 12011
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/12011.pdf
+SOURCE_PDF_SHA256: 29eaa9cda58a3ed9370482c141cd7b7dc9c647abb4ab0357fd8fa64ecd15654c
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 26-36 ---
+Olivine:  Baldridge et al. (1979) state that “olivine   in 12011 is An78.
+   compositions in 12011 range from Fo73-62 and some
+   grains are zoned over almost this entire range.”         Ilmenite: Fine needles of ilmenite form a network in
+                                                           the mesostasis.
+   Pyroxene: The pyroxene composition of 12011 is
+   given by Baldridge et al. (1979) (figure 3). Pigeonite  Chemistry
+   cores are rimmed by augite.  Some pigeonite  The chemical composition of 12011 has been
+   phenocrysts are long and “hollow”.                   determined by Rhodes et al. (1977) and Snyder et al.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- mineralogy block 2; lines 6-36 ---
+Figure 1: Photo of 12011. NASA # S69-64122. Sample is 5 cm.
+
+   Introduction
+   12011 is a porphyritic pigeonite basalt.   It had an                                                          Mineralogical Mode of 12011
+   encrustation of dirt (figure 1) and numerous                                                                                           Baldridge        Neal et
+   micrometeorite pits (figure 2).                                                                 et al. 1979           al. 1994
+                                                                           Olivine            7.7                7.6
+   Petrography                                                 Pyroxene        53                52.9
+                                                                             Plagioclase       31                30.6
+   The petrology of 12011 is discussed in Baldridge et al.                                                                             Ilmenite           2.9                2.9
+   (1979). Phenocrysts of olivine (1 mm) and pyroxene         Chromite          0.5                0.6
+   (up to 4 mm long) and microphenocrysts of chromite            “silica”            3.4                3.4
+   occur in a “fine-grained, variolitic-textured groundmass          mesostasis         1.2                1.4
+   of pyroxene, plagioclase, ilmenite, ulvöspinel, metallic
+    iron and mesostasis.”
+
+   Mineralogy                                         Plagioclase: The average composition of plagioclase
+   Olivine:  Baldridge et al. (1979) state that “olivine   in 12011 is An78.
+   compositions in 12011 range from Fo73-62 and some
+   grains are zoned over almost this entire range.”         Ilmenite: Fine needles of ilmenite form a network in
+                                                           the mesostasis.
+   Pyroxene: The pyroxene composition of 12011 is
+   given by Baldridge et al. (1979) (figure 3). Pigeonite  Chemistry
+   cores are rimmed by augite.  Some pigeonite  The chemical composition of 12011 has been
+   phenocrysts are long and “hollow”.                   determined by Rhodes et al. (1977) and Snyder et al.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-18 ---
+12011
+                                     Pigeonite Basalt
+                                       193 grams
+
+
+
+
+
+                            Figure 1: Photo of 12011. NASA # S69-64122. Sample is 5 cm.
+
+   Introduction
+   12011 is a porphyritic pigeonite basalt.   It had an                                                          Mineralogical Mode of 12011
+   encrustation of dirt (figure 1) and numerous                                                                                           Baldridge        Neal et
+   micrometeorite pits (figure 2).                                                                 et al. 1979           al. 1994
+                                                                           Olivine            7.7                7.6
+   Petrography                                                 Pyroxene        53                52.9
+                                                                             Plagioclase       31                30.6
+   The petrology of 12011 is discussed in Baldridge et al.                                                                             Ilmenite           2.9                2.9
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,mineralogy ===
+--- chemistry block 1; lines 25-47 ---
+12
+
+                                                                                                       A11
+                                                                                                 10
+     En                                          Fs
+                                                                                                      8
+                                             TiO2                                                                                                            12011     Fo                                        Fa                                                                                                      6
+              compiled by C Meyer
+
+                                                                                                      4
+          Figure 3: Pyroxene composition in 12011 (adapted                                              A12
+                                                                                                      2                        A15
+         from Baldridge et al 1979).
+
+                                                                                                      0
+                                                                                                        0                5                10                15               20
+           List of Photo #s for 12011                                              MgO
+          S69-64096 – 64122
+          S70-53773 – 53778     TS                           Figure 5: Composition of lunar basalts with
+          S76-26081                                        12011 indicated.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- mineralogy block 2; lines 29-41 ---
+En                                          Fs
+                                                                                                      8
+                                             TiO2                                                                                                            12011     Fo                                        Fa                                                                                                      6
+              compiled by C Meyer
+
+                                                                                                      4
+          Figure 3: Pyroxene composition in 12011 (adapted                                              A12
+                                                                                                      2                        A15
+         from Baldridge et al 1979).
+
+                                                                                                      0
+                                                                                                        0                5                10                15               20
+           List of Photo #s for 12011                                              MgO
+--- age block 3; lines 2-16 ---
+Piece is 2.2 cm across.
+
+                                                                                                  1000
+    (1997).  Nyquist et al. (1977) determined the trace
+    elements by isotope dilution (figure 5).                                              12011
+                                                                                                   100
+   Radiogenic age dating                                         sample/chondrite
+   Snyder et al. (1997) reported the isotopic composition            10
+    of Sr and Nd, but the age has not been determined.
+
+   Other Studies                                                                            1
+   Bogard et al. (1971) reported the content and isotopic
+    composition of rare gases in 12011.                                               0.1
+                                                                                    La      Pr    Sm    Gd     Dy      Er     Yb                                                                            Ce    Nd     Eu     Tb    Ho    Tm     Lu
+
+=== PDF PAGE 3; CATEGORIES: age,material,references ===
+--- material block 1; lines 16-28 ---
+TS                                                          TS
+
+
+
+   References for 12011
+                                                          Nyquist L.E., Shih C.-Y., Wooden J.L., Bansal B.M. and    Baldridge W.S., Beaty D.W., Hill S.M.R. and Albee A.L.
+                                                 Wiesmann H. (1979) The Sr and Nd isotopic record of    (1979) The petrology of the Apollo 12 pigeonite basalt
+                                                       Apollo 12 basalts: Implications for lunar geochemical    suite. Proc. 10th Lunar Planet. Sci. Conf. 141-179.
+                                                                 evolution. Proc. 10th Lunar Planet. Sci. Conf. 77-114.
+
+   Bogard D.D., Funkhouser J.G., Schaeffer O.A. and
+                                                    Rhodes J.M., Blanchard D.P., Dungan M.A., Brannon J.C.,    Zahringer J. (1971) Noble gas abundances in lunar material-
+                                                      and Rodgers K.V. (1977)  Chemistry of Apollo 12 mare   cosmic ray spallation products and radiation ages from the
+--- material block 2; lines 34-51 ---
+Clues from trace-element, strontium and neodymium isotopic
+                                                       chemistry of parental Apollo 12 basalts.  Geochim.   Neal C.R. (2001)  Interior of the moon: The presence of
+                                                     Cosmochim. Acta 61, 2731-2747.    garnet in the primitive deep lunar mantle. J. Geophys. Res.
+    106, 27865-27885.
+
+   Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-
+    G. and Schmitt R.A. (1994a) Basalt generation at the Apollo
+   12 site, Part 1: New data, classification and re-evaluation.
+    Meteoritics 29, 334-348.
+
+   Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-
+    G. and Schmitt R.A. (1994b) Basalt generation at the Apollo
+   12 site, Part 2: Source heterogeneity, multiple melts and
+    crustal contamination. Meteoritics 29, 349-361.
+
+   Nyquist L.E., Bansal B.M., Wooden J. and Wiesmann H.
+   (1977)  Sr-isotopic constraints on the peterogenesis of
+   Apollo 12 mare basalts. Proc. 8th Lunar Sci. Conf. 1383-
+--- age block 3; lines 22-34 ---
+Wiesmann H. (1979) The Sr and Nd isotopic record of    (1979) The petrology of the Apollo 12 pigeonite basalt
+                                                       Apollo 12 basalts: Implications for lunar geochemical    suite. Proc. 10th Lunar Planet. Sci. Conf. 141-179.
+                                                                 evolution. Proc. 10th Lunar Planet. Sci. Conf. 77-114.
+
+   Bogard D.D., Funkhouser J.G., Schaeffer O.A. and
+                                                    Rhodes J.M., Blanchard D.P., Dungan M.A., Brannon J.C.,    Zahringer J. (1971) Noble gas abundances in lunar material-
+                                                      and Rodgers K.V. (1977)  Chemistry of Apollo 12 mare   cosmic ray spallation products and radiation ages from the
+                                                                      basalts: Magma types and fractionation processes. Proc. 8th   Sea of Tranquillity and the Ocean of Storms. J. Geophys.
+                                                      Lunar Sci. Conf. 1305-1338.    Res. 76, 2757-2779.
+
+                                                       Snyder G.A., Neal C.R., Taylor L.A. and Halliday A.N.   LSPET (1970) Preliminary examination of lunar samples
+                                                             (1997a) Anataxis of lunar cumulate mantle in time and space:   from Apollo 12. Science 167, 1325-1339.
+                                                           Clues from trace-element, strontium and neodymium isotopic
+--- references block 4; lines 14-26 ---
+,22                                                                                          ,9
+                           TS                                                          TS
+
+
+
+   References for 12011
+                                                          Nyquist L.E., Shih C.-Y., Wooden J.L., Bansal B.M. and    Baldridge W.S., Beaty D.W., Hill S.M.R. and Albee A.L.
+                                                 Wiesmann H. (1979) The Sr and Nd isotopic record of    (1979) The petrology of the Apollo 12 pigeonite basalt
+                                                       Apollo 12 basalts: Implications for lunar geochemical    suite. Proc. 10th Lunar Planet. Sci. Conf. 141-179.
+                                                                 evolution. Proc. 10th Lunar Planet. Sci. Conf. 77-114.
+
+   Bogard D.D., Funkhouser J.G., Schaeffer O.A. and
+
+=== PDF PAGE 4; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 12011.
+
+
+     reference  Rhodes77   Baldridge79   Nyquist79    Snyder97   Neal2001
+     weight                           59 mg
+    SiO2 %    46.63   (c ) 46.59      (d)               46.6
+    TiO2      3.29    (c ) 3.25        (d)               3.29
+    Al2O3     9.77    (c ) 10.02      (d)               9.77
+   FeO       19.53   (c ) 19.31      (d)               19.5
+   MnO      0.29    (c ) 0.28        (d)               0.29
+   MgO      8.26    (c ) 9.59        (d)               8.26
+   CaO      10.63   (c ) 10.55      (d)               10.6
+   Na2O     0.25     (a)  0.33        (d)               0.25
+   K2O       0.06    (c ) 0.02        (d) 0.065      (b)  0.06
+   P2O5     0.07    (c ) 0.03        (d)               0.07
+   S %       0.06    (c )
+    sum
+
+    Sc ppm    52.2     (a)                                     52      (e)
+   V                                                       180     (e)
+--- mineralogy block 2; lines 65-75 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm                                           0.415    (e)  0.98    (e)
+   U ppm                                           0.291    (e)  0.24    (e)
+     technique  (a) INAA, (b) IDMS, (c ) XRF, (d) from mode, (e) ICP-MS
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 12011.
+
+
+     reference  Rhodes77   Baldridge79   Nyquist79    Snyder97   Neal2001
+     weight                           59 mg
+    SiO2 %    46.63   (c ) 46.59      (d)               46.6
+    TiO2      3.29    (c ) 3.25        (d)               3.29
+    Al2O3     9.77    (c ) 10.02      (d)               9.77
+   FeO       19.53   (c ) 19.31      (d)               19.5
+   MnO      0.29    (c ) 0.28        (d)               0.29
+--- references block 4; lines 65-75 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm                                           0.415    (e)  0.98    (e)
+   U ppm                                           0.291    (e)  0.24    (e)
+     technique  (a) INAA, (b) IDMS, (c ) XRF, (d) from mode, (e) ICP-MS
+
+
+Lunar Sample Compendium
+C Meyer 2011

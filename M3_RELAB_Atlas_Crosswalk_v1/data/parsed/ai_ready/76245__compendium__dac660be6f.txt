@@ -1,0 +1,54 @@
+DOCUMENT_ID: 76245__compendium__dac660be6f
+ATLAS_SAMPLE_IDS: 76245,76246
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/76245.pdf
+SOURCE_PDF_SHA256: a0baa1d74b876e0b61dd4a43b2e41684e069bc2b788c751dadc5422d07f0861b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,references,treatment ===
+--- material block 1; lines 1-23 ---
+76245 – 8.24 grams
+                          76246 – 6.5 grams
+                               Impact Melt Breccia
+
+
+
+
+
+                   Figure 1: Photos of both sides of 76245 and 76246. S73-17976 and 977. Cube is 1 cm.
+
+
+
+   Introduction                                    References for 76245 and 76246
+   These are probably chips from the station 6 boulder   Butler P. (1973) Lunar Sample Information Catalog Apollo
+   (block 4), but they could be from the regolith that the   17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+   boulder sits on (Wolf et al. 1981). They were sieved   Catalog. pp. 447.
+   from a soil collected in the shadow of the boulder –
+                                                   Meyer C. (1994) Catalog of Apollo 17 rocks. Vol. 4 North   see section on 76240. They have never been studied
+                                                          Massif
+   and there are no thin sections.
+
+                                                       Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+   Petrography                                           Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+--- treatment block 2; lines 10-22 ---
+Introduction                                    References for 76245 and 76246
+   These are probably chips from the station 6 boulder   Butler P. (1973) Lunar Sample Information Catalog Apollo
+   (block 4), but they could be from the regolith that the   17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+   boulder sits on (Wolf et al. 1981). They were sieved   Catalog. pp. 447.
+   from a soil collected in the shadow of the boulder –
+                                                   Meyer C. (1994) Catalog of Apollo 17 rocks. Vol. 4 North   see section on 76240. They have never been studied
+                                                          Massif
+   and there are no thin sections.
+
+                                                       Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+--- references block 3; lines 7-19 ---
+Figure 1: Photos of both sides of 76245 and 76246. S73-17976 and 977. Cube is 1 cm.
+
+
+
+   Introduction                                    References for 76245 and 76246
+   These are probably chips from the station 6 boulder   Butler P. (1973) Lunar Sample Information Catalog Apollo
+   (block 4), but they could be from the regolith that the   17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+   boulder sits on (Wolf et al. 1981). They were sieved   Catalog. pp. 447.
+   from a soil collected in the shadow of the boulder –
+                                                   Meyer C. (1994) Catalog of Apollo 17 rocks. Vol. 4 North   see section on 76240. They have never been studied
+                                                          Massif

@@ -1,0 +1,239 @@
+DOCUMENT_ID: 15529__compendium__134f6dfda0
+ATLAS_SAMPLE_IDS: 15529
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15529.pdf
+SOURCE_PDF_SHA256: 325e1f1bb306a4788071ac3bf66f15f47263c210a3f9292c60289500e802e3f8
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 6-29 ---
+Figure 1: Photo of 15529. Sample is 10 cm across (cube is 1 inch). NASA S87-48191.
+
+  Introduction                                       1971). The relatively low silica content indicates that
+  Lunar sample 15529 is a very vesicular mare basalt  15529 is probably related to the olivine-normative clan
+  (figure 1) that remains unstudied. It was collected from   of Apollo 15 basalts. The mineral mode reported in
+  near the edge of Hadley Rille in an area called “The   the original catalog seems too high in plagioclase
+  Terrace”. The lunar regolith was thin in this area, with   content.
+  abundant rock samples (basalts) exposed (Swann et
+   al. 1971).
+
+                                                           Mineralogical Mode for 15529
+  Dirt fills some vesicles, but not all, and the sample has                                                                             Sample Catalog
+  no obvious zap pits.                                                                  Butler 1971
+                                                                             Olivine
+  Petrography                                                    Pyroxene         45-55
+                                                                               Plagioclase       45-55
+  Note similarity of 15529 to 15556 and 15016. Vesicles                                                                                      Silica
+  are 30% by volume; average 4 mm, up to 7 mm (Butler            Opaques         1
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 2; lines 1-22 ---
+15529
+                                 Vesicular Mare Basalt
+                                     1531 grams
+
+
+
+
+
+                      Figure 1: Photo of 15529. Sample is 10 cm across (cube is 1 inch). NASA S87-48191.
+
+  Introduction                                       1971). The relatively low silica content indicates that
+  Lunar sample 15529 is a very vesicular mare basalt  15529 is probably related to the olivine-normative clan
+  (figure 1) that remains unstudied. It was collected from   of Apollo 15 basalts. The mineral mode reported in
+  near the edge of Hadley Rille in an area called “The   the original catalog seems too high in plagioclase
+  Terrace”. The lunar regolith was thin in this area, with   content.
+  abundant rock samples (basalts) exposed (Swann et
+   al. 1971).
+
+                                                           Mineralogical Mode for 15529
+  Dirt fills some vesicles, but not all, and the sample has                                                                             Sample Catalog
+  no obvious zap pits.                                                                  Butler 1971
+                                                                             Olivine
+
+=== PDF PAGE 2; CATEGORIES: age ===
+--- age block 1; lines 6-18 ---
+Chemistry
+  Neal (2001) and Ryder and Schuraytz B.C. (2001)
+   reported chemical analyses (table, and figure 4).
+  Rhodes and Blanchard (1983) reported that they had
+   also analyzed 15529, but gave no data.
+
+  Radiogenic age dating
+  None                                                     Figure 3: Thin section of 15529,14. Scale about 1 cm.
+
+  Other Studies
+  Garvin et al. (1982) calculated the gas pressure from
+   the vesicle size and viscosity.
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 6-31 ---
+A11
+                                                                                                   10
+
+
+                                                                                                    8
+                                            TiO2
+                                                                                                    6
+
+
+                                                                                                    4
+                                                                                                    15529  A12
+                                                                                                    2                        A15
+
+
+                                                                                                    0
+                                                                                                      0                5                10               15               20
+                                              MgO
+
+       Figure 5: Normalized rare-earth-element diagram for          Figure 6: Chemical composition of 15529
+      15529 (data from Neal 2001), compared with 15601           compared with that of other lunar basalts.
+         soil.
+
+                                                      15387
+
+                   picritic                                              C Meyer
+--- chemistry block 2; lines 36-48 ---
+15672
+         12
+                             15555        15623
+                               15016  15536                         pigeonite basalt                                           15535                        15636                                     (quartz normative)         11
+                                    15545       15663                                                                   15651
+                              15633 MgO
+                            15647   15379                                  15065
+         10
+                                   15256     15598                15485            15595
+                                 15557                                      15058                                               15105                                15499                                                                           15076
+         9                       15119
+                                     15529         15668          1547515597      15495
+--- chemistry block 3; lines 52-64 ---
+15682
+         7                                                               15118
+
+
+
+         43       44       45       46       47      48        49
+                             SiO2
+
+                     Figure 7: The big picture.
+
+                                           15529
+                                              C Meyer
+                                                          2006      1531 g
+--- mineralogy block 4; lines 28-40 ---
+15387
+
+                   picritic                                              C Meyer
+               basalt                                                            2006
+
+                                      olivine-normative
+                        15385       15659   basalt         13
+
+                                                 15672
+         12
+                             15555        15623
+                               15016  15536                         pigeonite basalt                                           15535                        15636                                     (quartz normative)         11
+--- material block 5; lines 21-46 ---
+0
+                                                                                                      0                5                10               15               20
+                                              MgO
+
+       Figure 5: Normalized rare-earth-element diagram for          Figure 6: Chemical composition of 15529
+      15529 (data from Neal 2001), compared with 15601           compared with that of other lunar basalts.
+         soil.
+
+                                                      15387
+
+                   picritic                                              C Meyer
+               basalt                                                            2006
+
+                                      olivine-normative
+                        15385       15659   basalt         13
+
+                                                 15672
+         12
+                             15555        15623
+                               15016  15536                         pigeonite basalt                                           15535                        15636                                     (quartz normative)         11
+                                    15545       15663                                                                   15651
+                              15633 MgO
+                            15647   15379                                  15065
+         10
+                                   15256     15598                15485            15595
+                                 15557                                      15058                                               15105                                15499                                                                           15076
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+References for 15529  Table 1. Chemical composition of 15529.
+                                                               Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+                                                                Office, MSC 03209  reference  Ryder 2001           Neal 2001
+  weight
+  SiO2 %    45.7    (a)                                   Garvin J.B., Head J.W. and Wilson L. (1982) Magma
+  TiO2      2.58    (a)                                         vesiculation in Apollo 15 mare basalts: observations and
+  Al2O3     9.19    (a)
+                                                            theory (abs). Lunar Planet. Sci. XIII, 255-256.  FeO       21.84   (a) 21.9    (b)
+  MnO      0.29    (a)
+  MgO      8.91    (a)                            LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+  CaO      10.27   (a)                                          description. Science 175, 363-375.
+  Na2O     0.244   (a) 0.264  (b)
+  K2O      0.044   (a)
+  P2O5     0.068   (a)                            LSPET (1972b) Preliminary examination of lunar samples.
+  S %                                                  Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+  sum                                             1—6-28.
+
+  Sc ppm             45      (b) 44.3     (c )
+  V                            249     (c )                Neal C.R. (2001)   Interior of the moon: The presence of
+--- mineralogy block 2; lines 23-41 ---
+Cu       9        (a) 79      (b) 16       (c )
+  Zn                           22       (c )               Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+  Ga                               3.9      (c )                 volumes). Curatoial Branch Pub. # 72, JSC#20787
+  Ge ppb
+  As
+                                                     Ryder G. and Schuraytz B.C. (2001) Chemical variations of  Se
+  Rb       2        (a)            0.92     (c )                  the large Apollo 15 olivine-normative mare basalt rock
+  Sr        101     (a)          103     (c )                 samples. J. Geophys. Res. 106, E1, 1435-1451.
+  Y        28      (a)            29.4     (c )
+  Zr        89      (a)           100.5   (c )
+                                                        Schnare D.W., Day J.M.D., Norman M.D., Liu Y. and Taylor  Nb       10      (a)            6.65     (c )
+  Mo                              0.12     (c )                L.A. (2008) A laser-ablation ICP-MS study of Apollo 15
+  Ru                                                       low-titanium olivine-normative and quartz-normative mare
+  Rh                                                               basalts. Geochim. Cosmochim. Acta 72, 2556-2572.
+  Pd ppb
+  Ag ppb
+  Cd ppb                                         Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+   In ppb                                                       G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+  Sn ppb                                                   Preliminary description of Apollo 15 sample environments.
+--- material block 3; lines 23-35 ---
+Cu       9        (a) 79      (b) 16       (c )
+  Zn                           22       (c )               Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+  Ga                               3.9      (c )                 volumes). Curatoial Branch Pub. # 72, JSC#20787
+  Ge ppb
+  As
+                                                     Ryder G. and Schuraytz B.C. (2001) Chemical variations of  Se
+  Rb       2        (a)            0.92     (c )                  the large Apollo 15 olivine-normative mare basalt rock
+  Sr        101     (a)          103     (c )                 samples. J. Geophys. Res. 106, E1, 1435-1451.
+  Y        28      (a)            29.4     (c )
+  Zr        89      (a)           100.5   (c )
+                                                        Schnare D.W., Day J.M.D., Norman M.D., Liu Y. and Taylor  Nb       10      (a)            6.65     (c )
+  Mo                              0.12     (c )                L.A. (2008) A laser-ablation ICP-MS study of Apollo 15
+  Ru                                                       low-titanium olivine-normative and quartz-normative mare
+--- references block 4; lines 1-9 ---
+References for 15529  Table 1. Chemical composition of 15529.
+                                                               Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+                                                                Office, MSC 03209  reference  Ryder 2001           Neal 2001
+  weight
+  SiO2 %    45.7    (a)                                   Garvin J.B., Head J.W. and Wilson L. (1982) Magma
+  TiO2      2.58    (a)                                         vesiculation in Apollo 15 mare basalts: observations and
+  Al2O3     9.19    (a)
+                                                            theory (abs). Lunar Planet. Sci. XIII, 255-256.  FeO       21.84   (a) 21.9    (b)
+  MnO      0.29    (a)
+--- references block 5; lines 64-73 ---
+Os ppb
+    Ir ppb
+  Pt ppb
+  Au ppb                          0.07     (c )
+  Th ppm                0.4     (b) 0.02     (c )
+  U ppm
+  technique:  (a) XRF, (b) INAA, (c ) ICP-MS
+
+Lunar Sample Compendium
+C Meyer 2010

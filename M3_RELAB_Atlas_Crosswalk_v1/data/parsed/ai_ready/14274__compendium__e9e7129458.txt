@@ -1,0 +1,71 @@
+DOCUMENT_ID: 14274__compendium__e9e7129458
+ATLAS_SAMPLE_IDS: 14274
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14274.pdf
+SOURCE_PDF_SHA256: 5923969bc4b3a5306695791ebed6210b47bc27f3c46262266ffa464cbbd35935
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material ===
+--- material block 1; lines 1-8 ---
+14274
+                                 Crystalline matrix Breccia
+                                           15.18 grams
+--- material block 2; lines 13-30 ---
+Figure 2: Map of Apollo 14 traverse showing location of comprehensive sample.
+
+
+   Introduction
+   14274 is one of the samples collected as part of the   grain size distribution and most clasts are individual
+   comprehensive sample (figure 2).  It has a rounded   minerals (figure 3).
+   surface with zap pits (figure 1).   It is a coherent
+   microbreccia with crystalline matrix.  It has not been  Chemistry
+    dated.                                     None
+
+   Petrography                                  Processing
+   Phinney et al. (1975) and Simonds et al. (1977) classify  14274 was returned in weigh bag 1039, in ALSRC
+   14274 as a crystalline-matrix breccia.  It has a seriate  1007. There are 3 thin sections.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 3; lines 17-29 ---
+Introduction
+   14274 is one of the samples collected as part of the   grain size distribution and most clasts are individual
+   comprehensive sample (figure 2).  It has a rounded   minerals (figure 3).
+   surface with zap pits (figure 1).   It is a coherent
+   microbreccia with crystalline matrix.  It has not been  Chemistry
+    dated.                                     None
+
+   Petrography                                  Processing
+   Phinney et al. (1975) and Simonds et al. (1977) classify  14274 was returned in weigh bag 1039, in ALSRC
+   14274 as a crystalline-matrix breccia.  It has a seriate  1007. There are 3 thin sections.
+
+Lunar Sample Compendium
+
+=== PDF PAGE 2; CATEGORIES: material,references ===
+--- material block 1; lines 14-26 ---
+,5                                         Sci. Conf. 1869-1893.
+                                 ,6
+                      TS
+                                                Swann G.A., Trask N.J., Hait M.H. and Sutton R.L. (1971a)
+                                                         Geologic setting of the Apollo 14 samples.  Science 173,
+   References for 14274                                                           716-719.
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+    Samples. Curators Office. JSC 14240                                                Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+                                                       M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+   Phinney W.C., Simonds C.H. and Warner J. (1975)                                                              Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+    Description, Classification and Inventory of the                                                     Geology of the Apollo 14 landing site in the Fra Mauro
+   Comprehensive sample from Apollo 14. Curator’s Catalog,                                                            Highlands. U.S.G.S. Prof. Paper 880.
+    pp. 46.
+--- references block 2; lines 13-25 ---
+,4
+                                 ,5                                         Sci. Conf. 1869-1893.
+                                 ,6
+                      TS
+                                                Swann G.A., Trask N.J., Hait M.H. and Sutton R.L. (1971a)
+                                                         Geologic setting of the Apollo 14 samples.  Science 173,
+   References for 14274                                                           716-719.
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+    Samples. Curators Office. JSC 14240                                                Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+                                                       M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+   Phinney W.C., Simonds C.H. and Warner J. (1975)                                                              Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+    Description, Classification and Inventory of the                                                     Geology of the Apollo 14 landing site in the Fra Mauro
+   Comprehensive sample from Apollo 14. Curator’s Catalog,                                                            Highlands. U.S.G.S. Prof. Paper 880.

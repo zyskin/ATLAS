@@ -1,0 +1,365 @@
+DOCUMENT_ID: 71135__compendium__1b68d258da
+ATLAS_SAMPLE_IDS: 71135,71136
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71135.pdf
+SOURCE_PDF_SHA256: 8badb83970f9e49e7fa0ca999b0896b5ad96517ac04385b29ab80ce50a4cf81d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-9 ---
+71135 - 36.85 grams
+                          71136 – 25.39 grams
+                                     Ilmenite Basalt
+
+
+
+                       71055
+--- material block 2; lines 1-9 ---
+71135 - 36.85 grams
+                          71136 – 25.39 grams
+                                     Ilmenite Basalt
+
+
+
+                       71055
+--- material block 3; lines 21-33 ---
+Figure 1: Astronaut photo of boulders sampled at station 1, Apollo 17. AS-136-20741.
+
+
+                                           CDR     Let’s see if I can’t crack the corner and get that contact.
+                                           LMP    Yes. And get a piece of both – think you can get - if you
+                                                               can reach down there. That’s a contact in a rock.
+                                            CC    Do you guys see any 2-meter boulders around there?
+                                           CDR   We just sampled one - -
+                                          LMP    We’re not where you think we are. We’re not sure where
+                                                  we are. Gene, can you get down into that? Need some help?
+                                           CDR    Yes, just give me a shovel to hold myself with. Give me
+                                                                  a shove.
+--- material block 4; lines 36-49 ---
+LMP    Get that little piece.
+                                           CDR   OK, I see it. It’s pretty hard. See if I can’t. It’s low and
+         Figure 2: Location map for station 1, Apollo 17.       hard to hit.
+                                           LMP   How about coming around from this side?
+                                           CDR     Well, I got the gnomon in the wrong place really. Can
+   Transcript at station 1                              you reach it?
+   CDR    Hey, look at this rock, where the vesicularity changes  LMP    Well, I’m going to lean on the rock maybe.  I got the
+    from a hummocky vesicularity to a very fine vesicularity. Look   other little piece in sight.
+     at this. Let me try and crack see that? The change?          CDR    OK, I got that piece in sight, too. Let me –
+   LMP    Yes, that’s what I’m after; that’s it. That’s what I saw in  LMP    Let me get them both right now.
+     that other boulder (71055?)                        CDR    Okay, this is a sample of a more coarsely vesicular rock.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: material ===
+--- material block 1; lines 4-16 ---
+Figure 4: Top and bottom of 71136. S73-16424 and 425. Cube is 1 cm.
+
+   LMP    You got it in your hand?                    CDR   OK, I got both of these.
+   CDR      I got them both.  I think, actually, we got a sample of  LMP    See that rock right over there on the little mound, just
+    both sides; but I wouldn’t bet on it.                                projecting out of the edge of it? There you go; you just touch it.
+   LMP   OK, I just got a chunk of that side.                     Right there that piece.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 2-35 ---
+14                                                                    Olivine                  tr.
+                                      A17                                      Pyroxene         49.7
+             12             71136                                                   Plagioclase       20
+                                A11                                         Opaques          24.8             10
+                                                                                         Silica             1.2
+               8                                                                 Meostasis         4.3
+   TiO2
+               6
+
+
+               4
+                                              A12
+               2                        A15
+
+
+               0                                             Petrography
+                 0                5                10                15               20  Brown et al. (1975) and Neal and Taylor (1993) give
+                MgO
+                                                               brief descriptions of the mineral mode and texture, but
+          Figure 5: The Ti content of 71135 and 71136 is      a detailed petrographic study has never been reported.
+             like that of Apollo 11.                        Usselman et al. (1975) performed controlled cooling
+                                                      experiments that yielded this texture at cooling rate ~
+                                           = 2-5 deg / hr.   CDR   OK, let me get these in a bag here.
+   LMP     Well, I’ll get that piece; and that the samples from either
+    side of the contact anyway. Can you get a bag - -           Chemistry
+   CRD    They’re pretty small. Give me a hammer, and get a bag  Rhodes et al. (1976), Eldridge et al. (1974) and Warner
+    and I’ll - - I got these in my hand I want to put there.              et al. (1975) have reported similar compositions for
+   LMP    bag 477 is the coarsely vesicular rock (71135, 71136)    these samples. Based on trace elements, it is classified
+   CDR    Are there two of them there? I hope two of them fell in.   as a type B1 basalt by Neal and Taylor (1993).
+   LMP    No, I only got one.
+   CDR   OK, here’s that other one.  It had to fall right here.     Radiogenic age dating
+   LPM   Now your’re full of dirt in the scoop; you just covered it
+                                                Not dated, but Nyquist et al. (1975) reported whole
+    up.
+--- mineralogy block 2; lines 1-10 ---
+Lunar Basalts                       Mineralogical Mode
+             14                                                                    Olivine                  tr.
+                                      A17                                      Pyroxene         49.7
+             12             71136                                                   Plagioclase       20
+                                A11                                         Opaques          24.8             10
+                                                                                         Silica             1.2
+               8                                                                 Meostasis         4.3
+   TiO2
+               6
+--- mineralogy block 3; lines 14-26 ---
+2                        A15
+
+
+               0                                             Petrography
+                 0                5                10                15               20  Brown et al. (1975) and Neal and Taylor (1993) give
+                MgO
+                                                               brief descriptions of the mineral mode and texture, but
+          Figure 5: The Ti content of 71135 and 71136 is      a detailed petrographic study has never been reported.
+             like that of Apollo 11.                        Usselman et al. (1975) performed controlled cooling
+                                                      experiments that yielded this texture at cooling rate ~
+                                           = 2-5 deg / hr.   CDR   OK, let me get these in a bag here.
+   LMP     Well, I’ll get that piece; and that the samples from either
+    side of the contact anyway. Can you get a bag - -           Chemistry
+--- mineralogy block 4; lines 53-66 ---
+appeared to be a contact between two areas of different
+                                                           are 8 thin sections for 71135 and 3 for 71136.
+    vesicularity. They hammered off two pieces (71135
+   and 71136) from one side of the contact and one piece
+   from the other side (71155) (see transcript).
+
+   71135 and 71136 are vesicular ilmenite basalt with both
+    freshly broken and exposed surfaces (figures 3 and 4).
+   They are characterized by large sawtooth needles of
+   ilmenite set in a fine-grained intergrown plagioclase-
+   pyroxene matrix (figures 6 and 7).
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 5; lines 23-49 ---
+experiments that yielded this texture at cooling rate ~
+                                           = 2-5 deg / hr.   CDR   OK, let me get these in a bag here.
+   LMP     Well, I’ll get that piece; and that the samples from either
+    side of the contact anyway. Can you get a bag - -           Chemistry
+   CRD    They’re pretty small. Give me a hammer, and get a bag  Rhodes et al. (1976), Eldridge et al. (1974) and Warner
+    and I’ll - - I got these in my hand I want to put there.              et al. (1975) have reported similar compositions for
+   LMP    bag 477 is the coarsely vesicular rock (71135, 71136)    these samples. Based on trace elements, it is classified
+   CDR    Are there two of them there? I hope two of them fell in.   as a type B1 basalt by Neal and Taylor (1993).
+   LMP    No, I only got one.
+   CDR   OK, here’s that other one.  It had to fall right here.     Radiogenic age dating
+   LPM   Now your’re full of dirt in the scoop; you just covered it
+                                                Not dated, but Nyquist et al. (1975) reported whole
+    up.
+                                                      rock values for Rb, Sr and Sr87/86.
+   CDR    Got it; I got it. A little dirt never hurt anybody.
+   LMP    Here, put it in here with the dirt. That’s good. In 477
+    are two chips – there’re small, but I think they’ll give you the – if  Cosmogenic isotopes and exposure ages
+    there’s any compositional difference (elapsed time ~ 4 min).     Niemeyer et al. (1977) determined an exposure age for
+   LMP     In bag 478 is the chip from the more finely vesicular  71135 of ~ 102 m.y.
+    rock (71155). Both of them are coarse. It’s a small chip; but it’ll
+     tell the story I think. Gene, if you can pick up one more rock in  For 71135 O’Kelley et al. (1974) determined the
+     that picture, with your tongs, let’s bag it. I’ve got a sample that  cosmic-ray-induced activity of 22Na = 95 dpm/kg., 26Al
+   was laying next to that boulder (71175).                = 80 dpm/kg., 46Sc = 70 dpm/kg., 54Mn = 140 dpm/kg
+                                                  and 56Co = 290 dpm/kg. For 71136 they determined
+                                                       22Na = 93 dpm/kg., 26Al = 90 dpm/kg., 46Sc = 70 dpm/
+   Introduction                                                                kg., 54Mn = 160 dpm/kg and 56Co = 300 dpm/kg.
+   Figure 1 shows a very vesicular boulder on the rim of
+--- material block 6; lines 53-66 ---
+appeared to be a contact between two areas of different
+                                                           are 8 thin sections for 71135 and 3 for 71136.
+    vesicularity. They hammered off two pieces (71135
+   and 71136) from one side of the contact and one piece
+   from the other side (71155) (see transcript).
+
+   71135 and 71136 are vesicular ilmenite basalt with both
+    freshly broken and exposed surfaces (figures 3 and 4).
+   They are characterized by large sawtooth needles of
+   ilmenite set in a fine-grained intergrown plagioclase-
+   pyroxene matrix (figures 6 and 7).
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 7; lines 26-50 ---
+side of the contact anyway. Can you get a bag - -           Chemistry
+   CRD    They’re pretty small. Give me a hammer, and get a bag  Rhodes et al. (1976), Eldridge et al. (1974) and Warner
+    and I’ll - - I got these in my hand I want to put there.              et al. (1975) have reported similar compositions for
+   LMP    bag 477 is the coarsely vesicular rock (71135, 71136)    these samples. Based on trace elements, it is classified
+   CDR    Are there two of them there? I hope two of them fell in.   as a type B1 basalt by Neal and Taylor (1993).
+   LMP    No, I only got one.
+   CDR   OK, here’s that other one.  It had to fall right here.     Radiogenic age dating
+   LPM   Now your’re full of dirt in the scoop; you just covered it
+                                                Not dated, but Nyquist et al. (1975) reported whole
+    up.
+                                                      rock values for Rb, Sr and Sr87/86.
+   CDR    Got it; I got it. A little dirt never hurt anybody.
+   LMP    Here, put it in here with the dirt. That’s good. In 477
+    are two chips – there’re small, but I think they’ll give you the – if  Cosmogenic isotopes and exposure ages
+    there’s any compositional difference (elapsed time ~ 4 min).     Niemeyer et al. (1977) determined an exposure age for
+   LMP     In bag 478 is the chip from the more finely vesicular  71135 of ~ 102 m.y.
+    rock (71155). Both of them are coarse. It’s a small chip; but it’ll
+     tell the story I think. Gene, if you can pick up one more rock in  For 71135 O’Kelley et al. (1974) determined the
+     that picture, with your tongs, let’s bag it. I’ve got a sample that  cosmic-ray-induced activity of 22Na = 95 dpm/kg., 26Al
+   was laying next to that boulder (71175).                = 80 dpm/kg., 46Sc = 70 dpm/kg., 54Mn = 140 dpm/kg
+                                                  and 56Co = 290 dpm/kg. For 71136 they determined
+                                                       22Na = 93 dpm/kg., 26Al = 90 dpm/kg., 46Sc = 70 dpm/
+   Introduction                                                                kg., 54Mn = 160 dpm/kg and 56Co = 300 dpm/kg.
+   Figure 1 shows a very vesicular boulder on the rim of
+   a small (10m) crater, which is itself on the ejecta blanket                                                 Processing
+
+=== PDF PAGE 7; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 71135.      Table 2. Chemical composition of 71136.
+
+
+    reference  Eldridge74  Rhodes76  Shih75                       reference  Rhodes76  Warner75   Eldridge74
+    weight                       Wiesman76                  weight
+   SiO2 %               39.71   (a)                          SiO2 %    40.3     (a)
+    TiO2                  10.74   (a)                           TiO2      11.12   (a)  11.1     (b)
+   Al2O3                 10.1     (a)                          Al2O3     10.21   (a)  10.9     (b)
+   FeO                  18.57   (a)                       FeO      18.44   (a)  19.3     (b)
+   MnO                  0.28     (a)                    MnO      0.28     (a) 0.224   (b)
+   MgO                  7.31     (a)                    MgO      7.03     (a)  7.5      (b)
+   CaO                   11.62   (a)                     CaO      11.73   (a)  11.4     (b)
+   Na2O                 0.38     (a)                      Na2O     0.37     (a) 0.374   (b)
+   K2O      0.042   (c ) 0.05     (a) 0.045   (b)             K2O      0.03     (a)  0.05     (b) 0.044    (c )
+   P2O5                 0.06     (a)                       P2O5     0.06     (a)
+   S %                    0.11     (a)                      S %       0.17     (a)
+   sum                                              sum
+
+   Sc ppm                           82.1     (d)               Sc ppm             87       (b)
+   V                                              V                  89       (b)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 71135.      Table 2. Chemical composition of 71136.
+
+
+    reference  Eldridge74  Rhodes76  Shih75                       reference  Rhodes76  Warner75   Eldridge74
+    weight                       Wiesman76                  weight
+   SiO2 %               39.71   (a)                          SiO2 %    40.3     (a)
+    TiO2                  10.74   (a)                           TiO2      11.12   (a)  11.1     (b)
+   Al2O3                 10.1     (a)                          Al2O3     10.21   (a)  10.9     (b)
+   FeO                  18.57   (a)                       FeO      18.44   (a)  19.3     (b)
+   MnO                  0.28     (a)                    MnO      0.28     (a) 0.224   (b)
+--- references block 3; lines 65-74 ---
+Os ppb                                           Os ppb
+      Ir ppb                                                                                            Ir ppb
+    Pt ppb                                                           Pt ppb
+   Au ppb                                             Au ppb
+   Th ppm    0.6      (c )                                   Th ppm                           0.46     (c )
+   U ppm     0.14     (c )             0.11     (b)             U ppm                            0.22     (c )
+    technique:  (a) XRF, (b) IDMS, (c ) radiation count. (d) INAA        technique:  (a) XRF, (b) INAA, (c ) radiation count.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 8; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 19-31 ---
+0
+                5             7             9            11            13            15
+
+                            Sm ppm
+           Figure 8: Trace element characterization allow-
+           ing that 71135 is a type B, Apollo 17 basalt.             Figure 9b: Normalized rare-earth-element diagram
+                                                                         for 71136 and type A and B basalts.
+
+
+                                                   C Meyer
+                                                                  2011    71135
+--- mineralogy block 2; lines 55-67 ---
+,11   ,8
+                         TS   ,9                      Laul J.C., Hill D.W. and Schmitt R.A. (1974d) Chemical
+                            TS                         studies of Apollo 16 and 17 samples. Proc. 5th Lunar Sci.
+                                                            Conf. 1047-1066.
+   References for 71135 and 71136
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and  LSPET (1973)  Apollo 17 lunar samples: Chemical and
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   petrographic description. Science 182, 659-672.
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.
+                                             LSPET (1973) Preliminary Examination of lunar samples.
+    Butler P. (1973) Lunar Sample Information Catalog   Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211   7-46.
+    Curator’s Catalog. pp. 447.
+                                                        Muehlberger et al. (1973) Documentation and environment
+--- material block 3; lines 20-32 ---
+0
+                5             7             9            11            13            15
+
+                            Sm ppm
+           Figure 8: Trace element characterization allow-
+           ing that 71135 is a type B, Apollo 17 basalt.             Figure 9b: Normalized rare-earth-element diagram
+                                                                         for 71136 and type A and B basalts.
+
+
+                                                   C Meyer
+                                                                  2011    71135
+                                                         36.85 grams
+--- age block 4; lines 44-56 ---
+Gibson E.K., Usselman T.M. and Morris R.V. (1976a) Sulfur
+           C Meyer  71136                              in the Apollo 17 basalts and their source regions. Proc. 7th
+              2011                                    Lunar Sci. Conf. 1491-1505.                  25.4 grams
+
+                                                     Keith  J.E., Clark R.S. and Bennett L.J. (1974a)
+                                                    Determination of natural and cosmic ray induced
+             ,0         ,1      ,3   ,5
+                        1.4 g                                    radionuclides in Apollo 17 lunar samples. Proc. 5th Lunar          23 g        PB PB
+                                                                       Sci. Conf. 2121-2138.
+
+                                 ,11   ,8
+                         TS   ,9                      Laul J.C., Hill D.W. and Schmitt R.A. (1974d) Chemical
+--- references block 5; lines 53-65 ---
+Sci. Conf. 2121-2138.
+
+                                 ,11   ,8
+                         TS   ,9                      Laul J.C., Hill D.W. and Schmitt R.A. (1974d) Chemical
+                            TS                         studies of Apollo 16 and 17 samples. Proc. 5th Lunar Sci.
+                                                            Conf. 1047-1066.
+   References for 71135 and 71136
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and  LSPET (1973)  Apollo 17 lunar samples: Chemical and
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   petrographic description. Science 182, 659-672.
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.
+                                             LSPET (1973) Preliminary Examination of lunar samples.
+    Butler P. (1973) Lunar Sample Information Catalog   Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211   7-46.
+
+=== PDF PAGE 9; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 14-34 ---
+Nyquist L.E., Bansal B.M. and Wiesmann H. (1975a) Rb-                                                              Petrogenetic relationships among Apollo-17 basalts.  In
+    Sr ages and initial 87Sr/86Sr for Apollo 17 basalts and KREEP                                                           Papers presented to the Conference on Origins of Mare
+    basalt 15386. Proc. 6th Lunar Sci. Conf. 1445-1465.                                                            Basalts and their Implications for Lunar Evolution (Lunar
+                                                           Science Institute, Houston), 179-183.
+   O’Kelly G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+   Cosmogenic radionuclides in samples from                                                      Warner R.D., Keil K., Prinz M., Laul J.C., Murali A.V. and
+    Taurus-Littrow: Effects of the solar flare of August 1972.                                                            Schmitt R.A. (1975b) Mineralogy, petrology, and chemistry
+    Proc. 5th Lunar Sci. Conf. 2139-2147.                                                                of mare basalts from Apollo 17 rake samples. Proc. 6th Lunar
+                                                                       Sci. Conf. 193-220.
+   Papike J.J., Bence A.E. and Lindsley D.H. (1974) Mare
+    basalts from the Taurus-Littrow region of the moon. Proc.                                                       Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+     5th Lunar Sci. Conf. 471-504.                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+                                                             geologic investigation of the Taurus-Littrow Valley: Apollo
+   Papike J.J., Hodges F.N., Bence A.E., Cameron M. and                                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+   Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,                                                            280.
+   mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+   475-540.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 10-27 ---
+Brannon J.C. (1975a) On the origin of high-Ti mare basalts.
+   Niemeyer S. (1977a) Exposure histories of lunar rocks 71135                                                               Proc. 6th Lunar Sci. Conf. 1255-1285.
+   and 71569. Proc. 8th Lunar Sci. Conf. 3083-3093.
+                                                       Warner R.D., Keil K., Murali A.V. and Schmitt R.A. (1975a)
+   Nyquist L.E., Bansal B.M. and Wiesmann H. (1975a) Rb-                                                              Petrogenetic relationships among Apollo-17 basalts.  In
+    Sr ages and initial 87Sr/86Sr for Apollo 17 basalts and KREEP                                                           Papers presented to the Conference on Origins of Mare
+    basalt 15386. Proc. 6th Lunar Sci. Conf. 1445-1465.                                                            Basalts and their Implications for Lunar Evolution (Lunar
+                                                           Science Institute, Houston), 179-183.
+   O’Kelly G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+   Cosmogenic radionuclides in samples from                                                      Warner R.D., Keil K., Prinz M., Laul J.C., Murali A.V. and
+    Taurus-Littrow: Effects of the solar flare of August 1972.                                                            Schmitt R.A. (1975b) Mineralogy, petrology, and chemistry
+    Proc. 5th Lunar Sci. Conf. 2139-2147.                                                                of mare basalts from Apollo 17 rake samples. Proc. 6th Lunar
+                                                                       Sci. Conf. 193-220.
+   Papike J.J., Bence A.E. and Lindsley D.H. (1974) Mare
+    basalts from the Taurus-Littrow region of the moon. Proc.                                                       Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+     5th Lunar Sci. Conf. 471-504.                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+                                                             geologic investigation of the Taurus-Littrow Valley: Apollo
+   Papike J.J., Hodges F.N., Bence A.E., Cameron M. and                                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.

@@ -1,0 +1,155 @@
+DOCUMENT_ID: 71505__compendium__256926e8fa
+ATLAS_SAMPLE_IDS: 71505
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71505.pdf
+SOURCE_PDF_SHA256: e67af63aa0deead7417ab605006e923f098af583956b32df7ca076c50ec2574c
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy,treatment ===
+--- mineralogy block 1; lines 1-8 ---
+71505
+                                     Ilmenite Basalt
+                                            29.5 grams
+--- material block 2; lines 1-26 ---
+71505
+                                     Ilmenite Basalt
+                                            29.5 grams
+
+
+
+
+
+        Figure 1: Photos of top and bottom of 71505. Cube and scale are 1 cm. S73-15431 and 436.
+
+
+   Introduction
+   71505 is a “walnut” sieved from the comprehensive
+    soil 71500 taken at station 1, Apollo 17.  It is rounded
+   and has micrometeorite “zap” pits on 5 out of 6 sides.
+
+    Station 1 was located about 150 meters from Steno
+   Crater – which is about 600 meter diameter and thought
+    to have sampled to a depth of 120 meters (Wolfe et al.
+   1981). There are numerous rake samples from nearby
+    (figure 2).
+
+                                                                Figure 2: Map of station 1, Apollo 17.
+--- treatment block 3; lines 7-19 ---
+Figure 1: Photos of top and bottom of 71505. Cube and scale are 1 cm. S73-15431 and 436.
+
+
+   Introduction
+   71505 is a “walnut” sieved from the comprehensive
+    soil 71500 taken at station 1, Apollo 17.  It is rounded
+   and has micrometeorite “zap” pits on 5 out of 6 sides.
+
+    Station 1 was located about 150 meters from Steno
+   Crater – which is about 600 meter diameter and thought
+    to have sampled to a depth of 120 meters (Wolfe et al.
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-18 ---
+Table 1. Chemical composition of 71505.      Petrography
+                                                71505 is a fine-grained ilmenite basalt with eroded,
+    reference  Warner79                                        skeletal olivine phenocrysts and needles of ilmenite
+    weight    Ma79
+    SiO2 %                                                      set in a feathery intergrowth of plagioclase-pyroxene.
+    TiO2       10.5     (a)                               Neal and Taylor (1993) described the groundmass as
+    Al2O3      9.6      (a)                                        “variolitic”.  In any case this specimen represents a   FeO       19.2     (a)
+   MnO       0.252    (a)                                      chilled margin of a lunar lava flow.
+   MgO      7         (a)
+   CaO       10.3     (a)
+   Na2O      0.367    (a)                                Mineral compositions have not been reported.
+   K2O       0.048    (a)
+   P2O5                                      Chemistry   S %
+   sum                                Ma et al. (1979) and Warner et al. (1979) reported an
+                                                            analysis 71505 (table 1 and figures 4 and 5). The Ti
+    Sc ppm    86       (a)
+   V         87       (a)                                   content is lower than for most Apollo 17 basalts, and
+    Cr        2094    (a)                                    the REE pattern is similar to type B basalts.
+--- chemistry block 2; lines 26-47 ---
+Se
+   Rb                                                                                       12                         A17
+    Sr
+   Y                                                                                         10            71505 A11
+    Zr
+   Nb                                                                                            8
+   Mo                                        TiO2
+   Ru                                                                                            6
+   Rh
+   Pd ppb                                                                                       4
+   Ag ppb                                                                                                         A12
+   Cd ppb                                                                                      2                        A15
+     In ppb
+   Sn ppb                                                                                       0
+   Sb ppb                                                                                        0                5                10                15               20
+    Te ppb                                         MgO
+   Cs ppm
+   Ba
+    La         5.9      (a)                                          Figure 4: Compositionof 71505 showig low Ti
+   Ce        21       (a)                                      campared with most Apollo 17 basalts.
+    Pr
+   Nd        22       (a)
+--- mineralogy block 3; lines 1-11 ---
+Table 1. Chemical composition of 71505.      Petrography
+                                                71505 is a fine-grained ilmenite basalt with eroded,
+    reference  Warner79                                        skeletal olivine phenocrysts and needles of ilmenite
+    weight    Ma79
+    SiO2 %                                                      set in a feathery intergrowth of plagioclase-pyroxene.
+    TiO2       10.5     (a)                               Neal and Taylor (1993) described the groundmass as
+    Al2O3      9.6      (a)                                        “variolitic”.  In any case this specimen represents a   FeO       19.2     (a)
+   MnO       0.252    (a)                                      chilled margin of a lunar lava flow.
+   MgO      7         (a)
+   CaO       10.3     (a)
+   Na2O      0.367    (a)                                Mineral compositions have not been reported.
+--- material block 4; lines 1-8 ---
+Table 1. Chemical composition of 71505.      Petrography
+                                                71505 is a fine-grained ilmenite basalt with eroded,
+    reference  Warner79                                        skeletal olivine phenocrysts and needles of ilmenite
+    weight    Ma79
+    SiO2 %                                                      set in a feathery intergrowth of plagioclase-pyroxene.
+    TiO2       10.5     (a)                               Neal and Taylor (1993) described the groundmass as
+    Al2O3      9.6      (a)                                        “variolitic”.  In any case this specimen represents a   FeO       19.2     (a)
+   MnO       0.252    (a)                                      chilled margin of a lunar lava flow.
+--- references block 5; lines 1-9 ---
+Table 1. Chemical composition of 71505.      Petrography
+                                                71505 is a fine-grained ilmenite basalt with eroded,
+    reference  Warner79                                        skeletal olivine phenocrysts and needles of ilmenite
+    weight    Ma79
+    SiO2 %                                                      set in a feathery intergrowth of plagioclase-pyroxene.
+    TiO2       10.5     (a)                               Neal and Taylor (1993) described the groundmass as
+    Al2O3      9.6      (a)                                        “variolitic”.  In any case this specimen represents a   FeO       19.2     (a)
+   MnO       0.252    (a)                                      chilled margin of a lunar lava flow.
+   MgO      7         (a)
+--- references block 6; lines 62-71 ---
+Os ppb
+       Ir ppb
+    Pt ppb
+   Au ppb
+    Th ppm
+   U ppm                                                     Figure 5: Normalized rare-earth-element diagram
+     technique:  (a) INAA                                                for 71505 and type A and B basalts.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: age,references ===
+--- age block 1; lines 1-7 ---
+Radiogenic age dating
+  None
+
+   Processing
+   There is only one thin section of 71505.
+--- references block 2; lines 14-26 ---
+22.6 g  2 g  PB  2.1 g  2.2 g
+
+
+
+
+
+   References for 71505
+    Butler P. (1973) Lunar Sample Information Catalog
+                                                        Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,   Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+                                                               Scott D.H., Sutton R.L and Wilshire H.G. (1981) The    Curator’s Catalog. pp. 447.
+                                                              geologic investigation of the Taurus-Littrow Valley: Apollo
+                                                      17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.   LSPET (1973)  Apollo 17 lunar samples: Chemical and
+                                                             280.    petrographic description. Science 182, 659-672.

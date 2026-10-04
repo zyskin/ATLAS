@@ -1,0 +1,71 @@
+DOCUMENT_ID: 64478__compendium__9040ac423f
+ATLAS_SAMPLE_IDS: 64478
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64478.pdf
+SOURCE_PDF_SHA256: 4d37cb8f5efb3b25997ddc380490f91c604229bd4ccef1f404c9ff49d660b016
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 11-23 ---
+Introduction
+   64478 is part of the residue of doc bag #3 which                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   included 64475 and 64476.                          and chemical description. Science 179, 23-34.
+
+   Petrography                                      Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Ryder and Norman (1980) term 64478 a “glass-coated   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   impact melt”. The interior has a poikilitic texture in
+                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.   places (figure 2).
+                                                               In Geology of the Apollo 16 area, central lunar highlands.
+                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   Chemistry
+   Korotev (1994) appears to have analyzed 64478, calling
+--- material block 2; lines 1-8 ---
+64478 – 12.3 grams
+                               Impact Melt Breccia
+
+
+
+
+
+                              Figure 1: Photo of 64478 with cm cube. S72-40139
+--- material block 3; lines 12-24 ---
+Introduction
+   64478 is part of the residue of doc bag #3 which                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   included 64475 and 64476.                          and chemical description. Science 179, 23-34.
+
+   Petrography                                      Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Ryder and Norman (1980) term 64478 a “glass-coated   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   impact melt”. The interior has a poikilitic texture in
+                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.   places (figure 2).
+                                                               In Geology of the Apollo 16 area, central lunar highlands.
+                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   Chemistry
+   Korotev (1994) appears to have analyzed 64478, calling
+     it “2F”.
+--- material block 4; lines 35-47 ---
+Hunter R.H. and Taylor L.A. (1981b) Rust and schreibersite
+    in Apollo 16 highland rocks: Manifestations of volatile-
+   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+                                                                          ,0       ,1    ,15   ,16     ,18    259.                                                       10 g  PB  1 g   0.5 g   0.5 g
+
+   Korotev R.L. (1994) Compositional variation in Apollo 16
+   impact melt breccias and inferences for the geology and                     ,13
+                                                                                     ,14
+   bombardment history of the central highlands of the Moon.               TS
+   Geochim. Cosmochim. Acta 58, 3931-3969.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- references block 5; lines 24-36 ---
+it “2F”.
+
+   Processing
+   There are 2 thin sections of 64478.
+
+
+   References for 64478
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                        64478
+                                                            12.3 grams
+   Hunter R.H. and Taylor L.A. (1981b) Rust and schreibersite
+    in Apollo 16 highland rocks: Manifestations of volatile-

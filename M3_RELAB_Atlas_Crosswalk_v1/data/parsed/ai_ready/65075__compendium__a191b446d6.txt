@@ -1,0 +1,223 @@
+DOCUMENT_ID: 65075__compendium__a191b446d6
+ATLAS_SAMPLE_IDS: 65075
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65075.pdf
+SOURCE_PDF_SHA256: eb58a0e236710c61b97867f95f933f967636e6b9f5a362af918e9c53777fa848
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 20-32 ---
+Petrography
+   Grieve and Plant (1973) studied 65075 is some detail
+   and this has been critically summarized by Ryder and
+   Norman (1980).   It seems clear that the crystalline
+   interior is an impact melt rock with highland
+   composition (~ 30 % Al2O3).   It has relict ophitic,
+   subophitic and poikiolitic textures, but it has been
+   highly shocked so that the clast matrix relationship is
+   confused (figures 2 and 3). There is a great deal of
+    glass. No pyroxene diagram has been published.
+
+   Hunter and Taylor (1981) reported lots of rust.
+--- mineralogy block 2; lines 12-40 ---
+Introduction
+    Station 5 was at the transition between Stone Mountain
+   and the Cayley Plains. 65075 was collected from the
+   inner wall of a 20 m subdued crater relatively close to
+   rake samples 65500 and 65900 – see sections on 65501
+   and 65901.  It is a greenish gray breccias with a black
+    glass coating. It is highly fractured and broke in pieces
+   during return (figures 1 and 3).
+
+   Petrography
+   Grieve and Plant (1973) studied 65075 is some detail
+   and this has been critically summarized by Ryder and
+   Norman (1980).   It seems clear that the crystalline
+   interior is an impact melt rock with highland
+   composition (~ 30 % Al2O3).   It has relict ophitic,
+   subophitic and poikiolitic textures, but it has been
+   highly shocked so that the clast matrix relationship is
+   confused (figures 2 and 3). There is a great deal of
+    glass. No pyroxene diagram has been published.
+
+   Hunter and Taylor (1981) reported lots of rust.
+
+   Mineralogical Mode
+   None reported                                                                 Figure 2: Thin section photomicrograph of 65075,
+                                                          9 (from Grieve and Plant 1973).
+--- material block 3; lines 1-34 ---
+65075
+                                   Impact Melt
+                                       108 grams
+
+
+
+
+
+                                 Figure 1: Photo of 65075,1. Cube is 1 cm. S72-39406
+
+
+   Introduction
+    Station 5 was at the transition between Stone Mountain
+   and the Cayley Plains. 65075 was collected from the
+   inner wall of a 20 m subdued crater relatively close to
+   rake samples 65500 and 65900 – see sections on 65501
+   and 65901.  It is a greenish gray breccias with a black
+    glass coating. It is highly fractured and broke in pieces
+   during return (figures 1 and 3).
+
+   Petrography
+   Grieve and Plant (1973) studied 65075 is some detail
+   and this has been critically summarized by Ryder and
+   Norman (1980).   It seems clear that the crystalline
+   interior is an impact melt rock with highland
+   composition (~ 30 % Al2O3).   It has relict ophitic,
+   subophitic and poikiolitic textures, but it has been
+   highly shocked so that the clast matrix relationship is
+   confused (figures 2 and 3). There is a great deal of
+    glass. No pyroxene diagram has been published.
+
+   Hunter and Taylor (1981) reported lots of rust.
+
+   Mineralogical Mode
+
+=== PDF PAGE 3; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 65075
+               glass                     glass av.  anor. av.      anor
+    reference  Morris 86     Rancitelli73 Grieve73             See86
+    weight    See 86       bulk
+   SiO2 %    45.05    (c )             44.45     43.98      (d)  43.7    (c )
+    TiO2      0.23     (a)              0.33      0.23       (d)  0.05    (c )
+   Al2O3    30       (c )             24.75     30.92      (d)  30.3    (c )
+   FeO       3.3       (a)              6.62      1.94       (d)  3.24    (c )
+   MnO                  (a)              0.06      0.04       (d)  0.06    (c )
+   MgO      4.26     (c )              8.26      3.08       (d)  4.8      (c )
+   CaO       16.8     (a)              14.4      17.25      (d)  16.7    (c )
+   Na2O     0.49     (a)              0.76      0.83       (d)  0.38    (c )
+   K2O       0.06     (a)  0.193   (b)  0.08      0.12       (d)  0.02    (c )
+   P2O5
+   S %
+   sum
+
+   Sc ppm    6.47     (a)
+   V
+--- mineralogy block 2; lines 1-8 ---
+Table 1. Chemical composition of 65075
+               glass                     glass av.  anor. av.      anor
+    reference  Morris 86     Rancitelli73 Grieve73             See86
+    weight    See 86       bulk
+   SiO2 %    45.05    (c )             44.45     43.98      (d)  43.7    (c )
+    TiO2      0.23     (a)              0.33      0.23       (d)  0.05    (c )
+   Al2O3    30       (c )             24.75     30.92      (d)  30.3    (c )
+   FeO       3.3       (a)              6.62      1.94       (d)  3.24    (c )
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 65075
+               glass                     glass av.  anor. av.      anor
+    reference  Morris 86     Rancitelli73 Grieve73             See86
+    weight    See 86       bulk
+   SiO2 %    45.05    (c )             44.45     43.98      (d)  43.7    (c )
+    TiO2      0.23     (a)              0.33      0.23       (d)  0.05    (c )
+   Al2O3    30       (c )             24.75     30.92      (d)  30.3    (c )
+   FeO       3.3       (a)              6.62      1.94       (d)  3.24    (c )
+   MnO                  (a)              0.06      0.04       (d)  0.06    (c )
+--- references block 4; lines 64-73 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm    2.5       (a)  2.89     (b)
+   U ppm     0.69     (a)  0.84     (b)
+    technique:  (a) INAA, (b) radiation count., (c ) broad beam e probe, (d) averages of probe data
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 4; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 22-36 ---
+dpm/kg.
+    Spinel: Pleonaste spinel has been reported
+                                                 Processing
+   Chemistry                                      There are 4 thin sections of 65075. More are needed
+    Rancitelli et al. (1973) provide a bulk analysis – but  from a piece from the interior.
+    for only K, U, and Th. Grieve and Plant (1973) provide
+    reliable major element analyses, but no trace element
+    analyses.  Morris et al. (1986) analyzed the glass
+    coating for trace elements, but the glass may not be
+    representative of the rock. So if someone wants to
+    analyze something, please request a representative
+    piece of the interior of this sample.
+--- mineralogy block 2; lines 12-36 ---
+,9
+                                                         ,3      ,12  ,14    ,15      ,10
+                                                                                            ,11               ,1      ,17    ,19               9.3 g  PB  0.6 g   0.7 g                      11 g   2.5 g                                  TS           38 g
+                                                                     ,16
+                                                 TS
+
+   Mineralogy
+    Olivine: Fo75                              Cosmogenic isotopes and exposure ages
+                                                             Rancitelli et al. (1973) determined the cosmic-ray-
+    Plagioclase: An95                                  induced activity of 22Na = 50 dpm/kg and 26Al = 136
+                                                    dpm/kg.
+    Spinel: Pleonaste spinel has been reported
+                                                 Processing
+   Chemistry                                      There are 4 thin sections of 65075. More are needed
+    Rancitelli et al. (1973) provide a bulk analysis – but  from a piece from the interior.
+    for only K, U, and Th. Grieve and Plant (1973) provide
+    reliable major element analyses, but no trace element
+    analyses.  Morris et al. (1986) analyzed the glass
+    coating for trace elements, but the glass may not be
+    representative of the rock. So if someone wants to
+    analyze something, please request a representative
+    piece of the interior of this sample.
+--- material block 3; lines 25-37 ---
+Chemistry                                      There are 4 thin sections of 65075. More are needed
+    Rancitelli et al. (1973) provide a bulk analysis – but  from a piece from the interior.
+    for only K, U, and Th. Grieve and Plant (1973) provide
+    reliable major element analyses, but no trace element
+    analyses.  Morris et al. (1986) analyzed the glass
+    coating for trace elements, but the glass may not be
+    representative of the rock. So if someone wants to
+    analyze something, please request a representative
+    piece of the interior of this sample.
+
+
+
+Lunar Sample Compendium
+--- age block 4; lines 14-26 ---
+,11               ,1      ,17    ,19               9.3 g  PB  0.6 g   0.7 g                      11 g   2.5 g                                  TS           38 g
+                                                                     ,16
+                                                 TS
+
+   Mineralogy
+    Olivine: Fo75                              Cosmogenic isotopes and exposure ages
+                                                             Rancitelli et al. (1973) determined the cosmic-ray-
+    Plagioclase: An95                                  induced activity of 22Na = 50 dpm/kg and 26Al = 136
+                                                    dpm/kg.
+    Spinel: Pleonaste spinel has been reported
+                                                 Processing
+   Chemistry                                      There are 4 thin sections of 65075. More are needed
+    Rancitelli et al. (1973) provide a bulk analysis – but  from a piece from the interior.
+
+=== PDF PAGE 5; CATEGORIES: mineralogy,references ===
+--- mineralogy block 1; lines 1-13 ---
+References for 65075
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+   Grieve R.A.F. and Plant A.G. (1973) Partial melting on the
+    lunar surface, as observed in glass coated Apollo 16 samples.
+    Proc. 4th Lunar Sci. Conf. 667-679.
+
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+    in Apollo 16 highland rocks: Manifestations of volatile-
+   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    259.
+--- references block 2; lines 1-7 ---
+References for 65075
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+   Grieve R.A.F. and Plant A.G. (1973) Partial melting on the
+    lunar surface, as observed in glass coated Apollo 16 samples.

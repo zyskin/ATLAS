@@ -1,0 +1,286 @@
+DOCUMENT_ID: 10010__compendium__f64ab7634a
+ATLAS_SAMPLE_IDS: 10010
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10010.pdf
+SOURCE_PDF_SHA256: fd92c9be96e709f301f9d09ff3a60e9086adeeac5b4f3600658083f28652bb07
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 7-29 ---
+25
+                                                                                20                      Apollo soils
+
+                                                                                            10010
+                                                                                15
+                                 FeO
+
+                                                                                10
+
+
+                                                                                   5
+
+
+                                                                                   0
+                                                                                     0       5       10      15      20      25      30      35
+                                                             Al2O3
+                                                                 Figure 3: Composition of 10010 compared with
+                                                                     other luanr soils.
+
+        Figure 1: Photo of a portion of 10010. Spatula      Introduction
+        about 3 mm wide. S69-45229.
+                                                           This was the first sample of the Moon (figure 1).  It
+--- chemistry block 2; lines 36-48 ---
+During PET, Frondel ran a hand magnet through this
+                                                 sample to extract metallic iron particles (King 1969).
+                                                     Note: the magnetism of 10023 is presumably due to
+                                                                 this
+
+                                             Petrography
+                                               10010 is a mature soil with Is/FeO = 75 (Morris 1978).
+                                                      For some reason the grain size distribution and modal
+                                                     mineralogy have not been determined (Carrier 1973).
+                                                     During PET it was noted that the soil contained glass
+                                                     spheres with a variety of color from clear white, to
+                                                       orange, to black (figure 2).
+        Figure 2: Small glass spheres found in 10010.
+--- mineralogy block 3; lines 37-54 ---
+sample to extract metallic iron particles (King 1969).
+                                                     Note: the magnetism of 10023 is presumably due to
+                                                                 this
+
+                                             Petrography
+                                               10010 is a mature soil with Is/FeO = 75 (Morris 1978).
+                                                      For some reason the grain size distribution and modal
+                                                     mineralogy have not been determined (Carrier 1973).
+                                                     During PET it was noted that the soil contained glass
+                                                     spheres with a variety of color from clear white, to
+                                                       orange, to black (figure 2).
+        Figure 2: Small glass spheres found in 10010.
+        Largest sphere is 3 mm. S69-45181.              Chemistry
+                                                Rhodes and Blanchard (1981) reported an analysis of
+                                                   10010.  It is not significantly different from 10084.
+                                                        Figure 3 shows the composition of the Apollo 11 soils
+                                                     with respect to the other Apollo soils.
+--- material block 4; lines 1-8 ---
+10010                              DRAFT
+                                 Contingency Soil
+
+                                          491 grams
+
+
+
+                                                                                25
+--- material block 5; lines 27-51 ---
+Figure 1: Photo of a portion of 10010. Spatula      Introduction
+        about 3 mm wide. S69-45229.
+                                                           This was the first sample of the Moon (figure 1).  It
+                                              was picked up as soon as Armstrong got off the ladder,
+                                                      placed in a large Teflon bag and put in a pocket in his
+                                                         spacesuit in case he had to immediately get back on
+                                                 board the LM!  Several rock samples > 1 cm were
+                                                       included (10021-10032). Total weight 1014 grams!
+
+                                                     During PET, Frondel ran a hand magnet through this
+                                                 sample to extract metallic iron particles (King 1969).
+                                                     Note: the magnetism of 10023 is presumably due to
+                                                                 this
+
+                                             Petrography
+                                               10010 is a mature soil with Is/FeO = 75 (Morris 1978).
+                                                      For some reason the grain size distribution and modal
+                                                     mineralogy have not been determined (Carrier 1973).
+                                                     During PET it was noted that the soil contained glass
+                                                     spheres with a variety of color from clear white, to
+                                                       orange, to black (figure 2).
+        Figure 2: Small glass spheres found in 10010.
+        Largest sphere is 3 mm. S69-45181.              Chemistry
+                                                Rhodes and Blanchard (1981) reported an analysis of
+                                                   10010.  It is not significantly different from 10084.
+--- treatment block 6; lines 36-48 ---
+During PET, Frondel ran a hand magnet through this
+                                                 sample to extract metallic iron particles (King 1969).
+                                                     Note: the magnetism of 10023 is presumably due to
+                                                                 this
+
+                                             Petrography
+                                               10010 is a mature soil with Is/FeO = 75 (Morris 1978).
+                                                      For some reason the grain size distribution and modal
+                                                     mineralogy have not been determined (Carrier 1973).
+                                                     During PET it was noted that the soil contained glass
+                                                     spheres with a variety of color from clear white, to
+                                                       orange, to black (figure 2).
+        Figure 2: Small glass spheres found in 10010.
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 1-18 ---
+Table 1. Chemical composition of 10010.
+
+     reference Rhodes 81                            Other Studies
+     weight
+    SiO2 %   41.5      (a)                                               Initially, lunar soil samples were of interest to the soil
+    TiO2      7.58      (a)                               mechanics and biological sciences communities.
+    Al2O3    13.21    (a)
+   FeO      15.83    (a)
+   MnO      0.24      (a)
+   MgO      7.82      (a)
+   CaO      12.05    (a)                              Processing   Na2O     0.44      (a)
+   K2O      0.14      (a)                              The contingency sample was apparently sieved at 1
+   P2O5     0.11      (a)
+   S %                                   cm to extract the > 1 cm rocks – see table.
+    sum
+
+    Sc ppm   61        (b)
+   V        47        (b)
+--- material block 2; lines 1-11 ---
+Table 1. Chemical composition of 10010.
+
+     reference Rhodes 81                            Other Studies
+     weight
+    SiO2 %   41.5      (a)                                               Initially, lunar soil samples were of interest to the soil
+    TiO2      7.58      (a)                               mechanics and biological sciences communities.
+    Al2O3    13.21    (a)
+   FeO      15.83    (a)
+   MnO      0.24      (a)
+   MgO      7.82      (a)
+   CaO      12.05    (a)                              Processing   Na2O     0.44      (a)
+--- treatment block 3; lines 6-18 ---
+TiO2      7.58      (a)                               mechanics and biological sciences communities.
+    Al2O3    13.21    (a)
+   FeO      15.83    (a)
+   MnO      0.24      (a)
+   MgO      7.82      (a)
+   CaO      12.05    (a)                              Processing   Na2O     0.44      (a)
+   K2O      0.14      (a)                              The contingency sample was apparently sieved at 1
+   P2O5     0.11      (a)
+   S %                                   cm to extract the > 1 cm rocks – see table.
+    sum
+
+    Sc ppm   61        (b)
+   V        47        (b)
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 10010.
+
+     reference Rhodes 81                            Other Studies
+     weight
+    SiO2 %   41.5      (a)                                               Initially, lunar soil samples were of interest to the soil
+    TiO2      7.58      (a)                               mechanics and biological sciences communities.
+    Al2O3    13.21    (a)
+   FeO      15.83    (a)
+   MnO      0.24      (a)
+--- references block 5; lines 63-73 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm   1.5       (b)
+   U ppm
+     technique:  (a) XRF, (b) INAA
+
+
+Lunar Sample Compendium
+C Meyer 2009
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 37-49 ---
+Hintenberger H., Schultz L. and Weber H.W. (1975a) A
+   comparison of noble gases in lunar fines and soil breccias:   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+    Implications for the origin of soil breccias. Proc. 6th Lunar  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+    Sci. Conf. 2261-2270.                                        Office, Houston
+
+   Johnson R.D and Davis C.C. (1970) Total organic carbon   Morris R.V. (1978) The surface exposure (maturity) of lunar
+    in the Apollo 11 lunar samples.  Proc. Apollo 11 Lunar   soils: Some concepts and Is/FeO compilation.  Proc. 9th
+    Science Conf. 1805-1812.                             Lunar Sci. Conf. 2287-2297.
+
+   King E.A. and a cast of thousands (1969) Lunar Sample  Rhodes J.M. and Blanchard D.P. (1981) Apollo 11 breccias
+   Information Catalog, Apollo 11.  Lunar Receiving  and soils: Aluminous mare basalts or multi-component
+    Laboratory, MSC 412 pp                                 mixtures? Proc. 12th Lunar Planet. Sci. Conf. 607-620.
+--- material block 2; lines 11-45 ---
+small splits
+                                                                                                    rocks
+   References for 10010.
+                                                                 Rocks > 1 cm split from 10010.
+   Beaty D.W. and Albee A.L. (1980)  The geology and
+                                                                                                            wt. gr.
+    petrology of the Apollo 11 landing site.  Proc. 11th Lunar                   10021    breccia    250
+    Planet. Sci. Conf. 23-35.                                                 10022    basalt     95.5
+                                                                           10023    breccia    66
+    Carrier W.D. (1973) Lunar grain size distribution. The Moon                   10024     basalt     68.12
+                                                                           10025    breccia     8.5    6, 250-263.
+                                                                           10026    breccia    9.25
+                                                                           10027    breccia    8.87
+    Doell R.R. and Gromme C.S. (1970) Survey of magnetic                                                                           10028    breccia    3.53
+    properties of Apollo 11 samples at the Lunar Receiving                   10029     basalt      5.53
+    Laboratory. Proc. Apollo 11 Lunar Sci. Conf. 2093-2096.                    10030    breccia    1.81
+                                                                          10031    basalt      2.7
+   Funkhauser J.G., Schaeffer O.A., Bogard D.D. and Zahringer                   10032    basalt     3.13
+     J. (1970) Gas analysis of the lunar surface. Proc. Apollo 11
+   Lunar Sci. Conf. 1111-1116.
+
+   Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+
+   Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+   Space Phys. 13, 567-587.                         LSPET (1969b) Preliminary examination of lunar samples
+                                                      from Apollo 11. Science 165, 1211-1227.
+    Hintenberger H., Schultz L. and Weber H.W. (1975a) A
+   comparison of noble gases in lunar fines and soil breccias:   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+    Implications for the origin of soil breccias. Proc. 6th Lunar  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+    Sci. Conf. 2261-2270.                                        Office, Houston
+
+   Johnson R.D and Davis C.C. (1970) Total organic carbon   Morris R.V. (1978) The surface exposure (maturity) of lunar
+    in the Apollo 11 lunar samples.  Proc. Apollo 11 Lunar   soils: Some concepts and Is/FeO compilation.  Proc. 9th
+    Science Conf. 1805-1812.                             Lunar Sci. Conf. 2287-2297.
+--- treatment block 3; lines 3-15 ---
+491 g                    rocks
+
+
+       ,10    ,39     ,40                                    ,42    ,66    ,67   ,68   ,69     ,70    ,71   ,72                            ,41
+      30 g  42 g   35 g          8.4 g  36 g  56 g  40 g  64 g   45 g        37 g
+
+                                sieved
+
+                                                                               small splits
+                                                                                                    rocks
+   References for 10010.
+                                                                 Rocks > 1 cm split from 10010.
+   Beaty D.W. and Albee A.L. (1980)  The geology and
+--- treatment block 4; lines 18-30 ---
+Planet. Sci. Conf. 23-35.                                                 10022    basalt     95.5
+                                                                           10023    breccia    66
+    Carrier W.D. (1973) Lunar grain size distribution. The Moon                   10024     basalt     68.12
+                                                                           10025    breccia     8.5    6, 250-263.
+                                                                           10026    breccia    9.25
+                                                                           10027    breccia    8.87
+    Doell R.R. and Gromme C.S. (1970) Survey of magnetic                                                                           10028    breccia    3.53
+    properties of Apollo 11 samples at the Lunar Receiving                   10029     basalt      5.53
+    Laboratory. Proc. Apollo 11 Lunar Sci. Conf. 2093-2096.                    10030    breccia    1.81
+                                                                          10031    basalt      2.7
+   Funkhauser J.G., Schaeffer O.A., Bogard D.D. and Zahringer                   10032    basalt     3.13
+     J. (1970) Gas analysis of the lunar surface. Proc. Apollo 11
+   Lunar Sci. Conf. 1111-1116.
+--- treatment block 5; lines 36-48 ---
+from Apollo 11. Science 165, 1211-1227.
+    Hintenberger H., Schultz L. and Weber H.W. (1975a) A
+   comparison of noble gases in lunar fines and soil breccias:   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+    Implications for the origin of soil breccias. Proc. 6th Lunar  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+    Sci. Conf. 2261-2270.                                        Office, Houston
+
+   Johnson R.D and Davis C.C. (1970) Total organic carbon   Morris R.V. (1978) The surface exposure (maturity) of lunar
+    in the Apollo 11 lunar samples.  Proc. Apollo 11 Lunar   soils: Some concepts and Is/FeO compilation.  Proc. 9th
+    Science Conf. 1805-1812.                             Lunar Sci. Conf. 2287-2297.
+
+   King E.A. and a cast of thousands (1969) Lunar Sample  Rhodes J.M. and Blanchard D.P. (1981) Apollo 11 breccias
+   Information Catalog, Apollo 11.  Lunar Receiving  and soils: Aluminous mare basalts or multi-component
+    Laboratory, MSC 412 pp                                 mixtures? Proc. 12th Lunar Planet. Sci. Conf. 607-620.
+--- references block 6; lines 7-19 ---
+30 g  42 g   35 g          8.4 g  36 g  56 g  40 g  64 g   45 g        37 g
+
+                                sieved
+
+                                                                               small splits
+                                                                                                    rocks
+   References for 10010.
+                                                                 Rocks > 1 cm split from 10010.
+   Beaty D.W. and Albee A.L. (1980)  The geology and
+                                                                                                            wt. gr.
+    petrology of the Apollo 11 landing site.  Proc. 11th Lunar                   10021    breccia    250
+    Planet. Sci. Conf. 23-35.                                                 10022    basalt     95.5
+                                                                           10023    breccia    66

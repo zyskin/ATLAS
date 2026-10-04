@@ -1,0 +1,230 @@
+DOCUMENT_ID: 67115__compendium__5c360155fb
+ATLAS_SAMPLE_IDS: 67115
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67115.pdf
+SOURCE_PDF_SHA256: 20b8f9168745d3ee6e5f8602b5f7d7fb52d3785d842e8fb0115b9e361e26f1e9
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 7-38 ---
+Figure 1: First look at 67115. Cube is 1 inch. S72-37747
+
+
+   Introduction                                           Cosmogenic isotopes and exposure ages
+   67115 is a glass-coated, fragmental breccia from the                                              The cosmic-ray-induced activity of 22Na = 29 dpm/kg,
+   rim of North Ray Crater (figure 2). The glass coat is                                                            26Al = 62 dpm/kg, and 53Mn =1.7 dpm/kg (Clark and
+    rather thick, but has been fractured and broken off by                                                      Kieth 1973).
+   micrometeorite bombardment (figure 5).
+                                           Other Studies
+   Petrography                                                Brownlee et al. (1973) studied the micrometeorite
+   The bulk of the sample beneath the glass coating is a                                                                 craters.
+   suevite similar to 67016 (from the same location).
+   Ryder and Norman (1980) provide the only                                                 Processing
+   petrographic description. The sample is very fractured
+                                                67115 has not been sawn.  There are 17 grams of
+   and somewhat friable. 67115 is feldspar-rich.
+                                                            additional material in the residue formt he sample bag.
+                                                   There are 9 thin sections.
+   The glass coat has devitrified at the boundary with the
+   breccia (figure 3).  Glass veisn are also reported
+   although they are not observed in photos.
+
+   Glass: Shaal et al. (1979), Taylor et al. (1973), See et
+    al. (1987) and Morris et al. (1987) studied the glass
+    coat.
+
+   Chemistry
+   67115 has a high Al content. The matrix of 67115 is
+    rather low in meteoritic siderophile elements (similar
+    to other breccia samples from the rim of North Ray
+--- material block 2; lines 1-19 ---
+67115
+                                Fragmental Breccia
+                                       240 grams
+
+
+
+
+
+                              Figure 1: First look at 67115. Cube is 1 inch. S72-37747
+
+
+   Introduction                                           Cosmogenic isotopes and exposure ages
+   67115 is a glass-coated, fragmental breccia from the                                              The cosmic-ray-induced activity of 22Na = 29 dpm/kg,
+   rim of North Ray Crater (figure 2). The glass coat is                                                            26Al = 62 dpm/kg, and 53Mn =1.7 dpm/kg (Clark and
+    rather thick, but has been fractured and broken off by                                                      Kieth 1973).
+   micrometeorite bombardment (figure 5).
+                                           Other Studies
+   Petrography                                                Brownlee et al. (1973) studied the micrometeorite
+   The bulk of the sample beneath the glass coating is a                                                                 craters.
+--- material block 3; lines 22-44 ---
+petrographic description. The sample is very fractured
+                                                67115 has not been sawn.  There are 17 grams of
+   and somewhat friable. 67115 is feldspar-rich.
+                                                            additional material in the residue formt he sample bag.
+                                                   There are 9 thin sections.
+   The glass coat has devitrified at the boundary with the
+   breccia (figure 3).  Glass veisn are also reported
+   although they are not observed in photos.
+
+   Glass: Shaal et al. (1979), Taylor et al. (1973), See et
+    al. (1987) and Morris et al. (1987) studied the glass
+    coat.
+
+   Chemistry
+   67115 has a high Al content. The matrix of 67115 is
+    rather low in meteoritic siderophile elements (similar
+    to other breccia samples from the rim of North Ray
+    Crater).
+
+
+
+
+Lunar Sample Compendium
+--- age block 4; lines 7-19 ---
+Figure 1: First look at 67115. Cube is 1 inch. S72-37747
+
+
+   Introduction                                           Cosmogenic isotopes and exposure ages
+   67115 is a glass-coated, fragmental breccia from the                                              The cosmic-ray-induced activity of 22Na = 29 dpm/kg,
+   rim of North Ray Crater (figure 2). The glass coat is                                                            26Al = 62 dpm/kg, and 53Mn =1.7 dpm/kg (Clark and
+    rather thick, but has been fractured and broken off by                                                      Kieth 1973).
+   micrometeorite bombardment (figure 5).
+                                           Other Studies
+   Petrography                                                Brownlee et al. (1973) studied the micrometeorite
+   The bulk of the sample beneath the glass coating is a                                                                 craters.
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 5-25 ---
+Figure 2: Map of Apollo 16 site, with 67115 location.
+
+
+                                                                Figure 3: Photomicrograph of thin section 67115,30
+                                                            showing breccia included in glass (clear, cracked),
+                                                            which is devitrified around edges.
+
+
+
+
+
+                                                                 Figure 4: Normalized rare-earth-element diagram
+                                                                           for matrix and glass coat on 67115 (data from
+                                                                    Taylor et al. 1973).
+--- material block 2; lines 5-25 ---
+Figure 2: Map of Apollo 16 site, with 67115 location.
+
+
+                                                                Figure 3: Photomicrograph of thin section 67115,30
+                                                            showing breccia included in glass (clear, cracked),
+                                                            which is devitrified around edges.
+
+
+
+
+
+                                                                 Figure 4: Normalized rare-earth-element diagram
+                                                                           for matrix and glass coat on 67115 (data from
+                                                                    Taylor et al. 1973).
+
+=== PDF PAGE 3; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 67115
+                                                         glass             glass
+    reference  Taylor73                 Rose73    See87     Hertogen77                Clark73     Eldridge75
+    weight     black    white    g. Glass                 Morris87
+   SiO2 %    44.6    43.8    44.2     (a) 44.75    (b) 44.5     (e)
+    TiO2       0.16    0.16    0.64     (a) 0.24     (b) 0.65     (e)
+   Al2O3     32.4    24.5    27.8     (a) 31.15    (b) 27.9     (e)
+   FeO       2.13    4.78    5.02     (a) 2.6       (b) 4.8      (e)
+   MnO
+   MgO       2.62    5.06    5.09     (a) 3.03     (b) 4.9      (e)
+   CaO       17.7    13.9    15.7     (a) 17.76    (b) 15.8     (e)
+   Na2O      0.55    0.52    0.47     (a) 0.51     (b) 0.45     (e)
+   K2O       0.13    0.13    0.14     (a) 0.08     (b) 0.12     (e)                               0.056   0.057     (f)
+   P2O5                                  0.02     (b)
+   S %
+   sum
+
+   Sc ppm   2      2                  (a) 23          8.51     (d)
+   V        12     13                 (a) 15
+--- mineralogy block 2; lines 1-10 ---
+Table 1. Chemical composition of 67115
+                                                         glass             glass
+    reference  Taylor73                 Rose73    See87     Hertogen77                Clark73     Eldridge75
+    weight     black    white    g. Glass                 Morris87
+   SiO2 %    44.6    43.8    44.2     (a) 44.75    (b) 44.5     (e)
+    TiO2       0.16    0.16    0.64     (a) 0.24     (b) 0.65     (e)
+   Al2O3     32.4    24.5    27.8     (a) 31.15    (b) 27.9     (e)
+   FeO       2.13    4.78    5.02     (a) 2.6       (b) 4.8      (e)
+   MnO
+   MgO       2.62    5.06    5.09     (a) 3.03     (b) 4.9      (e)
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 67115
+                                                         glass             glass
+    reference  Taylor73                 Rose73    See87     Hertogen77                Clark73     Eldridge75
+    weight     black    white    g. Glass                 Morris87
+   SiO2 %    44.6    43.8    44.2     (a) 44.75    (b) 44.5     (e)
+    TiO2       0.16    0.16    0.64     (a) 0.24     (b) 0.65     (e)
+   Al2O3     32.4    24.5    27.8     (a) 31.15    (b) 27.9     (e)
+   FeO       2.13    4.78    5.02     (a) 2.6       (b) 4.8      (e)
+   MnO
+--- references block 4; lines 64-73 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm    0.26     0.4     1.49     (a)              1.35                                      0.43    0.44       (f)
+   U ppm     0.07    0.09    0.4      (a)              0.56     (d) 0.13  0.38   0.05  0.105  (e) 0.12    0.12       (f)
+    technique:  (a) SSMS, (b) mcirochem., (c ) ES, (d) INAA, (e) RNAA, (f) radiation count.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 6; CATEGORIES: age,material,references ===
+--- material block 1; lines 1-11 ---
+References for 67115.                              Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    Brownlee D.E., Horz F., Vedder J.F., Gault D.E. and Hartung   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+     J.B. (1973) Some physical parameters of micrometeoids.
+    Proc. 4th Lunar Sci. Conf. 3197-3212.                     Schaal R.B., Hörz F., Thompson T.D. and Bauer J.F. (1979a)
+                                                     Shock metamorphism of granulated lunar basalt. Proc. 10th
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo  Lunar Planet. Sci. Conf. 2547-2571.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     See T.H., Horz F. and Morris R.V. (1986) Apollo 16 impact-
+                                                            melt splashes: Petrography and major-element composition.
+    Clark R.S. and Keith J.E. (1973) Determination of natural   Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 91,
+    and cosmic ray induced radionuclides in Apollo 16 lunar   E3-E20.
+--- material block 2; lines 28-40 ---
+259.
+
+    James O.B. (1981a) Tentative classification of the Apollo
+    16 breccias (abs). Lunar Planet. Sci. XII, 506-508.
+
+    Korotev R.L. (1996c) On the relationship between the
+    Apollo 16 ancient regolith breccias and feldspathic
+    fragmental breccias, and the composition of the prebasin
+     crust in the Central Highlands of the Moon.  Meteor. &
+    Planet. Sci. 31, 403-412.
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+    and chemical description. Science 179, 23-34.
+--- age block 3; lines 5-17 ---
+Shock metamorphism of granulated lunar basalt. Proc. 10th
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo  Lunar Planet. Sci. Conf. 2547-2571.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     See T.H., Horz F. and Morris R.V. (1986) Apollo 16 impact-
+                                                            melt splashes: Petrography and major-element composition.
+    Clark R.S. and Keith J.E. (1973) Determination of natural   Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 91,
+    and cosmic ray induced radionuclides in Apollo 16 lunar   E3-E20.
+    samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1975a)   In Geology of the Apollo 16 area, central lunar highlands.
+    Primordial and cosmogenic radionuclides in Descartes and   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Taurus-Littrow materials: extension of studies by
+    nondestructive x-ray spectrometry.  Proc. 6th  Lunar Sci.   Taylor S.R., Gorton M.P., Muir P., Nance W.B., Rudowski
+--- references block 4; lines 1-7 ---
+References for 67115.                              Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    Brownlee D.E., Horz F., Vedder J.F., Gault D.E. and Hartung   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+     J.B. (1973) Some physical parameters of micrometeoids.
+    Proc. 4th Lunar Sci. Conf. 3197-3212.                     Schaal R.B., Hörz F., Thompson T.D. and Bauer J.F. (1979a)
+                                                     Shock metamorphism of granulated lunar basalt. Proc. 10th
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo  Lunar Planet. Sci. Conf. 2547-2571.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s

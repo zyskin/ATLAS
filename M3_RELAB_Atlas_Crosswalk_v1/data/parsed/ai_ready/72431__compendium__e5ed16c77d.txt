@@ -1,0 +1,216 @@
+DOCUMENT_ID: 72431__compendium__e5ed16c77d
+ATLAS_SAMPLE_IDS: 72431
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72431.pdf
+SOURCE_PDF_SHA256: 60d3633ebe39b28a1e9d291569d8a8ff97c4b831c7a8e8f67ea9e2fc97b2effe
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 6-28 ---
+25
+                                                                             20                      Apollo soils
+
+
+                                                                             15
+                               FeO
+                                                                             10         72431
+
+                        72430                               5
+
+
+                                                                                 0
+                                                                                   0       5       10      15      20      25      30      35
+                                                           Al2O3
+
+                                                              Figure 2: FeO content of 72431 compared with that
+                                                                        of other Apollo soil samples.
+
+
+
+        Figure 1: Map for station 2, Apollo 17.
+--- chemistry block 2; lines 33-45 ---
+boulder and it was returned in the same bag..  It has
+ exactly the same composition as the regolith from
+ beneath the boulder (74240, 74260).
+
+ Petrography
+                                                    Figure 3: Normalized rare-earth-element
+ Morris (1978) determined the maturity index (Is/FeO                                                diagram for 72431. =63). Meyer (1973) cataloged the coarse-fines.
+
+ Chemistry
+ Korotev and Kremser (1992) determined the chemical
+ composition by neutron activation analysis (table).
+--- material block 3; lines 1-8 ---
+72431
+                                          Soil
+                                           79.5 grams
+
+
+
+                                                                             25
+                                                                             20                      Apollo soils
+--- material block 4; lines 17-40 ---
+0
+                                                                                   0       5       10      15      20      25      30      35
+                                                           Al2O3
+
+                                                              Figure 2: FeO content of 72431 compared with that
+                                                                        of other Apollo soil samples.
+
+
+
+        Figure 1: Map for station 2, Apollo 17.
+
+
+ Introduction
+ 72430 is the soil scooped up when 72435 was picked
+ up from the regolith after it was chipped from the
+ boulder and it was returned in the same bag..  It has
+ exactly the same composition as the regolith from
+ beneath the boulder (74240, 74260).
+
+ Petrography
+                                                    Figure 3: Normalized rare-earth-element
+ Morris (1978) determined the maturity index (Is/FeO                                                diagram for 72431. =63). Meyer (1973) cataloged the coarse-fines.
+--- material block 5; lines 46-58 ---
+same bag
+                                                C Meyer        72430                                     72435
+                                                                 2010            79.4 grams                                 160 grams
+                                                                                                                                         blue-grey breccia                                                                  residue        < 1 mm
+
+                                     72430    72431               72432  72433  72434
+                                           1.45 g    72 g                    3.6 g    2.3 g    1.5 g
+
+                                                                                                                         4 - 10 mm
+--- treatment block 6; lines 33-45 ---
+boulder and it was returned in the same bag..  It has
+ exactly the same composition as the regolith from
+ beneath the boulder (74240, 74260).
+
+ Petrography
+                                                    Figure 3: Normalized rare-earth-element
+ Morris (1978) determined the maturity index (Is/FeO                                                diagram for 72431. =63). Meyer (1973) cataloged the coarse-fines.
+
+ Chemistry
+ Korotev and Kremser (1992) determined the chemical
+ composition by neutron activation analysis (table).
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 72431.
+
+
+   reference  Korotev92
+   weight                                            References for 72431
+  SiO2 %                                                     Butler P. (1973) Lunar Sample Information Catalog
+  TiO2
+  Al2O3                                                Apollo 17. Lunar Receiving Laboratory. MSC 03211
+  FeO       8.92    8.55     (a)                               Curator’s Catalog. pp. 447.
+  MnO
+  MgO                                                Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+  CaO
+  Na2O     0.464   0.464   (a)
+  K2O                                                Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+  P2O5                                               Space Phys. 13, 567-587.
+  S %
+  sum
+                                                       Korotev R.L. and Kremser D. (1992) Compositional
+  Sc ppm    19.6    18.6     (a)                                 variations in Apollo 17 soils and their relationships to the
+  V                                                    geology of the Taurus-Littrow site. Proc. 22nd Lunar
+--- chemistry block 2; lines 44-56 ---
+Te ppb                                                 Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Cs ppm                                           Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Ba       209    196      (a)                                 Office, Houston
+  La        17.3    18.2     (a)
+  Ce       46      47.9     (a)
+  Pr                                                     Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Nd       30     30       (a)                                    soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Sm        8.4     8.65     (a)                           Lunar Sci. Conf. 2287-2297.
+  Eu        1.36    1.35     (a)
+  Gd
+  Tb        1.62    1.68     (a)                             Morris R.V. (1980) Origins and size distribution of
+  Dy                                                           metallic iron particles in the lunar regolith. Proc. 11th
+  Ho                                                Lunar Planet. Sci. Conf. 1697-1712.
+--- mineralogy block 3; lines 54-66 ---
+Tb        1.62    1.68     (a)                             Morris R.V. (1980) Origins and size distribution of
+  Dy                                                           metallic iron particles in the lunar regolith. Proc. 11th
+  Ho                                                Lunar Planet. Sci. Conf. 1697-1712.
+  Er
+  Tm
+  Yb        6.26    6.5      (a)                             Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Lu        0.857   0.894   (a)                                regolith: Chemistry, Mineralogy and Petrology.  Rev.
+  Hf         6.75    6.69     (a)                            Geophys. Space Phys. 20, 761-826.
+  Ta         0.83    0.82     (a)
+ W ppb
+  Re ppb                                              Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+  Os ppb                                                    Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    Ir ppb      8.3     6.7      (a)                              geologic investigation of the Taurus-Littrow Valley: Apollo
+--- material block 4; lines 33-45 ---
+Zr        270    240      (a)                         Meyer C. (1973) Apollo 17 Coarse Fines (4-10 mm)
+  Nb                                               Sample Location, Classification and Photo Index. Curator
+  Mo                                                       Report. pp. 182.
+  Ru
+  Rh
+  Pd ppb                                                    Mitchell J.K., Carrier W.D., Costes N.C., Houston W.N.,
+  Ag ppb                                                      Scott R.F. and Hovland H.J. (1973) 8. Soil-Mechanics.
+  Cd ppb                                                     In Apollo 17 Preliminary Science Rpt. NASA SP-330.
+   In ppb                                                 pages 8-1-22.
+  Sn ppb
+  Sb ppb
+  Te ppb                                                 Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Cs ppm                                           Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+--- material block 5; lines 49-66 ---
+Pr                                                     Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Nd       30     30       (a)                                    soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Sm        8.4     8.65     (a)                           Lunar Sci. Conf. 2287-2297.
+  Eu        1.36    1.35     (a)
+  Gd
+  Tb        1.62    1.68     (a)                             Morris R.V. (1980) Origins and size distribution of
+  Dy                                                           metallic iron particles in the lunar regolith. Proc. 11th
+  Ho                                                Lunar Planet. Sci. Conf. 1697-1712.
+  Er
+  Tm
+  Yb        6.26    6.5      (a)                             Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Lu        0.857   0.894   (a)                                regolith: Chemistry, Mineralogy and Petrology.  Rev.
+  Hf         6.75    6.69     (a)                            Geophys. Space Phys. 20, 761-826.
+  Ta         0.83    0.82     (a)
+ W ppb
+  Re ppb                                              Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+  Os ppb                                                    Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    Ir ppb      8.3     6.7      (a)                              geologic investigation of the Taurus-Littrow Valley: Apollo
+--- treatment block 6; lines 43-55 ---
+Sb ppb
+  Te ppb                                                 Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Cs ppm                                           Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Ba       209    196      (a)                                 Office, Houston
+  La        17.3    18.2     (a)
+  Ce       46      47.9     (a)
+  Pr                                                     Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Nd       30     30       (a)                                    soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Sm        8.4     8.65     (a)                           Lunar Sci. Conf. 2287-2297.
+  Eu        1.36    1.35     (a)
+  Gd
+  Tb        1.62    1.68     (a)                             Morris R.V. (1980) Origins and size distribution of
+  Dy                                                           metallic iron particles in the lunar regolith. Proc. 11th
+--- references block 7; lines 1-11 ---
+Table 1. Chemical composition of 72431.
+
+
+   reference  Korotev92
+   weight                                            References for 72431
+  SiO2 %                                                     Butler P. (1973) Lunar Sample Information Catalog
+  TiO2
+  Al2O3                                                Apollo 17. Lunar Receiving Laboratory. MSC 03211
+  FeO       8.92    8.55     (a)                               Curator’s Catalog. pp. 447.
+  MnO
+  MgO                                                Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+--- references block 8; lines 65-74 ---
+Os ppb                                                    Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    Ir ppb      8.3     6.7      (a)                              geologic investigation of the Taurus-Littrow Valley: Apollo
+   Pt ppb
+  Au ppb    2.9     4.6      (a)                          17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+  Th ppm    2.9     3.3      (a)                              280.
+  U ppm     0.75    0.78     (a)
+   technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2010

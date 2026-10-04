@@ -1,0 +1,248 @@
+DOCUMENT_ID: 65016__compendium__661bc7090b
+ATLAS_SAMPLE_IDS: 65016
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65016.pdf
+SOURCE_PDF_SHA256: 8ce61064ca8d5374e0c97617616a50af9546dbc7fd15580fdec906440339b8ec
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-36 ---
+65016
+                                Large Glass Object
+                                        21 grams
+
+
+
+
+
+                  Figure 1: Photo of large hollow glass object, 65016. Cube is 1 cm. NASA S72-39399.
+
+
+   Introduction
+                                                            fresh glasses probably represent impact melt produced   65016 is a hollow, broken sphere or glass bubble (figure
+                                                by South Ray Crater.    1).  It is about 3 – 4 cm in size. The glass surface is
+   smooth and without zap pits. The glass has a green
+    color.                                    Other Studies
+                                            Uhlmann et al. (1974, 1977, 1978) and Klein and
+   Petrography                               Uhlmann (1976) did experiments and calculations on
+                                                            glass from 65016 and synthetic analog to calculate the   Schaal et al. (1979) and Ryder and Norman (1980)
+                                                        cooling rate required to avoid recrystallization (2 x 103   provide brief descriptions. Glass object 65016 is all
+                                                  deg C/min). They determined the liquidus temperature   glass except where some microlites are growing
+                                                          as 1360 deg C.   adjacent to nucleation centers around included feldspar
+   (figure 2).   It has a smooth outer surface lacking
+   micrometeorite pits.
+
+   Chemistry
+   Ganapathy et al. (1974), Morris et al. (1986) and See
+    et al. (1986) determined the composition (table 1)
+   which is rather like local soil (figure 3). Hertogen et
+    al. (1977) assign 65016, 60095 and the glass coat of
+   64455 to meteorite group 5H and conclude that these
+
+
+
+
+Lunar Sample Compendium
+--- material block 2; lines 7-19 ---
+Figure 1: Photo of large hollow glass object, 65016. Cube is 1 cm. NASA S72-39399.
+
+
+   Introduction
+                                                            fresh glasses probably represent impact melt produced   65016 is a hollow, broken sphere or glass bubble (figure
+                                                by South Ray Crater.    1).  It is about 3 – 4 cm in size. The glass surface is
+   smooth and without zap pits. The glass has a green
+    color.                                    Other Studies
+                                            Uhlmann et al. (1974, 1977, 1978) and Klein and
+   Petrography                               Uhlmann (1976) did experiments and calculations on
+                                                            glass from 65016 and synthetic analog to calculate the   Schaal et al. (1979) and Ryder and Norman (1980)
+--- material block 3; lines 23-35 ---
+(figure 2).   It has a smooth outer surface lacking
+   micrometeorite pits.
+
+   Chemistry
+   Ganapathy et al. (1974), Morris et al. (1986) and See
+    et al. (1986) determined the composition (table 1)
+   which is rather like local soil (figure 3). Hertogen et
+    al. (1977) assign 65016, 60095 and the glass coat of
+   64455 to meteorite group 5H and conclude that these
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 20-55 ---
+0.1
+                                                                                     La      Pr    Sm    Gd    Dy      Er     Yb                                                                             Ce    Nd     Eu     Tb    Ho    Tm     Lu
+
+                                                                  Figure 3: Normalized rare-earth-element pattern
+                                                                            for 65016 glass object (Morris et al. 1986) and for
+                                                                                  soil 64501 (Papike et al. 1982).
+
+
+
+
+
+                                                    References for 65016
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                               Catalog. pp. 370.
+
+        Figure 2: Thin section photo of glass at boundary                                                       Ganapathy R., Morgan J.W., Higuchi H., Anders E. and
+         with anorthosite inclusion showing devitrification of                                                      Anderson A.T. (1974) Meteoritic and volatile elements in
+          glass. Field of view 2 mm. (from Ryder and Norman                                                         Apollo 16 rocks and in separated phases from 14306. Proc.
+        1980)                                                                                    5th Lunar Sci. Conf. 1659-1683.
+
+                                                         Hertogen J., Janssens M.-J., Takahashi H., Palme H. and
+                                                       Anders E. (1977) Lunar basins and craters: Evidence for
+                                                                 systematic compositional changes of bombarding population.
+                                                             Proc. 8th Lunar Sci. Conf. 17-45.
+
+                                                            Klein L.C. and Uhlmann D.R. (1976) The kinetics of lunar
+                                                                  glass formation, revisited. Proc. 7th Lunar Sci. Conf. 1113-
+                                                           1121.
+
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.
+--- material block 2; lines 21-33 ---
+0.1
+                                                                                     La      Pr    Sm    Gd    Dy      Er     Yb                                                                             Ce    Nd     Eu     Tb    Ho    Tm     Lu
+
+                                                                  Figure 3: Normalized rare-earth-element pattern
+                                                                            for 65016 glass object (Morris et al. 1986) and for
+                                                                                  soil 64501 (Papike et al. 1982).
+
+
+
+
+
+                                                    References for 65016
+--- treatment block 3; lines 34-46 ---
+Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                               Catalog. pp. 370.
+
+        Figure 2: Thin section photo of glass at boundary                                                       Ganapathy R., Morgan J.W., Higuchi H., Anders E. and
+         with anorthosite inclusion showing devitrification of                                                      Anderson A.T. (1974) Meteoritic and volatile elements in
+          glass. Field of view 2 mm. (from Ryder and Norman                                                         Apollo 16 rocks and in separated phases from 14306. Proc.
+        1980)                                                                                    5th Lunar Sci. Conf. 1659-1683.
+
+                                                         Hertogen J., Janssens M.-J., Takahashi H., Palme H. and
+                                                       Anders E. (1977) Lunar basins and craters: Evidence for
+                                                                 systematic compositional changes of bombarding population.
+                                                             Proc. 8th Lunar Sci. Conf. 17-45.
+--- references block 4; lines 27-39 ---
+soil 64501 (Papike et al. 1982).
+
+
+
+
+
+                                                    References for 65016
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                               Catalog. pp. 370.
+
+        Figure 2: Thin section photo of glass at boundary                                                       Ganapathy R., Morgan J.W., Higuchi H., Anders E. and
+         with anorthosite inclusion showing devitrification of                                                      Anderson A.T. (1974) Meteoritic and volatile elements in
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 65016.
+                                                          Morris R.V., See T.H. and Horz F. (1986) Composition of
+                                                                the Cayley Formation at Apollo 16 as inferred from impact
+    reference  Uhlmann 77  Ganapathy74  Morris86
+    weight                           See 86                melt splashes.  Proc. 17th Lunar Planet. Sci. Conf. in  J.
+   SiO2 %    44.2                        44.7       (d)          Geophys. Res. 90, E21-E42.
+    TiO2      0.6                         0.48       (d)
+   Al2O3     26.5                       26.56     (d)          Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   FeO       5.5                         5.06       (d)
+   MnO                                                     rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   MgO      7.3                         7.15       (d)
+   CaO      15.3                       15.35     (d)           Schaal R.B., Fryer K.H. and Hörz F. (1979c) Petrography
+   Na2O     0.4                         0.26       (d)          and composition of large lunar glass objects.  In Paper
+   K2O       0.1                         0.08       (d)
+   P2O5                                                    Presented to the Conf. on Lunar Highlands Crust. 135-137.
+   S %                                                     LPI, Houst.
+   sum
+                                                       See T.H., Horz F. and Morris R.V. (1986) Apollo 16 impact-
+   Sc ppm                                6.77       (c )
+   V                                                       melt splashes: Petrography and major-element composition.
+--- mineralogy block 2; lines 7-19 ---
+TiO2      0.6                         0.48       (d)
+   Al2O3     26.5                       26.56     (d)          Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   FeO       5.5                         5.06       (d)
+   MnO                                                     rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   MgO      7.3                         7.15       (d)
+   CaO      15.3                       15.35     (d)           Schaal R.B., Fryer K.H. and Hörz F. (1979c) Petrography
+   Na2O     0.4                         0.26       (d)          and composition of large lunar glass objects.  In Paper
+   K2O       0.1                         0.08       (d)
+   P2O5                                                    Presented to the Conf. on Lunar Highlands Crust. 135-137.
+   S %                                                     LPI, Houst.
+   sum
+                                                       See T.H., Horz F. and Morris R.V. (1986) Apollo 16 impact-
+   Sc ppm                                6.77       (c )
+--- mineralogy block 3; lines 41-58 ---
+In ppb                                          Uhlmann D.R., Handwerker C.A., Onorato P.I.K., Salomaa
+   Sn ppb                                                R. and Goncz D. (1978) The formation kinetics of lunar
+   Sb ppb                  1.66        (b)                          glasses. Proc. 9th Lunar Planet. Sci. Conf. 1527-1536.
+    Te ppb                  12.8        (b)
+   Cs ppm                0.062       (b)
+   Ba                                146       (c )         Uhlmann D.R., Onorato P.I.K. and Scherer G.W. (1979) A
+   La                                    15.6       (c )           simplified model for glass formation.  Proc. 10th  Lunar
+   Ce                                    48.9       (c )           Planet. Sci. Conf. 375-381.
+    Pr
+   Nd
+   Sm                                    7.16       (c )         Uhlmann D.R., Yinnon H. and Fang C.-Y. (1981) Simplified
+   Eu                                    1.21       (c )         model evaluation of cooling rates for glass-containing lunar
+   Gd                                                       compositions. Proc. 12th Lunar Planet. Sci. Conf. 281-288.
+   Tb                                    1.32       (c )
+   Dy
+   Ho
+    Er
+   Tm
+--- material block 4; lines 31-43 ---
+Sr                                                      (1974) The formation of lunar glasses. Proc. 5th Lunar Sci.
+   Y                                                       Conf. 2317-2331.
+    Zr
+   Nb
+   Mo                                            Uhlmann D.R., Klein L.C. and Handwerker C.A. (1977)
+   Ru                                                            Crystallization kinetics, viscosity flow, and thermal history
+   Rh                                                         of lunar breccia 67975. Proc. 8th Lunar Sci. Conf. 2067-
+   Pd ppb                                                 2078.
+   Ag ppb                  0.59        (b)
+   Cd ppb                  1.5          (b)
+     In ppb                                          Uhlmann D.R., Handwerker C.A., Onorato P.I.K., Salomaa
+   Sn ppb                                                R. and Goncz D. (1978) The formation kinetics of lunar
+   Sb ppb                  1.66        (b)                          glasses. Proc. 9th Lunar Planet. Sci. Conf. 1527-1536.
+--- age block 5; lines 30-42 ---
+Rb                     1.44        (b)                   Uhlmann D.R., Klein L., Kritchevsky G. and Hopper R.W.
+    Sr                                                      (1974) The formation of lunar glasses. Proc. 5th Lunar Sci.
+   Y                                                       Conf. 2317-2331.
+    Zr
+   Nb
+   Mo                                            Uhlmann D.R., Klein L.C. and Handwerker C.A. (1977)
+   Ru                                                            Crystallization kinetics, viscosity flow, and thermal history
+   Rh                                                         of lunar breccia 67975. Proc. 8th Lunar Sci. Conf. 2067-
+   Pd ppb                                                 2078.
+   Ag ppb                  0.59        (b)
+   Cd ppb                  1.5          (b)
+     In ppb                                          Uhlmann D.R., Handwerker C.A., Onorato P.I.K., Salomaa
+   Sn ppb                                                R. and Goncz D. (1978) The formation kinetics of lunar
+--- references block 6; lines 1-10 ---
+Table 1. Chemical composition of 65016.
+                                                          Morris R.V., See T.H. and Horz F. (1986) Composition of
+                                                                the Cayley Formation at Apollo 16 as inferred from impact
+    reference  Uhlmann 77  Ganapathy74  Morris86
+    weight                           See 86                melt splashes.  Proc. 17th Lunar Planet. Sci. Conf. in  J.
+   SiO2 %    44.2                        44.7       (d)          Geophys. Res. 90, E21-E42.
+    TiO2      0.6                         0.48       (d)
+   Al2O3     26.5                       26.56     (d)          Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   FeO       5.5                         5.06       (d)
+   MnO                                                     rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+--- references block 7; lines 65-74 ---
+Os ppb
+      Ir ppb                   26.3        (b)
+    Pt ppb
+   Au ppb                  7.19        (b)
+   Th ppm                                 2.9        (c )
+   U ppm                  0.65        (b) 0.54       (c )
+    technique:  (a) emp, (b) RNAA, (c ) INAA
+
+Lunar Sample Compendium
+C Meyer 2012

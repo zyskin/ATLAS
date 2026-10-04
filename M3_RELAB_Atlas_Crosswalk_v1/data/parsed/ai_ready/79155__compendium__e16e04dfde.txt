@@ -1,0 +1,568 @@
+DOCUMENT_ID: 79155__compendium__e16e04dfde
+ATLAS_SAMPLE_IDS: 79155
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/79155.pdf
+SOURCE_PDF_SHA256: b000a0b59ddd9e6e5cfa3814b2e0d529fa0592f0d43fe366f6b5332ced1d6839
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 31-51 ---
+79155,10. NASA S86-38336. Scale in mm along
+                                A11
+             10                                                      bottom.
+
+
+               8
+   TiO2                                              only small micrometeorites hit the sample and it was
+               6
+                                                         not turned over on the regolith. As such, it should be
+
+               4                                              A12                   considered an “oriented sample”.
+               2                        A15
+                                                 79155 is ~3.8 b.y. old, with an exposure age to cosmic
+               0
+                0                5               10               15               20   rays of ~ 575 m.y.
+                MgO
+       Figure 4: Chemical composition of Apollo basalts
+        with 79155.
+
+Lunar Sample Compendium
+C Meyer 2008
+--- mineralogy block 2; lines 8-28 ---
+Figure 2: Photo of bottom of 79155. NASA
+        Figure 1: Photo of top of 79155. NASA S73-15323.         S73-15320.
+       Sample is about 7 cm across.
+
+   Introduction
+   Lunar sample 79155 was probably a glass-covered
+   “bomb” thrown out by a small impact.  It sat on the
+   lunar surface and the glass on the exposed side was
+   apparently  eroded  away  by  micrometeorite
+   bombardment. The main portion the the sample is a
+   mildly-shocked coarse basalt, or “gabbro” with large
+   grain size (2 mm). One side is smooth and rounded
+   and densely covered with micrometeorite craters (figure
+   1) while the other side (figure 2) has a thick dark glass
+   coating lacking in micrometeorite craters. Apparently
+
+
+
+                   Lunar Basalts
+             14
+--- material block 3; lines 1-8 ---
+79155
+                               Shocked Basalt
+                                           318.8 grams
+--- material block 4; lines 13-26 ---
+Introduction
+   Lunar sample 79155 was probably a glass-covered
+   “bomb” thrown out by a small impact.  It sat on the
+   lunar surface and the glass on the exposed side was
+   apparently  eroded  away  by  micrometeorite
+   bombardment. The main portion the the sample is a
+   mildly-shocked coarse basalt, or “gabbro” with large
+   grain size (2 mm). One side is smooth and rounded
+   and densely covered with micrometeorite craters (figure
+   1) while the other side (figure 2) has a thick dark glass
+   coating lacking in micrometeorite craters. Apparently
+--- material block 5; lines 33-45 ---
+10                                                      bottom.
+
+
+               8
+   TiO2                                              only small micrometeorites hit the sample and it was
+               6
+                                                         not turned over on the regolith. As such, it should be
+
+               4                                              A12                   considered an “oriented sample”.
+               2                        A15
+                                                 79155 is ~3.8 b.y. old, with an exposure age to cosmic
+               0
+                0                5               10               15               20   rays of ~ 575 m.y.
+--- age block 6; lines 37-49 ---
+TiO2                                              only small micrometeorites hit the sample and it was
+               6
+                                                         not turned over on the regolith. As such, it should be
+
+               4                                              A12                   considered an “oriented sample”.
+               2                        A15
+                                                 79155 is ~3.8 b.y. old, with an exposure age to cosmic
+               0
+                0                5               10               15               20   rays of ~ 575 m.y.
+                MgO
+       Figure 4: Chemical composition of Apollo basalts
+        with 79155.
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 9-58 ---
+En                                          Fs
+
+                                                  Fo                                        Fa
+
+                                                                                                     compiled by C Meyer
+         Figure 5: Photo of thin section 79155,68 (from data         Figure 6: Composition of pyroxene in 79155.
+         pack). Section about 1 cm square.
+
+
+   Petrography                                                         Plagioclase: Some plagioclase has been shocked to
+   Neal and Taylor (1993) give a brief rock description.                                                         maskelynite.
+   They find the average grain size is about 2.5 mm, that
+    the ilmenite contains spinel and rutile exsolution. Both                                                         Glass: Glass “pods” and “stringers” have been reported
+    pyroxene and plagioclase have undulose extinction and                                                          as probable shock features (tabe 2). Mao et al. (1974)
+    there are “stringers” of glass throughout the thin                                                           studied the color (spectra) and composition of the glass
+    sections indicating shock, but in general they find that                                                            coating.
+   79155 was a “typical Apollo 17 basalt”.
+                                             Chemistry
+   The shock features of 79155 were studied by Schaal                                                        Eldridge et al. (1974), Rhodes et al. (1976), Rose et al.
+   and Horz (1977) who conclude a maximum shock                                                          (1975), Wanke et al. (1974) and Shih et al. (1975) have
+    pressure of 300 – 450 kbars. The relict igneous texture                                                      analyzed 79155 and find that it is a normal high-Ti
+    of 79155 is well preserved, but some plagioclase is                                                    Apollo 17 basalt (figure 4, 7 and 8).
+    converted to maskelynite.  Shock glass is present.
+   Roedder and Weiblen (1977) also studied glass veins                                                  Gibson et al. (1976) reported 2025 ppm sulfur. Nunes
+    in 79155.                                                                   et al. (1974) repoerted U, Th and Pb for 79155, but
+                                                         values seem high. Jovanovic and Reed (1978) have
+   Mineralogy                                                          reported P and halogens.
+   Pyroxene: Some pyroxene grains have undulatory
+    extinction, indicating shock. They are apparently grey                                               Radiogenic age dating
+    in color, while in most basalts they are honey-brown                                                          Kirsten and Horn (1974) determined the crystallization
+    (figure 3).  Both subcalcic augite and pigeonite are                                                    age of 79155 of 3.80 ± 0.04 b.y. by the Ar plateau
+    present, but without the normal zoning to Fe-rich                                                  technique (figure 9).  However,  it should be
+    (figure 6). This was apparently a slowly cooled basalt.                                                 remembered that this sample shows evidence of shock.
+
+
+
+
+                    Mineralogical Mode of 79155
+                                          Roedder and     Brown et         Schaal and
+                                          Weiblen 1975       al. 1975         Horz 1977
+                            Olivine            0.8                0.9                        tr.
+                          Pyroxene         57.2              41.5            52
+                             Plagioclase        16.8              21.6            19
+                          Oxides           20.8              28.7            24
+                          Metal             0.2                                                     tr.
+                                Silica                    tr.                      -
+                           Mesotasis         1.2                7.3
+
+Lunar Sample Compendium
+--- material block 2; lines 14-48 ---
+compiled by C Meyer
+         Figure 5: Photo of thin section 79155,68 (from data         Figure 6: Composition of pyroxene in 79155.
+         pack). Section about 1 cm square.
+
+
+   Petrography                                                         Plagioclase: Some plagioclase has been shocked to
+   Neal and Taylor (1993) give a brief rock description.                                                         maskelynite.
+   They find the average grain size is about 2.5 mm, that
+    the ilmenite contains spinel and rutile exsolution. Both                                                         Glass: Glass “pods” and “stringers” have been reported
+    pyroxene and plagioclase have undulose extinction and                                                          as probable shock features (tabe 2). Mao et al. (1974)
+    there are “stringers” of glass throughout the thin                                                           studied the color (spectra) and composition of the glass
+    sections indicating shock, but in general they find that                                                            coating.
+   79155 was a “typical Apollo 17 basalt”.
+                                             Chemistry
+   The shock features of 79155 were studied by Schaal                                                        Eldridge et al. (1974), Rhodes et al. (1976), Rose et al.
+   and Horz (1977) who conclude a maximum shock                                                          (1975), Wanke et al. (1974) and Shih et al. (1975) have
+    pressure of 300 – 450 kbars. The relict igneous texture                                                      analyzed 79155 and find that it is a normal high-Ti
+    of 79155 is well preserved, but some plagioclase is                                                    Apollo 17 basalt (figure 4, 7 and 8).
+    converted to maskelynite.  Shock glass is present.
+   Roedder and Weiblen (1977) also studied glass veins                                                  Gibson et al. (1976) reported 2025 ppm sulfur. Nunes
+    in 79155.                                                                   et al. (1974) repoerted U, Th and Pb for 79155, but
+                                                         values seem high. Jovanovic and Reed (1978) have
+   Mineralogy                                                          reported P and halogens.
+   Pyroxene: Some pyroxene grains have undulatory
+    extinction, indicating shock. They are apparently grey                                               Radiogenic age dating
+    in color, while in most basalts they are honey-brown                                                          Kirsten and Horn (1974) determined the crystallization
+    (figure 3).  Both subcalcic augite and pigeonite are                                                    age of 79155 of 3.80 ± 0.04 b.y. by the Ar plateau
+    present, but without the normal zoning to Fe-rich                                                  technique (figure 9).  However,  it should be
+    (figure 6). This was apparently a slowly cooled basalt.                                                 remembered that this sample shows evidence of shock.
+
+
+
+
+                    Mineralogical Mode of 79155
+                                          Roedder and     Brown et         Schaal and
+--- age block 3; lines 32-46 ---
+converted to maskelynite.  Shock glass is present.
+   Roedder and Weiblen (1977) also studied glass veins                                                  Gibson et al. (1976) reported 2025 ppm sulfur. Nunes
+    in 79155.                                                                   et al. (1974) repoerted U, Th and Pb for 79155, but
+                                                         values seem high. Jovanovic and Reed (1978) have
+   Mineralogy                                                          reported P and halogens.
+   Pyroxene: Some pyroxene grains have undulatory
+    extinction, indicating shock. They are apparently grey                                               Radiogenic age dating
+    in color, while in most basalts they are honey-brown                                                          Kirsten and Horn (1974) determined the crystallization
+    (figure 3).  Both subcalcic augite and pigeonite are                                                    age of 79155 of 3.80 ± 0.04 b.y. by the Ar plateau
+    present, but without the normal zoning to Fe-rich                                                  technique (figure 9).  However,  it should be
+    (figure 6). This was apparently a slowly cooled basalt.                                                 remembered that this sample shows evidence of shock.
+--- references block 4; lines 35-47 ---
+values seem high. Jovanovic and Reed (1978) have
+   Mineralogy                                                          reported P and halogens.
+   Pyroxene: Some pyroxene grains have undulatory
+    extinction, indicating shock. They are apparently grey                                               Radiogenic age dating
+    in color, while in most basalts they are honey-brown                                                          Kirsten and Horn (1974) determined the crystallization
+    (figure 3).  Both subcalcic augite and pigeonite are                                                    age of 79155 of 3.80 ± 0.04 b.y. by the Ar plateau
+    present, but without the normal zoning to Fe-rich                                                  technique (figure 9).  However,  it should be
+    (figure 6). This was apparently a slowly cooled basalt.                                                 remembered that this sample shows evidence of shock.
+
+
+
+
+                    Mineralogical Mode of 79155
+
+=== PDF PAGE 3; CATEGORIES: age,material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 58-75 ---
+Kirsten and Horn 1974      3.80 ± 0.04 b.y.                        Figure 10: Size distribution of zap pits on lunar
+    Caution: Based on old decay constants.                          samples including 79155 (data by Fechtig et al.
+                                                                   1974).
+   Cosmogenic isotopes and exposure ages
+   Kirsten and Horn (1974) reported an exposure age of
+   575 ± 60 m.y by the 38Ar method for 79155.           Klein et al. (1975) and Uhlmann et al. (1979) studied
+                                                        cooling rate for glass in 79155.
+   O’Kelley et al. (1974) studied the effect of the intense
+   August 1972 solar flare. They found the cosmic-ray  Processing
+   inducted activity of 22Na = 63 dpm/kg., 26Al = 70 dpm/                                 A slab was cut from 79155 (figure 12) and twelve thin
+    kg., 46Sc = 65 dpm/kg., 54Mn = 129 dpm/kg. and 56Co =                                                           sections prepared. The large end piece with attached
+   153 dpm/kg.                                                            glass coating makes a nice display (figure 11).
+
+   Other Studies
+   Cisowski et al. (1977, 1983) studied the magnetic
+    properties of 79155.
+
+   Fechtig et al. (1974) reported the size distribution of
+--- material block 2; lines 16-28 ---
+50
+                                        group C
+
+             0                                                      Figure 9: Ar/Ar plateau diagram for two Apollo 17
+               5             7             9             11            13            15        basalts (Kirsten and Horn 1974).
+                            Sm ppm
+          Figure 7: Basalt sample 79155 may be A or B !?
+
+
+          1000
+
+                                              79155
+--- age block 3; lines 50-72 ---
+Figure 8: Normalized rare-earth-element diagram
+           for 79155 (data by Shih et al. and Wanke et al.).
+
+
+
+  Summary of Age Data for 79155
+                             Ar/Ar
+    Kirsten and Horn 1974      3.80 ± 0.04 b.y.                        Figure 10: Size distribution of zap pits on lunar
+    Caution: Based on old decay constants.                          samples including 79155 (data by Fechtig et al.
+                                                                   1974).
+   Cosmogenic isotopes and exposure ages
+   Kirsten and Horn (1974) reported an exposure age of
+   575 ± 60 m.y by the 38Ar method for 79155.           Klein et al. (1975) and Uhlmann et al. (1979) studied
+                                                        cooling rate for glass in 79155.
+   O’Kelley et al. (1974) studied the effect of the intense
+   August 1972 solar flare. They found the cosmic-ray  Processing
+   inducted activity of 22Na = 63 dpm/kg., 26Al = 70 dpm/                                 A slab was cut from 79155 (figure 12) and twelve thin
+    kg., 46Sc = 65 dpm/kg., 54Mn = 129 dpm/kg. and 56Co =                                                           sections prepared. The large end piece with attached
+   153 dpm/kg.                                                            glass coating makes a nice display (figure 11).
+
+   Other Studies
+   Cisowski et al. (1977, 1983) studied the magnetic
+--- treatment block 4; lines 66-78 ---
+August 1972 solar flare. They found the cosmic-ray  Processing
+   inducted activity of 22Na = 63 dpm/kg., 26Al = 70 dpm/                                 A slab was cut from 79155 (figure 12) and twelve thin
+    kg., 46Sc = 65 dpm/kg., 54Mn = 129 dpm/kg. and 56Co =                                                           sections prepared. The large end piece with attached
+   153 dpm/kg.                                                            glass coating makes a nice display (figure 11).
+
+   Other Studies
+   Cisowski et al. (1977, 1983) studied the magnetic
+    properties of 79155.
+
+   Fechtig et al. (1974) reported the size distribution of
+   micrometeorite craters on 79155 (figure 10).
+--- references block 5; lines 57-69 ---
+Ar/Ar
+    Kirsten and Horn 1974      3.80 ± 0.04 b.y.                        Figure 10: Size distribution of zap pits on lunar
+    Caution: Based on old decay constants.                          samples including 79155 (data by Fechtig et al.
+                                                                   1974).
+   Cosmogenic isotopes and exposure ages
+   Kirsten and Horn (1974) reported an exposure age of
+   575 ± 60 m.y by the 38Ar method for 79155.           Klein et al. (1975) and Uhlmann et al. (1979) studied
+                                                        cooling rate for glass in 79155.
+   O’Kelley et al. (1974) studied the effect of the intense
+   August 1972 solar flare. They found the cosmic-ray  Processing
+   inducted activity of 22Na = 63 dpm/kg., 26Al = 70 dpm/                                 A slab was cut from 79155 (figure 12) and twelve thin
+    kg., 46Sc = 65 dpm/kg., 54Mn = 129 dpm/kg. and 56Co =                                                           sections prepared. The large end piece with attached
+   153 dpm/kg.                                                            glass coating makes a nice display (figure 11).
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 79155.
+
+
+     reference  Rhodes 76 Rose 75   Wanke75   Shih75      Eldridge74  Baedecker74  Boynton75
+     weight                                  Wiesmann75
+    SiO2 %    37.5       39.13   (b)  40.9     (c ) Nyquist75
+    TiO2       12.99      12.56   (b)  11.8      (c )                                       12.38   (a)
+    Al2O3     8.58        9.4      (b)  9.2       (c )                                        8.13     (a)
+   FeO       19.04      18.19   (b) 19       (c )                                        19.1     (a)
+   MnO       0.28        0.27    (b)  0.26     (c )                                        0.26     (a)
+   MgO       9.14        9.58    (b)  9.28     (c )
+   CaO       10.29      10.19   (b)  10.6     (c )                                       10.78   (a)
+   Na2O      0.38        0.36    (b)  0.35     (c )                                       0.385   (a)
+   K2O       0.055   (a) 0.08    (b)  0.053    (c ) 0.055    (a) 0.053    (e)
+   P2O5      0.05        0.04    (b)  0.055    (c )
+   S %       0.17                   0.14     (c )
+    sum
+
+    Sc ppm              78      (b)  87.4     (c ) 82.5     (d)                         80       (a)
+   V                   62      (b)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 79155.
+
+
+     reference  Rhodes 76 Rose 75   Wanke75   Shih75      Eldridge74  Baedecker74  Boynton75
+     weight                                  Wiesmann75
+    SiO2 %    37.5       39.13   (b)  40.9     (c ) Nyquist75
+    TiO2       12.99      12.56   (b)  11.8      (c )                                       12.38   (a)
+    Al2O3     8.58        9.4      (b)  9.2       (c )                                        8.13     (a)
+   FeO       19.04      18.19   (b) 19       (c )                                        19.1     (a)
+   MnO       0.28        0.27    (b)  0.26     (c )                                        0.26     (a)
+--- references block 3; lines 65-75 ---
+Os ppb
+       Ir ppb                                                                  0.07           (f) 0.13      (f)
+     Pt ppb
+    Au ppb                           0.097    (c )                         0.26           (f)
+    Th ppm                                                    0.32      (e)
+   U ppm                            0.109    (c ) 0.092    (a)  0.11      (e)
+     technique:  (a) IDMS, (b) “microchemical”, (c ) combined, (d) INAA, (e) radiation counting, (f) RNAA
+
+
+Lunar Sample Compendium
+C Meyer 2008
+
+=== PDF PAGE 5; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 2. Chemical composition of glass 79155.
+
+
+    reference  Morgan74  Shaal and Horz 1977           Roedder77
+    weight     black      orange   red      yellow        veins?
+   SiO2 %               43.3     37.6     41.2      (b) 43.6      (b)
+    TiO2                  7.26     16.35    9.38      (b) 8.42      (b)
+   Al2O3                 8.93     9.27     11.41     (b) 12.2      (b)
+   FeO                   16.4     20.44    17.05     (b) 18        (b)
+   MnO                  0.25     0.34     0.26      (b) 0.22      (b)
+   MgO                  10.57    7.95     7.92      (b) 7.92      (b)
+   CaO                   11.2     9.18     10.8      (b) 10.6      (b)
+   Na2O                 0.46     0.38     0.54      (b) 0.12      (b)
+   K2O                  0.06     0.06     0.1        (b)
+   P2O5
+   S %
+   sum
+
+   Sc ppm
+   V
+--- mineralogy block 2; lines 1-7 ---
+Table 2. Chemical composition of glass 79155.
+
+
+    reference  Morgan74  Shaal and Horz 1977           Roedder77
+    weight     black      orange   red      yellow        veins?
+   SiO2 %               43.3     37.6     41.2      (b) 43.6      (b)
+    TiO2                  7.26     16.35    9.38      (b) 8.42      (b)
+--- references block 3; lines 1-10 ---
+Table 2. Chemical composition of glass 79155.
+
+
+    reference  Morgan74  Shaal and Horz 1977           Roedder77
+    weight     black      orange   red      yellow        veins?
+   SiO2 %               43.3     37.6     41.2      (b) 43.6      (b)
+    TiO2                  7.26     16.35    9.38      (b) 8.42      (b)
+   Al2O3                 8.93     9.27     11.41     (b) 12.2      (b)
+   FeO                   16.4     20.44    17.05     (b) 18        (b)
+   MnO                  0.25     0.34     0.26      (b) 0.22      (b)
+--- references block 4; lines 65-74 ---
+Os ppb
+      Ir ppb      2.4      (a)
+    Pt ppb
+   Au ppb    0.81     (a)
+   Th ppm
+   U ppm     0.178   (a)
+    technique:  (a) RNAA, (b) electron probe
+
+Lunar Sample Compendium
+C Meyer 2008
+
+=== PDF PAGE 6; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 6-18 ---
+,10      ,37                                                 ,8 slab                                ,7
+          185 g   4.4 g                                             14 g
+
+                display
+                                ,9      ,11 ,12       ,18      ,20     ,21     ,25     ,8
+                             glass   glass        4.6 g   PB    7 g   PB    20 g
+
+                                                                     ,63               ,50
+
+
+                                                                     ,68               ,54
+                                                 TS           TS
+
+=== PDF PAGE 7; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 1-23 ---
+Figure 12: Group photo of 79155 after saw cuts. NASA S73-36700. Cube is 1 cm.
+
+   Referneces for 79155
+   Baedecker P.A., Chou C.-L., Sundberg L.L. and Wasson J.T.   Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1974a)
+   (1974) Volatile and siderophile trace elements in the soils   Primordial radioelement concentrations in rocks and soils
+   and rocks of Taurus-Littrow. Proc. 5th Lunar Sci. Conf. 1625-  from Taurus-Littrow. Proc. 5th Lunar Sci. Conf. 1025-1033.
+   1643.
+                                                             Fechtig H., Hartung J.B., Nagel K., Neukum G. and Storzer
+  Brown G.M., Peckett A., Emeleus C.H., Phillips R. and  D. (1974a) Lunar microcrater studies, derived meteoroid
+   Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   fluxes, and comparison with satellite-borne experiments.
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.            Proc. 5th Lunar Sci. Conf. 2463-2474.
+
+   Boynton W.V., Baedecker P.A., Chou C.-L., Robinson K.L.   Gibson E.K., Usselman T.M. and Morris R.V. (1976a) Sulfur
+   and Wasson J.T. (1975a)  Mixing and transport of lunar   in the Apollo 17 basalts and their source regions. Proc. 7th
+   surface materials: Evidence obtained by the determination  Lunar Sci. Conf. 1491-1505.
+   of lithophile, siderophile, and volatile elements.  Proc. 6th
+   Lunar Sci. Conf. 2241-2259.                              Jovanovic S. and Reed G.W. (1978) Trace element evidence
+                                                                     for a laterally inhomogeneous Moon. Proc. 9th Lunar Planet.
+   Butler P. (1973) Lunar Sample Information Catalog   Sci. Conf. 59-80.
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+   Curator’s Catalog. pp. 447.                                 Kirsten T. and Horn P. (1974a) Chronology of the Taurus-
+                                                               Littrow region III: ages of mare basalts and highland breccias
+   Cisowski S.M., Hale C. and Fuller M. (1977) On the intensity  and some remarks about the interpretation of lunar highland
+--- mineralogy block 2; lines 4-16 ---
+Baedecker P.A., Chou C.-L., Sundberg L.L. and Wasson J.T.   Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1974a)
+   (1974) Volatile and siderophile trace elements in the soils   Primordial radioelement concentrations in rocks and soils
+   and rocks of Taurus-Littrow. Proc. 5th Lunar Sci. Conf. 1625-  from Taurus-Littrow. Proc. 5th Lunar Sci. Conf. 1025-1033.
+   1643.
+                                                             Fechtig H., Hartung J.B., Nagel K., Neukum G. and Storzer
+  Brown G.M., Peckett A., Emeleus C.H., Phillips R. and  D. (1974a) Lunar microcrater studies, derived meteoroid
+   Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   fluxes, and comparison with satellite-borne experiments.
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.            Proc. 5th Lunar Sci. Conf. 2463-2474.
+
+   Boynton W.V., Baedecker P.A., Chou C.-L., Robinson K.L.   Gibson E.K., Usselman T.M. and Morris R.V. (1976a) Sulfur
+   and Wasson J.T. (1975a)  Mixing and transport of lunar   in the Apollo 17 basalts and their source regions. Proc. 7th
+   surface materials: Evidence obtained by the determination  Lunar Sci. Conf. 1491-1505.
+   of lithophile, siderophile, and volatile elements.  Proc. 6th
+--- material block 3; lines 18-30 ---
+for a laterally inhomogeneous Moon. Proc. 9th Lunar Planet.
+   Butler P. (1973) Lunar Sample Information Catalog   Sci. Conf. 59-80.
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+   Curator’s Catalog. pp. 447.                                 Kirsten T. and Horn P. (1974a) Chronology of the Taurus-
+                                                               Littrow region III: ages of mare basalts and highland breccias
+   Cisowski S.M., Hale C. and Fuller M. (1977) On the intensity  and some remarks about the interpretation of lunar highland
+   of ancient lunar fields. Proc. 8th Lunar Sci. Conf. 725-750.   rock ages. Proc. 5th Lunar Sci. Conf. 1451-1475.
+
+   Cisowski S.M., Collinson D.W., Runcom S.K., Stephenson   Klein L., Onorato P.I.K., Uhlmann D.R. and Hopper R.W.
+   A. and Fuller M. (1983) A review of lunar paleointensity   (1975a) Viscous flow, crystallization behaviour, and thermal
+   data and implications for the origin of lunar magnetism. Proc.   histories of lunar breccias 70019 and 79155. Proc. 6th Lunar
+    13th Lunar Planet. Sci. Conf. A691-A704.                    Sci. Conf. 579-593.
+--- age block 4; lines 21-33 ---
+Curator’s Catalog. pp. 447.                                 Kirsten T. and Horn P. (1974a) Chronology of the Taurus-
+                                                               Littrow region III: ages of mare basalts and highland breccias
+   Cisowski S.M., Hale C. and Fuller M. (1977) On the intensity  and some remarks about the interpretation of lunar highland
+   of ancient lunar fields. Proc. 8th Lunar Sci. Conf. 725-750.   rock ages. Proc. 5th Lunar Sci. Conf. 1451-1475.
+
+   Cisowski S.M., Collinson D.W., Runcom S.K., Stephenson   Klein L., Onorato P.I.K., Uhlmann D.R. and Hopper R.W.
+   A. and Fuller M. (1983) A review of lunar paleointensity   (1975a) Viscous flow, crystallization behaviour, and thermal
+   data and implications for the origin of lunar magnetism. Proc.   histories of lunar breccias 70019 and 79155. Proc. 6th Lunar
+    13th Lunar Planet. Sci. Conf. A691-A704.                    Sci. Conf. 579-593.
+
+
+Lunar Sample Compendium
+C Meyer 2008
+
+=== PDF PAGE 8; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 1-13 ---
+LSPET (1973)  Apollo 17 lunar samples: Chemical and  Roedder E. and Weiblen P.W. (1977b) Shock glass veins in
+    petrographic description. Science 182, 659-672.          some lunar and meteoritic samples – Their nature and
+                                                                possible origin. Proc. 8th Lunar Sci. Conf. 2593-2615.
+   LSPET (1973) Preliminary Examination of lunar samples.
+    Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –  Rose H.J., Baedecker P.A., Berman S., Christian R.P.,
+    7-46.                                            Dwornik E.J., Finkelman R.B. and Schnepfe M.M. (1975a)
+                                                       Chemical composition of rocks and soils returned by the
+   Mao H.K., El Goresy A. and Bell P.M. (1974a) Evidence of   Apollo 15, 16, and 17 missions. Proc. 6th Lunar Sci. Conf.
+    extensive chemical reduction in lunar regolith samples from   1363-1373.
+    the Apollo 17 site. Proc. 5th Lunar Sci. Conf. 673-683.
+                                                            Schaal R.B. and Hörz F. (1977a) Shock metamorphism of
+   Mao H.K., E1 Goresy A. and Bell P.M. (1974b) Orange   lunar and terrestrial basalts. Proc. 8th Lunar Sci. Conf. 1697-
+    glasses: Reaction of molten liquids with Apollo 17 soil   1729.
+--- chemistry block 2; lines 19-31 ---
+characterization of projectiles, from meteoritic dements in  Uhlmann D.R., Onorato P.I.K. and Scherer G.W. (1979) A
+    Apollo 17 boulders. Proc. 5th Lunar Sci. Conf. 1703-1736.   simplified model for glass formation.  Proc. 10th  Lunar
+                                                                   Planet. Sci. Conf. 375-381.
+    Muehlberger et al. (1973) Documentation and environment
+    of the Apollo 17 samples: A preliminary report. Astrogeology  Wänke H., Palme H., Baddenhausen H., Dreibus G., Jagoutz
+    71 322 pp superceeded by Astrogeolgy 73 (1975) and by   E., Kruse H., Spettel B., Teschke F. and Thacker R. (1974)
+    Wolfe et al. (1981)                                     Chemistry of Apollo 16 and 17 samples: bulk composition,
+                                                                   late-stage accumulation and early differentiation of the
+    Muehlberger W.R. and many others (1973)  Preliminary  Moon. Proc. 5th Lunar Sci. Conf. 1307-1335.
+    Geological Investigation of the Apollo 17 Landing Site. In
+    Apollo 17 Preliminary Science Report. NASA SP-330.    Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17   geologic investigation of the Taurus-Littrow Valley: Apollo
+--- mineralogy block 3; lines 1-7 ---
+LSPET (1973)  Apollo 17 lunar samples: Chemical and  Roedder E. and Weiblen P.W. (1977b) Shock glass veins in
+    petrographic description. Science 182, 659-672.          some lunar and meteoritic samples – Their nature and
+                                                                possible origin. Proc. 8th Lunar Sci. Conf. 2593-2615.
+   LSPET (1973) Preliminary Examination of lunar samples.
+    Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –  Rose H.J., Baedecker P.A., Berman S., Christian R.P.,
+    7-46.                                            Dwornik E.J., Finkelman R.B. and Schnepfe M.M. (1975a)
+                                                       Chemical composition of rocks and soils returned by the
+--- mineralogy block 4; lines 14-26 ---
+breccia (70019) and gabbro (79155) (abs). Lunar Sci. V,
+    489-491. Lunar Planetary Institute, Houston               Shih C.-Y., Haskin L.A., Wiesmann H., Bansal B.M. and
+                                                      Brannon J.C. (1975a) On the origin of high-Ti mare basalts.
+   Morgan J.W., Ganapathy R., Higuchi H., Krahenbuhl U. and   Proc. 6th Lunar Sci. Conf. 1255-1285.
+    Anders E (1974a) Lunar basins: Tentative
+    characterization of projectiles, from meteoritic dements in  Uhlmann D.R., Onorato P.I.K. and Scherer G.W. (1979) A
+    Apollo 17 boulders. Proc. 5th Lunar Sci. Conf. 1703-1736.   simplified model for glass formation.  Proc. 10th  Lunar
+                                                                   Planet. Sci. Conf. 375-381.
+    Muehlberger et al. (1973) Documentation and environment
+    of the Apollo 17 samples: A preliminary report. Astrogeology  Wänke H., Palme H., Baddenhausen H., Dreibus G., Jagoutz
+    71 322 pp superceeded by Astrogeolgy 73 (1975) and by   E., Kruse H., Spettel B., Teschke F. and Thacker R. (1974)
+    Wolfe et al. (1981)                                     Chemistry of Apollo 16 and 17 samples: bulk composition,
+                                                                   late-stage accumulation and early differentiation of the
+--- mineralogy block 5; lines 49-59 ---
+Rhodes J.M., Hubbard N.J., Wiesmann H., Rodgers K.V.,
+   Brannon J.C. and Bansal B.M. (1976a) Chemistry,
+     classification, and petrogenesis of Apollo 17 mare basalts.
+    Proc. 7th Lunar Sci. Conf. 1467-1489.
+
+    Roedder E. and Weiblen P.W. (1975a) Anomalous low-K
+     silicate melt inclusions in ilmenite from Apollo 17 basalts.
+    Proc. 6th Lunar Sci. Conf. 147-164.
+
+Lunar Sample Compendium
+C Meyer 2008
+--- material block 6; lines 3-20 ---
+possible origin. Proc. 8th Lunar Sci. Conf. 2593-2615.
+   LSPET (1973) Preliminary Examination of lunar samples.
+    Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –  Rose H.J., Baedecker P.A., Berman S., Christian R.P.,
+    7-46.                                            Dwornik E.J., Finkelman R.B. and Schnepfe M.M. (1975a)
+                                                       Chemical composition of rocks and soils returned by the
+   Mao H.K., El Goresy A. and Bell P.M. (1974a) Evidence of   Apollo 15, 16, and 17 missions. Proc. 6th Lunar Sci. Conf.
+    extensive chemical reduction in lunar regolith samples from   1363-1373.
+    the Apollo 17 site. Proc. 5th Lunar Sci. Conf. 673-683.
+                                                            Schaal R.B. and Hörz F. (1977a) Shock metamorphism of
+   Mao H.K., E1 Goresy A. and Bell P.M. (1974b) Orange   lunar and terrestrial basalts. Proc. 8th Lunar Sci. Conf. 1697-
+    glasses: Reaction of molten liquids with Apollo 17 soil   1729.
+    breccia (70019) and gabbro (79155) (abs). Lunar Sci. V,
+    489-491. Lunar Planetary Institute, Houston               Shih C.-Y., Haskin L.A., Wiesmann H., Bansal B.M. and
+                                                      Brannon J.C. (1975a) On the origin of high-Ti mare basalts.
+   Morgan J.W., Ganapathy R., Higuchi H., Krahenbuhl U. and   Proc. 6th Lunar Sci. Conf. 1255-1285.
+    Anders E (1974a) Lunar basins: Tentative
+    characterization of projectiles, from meteoritic dements in  Uhlmann D.R., Onorato P.I.K. and Scherer G.W. (1979) A
+    Apollo 17 boulders. Proc. 5th Lunar Sci. Conf. 1703-1736.   simplified model for glass formation.  Proc. 10th  Lunar
+--- material block 7; lines 35-47 ---
+Pb systematics of some Apollo 17 lunar samples and
+    implications for a lunar basin excavation chronology. Proc.
+      5th Lunar Sci. Conf. 1487-1514.
+
+    Nyquist L.E., Bansal B.M. and Wiesmann H. (1975a) Rb-
+    Sr ages and initial 87Sr/86Sr for Apollo 17 basalts and
+   KREEP basalt 15386.  Proc. 6th Lunar Sci. Conf. 1445-
+    1465.
+
+    O’Kelley G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+    Cosmogenic radionuclides in samples from
+    Taurus-Littrow: Effects of the solar flare of August 1972.
+    Proc. 5th Lunar Sci. Conf. 2139-2147.

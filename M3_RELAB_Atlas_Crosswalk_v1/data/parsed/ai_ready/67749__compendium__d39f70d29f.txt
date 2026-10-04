@@ -1,0 +1,197 @@
+DOCUMENT_ID: 67749__compendium__d39f70d29f
+ATLAS_SAMPLE_IDS: 67749
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67749.pdf
+SOURCE_PDF_SHA256: 67a799bce64254a1a7376baa131f28ce6fd7fe139c018b8d9679aa6e0c02e56a
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 6-32 ---
+Figure 1: Photo of 67749. Scale marked in mm. S72-49570
+
+   Introduction
+   67749 is a rake sample collected from the rim of North          Mineralogical Mode 67749
+   Ray Crater – see section on 67701. This small fragment               Stoffler et al. 1985
+                                                                                Plagioclase        88.5 %
+    is a polymict breccia with important clasts.                                                                      Pyroxene         11.2
+                                                                  Opaques          0.3
+   Petrography
+   Stoffler et al. (1985) called 67749 a “granulitic
+                                                          Mineralogical Mode KREEP basalt
+    breccia”. The matrix is feldspathic, plagioclase is An93-            Steele and Smith 1973
+     98, and lithic clasts include cataclastic anorthosite and           Plagioclase       35 - 40 %
+    basaltic impact melt.                                            Pyroxene        35 - 40
+                                                                 Opaques         5
+   However, in this small breccia sample, Steele and Smith           Mesostasis       20
+   (1973) described a clast of KREEP basalt and gave the
+   mode and mineral compositions (figures 3 and 4).
+   Ryder and Norman (1980) state that “the uniform, clast-  Chemistry
+    free texture and Fe-rich mafic minerals and sodic  The REE diagram (figure 5) for this rock does not
+   plagioclases suggest that this clast is a fragment of   indicate much KREEP in the portion analyzed.
+   volcanic KREEP, not an impact melt”.
+                                              Radiogenic age dating
+                                            Not
+--- material block 2; lines 1-35 ---
+67749
+                       Granulitic Breccia with clast of KREEP basalt
+                                             11.5 grams
+
+
+
+
+
+                            Figure 1: Photo of 67749. Scale marked in mm. S72-49570
+
+   Introduction
+   67749 is a rake sample collected from the rim of North          Mineralogical Mode 67749
+   Ray Crater – see section on 67701. This small fragment               Stoffler et al. 1985
+                                                                                Plagioclase        88.5 %
+    is a polymict breccia with important clasts.                                                                      Pyroxene         11.2
+                                                                  Opaques          0.3
+   Petrography
+   Stoffler et al. (1985) called 67749 a “granulitic
+                                                          Mineralogical Mode KREEP basalt
+    breccia”. The matrix is feldspathic, plagioclase is An93-            Steele and Smith 1973
+     98, and lithic clasts include cataclastic anorthosite and           Plagioclase       35 - 40 %
+    basaltic impact melt.                                            Pyroxene        35 - 40
+                                                                 Opaques         5
+   However, in this small breccia sample, Steele and Smith           Mesostasis       20
+   (1973) described a clast of KREEP basalt and gave the
+   mode and mineral compositions (figures 3 and 4).
+   Ryder and Norman (1980) state that “the uniform, clast-  Chemistry
+    free texture and Fe-rich mafic minerals and sodic  The REE diagram (figure 5) for this rock does not
+   plagioclases suggest that this clast is a fragment of   indicate much KREEP in the portion analyzed.
+   volcanic KREEP, not an impact melt”.
+                                              Radiogenic age dating
+                                            Not
+
+Lunar Sample Compendium
+C Meyer 2012
+--- age block 3; lines 25-35 ---
+(1973) described a clast of KREEP basalt and gave the
+   mode and mineral compositions (figures 3 and 4).
+   Ryder and Norman (1980) state that “the uniform, clast-  Chemistry
+    free texture and Fe-rich mafic minerals and sodic  The REE diagram (figure 5) for this rock does not
+   plagioclases suggest that this clast is a fragment of   indicate much KREEP in the portion analyzed.
+   volcanic KREEP, not an impact melt”.
+                                              Radiogenic age dating
+                                            Not
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 5-30 ---
+Figure 2: Pyorxene and olivine in matrix of 67749.                                                                  Figure 3: Pyroxene in KREEP basalt clast in
+                                                           67749 (Steele and Smith 1980).
+
+
+   Table 1. Chemical composition of 67749
+
+
+     reference  Stoffler85
+     weight
+    SiO2 %    43.25    (a)
+    TiO2      0.26     (a)
+    Al2O3     29.76    (a)
+   FeO       3.67     (a)
+   MnO
+   MgO      3.28     (a)
+   CaO      16.33    (a)
+   Na2O     0.49     (a)
+   K2O       0.02     (a)
+   P2O5     0.04     (a)
+   S %
+    sum
+     (a) DBA
+--- mineralogy block 2; lines 1-13 ---
+KREEP
+
+
+
+
+
+         Figure 2: Pyorxene and olivine in matrix of 67749.                                                                  Figure 3: Pyroxene in KREEP basalt clast in
+                                                           67749 (Steele and Smith 1980).
+
+
+   Table 1. Chemical composition of 67749
+--- material block 3; lines 1-13 ---
+KREEP
+
+
+
+
+
+         Figure 2: Pyorxene and olivine in matrix of 67749.                                                                  Figure 3: Pyroxene in KREEP basalt clast in
+                                                           67749 (Steele and Smith 1980).
+
+
+   Table 1. Chemical composition of 67749
+--- material block 4; lines 28-40 ---
+(a) DBA
+
+
+
+
+
+                                                                 Figure 4: OK, this is it, the KREEP basalt at Apollo
+                                                          16 (from Ryder and Norman 1980).
+
+
+
+           Processing
+            There are three thin sections.
+--- references block 5; lines 8-20 ---
+67749 (Steele and Smith 1980).
+
+
+   Table 1. Chemical composition of 67749
+
+
+     reference  Stoffler85
+     weight
+    SiO2 %    43.25    (a)
+    TiO2      0.26     (a)
+    Al2O3     29.76    (a)
+   FeO       3.67     (a)
+   MnO
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 13-25 ---
+Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                    67515 to 68537:  Sample classification, description and
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                                 inventory. Curator Catalog, JSC
+    Catalog. pp. 370.
+
+                                                                  Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                                of some Apollo 16 rocks and fines: General petrologic model
+   and chemical description. Science 179, 23-34.
+                                                               of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+
+   LSPET (1972c) Preliminary examination of lunar samples.
+--- material block 2; lines 6-18 ---
+Figure 5: Normalized rare-earth-element diagram for 67749 compared with other “granulitc
+                 breccias” from North ray Crater (Stoffler et al. 1985).
+
+
+   References for 67749
+                                                       Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                    67515 to 68537:  Sample classification, description and
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                                 inventory. Curator Catalog, JSC
+    Catalog. pp. 370.
+--- references block 3; lines 5-17 ---
+Figure 5: Normalized rare-earth-element diagram for 67749 compared with other “granulitc
+                 breccias” from North ray Crater (Stoffler et al. 1985).
+
+
+   References for 67749
+                                                       Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                    67515 to 68537:  Sample classification, description and
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                                 inventory. Curator Catalog, JSC
+    Catalog. pp. 370.

@@ -1,0 +1,264 @@
+DOCUMENT_ID: 14240__compendium__d986502bec
+ATLAS_SAMPLE_IDS: 14240
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14240.pdf
+SOURCE_PDF_SHA256: 62b736828f17b767b6025205cf6a0f6e46d8e416dc14bb2c2d4c0a686ed960f4
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-19 ---
+14240
+                          Trench Soil (vacuum container)
+                                       184 grams
+
+
+
+
+
+             Figure 1: Soil Mechanics Trench at Apollo 14.  It was only about 30 cm deep. AS14-64-9161.
+
+   CC: Okay. And Al, one question, did you get the SESC
+                                                 Introduction   sample out of the bottom of the trench?
+   CDR: Well, I told you the trench was kind of a miserable   14240 was collected from the bottom of the Soil
+    thing, because the walls kept falling down. And I could     Mechanics Trench (figure 1) and brought back in a
+    get a sample from the bottom, but it wouldn’t be from the    special environmental sample container (SESC) which
+    bottom, I’m afraid.                              was opened by Burlingame in the UC Berkeley Space
+   CC: I guess we’d still like the SESC sample form the       Science Laboratory (figure 5). However, the lid was
+   bottom of the trench, even though it probably isn’t the                                                         not even finger tight and the sample probably not sealed
+    bottom.                                                        (although the vacuum in the can may have held the lid
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 15-37 ---
+for 14240 compared with 14149 (data from Laul et al.   was a much lighter colored and coarser grained
+                                                                  1972).
+    material.”
+                                                                                25
+
+    Subsurface samples 14240 (and 14149 from the same                                                                                20                      Apollo soils
+    trench) are both immature soils (Is/FeO = 46 and 53;
+    Morris 1978). The soil collected from the top of the          15
+    trench (14148) was more mature Is/FeO = 74.      FeO
+
+                                                                                10
+    Various small particles found in the SESC were set                                     14240
+    aside (figures 7-9).                                                       5
+
+   Chemistry                                                               0 0       5      10      15      20      25      30      35
+   Rose et al. (1972) and Laul et al. (1972) analyzed 14240                    Al2O3
+    (table 1). Cadogan et al. (1972) and Moore et al. (1972)       Figure 3: Chemical composition of 14240 compared
+    reported the carbon content (figure 4).                       with other lunar soils.
+
+
+                                                                                                              200
+   Processing                                                                                   180
+   The samples from the bottom of this trench (14149                160
+--- chemistry block 2; lines 43-55 ---
+lower maturity seems to indicate that it was less                  60
+    contaminated by slumped surface material.                                    40
+                                                                                                                     20                              Lunar Soils
+
+                                                                                                                         0
+                                                                                                                           0           20          40          60          80         100         120    This sample was opened in a dry He glove box at
+   Berkeley (figure 6), and thus may be free of                          maturity (Is/FeO)
+    contamination at the LRL (or at least have a different      Figure 4: Carbon content and matruity of lunar soils.
+    source(s) of contamination).  It has been kept in a He     Data for 14240 from compilations by Cadogen et al.
+   “bean pot” at JSC, separate from other lunar samples,      (1972), desMarais et al. (1976) and Morris et al.
+                                                                    (1978).     all these years.
+
+   The official LRL weight was 168 grams based on the
+--- material block 3; lines 1-8 ---
+Petrography                                                                      1000
+   The Soil Mechanics Trench was about 25 - 36 cm deep
+    (Mitchell et al. 1971).  14240 was taken from the           100
+   bottom (although it may contain material slumped from    sample/
+    the walls). The trench samples were taken during the    chondrite
+     2nd EVA from the rim of a ~6 meter crater at station G.             10
+     It was planned to dig this trench to be 60 cm deep, but
+   was cut instead to ~30 cm because the walls were               1
+--- material block 4; lines 16-28 ---
+1972).
+    material.”
+                                                                                25
+
+    Subsurface samples 14240 (and 14149 from the same                                                                                20                      Apollo soils
+    trench) are both immature soils (Is/FeO = 46 and 53;
+    Morris 1978). The soil collected from the top of the          15
+    trench (14148) was more mature Is/FeO = 74.      FeO
+
+                                                                                10
+    Various small particles found in the SESC were set                                     14240
+    aside (figures 7-9).                                                       5
+--- treatment block 5; lines 17-29 ---
+material.”
+                                                                                25
+
+    Subsurface samples 14240 (and 14149 from the same                                                                                20                      Apollo soils
+    trench) are both immature soils (Is/FeO = 46 and 53;
+    Morris 1978). The soil collected from the top of the          15
+    trench (14148) was more mature Is/FeO = 74.      FeO
+
+                                                                                10
+    Various small particles found in the SESC were set                                     14240
+    aside (figures 7-9).                                                       5
+
+   Chemistry                                                               0 0       5      10      15      20      25      30      35
+--- treatment block 6; lines 37-55 ---
+The samples from the bottom of this trench (14149                160
+   and 14240) may have been contaminated by surface                140
+
+                                                                                                              120    material that fell into the trench during digging. As   C
+   you can see form the transcript, 14240 was the second   ppm  100
+    attempt to sample the bottom of the trench. The slightly                  80                    14240
+   lower maturity seems to indicate that it was less                  60
+    contaminated by slumped surface material.                                    40
+                                                                                                                     20                              Lunar Soils
+
+                                                                                                                         0
+                                                                                                                           0           20          40          60          80         100         120    This sample was opened in a dry He glove box at
+   Berkeley (figure 6), and thus may be free of                          maturity (Is/FeO)
+    contamination at the LRL (or at least have a different      Figure 4: Carbon content and matruity of lunar soils.
+    source(s) of contamination).  It has been kept in a He     Data for 14240 from compilations by Cadogen et al.
+   “bean pot” at JSC, separate from other lunar samples,      (1972), desMarais et al. (1976) and Morris et al.
+                                                                    (1978).     all these years.
+
+   The official LRL weight was 168 grams based on the
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 14240.
+                                                  14149
+    reference  Laul72           Rose72               Laul82
+    weight                                                           for comparison
+   SiO2 %                       47.77    (b)
+    TiO2       1.8     2        (a) 1.67     (b)            1.6
+   Al2O3     19.4    18.5     (a) 17.99    (b)            17.9
+   FeO       10.9              (a) 10.02    (b)          10
+   MnO      0.125   0.13     (a) 0.14     (b)            0.13
+   MgO                          9.47     (b)            9.9
+   CaO      12     12       (a) 11.25    (b)           11
+   Na2O     0.717   0.745   (a) 0.7       (b)            0.78
+   K2O       0.57    0.6      (a) 0.54     (b)            0.58
+   P2O5                         0.55     (b)
+   S %
+   sum
+
+   Sc ppm   22                 (a) 28       (b)          21
+   V        55     40       (a) 52       (b)          40
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 14240.
+                                                  14149
+    reference  Laul72           Rose72               Laul82
+    weight                                                           for comparison
+   SiO2 %                       47.77    (b)
+    TiO2       1.8     2        (a) 1.67     (b)            1.6
+   Al2O3     19.4    18.5     (a) 17.99    (b)            17.9
+   FeO       10.9              (a) 10.02    (b)          10
+   MnO      0.125   0.13     (a) 0.14     (b)            0.13
+--- references block 3; lines 64-73 ---
+Os ppb
+      Ir ppb
+    Pt ppb                                                      Figure 6: Opening the SESC in the SESC holder at the
+   Au ppb                                                       Berkeley Lab (Burlingame et al. 1971).
+   Th ppm   14                 (a)                        13.3
+   U ppm                                                 3.6
+    technique:  (a) INAA, (b) “microchemical”
+
+Lunar Sample Compendium
+C Meyer 2007
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 40-52 ---
+Moore C.B., Lewis C.F., Cripe J.D., Delles F.M., Kelly W.R.
+                                                       and Gibson E.K. (1972) Total carbon, nitrogen and sulfur    DesMarais D.J., Hayes J.M. and Meinshein W.G. (1973b)
+                                                                     in Apollo 14 lunar samples. Proc. 3rd Lunar Sci. Conf. 2051-    The distribution in lunar soil of carbon released by pryrolysis.
+                                                          2058.    Proc. 4th Lunar Sci. Conf. 1543-1558.
+
+                                                           Morris R.V. (1978) The surface exposure (maturity) of lunar    DesMarais D.J., Basu A., Hayes J.M. and Meinshein W.G.
+                                                                          soils: Some concepts and Is/FeO compilation.  Proc. 9th    (1975) Evolution of carbon isotopes, agglutinates and the
+                                                       Lunar Planet . Sci. Conf. 2287-2298.    lunar regolith. Proc. 6th Lunar Sci. Conf. 2353-2374.
+
+                                                          Morris R.V., Score R., Dardano C. and Heiken G. (1983)    Epstein S. and Taylor H.P. (1972) O18/O16, Si30/Si28, C13/
+                                                   Handbook of Lunar Soils. JSC 19069   C12 and D/H studies of Apollo 14 and 15 samples. Proc. 3rd
+    Lunar Sci. Conf. 1429-1455.
+                                                     Rose H.J., Cuttitta F., Annell C.S., Carron M.K., Christian
+--- material block 2; lines 16-28 ---
+250 - 500 micron
+
+
+
+   References for 14240
+    Allton J.H. (1989)  Catalog of Apollo Lunar Surface
+                                                          Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA    Geological Sampling Tools and Containers. JSC 23454.
+                                                           Pub. 1265
+
+    Baur H., Frick U., Funk H., Schultz L. and Signer P. (1972)
+                                                          Holland P.T., Simoneit B.R., Wszolek P.C. and Burlingame    Thermal release of He, Ne, and Ar from lunar fines and
+                                                        A.L. (1972) Compounds of carbon and other volatile    minerals. Proc. 3rd Lunar Sci. Conf. 1947-1966.
+                                                           elements in Apollo 14 and 15 samples. Proc. 3rd Lunar Sci.
+--- material block 3; lines 36-53 ---
+Modzeleski V.E., et al. (1973)  Carbon compounds in
+                                                                pyrolysates and amino-acid in extracts of Apollo 14 lunar    Cadogen P.H., Eglinton G., Firth J.N.M., Maxwell J.R., Mays
+                                                             samples. Nature 242, 50.    B.J. and Pillinger C.T. (1972)  Survey of lunar carbon
+    compounds. Proc. 3rd Lunar Sci. Conf. 2069-2090.
+                                                  Moore C.B., Lewis C.F., Cripe J.D., Delles F.M., Kelly W.R.
+                                                       and Gibson E.K. (1972) Total carbon, nitrogen and sulfur    DesMarais D.J., Hayes J.M. and Meinshein W.G. (1973b)
+                                                                     in Apollo 14 lunar samples. Proc. 3rd Lunar Sci. Conf. 2051-    The distribution in lunar soil of carbon released by pryrolysis.
+                                                          2058.    Proc. 4th Lunar Sci. Conf. 1543-1558.
+
+                                                           Morris R.V. (1978) The surface exposure (maturity) of lunar    DesMarais D.J., Basu A., Hayes J.M. and Meinshein W.G.
+                                                                          soils: Some concepts and Is/FeO compilation.  Proc. 9th    (1975) Evolution of carbon isotopes, agglutinates and the
+                                                       Lunar Planet . Sci. Conf. 2287-2298.    lunar regolith. Proc. 6th Lunar Sci. Conf. 2353-2374.
+
+                                                          Morris R.V., Score R., Dardano C. and Heiken G. (1983)    Epstein S. and Taylor H.P. (1972) O18/O16, Si30/Si28, C13/
+                                                   Handbook of Lunar Soils. JSC 19069   C12 and D/H studies of Apollo 14 and 15 samples. Proc. 3rd
+    Lunar Sci. Conf. 1429-1455.
+                                                     Rose H.J., Cuttitta F., Annell C.S., Carron M.K., Christian
+                                                                       R.P., Dwornik E.J., Greenland L.P. and Ligon D.T. (1972)    Flory D.A., Wikstrom S., Gupta S., Gibert J.M. and Oro J.
+--- treatment block 4; lines 5-17 ---
+opened in Berkeley
+
+
+                                      ,1                                   ,2    ,3                                                  ,4          ,28       ,29       ,31        rocks                             7 g                                                 4.3 g                                                      13.3 g   16.5 g    11.1 g
+                                                                      reserves    reserves   reserves
+
+                                ,53               ,59    ,60           sieved ?                          ,22      ,23     ,24      ,26
+                          14 g              7.2 g   7.3 g                                        2.5 g    5 g     2.1 g    4.5 g
+                                                              ,30
+                                                           41.4 g
+
+                                                                          250 - 500 micron
+--- treatment block 5; lines 39-51 ---
+compounds. Proc. 3rd Lunar Sci. Conf. 2069-2090.
+                                                  Moore C.B., Lewis C.F., Cripe J.D., Delles F.M., Kelly W.R.
+                                                       and Gibson E.K. (1972) Total carbon, nitrogen and sulfur    DesMarais D.J., Hayes J.M. and Meinshein W.G. (1973b)
+                                                                     in Apollo 14 lunar samples. Proc. 3rd Lunar Sci. Conf. 2051-    The distribution in lunar soil of carbon released by pryrolysis.
+                                                          2058.    Proc. 4th Lunar Sci. Conf. 1543-1558.
+
+                                                           Morris R.V. (1978) The surface exposure (maturity) of lunar    DesMarais D.J., Basu A., Hayes J.M. and Meinshein W.G.
+                                                                          soils: Some concepts and Is/FeO compilation.  Proc. 9th    (1975) Evolution of carbon isotopes, agglutinates and the
+                                                       Lunar Planet . Sci. Conf. 2287-2298.    lunar regolith. Proc. 6th Lunar Sci. Conf. 2353-2374.
+
+                                                          Morris R.V., Score R., Dardano C. and Heiken G. (1983)    Epstein S. and Taylor H.P. (1972) O18/O16, Si30/Si28, C13/
+                                                   Handbook of Lunar Soils. JSC 19069   C12 and D/H studies of Apollo 14 and 15 samples. Proc. 3rd
+    Lunar Sci. Conf. 1429-1455.
+--- references block 6; lines 14-26 ---
+41.4 g
+
+                                                                          250 - 500 micron
+
+
+
+   References for 14240
+    Allton J.H. (1989)  Catalog of Apollo Lunar Surface
+                                                          Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA    Geological Sampling Tools and Containers. JSC 23454.
+                                                           Pub. 1265
+
+    Baur H., Frick U., Funk H., Schultz L. and Signer P. (1972)
+                                                          Holland P.T., Simoneit B.R., Wszolek P.C. and Burlingame    Thermal release of He, Ne, and Ar from lunar fines and
+
+=== PDF PAGE 5; CATEGORIES: material ===
+--- material block 1; lines 1-10 ---
+Figure 8: One of three small rocks in 14240,23.  It
+        Figure 7: 14240,22 is the first rock found in 14240        appears to be light matrix breccia, but has never been
+       and weighs 2.49 g.  It appears to be a dark matrix           studied.  It is about 1 cm across.
+        breccia, but has never been studied.  It is about 1.2
+      cm across. (from Burlingame et al. 1971).

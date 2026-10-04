@@ -1,0 +1,227 @@
+DOCUMENT_ID: 72539__compendium__72f65759e9
+ATLAS_SAMPLE_IDS: 72539
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72539.pdf
+SOURCE_PDF_SHA256: 5dbf31dd292199c31ccf9af7197f0bcb097f27032a6de989756488b221c4b477
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 19-31 ---
+Petrography
+Warner et al. (1977) described the texture of the matrix
+of 72539 as “subophitic”.  It has about 4% vesicles
+and a few zap pits. Thin sections show that the sample
+was a breccias, before it was melted and recrystallized
+(figure 3). Calcic plagioclase is the dominant mineral.         Figure 2: Map of station 2, Apollo 17.
+
+
+
+
+   Lunar Sample Compendium
+  C Meyer 2011
+--- material block 2; lines 1-27 ---
+72539
+                             Impact Melt Breccia
+                                          11.2 grams
+
+
+
+
+
+                Figure 1: Photo of 72539. Scale is marked in mm. S73-19632
+
+
+Introduction
+72539 is an impact melt breccia with a dark crystalline
+matrix with subophitic texture and few clasts (figure
+1).  It was collected as a rake sample near boulder #2
+at station 2 on the slope of the South Massif (figure 2).
+                                      72539
+This rock has not been dated.
+
+Petrography
+Warner et al. (1977) described the texture of the matrix
+of 72539 as “subophitic”.  It has about 4% vesicles
+and a few zap pits. Thin sections show that the sample
+was a breccias, before it was melted and recrystallized
+(figure 3). Calcic plagioclase is the dominant mineral.         Figure 2: Map of station 2, Apollo 17.
+--- age block 3; lines 12-24 ---
+Introduction
+72539 is an impact melt breccia with a dark crystalline
+matrix with subophitic texture and few clasts (figure
+1).  It was collected as a rake sample near boulder #2
+at station 2 on the slope of the South Massif (figure 2).
+                                      72539
+This rock has not been dated.
+
+Petrography
+Warner et al. (1977) described the texture of the matrix
+of 72539 as “subophitic”.  It has about 4% vesicles
+and a few zap pits. Thin sections show that the sample
+was a breccias, before it was melted and recrystallized
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-39 ---
+Figure 3: Thin section photomicrograph of 72539.
+
+
+
+Warner et al. (1977) reported the mode and found
+several small grains of pink spinel in the matrix. They
+determined the composition of olivine and pyroxene
+(figure 4).                                          Mineral Mode ( Warner et al. 1977)
+
+                                                                                                            Vol. %Ryder (1993) picture a small clast of “graphic granite”.
+                                                                      Matrix                     87.7
+                                                                       Mineral clasts               7.6
+Chemistry                                                                                Lithic clasts                 4.7
+The composition of 72539 is like that of most impact
+melt rocks from Apollo 17 (table 1).  Meteoritic             Mineral clasts
+siderophiles are high.
+                                                                                Plagioclase              5.5
+                                                                           Olivine/Pyroxene        1.9
+Processing
+                                                                Opaque                  0.1
+There are three thin sections.                                                                                       Metal/troilite            0.1
+                                                                         Other                              tr.
+
+                                                                                Lithic Clasts
+
+                                                ANT                     1.2
+                                                                                Devit. Anorthosite       0.9
+       C Meyer  72539                                       Breccia                  2.2         2011
+               11.2 grams                             Other                    0.4
+
+                                                                          Percent of matrix
+       ,0       ,1    ,7        ,2      ,8                                Plagioclase             51.6
+      6.7 g  PB  2.4 g   0.3 g   0.3 g                          Olivine/pyroxene       45
+                                                                Opaque                  2.5
+                 ,5      ,12                                                     Metal/troilite            0.4
+                 ,6      0.6 g                                          Other                    0.6
+           TS
+--- material block 2; lines 1-17 ---
+Figure 3: Thin section photomicrograph of 72539.
+
+
+
+Warner et al. (1977) reported the mode and found
+several small grains of pink spinel in the matrix. They
+determined the composition of olivine and pyroxene
+(figure 4).                                          Mineral Mode ( Warner et al. 1977)
+
+                                                                                                            Vol. %Ryder (1993) picture a small clast of “graphic granite”.
+                                                                      Matrix                     87.7
+                                                                       Mineral clasts               7.6
+Chemistry                                                                                Lithic clasts                 4.7
+The composition of 72539 is like that of most impact
+melt rocks from Apollo 17 (table 1).  Meteoritic             Mineral clasts
+siderophiles are high.
+                                                                                Plagioclase              5.5
+--- material block 3; lines 22-37 ---
+Other                              tr.
+
+                                                                                Lithic Clasts
+
+                                                ANT                     1.2
+                                                                                Devit. Anorthosite       0.9
+       C Meyer  72539                                       Breccia                  2.2         2011
+               11.2 grams                             Other                    0.4
+
+                                                                          Percent of matrix
+       ,0       ,1    ,7        ,2      ,8                                Plagioclase             51.6
+      6.7 g  PB  2.4 g   0.3 g   0.3 g                          Olivine/pyroxene       45
+                                                                Opaque                  2.5
+                 ,5      ,12                                                     Metal/troilite            0.4
+                 ,6      0.6 g                                          Other                    0.6
+           TS
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 72539.
+
+
+reference  Norman2002  Warner 77
+weight
+SiO2 %    45.7       (b)  47.1       (c )
+TiO2       1.59       (b)  1.77       (c )
+Al2O3     18.7       (b)  17.4       (c )
+FeO       8.57       (b)  8.4        (c )
+MnO       0.12       (b)  0.12       (c )
+MgO       12.2       (b)  11.1       (c )
+CaO       11.2        (b)  11.3       (c )
+Na2O      0.63          0.59       (c )
+K2O       0.21          0.16       (c )
+P2O5                    0.28       (c )
+S %
+sum
+
+Sc ppm    18.1       (a)                                          Figure 4: Pyroxene and olivine composition of
+V        45          (a)
+--- mineralogy block 2; lines 13-25 ---
+Na2O      0.63          0.59       (c )
+K2O       0.21          0.16       (c )
+P2O5                    0.28       (c )
+S %
+sum
+
+Sc ppm    18.1       (a)                                          Figure 4: Pyroxene and olivine composition of
+V        45          (a)
+                                                        72539 (Warner et al. 1978).Cr        1336       (a) 1026      (c )
+Co        30.5       (a)
+Ni        274        (a)
+Cu        13.6       (a)
+Zn         14.9       (a)
+--- material block 3; lines 42-59 ---
+Sn ppb
+                                                    Ryder G. (1993c) Catalog of Apollo 17 rocks: Stations 2Sb ppb
+Te ppb                                              and 3. Curators Office JSC#26088.
+Cs ppm    0.27       (a)
+Ba       327        (a)                                Warner R.D., Taylor G.J. and Keil K. (1977b) Petrology of
+La         29.7       (a)
+                                                                 crystalline matrix breccias from Apollo 17 rake samples.Ce        76.8       (a)
+Pr         10.48      (a)                                    Proc. 8th Lunar Sci. Conf. 1987-2006.
+Nd        48.5       (a)
+Sm        13.8       (a)                                Warner R.D., Keil K., Nehru C.E. and Taylor G.J. (1978)
+Eu        1.83       (a)
+                                                       Catalogue of Apollo 17 rake samples from Stations la, 2, 7,Gd        15.3       (a)
+Tb         2.7         (a)                               and 8. Spec. Publ. #18, UNM Institute of Meteoritics,
+Dy       17          (a)                                  Albuquerque. 88 pp.
+Ho        3.67       (a)
+Er         10.44      (a)
+                                                    Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,Tm
+Yb        9.33       (a)                                    Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+--- references block 4; lines 1-10 ---
+Table 1. Chemical composition of 72539.
+
+
+reference  Norman2002  Warner 77
+weight
+SiO2 %    45.7       (b)  47.1       (c )
+TiO2       1.59       (b)  1.77       (c )
+Al2O3     18.7       (b)  17.4       (c )
+FeO       8.57       (b)  8.4        (c )
+MnO       0.12       (b)  0.12       (c )
+--- references block 5; lines 24-36 ---
+Cu        13.6       (a)
+Zn         14.9       (a)
+Ga       5           (a)
+Ge ppb
+As
+Se
+Rb         5.5         (a)                              References for 72539
+Sr        181        (a)                                     Butler P. (1973) Lunar Sample Information Catalog Apollo
+Y         118        (a)
+                                                           17. Lunar Receiving Laboratory. MSC 03211 Curator’sZr        499        (a)
+Nb        33.4       (a)                                     Catalog. pp. 447.
+Mo
+Ru        12.1       (a)                            Norman M.D., Bennett V.C. and Ryder G. (2002) Targeting
+--- references block 6; lines 65-74 ---
+Os ppb
+Ir ppb      6.89       (a)
+Pt ppb     14.3       (a)
+Au ppb
+Th ppm    5.39       (a)
+U ppm     1.37       (a)
+technique:  (a) ICP-MS, (b) fused-bead, e-probe, (c ) broad bean e. probe
+
+   Lunar Sample Compendium
+  C Meyer 2011

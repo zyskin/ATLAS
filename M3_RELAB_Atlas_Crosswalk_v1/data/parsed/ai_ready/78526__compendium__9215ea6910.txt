@@ -1,0 +1,210 @@
+DOCUMENT_ID: 78526__compendium__9215ea6910
+ATLAS_SAMPLE_IDS: 78526
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/78526.pdf
+SOURCE_PDF_SHA256: 5df93a9dafb9dc5140c0d69fed28f1cf78d3ac338ea97bb3b4c7de68052b53e3
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 8-20 ---
+Figure 1: Photo of 76526. Scale in mm. S73-21027.
+
+   Introduction                                                 Processing
+   78526 is a rake sample – see section on 78501.  It                                                   There are 6 thin sections of 78526.
+   contains both green glass and basalt clasts. The glass
+   has very low trace element content.
+
+   Petrography
+   Warner et al. (1978) found two textural domains. In
+   one, the green glass has feathery pyroxene and acicular,             78526
+   chain olivine and pyroxene.  In the other, the green                8.8 grams
+   glass has small, hopper olivines and tiny chromite
+--- mineralogy block 2; lines 1-30 ---
+78526
+                                 Green Glass
+                                               8.8 grams
+
+
+
+
+
+                                   Figure 1: Photo of 76526. Scale in mm. S73-21027.
+
+   Introduction                                                 Processing
+   78526 is a rake sample – see section on 78501.  It                                                   There are 6 thin sections of 78526.
+   contains both green glass and basalt clasts. The glass
+   has very low trace element content.
+
+   Petrography
+   Warner et al. (1978) found two textural domains. In
+   one, the green glass has feathery pyroxene and acicular,             78526
+   chain olivine and pyroxene.  In the other, the green                8.8 grams
+   glass has small, hopper olivines and tiny chromite
+   euhedra.
+                                                                 ,8        ,1    ,2       ,4      ,7           ,5     ,6
+   Relic grains of olivine, pigeonite, plagioclase, chromite    3.9 g   PB   0.2 g   0.5 g  0.3 g     PB  PB
+   and metal occur in the glass and two types of very low-
+   Ti mare basalt are present as lithic relicts – one has               ,16                                  ,14    ,18
+   porphyric texture, the other a granular texture.                 TS  ,10    ,19     ,24     ,25    ,21   TS
+                                                                                   0.3 g   0.3 g    0.4 g  PB   TS
+   Chemistry
+   Laul and Schmitt (1975) and Murali et al. (1977)                                            ,27
+                                                                                                            ,28
+--- material block 3; lines 6-31 ---
+Figure 1: Photo of 76526. Scale in mm. S73-21027.
+
+   Introduction                                                 Processing
+   78526 is a rake sample – see section on 78501.  It                                                   There are 6 thin sections of 78526.
+   contains both green glass and basalt clasts. The glass
+   has very low trace element content.
+
+   Petrography
+   Warner et al. (1978) found two textural domains. In
+   one, the green glass has feathery pyroxene and acicular,             78526
+   chain olivine and pyroxene.  In the other, the green                8.8 grams
+   glass has small, hopper olivines and tiny chromite
+   euhedra.
+                                                                 ,8        ,1    ,2       ,4      ,7           ,5     ,6
+   Relic grains of olivine, pigeonite, plagioclase, chromite    3.9 g   PB   0.2 g   0.5 g  0.3 g     PB  PB
+   and metal occur in the glass and two types of very low-
+   Ti mare basalt are present as lithic relicts – one has               ,16                                  ,14    ,18
+   porphyric texture, the other a granular texture.                 TS  ,10    ,19     ,24     ,25    ,21   TS
+                                                                                   0.3 g   0.3 g    0.4 g  PB   TS
+   Chemistry
+   Laul and Schmitt (1975) and Murali et al. (1977)                                            ,27
+                                                                                                            ,28
+   reported analyses (figure 5).  Jovanovic and Reed                                TS
+
+=== PDF PAGE 2; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 11-23 ---
+Fo                                        Fa
+
+           compiled by C Meyer
+
+
+          Figure 3: Composition of olivne and pyroxene in
+          78526.
+
+
+
+
+                                                                  Figure 4 : Processing photo of 78526. S76-21922.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 78526
+
+
+    reference  Warner78          Murali77 Laul75
+    weight
+   SiO2 %
+    TiO2       0.8    1.1     (a)  1.1      0.8      (b)
+   Al2O3     11.1   10.7    (a)  10.7     11.1     (b)
+   FeO       17.4   17.6    (a)  17.6     17.4     (b)
+   MnO       0.26   0.28    (a)  0.278    0.26     (b)
+   MgO      11    12      (a) 12      11       (b)
+   CaO      10     9.7     (a)  9.7     10       (b)
+   Na2O      0.15   0.16    (a)  0.16     0.15     (b)
+   K2O       0.02   0.02    (a)  0.015    0.02     (b)
+   P2O5
+   S %
+   sum
+
+   Sc ppm                    48      51       (b)
+   V                         237     220      (b)
+--- chemistry block 2; lines 29-51 ---
+Rb                                                        Catalog. pp. 447.
+    Sr
+   Y                                                          Keil K., Dowty E. and Prinz M. (1974)  Description,    Zr                        226                (b)
+   Nb                                                              classification and inventory of 113 Apollo 17 rake samples
+   Mo                                                 from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.
+   Ru
+   Rh                                                         Laul J.C. and Schmitt R.A. (1975c) Chemical composition   Pd ppb
+   Ag ppb                                                     of Apollo 17 samples: Boulder breccias (2), rake breccias
+   Cd ppb                                                            (8), and others (abs).  Lunar Sci. VI, 489-491.  Lunar
+     In ppb                                                     Planetary Institute, Houston.
+   Sn ppb
+   Sb ppb
+    Te ppb                                           Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+   Cs ppm                                                    Curator’s Office JSC 26088 pp. 644
+   Ba
+   La                            1.3      1.2      (b)                                                          Murali A.V., Ma M.-S., Laul J.C. and Schmitt R.A. (1977a)   Ce
+    Pr                                                  Chemical composition of breccias, feldspathic basalt and
+   Nd                                                         anorthosites from Apollo 15 (15308, 15359,15382, and
+   Sm                           1.1     1         (b)            15362), Apollo 16 (60618 and 65785), Apollo 17 (72434,
+   Eu                           0.25     0.3      (b)                                                         72536, 72559, 72735, 72738, 78526, and 78527) and Luna   Gd
+   Tb                           0.27     0.28     (b)           20 (22012 and 22013) (abs). Lunar Sci. VIII, 700-702.
+   Dy                            1.8     2         (b)           Lunar Planetary Institute, Houston.
+   Ho
+--- material block 3; lines 26-61 ---
+Ga                                              References for 78526
+   Ge ppb                                                               Butler P. (1973) Lunar Sample Information Catalog Apollo   As
+   Se                                                         17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+   Rb                                                        Catalog. pp. 447.
+    Sr
+   Y                                                          Keil K., Dowty E. and Prinz M. (1974)  Description,    Zr                        226                (b)
+   Nb                                                              classification and inventory of 113 Apollo 17 rake samples
+   Mo                                                 from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.
+   Ru
+   Rh                                                         Laul J.C. and Schmitt R.A. (1975c) Chemical composition   Pd ppb
+   Ag ppb                                                     of Apollo 17 samples: Boulder breccias (2), rake breccias
+   Cd ppb                                                            (8), and others (abs).  Lunar Sci. VI, 489-491.  Lunar
+     In ppb                                                     Planetary Institute, Houston.
+   Sn ppb
+   Sb ppb
+    Te ppb                                           Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+   Cs ppm                                                    Curator’s Office JSC 26088 pp. 644
+   Ba
+   La                            1.3      1.2      (b)                                                          Murali A.V., Ma M.-S., Laul J.C. and Schmitt R.A. (1977a)   Ce
+    Pr                                                  Chemical composition of breccias, feldspathic basalt and
+   Nd                                                         anorthosites from Apollo 15 (15308, 15359,15382, and
+   Sm                           1.1     1         (b)            15362), Apollo 16 (60618 and 65785), Apollo 17 (72434,
+   Eu                           0.25     0.3      (b)                                                         72536, 72559, 72735, 72738, 78526, and 78527) and Luna   Gd
+   Tb                           0.27     0.28     (b)           20 (22012 and 22013) (abs). Lunar Sci. VIII, 700-702.
+   Dy                            1.8     2         (b)           Lunar Planetary Institute, Houston.
+   Ho
+    Er                                                    Warner R.D., Taylor G.J., Wentworth S.J., Huss G.R.,   Tm
+   Yb                            1.4      1.4      (b)           Mansker W.L., Planner H.N., Sayeed U.A. and Keil K.
+   Lu                           0.24     0.23     (b)            (1979d)  Electron microprobe analyses of glasses from
+    Hf                             0.7      0.5      (b)            Apollo 17 rake sample breccias and Apollo 17 drill core.
+    Ta                           0.05     0.06     (b)                                  UNM Spec. Publ. #20, Albuquerque, 20 pp.  W ppb
+   Re ppb
+   Os ppb                                              Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+      Ir ppb                                                     Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    Pt ppb                                                             geologic investigation of the Taurus-Littrow Valley: Apollo   Au ppb
+   Th ppm                                            17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- references block 4; lines 1-10 ---
+Table 1. Chemical composition of 78526
+
+
+    reference  Warner78          Murali77 Laul75
+    weight
+   SiO2 %
+    TiO2       0.8    1.1     (a)  1.1      0.8      (b)
+   Al2O3     11.1   10.7    (a)  10.7     11.1     (b)
+   FeO       17.4   17.6    (a)  17.6     17.4     (b)
+   MnO       0.26   0.28    (a)  0.278    0.26     (b)
+--- references block 5; lines 20-32 ---
+V                         237     220      (b)
+    Cr        5060  7000   (a)                                    Figure 5: This unusual rare earth element pattern
+   Co                        44       45.4     (b)                must mean something.
+    Ni
+   Cu
+   Zn
+   Ga                                              References for 78526
+   Ge ppb                                                               Butler P. (1973) Lunar Sample Information Catalog Apollo   As
+   Se                                                         17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+   Rb                                                        Catalog. pp. 447.
+    Sr
+   Y                                                          Keil K., Dowty E. and Prinz M. (1974)  Description,    Zr                        226                (b)
+   Nb                                                              classification and inventory of 113 Apollo 17 rake samples
+--- references block 6; lines 57-66 ---
+Re ppb
+   Os ppb                                              Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+      Ir ppb                                                     Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    Pt ppb                                                             geologic investigation of the Taurus-Littrow Valley: Apollo   Au ppb
+   Th ppm                                            17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+   U ppm                                                   280.
+    technique:  (a) e. probe, (b) INAA
+
+Lunar Sample Compendium
+C Meyer 2012

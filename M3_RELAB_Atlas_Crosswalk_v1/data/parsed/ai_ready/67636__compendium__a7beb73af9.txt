@@ -1,0 +1,178 @@
+DOCUMENT_ID: 67636__compendium__a7beb73af9
+ATLAS_SAMPLE_IDS: 67636
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67636.pdf
+SOURCE_PDF_SHA256: bf497d86cb0b5c3c61dc49b98474189fd05f6929f453c8bab283c09ca9b100d0
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 19-40 ---
+None   67637 as mildly-shocked “monomict breccia, perhaps
+    slightly less cataclastic than is typical for ferroan
+   anorthosite”. On side of 67636 has patina and
+   numerous zap pits (Ryder and Norman 1980).                                                                        Di        67636       Hd
+                                                                                               Warren and
+                                                                                      Wasson 1980
+   Mineralogical Mode for 67636
+    Olivine + Pyroxene          3.3 %
+    Plagioclase                96.4
+   Opaques                    0.2
+
+   Mineralogy
+   The composition of pyroxene and olivine has been
+                                              En                                          Fs   reported in Bersch et al. (1991) and Warren and Wasson
+   (1980).                                                  Fo                                        Fa
+
+                                                                                                    compiled by C Meyer
+   Plagioclase (An95) in 67636 is up to 2 mm in size and                                                              Figure 2: Pyroxene and olivine composition of 67636
+   mildly shocked.                                                                (from Warren and Wasson 1980).
+
+Lunar Sample Compendium
+C Meyer 2009
+--- material block 2; lines 7-25 ---
+Figure 1: Photo of 67636. Scale in mm. S72-49551.
+
+
+   Introduction
+                                            Chemistry   67636 was collected as a rake sample from the SE rim
+                                                 Warren and Wasson (1980) found that 67635, 67636   of North Ray Crater in the vicinity of the White Breccia
+                                                  and 67637 were “chemically pristine” with relativley   Boulders (67415 etc). It appears to be a piece of 67635.
+                                                low content of Ir and Au (figure 4).
+   Petrography
+                                              Radiogenic age dating   Warren and Wasson (1980) describe 67635, 67636 and
+                                         None   67637 as mildly-shocked “monomict breccia, perhaps
+    slightly less cataclastic than is typical for ferroan
+   anorthosite”. On side of 67636 has patina and
+   numerous zap pits (Ryder and Norman 1980).                                                                        Di        67636       Hd
+                                                                                               Warren and
+                                                                                      Wasson 1980
+   Mineralogical Mode for 67636
+--- age block 3; lines 12-24 ---
+Introduction
+                                            Chemistry   67636 was collected as a rake sample from the SE rim
+                                                 Warren and Wasson (1980) found that 67635, 67636   of North Ray Crater in the vicinity of the White Breccia
+                                                  and 67637 were “chemically pristine” with relativley   Boulders (67415 etc). It appears to be a piece of 67635.
+                                                low content of Ir and Au (figure 4).
+   Petrography
+                                              Radiogenic age dating   Warren and Wasson (1980) describe 67635, 67636 and
+                                         None   67637 as mildly-shocked “monomict breccia, perhaps
+    slightly less cataclastic than is typical for ferroan
+   anorthosite”. On side of 67636 has patina and
+   numerous zap pits (Ryder and Norman 1980).                                                                        Di        67636       Hd
+                                                                                               Warren and
+                                                                                      Wasson 1980
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 50-62 ---
+TS                                                      Warren P.H. and Wasson J.T. (1980a) Further foraging of
+                                                                       pristine nonmare rocks: Correlations between geochemistry
+   References for 67636                                                       and longitude. Proc. 11th Lunar Planet. Sci. Conf. 431-470.
+    Bersch M.G., Taylor G.J., Keil K. and Norman M.D. (1991)
+    Mineral compositions in pristine lunar highland rocks and                                                       Warren P.H. and Kallemeyn G.W. (1984) Pristine rocks (8th
+    the diversity of highland magmatism. Geophys. Res. Letters                                                                    foray): Plagiophile element ratios, crustal genesis, and the
+    18, 2085-2088.                                                            bulk composition of the Moon.  Proc. 15th Lunar Planet.
+                                                                     Sci. Conf. in J. Geophys. Res. 89, C16-C24.
+    Butler P. (1972) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+--- mineralogy block 2; lines 1-7 ---
+An in plagioclase                                              1000
+             75       80        85       90       95
+                                                                      67636
+
+                                                                                            100
+                                                                troctolites
+                                                              90         sample/chondrite
+--- mineralogy block 3; lines 10-30 ---
+mg-suite
+                                                    norites                 80                                                                 En
+                                                                 in
+                                                                                                                                                                                                    low-Ca           1                                 gabbro-                           70
+                                     norites
+                                    67636                                         0.1      La Ce   Pr Nd  Sm  Eu  Gd  Tb  Dy Ho  Er  Tm  Yb  Lu                                                                                                                                                                                                                                                                     pyroxene
+                                                              60
+                                                             Figue 4: Normalized rare-earth-element diagram for
+                                                         67636 (data from Warren and Wasson 1980).
+                                                             ferroan-
+                                                           anorthosite     50
+
+
+          Figure 3: Plagioclase and pyroxene composition of
+          67635, 67636 and 67637 showing classification as
+          “ferroan anorthosite”.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Other Studies                                         rocks (3 vol.). Curator’s Office pub. #52, JSC #16904.
+   The samples of North Ray Crater were the subject of a
+--- material block 4; lines 33-45 ---
+Processing                                   Reimold W.U., Wacker K. and Wanke H.  (1985)
+                                                         Composition and evolution of the lunar crust in the Decartes   There are seven thin sections of 67636.
+                                                                 highlands. Proc. 15th Lunar Planet. Sci. Conf in J. Geophys.
+                                                            Res. 90, C449-C506.
+                   67636
+               C                     Meyer  3.23 g                             Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley                   09                                                                                   J. and Rehfeldt A. (1981) Distribution and provenance of
+                                                                lunar highland rock types at North Ray Crater, Apollo 16.
+                                                                Proc. 12th Lunar Planet. Sci. Conf. 185-207.                      ,0                       ,2
+                  2.83                 0.17 g
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                     ,8                   In Geology of the Apollo 16 area, central lunar highlands.
+                        ,1             ,6     TS                  (Ulrich et al.) U.S.G.S. Prof. Paper 1048.                               ,5
+                TS
+--- references block 5; lines 46-58 ---
+,7                       Warren P.H. (1993) A concise compilation of petrologic
+                                   ,9     TS                         information on possibly pristine nonmare Moon rocks. Am.
+                                                             Mineral. 78, 360-376.
+                               ,13
+                       TS                                                      Warren P.H. and Wasson J.T. (1980a) Further foraging of
+                                                                       pristine nonmare rocks: Correlations between geochemistry
+   References for 67636                                                       and longitude. Proc. 11th Lunar Planet. Sci. Conf. 431-470.
+    Bersch M.G., Taylor G.J., Keil K. and Norman M.D. (1991)
+    Mineral compositions in pristine lunar highland rocks and                                                       Warren P.H. and Kallemeyn G.W. (1984) Pristine rocks (8th
+    the diversity of highland magmatism. Geophys. Res. Letters                                                                    foray): Plagiophile element ratios, crustal genesis, and the
+    18, 2085-2088.                                                            bulk composition of the Moon.  Proc. 15th Lunar Planet.
+                                                                     Sci. Conf. in J. Geophys. Res. 89, C16-C24.
+    Butler P. (1972) Lunar Sample Information Catalog Apollo
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 67636.
+
+
+    reference  Warren80
+    weight
+   SiO2 %    44.5       (a)
+    TiO2      0.036      (a)
+   Al2O3     32.88      (a)
+   FeO       1.93       (a)
+   MnO      0.006      (a)
+   MgO      1.76       (a)
+   CaO       17.6       (a)
+   Na2O     0.52       (a)
+   K2O      0.017      (a)
+   P2O5
+   S %
+   sum
+
+   Sc ppm   1           (a)
+   V
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 67636.
+
+
+    reference  Warren80
+    weight
+   SiO2 %    44.5       (a)
+    TiO2      0.036      (a)
+   Al2O3     32.88      (a)
+   FeO       1.93       (a)
+   MnO      0.006      (a)
+--- references block 3; lines 65-74 ---
+Os ppb
+      Ir ppb     0.17       (a)
+    Pt ppb
+   Au ppb    0.022      (a)
+   Th ppm    0.11        (a)
+   U ppm     0.2         (a)
+    technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2009

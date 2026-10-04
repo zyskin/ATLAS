@@ -1,0 +1,218 @@
+DOCUMENT_ID: 61224__compendium__3b2cc6e0da
+ATLAS_SAMPLE_IDS: 61224
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61224.pdf
+SOURCE_PDF_SHA256: 145e15d8b2d6b143ff680d5c8ed7d97597b65891c28b1a63f14b85a30d27b3d0
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 11-54 ---
+Petrography
+   Marvin and Warren (1980) describe 61224,6 and liken
+     it to a eucritic meteorite – accept that the Fe/Mn ratio      Figure 1: Group photo for 61224,6. Scale in mm.
+   proves it is lunar in origin. Marvin (1972) originally
+   called it “gabbroic microporphry”.  The gabbroic
+    texture and mineral mode is illustrated in figure 2.
+   Grain size is about 1- 2 mm.
+
+   Marvin and Mosie (1980) wrote 61224,6: “is a coarse-
+   grained, pristine, plutonic gabbro with a cumulate
+    texture in which chains of anhedral hyperthene and
+   augite grains coexist with plagioclase (An83).  The
+   plagioclase has been shocked in situ to a leafy,
+   optically-randomized state, and the grain boundaries
+   are occupied by a selvage of pyroxene-plagioclase
+   glass containing minute cyrstallites”.
+
+   Mineralogical Mode
+   40 % plagioclase
+   60% pyroxene
+
+   Mineralogy
+   Olivine: none
+
+   Pyroxene: Marvin and Warren (1980) and Takeda et
+    al. (1981) studied the composition and structure of
+   pyroxene (figures 3 and 4).  The Fe/Mn ratio of
+   pyroxene seems to indicate that this is a lunar gabbro,
+   not a meteorite (figure 5). Bersch et al. (1983) give
+   precise analyses of high- and low-Ca pyroxene in
+   61224,6.
+
+   Plagioclase:  Marvin and Warren (1980) reported
+   plagioclase as An79-87.
+
+   Selvage glass:  Marvin and Warren (1980) reported
+   the composition of shock-melted glass in 61224,6.
+
+                                                                Figure 2: Thin section photo of 61224,6 (from
+                                                          Marvin and Warren (1980).
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 2; lines 1-24 ---
+61224,6
+              Micro-Gabbro
+                     0.34 grams
+
+   Introduction
+   61224 contained several white and off-white particles
+   as well as 3 peppered black and white rock fragments
+    that appeared to fit together as one (figure 1). Thin
+   section studies showed this to be a shocked lunar
+   gabbro (albiet very fine-grained for a gabbro).
+
+   Petrography
+   Marvin and Warren (1980) describe 61224,6 and liken
+     it to a eucritic meteorite – accept that the Fe/Mn ratio      Figure 1: Group photo for 61224,6. Scale in mm.
+   proves it is lunar in origin. Marvin (1972) originally
+   called it “gabbroic microporphry”.  The gabbroic
+    texture and mineral mode is illustrated in figure 2.
+   Grain size is about 1- 2 mm.
+
+   Marvin and Mosie (1980) wrote 61224,6: “is a coarse-
+   grained, pristine, plutonic gabbro with a cumulate
+    texture in which chains of anhedral hyperthene and
+   augite grains coexist with plagioclase (An83).  The
+   plagioclase has been shocked in situ to a leafy,
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Di         61224,6 Gabbro     Hd   Table 1. Chemical composition of 61224                      Marvin and Warren
+                                                                                                            1980
+
+     reference  Marvin80
+     weight    Warren80
+    SiO2 %   50.7
+    TiO2      0.4        (a)
+    Al2O3     13.2      (a)
+   FeO      9.91      (a)
+   MnO      0.16      (a)
+   MgO      12.77     (a)
+   CaO      11.6       (a)                            En                                          Fs
+   Na2O     0.91      (a)
+   K2O      0.02      (a)                              Fo                                        Fa
+   P2O5                                                                                       compiled by C Meyer
+   S %
+    sum                                                          Figure 3: Pyroxene as reported by Marvin and
+                                                            Warren (1980).
+    Sc ppm   20.8      (a)
+   V
+--- mineralogy block 2; lines 11-23 ---
+MgO      12.77     (a)
+   CaO      11.6       (a)                            En                                          Fs
+   Na2O     0.91      (a)
+   K2O      0.02      (a)                              Fo                                        Fa
+   P2O5                                                                                       compiled by C Meyer
+   S %
+    sum                                                          Figure 3: Pyroxene as reported by Marvin and
+                                                            Warren (1980).
+    Sc ppm   20.8      (a)
+   V
+    Cr       1990      (a)
+   Co        23.6      (a)
+     Ni        8
+--- mineralogy block 3; lines 29-41 ---
+Se
+   Rb
+    Sr
+   Y
+     Zr       170       (a)
+   Nb                                                           Figure 4: Takeda et al. (1981) determined the
+   Mo                                                           composition of fine pyroxene lamallae in 61224
+   Ru                                                               (small dots).
+   Rh
+    Pd ppb
+    Ag ppb
+   Cd ppb    4.1        (a)
+     In ppb
+--- mineralogy block 4; lines 50-63 ---
+Nd       9          (a)
+   Sm       0.87      (a)
+    Eu        1.43      (a)
+   Gd
+    Tb        0.22      (a)
+    Dy
+   Ho                                                            Figure 5: Composition of pyroxene in 61224,6
+    Er                                                       compared with pyroxene from meteorites and other
+   Tm                                                              lunar samples (Marvin and Warren 1980).
+    Yb        1.06      (a)
+    Lu        0.16      (a)
+    Hf        0.55      (a)                           Chemistry
+    Ta        0.16      (a)                              Marvin and Warren (1980) and Warren and Wasson
+  W ppb                                            (1980) both reported the composition of 61224,6   Re ppb    12.6      (a)
+--- age block 5; lines 61-73 ---
+Hf        0.55      (a)                           Chemistry
+    Ta        0.16      (a)                              Marvin and Warren (1980) and Warren and Wasson
+  W ppb                                            (1980) both reported the composition of 61224,6   Re ppb    12.6      (a)
+   Os ppb                                                        (table). Warren (1992) termed it “pristine”.
+       Ir ppb     0.15      (a)
+     Pt ppb
+    Au ppb    0.08      (a)                            Radiogenic age dating
+    Th ppm   0.19      (a)                         None
+   U ppm    0.6        (a)
+     technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2012
+--- references block 6; lines 1-10 ---
+Di         61224,6 Gabbro     Hd   Table 1. Chemical composition of 61224                      Marvin and Warren
+                                                                                                            1980
+
+     reference  Marvin80
+     weight    Warren80
+    SiO2 %   50.7
+    TiO2      0.4        (a)
+    Al2O3     13.2      (a)
+   FeO      9.91      (a)
+   MnO      0.16      (a)
+--- references block 7; lines 64-73 ---
+Os ppb                                                        (table). Warren (1992) termed it “pristine”.
+       Ir ppb     0.15      (a)
+     Pt ppb
+    Au ppb    0.08      (a)                            Radiogenic age dating
+    Th ppm   0.19      (a)                         None
+   U ppm    0.6        (a)
+     technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: material,references ===
+--- material block 1; lines 1-9 ---
+Processing
+   Marvin and Mosie (1980) searched for additional
+   pieces of 61224,6 in the finer fractions of this soil
+   (61223 and 61222).
+
+
+
+
+                                                              61223,45
+--- material block 2; lines 44-56 ---
+Marvin U.B. (1976a) A unique eucritic gabbro from the
+    Descartes Highlands (abs). Meteoritics 11, 329-330.       Warren P.H. (1993) A concise compilation of petrologic
+                                                             information on possibly pristine nonmare Moon rocks. Am.
+   Marvin U.B. (1976b) Apollo 16 sample 61224,6: A lunar   Mineral. 78, 360-376.
+    or meteoritic eucrite? (abs) EOS 57, 277-278.
+                                                      Warren P.H. and Wasson J.T. (1980a) Further foraging of
+   Marvin U.B. and Mosie A.B. (1980) Apollo 16 soil catalog   pristine nonmare rocks: Correlations between geochemistry
+   61220: Classification and description of 1-4 mm fines. JSC  and longitude.  Proc. 11th  Lunar Planet. Sci. Conf. 431-
+    Curator Pub #53.                                        470.
+
+   Marvin U.B. and Warren P.H. (1980) A pristine eucrite-like
+   gabbro ftom Descartes and its exotic kindred.  Proc. 11th
+   Lunar Planet. Sci. Conf. 508-521.
+--- references block 3; lines 21-33 ---
+,50                              ,37
+               TS                       TS
+
+
+
+
+   References for 61224,6
+   Bersch M.G., Taylor G.J., Keil K. and Norman M.D. (1991)  Ryder G. and Norman M.D. (1979a)  Catalog of pristine
+   Mineral compositions in pristine lunar highland rocks and  non-mare materials Part 1. Non-anorthosites, revised.
+    the diversity of highland magmatism. Geophys. Res. Lett.  NASA-JSC Curatorial Facility Publ. JSC 14565, Houston.
+    18, 2085-2088.                                     147 pp.
+
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16

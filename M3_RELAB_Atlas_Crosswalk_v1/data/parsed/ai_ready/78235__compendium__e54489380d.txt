@@ -1,0 +1,947 @@
+DOCUMENT_ID: 78235__compendium__e54489380d
+ATLAS_SAMPLE_IDS: 78235,78236,78238
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/78235.pdf
+SOURCE_PDF_SHA256: 39930eadd8c980de078659005ff53272f620d3fd187b55fd57051d10b7d79d17
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+78235, 78236 and 78238
+                               Shocked Norite
+                                     199, 93.1 and 57.6 grams
+--- mineralogy block 2; lines 16-27 ---
+78235,0
+    (78237)                       78235,2
+
+
+
+
+           Figure 2: Photo of 78237 and 78235 norite (combined to be 78235) showing glass veins, highly
+           shocked plagioclase and yellowish orthopyroxene. Cube  is 1 cm. NASA # S73-17814.
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 3; lines 3-15 ---
+199, 93.1 and 57.6 grams
+
+
+
+
+
+                           Figure 1: Station 8 boulder found perched on soil before sampling the
+                             top left corner. NASA #AS17-146-22370. Footprints for scale.
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-41 ---
+Figure 4: Photo of 78238 showing glass vein. Side
+        Figure 3: PET photo of freshly broken surface of                                                                       of 1 cm cube is showing at right. NASA S73-15461
+        78236. Cube is 1 cm. Photo number S73-15393.
+
+   Introduction
+   Samples 78235-78238 were chipped off the top of a
+    small glass-covered boulder (~ 0.5 meter) which was
+   found “perched” on top of the lunar regolith at Station
+   8 (Jackson et al. 1975; Wolfe et al. 1981). The pieces
+     fell in the soil from which they were collected 9figure
+     1). Sample 78237 was found to fit 78235, so they were
+   numbered together as 78235 (199 grams)(figure 2).
+   Samples 78236 and 78238 were chipped off adjacent
+    areas and 78236 was used for many of the allocations.
+   Samples 78255 and 78256 were chipped from the
+   bottom of the boulder, after rolling it over. All of these
+    samples were found to be similar (if not identical) to       Figure 5: The outer surface of each piece was
+   one another (Meyer 1994).                                  coated with 1/4 inch of brown glass. This is the
+                                                                     reverse side of 78238 in figure 4. S73-15463.
+   The Station 8 boulder (figure 1) was accurately
+    described by the astronauts on the lunar surface:         least blue-grey plagioclase, and a very – let’s say light
+    06 20 20+ CDR “I think I’ll get one more swap off there.   yellow-tan mineral, probably orthopyroxene.   It’s fairly
+    Well, that disappeared. Get it this way. That disappeared ,   coarsely crystalline. By coarsely crystalline, probably, the
+    too?  Boy, is that pretty inside. Whoo! We haven’t seen  average grain size will turn out to be about 3 or 4
+    anything like this.  I haven’t. Unless you’ve been holding   millimeters, maybe half a centimeter”.
+    out on me.” LMP “No, this is a nice crystalline rock. This
+     is about 50-50 mixture of what looks like maskelynite or at
+
+              Mineralogical Mode (vol. %)
+                                Jackson et al. McCallum and     Dymek et al.   Steele 1975
+                                1975        Mathez 1975         1975
+               Orthopyroxene          40-60 %        51.2                  40            ~30
+               Clinopyroxene         < 0.1            0.01                                 tr.                        tr.
+                Plagioclase             60-40           48.2                  40            ~55
+                  Silica                                    0.25                                                            tr.
+                Apatite                                  0.02                                 tr.                        tr.
+                Whitlockite                             0.012                               tr.                        tr.
+               Glass                                                    20            15
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 2; lines 2-32 ---
+Figure 3: PET photo of freshly broken surface of                                                                       of 1 cm cube is showing at right. NASA S73-15461
+        78236. Cube is 1 cm. Photo number S73-15393.
+
+   Introduction
+   Samples 78235-78238 were chipped off the top of a
+    small glass-covered boulder (~ 0.5 meter) which was
+   found “perched” on top of the lunar regolith at Station
+   8 (Jackson et al. 1975; Wolfe et al. 1981). The pieces
+     fell in the soil from which they were collected 9figure
+     1). Sample 78237 was found to fit 78235, so they were
+   numbered together as 78235 (199 grams)(figure 2).
+   Samples 78236 and 78238 were chipped off adjacent
+    areas and 78236 was used for many of the allocations.
+   Samples 78255 and 78256 were chipped from the
+   bottom of the boulder, after rolling it over. All of these
+    samples were found to be similar (if not identical) to       Figure 5: The outer surface of each piece was
+   one another (Meyer 1994).                                  coated with 1/4 inch of brown glass. This is the
+                                                                     reverse side of 78238 in figure 4. S73-15463.
+   The Station 8 boulder (figure 1) was accurately
+    described by the astronauts on the lunar surface:         least blue-grey plagioclase, and a very – let’s say light
+    06 20 20+ CDR “I think I’ll get one more swap off there.   yellow-tan mineral, probably orthopyroxene.   It’s fairly
+    Well, that disappeared. Get it this way. That disappeared ,   coarsely crystalline. By coarsely crystalline, probably, the
+    too?  Boy, is that pretty inside. Whoo! We haven’t seen  average grain size will turn out to be about 3 or 4
+    anything like this.  I haven’t. Unless you’ve been holding   millimeters, maybe half a centimeter”.
+    out on me.” LMP “No, this is a nice crystalline rock. This
+     is about 50-50 mixture of what looks like maskelynite or at
+
+              Mineralogical Mode (vol. %)
+                                Jackson et al. McCallum and     Dymek et al.   Steele 1975
+                                1975        Mathez 1975         1975
+               Orthopyroxene          40-60 %        51.2                  40            ~30
+
+=== PDF PAGE 3; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-40 ---
+Figure 6 a,b: Thin section photomicrographs of 78238,17 showing shock features in plagioclase (maskelynite).
+      Photos by C Meyer @ 20 x.
+
+  Zap pits found on samples from top and bottom (see  cm to 0.7 by 1.0 cm.  Both minerals are partially
+   also 78255) of this “perched” boulder indicate that the   shattered and much of the plagioclase is converted to
+   boulder has rolled around on the lunar surface (Jackson  maskelynite (figures 6 a,b). Small amounts of bright-
+   et al. 1975). The fact that the boulder was covered  green postcumulus clinopyroxene can be seen in hand
+   with glass, indicated it may have been a “bomb”. The  specimen. Jackson et al. give a description of the fabric
+   age has been determined to be about 4.3 b.y. which has  and suggested history of the boulder.  78235 is
+   been used to constrain the end of the magma ocean,  considered an end member of the mg-norite suite
+   and beginning of mg-suite magmatism.  It has been   (figure 9).
+   exposed to cosmic rays for about 300 m.y. The glass
+   coating has not been dated.                          Trace amounts of metal, troilite, chromite, Nb-rutile,
+                                                         zircon and baddeleyite are also reported (Dymek et al.
+  Petrography                                     1975; McCallum and Mathez 1975; Sclar and Bauer
+  Sample 78235 is a heavily-shocked norite of cumulate  1975, 1976; Steele 1975).
+   origin with a glass coating and glass veins (Jackson et
+    al. 1975).  Cumulus orthopyroxene is tabular, and  The shock event that disturbed 78235 has been
+   generally ranges in size from 0.2 by 0.3 cm to 0.5 by   investigated by Sclar and Bauer (1975, 1976). The
+   0.7 cm. Cumulus plagioclase ranges from 0.3 by 0.4  presence of maskelynite indicates that the shock
+                                                      pressure was between 300 and 400 kbar, and the
+                                                   presence of glass veins may mean that the rock
+    Additional modal mineralogy (Edmunson et al. 2009).
+                                                      experienced pressures in excess of 500 kbar. Sclar and
+                                                  Bauer (1976) have speculated that fine oriented rods
+                                                         of metallic iron in the plagioclase and maskelynite are
+                                                 due to subsolidus reduction of iron during shock (but
+                                                                  this feature was also observed in 76535).
+
+                                            Mineralogy
+                                                   Pyroxene:  The composition of pyroxene in 78235
+                                                     has been reported by McCallum and Mathez (1975),
+                                        Dymek et al. (1975), Takeda et al. (1982) and Bersch
+                                                             et  al. (1991).  Homogeneous orthopyroxene
+                                                 Wo3En78Fs19  is dominant, with minor  augite
+                                                  Wo47En45Fs8 (figure 7).  McCallum and Mathez
+                                                        estimated a temperature of equilibration of ~800 deg
+                                                    C.
+--- material block 2; lines 16-28 ---
+Sample 78235 is a heavily-shocked norite of cumulate  1975, 1976; Steele 1975).
+   origin with a glass coating and glass veins (Jackson et
+    al. 1975).  Cumulus orthopyroxene is tabular, and  The shock event that disturbed 78235 has been
+   generally ranges in size from 0.2 by 0.3 cm to 0.5 by   investigated by Sclar and Bauer (1975, 1976). The
+   0.7 cm. Cumulus plagioclase ranges from 0.3 by 0.4  presence of maskelynite indicates that the shock
+                                                      pressure was between 300 and 400 kbar, and the
+                                                   presence of glass veins may mean that the rock
+    Additional modal mineralogy (Edmunson et al. 2009).
+                                                      experienced pressures in excess of 500 kbar. Sclar and
+                                                  Bauer (1976) have speculated that fine oriented rods
+                                                         of metallic iron in the plagioclase and maskelynite are
+                                                 due to subsolidus reduction of iron during shock (but
+                                                                  this feature was also observed in 76535).
+--- age block 3; lines 3-19 ---
+Zap pits found on samples from top and bottom (see  cm to 0.7 by 1.0 cm.  Both minerals are partially
+   also 78255) of this “perched” boulder indicate that the   shattered and much of the plagioclase is converted to
+   boulder has rolled around on the lunar surface (Jackson  maskelynite (figures 6 a,b). Small amounts of bright-
+   et al. 1975). The fact that the boulder was covered  green postcumulus clinopyroxene can be seen in hand
+   with glass, indicated it may have been a “bomb”. The  specimen. Jackson et al. give a description of the fabric
+   age has been determined to be about 4.3 b.y. which has  and suggested history of the boulder.  78235 is
+   been used to constrain the end of the magma ocean,  considered an end member of the mg-norite suite
+   and beginning of mg-suite magmatism.  It has been   (figure 9).
+   exposed to cosmic rays for about 300 m.y. The glass
+   coating has not been dated.                          Trace amounts of metal, troilite, chromite, Nb-rutile,
+                                                         zircon and baddeleyite are also reported (Dymek et al.
+  Petrography                                     1975; McCallum and Mathez 1975; Sclar and Bauer
+  Sample 78235 is a heavily-shocked norite of cumulate  1975, 1976; Steele 1975).
+   origin with a glass coating and glass veins (Jackson et
+    al. 1975).  Cumulus orthopyroxene is tabular, and  The shock event that disturbed 78235 has been
+   generally ranges in size from 0.2 by 0.3 cm to 0.5 by   investigated by Sclar and Bauer (1975, 1976). The
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 40-65 ---
+conditions. It was noted by them that this is in contrast  Hinthorne et al. (1977) report analyses.
+    to the orthopyoxene commonly found in the “noritic”
+    breccias from Apollo 17. Takeda et al. (1982) have   Baddeleyite: McCallum and Mathez (1975) give and
+    also studied the structure of orthopyroxene in 78236.   analysis of baddeleyite. Hinthorne et al. (1977) were
+   Winzer et al. (1975), Bersch et al. (1991), Hinthorne   able to date it.
+     et al. (1977), Steele et al. (1980), Papike et al. (1994)
+   and Palme et al. (1984) have reported the trace element  Zircon: Hinthorne et al. (1977) studied a large zircon.
+    content.
+
+   Trace amounts of augite are found
+    intergrown with chromite, and other minor
+    phases in the boundary areas.
+
+   Plagioclase:  The composition of
+    plagioclase (An93-95) in 78235 is given in
+    figure 8. Much of it has been converted
+    to maskelynite by shock. Winzer et al.
+    (1975), Hansen et al. (1979) and Steele et
+     al. (1980) and Papike et al. (1994) have
+    determined the trace element content of
+    plagioclase in 78235.
+
+    Silica:  Steele (1975) and Dymek et al.                   Figure 10: Co and Ni contents of 78235 and 238
+                                                            (Hewins and Goldstein 1975 and McCallum and    reported silica.
+                                                          Mathez 1975).
+--- mineralogy block 2; lines 1-7 ---
+78235                                             An in plagioclase
+                Di                   Hd                         75       80        85       90       95
+
+                                      10 points
+
+
+                                                                                                                                                              troctolites
+--- mineralogy block 3; lines 12-66 ---
+mg-suite
+                                                                                                                                          norites                 80                                                                                                                                   En
+                              50 points                                                                                                         in
+   En                                          Fs                                                                                                                                                                                                                                                                                                                                                                                                        low-Ca                                                                                                           gabbro-                           70
+    Fo                                        Fa                                   norites
+
+           compiled by C Meyer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           pyroxene
+                                                                                                                                                 ferroan-        60
+         Figure 7: Pyroxene composition for 78235 norite                                                            anorthosite
+         from McCallum and Mathez (1975).
+
+                                                                                                                                 50
+                             78235 plag
+
+                                                                            04 % Or
+                                                                  Figure 9: An-En diagram showing that 78235 is
+                                                                             02 % Or        an end member of the mg-norite suite.
+
+
+            82   84    86    88    90    92   94    96   98   100
+                               mole % An
+
+         Figure 8: Plagioclase composition for 78235 from    Chromite: Dymek et al., McCallum and Mathez, Sclar
+       Dymek et al. (1975), McCallum and Mathez (1975).   and Bauer and Dymek et al. found chromite intergrown
+    Steele (1975) found that the x-ray determined structure  with augite and other accessory phases.
+    of orthopyoxene grains from the soil adjacent to 78235
+   had symmetry of space group P21ca which requires long  Phosphate: Both whitlockite and apatite are present
+    annealing time (Smyth 1974) suggesting plutonic   (Steele 1975). McCallum and Mathez (1975) and
+    conditions. It was noted by them that this is in contrast  Hinthorne et al. (1977) report analyses.
+    to the orthopyoxene commonly found in the “noritic”
+    breccias from Apollo 17. Takeda et al. (1982) have   Baddeleyite: McCallum and Mathez (1975) give and
+    also studied the structure of orthopyroxene in 78236.   analysis of baddeleyite. Hinthorne et al. (1977) were
+   Winzer et al. (1975), Bersch et al. (1991), Hinthorne   able to date it.
+     et al. (1977), Steele et al. (1980), Papike et al. (1994)
+   and Palme et al. (1984) have reported the trace element  Zircon: Hinthorne et al. (1977) studied a large zircon.
+    content.
+
+   Trace amounts of augite are found
+    intergrown with chromite, and other minor
+    phases in the boundary areas.
+
+   Plagioclase:  The composition of
+    plagioclase (An93-95) in 78235 is given in
+    figure 8. Much of it has been converted
+    to maskelynite by shock. Winzer et al.
+    (1975), Hansen et al. (1979) and Steele et
+     al. (1980) and Papike et al. (1994) have
+    determined the trace element content of
+    plagioclase in 78235.
+
+    Silica:  Steele (1975) and Dymek et al.                   Figure 10: Co and Ni contents of 78235 and 238
+                                                            (Hewins and Goldstein 1975 and McCallum and    reported silica.
+                                                          Mathez 1975).
+
+Lunar Sample Compendium
+--- material block 4; lines 31-43 ---
+82   84    86    88    90    92   94    96   98   100
+                               mole % An
+
+         Figure 8: Plagioclase composition for 78235 from    Chromite: Dymek et al., McCallum and Mathez, Sclar
+       Dymek et al. (1975), McCallum and Mathez (1975).   and Bauer and Dymek et al. found chromite intergrown
+    Steele (1975) found that the x-ray determined structure  with augite and other accessory phases.
+    of orthopyoxene grains from the soil adjacent to 78235
+   had symmetry of space group P21ca which requires long  Phosphate: Both whitlockite and apatite are present
+    annealing time (Smyth 1974) suggesting plutonic   (Steele 1975). McCallum and Mathez (1975) and
+    conditions. It was noted by them that this is in contrast  Hinthorne et al. (1977) report analyses.
+    to the orthopyoxene commonly found in the “noritic”
+    breccias from Apollo 17. Takeda et al. (1982) have   Baddeleyite: McCallum and Mathez (1975) give and
+    also studied the structure of orthopyroxene in 78236.   analysis of baddeleyite. Hinthorne et al. (1977) were
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 29-41 ---
+for analysis. Data from Blanchard, Warren and Wasson and Winzer (see tables).
+
+
+
+
+
+        Figure 12: Chemical composition of glass veins and        Figure 13: Normalized rare-earth-element diagram
+        coating on boulder at station 8 (figure from Dymek et         for mineral seperates from 78235 (Winzer et al.
+          al. 1975).                                                 1975). see also Blanchard and McKay (1981) for a
+                                                                      similar diagram for 78236.
+   Rutile:  McCallum and Mathez (1975) report an
+   analysis of rutile (with high Nb). Steele (1975) reported   the metal grains in the glass coating have low Co/Ni
+   as much as 14% Nb2O5.                                   ratio indicating meteoritic contamination of the glass
+--- mineralogy block 2; lines 29-49 ---
+for analysis. Data from Blanchard, Warren and Wasson and Winzer (see tables).
+
+
+
+
+
+        Figure 12: Chemical composition of glass veins and        Figure 13: Normalized rare-earth-element diagram
+        coating on boulder at station 8 (figure from Dymek et         for mineral seperates from 78235 (Winzer et al.
+          al. 1975).                                                 1975). see also Blanchard and McKay (1981) for a
+                                                                      similar diagram for 78236.
+   Rutile:  McCallum and Mathez (1975) report an
+   analysis of rutile (with high Nb). Steele (1975) reported   the metal grains in the glass coating have low Co/Ni
+   as much as 14% Nb2O5.                                   ratio indicating meteoritic contamination of the glass
+                                                             (figure 10).
+   Metal: McCallum and Mathez (1975), Hewins and
+   Goldstein (1975) and Mehta and Goldstein (1980) have   Troilite: Steele (1975) reported large discrete grains
+   studied the provenance of iron metal in 78235. The   of troilite.
+   metal grains in the norite have high Co/Ni ratio while
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 3; lines 22-34 ---
+0.1
+               La         Sm        Tb               Yb
+                Ce    Nd     Eu        Dy      Er         Lu
+
+                Figure 11: Normalized rare-earth-element diagram for samples of station 8 boulder. This
+                data is in agreement, considering the coarse grain size of the rock and small alloquot used
+                   for analysis. Data from Blanchard, Warren and Wasson and Winzer (see tables).
+
+=== PDF PAGE 6; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 78235.
+                                                                                78234 ****
+     reference   Winzer 75   Winzer 75   Winzer 75   Higuchi 75   Higuchi 75   Keith 74    Warren 87
+     weight      norite        rind glass    vein glass   norite       glass       whole      coarse fine
+    SiO2 %     49.5      (b) 49.7      (b) 49.8     (b)                        sample     50.93     (f)
+    TiO2        0.16      (a) 0.16      (a) 0.19     (a)                                      0.25       (f)
+    Al2O3      20.87    (b) 17.58    (b) 17.15    (b)                                     14.36     (f)
+   FeO        5.05      (b) 7.39      (b) 7.52     (b)                                      7.33       (f)
+   MnO        0.08      (b)  0.11      (b) 0.12     (b)                                     0.126     (f)
+   MgO        11.76     (b) 14.51    (b) 14.98    (b)                                     16.43     (f)
+   CaO        11.71     (b) 9.86      (b) 9.92     (b)                                       9.24       (f)
+   Na2O       0.35      (b) 0.34      (b) 0.35     (b)                                       0.25       (f)
+   K2O        0.061    (b) 0.058    (b) 0.06     (b)                          0.059   (e) 0.055     (f)
+   P2O5       0.04      (a) 0.07      (a) 0.08     (a)
+   S %
+    sum
+
+    Sc ppm                                                                      13          (f)
+   V
+--- mineralogy block 2; lines 1-10 ---
+Table 1. Chemical composition of 78235.
+                                                                                78234 ****
+     reference   Winzer 75   Winzer 75   Winzer 75   Higuchi 75   Higuchi 75   Keith 74    Warren 87
+     weight      norite        rind glass    vein glass   norite       glass       whole      coarse fine
+    SiO2 %     49.5      (b) 49.7      (b) 49.8     (b)                        sample     50.93     (f)
+    TiO2        0.16      (a) 0.16      (a) 0.19     (a)                                      0.25       (f)
+    Al2O3      20.87    (b) 17.58    (b) 17.15    (b)                                     14.36     (f)
+   FeO        5.05      (b) 7.39      (b) 7.52     (b)                                      7.33       (f)
+   MnO        0.08      (b)  0.11      (b) 0.12     (b)                                     0.126     (f)
+   MgO        11.76     (b) 14.51    (b) 14.98    (b)                                     16.43     (f)
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 78235.
+                                                                                78234 ****
+     reference   Winzer 75   Winzer 75   Winzer 75   Higuchi 75   Higuchi 75   Keith 74    Warren 87
+     weight      norite        rind glass    vein glass   norite       glass       whole      coarse fine
+    SiO2 %     49.5      (b) 49.7      (b) 49.8     (b)                        sample     50.93     (f)
+    TiO2        0.16      (a) 0.16      (a) 0.19     (a)                                      0.25       (f)
+    Al2O3      20.87    (b) 17.58    (b) 17.15    (b)                                     14.36     (f)
+   FeO        5.05      (b) 7.39      (b) 7.52     (b)                                      7.33       (f)
+   MnO        0.08      (b)  0.11      (b) 0.12     (b)                                     0.126     (f)
+--- references block 4; lines 64-73 ---
+Os ppb
+       Ir ppb                                           0.135     (d) 25.9      (d)
+     Pt ppb
+    Au ppb                                          0.421     (d) 5.08      (d)
+    Th ppm                                                                    0.59     (e) 0.62       (f)
+   U ppm                                            0.36      (d) 0.2       (d) 0.196   (e) 0.22       (f)
+     technique  (a) colorimetry, (b) flame AA, (c ) IDMS, (d) RNAA, (e) radiation counting, (f) INAA (coarse fine)
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 7; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-44 ---
+Table 2. Chemical composition of 78236.
+                                                  Table 3: Solar flare activity (Keith et al. 1974).
+    reference   Blanchard 81  Nyquist 81                       sample       78235        78255
+   weight                                         dpm/Kg
+   SiO2 %     50.15                                              26Al           77 ± 7         65 ± 6
+   TiO2        0.18
+                                                            22Na           111 ± 8        50 ± 5   Al2O3      17.66
+   FeO        6.49                                      54Mn          55 ± 8         10 ± 5
+  MnO        0.12                                          56Co           52 ± 9         30 ± 20
+  MgO        14.28                                              46Sc             1.4 ± 0.9       <15
+  CaO        10.12
+                                                            48V           <12   Na2O       0.31
+   K2O        0.04
+   P2O5       0.08                                    Glass:  The abundant, flow-banded, glass that
+   S %        0.02
+   sum                                                surrounds and invades this sample has been carefully
+                                                         described by McCallum and Mathez (1975) and Dymek
+   Sc ppm     11.2       (a)                                      et al. (1975).
+   V
+   Cr         2120      (a)
+   Co          28.2       (a)                          Chemistry
+    Ni
+   Cu                                          The chemical composition of 78235 was determined
+   Zn                                            by Winzer et al. (1975) and Higuchi and Morgan (1975)
+   Ga                                                         (table 1 and figure 11). Warren (1987) reported the
+   Ge
+   As                                                chemical composition of a coarse-fine from the soil
+   Se                                                (78234) and Warren and Wasson (1979) have analyzed
+   Rb                       0.862     (b)                    78255. Note: this is coarse-grained rock and the small   Sr                     104       (b)
+   Y                                             sample size allocated for chemical analyses may
+    Zr                                                     necessarily lead to non-representative analyses.
+   Nb
+  Mo
+   Ru                                       The bulk composition of 78235 plots near the
+   Rh                                                  pyroxene-plagioclase coetectic on the phase diagram
+   Pd ppb
+   Ag ppb                                                    for lunar highland rocks at low pressure (Walker et al.
+   Cd ppb                                               1973). The chemical composition of mineral seperates
+    In ppb                                              has been reported (figure 13).   Sn ppb
+   Sb ppb
+   Te ppb                                       The glass coatings and veins have also been analyzed
+   Cs ppm
+                                                   (Winzer et al., Sclar and Bauer, Steele, McCallum and   Ba
+   La          4.47       (a)                              Mathez, and Dymek et al.). The composition of the
+--- mineralogy block 2; lines 8-20 ---
+FeO        6.49                                      54Mn          55 ± 8         10 ± 5
+  MnO        0.12                                          56Co           52 ± 9         30 ± 20
+  MgO        14.28                                              46Sc             1.4 ± 0.9       <15
+  CaO        10.12
+                                                            48V           <12   Na2O       0.31
+   K2O        0.04
+   P2O5       0.08                                    Glass:  The abundant, flow-banded, glass that
+   S %        0.02
+   sum                                                surrounds and invades this sample has been carefully
+                                                         described by McCallum and Mathez (1975) and Dymek
+   Sc ppm     11.2       (a)                                      et al. (1975).
+   V
+   Cr         2120      (a)
+--- mineralogy block 3; lines 29-53 ---
+Rb                       0.862     (b)                    78255. Note: this is coarse-grained rock and the small   Sr                     104       (b)
+   Y                                             sample size allocated for chemical analyses may
+    Zr                                                     necessarily lead to non-representative analyses.
+   Nb
+  Mo
+   Ru                                       The bulk composition of 78235 plots near the
+   Rh                                                  pyroxene-plagioclase coetectic on the phase diagram
+   Pd ppb
+   Ag ppb                                                    for lunar highland rocks at low pressure (Walker et al.
+   Cd ppb                                               1973). The chemical composition of mineral seperates
+    In ppb                                              has been reported (figure 13).   Sn ppb
+   Sb ppb
+   Te ppb                                       The glass coatings and veins have also been analyzed
+   Cs ppm
+                                                   (Winzer et al., Sclar and Bauer, Steele, McCallum and   Ba
+   La          4.47       (a)                              Mathez, and Dymek et al.). The composition of the
+   Ce          12.8       (a)                                  glass coating and of the glass veins appear to be a
+   Pr
+   Nd                       7.02      (b)                    mixture of the plagioclase and the pyroxene (figure
+  Sm         1.93       (a)  2          (b)                       12).
+   Eu          0.82       (a)
+   Gd
+   Tb          0.53       (a)                           Radiogenic age dating
+   Dy                                                 Hinthorne et al. (1977) dated 78235 by Pb-Pb ion probe
+   Ho
+--- material block 4; lines 21-35 ---
+Co          28.2       (a)                          Chemistry
+    Ni
+   Cu                                          The chemical composition of 78235 was determined
+   Zn                                            by Winzer et al. (1975) and Higuchi and Morgan (1975)
+   Ga                                                         (table 1 and figure 11). Warren (1987) reported the
+   Ge
+   As                                                chemical composition of a coarse-fine from the soil
+   Se                                                (78234) and Warren and Wasson (1979) have analyzed
+   Rb                       0.862     (b)                    78255. Note: this is coarse-grained rock and the small   Sr                     104       (b)
+   Y                                             sample size allocated for chemical analyses may
+    Zr                                                     necessarily lead to non-representative analyses.
+   Nb
+  Mo
+   Ru                                       The bulk composition of 78235 plots near the
+   Rh                                                  pyroxene-plagioclase coetectic on the phase diagram
+--- material block 5; lines 56-68 ---
+Yb          2.12       (a)                            were all consistent at 4.25 ± 0.09 b.y., these data   Lu          0.32       (a)
+   Hf           1.7        (a)                                required correction for unspecified molecular ion
+   Ta          0.2        (a)                                    interferences. It is also difficult to understand how the
+  W ppb
+                                            U-Pb system in minor phases could not have been   Re ppb
+   Os ppb                                                  affected by the shock melting that is evident in this
+     Ir ppb                                                   rock. For these reasons this Pb-Pb age is generally not
+    Pt ppb
+   Au ppb                                              accepted – although it has been generally confirmed
+   Th ppm     0.6        (a)                            by more recent work (see table).
+  U ppm
+   technique  (a) INAA, (b) IDMS
+--- age block 6; lines 45-68 ---
+Ce          12.8       (a)                                  glass coating and of the glass veins appear to be a
+   Pr
+   Nd                       7.02      (b)                    mixture of the plagioclase and the pyroxene (figure
+  Sm         1.93       (a)  2          (b)                       12).
+   Eu          0.82       (a)
+   Gd
+   Tb          0.53       (a)                           Radiogenic age dating
+   Dy                                                 Hinthorne et al. (1977) dated 78235 by Pb-Pb ion probe
+   Ho
+   Er                                        method (see table).  Although ages from three
+  Tm                                                   baddeleyites and one zircon in thin section 78235,49
+   Yb          2.12       (a)                            were all consistent at 4.25 ± 0.09 b.y., these data   Lu          0.32       (a)
+   Hf           1.7        (a)                                required correction for unspecified molecular ion
+   Ta          0.2        (a)                                    interferences. It is also difficult to understand how the
+  W ppb
+                                            U-Pb system in minor phases could not have been   Re ppb
+   Os ppb                                                  affected by the shock melting that is evident in this
+     Ir ppb                                                   rock. For these reasons this Pb-Pb age is generally not
+    Pt ppb
+   Au ppb                                              accepted – although it has been generally confirmed
+   Th ppm     0.6        (a)                            by more recent work (see table).
+  U ppm
+   technique  (a) INAA, (b) IDMS
+--- references block 7; lines 1-9 ---
+Table 2. Chemical composition of 78236.
+                                                  Table 3: Solar flare activity (Keith et al. 1974).
+    reference   Blanchard 81  Nyquist 81                       sample       78235        78255
+   weight                                         dpm/Kg
+   SiO2 %     50.15                                              26Al           77 ± 7         65 ± 6
+   TiO2        0.18
+                                                            22Na           111 ± 8        50 ± 5   Al2O3      17.66
+   FeO        6.49                                      54Mn          55 ± 8         10 ± 5
+  MnO        0.12                                          56Co           52 ± 9         30 ± 20
+--- references block 8; lines 48-70 ---
+Sm         1.93       (a)  2          (b)                       12).
+   Eu          0.82       (a)
+   Gd
+   Tb          0.53       (a)                           Radiogenic age dating
+   Dy                                                 Hinthorne et al. (1977) dated 78235 by Pb-Pb ion probe
+   Ho
+   Er                                        method (see table).  Although ages from three
+  Tm                                                   baddeleyites and one zircon in thin section 78235,49
+   Yb          2.12       (a)                            were all consistent at 4.25 ± 0.09 b.y., these data   Lu          0.32       (a)
+   Hf           1.7        (a)                                required correction for unspecified molecular ion
+   Ta          0.2        (a)                                    interferences. It is also difficult to understand how the
+  W ppb
+                                            U-Pb system in minor phases could not have been   Re ppb
+   Os ppb                                                  affected by the shock melting that is evident in this
+     Ir ppb                                                   rock. For these reasons this Pb-Pb age is generally not
+    Pt ppb
+   Au ppb                                              accepted – although it has been generally confirmed
+   Th ppm     0.6        (a)                            by more recent work (see table).
+  U ppm
+   technique  (a) INAA, (b) IDMS
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 8; CATEGORIES: age,material ===
+--- material block 1; lines 14-26 ---
+Premo and Tatsumoto (1991 and 1992) have studied
+                                                        the U-Th-Pb isotopic systematics of 78235 and
+                                                     determined an initial crystallization age of 4.426 ±
+                                                      0.065 b.y. with a disturbance at 3.93 ± 0.21 b.y. (figure
+                                                             20). Sample 78236 (from the same rock) has also been
+                                                        dated by Nyquist et al. (1981), Carlson and Lugmair
+                                                          (1982), Aeschimann et al. (1982) and Edmumson et
+                                                                          al. (2009)(see figure 14 - 21).          Figure 16: Sm-Nd isochron for 78236. From
+          Carlson and Lugmair (1981).
+
+          Summary of ages for 78235 and 78236
+--- age block 2; lines 12-27 ---
+Figure 18: Rb-Sr isochron for 78238 and 78236
+                                                         (Edmunson et al. 2009).
+
+
+                                              Premo and Tatsumoto (1991 and 1992) have studied
+                                                        the U-Th-Pb isotopic systematics of 78235 and
+                                                     determined an initial crystallization age of 4.426 ±
+                                                      0.065 b.y. with a disturbance at 3.93 ± 0.21 b.y. (figure
+                                                             20). Sample 78236 (from the same rock) has also been
+                                                        dated by Nyquist et al. (1981), Carlson and Lugmair
+                                                          (1982), Aeschimann et al. (1982) and Edmumson et
+                                                                          al. (2009)(see figure 14 - 21).          Figure 16: Sm-Nd isochron for 78236. From
+          Carlson and Lugmair (1981).
+
+          Summary of ages for 78235 and 78236
+                                        Pb/Pb  U/Pb   Rb/Sr       Sm/Nd        Ar/Ar
+
+=== PDF PAGE 9; CATEGORIES: age,mineralogy,references ===
+--- mineralogy block 1; lines 1-7 ---
+Figure 19: Ar release pattern for plagioclase from 78236. From Aeschlimann et al. (1982).
+
+
+
+
+
+                                                               Figure 21: Pb-Pb study of 78238 (Edmunson et al.
+--- age block 2; lines 6-19 ---
+Figure 21: Pb-Pb study of 78238 (Edmunson et al.
+             Figure 20: U-Pb systematics of 78235 from           2009).
+           Premo and Tatsumoto (1991).
+
+
+  Cosmogenic isotopes and exposure ages                                                Drozd et al. (1977) determined an exposure age of 292
+   Keith et al. (1974) determined the cosmic ray and solar                                           ± 14 m.y. for 78235 using the 81Kr-Kr method.
+   flare induced activity from the large solar flare of
+   August 1972 using the top and bottom of this boulder
+   (table 2).
+--- references block 3; lines 7-19 ---
+Figure 21: Pb-Pb study of 78238 (Edmunson et al.
+             Figure 20: U-Pb systematics of 78235 from           2009).
+           Premo and Tatsumoto (1991).
+
+
+  Cosmogenic isotopes and exposure ages                                                Drozd et al. (1977) determined an exposure age of 292
+   Keith et al. (1974) determined the cosmic ray and solar                                           ± 14 m.y. for 78235 using the 81Kr-Kr method.
+   flare induced activity from the large solar flare of
+   August 1972 using the top and bottom of this boulder
+   (table 2).
+
+=== PDF PAGE 10; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 23-35 ---
+Jackson et al. (1975) studied the fabric of this coarse-             TS
+    grain rock, Sclar and Bauer (1975, 1976) studied shock
+    features and Simmons et al. (1975) remarked on the
+    presence of “microcracks”.
+
+   Mayeda et al. (1975) reported oxygen isotope analyses
+    of plagioclase and of pyroxene from 78235 (they should
+   have calculated a temperature).
+
+   Processing
+    After the pieces were chipped off of the boulder, they
+     fell in the regolith. During PET, 78237 and 78235 were
+   found to fit together (figure 2) so 78237 was
+--- mineralogy block 2; lines 39-51 ---
+78235 is one of the rocks featured in the Lunar
+    Petrographic Educational Thin Section Set (Meyer
+    2003).
+
+                                                                 Figure 22: Reverse side of 78236 - see also figure 3.
+                                                          The whole bouldr was covered with this thick brown
+                                                                       glass coating.
+
+
+
+
+
+Lunar Sample Compendium
+--- material block 3; lines 18-40 ---
+,7
+                                                                                       ,14
+                                                                                       ,20
+
+   Other Studies                                                                                       ,23
+    Jackson et al. (1975) studied the fabric of this coarse-             TS
+    grain rock, Sclar and Bauer (1975, 1976) studied shock
+    features and Simmons et al. (1975) remarked on the
+    presence of “microcracks”.
+
+   Mayeda et al. (1975) reported oxygen isotope analyses
+    of plagioclase and of pyroxene from 78235 (they should
+   have calculated a temperature).
+
+   Processing
+    After the pieces were chipped off of the boulder, they
+     fell in the regolith. During PET, 78237 and 78235 were
+   found to fit together (figure 2) so 78237 was
+   renumbered 78235,0. T8236 and 78238 are identical,
+    as is 78255 (from the other side of boulder).
+
+   78235 is one of the rocks featured in the Lunar
+    Petrographic Educational Thin Section Set (Meyer
+
+=== PDF PAGE 11; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 1-60 ---
+References for 78235, 78236 and 78238
+   Aeschlimann U., Eberhardt P., Geiss J., Grogler N., Kurtz J.   ElGoresy A., Engelhardt W.von, Arndt J. and Manglier D.
+   and Marti K. (1982) On the age of cumulate norite 78236   (1976) Shocked norite 78235: primary textures and shock
+    (abs). Lunar Planet. Sci. XIII, 1-2. Lunar Planetary Institute,   features (abs). Lunar Sci. VII, 239-241.  Lunar Science
+   Houston.                                                           Institute, Houston.
+
+   Bersch M.G., Taylor G.J., Keil K. and Norman M.D. (1991)  Hansen E.C., Steele I.M. and Smith J.V. (1979a)  Lunar
+   Mineral compositions in pristine lunar highland rocks and   highland rocks: Element partitioning among minerals 1:
+   the diversity of highland magmatism. Geophys. Res. Lett.   Electron microprobe analyses of Na, K, and Fe in
+   18, 2085-2088.                                               plagioclase; mg partitioning with orthopyroxene. Proc. 10th
+                                                     Lunar Planet. Sci. Conf. 627-638.
+   Blanchard D.P. and McKay G.A. (1981) Remnants from
+   the ancient lunar crust III: Norite 78236 (abs). Lunar Planet.  Hewins R.H. and Goldstein J.I. (1975a) The provenance of
+    Sci. XII, 83-85. Lunar Planetary Institute, Houston.         metal in anorthositic rocks. Proc. 6th Lunar Sci. Conf. 343-
+                                                           362.
+   Boyet M. and Calson R.W. (2007) A highly depleted moon
+   or a non-magma ocean origin for the lunar crust?  Earth   Higuchi H. and Morgan J.W. (1975a) Ancient meteoritic
+   Planet. Sci. Lett. 262, 505-516.                         component in Apollo 17 boulders. Proc. 6th Lunar Sci. Conf.
+                                                        1625-1651.
+   Butler P. (1973) Lunar Sample Information Catalog
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211   Hinthorne J.R., Conrad R.L. and Church S.E. (1977) Lead-
+   Curator’s Catalog. pp. 447.                                  lead age and rare earth element determinations in lunar norite
+                                                    78235 (abs). Lunar Sci. VIII, 444-446. Lunar Planetary
+   Carlson R.W. and Lugmair G.W. (1980) 78236, a primary,   Institute, Houston.
+   but partially senile, lunar norite (abs). Lunar Planet. Sci.
+   XI, 125-128. Lunar Planetary Institute, Houston           Jackson E.D., Sutton R.L. and Wilshire H.G. (1975)
+                                                                 Structure and petrology of a cumulus norite boulder sampled
+   Carlson R.W. and Lugmair G.W. (1981a) Time and duration  by Apollo 17 in Taurus-Littrow valley, the Moon.  Geol.
+   of lunar highlands crust formation. Earth Planet. Sci. Lett.   Soc. Am. Bull. 86, 433-442.
+   52, 227- 238.
+                                                     James O.B. (1980) Rocks of the early lunar crust. Proc.
+   Drozd R.J., Hohenberg C.M., Morgan C.J., Podosek F.A.    11th Lunar Planet. Sci. Conf. 365-393.
+   and Wroge M.L. (1977)  Cosmic-ray exposure history at
+   Taurus-Littrow. Proc. 8th Lunar Sci. Conf. 3027-3043.     James O.B. and Flohr M.K. (1983) Subdivision of the Mg-
+                                                                     suite noritic rocks into Mg-gabbronorites and Mg-norites.
+  Dymek R.F., Albee A.L. and Chodos A.A. (1975b)   Proc. 13th  Lunar Planet. Sci. Conf. in J. Geophys. Res.,
+   Comparative petrology of lunar cumulate rocks of possible  A603-A614.
+   primary origin: Dunite 72415, troctolite 76535, norite 78235,
+   and anorthosite 62237.  Proc. 6th Lunar Sci. Conf. 301-   Jost D.T. and Marti K. (1982) Pu-Nd-Xe dating: Progress
+   341.                                                   towards a “solar system” Pu/Nd ratio (abs). Lunar Planet.
+                                                                       Sci. XIII, 371-372. Lunar Planetary Institute, Houston.
+  Edmunson J., Borg L.E., Nyquist L.E. and Asmerom Y.
+   (2005) Three-system isotopic study of lunar norite 78238:  Keith  J.E., Clark R.S. and Bennett L.J. (1974a)
+   Rb-Sr results (abs#1473). Lunar Planet. Sci. XXXVI, Lunar  Determination of natural and cosmic ray induced
+   Planetary Institute, Houston.                                radionuclides in Apollo 17 lunar samples. Proc. 5th Lunar
+                                                                       Sci. Conf. 2121-2138.
+  Edmunson J., Gaffney A.M. and Borg L.E. (2006)
+   Disturbance of U-Pb isotopic systematics in lunar samples:  LSPET (1973)  Apollo 17 lunar samples: Chemical and
+   Mare basalt 10017 and norite 78235 (abs#1506).  Lunar   petrographic description. Science 182, 659-672.
+   Planet. Sci. XXXVII, Lunar Planetary Institute, Houston.
+                                            LSPET (1973) Preliminary Examination of lunar samples.
+  Edmunson J., Borg L.E., Nyquist L.E. and Asmerom Y.   Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –
+   (2009) A combined Sm–Nd, Rb–Sr, and U–Pb isotopic study   7-46.
+   of Mg-suite norite 78238: Further evidence for early
+    differentiation of the Moon.                              Marti K. (1983) Recoils: New opportunities to study and
+   Geochim. Cosmochim. Acta 73, 514-527.                    date early solar system processes (abs). Lunar Planet. Sci.
+                                                  XIV, 462-463. Lunar Planetary Institute, Houston.
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 2; lines 43-55 ---
+(2005) Three-system isotopic study of lunar norite 78238:  Keith  J.E., Clark R.S. and Bennett L.J. (1974a)
+   Rb-Sr results (abs#1473). Lunar Planet. Sci. XXXVI, Lunar  Determination of natural and cosmic ray induced
+   Planetary Institute, Houston.                                radionuclides in Apollo 17 lunar samples. Proc. 5th Lunar
+                                                                       Sci. Conf. 2121-2138.
+  Edmunson J., Gaffney A.M. and Borg L.E. (2006)
+   Disturbance of U-Pb isotopic systematics in lunar samples:  LSPET (1973)  Apollo 17 lunar samples: Chemical and
+   Mare basalt 10017 and norite 78235 (abs#1506).  Lunar   petrographic description. Science 182, 659-672.
+   Planet. Sci. XXXVII, Lunar Planetary Institute, Houston.
+                                            LSPET (1973) Preliminary Examination of lunar samples.
+  Edmunson J., Borg L.E., Nyquist L.E. and Asmerom Y.   Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –
+   (2009) A combined Sm–Nd, Rb–Sr, and U–Pb isotopic study   7-46.
+   of Mg-suite norite 78238: Further evidence for early
+    differentiation of the Moon.                              Marti K. (1983) Recoils: New opportunities to study and
+--- age block 3; lines 1-9 ---
+References for 78235, 78236 and 78238
+   Aeschlimann U., Eberhardt P., Geiss J., Grogler N., Kurtz J.   ElGoresy A., Engelhardt W.von, Arndt J. and Manglier D.
+   and Marti K. (1982) On the age of cumulate norite 78236   (1976) Shocked norite 78235: primary textures and shock
+    (abs). Lunar Planet. Sci. XIII, 1-2. Lunar Planetary Institute,   features (abs). Lunar Sci. VII, 239-241.  Lunar Science
+   Houston.                                                           Institute, Houston.
+
+   Bersch M.G., Taylor G.J., Keil K. and Norman M.D. (1991)  Hansen E.C., Steele I.M. and Smith J.V. (1979a)  Lunar
+   Mineral compositions in pristine lunar highland rocks and   highland rocks: Element partitioning among minerals 1:
+   the diversity of highland magmatism. Geophys. Res. Lett.   Electron microprobe analyses of Na, K, and Fe in
+--- age block 4; lines 16-50 ---
+Boyet M. and Calson R.W. (2007) A highly depleted moon
+   or a non-magma ocean origin for the lunar crust?  Earth   Higuchi H. and Morgan J.W. (1975a) Ancient meteoritic
+   Planet. Sci. Lett. 262, 505-516.                         component in Apollo 17 boulders. Proc. 6th Lunar Sci. Conf.
+                                                        1625-1651.
+   Butler P. (1973) Lunar Sample Information Catalog
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211   Hinthorne J.R., Conrad R.L. and Church S.E. (1977) Lead-
+   Curator’s Catalog. pp. 447.                                  lead age and rare earth element determinations in lunar norite
+                                                    78235 (abs). Lunar Sci. VIII, 444-446. Lunar Planetary
+   Carlson R.W. and Lugmair G.W. (1980) 78236, a primary,   Institute, Houston.
+   but partially senile, lunar norite (abs). Lunar Planet. Sci.
+   XI, 125-128. Lunar Planetary Institute, Houston           Jackson E.D., Sutton R.L. and Wilshire H.G. (1975)
+                                                                 Structure and petrology of a cumulus norite boulder sampled
+   Carlson R.W. and Lugmair G.W. (1981a) Time and duration  by Apollo 17 in Taurus-Littrow valley, the Moon.  Geol.
+   of lunar highlands crust formation. Earth Planet. Sci. Lett.   Soc. Am. Bull. 86, 433-442.
+   52, 227- 238.
+                                                     James O.B. (1980) Rocks of the early lunar crust. Proc.
+   Drozd R.J., Hohenberg C.M., Morgan C.J., Podosek F.A.    11th Lunar Planet. Sci. Conf. 365-393.
+   and Wroge M.L. (1977)  Cosmic-ray exposure history at
+   Taurus-Littrow. Proc. 8th Lunar Sci. Conf. 3027-3043.     James O.B. and Flohr M.K. (1983) Subdivision of the Mg-
+                                                                     suite noritic rocks into Mg-gabbronorites and Mg-norites.
+  Dymek R.F., Albee A.L. and Chodos A.A. (1975b)   Proc. 13th  Lunar Planet. Sci. Conf. in J. Geophys. Res.,
+   Comparative petrology of lunar cumulate rocks of possible  A603-A614.
+   primary origin: Dunite 72415, troctolite 76535, norite 78235,
+   and anorthosite 62237.  Proc. 6th Lunar Sci. Conf. 301-   Jost D.T. and Marti K. (1982) Pu-Nd-Xe dating: Progress
+   341.                                                   towards a “solar system” Pu/Nd ratio (abs). Lunar Planet.
+                                                                       Sci. XIII, 371-372. Lunar Planetary Institute, Houston.
+  Edmunson J., Borg L.E., Nyquist L.E. and Asmerom Y.
+   (2005) Three-system isotopic study of lunar norite 78238:  Keith  J.E., Clark R.S. and Bennett L.J. (1974a)
+   Rb-Sr results (abs#1473). Lunar Planet. Sci. XXXVI, Lunar  Determination of natural and cosmic ray induced
+   Planetary Institute, Houston.                                radionuclides in Apollo 17 lunar samples. Proc. 5th Lunar
+                                                                       Sci. Conf. 2121-2138.
+  Edmunson J., Gaffney A.M. and Borg L.E. (2006)
+   Disturbance of U-Pb isotopic systematics in lunar samples:  LSPET (1973)  Apollo 17 lunar samples: Chemical and
+   Mare basalt 10017 and norite 78235 (abs#1506).  Lunar   petrographic description. Science 182, 659-672.
+   Planet. Sci. XXXVII, Lunar Planetary Institute, Houston.
+--- references block 5; lines 1-7 ---
+References for 78235, 78236 and 78238
+   Aeschlimann U., Eberhardt P., Geiss J., Grogler N., Kurtz J.   ElGoresy A., Engelhardt W.von, Arndt J. and Manglier D.
+   and Marti K. (1982) On the age of cumulate norite 78236   (1976) Shocked norite 78235: primary textures and shock
+    (abs). Lunar Planet. Sci. XIII, 1-2. Lunar Planetary Institute,   features (abs). Lunar Sci. VII, 239-241.  Lunar Science
+   Houston.                                                           Institute, Houston.
+
+   Bersch M.G., Taylor G.J., Keil K. and Norman M.D. (1991)  Hansen E.C., Steele I.M. and Smith J.V. (1979a)  Lunar
+
+=== PDF PAGE 12; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 46-58 ---
+Nyquist L.E. and Shih C.-Y. (1992) The isotopic record of  Smyth J.R. (1974) Low orthopyroxene from a lunar deep
+    lunar volcanism.  Geochim. Cosmochim. Acta 56, 2213-   crustal rock: A new pyroxene polymorph of space group
+    2234.                                                  P21ca. Geophys. Res. Lett. 1, 27-29
+
+    Palme H., Spettel B., Wanke H., Bischoff A. and Stoffler D.   Steele I.M. (1975) Mineralogy of lunar norite 78235: Second
+    (1984b) Early differentiation of the Moon: Evidence from   lunar occurrence of P21ca pyroxenes from Apollo 17 soils.
+     trace elements in plagioclase. Proc. 15th Lunar Planet. Sci.  Am. Mineral. 60, 1086-1091.
+    Conf. C3-C15.
+                                                               Steele I.M., Hutcheon I.D. and Smith J.V. (1980)  Ion
+    Papike J.J., Fowler G.W. and Schearer C.K. (1994b)   microprobe analysis and petrogenetic interpretations of Li,
+    Orthopyroxene as a recorder of lunar crust evolution: An  Mg, Ti, K, Sr, Ba in lunar plagioclase.  Proc. 11th Lunar
+                                                                 Planet. Sci. Conf. 571-590.
+--- mineralogy block 2; lines 1-60 ---
+ion microprobe investigation of Mg-suite norites.  Am.
+   Mayeda T., K., Shearer J. and Clayton R.N. (1975) Oxygen   Mineral. 79, 796-800.
+    isotope fractionation in Apollo 17 rocks. Proc. 6th Lunar
+     Sci. Conf. 1799-1802.                              Premo W.R. (1991) Rb-Sr and Sm-Nd ages for lunar norite
+                                                          78235/78236: Implications on the U-Pb isotopic systematics
+   McCallum I.S. and Mathez E.A. (1975) Petrology of noritic   in this high-Mg rock (abs). Lunar Planet. Sci. XXII, 1089-
+    cumulates and a partial melting model for the genesis of Fra   1090. Lunar Planetary Institute, Houston.
+   Mauro basalts. Proc. 6th Lunar Sci. Conf. 395-414.
+                                                   Premo W.R. and Tatsumoto M. (1990) Pb isotopes in norite
+   McCallum I.S., Okamura F.P., Mathez E.A. and Ghose S.  78235 (abs).  Lunar Planet. Sci. XXI, 977-978.  Lunar
+    (1975) Petrology of noritic cumulates: Samples 78235 and   Planetary Institute, Houston.
+    78238 (abs).  Lunar Sci. VI, 534-536.  Lunar Planetary
+     Institute, Houston.                                 Premo W.R. and Tatsumoto M. (1991b) U-Th-Pb isotopic
+                                                               systematics of lunar norite 78235. Proc. 21st Lunar Planet.
+   Mehta S. and Go1dstein J.I. (1980a) Metallic particles in   Sci. Conf. 89-100. Lunar Planetary Institute, Houston.
+    the glassy constituents of three lunar highland samples 65315,
+    67435, and 78235. Proc. 11th Lunar Planet. Sci. Conf. 1713-  Ryder G. and Norman M.D. (1979a)  Catalog of pristine
+    1725.                                             non-mare materials Part 1. Non-anorthosites, revised.
+                                             NASA-JSC Curatorial Facility Publ. JSC 14565, Houston.
+   Meyer C. (1994) Catalog of Apollo 17 rocks. Vol. 4 North  147 pp.
+    Massif
+                                                                 Sclar C.B. and Bauer J.F. (1975a) Shock-induced subsolidus
+   Meyer C. (2003) The Lunar Petrographic Educational Thin   reduction-decomposition of orthopyroxene and shock-
+    Section Set (revised) – on line.                           induced melting of norite 78235. Proc. 6th Lunar Sci. Conf.
+                                                           799-820.
+    Muehlberger et al. (1973) Documentation and environment
+    of the Apollo 17 samples: A preliminary report. Astrogeology   Sclar C.B. and Bauer J.F. (1975b) Shock-induced subsolidus
+    71 322 pp superceeded by Astrogeolgy 73 (1975) and by   reduction-decomposition of orthopyroxene and shock-
+    Wolfe et al. (1981)                                      induced melting in norite 78235 (abs). Lunar Sci. VI, 730-
+                                                            731. Lunar Planetary Institute, Houston.
+    Muehlberger W.R. and many others (1973)  Preliminary
+    Geological Investigation of the Apollo 17 Landing Site. In   Sclar C.B. and Bauer J.F. (1976a)  Subsolidus reduction
+    Apollo 17 Preliminary Science Report. NASA SP-330.   phenomena in lunar norite 78235: Observations and
+                                                                      interpretations. Proc. 7th Lunar Sci. Conf. 2493-2508.
+    Nyquist L.E., Reimold W.U., Wooden J.L., Bansal B.M.,
+   Wiesmann H. and Shih C.-Y. (1981a) Sr and Nd cooling   Sclar C.B. and Bauer J.F. (1976b) Redox reactions involving
+    ages of cumulate norite 78236 (abs).  Lunar Planet. Sci.   nonvolatile ionic species as a mechanism of shock-induced
+    XII, 782-784. Lunar Planetary Institute, Houston.         subsolidus reduction of Fe+2 in plagioclase and
+                                                            orthopyroxene: Indications from lunar norite 78235 (abs).
+    Nyquist L.E., Reimold W.U., Bogard D.D., Wooden J.L.,  Lunar Sci. VII, 791-793. Lunar Planetary Institute, Houston.
+    Bansal B.M., Wiesmanm H. and Shih C.-Y. (1981b) A
+    comparative Rb-Sr, Sm-Nd and K-Ar study of shocked norite  Simmons G., Siegfried R. and Richter Dorthy (1975a)
+    78236: Evidence of slow cooling in the lunar crust? Proc.   Characteristics of microcracks in lunar samples. Proc. 6th
+     12th Lunar Planet. Sci. Conf. 67-97.                     Lunar Sci. Conf. 3227-3254.
+
+    Nyquist L.E. and Shih C.-Y. (1992) The isotopic record of  Smyth J.R. (1974) Low orthopyroxene from a lunar deep
+    lunar volcanism.  Geochim. Cosmochim. Acta 56, 2213-   crustal rock: A new pyroxene polymorph of space group
+    2234.                                                  P21ca. Geophys. Res. Lett. 1, 27-29
+
+    Palme H., Spettel B., Wanke H., Bischoff A. and Stoffler D.   Steele I.M. (1975) Mineralogy of lunar norite 78235: Second
+    (1984b) Early differentiation of the Moon: Evidence from   lunar occurrence of P21ca pyroxenes from Apollo 17 soils.
+     trace elements in plagioclase. Proc. 15th Lunar Planet. Sci.  Am. Mineral. 60, 1086-1091.
+    Conf. C3-C15.
+                                                               Steele I.M., Hutcheon I.D. and Smith J.V. (1980)  Ion
+    Papike J.J., Fowler G.W. and Schearer C.K. (1994b)   microprobe analysis and petrogenetic interpretations of Li,
+    Orthopyroxene as a recorder of lunar crust evolution: An  Mg, Ti, K, Sr, Ba in lunar plagioclase.  Proc. 11th Lunar
+                                                                 Planet. Sci. Conf. 571-590.
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 3; lines 1-12 ---
+ion microprobe investigation of Mg-suite norites.  Am.
+   Mayeda T., K., Shearer J. and Clayton R.N. (1975) Oxygen   Mineral. 79, 796-800.
+    isotope fractionation in Apollo 17 rocks. Proc. 6th Lunar
+     Sci. Conf. 1799-1802.                              Premo W.R. (1991) Rb-Sr and Sm-Nd ages for lunar norite
+                                                          78235/78236: Implications on the U-Pb isotopic systematics
+   McCallum I.S. and Mathez E.A. (1975) Petrology of noritic   in this high-Mg rock (abs). Lunar Planet. Sci. XXII, 1089-
+    cumulates and a partial melting model for the genesis of Fra   1090. Lunar Planetary Institute, Houston.
+   Mauro basalts. Proc. 6th Lunar Sci. Conf. 395-414.
+                                                   Premo W.R. and Tatsumoto M. (1990) Pb isotopes in norite
+   McCallum I.S., Okamura F.P., Mathez E.A. and Ghose S.  78235 (abs).  Lunar Planet. Sci. XXI, 977-978.  Lunar
+    (1975) Petrology of noritic cumulates: Samples 78235 and   Planetary Institute, Houston.
+    78238 (abs).  Lunar Sci. VI, 534-536.  Lunar Planetary
+--- material block 4; lines 41-53 ---
+Bansal B.M., Wiesmanm H. and Shih C.-Y. (1981b) A
+    comparative Rb-Sr, Sm-Nd and K-Ar study of shocked norite  Simmons G., Siegfried R. and Richter Dorthy (1975a)
+    78236: Evidence of slow cooling in the lunar crust? Proc.   Characteristics of microcracks in lunar samples. Proc. 6th
+     12th Lunar Planet. Sci. Conf. 67-97.                     Lunar Sci. Conf. 3227-3254.
+
+    Nyquist L.E. and Shih C.-Y. (1992) The isotopic record of  Smyth J.R. (1974) Low orthopyroxene from a lunar deep
+    lunar volcanism.  Geochim. Cosmochim. Acta 56, 2213-   crustal rock: A new pyroxene polymorph of space group
+    2234.                                                  P21ca. Geophys. Res. Lett. 1, 27-29
+
+    Palme H., Spettel B., Wanke H., Bischoff A. and Stoffler D.   Steele I.M. (1975) Mineralogy of lunar norite 78235: Second
+    (1984b) Early differentiation of the Moon: Evidence from   lunar occurrence of P21ca pyroxenes from Apollo 17 soils.
+     trace elements in plagioclase. Proc. 15th Lunar Planet. Sci.  Am. Mineral. 60, 1086-1091.
+    Conf. C3-C15.
+
+=== PDF PAGE 13; CATEGORIES: chemistry,mineralogy ===
+--- chemistry block 1; lines 19-31 ---
+Winzer S.R., Nava D.F., Lum R.K.L., Schuhmann S.,
+   Schuhmann P. and Philpotts J.A. (1975b) Origin of 78235,
+   a lunar norite cumulate. Proc. 6th Lunar Sci. Conf. 1219-
+   1229.
+
+   Winzer S.R., Lum R.K.L., Sehuhmann S. and Philpotts J.A.
+   (1975c) Large ion lithophile trace element abundances in
+   phases from 78235,34, a lunar norite cumulate (abs). Lunar
+    Sci. VI, 872-873. Lunar Planetary Institute, Houston.
+
+   Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+   Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+   geologic investigation of the Taurus-Littrow Valley: Apollo
+--- mineralogy block 2; lines 15-32 ---
+moon rocks: A large felsite and a metal-rich ferroan
+   anorthosite.  Proc. 17th  Lunar Planet. Sci. Conf. in J.
+   Geophys. Res. 90, E303-E313.
+
+   Winzer S.R., Nava D.F., Lum R.K.L., Schuhmann S.,
+   Schuhmann P. and Philpotts J.A. (1975b) Origin of 78235,
+   a lunar norite cumulate. Proc. 6th Lunar Sci. Conf. 1219-
+   1229.
+
+   Winzer S.R., Lum R.K.L., Sehuhmann S. and Philpotts J.A.
+   (1975c) Large ion lithophile trace element abundances in
+   phases from 78235,34, a lunar norite cumulate (abs). Lunar
+    Sci. VI, 872-873. Lunar Planetary Institute, Houston.
+
+   Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+   Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+   geologic investigation of the Taurus-Littrow Valley: Apollo
+   17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.

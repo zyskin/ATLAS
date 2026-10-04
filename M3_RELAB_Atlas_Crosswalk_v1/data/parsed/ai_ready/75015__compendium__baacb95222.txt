@@ -1,0 +1,285 @@
+DOCUMENT_ID: 75015__compendium__baacb95222
+ATLAS_SAMPLE_IDS: 75015
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/75015.pdf
+SOURCE_PDF_SHA256: e9e6bfafba6b3b4f9b3d241ca9f9a96b4c901ff7e00099ce888eb1e0855b4f05
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+75015
+                                     Ilmenite Basalt
+                                       1006 grams
+--- material block 2; lines 1-8 ---
+75015
+                                     Ilmenite Basalt
+                                       1006 grams
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-29 ---
+Figure 2: Thin section photomicrograph of 75015. Field of view is 3 cm. NASA S76-29483.
+
+
+
+   75015 is a vuggy ilmenite basalt with only a few  Mineralogy
+    micrometeorite craters (figure 1).   It has not been  No detailed mineral data are reported.
+    carefully studied and no age is available.
+
+   Petrography
+   Brown et al. (1975) give the modal mineralogy for
+   75015 and found trace olivine (see table). Neal and
+    Taylor (1993) described it as a coarse-grained (1-2 mm)
+    ophitic basalt with pink pyroxene, plagioclase and
+    ilmenite crystals up to 2 mm in length (figure 2). Silica
+     is the most abundant accessory mineral.
+
+    Mineralogical Mode of 75015
+                  Brown et
+                              al. 1975
+     Olivine            0.2
+    Pyroxene         50.7
+     Plagioclase       28.6
+     Ilmenite          16.7
+     Silica             3.4
+    Mesostasis        0.4
+--- material block 2; lines 1-19 ---
+Figure 2: Thin section photomicrograph of 75015. Field of view is 3 cm. NASA S76-29483.
+
+
+
+   75015 is a vuggy ilmenite basalt with only a few  Mineralogy
+    micrometeorite craters (figure 1).   It has not been  No detailed mineral data are reported.
+    carefully studied and no age is available.
+
+   Petrography
+   Brown et al. (1975) give the modal mineralogy for
+   75015 and found trace olivine (see table). Neal and
+    Taylor (1993) described it as a coarse-grained (1-2 mm)
+    ophitic basalt with pink pyroxene, plagioclase and
+    ilmenite crystals up to 2 mm in length (figure 2). Silica
+     is the most abundant accessory mineral.
+
+    Mineralogical Mode of 75015
+                  Brown et
+                              al. 1975
+--- age block 3; lines 1-13 ---
+Figure 2: Thin section photomicrograph of 75015. Field of view is 3 cm. NASA S76-29483.
+
+
+
+   75015 is a vuggy ilmenite basalt with only a few  Mineralogy
+    micrometeorite craters (figure 1).   It has not been  No detailed mineral data are reported.
+    carefully studied and no age is available.
+
+   Petrography
+   Brown et al. (1975) give the modal mineralogy for
+   75015 and found trace olivine (see table). Neal and
+    Taylor (1993) described it as a coarse-grained (1-2 mm)
+    ophitic basalt with pink pyroxene, plagioclase and
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,references ===
+--- chemistry block 1; lines 2-37 ---
+14
+                                                                              75015                                      A17                                                100              12
+                                A11                                            sample/
+              10                                                                          chondrite                             10020
+                        75015                                                 10
+               8
+   TiO2
+               6
+
+                                                                                                            1
+
+               4
+                                              A12
+               2                        A15
+                                                                                                                 0.1
+                                                                                   La      Pr    Sm    Gd    Dy      Er     Yb                                                                               Ce    Nd     Eu     Tb    Ho    Tm     Lu
+               0
+                 0                5                10               15               20       Figure 4: Normalized rare-earth-element diagram for
+                MgO                        75015 compared with that of Apollo 11 sample (data
+         Figure 3: Composition of 75015 compared with          from Rhodes et al. 1976).
+           that of other lunar basalts.
+                                                                                                 300
+                                                                                 Apollo 17 basalts
+                                                                                                 250
+
+
+
+                                                                                                 200
+   Chemistry                                                              Ba//Rb
+   The chemical composition of 75015 has been          150                                  group A  75015
+   determined by Rhodes et al. (1976) and Warner et al.                          group B
+                                                                                                 100
+   (1975).  It is generally similar to Apollo 11 sample
+   10020 (figures 3 and 4). Gibson et al. (1976) reported           50
+                                                                                                                      group C
+   2205 ppm sulfur. Paces et al. (1991) classify it as a
+--- material block 2; lines 32-48 ---
+determined by Rhodes et al. (1976) and Warner et al.                          group B
+                                                                                                 100
+   (1975).  It is generally similar to Apollo 11 sample
+   10020 (figures 3 and 4). Gibson et al. (1976) reported           50
+                                                                                                                      group C
+   2205 ppm sulfur. Paces et al. (1991) classify it as a
+   type A, Apollo 17 basalt (see figure 5).                                  0 5             7             9             11            13            15
+
+                                                                                 Sm ppm
+   Radiogenic age dating
+                                                                Figure 5: 75015 is a group A, Apollo 17 basalt.   Nyquist et al. (1976) reported Rb, Sr and 87Sr/86Sr for
+   sample 75015, but it has not been dated, presumably
+   because it is similar to 75035 and 75055.
+
+   Cosmogenic isotopes and exposure ages         Processing
+   Arvidson et al. (1976) reported a cosmic ray exposure  Two pieces of 75015 are used for public display (figure
+   age of 92 ± 4 m.y. (determined by Niemeyer using 81Kr   6). There are 5 thin sections.
+--- age block 3; lines 35-54 ---
+10020 (figures 3 and 4). Gibson et al. (1976) reported           50
+                                                                                                                      group C
+   2205 ppm sulfur. Paces et al. (1991) classify it as a
+   type A, Apollo 17 basalt (see figure 5).                                  0 5             7             9             11            13            15
+
+                                                                                 Sm ppm
+   Radiogenic age dating
+                                                                Figure 5: 75015 is a group A, Apollo 17 basalt.   Nyquist et al. (1976) reported Rb, Sr and 87Sr/86Sr for
+   sample 75015, but it has not been dated, presumably
+   because it is similar to 75035 and 75055.
+
+   Cosmogenic isotopes and exposure ages         Processing
+   Arvidson et al. (1976) reported a cosmic ray exposure  Two pieces of 75015 are used for public display (figure
+   age of 92 ± 4 m.y. (determined by Niemeyer using 81Kr   6). There are 5 thin sections.
+   technique).
+--- references block 4; lines 43-55 ---
+sample 75015, but it has not been dated, presumably
+   because it is similar to 75035 and 75055.
+
+   Cosmogenic isotopes and exposure ages         Processing
+   Arvidson et al. (1976) reported a cosmic ray exposure  Two pieces of 75015 are used for public display (figure
+   age of 92 ± 4 m.y. (determined by Niemeyer using 81Kr   6). There are 5 thin sections.
+   technique).
+
+
+
+
+
+                        C                                 Meyer       75015                               2008
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 75015.
+
+
+     reference Wiesmann 75 Rhodes 76  Warner 75
+     weight    Nyquist 76
+    SiO2 %                 41.92    (b)
+    TiO2                    9.56      (b) 8.7        (c )
+    Al2O3                  10.06    (b) 9.9        (c )
+   FeO                    18.77    (b) 21.2       (c )
+   MnO                    0.29      (b) 0.26       (c )
+   MgO                     6.2       (b) 5.4        (c )
+   CaO                    12.15    (b) 11.6       (c )
+   Na2O                   0.48      (b) 0.47       (c )
+   K2O      0.074       (a) 0.06      (b) 0.05       (c )
+   P2O5                   0.05      (b)
+   S %                     0.2       (b)
+    sum
+
+    Sc ppm               77        (b) 79         (c )
+   V                               24         (c )
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 75015.
+
+
+     reference Wiesmann 75 Rhodes 76  Warner 75
+     weight    Nyquist 76
+    SiO2 %                 41.92    (b)
+    TiO2                    9.56      (b) 8.7        (c )
+    Al2O3                  10.06    (b) 9.9        (c )
+   FeO                    18.77    (b) 21.2       (c )
+   MnO                    0.29      (b) 0.26       (c )
+--- references block 3; lines 65-74 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm
+   U ppm
+     technique: (a ) IDMS, (b) XRF, (c ) INAA
+
+Lunar Sample Compendium
+C Meyer 2008
+
+=== PDF PAGE 5; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 1-14 ---
+References for 75015                                   evolution of magmas, and origin of source heterogeneities.
+   Arvidson R., Drozd R., Guiness E., Hohenberg C., Morgan  Geochim. Cosmochim. Acta 55, 2025-2043.
+    C., Morrison R. and Oberbeck V. (1976) Cosmic ray
+   exposure ages of Apollo 17 samples and the age of Tycho.   Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+    Proc. 7th Lunar Sci. Conf. 2817-2832.                  Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+                                                          mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and   475-540.
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.          Rhodes J.M., Hubbard N.J., Wiesmann H., Rodgers K.V.,
+                                                 Brannon J.C. and Bansal B.M. (1976a) Chemistry,
+    Butler P. (1973) Lunar Sample Information Catalog   classification, and petrogenesis of Apollo 17 mare basalts.
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211   Proc. 7th Lunar Sci. Conf. 1467-1489.
+    Curator’s Catalog. pp. 447.
+                                                       Warner R.D., Keil K., Murali A.V. and Schmitt R.A. (1975a)
+--- mineralogy block 2; lines 20-32 ---
+petrographic description. Science 182, 659-672.           Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+   LSPET (1973) Preliminary Examination of lunar samples.   geologic investigation of the Taurus-Littrow Valley: Apollo
+   Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –  17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+    7-46.                                                   280.
+
+   Meyer H.O.A. and Boctor N.Z. (1974a) Opaque mineralogy:
+   Apollo 17, rock 75035. Proc. 5th Lunar Sci. Conf. 707-716.
+
+   Muehlberger et al. (1973) Documentation and environment
+    of the Apollo 17 samples: A preliminary report. Astrogeology
+   71 322 pp superceeded by Astrogeolgy 73 (1975) and by
+   Wolfe et al. (1981)
+--- material block 3; lines 21-33 ---
+Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+   LSPET (1973) Preliminary Examination of lunar samples.   geologic investigation of the Taurus-Littrow Valley: Apollo
+   Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –  17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+    7-46.                                                   280.
+
+   Meyer H.O.A. and Boctor N.Z. (1974a) Opaque mineralogy:
+   Apollo 17, rock 75035. Proc. 5th Lunar Sci. Conf. 707-716.
+
+   Muehlberger et al. (1973) Documentation and environment
+    of the Apollo 17 samples: A preliminary report. Astrogeology
+   71 322 pp superceeded by Astrogeolgy 73 (1975) and by
+   Wolfe et al. (1981)
+--- age block 4; lines 1-10 ---
+References for 75015                                   evolution of magmas, and origin of source heterogeneities.
+   Arvidson R., Drozd R., Guiness E., Hohenberg C., Morgan  Geochim. Cosmochim. Acta 55, 2025-2043.
+    C., Morrison R. and Oberbeck V. (1976) Cosmic ray
+   exposure ages of Apollo 17 samples and the age of Tycho.   Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+    Proc. 7th Lunar Sci. Conf. 2817-2832.                  Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+                                                          mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and   475-540.
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.          Rhodes J.M., Hubbard N.J., Wiesmann H., Rodgers K.V.,
+                                                 Brannon J.C. and Bansal B.M. (1976a) Chemistry,
+--- age block 5; lines 34-46 ---
+Muehlberger W.R. and many others (1973)  Preliminary
+    Geological Investigation of the Apollo 17 Landing Site. In
+   Apollo 17 Preliminary Science Report. NASA SP-330.
+
+   Neal C.R., Taylor L.A., Patchen A.D., Hughes S.S. and
+   Schmitt R.A. (1990a)  The significance of fractional
+    crystallization in the petrogenesis of Apollo 17 Type A and
+  B high-Ti basalts. Geochim. Cosmochim. Acta 54, 1817-
+   1833.
+
+   Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+    rocks. Vol. 3 Central Valley
+--- references block 6; lines 1-7 ---
+References for 75015                                   evolution of magmas, and origin of source heterogeneities.
+   Arvidson R., Drozd R., Guiness E., Hohenberg C., Morgan  Geochim. Cosmochim. Acta 55, 2025-2043.
+    C., Morrison R. and Oberbeck V. (1976) Cosmic ray
+   exposure ages of Apollo 17 samples and the age of Tycho.   Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+    Proc. 7th Lunar Sci. Conf. 2817-2832.                  Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+                                                          mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and   475-540.

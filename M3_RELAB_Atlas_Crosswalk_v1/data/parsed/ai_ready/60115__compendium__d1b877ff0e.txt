@@ -1,0 +1,142 @@
+DOCUMENT_ID: 60115__compendium__d1b877ff0e
+ATLAS_SAMPLE_IDS: 60115
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60115.pdf
+SOURCE_PDF_SHA256: a658daa72f5ddbbb02603aadf248b8f803ab60a8797fd6950820fbd77f60308f
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 7-31 ---
+Figure 1: Photo of 60115 and 1 cm cube. S72-40397.
+
+
+   Introduction                                           Cosmogenic isotopes and exposure ages
+   60015 is a complex, polymict breccias with a glass                                                      Clark and Keith (1973) determined the cosmic-ray-
+   matrix and many small clasts. One side has a thick                                                     induced activity of 22Na = 44 dpm/kg, 26Al = 98 dpm/
+   patina (figure 1).                                                          kg, 46Sc = 3 dpm/kg, 54Mn = 25 dpm/kg and 56Co = 11
+                                                   dpm/kg.
+   60115 was collected near the LM.  It has not been
+    studied.                                                 Processing
+                                                   There are three thin sections.
+   Petrography
+   Warner et al. (1973) termed 60115 a “black and white
+   breccia” with light matrix. Ryder and Norman (1980)
+   found that  it was clast-rich with distinct clast
+   boundaries: “Relics of shocked anorthosite, grading
+    into swirly glass, are abundant.” Glass penetrates dark
+    clasts, aphanitic impact melts are present, etc – it’s a
+    real mess.
+
+   Hunter and Taylor (1981) reported trace rust and trace
+    schreibersite.
+--- material block 2; lines 1-29 ---
+60115
+                                  Polymict Breccia
+                                           132.5 grams
+
+
+
+
+
+                                Figure 1: Photo of 60115 and 1 cm cube. S72-40397.
+
+
+   Introduction                                           Cosmogenic isotopes and exposure ages
+   60015 is a complex, polymict breccias with a glass                                                      Clark and Keith (1973) determined the cosmic-ray-
+   matrix and many small clasts. One side has a thick                                                     induced activity of 22Na = 44 dpm/kg, 26Al = 98 dpm/
+   patina (figure 1).                                                          kg, 46Sc = 3 dpm/kg, 54Mn = 25 dpm/kg and 56Co = 11
+                                                   dpm/kg.
+   60115 was collected near the LM.  It has not been
+    studied.                                                 Processing
+                                                   There are three thin sections.
+   Petrography
+   Warner et al. (1973) termed 60115 a “black and white
+   breccia” with light matrix. Ryder and Norman (1980)
+   found that  it was clast-rich with distinct clast
+   boundaries: “Relics of shocked anorthosite, grading
+    into swirly glass, are abundant.” Glass penetrates dark
+    clasts, aphanitic impact melts are present, etc – it’s a
+    real mess.
+
+   Hunter and Taylor (1981) reported trace rust and trace
+--- age block 3; lines 7-19 ---
+Figure 1: Photo of 60115 and 1 cm cube. S72-40397.
+
+
+   Introduction                                           Cosmogenic isotopes and exposure ages
+   60015 is a complex, polymict breccias with a glass                                                      Clark and Keith (1973) determined the cosmic-ray-
+   matrix and many small clasts. One side has a thick                                                     induced activity of 22Na = 44 dpm/kg, 26Al = 98 dpm/
+   patina (figure 1).                                                          kg, 46Sc = 3 dpm/kg, 54Mn = 25 dpm/kg and 56Co = 11
+                                                   dpm/kg.
+   60115 was collected near the LM.  It has not been
+    studied.                                                 Processing
+                                                   There are three thin sections.
+--- age block 4; lines 30-41 ---
+schreibersite.
+
+   Chemistry
+   The only analysis of 60115 is by Clark and Keith (1973)
+    table 1.
+
+   Radiogenic age dating
+  None
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+References for 60115   Table 1. Chemical composition of 60115
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  Clark73
+    weight                                                     Catalog. pp. 370.
+   SiO2 %
+    TiO2                                                    Clark R.S. and Keith J.E. (1973) Determination of natural
+   Al2O3
+                                                       and cosmic ray induced radionuclides in Apollo 16 lunar   FeO
+   MnO                                                     samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+   MgO
+   CaO                                                  Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   Na2O
+                                                                   in Apollo 16 highland rocks: Manifestations of volatile-   K2O      0.065    (a)
+   P2O5                                                  element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   S %                                                     259.
+   sum
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic   Sc ppm
+   V                                                  and chemical description. Science 179, 23-34.
+    Cr
+--- age block 2; lines 2-14 ---
+Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  Clark73
+    weight                                                     Catalog. pp. 370.
+   SiO2 %
+    TiO2                                                    Clark R.S. and Keith J.E. (1973) Determination of natural
+   Al2O3
+                                                       and cosmic ray induced radionuclides in Apollo 16 lunar   FeO
+   MnO                                                     samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+   MgO
+   CaO                                                  Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   Na2O
+                                                                   in Apollo 16 highland rocks: Manifestations of volatile-   K2O      0.065    (a)
+   P2O5                                                  element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+--- references block 3; lines 1-9 ---
+References for 60115   Table 1. Chemical composition of 60115
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  Clark73
+    weight                                                     Catalog. pp. 370.
+   SiO2 %
+    TiO2                                                    Clark R.S. and Keith J.E. (1973) Determination of natural
+   Al2O3
+                                                       and cosmic ray induced radionuclides in Apollo 16 lunar   FeO
+   MnO                                                     samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+--- references block 4; lines 63-72 ---
+Os ppb                                                                                   ,11    ,12
+      Ir ppb                                                                                    .03 g  PB
+    Pt ppb
+   Au ppb
+   Th ppm   1.46     (a)                                                                           ,14
+   U ppm    0.35     (a)                                                        TS
+    technique:  (a) radiation counting
+
+Lunar Sample Compendium
+C Meyer 2012

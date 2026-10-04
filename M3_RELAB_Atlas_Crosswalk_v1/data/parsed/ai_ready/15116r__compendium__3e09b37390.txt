@@ -1,0 +1,298 @@
+DOCUMENT_ID: 15116r__compendium__3e09b37390
+ATLAS_SAMPLE_IDS: 15116
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15116r.pdf
+SOURCE_PDF_SHA256: d532eeec0b76e67b00755ffe59cb3264a4130ca6ba872410b57666d99b0ee6a0
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-16 ---
+15116
+                               Pyroxene Basalt
+                                             7.2 grams
+
+
+
+                                                     Mineralogical Mode
+                                                                           Olivine
+                                                                    Pyroxene        60
+                                                                             Plagioclase       30
+                                                                Opaques         5
+                                                                                    Silica           4
+                                                                        Meostasis        1
+                                                           Dowty et al. 1973
+--- mineralogy block 2; lines 19-51 ---
+in cm. S71-48754.
+
+
+ Introduction                               Chemistry
+ 15116 was collected as part of a rake sample from  Helmke et al. (1973) determined the chemical
+  station 2, Apollo 15 (Swann et al. 1972). It is a coarse-  composition (figure 4).
+ grained pyroxene-rich mare basalt.  It has not been
+  dated.                                       Radiogenic age dating
+                                              Not dated
+ Petrography
+ Dowty et al. (1973) described the texture of 15116 as  Processing
+ “gabbroic” (figure 2 a,b). However the pyroxene  There are 5 thin sections of 15116.
+  crystals are complexly zoned, as is typical of basalt.
+ There is no olivine and there is excess silica.
+
+ Mineralogy
+ Olivine: none
+
+ Pyroxene: Dowty et al. (1974) studied the complex
+         zoning in pyroxenes (figure 3).
+
+ Spinel:  Nehru et al. (1974) found that there was a
+  distinct transition from chromite cores to ulvospinel
+ overgrowth in the spinel grains.
+
+  Silica: Tridymite occurs as large parallel intergrowths
+  in the outer margins of pyroxene and plagioclase grains.
+  Cristobalite is also present in the interstices.
+--- material block 3; lines 1-8 ---
+15116
+                               Pyroxene Basalt
+                                             7.2 grams
+
+
+
+                                                     Mineralogical Mode
+                                                                           Olivine
+--- material block 4; lines 12-37 ---
+Silica           4
+                                                                        Meostasis        1
+                                                           Dowty et al. 1973
+
+
+
+          Figure 1: Photo of rake sample 15116. Scale
+            in cm. S71-48754.
+
+
+ Introduction                               Chemistry
+ 15116 was collected as part of a rake sample from  Helmke et al. (1973) determined the chemical
+  station 2, Apollo 15 (Swann et al. 1972). It is a coarse-  composition (figure 4).
+ grained pyroxene-rich mare basalt.  It has not been
+  dated.                                       Radiogenic age dating
+                                              Not dated
+ Petrography
+ Dowty et al. (1973) described the texture of 15116 as  Processing
+ “gabbroic” (figure 2 a,b). However the pyroxene  There are 5 thin sections of 15116.
+  crystals are complexly zoned, as is typical of basalt.
+ There is no olivine and there is excess silica.
+
+ Mineralogy
+ Olivine: none
+
+ Pyroxene: Dowty et al. (1974) studied the complex
+--- age block 5; lines 20-33 ---
+Introduction                               Chemistry
+ 15116 was collected as part of a rake sample from  Helmke et al. (1973) determined the chemical
+  station 2, Apollo 15 (Swann et al. 1972). It is a coarse-  composition (figure 4).
+ grained pyroxene-rich mare basalt.  It has not been
+  dated.                                       Radiogenic age dating
+                                              Not dated
+ Petrography
+ Dowty et al. (1973) described the texture of 15116 as  Processing
+ “gabbroic” (figure 2 a,b). However the pyroxene  There are 5 thin sections of 15116.
+  crystals are complexly zoned, as is typical of basalt.
+ There is no olivine and there is excess silica.
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 6-31 ---
+A11
+                                                                                              10
+
+
+                                                                                                   8
+                                           TiO2
+                                                                                                   6
+
+
+                                                                                                   4
+                                                                                                                   A12
+                                                                                                   2                        A15
+                                                                                        15116
+
+                                                                                                   0
+                                                                                                     0                5                10                15               20
+                                             MgO
+
+                                                               Figure 4: Chemical composition of 15116 compared
+                                                                  with that of other Apollo basalts.
+--- mineralogy block 2; lines 38-50 ---
+C Meyer    15116
+                                                                           2010       7.2 g
+    Figure 3: Pyroxene composition of 15116 (Dowty et
+      al. 1973).
+                                                                     ,0         ,1      ,2
+                                                               4.8 g   PB    1.5 g
+
+                                                                                               ,7
+                                                                                     ,10
+--- material block 3; lines 30-42 ---
+Figure 2: Photomicrographs of thin section 15116,10
+    by C Meyer @50x.
+
+                                                               Figure 5: Normalized rare-earth-element diagrasm
+                                                                         for 15116 with soil 15601 for comparison.
+
+
+
+
+
+                                                            C Meyer    15116
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-31 ---
+Table 1. Chemical composition of 15116.
+                                                  References for 15116
+  reference  Dowty73     Helmke73                            Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+  weight                                                        Office, MSC 03209
+ SiO2 %    49.2       (b)  51         (c )
+  TiO2      1.16       (b)  1.78       (c )
+ Al2O3     10.2       (b)  9.94      (c )                  Dowty E., Prinz M. and Keil K. (1973b)  Composition,
+ FeO      19         (b)  20         (c )                       mineralogy, and petrology of 28 mare basalts from Apollo
+ MnO      0.22       (b)  0.26       (a)                     15 rake samples. Proc. 4th Lunar Sci. Conf. 423-444.
+ MgO       7.3        (b)  7.87       (c )
+ CaO       10.4       (b)  9.57       (c )
+ Na2O     0.38       (b)  0.335     (c )                  Dowty E., Keil K. and Prinz M. (1974c) Lunar pyroxene-
+ K2O       0.02       (b)  0.06       (c )                        phyric basalts: Crystallization under supercooled conditions.
+ P2O5      0.04       (b)                                             J. Petrology 15, 419-453.
+ S %
+ sum
+                                               Dowty E., Conrad G.H., Green J.A., Hlava P.F., Keil K.,
+ Sc ppm                  50.8       (a)                   Moore R.B., Nehru C.E. and Prinz M. (1973a) Catalog of
+ V                                                     Apollo 15 rake samples from stations 2 (St. George), 7 (Spur
+  Cr                    2650      (a)                         Crater) and 9a (Hadley Rille). Inst. Meteoritics Spec. Publ.
+ Co                   35         (a)
+  Ni                                       No 11, 51-73. Univ. New Mex. ABQ.
+ Cu
+ Zn                       2.7        (a)                   Helmke P.A., Blanchard D.P., Haskin L.A., Telander K.,
+ Ga                       4.1        (a)                      Weiss C. and Jacobs J.W. (1973) Major and trace elements
+ Ge ppb
+ As                                                             in igneous rocks from Apollo 15. The Moon 8, 129-148.
+ Se
+ Rb                    1          (a)                      Lofgren G.E., Donaldson C.H. and Usselman T.M. (1975)
+  Sr                                                     Geology, petrology and crystallization of Apollo 15 quartz-
+ Y
+--- mineralogy block 2; lines 2-18 ---
+References for 15116
+  reference  Dowty73     Helmke73                            Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+  weight                                                        Office, MSC 03209
+ SiO2 %    49.2       (b)  51         (c )
+  TiO2      1.16       (b)  1.78       (c )
+ Al2O3     10.2       (b)  9.94      (c )                  Dowty E., Prinz M. and Keil K. (1973b)  Composition,
+ FeO      19         (b)  20         (c )                       mineralogy, and petrology of 28 mare basalts from Apollo
+ MnO      0.22       (b)  0.26       (a)                     15 rake samples. Proc. 4th Lunar Sci. Conf. 423-444.
+ MgO       7.3        (b)  7.87       (c )
+ CaO       10.4       (b)  9.57       (c )
+ Na2O     0.38       (b)  0.335     (c )                  Dowty E., Keil K. and Prinz M. (1974c) Lunar pyroxene-
+ K2O       0.02       (b)  0.06       (c )                        phyric basalts: Crystallization under supercooled conditions.
+ P2O5      0.04       (b)                                             J. Petrology 15, 419-453.
+ S %
+ sum
+                                               Dowty E., Conrad G.H., Green J.A., Hlava P.F., Keil K.,
+ Sc ppm                  50.8       (a)                   Moore R.B., Nehru C.E. and Prinz M. (1973a) Catalog of
+--- mineralogy block 3; lines 37-50 ---
+Pd ppb
+ Ag ppb                                      LSPET (1972b) Preliminary examination of lunar samples.
+ Cd ppb                                                Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+  In ppb                                            1—6-28.
+ Sn ppb
+ Sb ppb
+  Te ppb                                             Nehru C.E., Prinz M., Dowty E. and Keil K. (1974) Spinel-
+ Cs ppm                 0.051     (a)                      group minerals and ilmenite in Apollo 15 rake samples. Am.
+ Ba                                                      Mineral. 59, 1220-1235.
+ La                      5.73       (a)
+ Ce                      14.8       (a)
+  Pr                                               Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+ Nd                   12         (a)                       volumes). Curatoial Branch Pub. # 72, JSC#20787
+ Sm                      4.05       (a)
+--- material block 4; lines 3-25 ---
+reference  Dowty73     Helmke73                            Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+  weight                                                        Office, MSC 03209
+ SiO2 %    49.2       (b)  51         (c )
+  TiO2      1.16       (b)  1.78       (c )
+ Al2O3     10.2       (b)  9.94      (c )                  Dowty E., Prinz M. and Keil K. (1973b)  Composition,
+ FeO      19         (b)  20         (c )                       mineralogy, and petrology of 28 mare basalts from Apollo
+ MnO      0.22       (b)  0.26       (a)                     15 rake samples. Proc. 4th Lunar Sci. Conf. 423-444.
+ MgO       7.3        (b)  7.87       (c )
+ CaO       10.4       (b)  9.57       (c )
+ Na2O     0.38       (b)  0.335     (c )                  Dowty E., Keil K. and Prinz M. (1974c) Lunar pyroxene-
+ K2O       0.02       (b)  0.06       (c )                        phyric basalts: Crystallization under supercooled conditions.
+ P2O5      0.04       (b)                                             J. Petrology 15, 419-453.
+ S %
+ sum
+                                               Dowty E., Conrad G.H., Green J.A., Hlava P.F., Keil K.,
+ Sc ppm                  50.8       (a)                   Moore R.B., Nehru C.E. and Prinz M. (1973a) Catalog of
+ V                                                     Apollo 15 rake samples from stations 2 (St. George), 7 (Spur
+  Cr                    2650      (a)                         Crater) and 9a (Hadley Rille). Inst. Meteoritics Spec. Publ.
+ Co                   35         (a)
+  Ni                                       No 11, 51-73. Univ. New Mex. ABQ.
+ Cu
+ Zn                       2.7        (a)                   Helmke P.A., Blanchard D.P., Haskin L.A., Telander K.,
+ Ga                       4.1        (a)                      Weiss C. and Jacobs J.W. (1973) Major and trace elements
+--- material block 5; lines 38-50 ---
+Ag ppb                                      LSPET (1972b) Preliminary examination of lunar samples.
+ Cd ppb                                                Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+  In ppb                                            1—6-28.
+ Sn ppb
+ Sb ppb
+  Te ppb                                             Nehru C.E., Prinz M., Dowty E. and Keil K. (1974) Spinel-
+ Cs ppm                 0.051     (a)                      group minerals and ilmenite in Apollo 15 rake samples. Am.
+ Ba                                                      Mineral. 59, 1220-1235.
+ La                      5.73       (a)
+ Ce                      14.8       (a)
+  Pr                                               Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+ Nd                   12         (a)                       volumes). Curatoial Branch Pub. # 72, JSC#20787
+ Sm                      4.05       (a)
+--- age block 6; lines 7-19 ---
+Al2O3     10.2       (b)  9.94      (c )                  Dowty E., Prinz M. and Keil K. (1973b)  Composition,
+ FeO      19         (b)  20         (c )                       mineralogy, and petrology of 28 mare basalts from Apollo
+ MnO      0.22       (b)  0.26       (a)                     15 rake samples. Proc. 4th Lunar Sci. Conf. 423-444.
+ MgO       7.3        (b)  7.87       (c )
+ CaO       10.4       (b)  9.57       (c )
+ Na2O     0.38       (b)  0.335     (c )                  Dowty E., Keil K. and Prinz M. (1974c) Lunar pyroxene-
+ K2O       0.02       (b)  0.06       (c )                        phyric basalts: Crystallization under supercooled conditions.
+ P2O5      0.04       (b)                                             J. Petrology 15, 419-453.
+ S %
+ sum
+                                               Dowty E., Conrad G.H., Green J.A., Hlava P.F., Keil K.,
+ Sc ppm                  50.8       (a)                   Moore R.B., Nehru C.E. and Prinz M. (1973a) Catalog of
+ V                                                     Apollo 15 rake samples from stations 2 (St. George), 7 (Spur
+--- age block 7; lines 24-36 ---
+Zn                       2.7        (a)                   Helmke P.A., Blanchard D.P., Haskin L.A., Telander K.,
+ Ga                       4.1        (a)                      Weiss C. and Jacobs J.W. (1973) Major and trace elements
+ Ge ppb
+ As                                                             in igneous rocks from Apollo 15. The Moon 8, 129-148.
+ Se
+ Rb                    1          (a)                      Lofgren G.E., Donaldson C.H. and Usselman T.M. (1975)
+  Sr                                                     Geology, petrology and crystallization of Apollo 15 quartz-
+ Y
+  Zr                                                     normative basalts. Proc. 6th Lunar Sci. Conf. 79-99.
+ Nb
+ Mo                                        LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+ Ru                                                            description. Science 175, 363-375.
+ Rh
+--- references block 8; lines 1-9 ---
+Table 1. Chemical composition of 15116.
+                                                  References for 15116
+  reference  Dowty73     Helmke73                            Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+  weight                                                        Office, MSC 03209
+ SiO2 %    49.2       (b)  51         (c )
+  TiO2      1.16       (b)  1.78       (c )
+ Al2O3     10.2       (b)  9.94      (c )                  Dowty E., Prinz M. and Keil K. (1973b)  Composition,
+ FeO      19         (b)  20         (c )                       mineralogy, and petrology of 28 mare basalts from Apollo
+ MnO      0.22       (b)  0.26       (a)                     15 rake samples. Proc. 4th Lunar Sci. Conf. 423-444.
+--- references block 9; lines 64-73 ---
+Os ppb                                                Geologic Investigation of the Apollo 15 landing site.  In
+   Ir ppb                                                 Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+  Pt ppb
+ Au ppb                                                    5-1-112.
+ Th ppm
+ U ppm
+  technique:  (a) INAA, (b) broad beam e-probe, (c ) AA
+
+Lunar Sample Compendium
+C Meyer 2010

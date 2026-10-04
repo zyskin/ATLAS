@@ -1,0 +1,372 @@
+DOCUMENT_ID: 12023__compendium__64c902e985
+ATLAS_SAMPLE_IDS: 12023,12024
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/12023.pdf
+SOURCE_PDF_SHA256: bbc1f6af8d96694ba3795fe1a346b759a166c5e9de92ae763fd575456ddc0be2
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 5-33 ---
+25                                                                                          200
+           20                      Apollo soils                   180160
+                                                                                                    12023
+                                                                                                            140
+
+           15                                                                                          120
+  FeO                                  C       100                     12023                          ppm
+           10                                                                                           80
+
+                                                                                                             60
+             5                                                                                           40
+
+                                                                                                             20                              Lunar Soils
+             0                                                                                                   0
+               0       5      10      15      20      25      30      35                   0          20          40          60          80         100         120
+                     Al2O3                                              maturity (Is/FeO)
+           Figure 4: Composition of 12023 compared with
+            other lunar soils.                                       Figure 5: Carbon content and maturity index for
+                                                          12023 and 12024, compared with other Apollo soil
+                                                                   samples.
+   Petrography
+   12023 has a maturity index Is/FeO = 60 (mature), while                                           Due to a sample mixup, the mode given for 12023 in
+   12024 has Is/FeO = 30 (submature) (Morris 1978). The                                                     Morris et al. (1977) is incorrect (it is the mode for an
+    average grain size of 12023 is 48 microns (mature).
+                                                      Apollo 14 soil). Thus, the modes for 12023 and 12024
+                                                           are unknown.
+    Levine et al. (2005) extracted a large number of glass
+    particles from a 5 gram split of 12023.
+--- mineralogy block 2; lines 20-35 ---
+Al2O3                                              maturity (Is/FeO)
+           Figure 4: Composition of 12023 compared with
+            other lunar soils.                                       Figure 5: Carbon content and maturity index for
+                                                          12023 and 12024, compared with other Apollo soil
+                                                                   samples.
+   Petrography
+   12023 has a maturity index Is/FeO = 60 (mature), while                                           Due to a sample mixup, the mode given for 12023 in
+   12024 has Is/FeO = 30 (submature) (Morris 1978). The                                                     Morris et al. (1977) is incorrect (it is the mode for an
+    average grain size of 12023 is 48 microns (mature).
+                                                      Apollo 14 soil). Thus, the modes for 12023 and 12024
+                                                           are unknown.
+    Levine et al. (2005) extracted a large number of glass
+    particles from a 5 gram split of 12023.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-8 ---
+Figure 3: Another view of the trench at Sharp Crater where samples
+                           12023, 12024 and core 12027 were taken. AS12-48-7067.
+
+
+           25                                                                                          200
+           20                      Apollo soils                   180160
+                                                                                                    12023
+                                                                                                            140
+--- material block 4; lines 17-35 ---
+20                              Lunar Soils
+             0                                                                                                   0
+               0       5      10      15      20      25      30      35                   0          20          40          60          80         100         120
+                     Al2O3                                              maturity (Is/FeO)
+           Figure 4: Composition of 12023 compared with
+            other lunar soils.                                       Figure 5: Carbon content and maturity index for
+                                                          12023 and 12024, compared with other Apollo soil
+                                                                   samples.
+   Petrography
+   12023 has a maturity index Is/FeO = 60 (mature), while                                           Due to a sample mixup, the mode given for 12023 in
+   12024 has Is/FeO = 30 (submature) (Morris 1978). The                                                     Morris et al. (1977) is incorrect (it is the mode for an
+    average grain size of 12023 is 48 microns (mature).
+                                                      Apollo 14 soil). Thus, the modes for 12023 and 12024
+                                                           are unknown.
+    Levine et al. (2005) extracted a large number of glass
+    particles from a 5 gram split of 12023.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- treatment block 5; lines 14-34 ---
+60
+             5                                                                                           40
+
+                                                                                                             20                              Lunar Soils
+             0                                                                                                   0
+               0       5      10      15      20      25      30      35                   0          20          40          60          80         100         120
+                     Al2O3                                              maturity (Is/FeO)
+           Figure 4: Composition of 12023 compared with
+            other lunar soils.                                       Figure 5: Carbon content and maturity index for
+                                                          12023 and 12024, compared with other Apollo soil
+                                                                   samples.
+   Petrography
+   12023 has a maturity index Is/FeO = 60 (mature), while                                           Due to a sample mixup, the mode given for 12023 in
+   12024 has Is/FeO = 30 (submature) (Morris 1978). The                                                     Morris et al. (1977) is incorrect (it is the mode for an
+    average grain size of 12023 is 48 microns (mature).
+                                                      Apollo 14 soil). Thus, the modes for 12023 and 12024
+                                                           are unknown.
+    Levine et al. (2005) extracted a large number of glass
+    particles from a 5 gram split of 12023.
+
+Lunar Sample Compendium
+
+=== PDF PAGE 3; CATEGORIES: age,material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 1-9 ---
+1000                                               but apparently never studied. The other large chips in
+                                      12023        this photo (,41 ,52 etc) seem to be the same material.
+             100                                          12024,16 (8.3 grams) is a composite glass-coated soil
+                                                             breccia.
+     sample/
+     chondrite
+
+              10                                                    Laul (1985), Simon and Papike (1985), and Simon et
+                                                                          al. (1985) analyzed particles 12023,114 (breccia) and
+--- mineralogy block 2; lines 20-39 ---
+function of grain size, even to the extent of getting the           for 12023 soil (no data available for 12024)(from
+                                                    composition of “smoke” (the finest fraction). The         Warren et al. 1978).
+                                                     composition of 12024 has not been reported.
+  Coarse Fines
+  Some of the larger particles that were picked out of  Moore et al. (1971) reported 150 ppm C and 120 ppm
+   12023 and 12024 are described briefly in Marvin  N for 12023 and 115 ppm C for 12024 (figure 5).
+   (1978).  Figure 13 shows a relatively large olivine  Kaplan and Petrowski (1971) found 120 ppm C in
+   vitrophyre 12024,15 (14.1 g) that has been subdivided,  12023 (average of 5 splits).  Kerridge et al. (1978)
+                                                   found 108 ppm C and 72 ppm N, while Norris et al.
+                                                      (1983) reported 115 ppm C and 70 ppm N.
+
+                                              Radiogenic age dating
+                                                   Levine et al. (2005, 2007) and Barra et al. (2006)
+                                                        obtained the age of numerous (81?) glass beads by the
+                                                             40Ar/39Ar plateau technique. The majority of ages were
+                                                                less than 500 m.y. What are we to conclude from this?
+--- material block 3; lines 1-26 ---
+1000                                               but apparently never studied. The other large chips in
+                                      12023        this photo (,41 ,52 etc) seem to be the same material.
+             100                                          12024,16 (8.3 grams) is a composite glass-coated soil
+                                                             breccia.
+     sample/
+     chondrite
+
+              10                                                    Laul (1985), Simon and Papike (1985), and Simon et
+                                                                          al. (1985) analyzed particles 12023,114 (breccia) and
+                                                        ,118 (KREEP basalt).
+                1
+
+                                            Chemistry
+
+                0.1                                                 Warren et al. (1978) have analyzed 12023, finding it
+               La      Pr    Sm    Gd    Dy      Er     Yb
+                Ce    Nd    Eu     Tb    Ho    Tm    Lu       typical of Apollo 12 soils (figures 3 and 6). Woodcock
+                                                  and Pillinger (1978) determined the composition as
+         Figure 6: Normalized rare-earth-element diagram
+                                                         function of grain size, even to the extent of getting the           for 12023 soil (no data available for 12024)(from
+                                                    composition of “smoke” (the finest fraction). The         Warren et al. 1978).
+                                                     composition of 12024 has not been reported.
+  Coarse Fines
+  Some of the larger particles that were picked out of  Moore et al. (1971) reported 150 ppm C and 120 ppm
+   12023 and 12024 are described briefly in Marvin  N for 12023 and 115 ppm C for 12024 (figure 5).
+   (1978).  Figure 13 shows a relatively large olivine  Kaplan and Petrowski (1971) found 120 ppm C in
+--- material block 4; lines 35-51 ---
+less than 500 m.y. What are we to conclude from this?
+
+
+
+
+
+            average grain size = 48 microns
+
+
+
+
+
+          Figure 7: Grain size distribution for 12023 (Graf            Figure 8: Gas release pattern for 12023 (from
+          1993, data by McKay et al. ).                            Gibson and Johnson 1971).
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 5; lines 25-39 ---
+12023 and 12024 are described briefly in Marvin  N for 12023 and 115 ppm C for 12024 (figure 5).
+   (1978).  Figure 13 shows a relatively large olivine  Kaplan and Petrowski (1971) found 120 ppm C in
+   vitrophyre 12024,15 (14.1 g) that has been subdivided,  12023 (average of 5 splits).  Kerridge et al. (1978)
+                                                   found 108 ppm C and 72 ppm N, while Norris et al.
+                                                      (1983) reported 115 ppm C and 70 ppm N.
+
+                                              Radiogenic age dating
+                                                   Levine et al. (2005, 2007) and Barra et al. (2006)
+                                                        obtained the age of numerous (81?) glass beads by the
+                                                             40Ar/39Ar plateau technique. The majority of ages were
+                                                                less than 500 m.y. What are we to conclude from this?
+--- treatment block 6; lines 15-27 ---
+0.1                                                 Warren et al. (1978) have analyzed 12023, finding it
+               La      Pr    Sm    Gd    Dy      Er     Yb
+                Ce    Nd    Eu     Tb    Ho    Tm    Lu       typical of Apollo 12 soils (figures 3 and 6). Woodcock
+                                                  and Pillinger (1978) determined the composition as
+         Figure 6: Normalized rare-earth-element diagram
+                                                         function of grain size, even to the extent of getting the           for 12023 soil (no data available for 12024)(from
+                                                    composition of “smoke” (the finest fraction). The         Warren et al. 1978).
+                                                     composition of 12024 has not been reported.
+  Coarse Fines
+  Some of the larger particles that were picked out of  Moore et al. (1971) reported 150 ppm C and 120 ppm
+   12023 and 12024 are described briefly in Marvin  N for 12023 and 115 ppm C for 12024 (figure 5).
+   (1978).  Figure 13 shows a relatively large olivine  Kaplan and Petrowski (1971) found 120 ppm C in
+   vitrophyre 12024,15 (14.1 g) that has been subdivided,  12023 (average of 5 splits).  Kerridge et al. (1978)
+--- references block 7; lines 28-40 ---
+found 108 ppm C and 72 ppm N, while Norris et al.
+                                                      (1983) reported 115 ppm C and 70 ppm N.
+
+                                              Radiogenic age dating
+                                                   Levine et al. (2005, 2007) and Barra et al. (2006)
+                                                        obtained the age of numerous (81?) glass beads by the
+                                                             40Ar/39Ar plateau technique. The majority of ages were
+                                                                less than 500 m.y. What are we to conclude from this?
+
+=== PDF PAGE 6; CATEGORIES: material ===
+--- material block 1; lines 1-7 ---
+Figure 13: 12024,15 was a large dark rock found within the GASC. NASA S89-36052. Cube is 1
+                cm.
+
+
+                        12024                   C Meyer
+                        2011         56.5 g
+
+=== PDF PAGE 7; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+References for 12023                           Table 1. Chemical composition of 12023.
+   Abell P.I., Cadogen P.H., Eglinton G., Maxwell J.R. and
+    Pillinger C.T. (1971) Survey of lunar carbon compounds.   reference  Warren78
+    Proc. 2nd Lunar Sci. Conf. 1843-1863.                        weight
+                                                           SiO2 %
+                                                             TiO2       2.45      (a)
+   Becker R.H. and Clayton R.N. (1978)  Nitrogen isotope   Al2O3     10.77     (a)
+    systematics of two Apollo 12 soils. Proc. 9th Lunar Planet.  FeO       15.3      (a)
+    Sci. Conf. 1619-1628.                           MnO       0.2        (a)
+                                              MgO       11.94     (a)
+                                                CaO       9.24      (a)
+   Cadogen P.H., Eglinton G., Maxwell J.R. and Pillinger C.T.  Na2O      0.43      (a)
+    (1971) Carbon chemistry of lunar surface. Nature 231, 29.  K2O       0.26      (a)
+                                                   P2O5
+                                                  S %
+    Flory D.A., Wikstrom S., Gupta S., Gibert J.M. and Oro J.                                                    sum
+    (1972) Organogenic compounds in Apollo 11, 12 and 14
+    lunar samples. Proc. 3rd Lunar Sci. Conf. 2091-2108.       Sc ppm    35.7      (a)
+                                                  V
+--- material block 2; lines 17-29 ---
+(1972) Organogenic compounds in Apollo 11, 12 and 14
+    lunar samples. Proc. 3rd Lunar Sci. Conf. 2091-2108.       Sc ppm    35.7      (a)
+                                                  V
+                                                              Cr        2580      (a)
+    Gardiner L.R., Jull A.J.T. and Pillinger C.T. (1978) Progress                                                   Co       42        (a)
+   towards the direct measurement of 13C.12C ratios for   Ni        220       (a)
+    hydrolysable carbon in lunar soil by static mass spectrometry.  Cu
+    Proc. 9th Lunar Sci. Conf. 2149-2165.                    Zn
+                                                 Ga
+                                                 Ge ppb
+   Gehrke C.W., Zumwalt R.W., Kuo K., Aue W.A., Stalling  As
+    D.L., Kvenvolden K.A. and Ponnamperuma C. (1972)  Se
+   Amino acid analysis of Apollo 14 fines. Proc. 3rd Lunar Sci.  Rb
+--- material block 3; lines 32-44 ---
+Zr        460       (a)
+   Gibson E.K. and Johnson S.M. (1972) Thermal analysis-  Nb
+    inorganic gas release studies of lunar samples.  Proc. 2nd  Mo
+                                                   Ru
+   Lunar Sci. Conf. 1351-1366.                                                   Rh
+                                                      Pd ppb
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA    Ag ppb
+   Pub. 1265                                        Cd ppb
+                                                                               In ppb
+                                                      Sn ppb
+   Kaplan I.R. and Petrowski C. (1971)  Carbon and sulfur  Sb ppb
+    isotope studies on Apollo 12 lunar samples. Proc. 2nd Lunar   Te ppb
+    Sci. Conf. 1397-406.                                 Cs ppm    0.38      (a)
+--- references block 4; lines 1-9 ---
+References for 12023                           Table 1. Chemical composition of 12023.
+   Abell P.I., Cadogen P.H., Eglinton G., Maxwell J.R. and
+    Pillinger C.T. (1971) Survey of lunar carbon compounds.   reference  Warren78
+    Proc. 2nd Lunar Sci. Conf. 1843-1863.                        weight
+                                                           SiO2 %
+                                                             TiO2       2.45      (a)
+   Becker R.H. and Clayton R.N. (1978)  Nitrogen isotope   Al2O3     10.77     (a)
+    systematics of two Apollo 12 soils. Proc. 9th Lunar Planet.  FeO       15.3      (a)
+    Sci. Conf. 1619-1628.                           MnO       0.2        (a)
+--- references block 5; lines 64-73 ---
+and nitrogen abundances in Apollo 12 lunar samples. Proc.  Os ppb
+                                                                                                           Ir ppb
+    2nd Lunar Sci. Conf. 1343-1350.                                                                     Pt ppb
+                                                      Au ppb
+                                                        Th ppm    6.3        (a)
+                                              U ppm     1.7        (a)
+                                                                      technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 8; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 1-12 ---
+Morris R.V., Warner J.L., McKay D.S. and Brown R.W.
+    (1977) Nearly pure Apollo 12 KREEP: Soils sample 12023.
+    Proc. 8th Lunar Sci. Conf. 2449-2458.
+
+    Morris R.V. (1978) The surface exposure (maturity) of lunar
+     soils: Some concepts and Is/FeO compilation. Proc. 9th Lunar
+    Planet . Sci. Conf. 2287-2298.
+
+    Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Handbook of Lunar Soils. JSC 19069
+
+    Norris S.J., Swart P.K., Wright I.P., Grady M.M. and Pillinger
+--- chemistry block 2; lines 42-54 ---
+Warren P.H., Afiattalab F. and Wasson J.T. (1978)
+    Investigations of unusually KREEPY samples: Pristine rock
+    15386, cone crater soil fragments 14143 and 12023, a typical
+    Apollo 12 soil. Proc. 9th Lunar Planet. Sci. Conf. 653-660.
+
+   Woodcock M.R. and Pillinger C.T. (1978) Major element
+    chemistry of agglutinate size fractions.  Proc. 9th Lunar
+     Planet. Sci. Conf. 2195-2214.
+--- mineralogy block 3; lines 43-55 ---
+Warren P.H., Afiattalab F. and Wasson J.T. (1978)
+    Investigations of unusually KREEPY samples: Pristine rock
+    15386, cone crater soil fragments 14143 and 12023, a typical
+    Apollo 12 soil. Proc. 9th Lunar Planet. Sci. Conf. 653-660.
+
+   Woodcock M.R. and Pillinger C.T. (1978) Major element
+    chemistry of agglutinate size fractions.  Proc. 9th Lunar
+     Planet. Sci. Conf. 2195-2214.
+--- material block 4; lines 17-52 ---
+Oro J., Flory D.A., Gibert J.M., McReynolds J., Lichtenstein
+    H.A. and Wikstrom S. (1972) Abundances and distribution
+    of organogenic elements and compounds in Apollo 12 lunar
+    samples. Proc. 2nd Lunar Sci. Conf. 1913-1925
+
+     Pillinger C.T., Jull A.J.T., Woodcock M.R. and Stephenson
+    A. (1978) Maturation of the lunar regolith. Proc. 9th Lunar
+     Planet. Sci. Conf. 2167-2194.
+
+    Schoemaker E.M., Batson R.M., Bean A.L., Conrad C.,
+   Dahlem D.H., Goddard E.N., Hait M.H., Larson K.B.,
+    Schaber G.G., Schleicher D.L., Sutton R.L., Swann G.A., and
+    Waters A.C. (1970)  Peliminary geologic investigation of
+    the Apollo 12 landing site. In NASA SP-235
+
+   Simon S.B. and Papike J.J. (1985) Petrology of the Apollo
+    12 highland component. Proc. 16th Lunar Planet. Sci. Conf.
+    D47-D60.
+
+   Simon S.B., Papike J.J., Gosselin D.C. and Laul J.C. (1975)
+    Petrology and chemistry of Apollo 12 regolith breccias. Proc.
+     16th Lunar Planet Sci. Conf. D75-D86.
+
+    Warner J. (1970)  Apollo 12 Lunar Sample Information
+    Catalog. NASA MSC
+
+   Warren P.H., Afiattalab F. and Wasson J.T. (1978)
+    Investigations of unusually KREEPY samples: Pristine rock
+    15386, cone crater soil fragments 14143 and 12023, a typical
+    Apollo 12 soil. Proc. 9th Lunar Planet. Sci. Conf. 653-660.
+
+   Woodcock M.R. and Pillinger C.T. (1978) Major element
+    chemistry of agglutinate size fractions.  Proc. 9th Lunar
+     Planet. Sci. Conf. 2195-2214.
+--- treatment block 5; lines 1-11 ---
+Morris R.V., Warner J.L., McKay D.S. and Brown R.W.
+    (1977) Nearly pure Apollo 12 KREEP: Soils sample 12023.
+    Proc. 8th Lunar Sci. Conf. 2449-2458.
+
+    Morris R.V. (1978) The surface exposure (maturity) of lunar
+     soils: Some concepts and Is/FeO compilation. Proc. 9th Lunar
+    Planet . Sci. Conf. 2287-2298.
+
+    Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Handbook of Lunar Soils. JSC 19069

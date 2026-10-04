@@ -1,0 +1,191 @@
+DOCUMENT_ID: 60635__compendium__40bafa7f0c
+ATLAS_SAMPLE_IDS: 60635
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60635.pdf
+SOURCE_PDF_SHA256: c85ff297231eec611bd0340886a409d68371c4a9b928ce5efb8143a8c0d554c6
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 19-33 ---
+that there were two different regions, both with basaltic
+    texture, but with different grain size. They show a  Processing
+    picture of the contact, and found different ages for the                                                   There are only 2 thin sections, but enough material for
+   two regions.                                               more analyses.
+
+   Deutsch and Stoffler describe 60635 as: “a coarse-
+   grained subophitic impact melt rock with anorthite
+    laths (An92-96) and pyroxene (low- and high-Ca) as a      C Meyer   60635
+    interstitial phase; olivine is lacking (figure 2). Besides        2012     15 grams
+   nearly pure ulvospinel, Fe-metal, troilite and a K-rich
+   mesostasis are present”.
+                                                     ,0        ,1    ,3      ,5    ,13     ,18
+   The relatively high Ni content of Fe-metal grains       8.1 g  PB   0.4 g  1 g   1.2 g  2 g
+    indicates that this rock is an impact melt (figure 4).
+                                                                                crushed    ,15
+--- material block 2; lines 1-38 ---
+60635
+                                    Basaltic Impact Melt
+                                        15 grams
+
+
+
+
+
+                Figure 1: Photo of 60635. Scale in cm and mm. S73-20489
+
+   Introduction                               Chemistry
+   60635 was collected as a rake sample near the LM (see  Dowty et al. (1974) and Warner et al. (1976) determined
+    section on 60600).  It has a basaltic texture.            the composition by broad beam electron probe analysis
+                                                               (table 1).
+   Petrography
+   Dowty et al. (1974), Warner et al. (1976) and Ryder  Radiogenic age dating
+   and Norman (1980) describe 60635 as an igneous rock  Deutsch and Stoffler (1987) found two ages for pieces
+    (figures 1 and 2). Deutsch and Stoffler (1987) found   of 60635 (figure 5).
+    that there were two different regions, both with basaltic
+    texture, but with different grain size. They show a  Processing
+    picture of the contact, and found different ages for the                                                   There are only 2 thin sections, but enough material for
+   two regions.                                               more analyses.
+
+   Deutsch and Stoffler describe 60635 as: “a coarse-
+   grained subophitic impact melt rock with anorthite
+    laths (An92-96) and pyroxene (low- and high-Ca) as a      C Meyer   60635
+    interstitial phase; olivine is lacking (figure 2). Besides        2012     15 grams
+   nearly pure ulvospinel, Fe-metal, troilite and a K-rich
+   mesostasis are present”.
+                                                     ,0        ,1    ,3      ,5    ,13     ,18
+   The relatively high Ni content of Fe-metal grains       8.1 g  PB   0.4 g  1 g   1.2 g  2 g
+    indicates that this rock is an impact melt (figure 4).
+                                                                                crushed    ,15
+                                                                                            ,2          TS
+   Dowty et al. (1974) give an analysis of ulvospinel.                 TS
+
+Lunar Sample Compendium
+C Meyer 2012
+--- age block 3; lines 10-22 ---
+Introduction                               Chemistry
+   60635 was collected as a rake sample near the LM (see  Dowty et al. (1974) and Warner et al. (1976) determined
+    section on 60600).  It has a basaltic texture.            the composition by broad beam electron probe analysis
+                                                               (table 1).
+   Petrography
+   Dowty et al. (1974), Warner et al. (1976) and Ryder  Radiogenic age dating
+   and Norman (1980) describe 60635 as an igneous rock  Deutsch and Stoffler (1987) found two ages for pieces
+    (figures 1 and 2). Deutsch and Stoffler (1987) found   of 60635 (figure 5).
+    that there were two different regions, both with basaltic
+    texture, but with different grain size. They show a  Processing
+    picture of the contact, and found different ages for the                                                   There are only 2 thin sections, but enough material for
+   two regions.                                               more analyses.
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 60635
+
+
+                                                                        reference Warner76    Ryder82
+                                                                      weight
+                                                             SiO2 %   45.8      (a)  47.3     (b)
+                                                                TiO2      0.34      (a)
+                                                             Al2O3     27.6      (a)  25.9     (b)
+                                                     FeO       4.7       (a)  5.2      (b)
+                                                MnO      0.04      (a)
+                                                MgO      4.1       (a)  5.9      (b)
+                                                  CaO      15.8      (a)  15.1     (b)
+                                                    Na2O     0.54      (a)  0.48     (b)
+                                                   K2O      0.09      (a)  0.1      (b)
+                                                     P2O5     0.09      (a)
+                                                    S %
+                                                      sum
+
+          Figure 2: Photo micrograph of thin section of         Sc ppm              7        (b)
+                                                    V
+--- mineralogy block 2; lines 34-46 ---
+En                                          Fs
+
+    Fo                                        Fa
+           compiled by C Meyer
+
+        Figure 3: Compostion of pyroxene in 60635 (Warner
+          et al. 1976).
+--- age block 3; lines 49-61 ---
+Figure 4: Composition of metallic iron grain in
+          60635 (Dowty et al. 1974).                    Summary of Age Data for 60635
+                                                                                                 Rb/Sr
+                                                                       Deutsch and Stoffler 1987   3.87 ± 0.02 b.y.
+                                                                                                       3.75 ± 0.03
+                                                                             Caution: (ë87 = 1.42x10-11 yr-1)
+
+Lunar Sample Compendium
+--- references block 4; lines 1-10 ---
+Table 1. Chemical composition of 60635
+
+
+                                                                        reference Warner76    Ryder82
+                                                                      weight
+                                                             SiO2 %   45.8      (a)  47.3     (b)
+                                                                TiO2      0.34      (a)
+                                                             Al2O3     27.6      (a)  25.9     (b)
+                                                     FeO       4.7       (a)  5.2      (b)
+                                                MnO      0.04      (a)
+--- references block 5; lines 27-39 ---
+Nd
+                                             Sm                     3.2      (b)
+                                                        Eu                   1        (b)
+                                                   Gd
+                                                              Lu                     0.35     (b)
+                                                                    Hf
+                                                                          technique:  (a) e. probe, (b) prellim.
+
+   En                                          Fs
+
+    Fo                                        Fa
+           compiled by C Meyer
+
+=== PDF PAGE 3; CATEGORIES: age,material,references ===
+--- material block 1; lines 6-23 ---
+Deutsch A. and Stoffler D. (1987) Rb-Sr-analyses of Apollo
+   16 melt rocks and a new age estimate for the Imbrium basin:
+   Lunar basin chronology and the early heavy bombardment
+    of the moon. Geochim. Cosmochim. Acta 51, 1951-1964.
+
+   Dowty E., Keil K. and Prinz M. (1974a) Igneous rocks from
+   Apollo 16 rake samples. Proc. 5th Lunar Sci. Conf. 431-
+    445.
+
+   Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+    Description, classification and inventory of 151 Apollo 16
+    rake samples from the LM area and station 5.  Curator’s
+    Catalog, JSC.
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   and chemical description. Science 179, 23-34.
+
+   LSPET (1972c) Preliminary examination of lunar samples.
+--- material block 2; lines 40-52 ---
+Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    In Geology of the Apollo 16 area, central lunar highlands.
+    (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+   Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+   and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+   from the LM area and station 5.  Spec. Publ. #13, UNM
+    Institute of Meteoritics, Albuquerque. 87 pp.
+--- age block 3; lines 1-13 ---
+References for 60635
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+   Deutsch A. and Stoffler D. (1987) Rb-Sr-analyses of Apollo
+   16 melt rocks and a new age estimate for the Imbrium basin:
+   Lunar basin chronology and the early heavy bombardment
+    of the moon. Geochim. Cosmochim. Acta 51, 1951-1964.
+
+   Dowty E., Keil K. and Prinz M. (1974a) Igneous rocks from
+   Apollo 16 rake samples. Proc. 5th Lunar Sci. Conf. 431-
+    445.
+--- references block 4; lines 1-7 ---
+References for 60635
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+   Deutsch A. and Stoffler D. (1987) Rb-Sr-analyses of Apollo
+   16 melt rocks and a new age estimate for the Imbrium basin:

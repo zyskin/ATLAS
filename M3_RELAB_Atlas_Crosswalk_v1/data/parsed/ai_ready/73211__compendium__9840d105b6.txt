@@ -1,0 +1,189 @@
+DOCUMENT_ID: 73211__compendium__9840d105b6
+ATLAS_SAMPLE_IDS: 73211
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/73211.pdf
+SOURCE_PDF_SHA256: cbd688b3a77fdea1079606ef7f27c1163955988a4225d6f69383562d9735011a
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 20-32 ---
+and returned in same bag.  This soil sample is thus
+                                                            partly dust attached to the rocks and material abraded
+                                                              off of them during transit.
+
+                                            Petrography
+                                                Morris (1978) determined the maturity index (Is/
+                                      FeO =39).
+        Figure 2: Map of station 3, Apollo 17, showing
+        position of 10 meter crater with respect to ejecta
+        blanket from Lara Crater.                    Chemistry
+                                             Korotev and Kremser (1992) determined the
+                                                    composition (REE are way high !).
+--- material block 2; lines 1-8 ---
+73211
+                                           Soil
+                                      101 grams
+--- material block 3; lines 13-26 ---
+Figure 1: Photograph of 10 meter crater at station 3, Apollo 17 showing location
+                      of 73210. AS17-138-21160
+
+                                                Introduction
+                                               73210 is the soil collected along with 73125 – 73128,
+                                                 and returned in same bag.  This soil sample is thus
+                                                            partly dust attached to the rocks and material abraded
+                                                              off of them during transit.
+
+                                            Petrography
+                                                Morris (1978) determined the maturity index (Is/
+                                      FeO =39).
+--- treatment block 4; lines 19-31 ---
+73210 is the soil collected along with 73125 – 73128,
+                                                 and returned in same bag.  This soil sample is thus
+                                                            partly dust attached to the rocks and material abraded
+                                                              off of them during transit.
+
+                                            Petrography
+                                                Morris (1978) determined the maturity index (Is/
+                                      FeO =39).
+        Figure 2: Map of station 3, Apollo 17, showing
+        position of 10 meter crater with respect to ejecta
+        blanket from Lara Crater.                    Chemistry
+                                             Korotev and Kremser (1992) determined the
+                                                    composition (REE are way high !).
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 8-31 ---
+25
+          20                      Apollo soils
+
+
+          15
+  FeO
+          10         73211
+
+
+            5
+
+
+            0
+              0       5       10      15      20      25      30      35
+                     Al2O3
+
+        Figure 4: FeO content of 73211 compared with
+                                                               Figure 5: Normalized rare-earth-element diagram
+        composition of Apollo soil samples.
+                                                                         for 73211 compared with mare and highland soil
+                                                              samples from Apollo 17.
+--- material block 2; lines 21-34 ---
+0
+              0       5       10      15      20      25      30      35
+                     Al2O3
+
+        Figure 4: FeO content of 73211 compared with
+                                                               Figure 5: Normalized rare-earth-element diagram
+        composition of Apollo soil samples.
+                                                                         for 73211 compared with mare and highland soil
+                                                              samples from Apollo 17.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 73211.       References for 73211
+                                                              Butler P. (1973) Lunar Sample Information Catalog Apollo
+   reference  Korotev92                                        17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+   weight                                                     Catalog. pp. 447.
+  SiO2 %
+  TiO2
+  Al2O3                                               Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+  FeO       8.93    8.68     (a)
+  MnO                                                Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+  MgO
+                                                      Space Phys. 13, 567-587.  CaO
+  Na2O     0.439   0.442   (a)
+  K2O                                               Korotev R.L. and Kremser D. (1992)  Compositional
+  P2O5                                                         variations in Apollo 17 soils and their relationships to the
+  S %
+                                                         geology of the Taurus-Littrow site. Proc. 22nd Lunar Planet.  sum
+                                                                      Sci. Conf. 275-301.
+  Sc ppm   20.6    19.6     (a)
+  V                                         LSPET (1973a) Apollo 17 lunar samples : Chemical and
+--- chemistry block 2; lines 33-45 ---
+Nb                                                    Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Mo                                              Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Ru
+                                                                Office, Houston  Rh
+  Pd ppb
+  Ag ppb                                                 Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Cd ppb                                                             soils: Some concepts and Is/FeO compilation. Proc. 9th
+   In ppb
+                                                     Lunar Sci. Conf. 2287-2297.  Sn ppb
+  Sb ppb
+  Te ppb                                                 Morris R.V. (1980) Origins and size distribution of metallic
+  Cs ppm                                                      iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+  Ba       185    198      (a)
+--- mineralogy block 3; lines 43-55 ---
+Te ppb                                                 Morris R.V. (1980) Origins and size distribution of metallic
+  Cs ppm                                                      iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+  Ba       185    198      (a)
+                                                                      Sci. Conf. 1697-1712.  La        40.5    17.2     (a)
+  Ce       106     45.4     (a)
+  Pr                                                     Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Nd       72     29       (a)                                 regolith: Chemistry, Mineralogy and Petrology.  Rev.
+  Sm       20.3    8.31     (a)
+                                                       Geophys. Space Phys. 20, 761-826.  Eu        1.52    1.33     (a)
+  Gd
+  Tb        3.76    1.62     (a)                                   Pillinger C.T. and seven (1974) The association between
+  Dy                                                         carbide and finely divided metallic iron in lunar fines. Proc.
+  Ho
+--- material block 4; lines 38-55 ---
+Ag ppb                                                 Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Cd ppb                                                             soils: Some concepts and Is/FeO compilation. Proc. 9th
+   In ppb
+                                                     Lunar Sci. Conf. 2287-2297.  Sn ppb
+  Sb ppb
+  Te ppb                                                 Morris R.V. (1980) Origins and size distribution of metallic
+  Cs ppm                                                      iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+  Ba       185    198      (a)
+                                                                      Sci. Conf. 1697-1712.  La        40.5    17.2     (a)
+  Ce       106     45.4     (a)
+  Pr                                                     Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Nd       72     29       (a)                                 regolith: Chemistry, Mineralogy and Petrology.  Rev.
+  Sm       20.3    8.31     (a)
+                                                       Geophys. Space Phys. 20, 761-826.  Eu        1.52    1.33     (a)
+  Gd
+  Tb        3.76    1.62     (a)                                   Pillinger C.T. and seven (1974) The association between
+  Dy                                                         carbide and finely divided metallic iron in lunar fines. Proc.
+  Ho
+--- treatment block 5; lines 32-44 ---
+Zr        230    270      (a)
+  Nb                                                    Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Mo                                              Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Ru
+                                                                Office, Houston  Rh
+  Pd ppb
+  Ag ppb                                                 Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Cd ppb                                                             soils: Some concepts and Is/FeO compilation. Proc. 9th
+   In ppb
+                                                     Lunar Sci. Conf. 2287-2297.  Sn ppb
+  Sb ppb
+  Te ppb                                                 Morris R.V. (1980) Origins and size distribution of metallic
+  Cs ppm                                                      iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+--- references block 6; lines 1-9 ---
+Table 1. Chemical composition of 73211.       References for 73211
+                                                              Butler P. (1973) Lunar Sample Information Catalog Apollo
+   reference  Korotev92                                        17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+   weight                                                     Catalog. pp. 447.
+  SiO2 %
+  TiO2
+  Al2O3                                               Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+  FeO       8.93    8.68     (a)
+  MnO                                                Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+--- references block 7; lines 64-73 ---
+Os ppb
+    Ir ppb     7.4     8.5      (a)
+   Pt ppb
+  Au ppb    3.4     2.1      (a)
+  Th ppm    4.7     3.15     (a)
+  U ppm    0.97    0.69     (a)
+   technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2010

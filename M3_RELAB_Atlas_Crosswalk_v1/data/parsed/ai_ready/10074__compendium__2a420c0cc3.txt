@@ -1,0 +1,170 @@
+DOCUMENT_ID: 10074__compendium__2a420c0cc3
+ATLAS_SAMPLE_IDS: 10074
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10074.pdf
+SOURCE_PDF_SHA256: fa371e5e4e08d728dd382e73a8d1c620fd7c92173148f5e2a2b7eadc90ac102b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 7-32 ---
+Figure 1: Photo of 10074,1. NASA S76-20396. Sample is 3.5 cm across.
+
+
+   Introduction
+   10074 is a coherent, glass-matrix regolith breccia.
+   Figure 1 show an abundance of lithic clast – mostly
+   mare basalt.
+
+                                                      Simon’s Mode for 10074   Petrography
+                                                                 S    L
+   Simon et al. (1984) included breccia 10074 in their                                                            Mare Basalt                 6.2      11
+   comprehensive study of Apollo 11 regolith breccias –         Highland Component        0.9      1.8
+    their mode is given in the table. They calculated that         Regolith breccia            1.1      0.3
+     it had about 26 % highland component, but couldn’t         Agglutinate                 1.4      0.9
+    directly identify that many clasts of highland rock.        Pyroxene                   8.4
+                                                                          Olivine                     0.2
+   They found 10074 had the least amount of agglutinate                                                                            Plagioclase                 3.4
+   component of the Apollo 11 regolith breccias they          Ilmenite                    1.8      0.6
+   studied (figure 3).                                           Orange glass             2        0.8
+                                                                      Other glass                 3.5      2.2
+                                                                      Matrix                  51 %
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-32 ---
+10074
+                                   Regolith Breccia
+                                            55.5 grams
+
+
+
+
+
+             Figure 1: Photo of 10074,1. NASA S76-20396. Sample is 3.5 cm across.
+
+
+   Introduction
+   10074 is a coherent, glass-matrix regolith breccia.
+   Figure 1 show an abundance of lithic clast – mostly
+   mare basalt.
+
+                                                      Simon’s Mode for 10074   Petrography
+                                                                 S    L
+   Simon et al. (1984) included breccia 10074 in their                                                            Mare Basalt                 6.2      11
+   comprehensive study of Apollo 11 regolith breccias –         Highland Component        0.9      1.8
+    their mode is given in the table. They calculated that         Regolith breccia            1.1      0.3
+     it had about 26 % highland component, but couldn’t         Agglutinate                 1.4      0.9
+    directly identify that many clasts of highland rock.        Pyroxene                   8.4
+                                                                          Olivine                     0.2
+   They found 10074 had the least amount of agglutinate                                                                            Plagioclase                 3.4
+   component of the Apollo 11 regolith breccias they          Ilmenite                    1.8      0.6
+   studied (figure 3).                                           Orange glass             2        0.8
+                                                                      Other glass                 3.5      2.2
+                                                                      Matrix                  51 %
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: material ===
+--- material block 1; lines 1-21 ---
+Chemistry
+                                            Rhodes and Blanchard (1981) found that the
+                                                      composition of 10074 was similar to that of the other
+                                                              regolith breccias and 10084 (figures 3 and 4).
+
+                                                 Processing
+                                                  Apollo 11 samples were originally described and
+                                                         cataloged in 1969 and “recataloged” by Kramer et al.
+                                                          (1977). There are 6 thin sections.
+
+
+
+
+
+        Figure 2: Photomicrograph of matrix of 10074,7.
+      NASA S76-26317.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-21 ---
+Table 1. Chemical composition of 10074.                25
+                                                                                20                      Apollo soils    reference  Goles 70   Rhodes81
+    weight                                                                                                                      breccia
+   SiO2 %    41.3        41.5      (b)                                      15
+    TiO2       7.8         7.49      (b)              FeO          10084
+   Al2O3     15.3        13.25     (b)                                                 10074
+   FeO       15.3        15.69     (b)                                      10
+   MnO      0.18     (a) 0.23      (b)
+   MgO       6.8         7.82      (b)                                        5
+   CaO      13          11.91     (b)
+   Na2O      0.5       (a) 0.48      (b)
+                                                                                   0
+   K2O                   0.18      (b)                                                                                     0       5       10      15      20      25      30      35
+   P2O5                  0.11      (b)
+   S %                                                        Al2O3
+   sum
+                                                                  Figure 4: Composition of 10074 compared with
+   Sc ppm    53.7     (a) 58        (c )                                Apollo soils.
+   V        78       (a) 46
+    Cr        1770     (a) 2070     (b)
+   Co        30.9     (a) 31                                                        1000
+--- material block 2; lines 1-9 ---
+Table 1. Chemical composition of 10074.                25
+                                                                                20                      Apollo soils    reference  Goles 70   Rhodes81
+    weight                                                                                                                      breccia
+   SiO2 %    41.3        41.5      (b)                                      15
+    TiO2       7.8         7.49      (b)              FeO          10084
+   Al2O3     15.3        13.25     (b)                                                 10074
+   FeO       15.3        15.69     (b)                                      10
+   MnO      0.18     (a) 0.23      (b)
+   MgO       6.8         7.82      (b)                                        5
+--- material block 3; lines 33-45 ---
+Nb                  19
+   Mo
+                                                                                                     Pr                                                                        Sm                                                                                       Gd                                                                                                        Dy                                                                                                                                          Er                                                                                                                       Yb   Ru                                                                                                              0.1    La Ce                                                                                   Nd                                                                                            Eu                                                                                                           Tb                                                                                                       Ho                                                                                                 Tm                                                                                                                                     Lu
+   Rh
+   Pd ppb
+   Ag ppb                                                                Figure 5: Normalized rare earth element diagram   Cd ppb
+     In ppb                                                                for breccia 10074 compared with soil 10084 (data
+   Sn ppb                                                     from Wiesmann et al. 1975).
+   Sb ppb
+    Te ppb
+   Cs ppm
+   Ba       280      (a) 208
+   La        13.8     (a) 18.3
+--- references block 4; lines 1-8 ---
+Table 1. Chemical composition of 10074.                25
+                                                                                20                      Apollo soils    reference  Goles 70   Rhodes81
+    weight                                                                                                                      breccia
+   SiO2 %    41.3        41.5      (b)                                      15
+    TiO2       7.8         7.49      (b)              FeO          10084
+   Al2O3     15.3        13.25     (b)                                                 10074
+   FeO       15.3        15.69     (b)                                      10
+   MnO      0.18     (a) 0.23      (b)
+--- references block 5; lines 61-70 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm              2         (c )
+   U ppm     0.49     (a)
+    technique  (a) INAA, (b) XRF, (c ) INAA
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: material,references ===
+--- material block 1; lines 18-30 ---
+Schmitt H.H., Lofgren G., Swann G.A. and Simmons G.
+    (1970) The Apollo 11 samples: Introduction. Proc. Apollo
+    11 Lunar Science Conf. 1-54.
+
+   Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+    of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+    Conf. in J. Geophys. Res. 89, C109-132.
+--- references block 2; lines 1-7 ---
+References for 10074
+    Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,
+   Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+    abundances by instrumental activation analyses in chips from
+    27 lunar rocks. Proc. Apollo 11 Lunar Sci. Conf. 1165-1176.
+
+    King E.A. and a cast of thousands (1969) Lunar Sample

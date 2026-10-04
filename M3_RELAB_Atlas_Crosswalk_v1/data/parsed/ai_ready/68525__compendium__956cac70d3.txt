@@ -1,0 +1,80 @@
+DOCUMENT_ID: 68525__compendium__956cac70d3
+ATLAS_SAMPLE_IDS: 68525,68526,68527
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/68525.pdf
+SOURCE_PDF_SHA256: a0bad4f8bbc803a8df19334f6facc06e6e03a97dadf0955cccd03909cca0ad63
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-10 ---
+68525 - 39 grams
+                         68626 – 7.2 grams
+                          68527 – 3 grams
+                               Impact Melt Breccia
+
+
+
+
+
+                                Figure 1: Photo of 68525. Mm scale. S72-51255
+
+=== PDF PAGE 2; CATEGORIES: material ===
+--- material block 1; lines 1-11 ---
+Introduction
+    68525, 68526 and 68527 are rake samples collected
+   from station 8 soil in an area thought of have
+    disturbance from South Ray Crater – see section on
+    68501. They appear to be impact melt breccia, with
+    poikilitic texture, but have not been studied.
+
+   Compositional variation of Apollo 16 impact-melt
+    rocks is discussed by Korotev (1994).
+
+   Processing
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 17-28 ---
+68527         rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+                           3 grams                           ,1     ,5
+                 TS   TS                            Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and
+                                   ,0        ,2               inventory. Curator Catalog, JSC
+                                2.9 g   PB
+                                                                  Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+                                                                of some Apollo 16 rocks and fines: General petrologic model                                                       ,1
+                                    TS              of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 2; lines 6-25 ---
+,0       ,2    ,4
+    38 g   PB   0.3 g
+                  ,1                                      References for 68525
+            TS     68526                          Korotev R.L. (1994) Compositional variation in Apollo 16
+                   7.2 grams                      impact melt breccias and inferences for the geology and
+                                                    bombardment history of the central highlands of the Moon.
+                                                      Geochim. Cosmochim. Acta 58, 3931-3969.
+             ,0        ,2    ,4     ,3
+           6.5 g   PB  PB   0.1 g                     Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                           68527         rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+                           3 grams                           ,1     ,5
+                 TS   TS                            Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and
+                                   ,0        ,2               inventory. Curator Catalog, JSC
+                                2.9 g   PB
+                                                                  Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+                                                                of some Apollo 16 rocks and fines: General petrologic model                                                       ,1
+                                    TS              of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+--- references block 3; lines 4-16 ---
+C Meyer   68525
+       2012     39 grams
+
+
+      ,0       ,2    ,4
+    38 g   PB   0.3 g
+                  ,1                                      References for 68525
+            TS     68526                          Korotev R.L. (1994) Compositional variation in Apollo 16
+                   7.2 grams                      impact melt breccias and inferences for the geology and
+                                                    bombardment history of the central highlands of the Moon.
+                                                      Geochim. Cosmochim. Acta 58, 3931-3969.
+             ,0        ,2    ,4     ,3
+           6.5 g   PB  PB   0.1 g                     Ryder G. and Norman M.D. (1980) Catalog of Apollo 16

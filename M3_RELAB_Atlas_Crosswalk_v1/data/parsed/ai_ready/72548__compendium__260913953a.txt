@@ -1,0 +1,184 @@
+DOCUMENT_ID: 72548__compendium__260913953a
+ATLAS_SAMPLE_IDS: 72548,72549
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72548.pdf
+SOURCE_PDF_SHA256: 65742c808a08259e19ed944edc36e867218ff7412aa09bac61a67dc56a0a9a09
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-25 ---
+72548 – 29.3 grams
+                         72549 – 21 grams
+                              Impact Melt Breccia
+
+
+
+
+
+               Figure 1: Photos of top and bottom of 72548. S73-19725 and S73-19726. Cube is 1 cm
+
+ Introduction
+ 72548 and 72549 are rake samples from the South
+ Massif (figure 2). They are described as microgranular
+ impact melt breccias by Warner et al. (1978).
+
+ Petrography                                       72548 72548 and 72549 appear to have similar modes, mineral
+ compositions (figures 8 and 9) and textures. They are
+  clastic in nature but have been partially melted and
+  recrystallized (figures 4 - 7). The crystalline matrix
+ appears different from most impact melt rocks, but that
+ may be unimportant.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 8-45 ---
+Chemistry
+  The only analyses reported are by broad beam electron  Processing
+  probe analyses (table 1).                                               72548 has been broken into several pieces (figure 10).
+                                                  There are two thin sections of 72548 and 6 for 72549.
+
+
+       Mineral Mode ( Warner et al. 1977)         Mineral Mode ( Warner et al. 1977)
+
+                                        Vol. %                                                         Vol. %
+          Matrix                     80.4                           Matrix                     84.3
+          Mineral clasts              16.4                           Mineral clasts              14.2
+           Lithic clasts                 3.2                                Lithic clasts                 1.5
+
+          Mineral clasts                                             Mineral clasts
+
+              Plagioclase             10.9                                 Plagioclase             10.1
+             Olivine/Pyroxene        5.4                                Olivine/Pyroxene        4.1
+           Opaque                           tr.                            Opaque
+               Metal/troilite            0.1                                     Metal/troilite
+             Other                                                    Other
+
+           Lithic Clasts                                                    Lithic Clasts
+
+        ANT                     2.3                    ANT                  1
+              Devit. Anorthosite       0.3                                  Devit. Anorthosite       0.2
+             Breccia                  0.4                                Breccia                  0.3
+            Other                    0.2                               Other
+
+          Percent of matrix                                            Percent of matrix
+
+              Plagioclase             54.4                                 Plagioclase             53.7
+             Olivine/pyroxene        43.3                               Olivine/pyroxene        43.7
+           Opaque                  1.7                           Opaque                  1.4
+               Metal/troilite            0.1                                     Metal/troilite            0.4
+             Other                    0.5                               Other                    0.8
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-23 ---
+Figure 2: Photo of broken end of 72548 showing
+        tan breccia included in blue-grey brecia matirx.
+       S73-19730
+
+                                                                Figure 3: Photo of rake sample 72549 with mm
+                                                                          scale. S73-19628
+
+  Chemistry
+  The only analyses reported are by broad beam electron  Processing
+  probe analyses (table 1).                                               72548 has been broken into several pieces (figure 10).
+                                                  There are two thin sections of 72548 and 6 for 72549.
+
+
+       Mineral Mode ( Warner et al. 1977)         Mineral Mode ( Warner et al. 1977)
+
+                                        Vol. %                                                         Vol. %
+          Matrix                     80.4                           Matrix                     84.3
+          Mineral clasts              16.4                           Mineral clasts              14.2
+           Lithic clasts                 3.2                                Lithic clasts                 1.5
+
+          Mineral clasts                                             Mineral clasts
+
+              Plagioclase             10.9                                 Plagioclase             10.1
+--- material block 3; lines 27-42 ---
+Other                                                    Other
+
+           Lithic Clasts                                                    Lithic Clasts
+
+        ANT                     2.3                    ANT                  1
+              Devit. Anorthosite       0.3                                  Devit. Anorthosite       0.2
+             Breccia                  0.4                                Breccia                  0.3
+            Other                    0.2                               Other
+
+          Percent of matrix                                            Percent of matrix
+
+              Plagioclase             54.4                                 Plagioclase             53.7
+             Olivine/pyroxene        43.3                               Olivine/pyroxene        43.7
+           Opaque                  1.7                           Opaque                  1.4
+               Metal/troilite            0.1                                     Metal/troilite            0.4
+             Other                    0.5                               Other                    0.8
+
+=== PDF PAGE 4; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 1-7 ---
+Figure 8: Pyroxene and olivine compostion of 72548       Figure 9: Pyroxene and olivine compostion of 72549
+       (Warner et al. 1978).                                  (Warner et al. 1978).
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition          References for 72548 and 72449
+                  72548   72549                            Butler P. (1973) Lunar Sample Information Catalog Apollo
+          reference  Warner77                                 17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+          weight                                             Catalog. pp. 447.
+         SiO2 %    48.1     48.8     (a)
+         TiO2       1.47     0.95     (a)
+         Al2O3     20.3     19.1     (a)                     Keil K., Dowty E. and Prinz M. (1974)  Description,
+       FeO       7.4      7.8       (a)                         classification and inventory of 113 Apollo 17 rake samples
+       MnO       0.11     0.11      (a)                    from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.
+       MgO       9.3      11.2      (a)
+       CaO       12.1    12        (a)
+       Na2O      0.6      0.58     (a)                LSPET (1973)  Apollo 17 lunar samples: Chemical and
+       K2O       0.27     0.27     (a)                       petrographic description. Science 182, 659-672.
+       P2O5      0.15     0.35     (a)
+       S %
+                                           LSPET (1973) Preliminary Examination of lunar samples.        sum
+                                                       Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –
+                                                             7-46.
+         Cr ppm    1026    1026     (a)
+--- material block 2; lines 2-14 ---
+72548   72549                            Butler P. (1973) Lunar Sample Information Catalog Apollo
+          reference  Warner77                                 17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+          weight                                             Catalog. pp. 447.
+         SiO2 %    48.1     48.8     (a)
+         TiO2       1.47     0.95     (a)
+         Al2O3     20.3     19.1     (a)                     Keil K., Dowty E. and Prinz M. (1974)  Description,
+       FeO       7.4      7.8       (a)                         classification and inventory of 113 Apollo 17 rake samples
+       MnO       0.11     0.11      (a)                    from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.
+       MgO       9.3      11.2      (a)
+       CaO       12.1    12        (a)
+       Na2O      0.6      0.58     (a)                LSPET (1973)  Apollo 17 lunar samples: Chemical and
+       K2O       0.27     0.27     (a)                       petrographic description. Science 182, 659-672.
+       P2O5      0.15     0.35     (a)
+--- material block 3; lines 25-41 ---
+Apollo 17 Preliminary Science Report. NASA SP-330.
+
+                                                     Ryder G. (1993c) Catalog of Apollo 17 rocks: Stations 2
+                                                     and 3. Curators Office JSC#26088.
+
+                                                    Warner R.D., Taylor G.J. and Keil K. (1977b) Petrology of
+                                                                   crystalline matrix breccias from Apollo 17 rake samples.
+                                                           Proc. 8th Lunar Sci. Conf. 1987-2006.
+
+                                                    Warner R.D., Keil K., Nehru C.E. and Taylor G.J. (1978)
+                                                        Catalogue of Apollo 17 rake samples from Stations la, 2, 7,
+                                                   and 8. Spec. Publ. #18, UNM Institute of Meteoritics,
+                                                        Albuquerque. 88 pp.
+
+                                                     Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                            Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+                                                           geologic investigation of the Taurus-Littrow Valley: Apollo
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition          References for 72548 and 72449
+                  72548   72549                            Butler P. (1973) Lunar Sample Information Catalog Apollo
+          reference  Warner77                                 17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+          weight                                             Catalog. pp. 447.
+         SiO2 %    48.1     48.8     (a)
+         TiO2       1.47     0.95     (a)
+         Al2O3     20.3     19.1     (a)                     Keil K., Dowty E. and Prinz M. (1974)  Description,
+       FeO       7.4      7.8       (a)                         classification and inventory of 113 Apollo 17 rake samples
+       MnO       0.11     0.11      (a)                    from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.

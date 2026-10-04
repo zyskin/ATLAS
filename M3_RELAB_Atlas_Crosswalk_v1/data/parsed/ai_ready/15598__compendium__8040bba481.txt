@@ -1,0 +1,350 @@
+DOCUMENT_ID: 15598__compendium__8040bba481
+ATLAS_SAMPLE_IDS: 15598
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15598.pdf
+SOURCE_PDF_SHA256: 259e9097244f27bfe50040f4ff3defa98180adbe8be2087dfd3a007728b2d90c
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-30 ---
+15598
+                               Olivine-normative Basalt
+                                           135.7 grams
+
+
+
+
+
+                  Figure 1: Photo of 15598,0. NASA S87-45216.  Sample is 1.5 inches across.
+
+   Introduction                                                         in outline, with embayed rims and ragged or fritted
+   Lunar sample 15598 was collected from the soil near
+                                                     grain boundaries. The groundmass consists of
+   the edge of Hadley Rille in an area called The Terrace.
+                                                   subhedral plagioclase laths 0.1 to 0.8 mm long   The sample is very similar to 15535, from a boulder
+   nearby.  It has not been dated.
+
+                                                       Mineralogical Mode for 15598
+   Petrography                                                        Sample Catalog   Shervais
+   Shervais et al. (1990) give a description of 15598.                        Butler 1971        et al. 1990
+    It is a “fine-grained, olivine-phyric basalt consisting       Olivine          5               14
+                                                                 Pyroxene        50              43
+   of scattered olivine phenocrysts 0.6 to 1.3 mm       Plagioclase       45              33
+   across, set in an intergranular matrix of plagioclase,        Silica                                0.1
+   pyroxene, and opaques (see also figures 2 and 3).      Opaques         2                  6.5
+                                                                     Mesostasis                           1.7
+   The olivine phenocrysts are subhedral to anhedral       Fayalite                              1.2
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 2; lines 1-30 ---
+15598
+                               Olivine-normative Basalt
+                                           135.7 grams
+
+
+
+
+
+                  Figure 1: Photo of 15598,0. NASA S87-45216.  Sample is 1.5 inches across.
+
+   Introduction                                                         in outline, with embayed rims and ragged or fritted
+   Lunar sample 15598 was collected from the soil near
+                                                     grain boundaries. The groundmass consists of
+   the edge of Hadley Rille in an area called The Terrace.
+                                                   subhedral plagioclase laths 0.1 to 0.8 mm long   The sample is very similar to 15535, from a boulder
+   nearby.  It has not been dated.
+
+                                                       Mineralogical Mode for 15598
+   Petrography                                                        Sample Catalog   Shervais
+   Shervais et al. (1990) give a description of 15598.                        Butler 1971        et al. 1990
+    It is a “fine-grained, olivine-phyric basalt consisting       Olivine          5               14
+                                                                 Pyroxene        50              43
+   of scattered olivine phenocrysts 0.6 to 1.3 mm       Plagioclase       45              33
+   across, set in an intergranular matrix of plagioclase,        Silica                                0.1
+   pyroxene, and opaques (see also figures 2 and 3).      Opaques         2                  6.5
+                                                                     Mesostasis                           1.7
+   The olivine phenocrysts are subhedral to anhedral       Fayalite                              1.2
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 3; lines 10-22 ---
+Introduction                                                         in outline, with embayed rims and ragged or fritted
+   Lunar sample 15598 was collected from the soil near
+                                                     grain boundaries. The groundmass consists of
+   the edge of Hadley Rille in an area called The Terrace.
+                                                   subhedral plagioclase laths 0.1 to 0.8 mm long   The sample is very similar to 15535, from a boulder
+   nearby.  It has not been dated.
+
+                                                       Mineralogical Mode for 15598
+   Petrography                                                        Sample Catalog   Shervais
+   Shervais et al. (1990) give a description of 15598.                        Butler 1971        et al. 1990
+    It is a “fine-grained, olivine-phyric basalt consisting       Olivine          5               14
+                                                                 Pyroxene        50              43
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy,treatment ===
+--- mineralogy block 1; lines 1-22 ---
+Figure 2: Photomicrographs of thin section               Figure 3: Photomicrographs of thin section 15598,12
+        15598,12 by C Meyer @ 30x.                           by C Meyer @ 100x (bottom is with crossed
+                                                                          polarizers).
+    separated by a fine granular aggregate of pyroxne,
+    ilmenite, and ulvospinel. Cristobalite, fayalite and               Di         15598       Hd
+    residual glass are distributed in residual patches,             Shervaisal. 1990  et
+    but these are generally small and evenly distributed
+   throughout the sample. The groundmass pryroxene
+     is generally only 0.1 mm to 0.4 mm in diameter
+   and forms a granular mosaic that fills in between
+    plagioclase laths”.
+                                               En                                          Fs
+   Shervais et al. (1990) determined plagioclase,
+   pyroxene and olivine composition. The mineral are  Fo                                        Fa
+   chemically zoned (figure 4). Roedder and Weiblen         compiled by C Meyer
+   (1972) studied melt inclusions and Bell (1975)        Figure 4: Composition of pyroxene and olivine in
+    reported symplectite.                                     15598.
+
+                                                         analyses (figures 5, 6 and 7).  Sure enough, it’s just   Chemistry
+                                                                like the rest of the Apollo 15 basalt samples!
+   Rhodes and Blanchard (1983) reported that they
+    analyzed 15598, but gave no data. Shervais et al. (1990)
+--- material block 2; lines 14-26 ---
+pyroxene and olivine composition. The mineral are  Fo                                        Fa
+   chemically zoned (figure 4). Roedder and Weiblen         compiled by C Meyer
+   (1972) studied melt inclusions and Bell (1975)        Figure 4: Composition of pyroxene and olivine in
+    reported symplectite.                                     15598.
+
+                                                         analyses (figures 5, 6 and 7).  Sure enough, it’s just   Chemistry
+                                                                like the rest of the Apollo 15 basalt samples!
+   Rhodes and Blanchard (1983) reported that they
+    analyzed 15598, but gave no data. Shervais et al. (1990)
+                                               Radiogenic age dating    analyzed several pieces to get the spread. Ryder and
+                                    No data.   Schuraytz (1991) and Neal (2001) give superior
+--- age block 3; lines 17-28 ---
+reported symplectite.                                     15598.
+
+                                                         analyses (figures 5, 6 and 7).  Sure enough, it’s just   Chemistry
+                                                                like the rest of the Apollo 15 basalt samples!
+   Rhodes and Blanchard (1983) reported that they
+    analyzed 15598, but gave no data. Shervais et al. (1990)
+                                               Radiogenic age dating    analyzed several pieces to get the spread. Ryder and
+                                    No data.   Schuraytz (1991) and Neal (2001) give superior
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 4; lines 1-10 ---
+Figure 2: Photomicrographs of thin section               Figure 3: Photomicrographs of thin section 15598,12
+        15598,12 by C Meyer @ 30x.                           by C Meyer @ 100x (bottom is with crossed
+                                                                          polarizers).
+    separated by a fine granular aggregate of pyroxne,
+    ilmenite, and ulvospinel. Cristobalite, fayalite and               Di         15598       Hd
+    residual glass are distributed in residual patches,             Shervaisal. 1990  et
+    but these are generally small and evenly distributed
+   throughout the sample. The groundmass pryroxene
+     is generally only 0.1 mm to 0.4 mm in diameter
+   and forms a granular mosaic that fills in between
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 6-27 ---
+A11
+              10
+
+
+               8
+   TiO2
+               6
+
+               4                      15598                                              A12
+               2                        A15
+
+
+               0
+                 0                5                10               15               20
+                MgO
+                                                                 Figure6: Normalized rare-earth-element diagram
+         Figure 5: Composition of 15598 compared with              for 15598 (data by Neal 2001).
+         other Apollo samples.
+
+
+                                                           15387
+--- chemistry block 2; lines 36-48 ---
+15672
+              12         15622
+                                  15555        15623
+                            15630                                           15536                         pigeonite basalt                                    15016
+                             15636              15535                      (quartz normative)              11                15547
+                                         15545 15620                             15641   15633
+                                             15546   MgO                  15683          15605 15663            15651                                                   15607   15665                15065                                         15379
+              10               15647
+                                       15676      15598               15485             15595
+                                      15557      15256 15105                     15058   15499                                      15675      15674                          15076
+             9
+                                           15119  15529   15678  15668   15666   1547515597      15495
+                                                                                           15596
+--- chemistry block 3; lines 51-63 ---
+15682
+             7                                                               15118
+
+
+
+            43       44       45       46       47      48        49
+                                SiO2
+
+
+                         Figure 7: The big picture.
+--- mineralogy block 4; lines 26-38 ---
+15387
+
+                        picritic                                                                      C Meyer
+                   basalt                                                            2006
+
+                                         15659    olivine-normative
+                             15385              basalt              13
+
+                                        15643
+                                                      15672
+              12         15622
+                                  15555        15623
+--- material block 5; lines 24-45 ---
+other Apollo samples.
+
+
+                                                           15387
+
+                        picritic                                                                      C Meyer
+                   basalt                                                            2006
+
+                                         15659    olivine-normative
+                             15385              basalt              13
+
+                                        15643
+                                                      15672
+              12         15622
+                                  15555        15623
+                            15630                                           15536                         pigeonite basalt                                    15016
+                             15636              15535                      (quartz normative)              11                15547
+                                         15545 15620                             15641   15633
+                                             15546   MgO                  15683          15605 15663            15651                                                   15607   15665                15065                                         15379
+              10               15647
+                                       15676      15598               15485             15595
+                                      15557      15256 15105                     15058   15499                                      15675      15674                          15076
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 15598.
+
+
+     reference  Ryder2001            Shervais90           Rhodes and Blanchard  Neal2001
+     weight                                                  unpublished
+    SiO2 %    45.2     (a)          45      (c )
+    TiO2      2.55     (a)            2.57    (c )
+    Al2O3     8.82     (a)            8.05    (c )
+   FeO       22.38    (a) 22.2    (b) 23.08   (c ) 22.3     (b)
+   MnO      0.28     (a)            0.31    (c )
+   MgO       9.7      (a)            9.87    (c )
+   CaO       9.89     (a)            9.94    (c )
+   Na2O     0.22     (a) 0.26    (b) 0.25    (c ) 0.267   (b)
+   K2O      0.043    (a)            0.03    (c )
+   P2O5     0.063    (a)            0.05    (c )
+   S %
+    sum
+
+    Sc ppm               43.5    (b)             44.9     (b)                        47.5      (d)
+   V                                                                     204       (d)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 15598.
+
+
+     reference  Ryder2001            Shervais90           Rhodes and Blanchard  Neal2001
+     weight                                                  unpublished
+    SiO2 %    45.2     (a)          45      (c )
+    TiO2      2.55     (a)            2.57    (c )
+    Al2O3     8.82     (a)            8.05    (c )
+   FeO       22.38    (a) 22.2    (b) 23.08   (c ) 22.3     (b)
+   MnO      0.28     (a)            0.31    (c )
+--- references block 3; lines 65-74 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm               0.36    (b)             0.41     (b)                        0.52      (d)
+   U ppm                                      <0.3     (b)                        0.13      (d)
+     technique:  (a) XRF, (b) INAA, (c ) fused bead, electron microprobe, (d) ICP-MS
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 12-37 ---
+TS
+
+                                     There are three thin sections.
+
+
+   References for 15598
+    Bell P.M. and Mao H.K. (1972a) Zoned olivine crystals in  Roedder E. and Weiblen P.W. (1972a) Petrographic features
+   an Apollo 15 lunar rock. In The Apollo 15 Lunar Samples,  and petrologic significance of melt inclusions in Apollo 14
+    26-28. Lunar Sci. Institute, Houston.                    and 15 rocks. Proc. 3rd Lunar Sci. Conf. 251-279.
+
+    Bell P.M., Mao H.K., Roedder E. and Weiblen P.W. (1975)  Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+   The problem of the origin of symplectites in olivine-beating   volumes). Curatoial Branch Pub. # 72, JSC#20787
+    lunar rocks. Proc. 6th Lunar Sci. Conf. 231-248.
+                                                       Ryder G. and Schuraytz B.C. (2001) Chemical variations of
+   Brown G.M., Emeleus C.H., Holland G.J., Peckett A. and   the large Apollo 15 olivine-normative mare basalt rock
+    Phillips R. (1972) Mineral-chemical variations in Apollo   samples. J. Geophys. Res. 106, E1, 1435-1451.
+   14 and Apollo 15 basalts and granitic fractions. Proc. 3rd
+   Lunar Sci. Conf. 141-157.                                Shervais J.W., Vetter S.K. and Lindstrom M.M. (1990)
+                                                       Chemical differences between small subsamples of Apollo
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’  15 olivine-normative basalts. Proc. 20th Lunar Planet. Sci.
+    Office, MSC 03209                                      Conf. 109-126. Lunar Planetary Institute, Houston.
+
+   Lofgren G.E., Donaldson C.H. and Usselman T.M. (1975)  Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+   Geology, petrology and crystallization of Apollo 15 quartz-   G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+   normative basalts. Proc. 6th Lunar Sci. Conf. 79-99.        Preliminary description of Apollo 15 sample environments.
+                                                             U.S.G.S. Interagency report: 36. pp219 with maps
+--- material block 2; lines 13-32 ---
+There are three thin sections.
+
+
+   References for 15598
+    Bell P.M. and Mao H.K. (1972a) Zoned olivine crystals in  Roedder E. and Weiblen P.W. (1972a) Petrographic features
+   an Apollo 15 lunar rock. In The Apollo 15 Lunar Samples,  and petrologic significance of melt inclusions in Apollo 14
+    26-28. Lunar Sci. Institute, Houston.                    and 15 rocks. Proc. 3rd Lunar Sci. Conf. 251-279.
+
+    Bell P.M., Mao H.K., Roedder E. and Weiblen P.W. (1975)  Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+   The problem of the origin of symplectites in olivine-beating   volumes). Curatoial Branch Pub. # 72, JSC#20787
+    lunar rocks. Proc. 6th Lunar Sci. Conf. 231-248.
+                                                       Ryder G. and Schuraytz B.C. (2001) Chemical variations of
+   Brown G.M., Emeleus C.H., Holland G.J., Peckett A. and   the large Apollo 15 olivine-normative mare basalt rock
+    Phillips R. (1972) Mineral-chemical variations in Apollo   samples. J. Geophys. Res. 106, E1, 1435-1451.
+   14 and Apollo 15 basalts and granitic fractions. Proc. 3rd
+   Lunar Sci. Conf. 141-157.                                Shervais J.W., Vetter S.K. and Lindstrom M.M. (1990)
+                                                       Chemical differences between small subsamples of Apollo
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’  15 olivine-normative basalts. Proc. 20th Lunar Planet. Sci.
+    Office, MSC 03209                                      Conf. 109-126. Lunar Planetary Institute, Houston.
+--- age block 3; lines 29-41 ---
+Lunar Sci. Conf. 141-157.                                Shervais J.W., Vetter S.K. and Lindstrom M.M. (1990)
+                                                       Chemical differences between small subsamples of Apollo
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’  15 olivine-normative basalts. Proc. 20th Lunar Planet. Sci.
+    Office, MSC 03209                                      Conf. 109-126. Lunar Planetary Institute, Houston.
+
+   Lofgren G.E., Donaldson C.H. and Usselman T.M. (1975)  Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+   Geology, petrology and crystallization of Apollo 15 quartz-   G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+   normative basalts. Proc. 6th Lunar Sci. Conf. 79-99.        Preliminary description of Apollo 15 sample environments.
+                                                             U.S.G.S. Interagency report: 36. pp219 with maps
+   LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+    description. Science 175, 363-375.                   Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+                                                         M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+   LSPET (1972b) Preliminary examination of lunar samples.   K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+--- references block 4; lines 11-23 ---
+,12
+                                              TS
+
+                                     There are three thin sections.
+
+
+   References for 15598
+    Bell P.M. and Mao H.K. (1972a) Zoned olivine crystals in  Roedder E. and Weiblen P.W. (1972a) Petrographic features
+   an Apollo 15 lunar rock. In The Apollo 15 Lunar Samples,  and petrologic significance of melt inclusions in Apollo 14
+    26-28. Lunar Sci. Institute, Houston.                    and 15 rocks. Proc. 3rd Lunar Sci. Conf. 251-279.
+
+    Bell P.M., Mao H.K., Roedder E. and Weiblen P.W. (1975)  Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+   The problem of the origin of symplectites in olivine-beating   volumes). Curatoial Branch Pub. # 72, JSC#20787

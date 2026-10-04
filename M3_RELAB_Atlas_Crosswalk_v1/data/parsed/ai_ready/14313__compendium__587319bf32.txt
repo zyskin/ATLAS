@@ -1,0 +1,439 @@
+DOCUMENT_ID: 14313__compendium__587319bf32
+ATLAS_SAMPLE_IDS: 14313
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14313.pdf
+SOURCE_PDF_SHA256: 1b5444890742c1c1cca258e3c2d4309f71d4301746bf948b68e03527708e0cf7
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+14313
+                                   Regolith Breccia
+                                       144 grams
+--- material block 2; lines 13-37 ---
+LMP    No, I’m trying to stay away from them. Yes _ _
+                                                                                        it’s’ bigger than we thought. Al, we’ll grab sample that one;
+                                                                                      I’ll get you another one here.
+                                        CDR   Okay, bag 27 Nancy. (#14313)
+                                        LMP   And another documented sample – a larger
+                                                      documented sample than we thought we were getting here,
+                                                           Fredo. Again, it was a burried rock: and it’s too big for the
+                                                        sample bag; so, it’ll go into the weigh bag. (#14301)
+
+
+
+
+
+        Figure 2: Photo of 14313 before it was collected                    14313
+        (AS14-68-9466).
+
+
+
+  LMP   We’re approaching Triplet from the east, that’s
+   North Triplet from the east. There’s a little rock field down
+    here – a small boulder field, Al, to get a documeted sample
+    from.                                                       Figure 3: Map of Apollo 14 with location of `14313.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,treatment ===
+--- mineralogy block 1; lines 2-14 ---
+Photo by C Meyer.
+
+   Introduction                                Petrography
+   14313 was collected at station G1 on the rim of North  Lunar sample 14313 is a coherent polymict breccia that
+    Triplet Crater about 150 meters from the LM (figure  has had a complex history of “comminution and re-
+    3).  Like nearby sample 14301, it was also partially  agglomeration” (Floran et al. 1972). The matrix is
+   “buried” (figure 2), but has been shown to have had a  composed primarily of fine particles of brown glass
+   complex exposure history of micrometeorite   (figure 4). Clasts include (1) noritic rock fragments,
+   bombardment indicating “tumbling” while on the   (2) monomineralic fragments, (3) microbreccia clasts,
+    regolith surface (Morrison et al. 1972).                  (4) glassy fragments including chondrules and %) rare
+                                                mare basalt clasts (figure 9).  There is evidence of
+   14313 is a fine-grained regolith breccia with seriate  breccia-in-breccia relations indicating multiple
+   grain size distribution.  It has few large clasts and is   generations of breccia formation.
+--- material block 2; lines 1-27 ---
+Figure 5: Photomicrograph of thin section 14314,9 showing basalt clast. Scale = 2.8 mm across.
+         Photo by C Meyer.
+
+   Introduction                                Petrography
+   14313 was collected at station G1 on the rim of North  Lunar sample 14313 is a coherent polymict breccia that
+    Triplet Crater about 150 meters from the LM (figure  has had a complex history of “comminution and re-
+    3).  Like nearby sample 14301, it was also partially  agglomeration” (Floran et al. 1972). The matrix is
+   “buried” (figure 2), but has been shown to have had a  composed primarily of fine particles of brown glass
+   complex exposure history of micrometeorite   (figure 4). Clasts include (1) noritic rock fragments,
+   bombardment indicating “tumbling” while on the   (2) monomineralic fragments, (3) microbreccia clasts,
+    regolith surface (Morrison et al. 1972).                  (4) glassy fragments including chondrules and %) rare
+                                                mare basalt clasts (figure 9).  There is evidence of
+   14313 is a fine-grained regolith breccia with seriate  breccia-in-breccia relations indicating multiple
+   grain size distribution.  It has few large clasts and is   generations of breccia formation.
+   mostly matrix. The Apollo 14 regolith breccias (vitric
+   matrix breccias) are slightly more aluminous than the  Drozd et al. (1976) reported a high percentage of
+   the Fra Mauro breccias (crystalline matrix breccias).   agglutinates in 14313, but Simon et al. (1989) found
+   They also have intermediate values of C, N, 4He and   considerably less.  Other indications of maturity are
+   other elements from the ancient solar wind indicating   relatively high C, N and 4He contents. Fruland (1983)
+    that they contain a soil component.                  and Simon et al. (1981) classified 14313 as a regolith
+                                                             breccia.
+
+
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- treatment block 3; lines 12-24 ---
+mare basalt clasts (figure 9).  There is evidence of
+   14313 is a fine-grained regolith breccia with seriate  breccia-in-breccia relations indicating multiple
+   grain size distribution.  It has few large clasts and is   generations of breccia formation.
+   mostly matrix. The Apollo 14 regolith breccias (vitric
+   matrix breccias) are slightly more aluminous than the  Drozd et al. (1976) reported a high percentage of
+   the Fra Mauro breccias (crystalline matrix breccias).   agglutinates in 14313, but Simon et al. (1989) found
+   They also have intermediate values of C, N, 4He and   considerably less.  Other indications of maturity are
+   other elements from the ancient solar wind indicating   relatively high C, N and 4He contents. Fruland (1983)
+    that they contain a soil component.                  and Simon et al. (1981) classified 14313 as a regolith
+                                                             breccia.
+
+=== PDF PAGE 4; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 3-28 ---
+12
+
+
+                  11
+                                                                                                    100
+                  10                                      14313                    sample/                             14313
+   FeO                                                                              chondrite
+     wt. %   9                                                                                       10
+                   8              CMB      VMB
+
+                   7
+
+                                                                                                                1
+                   6
+
+
+                   5
+                    12     13    14    15     16     17    18     19     20    21    22     23
+                                                                                                                           0.1
+                         Al2O3 wt. %                                      La      Pr    Sm    Gd     Dy      Er     Yb                                                                            Ce    Nd     Eu     Tb    Ho    Tm     Lu
+          Figure 6: Composition of Apollo 14 breccias with
+                                                                 Figure 7: Noramalized rare-earth-element dia-
+          14313.
+                                                           grams for 14313 and for KREEP.
+--- mineralogy block 2; lines 27-72 ---
+Mineral
+                                                                                                                   Clasts
+   King et al. (1972) studied the chondrules in 14313.                                         Apollo 14
+   Delano (1987), Simon et al. (1989) and Wentworth and                                    CMB (Fra Mauro)
+   McKay (1991) reported numerous glass analyses.                                                                Regolith breccias
+
+                                                                                                                                                 Light matrix breccia
+    Significant Clast
+   Micronorite (or basalt)
+    Floran et al. (1972) described a basaltic clast in 14313
+    as a “micronorite” (figure 9).                                                                                                                                                                                                                                        Crystalline-Matrix-Breccias
+    Alkali Anorthosite? ,70                                                      14313
+   Warren et al. (1983) reported a clast of alkali
+    anorthosite.                                                                          Lithic
+                                                                                                                                     Glass                                                                                    Clasts
+   Chemistry                                               Figure 8: Ratio of clast abundance in Apollo 14
+   Boynton et al. (1975), Helmke et al. (1972), Simon et      breccia samples with 14313 (Simonds et al. 1977).
+     al. (1989) and Hughes et al. (1973) reported the
+    composition of 14313 (table 1). 14313 is relatively       Mineralogical Mode for 14313
+    high in Al (figure 6) and very high in REE (figure 7).                        Drozd et al. 1977
+                                                                       Mineral fragments          30.9 %
+   Moore et al. (1972) reported 130 and 170 ppm carbon          Lithic fragments            19.6
+                                                                      Colored glass             11
+    for two subsamples of 14301 (figure 10). Becker and                                                                          Agglutinate glass           36.8
+    Clayton (1975) reported 400 x 10-4 ppm He and 47          Colorless glass              0.6
+   ppm nitrogen (indications of a substantial solar wind         Chondrules               0
+    component).                                                            Devitrified glass           1
+
+   Radiogenic age dating
+                                                     Mineralogical Mode for 14313
+    Alexandra and Kahl (1974) could not obtain an “age”                                                                          Simonds et       Drozd et        Simon et
+    for breccia 14313 by the Ar-Ar technique (figure 11),                            al. 1977              al. 1976              al. 1989
+    but state that it is assumed to be 3.7 ± 0.2 b.y.           Matrix          72 %                               55.1
+                                                                        Clasts
+   Other Studies                                                Plagioclase      4                                    5.8
+                                                              Mafic          1                                    6.7
+   Becker R.H. and Clayton R.N. (1975) determined the    Breccia          11.5                           ~20
+   He (400 x 10-4 ppm) and nitrogen contents (47 ppm)    Glass          2                 12.6               8.1
+   and isotopic ratio of nitrogen in 14313.                     Granulite       9                                    2.6
+                                                                       Basalt          1                                    0.5
+                                                                     Agglutinate                        36.8               7.6
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 27-51 ---
+Mineral
+                                                                                                                   Clasts
+   King et al. (1972) studied the chondrules in 14313.                                         Apollo 14
+   Delano (1987), Simon et al. (1989) and Wentworth and                                    CMB (Fra Mauro)
+   McKay (1991) reported numerous glass analyses.                                                                Regolith breccias
+
+                                                                                                                                                 Light matrix breccia
+    Significant Clast
+   Micronorite (or basalt)
+    Floran et al. (1972) described a basaltic clast in 14313
+    as a “micronorite” (figure 9).                                                                                                                                                                                                                                        Crystalline-Matrix-Breccias
+    Alkali Anorthosite? ,70                                                      14313
+   Warren et al. (1983) reported a clast of alkali
+    anorthosite.                                                                          Lithic
+                                                                                                                                     Glass                                                                                    Clasts
+   Chemistry                                               Figure 8: Ratio of clast abundance in Apollo 14
+   Boynton et al. (1975), Helmke et al. (1972), Simon et      breccia samples with 14313 (Simonds et al. 1977).
+     al. (1989) and Hughes et al. (1973) reported the
+    composition of 14313 (table 1). 14313 is relatively       Mineralogical Mode for 14313
+    high in Al (figure 6) and very high in REE (figure 7).                        Drozd et al. 1977
+                                                                       Mineral fragments          30.9 %
+   Moore et al. (1972) reported 130 and 170 ppm carbon          Lithic fragments            19.6
+                                                                      Colored glass             11
+--- material block 4; lines 54-72 ---
+ppm nitrogen (indications of a substantial solar wind         Chondrules               0
+    component).                                                            Devitrified glass           1
+
+   Radiogenic age dating
+                                                     Mineralogical Mode for 14313
+    Alexandra and Kahl (1974) could not obtain an “age”                                                                          Simonds et       Drozd et        Simon et
+    for breccia 14313 by the Ar-Ar technique (figure 11),                            al. 1977              al. 1976              al. 1989
+    but state that it is assumed to be 3.7 ± 0.2 b.y.           Matrix          72 %                               55.1
+                                                                        Clasts
+   Other Studies                                                Plagioclase      4                                    5.8
+                                                              Mafic          1                                    6.7
+   Becker R.H. and Clayton R.N. (1975) determined the    Breccia          11.5                           ~20
+   He (400 x 10-4 ppm) and nitrogen contents (47 ppm)    Glass          2                 12.6               8.1
+   and isotopic ratio of nitrogen in 14313.                     Granulite       9                                    2.6
+                                                                       Basalt          1                                    0.5
+                                                                     Agglutinate                        36.8               7.6
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 5; lines 51-65 ---
+Colored glass             11
+    for two subsamples of 14301 (figure 10). Becker and                                                                          Agglutinate glass           36.8
+    Clayton (1975) reported 400 x 10-4 ppm He and 47          Colorless glass              0.6
+   ppm nitrogen (indications of a substantial solar wind         Chondrules               0
+    component).                                                            Devitrified glass           1
+
+   Radiogenic age dating
+                                                     Mineralogical Mode for 14313
+    Alexandra and Kahl (1974) could not obtain an “age”                                                                          Simonds et       Drozd et        Simon et
+    for breccia 14313 by the Ar-Ar technique (figure 11),                            al. 1977              al. 1976              al. 1989
+    but state that it is assumed to be 3.7 ± 0.2 b.y.           Matrix          72 %                               55.1
+                                                                        Clasts
+   Other Studies                                                Plagioclase      4                                    5.8
+                                                              Mafic          1                                    6.7
+   Becker R.H. and Clayton R.N. (1975) determined the    Breccia          11.5                           ~20
+--- references block 6; lines 54-66 ---
+ppm nitrogen (indications of a substantial solar wind         Chondrules               0
+    component).                                                            Devitrified glass           1
+
+   Radiogenic age dating
+                                                     Mineralogical Mode for 14313
+    Alexandra and Kahl (1974) could not obtain an “age”                                                                          Simonds et       Drozd et        Simon et
+    for breccia 14313 by the Ar-Ar technique (figure 11),                            al. 1977              al. 1976              al. 1989
+    but state that it is assumed to be 3.7 ± 0.2 b.y.           Matrix          72 %                               55.1
+                                                                        Clasts
+   Other Studies                                                Plagioclase      4                                    5.8
+                                                              Mafic          1                                    6.7
+   Becker R.H. and Clayton R.N. (1975) determined the    Breccia          11.5                           ~20
+   He (400 x 10-4 ppm) and nitrogen contents (47 ppm)    Glass          2                 12.6               8.1
+
+=== PDF PAGE 5; CATEGORIES: age,material ===
+--- material block 1; lines 2-21 ---
+information Alexander and Kahl (1974).
+
+
+
+
+
+      Figure 9: Basaltic or “micronorite” clast in 14313.
+      Scale bar is 100 microns. Floran et al. 1972.
+
+
+           CMB
+
+                  Regolith Breccia
+                       soil                                   14313
+
+
+
+
+
+          0                 50                100                150               200
+--- material block 2; lines 26-37 ---
+Figure 12: Measeured seismic wave velocity as
+                                                                      function of pressure for breccia 14313 (Mitzutani et
+                                                                                    al. 1972).
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 3; lines 1-7 ---
+Figure 11: Ar-Ar relase pattern with no age
+                                                                     information Alexander and Kahl (1974).
+
+=== PDF PAGE 6; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 14313 .
+
+
+     reference  Boynton 75       Helmke72  Simon 89 Hughes 73
+     weight    262    259 mg              156 mg
+    SiO2 %
+    TiO2                                     1.68      (a)
+    Al2O3     17.38           (a)             18.4      (a)
+   FeO       8.6     10.7   (a)             10.3      (a)
+   MnO      0.13             (a)  0.13     (a) 0.123     (a)
+   MgO                                      9.4        (a)
+   CaO       9.8     10.6   (a)             11         (a)
+   Na2O     0.77             (a)             0.77      (a)
+   K2O                                     0.53      (a)
+   P2O5
+   S %
+    sum
+
+    Sc ppm    19.2   22     (a)  24.6     (a) 21.4      (a)
+   V                                   51         (a)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 14313 .
+
+
+     reference  Boynton 75       Helmke72  Simon 89 Hughes 73
+     weight    262    259 mg              156 mg
+    SiO2 %
+    TiO2                                     1.68      (a)
+    Al2O3     17.38           (a)             18.4      (a)
+   FeO       8.6     10.7   (a)             10.3      (a)
+   MnO      0.13             (a)  0.13     (a) 0.123     (a)
+--- references block 3; lines 65-75 ---
+Os ppb                                                16.8      7.1       (b)
+       Ir ppb     10.3             (b)            7          (a) 18        8.1       (b)
+     Pt ppb
+    Au ppb    5.1              (b)              7.2        (a) 8         4.8       (b)
+    Th ppm    11     13     (a)              11.9       (a)
+   U ppm                                     3.1        (a)
+     technique:  (a) INAA, (b) RNAA
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 9; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-16 ---
+References for 14313                                Graf H., Shirck J., Sun S and Walker R. (1973)  Fission
+   Alexander E.C. and Kahl S.B. (1974) 40Ar-39Ar studies of   track astrology of three Apollo 14 gas-rich breccias. Proc.
+    lunar breccias. Proc. 5th Lunar Sci. Conf. 1353-1373.          4th Lunar Sci. Conf. 2145-2155.
+
+   Basford J.R., Dragon J.C., Pepin R.O., Coscio M.R. and    Helmke P.A., Haskin L.A., Korotev R.L. and Ziege K.E.
+   Murthy V.R. (1972) Krypton and Xenon in lunar fines.      (1972) Rare earths and other trace elements in Apollo 14
+    Proc. 4th Lunar Sci. Conf. 1915-1955.                      samples. Proc. 3rd Lunar Sci. Conf. 1275-1292.
+
+   Becker R.H. and Clayton R.N. (1975) Nitrogen abundances  Hughes T.C., Keays R.R. and Lovering J.F. (1973)
+   and isotopic compositions in lunar samples. Proc. 6th Lunar   Siderophile and volatile trace elements in Apollo 14, 15 and
+    Sci. Conf. 2131-2149.                                16 rocks and fines: Evidence for extralunar component and
+                                                                       Tl-, Au- and Ag-enriched rocks in the ancient lunar crust
+   Behrmann C.J., Drozd R.J. and Hohenberg C.M. (1973)   (abs). Lunar Sci. IV, 400-402. Lunar Planetary Institute,
+    Extinct lunar radio-activities: Xenon from 244Pu and 129I   Houston.
+    in Apollo 14 breccias. Earth Planet. Sci. Lett. 17, 446-455.
+                                                         Juan V.C., Chen J.C., Huang C.K., Chen P.Y. and Wang Lee
+--- mineralogy block 2; lines 25-37 ---
+from Apollo 14. Science 173, 681-693.
+   Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14
+    breccias: General characteristics and classification.  Proc.   Mizutani H., Fujii N., Hamano Y. and Osako M. (1972)
+     3rd Lunar Sci. Conf. 645-659.                                 Elastic wave velocities and thermal diffusivities of Apollo
+                                                     14 rocks. Proc. 3rd Lunar Sci. Conf. 2557-2564.
+   Delano J.W. (1987) Apollo 14 regolith breccias: Different
+    glass populations and their potential for charting space/time  Moore C.B., Lewis C.F., Cripe J., Delles F.M., Kelly W.R.
+    variations. Proc. 18th Lunar Planet Sci. Conf. 59-65. Lunar  and Gibson E.K. (1972) Total carbon, nitrogen and sulfur
+    Planetary Institute, Houston.                                   in Apollo 14 lunar samples. Proc. 3rd Lunar Sci. Conf. 2051-
+                                                          2058.
+   Drozd R.J., Kennedy B.M., Morgan C.J., Podosek F.A. and
+    Taylor G.J.  (1976) The excess fission xenon problem in   Morrison D.A., McKay D.S., Heiken G.H. and Moore H.J.
+    lunar samples. Proc. 7th Lunar Sci. Conf. 599-623.         (1972) Microcraters on lunar rocks. Proc. 3rd Lunar Sci.
+--- mineralogy block 3; lines 45-57 ---
+(1972)  Apollo 14 breccia 14313: a mineralogic and   bearing lunar spherules: Impact melting of the Moon’s
+    petrologic report. Proc. 3rd Lunar Sci. Conf. 661-671.       crust and implications for the origin of meteoritic
+                                                              chondrules. Meteoritics & Planet. Sci. 35, 173-192.
+   Fruland R.M. (1983)  Regolith Breccia Workbook. JSC
+   19045                                          Simon S.B., Papike J.J., Shearer C.K., Hughes S.S. and
+                                                            Schmitt R.A. (1989) Petrology of Apollo 14 regolith breccias
+   Gose W.A., Pearce G.W., Strangway D.W. and Larson E.E.  and ion microprobe studies of glass beads. Proc. 19th Lunar
+    (1972) Magnetic properties of Apollo 14 breccias and their   Planet. Sci. Conf. 1-17. Lunar Planetary Institute, Houston.
+    correlation with metamorphism. Proc. 3rd Lunar Sci. Conf.
+   2387-2395.                                        Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+                                                            Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+                                                                       revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+                                                                     Sci. Conf. 1869-1893.
+--- material block 4; lines 17-56 ---
+Boynton W.V., Baedecker P.A., Chou C-L., Robinson K.L.  C.M. (1972) Petrology and chemistry of some Apollo 14
+   and Wasson J.T. (1975) Mixing and transport of lunar surface   lunar samples. Proc. 3rd Lunar Sci. Conf. 687-705.
+    materials: Evidence obtained by the determination of
+    lithophile, siderophile and volatile elements. Proc. 6th Lunar  King E.A., Butler J.C. and Carman M.F. (1972) Chondrules
+    Sci. Conf. 2241-2259.                                         in Apollo 14 samples and size analyses of Apollo 14 and 15
+                                                                        fines. Proc. 3rd Lunar Sci. Conf. 673-686.
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+   Samples. Curators Office. JSC 14240                LSPET (1971) Preliminary examination of lunar samples
+                                                      from Apollo 14. Science 173, 681-693.
+   Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14
+    breccias: General characteristics and classification.  Proc.   Mizutani H., Fujii N., Hamano Y. and Osako M. (1972)
+     3rd Lunar Sci. Conf. 645-659.                                 Elastic wave velocities and thermal diffusivities of Apollo
+                                                     14 rocks. Proc. 3rd Lunar Sci. Conf. 2557-2564.
+   Delano J.W. (1987) Apollo 14 regolith breccias: Different
+    glass populations and their potential for charting space/time  Moore C.B., Lewis C.F., Cripe J., Delles F.M., Kelly W.R.
+    variations. Proc. 18th Lunar Planet Sci. Conf. 59-65. Lunar  and Gibson E.K. (1972) Total carbon, nitrogen and sulfur
+    Planetary Institute, Houston.                                   in Apollo 14 lunar samples. Proc. 3rd Lunar Sci. Conf. 2051-
+                                                          2058.
+   Drozd R.J., Kennedy B.M., Morgan C.J., Podosek F.A. and
+    Taylor G.J.  (1976) The excess fission xenon problem in   Morrison D.A., McKay D.S., Heiken G.H. and Moore H.J.
+    lunar samples. Proc. 7th Lunar Sci. Conf. 599-623.         (1972) Microcraters on lunar rocks. Proc. 3rd Lunar Sci.
+                                                          Conf. 2767-2791.
+   Dunlap D.J., Gose W.A., Pearce G.W. and Strangway
+   D.W. (1973) Magnetic properties and granulometry of      Pearce G.W., Strangway D.W. and Gose W.A. (1972)
+    metallic iron in lunar breccia 14313. Proc. 4th Lunar Sci.    Remanent magnetism of the lunar surface. Proc. 3rd Lunar
+   Conf. 2977-2990.                                              Sci. Conf. 2449-2464.
+
+    Floran R.J., Cameron K.L., Bence A.E. and Papike J.J.   Ruzicka A., Snyder G.A. and Taylor L.A. (2000) Crystal-
+   (1972)  Apollo 14 breccia 14313: a mineralogic and   bearing lunar spherules: Impact melting of the Moon’s
+    petrologic report. Proc. 3rd Lunar Sci. Conf. 661-671.       crust and implications for the origin of meteoritic
+                                                              chondrules. Meteoritics & Planet. Sci. 35, 173-192.
+   Fruland R.M. (1983)  Regolith Breccia Workbook. JSC
+   19045                                          Simon S.B., Papike J.J., Shearer C.K., Hughes S.S. and
+                                                            Schmitt R.A. (1989) Petrology of Apollo 14 regolith breccias
+   Gose W.A., Pearce G.W., Strangway D.W. and Larson E.E.  and ion microprobe studies of glass beads. Proc. 19th Lunar
+    (1972) Magnetic properties of Apollo 14 breccias and their   Planet. Sci. Conf. 1-17. Lunar Planetary Institute, Houston.
+    correlation with metamorphism. Proc. 3rd Lunar Sci. Conf.
+   2387-2395.                                        Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+                                                            Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+                                                                       revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+--- treatment block 5; lines 34-58 ---
+2058.
+   Drozd R.J., Kennedy B.M., Morgan C.J., Podosek F.A. and
+    Taylor G.J.  (1976) The excess fission xenon problem in   Morrison D.A., McKay D.S., Heiken G.H. and Moore H.J.
+    lunar samples. Proc. 7th Lunar Sci. Conf. 599-623.         (1972) Microcraters on lunar rocks. Proc. 3rd Lunar Sci.
+                                                          Conf. 2767-2791.
+   Dunlap D.J., Gose W.A., Pearce G.W. and Strangway
+   D.W. (1973) Magnetic properties and granulometry of      Pearce G.W., Strangway D.W. and Gose W.A. (1972)
+    metallic iron in lunar breccia 14313. Proc. 4th Lunar Sci.    Remanent magnetism of the lunar surface. Proc. 3rd Lunar
+   Conf. 2977-2990.                                              Sci. Conf. 2449-2464.
+
+    Floran R.J., Cameron K.L., Bence A.E. and Papike J.J.   Ruzicka A., Snyder G.A. and Taylor L.A. (2000) Crystal-
+   (1972)  Apollo 14 breccia 14313: a mineralogic and   bearing lunar spherules: Impact melting of the Moon’s
+    petrologic report. Proc. 3rd Lunar Sci. Conf. 661-671.       crust and implications for the origin of meteoritic
+                                                              chondrules. Meteoritics & Planet. Sci. 35, 173-192.
+   Fruland R.M. (1983)  Regolith Breccia Workbook. JSC
+   19045                                          Simon S.B., Papike J.J., Shearer C.K., Hughes S.S. and
+                                                            Schmitt R.A. (1989) Petrology of Apollo 14 regolith breccias
+   Gose W.A., Pearce G.W., Strangway D.W. and Larson E.E.  and ion microprobe studies of glass beads. Proc. 19th Lunar
+    (1972) Magnetic properties of Apollo 14 breccias and their   Planet. Sci. Conf. 1-17. Lunar Planetary Institute, Houston.
+    correlation with metamorphism. Proc. 3rd Lunar Sci. Conf.
+   2387-2395.                                        Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+                                                            Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+                                                                       revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+                                                                     Sci. Conf. 1869-1893.
+--- references block 6; lines 1-7 ---
+References for 14313                                Graf H., Shirck J., Sun S and Walker R. (1973)  Fission
+   Alexander E.C. and Kahl S.B. (1974) 40Ar-39Ar studies of   track astrology of three Apollo 14 gas-rich breccias. Proc.
+    lunar breccias. Proc. 5th Lunar Sci. Conf. 1353-1373.          4th Lunar Sci. Conf. 2145-2155.
+
+   Basford J.R., Dragon J.C., Pepin R.O., Coscio M.R. and    Helmke P.A., Haskin L.A., Korotev R.L. and Ziege K.E.
+   Murthy V.R. (1972) Krypton and Xenon in lunar fines.      (1972) Rare earths and other trace elements in Apollo 14
+    Proc. 4th Lunar Sci. Conf. 1915-1955.                      samples. Proc. 3rd Lunar Sci. Conf. 1275-1292.

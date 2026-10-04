@@ -1,0 +1,193 @@
+DOCUMENT_ID: 70139__compendium__fb7f373e71
+ATLAS_SAMPLE_IDS: 70139
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/70139.pdf
+SOURCE_PDF_SHA256: 54ddbdff63d5d99c09422b1ea93b060cc237af7c6a4a14b2c992ce59587f9b28
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+70139
+                                     Ilmenite Basalt
+                                            3.16 grams
+--- mineralogy block 2; lines 16-41 ---
+70139           70138              70137            70136
+
+
+                Figure 2: Basalt chips from same bag as 70135. S73-17970
+
+   Introduction
+                                                Mineralogical Mode   This is a chip off of Geophone Rock – see section on
+   70135.  It is a typical high-Ti mare basalt with an age                  70135   Roedder 70139   70147
+                                                                    Olivine            2.8      3.8      2.5        - -
+   of 3.71 b.y.                                                             Pyroxene         46.2     51.6     35.8     48.2
+                                                                      Plagioclase        28.4    23       41.6     29.4
+   Geophone Rock is a basalt boulder located about 50   Opaques          21.9     19.6     18.2    21
+   meters south of the ALSEP site.                               Silica             0.3      0.6      1.9      0.2
+                                                                 Meostasis         0.4      1.4
+
+   Petrography
+                                            Chemistry   Rhodes et al. (1975) originally postulated that there
+   were 3 lava flows of high Ti basalt at Apollo 17 (A, B  70139 (and 70135) are high-Ti mare basalts (figure 3).
+   and C) and this assumption seems to have held up with  The REE pattern is lower than that of most other Apollo
+   further analyses (figure 1).  70139 has the same  17 mare basalts (figure 4).  Please compare with
+   mineralogy and texture as 70135.                    composition of 70135.
+
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-8 ---
+70139
+                                     Ilmenite Basalt
+                                            3.16 grams
+--- material block 4; lines 13-39 ---
+70139           70138              70137            70136
+
+
+                Figure 2: Basalt chips from same bag as 70135. S73-17970
+
+   Introduction
+                                                Mineralogical Mode   This is a chip off of Geophone Rock – see section on
+   70135.  It is a typical high-Ti mare basalt with an age                  70135   Roedder 70139   70147
+                                                                    Olivine            2.8      3.8      2.5        - -
+   of 3.71 b.y.                                                             Pyroxene         46.2     51.6     35.8     48.2
+                                                                      Plagioclase        28.4    23       41.6     29.4
+   Geophone Rock is a basalt boulder located about 50   Opaques          21.9     19.6     18.2    21
+   meters south of the ALSEP site.                               Silica             0.3      0.6      1.9      0.2
+                                                                 Meostasis         0.4      1.4
+
+   Petrography
+                                            Chemistry   Rhodes et al. (1975) originally postulated that there
+   were 3 lava flows of high Ti basalt at Apollo 17 (A, B  70139 (and 70135) are high-Ti mare basalts (figure 3).
+   and C) and this assumption seems to have held up with  The REE pattern is lower than that of most other Apollo
+   further analyses (figure 1).  70139 has the same  17 mare basalts (figure 4).  Please compare with
+   mineralogy and texture as 70135.                    composition of 70135.
+--- age block 5; lines 17-29 ---
+Figure 2: Basalt chips from same bag as 70135. S73-17970
+
+   Introduction
+                                                Mineralogical Mode   This is a chip off of Geophone Rock – see section on
+   70135.  It is a typical high-Ti mare basalt with an age                  70135   Roedder 70139   70147
+                                                                    Olivine            2.8      3.8      2.5        - -
+   of 3.71 b.y.                                                             Pyroxene         46.2     51.6     35.8     48.2
+                                                                      Plagioclase        28.4    23       41.6     29.4
+   Geophone Rock is a basalt boulder located about 50   Opaques          21.9     19.6     18.2    21
+   meters south of the ALSEP site.                               Silica             0.3      0.6      1.9      0.2
+                                                                 Meostasis         0.4      1.4
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,references ===
+--- chemistry block 1; lines 1-24 ---
+Table 1. Chemical composition of 70139.                     Lunar Basalts
+                                                                                                14
+    reference  Neal90     Paces91                                                                     A17 70139
+    weight                                                                                   12
+    SiO2 %                                                                                          A11
+    TiO2      13.1     (a)                                                               10
+    Al2O3     8.32     (a)
+                                                                                                     8
+   FeO       17.6     (a)                           TiO2
+   MnO      0.23     (a)                                                                  6
+   MgO       9.6      (a)
+   CaO      10       (a)                                                                  4
+   Na2O     0.36     (a)                                                                                        A12
+   K2O       0.04     (a)                                                                  2                        A15
+   P2O5
+   S %                                                                                          0
+   sum                                                                                            0                5                10                15               20
+                                              MgO
+    Sc ppm   80       (a)
+   V        143      (a)                                            Figure 3: Composition of mare basalts collected
+    Cr        3810    (a)                                          from Apollo missions.
+   Co        26.2     (a)
+    Ni        31       (a)
+   Cu
+--- material block 2; lines 50-62 ---
+Sm        4.8      (a)  5.3     5.38     (b)               more reliable Sm/Nd method. This is concordant with
+   Eu         1.4      (a)                                    the age for 70135 as determined by Nyquist et al.
+   Gd
+    Tb         1.5      (a)                                   (1975).
+   Dy         9.7      (a)
+   Ho                                            Processing    Er
+   Tm                                           70139 is a basalt chip from the bag (10E) used to return
+   Yb         5.4      (a)                              70135 and is most certainly a chip of same (Butler
+    Lu        0.81     (a)
+    Hf         5.7      (a)                                  1973). There are two thin sections of 70139.
+    Ta         1.2      (a)
+  W ppb
+   Re ppb
+--- age block 3; lines 41-57 ---
+In ppb                                                       Figure 4: Normalized rare-earth-element diagram
+   Sn ppb                                                     for70139 compared with type A and type B basalts
+   Sb ppb                                                     from Apollo 17 (dat by Neal et al. 1990).
+    Te ppb
+   Cs ppm    0.02     (a)
+   Ba       67       (a)
+    La         3.1      (a)                             Radiogenic age dating
+   Ce       13       (a)                                 Paces et al. (1991) dated 70139 at 3650 ± 120 m.y. by
+    Pr                                               Rb/Sr internal isochron and 3710 ± 120 m.y. by the   Nd       15       (a)  12.3    12.4     (b)
+   Sm        4.8      (a)  5.3     5.38     (b)               more reliable Sm/Nd method. This is concordant with
+   Eu         1.4      (a)                                    the age for 70135 as determined by Nyquist et al.
+   Gd
+    Tb         1.5      (a)                                   (1975).
+   Dy         9.7      (a)
+   Ho                                            Processing    Er
+   Tm                                           70139 is a basalt chip from the bag (10E) used to return
+   Yb         5.4      (a)                              70135 and is most certainly a chip of same (Butler
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 70139.                     Lunar Basalts
+                                                                                                14
+    reference  Neal90     Paces91                                                                     A17 70139
+    weight                                                                                   12
+    SiO2 %                                                                                          A11
+    TiO2      13.1     (a)                                                               10
+    Al2O3     8.32     (a)
+                                                                                                     8
+   FeO       17.6     (a)                           TiO2
+--- references block 5; lines 44-56 ---
+Te ppb
+   Cs ppm    0.02     (a)
+   Ba       67       (a)
+    La         3.1      (a)                             Radiogenic age dating
+   Ce       13       (a)                                 Paces et al. (1991) dated 70139 at 3650 ± 120 m.y. by
+    Pr                                               Rb/Sr internal isochron and 3710 ± 120 m.y. by the   Nd       15       (a)  12.3    12.4     (b)
+   Sm        4.8      (a)  5.3     5.38     (b)               more reliable Sm/Nd method. This is concordant with
+   Eu         1.4      (a)                                    the age for 70135 as determined by Nyquist et al.
+   Gd
+    Tb         1.5      (a)                                   (1975).
+   Dy         9.7      (a)
+   Ho                                            Processing    Er
+   Tm                                           70139 is a basalt chip from the bag (10E) used to return
+--- references block 6; lines 63-72 ---
+Os ppb
+       Ir ppb
+    Pt ppb
+   Au ppb
+    Th ppm    0.3      (a)
+   U ppm     0.1      (a)
+     technique:  (a) INAA, (b) IDMS
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: age,references ===
+--- age block 1; lines 23-35 ---
+Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+                                                                 rocks. Vol. 2 Basalts
+
+                                                       Neal C.R., Taylor L.A., Patchen A.D., Hughes S.S. and
+                                                       Schmitt R.A. (1990a)  The significance of fractional
+                                                                     crystallization in the petrogenesis of Apollo 17 Type A and
+                                        B high-Ti basalts. Geochim. Cosmochim. Acta 54, 1817-
+                                                          1833.
+
+                                                          Paces J.B., Nakai S., Neal C.R., Taylor L.A., Halliday A.N.
+                                                       and Lee D.-C. (1991) A strontium and neodymium isotopic
+                                                             study of Apollo 17 high-Ti mare basalts: Resolution of ages,
+--- references block 2; lines 1-7 ---
+C Meyer   70139                             References for 70139
+          2011      3.16 grams                             Butler P. (1973) Lunar Sample Information Catalog
+                                                      Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+                                                               Curator’s Catalog. pp. 447.
+      ,0         ,1      ,2         ,4          ,5         ,8         ,9
+      0.66 g   PB    0.12 g    0.55 g     0.11 g    0.3 g     0.5 g     LSPET (1973)  Apollo 17 lunar samples: Chemical and
+                                                              petrographic description. Science 182, 659-672.

@@ -1,0 +1,112 @@
+DOCUMENT_ID: 67565__compendium__629750c6ba
+ATLAS_SAMPLE_IDS: 67565,67668
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67565.pdf
+SOURCE_PDF_SHA256: b091a488d6c1010f61449a92478c5dd1e8970ca1ef12f90dd836e9ffcfbb5cb0
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 8-33 ---
+Figure 1: Photo of 67565. Scale in mm. S80-35154
+
+
+
+   Introduction
+   67565 and 67668 are rake samples from the south rim                                                   Table 1. Chemical composition of 67565
+   of North Ray Crater – see sections on 67481 and 67601.
+                                                                         67565  67668
+   They have similar micropoikitiic texture with         reference  Stoffler85
+   interlocking oikocrysts of pyroxene surrounding         weight
+   chadocrysts of plagioclase.  Ilmenite is concentrated        SiO2 %    46.2    46.5       (a)
+                                                                  TiO2      0.55    0.63       (a)
+    at the boundaries of the pyroxene oikocysts. They also        Al2O3     21.9    20.8       (a)
+   have similar composition.                              FeO       5.8      6.3        (a)
+                                                 MnO      0.07    0.08       (a)
+                                                 MgO       11.4     11.7       (a)
+   Chemistry                                       CaO      13      13.1       (a)
+    Stoffler et al. (1985) reported the bulk composition      Na2O     0.43    0.44       (a)
+                                                     K2O       0.21    0.21       (a)
+   based on defocused beam analysis of thin sections.       P2O5     0.19     0.2        (a)
+   Wanke received splits for analysis.                      S %
+                                                        sum
+                                                                                       (a) broad beam e. probe
+   Processing
+   There is one thin section of each (figure 3).
+--- mineralogy block 2; lines 12-27 ---
+Introduction
+   67565 and 67668 are rake samples from the south rim                                                   Table 1. Chemical composition of 67565
+   of North Ray Crater – see sections on 67481 and 67601.
+                                                                         67565  67668
+   They have similar micropoikitiic texture with         reference  Stoffler85
+   interlocking oikocrysts of pyroxene surrounding         weight
+   chadocrysts of plagioclase.  Ilmenite is concentrated        SiO2 %    46.2    46.5       (a)
+                                                                  TiO2      0.55    0.63       (a)
+    at the boundaries of the pyroxene oikocysts. They also        Al2O3     21.9    20.8       (a)
+   have similar composition.                              FeO       5.8      6.3        (a)
+                                                 MnO      0.07    0.08       (a)
+                                                 MgO       11.4     11.7       (a)
+   Chemistry                                       CaO      13      13.1       (a)
+    Stoffler et al. (1985) reported the bulk composition      Na2O     0.43    0.44       (a)
+                                                     K2O       0.21    0.21       (a)
+--- material block 3; lines 1-20 ---
+67565 – 10.4 grams
+                          67668 – 3.6 grams
+                               Impact Melt Breccia
+
+
+
+
+
+                        Figure 1: Photo of 67565. Scale in mm. S80-35154
+
+
+
+   Introduction
+   67565 and 67668 are rake samples from the south rim                                                   Table 1. Chemical composition of 67565
+   of North Ray Crater – see sections on 67481 and 67601.
+                                                                         67565  67668
+   They have similar micropoikitiic texture with         reference  Stoffler85
+   interlocking oikocrysts of pyroxene surrounding         weight
+   chadocrysts of plagioclase.  Ilmenite is concentrated        SiO2 %    46.2    46.5       (a)
+                                                                  TiO2      0.55    0.63       (a)
+--- references block 4; lines 11-23 ---
+Introduction
+   67565 and 67668 are rake samples from the south rim                                                   Table 1. Chemical composition of 67565
+   of North Ray Crater – see sections on 67481 and 67601.
+                                                                         67565  67668
+   They have similar micropoikitiic texture with         reference  Stoffler85
+   interlocking oikocrysts of pyroxene surrounding         weight
+   chadocrysts of plagioclase.  Ilmenite is concentrated        SiO2 %    46.2    46.5       (a)
+                                                                  TiO2      0.55    0.63       (a)
+    at the boundaries of the pyroxene oikocysts. They also        Al2O3     21.9    20.8       (a)
+   have similar composition.                              FeO       5.8      6.3        (a)
+                                                 MnO      0.07    0.08       (a)
+
+=== PDF PAGE 4; CATEGORIES: material,references ===
+--- material block 1; lines 15-33 ---
+In Apollo 16 Preliminary Science Report. NASA SP-315,
+    7-1—7-58.
+
+    Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+    67515 to 68537:  Sample classification, description and
+    inventory. Curator Catalog, JSC
+
+     Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+      J. and Rehfeldt A. (1981) Distribution and provenance of
+    lunar highland rock types at North Ray Crater, Apollo 16.
+    Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+     Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Reimold W.U., Wacker K. and Wanke H. (1985)
+    Composition and evolution of the lunar crust in the Descartes
+--- references block 2; lines 1-7 ---
+References for 67565 and 67668
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+    Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+     in Apollo 16 highland rocks: Manifestations of volatile-

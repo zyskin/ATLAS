@@ -1,0 +1,66 @@
+DOCUMENT_ID: 61547__compendium__db3e0e618a
+ATLAS_SAMPLE_IDS: 61547,61548
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61547.pdf
+SOURCE_PDF_SHA256: 339186ad217e23616148a28041dd387c30e71028d9acb9af3d2c8e02173f93a8
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 1-28 ---
+61547 - 18 grams
+                          61548 - 24.2 grams
+                                      Devitrified Glass
+
+
+
+
+
+        Figure 1: Photo of 61547. About 3 cm in size. S73-
+       17120                                                    Figure 2: Photo of 61548. 3 cm across. S72-
+                                                          55319
+
+
+   Introduction                                    References for 61547 and 548
+   61547 and 61548 are chunks of devitrified glass that   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   were collected by raking the regolith near large craters   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                              Catalog. pp. 370.   – see section on 61501. Thin sections show that they
+   contain small clasts of plagioclase and feldspathic
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   impact melt breccia.                                                       and chemical description. Science 179, 23-34.
+
+   Actually, there were a fair number of similar glass  LSPET (1972c) Preliminary examination of lunar samples.
+   fragments at this location.                                In Apollo 16 Preliminary Science Report. NASA SP-315,
+                                                     7-1—7-58.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+--- material block 2; lines 10-26 ---
+17120                                                    Figure 2: Photo of 61548. 3 cm across. S72-
+                                                          55319
+
+
+   Introduction                                    References for 61547 and 548
+   61547 and 61548 are chunks of devitrified glass that   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   were collected by raking the regolith near large craters   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                              Catalog. pp. 370.   – see section on 61501. Thin sections show that they
+   contain small clasts of plagioclase and feldspathic
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   impact melt breccia.                                                       and chemical description. Science 179, 23-34.
+
+   Actually, there were a fair number of similar glass  LSPET (1972c) Preliminary examination of lunar samples.
+   fragments at this location.                                In Apollo 16 Preliminary Science Report. NASA SP-315,
+                                                     7-1—7-58.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+--- references block 3; lines 8-20 ---
+Figure 1: Photo of 61547. About 3 cm in size. S73-
+       17120                                                    Figure 2: Photo of 61548. 3 cm across. S72-
+                                                          55319
+
+
+   Introduction                                    References for 61547 and 548
+   61547 and 61548 are chunks of devitrified glass that   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   were collected by raking the regolith near large craters   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                              Catalog. pp. 370.   – see section on 61501. Thin sections show that they
+   contain small clasts of plagioclase and feldspathic
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   impact melt breccia.                                                       and chemical description. Science 179, 23-34.

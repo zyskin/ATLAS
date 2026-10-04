@@ -1,0 +1,140 @@
+DOCUMENT_ID: 63507__compendium__b162aad607
+ATLAS_SAMPLE_IDS: 63507
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63507.pdf
+SOURCE_PDF_SHA256: 017af946e9d16124a4a8705e7846b5069fb818407ef00953639b9e345fec929c
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 18-30 ---
+It has numerous glass spheres and fragments including
+    agglutinates.  Lithic clasts include impact melts and
+    granulites (figure 2)
+
+  McKay et al. (1986) and Joy et al. (2012) describe
+   63507 as an ancient regolith breccia, because it has
+   excess 40Ar. It has relatively high Is/FeO = 48 and very
+   high Ni, Ir and Au content.
+
+   Chemistry                                                  Figure 2: Thin section photo of 63507. Field of
+                                                                view is 3 mm.  McKay et al. (1986) reported the composition, which
+    is like that of the local soil. The rare gas content and
+    isotopic ratios were also determined by McKay et al.
+--- mineralogy block 2; lines 8-24 ---
+Figure 1: Photo of 63507.  It is about 2 cm across. S81-32697
+
+
+   Introduction
+   63507 is a friable breccias with a light brown color. It
+    is partially coated with black glass (figure 1).
+
+   Petrography
+   63507 is porous and has a seriate grain size distribution.
+     It has numerous glass spheres and fragments including
+    agglutinates.  Lithic clasts include impact melts and
+    granulites (figure 2)
+
+  McKay et al. (1986) and Joy et al. (2012) describe
+   63507 as an ancient regolith breccia, because it has
+   excess 40Ar. It has relatively high Is/FeO = 48 and very
+--- material block 3; lines 1-8 ---
+63507
+                                   Regolith Breccia
+                                               2.8 grams
+--- material block 4; lines 11-35 ---
+Introduction
+   63507 is a friable breccias with a light brown color. It
+    is partially coated with black glass (figure 1).
+
+   Petrography
+   63507 is porous and has a seriate grain size distribution.
+     It has numerous glass spheres and fragments including
+    agglutinates.  Lithic clasts include impact melts and
+    granulites (figure 2)
+
+  McKay et al. (1986) and Joy et al. (2012) describe
+   63507 as an ancient regolith breccia, because it has
+   excess 40Ar. It has relatively high Is/FeO = 48 and very
+   high Ni, Ir and Au content.
+
+   Chemistry                                                  Figure 2: Thin section photo of 63507. Field of
+                                                                view is 3 mm.  McKay et al. (1986) reported the composition, which
+    is like that of the local soil. The rare gas content and
+    isotopic ratios were also determined by McKay et al.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+References for 63507   Table 1. Chemical composition of 63507
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  McKay86
+    weight                                                     Catalog. pp. 370.
+   SiO2 %
+    TiO2       0.66      (a)                                  Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   Al2O3     24.8      (a)
+                                                                   in Apollo 16 highland rocks: Manifestations of volatile-   FeO       6.42      (a)
+   MnO       0.07      (a)                                   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   MgO       7.1       (a)                                    259.
+   CaO       15.1      (a)
+   Na2O     0.493     (a)
+                                                       Joy K.H., Kring D.A., Bogard D.D., McKay D.S. and   K2O
+   P2O5                                                  Zolensky M.E. (2012) Re-examination of the formation ages
+   S %                                                        of the Apollo 16 regolith breccias. Geochem. Cosmochim.
+   sum                                                   Acta doi: 10.1016
+
+   Sc ppm    9.7       (a)
+   V        20        (a)                           LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+--- material block 2; lines 9-42 ---
+MnO       0.07      (a)                                   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   MgO       7.1       (a)                                    259.
+   CaO       15.1      (a)
+   Na2O     0.493     (a)
+                                                       Joy K.H., Kring D.A., Bogard D.D., McKay D.S. and   K2O
+   P2O5                                                  Zolensky M.E. (2012) Re-examination of the formation ages
+   S %                                                        of the Apollo 16 regolith breccias. Geochem. Cosmochim.
+   sum                                                   Acta doi: 10.1016
+
+   Sc ppm    9.7       (a)
+   V        20        (a)                           LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+    Cr        763       (a)                                 and chemical description. Science 179, 23-34.
+   Co        72.4      (a)
+    Ni        1020     (a)
+                                             LSPET (1972c) Preliminary examination of lunar samples.   Cu
+   Zn                                                         In Apollo 16 Preliminary Science Report. NASA SP-315,
+   Ga                                                7-1—7-58.
+   Ge ppb
+   As
+                                           McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,   Se
+   Rb                                                  Johnson P. and Wentworth S.J. (1986) Apollo 16 regolith
+    Sr        201       (a)                                        breccias: Characterization and evidence for early formation
+   Y                                                              in the megaregolith. Proc. 16th Lunar Planet. Sci. Conf. in
+    Zr        140       (a)
+                                                                                  J. Geophys. Res. 91, D277-D303.   Nb
+   Mo
+   Ru                                                    Phinney W. and Lofgren G. (1973) Description, classification
+   Rh                                                 and inventory of Apollo 16 rake samples from stations 1, 4
+   Pd ppb
+                                                       and 13. Curators Office.   Ag ppb
+   Cd ppb
+     In ppb                                               Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Sn ppb                                                   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Sb ppb
+--- references block 3; lines 1-9 ---
+References for 63507   Table 1. Chemical composition of 63507
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  McKay86
+    weight                                                     Catalog. pp. 370.
+   SiO2 %
+    TiO2       0.66      (a)                                  Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   Al2O3     24.8      (a)
+                                                                   in Apollo 16 highland rocks: Manifestations of volatile-   FeO       6.42      (a)
+   MnO       0.07      (a)                                   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+--- references block 4; lines 64-73 ---
+Os ppb
+      Ir ppb     51        (a)
+    Pt ppb
+   Au ppb    17        (a)
+   Th ppm    2.28      (a)
+   U ppm     0.58      (a)
+    technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2012

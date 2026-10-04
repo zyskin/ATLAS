@@ -1,0 +1,212 @@
+DOCUMENT_ID: 78555__compendium__a04be7a820
+ATLAS_SAMPLE_IDS: 78555,78556,78557,78558,78559,78565,78566
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/78555.pdf
+SOURCE_PDF_SHA256: 580a17d7c1d0f571f763ab3ca0c331e2c19080e0fc00f4135ebb9877923e5477
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 18-30 ---
+Rake samples 78555 – 78566 are friable regolith
+   breccias that were collected together and look alike.
+   Only 78555 has been studied.
+
+   Petrography
+   Jerde et al. (1987) reported the maturity index for 78555
+   as Is/FeO = 61. These fragments are “instant rock”
+   made by compaction of local soil.
+
+
+                                                                 Figure 2: Map of station 8, Apollo 17.
+
+Lunar Sample Compendium
+--- material block 2; lines 2-31 ---
+78556 – 9.5 grams
+                         78557 – 7.19 grams
+                         78558 – 3.78 grams
+                         78559 – 3.05 grams
+                         78565 - 3.05 grams
+                         78566 – 0.77 grams
+                                  Friable Regolith Breccia
+
+
+
+
+
+                       Figure 1: Photo of 78555. Scale in mm. S73-33438.
+
+
+   Introduction
+   Rake samples 78555 – 78566 are friable regolith
+   breccias that were collected together and look alike.
+   Only 78555 has been studied.
+
+   Petrography
+   Jerde et al. (1987) reported the maturity index for 78555
+   as Is/FeO = 61. These fragments are “instant rock”
+   made by compaction of local soil.
+
+
+                                                                 Figure 2: Map of station 8, Apollo 17.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- treatment block 3; lines 17-29 ---
+Introduction
+   Rake samples 78555 – 78566 are friable regolith
+   breccias that were collected together and look alike.
+   Only 78555 has been studied.
+
+   Petrography
+   Jerde et al. (1987) reported the maturity index for 78555
+   as Is/FeO = 61. These fragments are “instant rock”
+   made by compaction of local soil.
+
+
+                                                                 Figure 2: Map of station 8, Apollo 17.
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 2-24 ---
+Field of view is 3 x 4 mm.                                                             from Warner et al. 1978.
+           25
+           20                      Apollo soils
+                                                        breccia
+
+           15
+  FeO
+                                         78555
+           10
+
+
+            5
+
+
+            0
+              0       5       10      15      20      25      30      35
+                     Al2O3
+               Figure 11: Composition of 78555 compared
+                with Apollo soil samples.
+--- mineralogy block 2; lines 20-32 ---
+with Apollo soil samples.
+
+
+
+
+                                                                 Figure 12: Composition of 78555.
+   Glass
+   Warner et al. (1979) reported analyses of galls in 78555.
+                                                 Processing
+   Chemistry                                   78555 is the only one of these friable breccias that was
+   Jerde  et  al. (1987) determined the chemical   subdivided. There are 3 thin sections of 78555, but
+   composition (table 1).                            none for the other fragments
+--- material block 3; lines 1-11 ---
+Figure 9: Photomicrograph of thin section 78555,4.                                                               Figure 10: Another view of a thin section of 78555 -
+          Field of view is 3 x 4 mm.                                                             from Warner et al. 1978.
+           25
+           20                      Apollo soils
+                                                        breccia
+
+           15
+  FeO
+                                         78555
+           10
+--- material block 4; lines 14-26 ---
+0
+              0       5       10      15      20      25      30      35
+                     Al2O3
+               Figure 11: Composition of 78555 compared
+                with Apollo soil samples.
+
+
+
+
+                                                                 Figure 12: Composition of 78555.
+   Glass
+
+=== PDF PAGE 6; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+References for 78555 – 78566.   Table 1. Chemical composition of 78555.
+                                                             Butler P. (1973) Lunar Sample Information Catalog
+                                                       Apollo 17.  Lunar Receiving Laboratory. MSC 03211     reference  Jerde87
+     weight                                                     Curator’s Catalog. pp. 447.
+    SiO2 %    44.51
+    TiO2       2.42     (a)                                 Fruland R.M. (1983)  Regolith Breccia Workbook.
+    Al2O3     19.97    (a)
+                                                                 Curatorial Branch Publication # 66. JSC 19045.   FeO       9.9       (a)
+   MnO       0.15     (a)
+   MgO       11.27    (a)                                     Jerde E.A., Warren P.H., Morris R.V., Heiken G.H. and
+   CaO       11.49    (a)                               Vaniman D.T. (1987) A potpourri of regolith breccias:
+   Na2O      0.39     (a)
+                                                “New” samples from the Apollo 14, 16 and 17 landing sites.   K2O       0.11     (a)
+   P2O5                                                    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 92,
+   S %                                                E526-E536.
+    sum
+                                                           Keil K., Dowty E. and Prinz M. (1974)  Description,    Sc ppm
+   V                                                                classification and inventory of 113 Apollo 17 rake samples
+    Cr        2400     (a)                                 from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.
+--- material block 2; lines 1-24 ---
+References for 78555 – 78566.   Table 1. Chemical composition of 78555.
+                                                             Butler P. (1973) Lunar Sample Information Catalog
+                                                       Apollo 17.  Lunar Receiving Laboratory. MSC 03211     reference  Jerde87
+     weight                                                     Curator’s Catalog. pp. 447.
+    SiO2 %    44.51
+    TiO2       2.42     (a)                                 Fruland R.M. (1983)  Regolith Breccia Workbook.
+    Al2O3     19.97    (a)
+                                                                 Curatorial Branch Publication # 66. JSC 19045.   FeO       9.9       (a)
+   MnO       0.15     (a)
+   MgO       11.27    (a)                                     Jerde E.A., Warren P.H., Morris R.V., Heiken G.H. and
+   CaO       11.49    (a)                               Vaniman D.T. (1987) A potpourri of regolith breccias:
+   Na2O      0.39     (a)
+                                                “New” samples from the Apollo 14, 16 and 17 landing sites.   K2O       0.11     (a)
+   P2O5                                                    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 92,
+   S %                                                E526-E536.
+    sum
+                                                           Keil K., Dowty E. and Prinz M. (1974)  Description,    Sc ppm
+   V                                                                classification and inventory of 113 Apollo 17 rake samples
+    Cr        2400     (a)                                 from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.
+   Co        35.6     (a)
+     Ni        260      (a)
+                                             LSPET (1973)  Apollo 17 lunar samples: Chemical and   Cu
+    Zn                                                        petrographic description. Science 182, 659-672.
+   Ga         4.2       (a)
+--- material block 3; lines 42-61 ---
+Muehlberger W.R. and many others (1973)  Preliminary    Te ppb
+    Cs ppm    0.55     (a)                                     Geological Investigation of the Apollo 17 Landing Site. In
+    Ba       130      (a)                                  Apollo 17 Preliminary Science Report. NASA SP-330.
+    La         9.9       (a)
+   Ce       25       (a)
+                                                       Warner R.D., Keil K., Nehru C.E. and Taylor G.J. (1978)    Pr
+   Nd       16       (a)                                    Catalogue of Apollo 17 rake samples from Stations la, 2, 7,
+   Sm        5.3       (a)                                 and 8. Spec. Publ. #18, UNM Institute of Meteoritics,
+    Eu        1.17     (a)                                   Albuquerque. 88 pp.
+   Gd
+    Tb         1.1       (a)
+    Dy         8.1       (a)                                 Warner R.D., Taylor G.J. and Keil K. (1979b) Composition
+   Ho                                                         of glasses in Apollo 17 samples and their relation to known
+    Er                                                          lunar rock types. Proc. 10th Lunar Planet. Sci. Conf. 1437-
+   Tm
+                                                          1456.    Yb         4.2       (a)
+    Lu         0.65     (a)
+    Hf         3.7       (a)                                  Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    Ta         0.56     (a)                                      Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+  W ppb
+--- references block 4; lines 1-9 ---
+References for 78555 – 78566.   Table 1. Chemical composition of 78555.
+                                                             Butler P. (1973) Lunar Sample Information Catalog
+                                                       Apollo 17.  Lunar Receiving Laboratory. MSC 03211     reference  Jerde87
+     weight                                                     Curator’s Catalog. pp. 447.
+    SiO2 %    44.51
+    TiO2       2.42     (a)                                 Fruland R.M. (1983)  Regolith Breccia Workbook.
+    Al2O3     19.97    (a)
+                                                                 Curatorial Branch Publication # 66. JSC 19045.   FeO       9.9       (a)
+   MnO       0.15     (a)
+--- references block 5; lines 63-72 ---
+Os ppb                                            17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+       Ir ppb     11       (a)                                     280.
+     Pt ppb
+    Au ppb     3.3       (a)
+    Th ppm    1.86     (a)
+   U ppm     0.53     (a)
+     technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2011

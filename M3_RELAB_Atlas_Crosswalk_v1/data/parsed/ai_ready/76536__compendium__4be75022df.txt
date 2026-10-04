@@ -1,0 +1,163 @@
+DOCUMENT_ID: 76536__compendium__4be75022df
+ATLAS_SAMPLE_IDS: 76536
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/76536.pdf
+SOURCE_PDF_SHA256: 8ca624233d4a0983f88084bb0d91385795a3bc544050d30b5982780c0ccb59ce
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+76536 – 10.3 grams
+                                  Brecciated Troctolite
+
+
+
+
+              ,1
+--- mineralogy block 2; lines 12-40 ---
+Figure 1: Photo of 76536,1 S73-19600 Sample is 3 cm long.
+
+   Introduction
+   76536 is a rake sample from the regolith at the base of
+   the North Massif – see section on 76501. The sample
+   seems to be a crushed version of the troctolite 76535.
+
+   Petrography
+   Phinney et al. (1974) initially described the rake
+   samples from this location and it was included in the
+   samples to study the by the first Highland Initiative
+   (Ryder and Norman 1979). It is off white, with hackly
+   surface (figure 1).  It has a granulated texture and is
+   relatively coherent.   It is mad up of about half
+   plagioclase and half mafic minerals, with trace of
+    symplectite.
+
+   Bersch et al. (1991) and Shearer and Papike (2005)
+   reported the composition of olivine and pyroxene.
+                                                           Figure 2: Photo of 76536,2. Scale is in mm. S73-19615.
+   Chemistry
+   According to Warren and Wasson (1978), 76536 has                                                           worthless, and the trace elemnt analysis by Blanchard
+    exactly the same composition as 76535 (The troctolite).                                                     remains unpublished (it is seemingly contaminated).
+   The fused bead analysis by Simonds and Warner is
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 3; lines 10-27 ---
+Figure 1: Photo of 76536,1 S73-19600 Sample is 3 cm long.
+
+   Introduction
+   76536 is a rake sample from the regolith at the base of
+   the North Massif – see section on 76501. The sample
+   seems to be a crushed version of the troctolite 76535.
+
+   Petrography
+   Phinney et al. (1974) initially described the rake
+   samples from this location and it was included in the
+   samples to study the by the first Highland Initiative
+   (Ryder and Norman 1979). It is off white, with hackly
+   surface (figure 1).  It has a granulated texture and is
+   relatively coherent.   It is mad up of about half
+   plagioclase and half mafic minerals, with trace of
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,references ===
+--- chemistry block 1; lines 28-40 ---
+the same potted butt.
+
+
+
+   References for 76536
+    Bersch M.G., Taylor G.J., Keil K. and Norman M.D. (1991)                                                           Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)
+    Mineral compositions in pristine lunar highland rocks and                                                           Trace elements in 59 mostly highland moon rocks. Proc.
+    the diversity of highland magmatism. Geophys. Res. Lett.                                                                   22nd Lunar Planet. Sci. Conf. 417-426. Lunar Planetary
+    18, 2085-2088.                                                                           Institute, Houston
+
+    Butler P. (1973) Lunar Sample Information Catalog Apollo                                                   Meyer C. (1994) Catalog of Apollo 17 rocks. Vol. 4 North
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s                                                           Massif
+    Catalog. pp. 447.
+--- age block 2; lines 17-30 ---
+Figure 3 a,b,c,d,e: Photos of pieces of 76536
+          each with mm scale bar.
+                                                  S73-19624                                                                                         ,7
+    Ebihara et al. (1992) found that the sample had low
+    Ni, Ir and Au and is therefore “pristine”.
+
+   Radiogenic age dating
+   Not dated
+
+   Processing
+   There are only three thin sections of 76536 – all from
+    the same potted butt.
+--- references block 3; lines 26-38 ---
+Processing
+   There are only three thin sections of 76536 – all from
+    the same potted butt.
+
+
+
+   References for 76536
+    Bersch M.G., Taylor G.J., Keil K. and Norman M.D. (1991)                                                           Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)
+    Mineral compositions in pristine lunar highland rocks and                                                           Trace elements in 59 mostly highland moon rocks. Proc.
+    the diversity of highland magmatism. Geophys. Res. Lett.                                                                   22nd Lunar Planet. Sci. Conf. 417-426. Lunar Planetary
+    18, 2085-2088.                                                                           Institute, Houston
+
+    Butler P. (1973) Lunar Sample Information Catalog Apollo                                                   Meyer C. (1994) Catalog of Apollo 17 rocks. Vol. 4 North
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 76536.
+
+
+     reference Warren78   Ebihara91   Simonds81
+     weight
+    SiO2 %   42.4     (a)              43.54    (c )
+    TiO2                               0.07      (c )
+    Al2O3    26.3     (a)              21.01    (c )
+   FeO      3.6      (a)              4.94      (c )
+   MnO      0.04     (a)
+   MgO      13.6     (a)              17.42    (c )
+   CaO      13.3     (a)              11.76     (c )
+   Na2O     0.29     (a)              0.28      (c )
+   K2O      0.04     (a)              0.06      (c )
+   P2O5
+   S %
+    sum
+
+    Sc ppm   1.8      (a)
+   V
+--- material block 2; lines 25-37 ---
+Zn        1.13     (a) 0.42      (b)
+   Ga
+   Ge ppb    2.4      (a) 2.73      (b)
+    As
+    Se                    4.56      (b)
+   Rb                   0.724    (b)                       Phinney W.C., Simonds C.H. and Warner J. (1974)
+    Sr                                                           Description, Classification and Inventory of Apollo 17 Rake
+   Y
+     Zr                                                 Samples from Station 6. Curator’s Catalog, pp. 46.
+   Nb
+   Mo                                                 Ryder G. and Norman M.D. (1979a)  Catalog of pristine
+   Ru                                               non-mare materials Part 1. Non-anorthosites, revised.
+   Rh
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 76536.
+
+
+     reference Warren78   Ebihara91   Simonds81
+     weight
+    SiO2 %   42.4     (a)              43.54    (c )
+    TiO2                               0.07      (c )
+    Al2O3    26.3     (a)              21.01    (c )
+   FeO      3.6      (a)              4.94      (c )
+   MnO      0.04     (a)
+--- references block 4; lines 65-75 ---
+Os ppb               0.19      (b)                           geologic investigation of the Taurus-Littrow Valley: Apollo
+       Ir ppb     0.051    (a) 0.026    (b)                       17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+     Pt ppb
+    Au ppb    0.02     (a) 0.011     (b)                          280.
+    Th ppm   0.2      (a)
+   U ppm                0.052    (b)
+     technique: (a) INAA, (b) RNAA, (c ) fused bead e probe
+
+
+Lunar Sample Compendium
+C Meyer 2012

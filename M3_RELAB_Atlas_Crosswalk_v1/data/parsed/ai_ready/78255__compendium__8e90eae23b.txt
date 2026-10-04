@@ -1,0 +1,149 @@
+DOCUMENT_ID: 78255__compendium__8e90eae23b
+ATLAS_SAMPLE_IDS: 78255
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/78255.pdf
+SOURCE_PDF_SHA256: 4e84d76d3dcd2f25afdd09704e8ba49be81839801462ccc14e14a8cba75f89e3
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+78255
+                                Shocked Norite
+                                     48.31 grams (two pieces)
+--- mineralogy block 2; lines 13-26 ---
+Introduction                                Petrography
+   Samples 78255-78256 were chipped off the bottom of  Perhaps the only petrographic description of 78255 is
+    the Station 8 boulder after had been rolled over by the  given in a footnote by Warren and Wasson (1978). The
+    astronauts (Jackson et al. 1975). The pieces fell in the  rock is, of course, the same as 78235.
+    soil where they were collected. Sample 78256 was
+   found to fit 78255, so they were numbered together as  Mineralogy
+   78255 (48.31 grams).                              Pyroxene: Bersch (1991) analyzed the pyroxene.
+
+   Although 78255 was chipped from the bottom of the  Chemistry
+    boulder, it was found to have numerous zap pits (figure  Warren and Wasson (1978, 1979) analyzed two
+    1) indicating that it had been the top surface sometime   different chips of 78255 (table 1 and figure 2) and found
+    in the past.  Indeed, the astronauts noted that it was  them to be relatively low in siderophile elements, hence
+   very easy to roll the boulder.  Cosmic ray studies   “pristine” by their definition. The pieces they analyzed
+--- material block 3; lines 11-32 ---
+Introduction                                Petrography
+   Samples 78255-78256 were chipped off the bottom of  Perhaps the only petrographic description of 78255 is
+    the Station 8 boulder after had been rolled over by the  given in a footnote by Warren and Wasson (1978). The
+    astronauts (Jackson et al. 1975). The pieces fell in the  rock is, of course, the same as 78235.
+    soil where they were collected. Sample 78256 was
+   found to fit 78255, so they were numbered together as  Mineralogy
+   78255 (48.31 grams).                              Pyroxene: Bersch (1991) analyzed the pyroxene.
+
+   Although 78255 was chipped from the bottom of the  Chemistry
+    boulder, it was found to have numerous zap pits (figure  Warren and Wasson (1978, 1979) analyzed two
+    1) indicating that it had been the top surface sometime   different chips of 78255 (table 1 and figure 2) and found
+    in the past.  Indeed, the astronauts noted that it was  them to be relatively low in siderophile elements, hence
+   very easy to roll the boulder.  Cosmic ray studies   “pristine” by their definition. The pieces they analyzed
+   (below) showed 78255 to be less exposed than 78235.  were more feldspathic than 78235, which they attribute
+   However, it still had elevated radioactivity and hence   to the small size of their sample and the coarse grain
+    the boulder has rotated during its history.               size of the rock.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 4; lines 20-32 ---
+78255 (48.31 grams).                              Pyroxene: Bersch (1991) analyzed the pyroxene.
+
+   Although 78255 was chipped from the bottom of the  Chemistry
+    boulder, it was found to have numerous zap pits (figure  Warren and Wasson (1978, 1979) analyzed two
+    1) indicating that it had been the top surface sometime   different chips of 78255 (table 1 and figure 2) and found
+    in the past.  Indeed, the astronauts noted that it was  them to be relatively low in siderophile elements, hence
+   very easy to roll the boulder.  Cosmic ray studies   “pristine” by their definition. The pieces they analyzed
+   (below) showed 78255 to be less exposed than 78235.  were more feldspathic than 78235, which they attribute
+   However, it still had elevated radioactivity and hence   to the small size of their sample and the coarse grain
+    the boulder has rotated during its history.               size of the rock.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: age ===
+--- age block 1; lines 25-41 ---
+La   Ce    Pr   Nd  Sm   Eu   Gd   Tb   Dy   Ho    Er   Yb    Lu
+
+      Figure 2: Normalized rare-earth-element diagram
+       for 78255 (data from Warren et al. 1978 , 1979).
+
+
+  Radiogenic age dating
+  The age of this sample is given in the section on 78235.
+
+  Cosmogenic isotopes and exposure ages
+   Keith et al. (1974) determined the cosmic ray and solar
+   flare induced activity from the large solar flare of
+   August 1972 using the top and bottom of this boulder
+   (table 2). The bottom of the boulder (78255) was
+   shielded from the recent solar flare, but not completely
+   from neutrons produced by high energy cosmic rays.
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+References for 78255   Table1. Chemical composition of 78255.
+                                                         Bersch M.G., Taylor G.J., Keil K. and Norman M.D. (1991)
+                                                          Mineral compositions in pristine lunar highland rocks and    reference   Warren 78  Warren 79        Keith 74
+    weight                                                       the diversity of highland magmatism. Geophys. Res. Lett.
+    SiO2 %     47.29                                           18, 2085-2088.
+    TiO2        0.068
+    Al2O3      27.4
+                                                             Butler P. (1973) Lunar Sample Information Catalog   FeO        2.64
+   MnO        0.046                                     Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+   MgO        5.98                                            Curator’s Catalog. pp. 447.
+   CaO        14.98
+   Na2O       0.446
+                                                      Jackson E.D., Sutton R.L. and Wilshire H.G. (1975)   K2O        0.084                       0.071   (c )
+   P2O5                                                        Structure and petrology of a cumulus norite boulder sampled
+   S %                                               by Apollo 17 in Taurus-Littrow valley, the Moon.  Geol.
+   sum                                                       Soc. Am. Bull. 86, 433-442.
+
+    Sc ppm     4.6         10.7
+   V                                                 James O.B. (1980) Rocks of the early lunar crust. Proc.
+--- mineralogy block 2; lines 8-20 ---
+Butler P. (1973) Lunar Sample Information Catalog   FeO        2.64
+   MnO        0.046                                     Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+   MgO        5.98                                            Curator’s Catalog. pp. 447.
+   CaO        14.98
+   Na2O       0.446
+                                                      Jackson E.D., Sutton R.L. and Wilshire H.G. (1975)   K2O        0.084                       0.071   (c )
+   P2O5                                                        Structure and petrology of a cumulus norite boulder sampled
+   S %                                               by Apollo 17 in Taurus-Littrow valley, the Moon.  Geol.
+   sum                                                       Soc. Am. Bull. 86, 433-442.
+
+    Sc ppm     4.6         10.7
+   V                                                 James O.B. (1980) Rocks of the early lunar crust. Proc.
+    Cr         990       2210                                        11th Lunar Planet. Sci. Conf. 365-393.
+--- age block 3; lines 18-30 ---
+Sc ppm     4.6         10.7
+   V                                                 James O.B. (1980) Rocks of the early lunar crust. Proc.
+    Cr         990       2210                                        11th Lunar Planet. Sci. Conf. 365-393.
+   Co          22.6       31
+    Ni          21.7       22
+                                                     Keith  J.E., Clark R.S. and Bennett L.J. (1974a)   Cu
+    Zn          0.95        1.6                            Determination of natural and cosmic ray induced
+   Ga          5.1         4.3                                  radionuclides in Apollo 17 lunar samples. Proc. 5th Lunar
+   Ge ppb     58        61                                       Sci. Conf. 2121-2138.
+    As
+   Se
+   Rb                                        LSPET (1973)  Apollo 17 lunar samples: Chemical and
+    Sr                                                        petrographic description. Science 182, 659-672.
+--- references block 4; lines 1-9 ---
+References for 78255   Table1. Chemical composition of 78255.
+                                                         Bersch M.G., Taylor G.J., Keil K. and Norman M.D. (1991)
+                                                          Mineral compositions in pristine lunar highland rocks and    reference   Warren 78  Warren 79        Keith 74
+    weight                                                       the diversity of highland magmatism. Geophys. Res. Lett.
+    SiO2 %     47.29                                           18, 2085-2088.
+    TiO2        0.068
+    Al2O3      27.4
+                                                             Butler P. (1973) Lunar Sample Information Catalog   FeO        2.64
+   MnO        0.046                                     Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+--- references block 5; lines 64-73 ---
+Os ppb                                             Warren P.H. and Wasson J.T. (1979) The compositional-
+       Ir ppb       0.43        0.71                                 petrographic search for pristine nonmare rocks: Third foray.
+    Pt ppb                                                    Proc. 10th Lunar Planet. Sci. Conf. 583-610.
+   Au ppb     0.107       0.17
+    Th ppm     0.44        0.53             0.83    (c )
+   U ppm      0.19        0.14             0.227   (c )
+    technique  (a) INAA, (b) RNAA, (c ) radiation counting
+
+Lunar Sample Compendium
+C Meyer 2011

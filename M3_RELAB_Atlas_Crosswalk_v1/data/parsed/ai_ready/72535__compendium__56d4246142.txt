@@ -1,0 +1,348 @@
+DOCUMENT_ID: 72535__compendium__56d4246142
+ATLAS_SAMPLE_IDS: 72535,72536
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72535.pdf
+SOURCE_PDF_SHA256: f3c7d8d9360549cee977a5dd9abbc720363bf74dda8781169d8ad95b296d45a5
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 9-21 ---
+Figure 1: Photo of 72535. Cube is 1 cm. S73-19580. Note the clast on right side.
+
+
+
+
+
+                     Figure 2: Photo of 72535. Cube is 1 cm. S73-19581. Note the black glass splash.
+
+   Introduction
+   Rake samples 72535 and 72536 are impact melt  They have an Ar/Ar age of ~3.9 b.y. with 107 m.y.
+   breccias from the landslide off of the South Massif.  exposure to cosmic radiation.
+--- material block 2; lines 1-24 ---
+72535 and 72536
+                               Impact Melt Breccia
+                                      221.4 and 52.3 grams
+
+
+
+
+
+                     Figure 1: Photo of 72535. Cube is 1 cm. S73-19580. Note the clast on right side.
+
+
+
+
+
+                     Figure 2: Photo of 72535. Cube is 1 cm. S73-19581. Note the black glass splash.
+
+   Introduction
+   Rake samples 72535 and 72536 are impact melt  They have an Ar/Ar age of ~3.9 b.y. with 107 m.y.
+   breccias from the landslide off of the South Massif.  exposure to cosmic radiation.
+
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 3; lines 12-24 ---
+Figure 2: Photo of 72535. Cube is 1 cm. S73-19581. Note the black glass splash.
+
+   Introduction
+   Rake samples 72535 and 72536 are impact melt  They have an Ar/Ar age of ~3.9 b.y. with 107 m.y.
+   breccias from the landslide off of the South Massif.  exposure to cosmic radiation.
+
+
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 3; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-46 ---
+Figure 6: Poikilitic clast in 72535 (from Warner et
+           al. 1977). Field of view 1 mm. Single large
+         orthopyroxene encloses rounded olivine and
+         euhedral plagioclase.
+                                                              Figure 7: Composition of pyroxene and olivine in
+                                                        72535 (from Warner et al. 1978).
+
+       Mineralogical Modes for 72535 and 72536              1000
+                        Warner et al. 1978                                            72535
+                       72535   72536
+        Matrix               83%                                       100
+         Plagioclase       53 %    52.3                                      sample/
+        Mafic minerals    44       44.3                                          chondrite
+       Opaques         3       3                                            10
+
+
+   Petrography                                                                   1
+   72535 and 72536 are covered with micrometeorite
+    craters (figures 1. 2 and 3).  They have a texture
+    charististic of a fine-grained, clast-bearing impact melt           0.1      La Ce   Pr Nd  Sm  Eu  Gd  Tb  Dy Ho  Er  Tm  Yb  Lu
+   rather typical of the Apollo 17 highland breccias
+    (figures 4 and 5).  Warner et al. (1977) and Ryder        Figure 8: Normalized rare-earth-element diagram
+                                                                          for 72535 (data from Laul and Schmitt 1975 and   (1993) describe the dark porous groundmass as
+                                                            Dalrymple and Ryder 1996).
+   basaltic-textured, with plagioclase laths less than
+   30 microns long subophitically enclosed by
+   irregular mafic crystals.  Ca-plagioclase is the
+   major mineral clast. Small lithic clasts make up  Radiogenic age dating
+   about ~5 % of the sample (figure 6).              Dalrymple and Ryder (1996) determined an Ar/Ar
+                                                          plateau age of 3.887 ± 0.016 b.y. (figure 9) - finding
+                                                             that this sample is probably an impact melt from   Mineralogy
+                                                                Serenitatis.   Olivine: Olivine is Fo70-86.
+
+                                           Cosmogenic isotopes and exposure ages   Pyroxene:  Warner et al. (1978) determined the
+                                                   Arvidson et al. (1976) reported an exposure age of 107   composition of pyroxene in the matrix and in clasts of
+                                                        m.y. by 81Kr.   72535 (figure 7).
+
+                                                 Processing   Plagioclase: Plagioclase ranges from An97 to An72.
+                                                   There are only one thin section each for these two
+   Ilmenite: Engelhardt (1997) reported ilmenite.        samples, but they appear identical.
+
+   Chemistry
+   Laul and Schmitt (1975) and Dalrymple and Ryder
+   (1996) have analyzed 72535 and find that it is similar     Summary of Age Data for 72535
+    to the nearby boulder #2 (figure 8). The sample has                                 Ar/Ar
+                                                                 Dalrymple and Ryder 1996  3.887 ± 0.016 b.y.
+--- material block 2; lines 1-41 ---
+Figure 6: Poikilitic clast in 72535 (from Warner et
+           al. 1977). Field of view 1 mm. Single large
+         orthopyroxene encloses rounded olivine and
+         euhedral plagioclase.
+                                                              Figure 7: Composition of pyroxene and olivine in
+                                                        72535 (from Warner et al. 1978).
+
+       Mineralogical Modes for 72535 and 72536              1000
+                        Warner et al. 1978                                            72535
+                       72535   72536
+        Matrix               83%                                       100
+         Plagioclase       53 %    52.3                                      sample/
+        Mafic minerals    44       44.3                                          chondrite
+       Opaques         3       3                                            10
+
+
+   Petrography                                                                   1
+   72535 and 72536 are covered with micrometeorite
+    craters (figures 1. 2 and 3).  They have a texture
+    charististic of a fine-grained, clast-bearing impact melt           0.1      La Ce   Pr Nd  Sm  Eu  Gd  Tb  Dy Ho  Er  Tm  Yb  Lu
+   rather typical of the Apollo 17 highland breccias
+    (figures 4 and 5).  Warner et al. (1977) and Ryder        Figure 8: Normalized rare-earth-element diagram
+                                                                          for 72535 (data from Laul and Schmitt 1975 and   (1993) describe the dark porous groundmass as
+                                                            Dalrymple and Ryder 1996).
+   basaltic-textured, with plagioclase laths less than
+   30 microns long subophitically enclosed by
+   irregular mafic crystals.  Ca-plagioclase is the
+   major mineral clast. Small lithic clasts make up  Radiogenic age dating
+   about ~5 % of the sample (figure 6).              Dalrymple and Ryder (1996) determined an Ar/Ar
+                                                          plateau age of 3.887 ± 0.016 b.y. (figure 9) - finding
+                                                             that this sample is probably an impact melt from   Mineralogy
+                                                                Serenitatis.   Olivine: Olivine is Fo70-86.
+
+                                           Cosmogenic isotopes and exposure ages   Pyroxene:  Warner et al. (1978) determined the
+                                                   Arvidson et al. (1976) reported an exposure age of 107   composition of pyroxene in the matrix and in clasts of
+                                                        m.y. by 81Kr.   72535 (figure 7).
+
+                                                 Processing   Plagioclase: Plagioclase ranges from An97 to An72.
+                                                   There are only one thin section each for these two
+   Ilmenite: Engelhardt (1997) reported ilmenite.        samples, but they appear identical.
+--- age block 3; lines 22-50 ---
+(figures 4 and 5).  Warner et al. (1977) and Ryder        Figure 8: Normalized rare-earth-element diagram
+                                                                          for 72535 (data from Laul and Schmitt 1975 and   (1993) describe the dark porous groundmass as
+                                                            Dalrymple and Ryder 1996).
+   basaltic-textured, with plagioclase laths less than
+   30 microns long subophitically enclosed by
+   irregular mafic crystals.  Ca-plagioclase is the
+   major mineral clast. Small lithic clasts make up  Radiogenic age dating
+   about ~5 % of the sample (figure 6).              Dalrymple and Ryder (1996) determined an Ar/Ar
+                                                          plateau age of 3.887 ± 0.016 b.y. (figure 9) - finding
+                                                             that this sample is probably an impact melt from   Mineralogy
+                                                                Serenitatis.   Olivine: Olivine is Fo70-86.
+
+                                           Cosmogenic isotopes and exposure ages   Pyroxene:  Warner et al. (1978) determined the
+                                                   Arvidson et al. (1976) reported an exposure age of 107   composition of pyroxene in the matrix and in clasts of
+                                                        m.y. by 81Kr.   72535 (figure 7).
+
+                                                 Processing   Plagioclase: Plagioclase ranges from An97 to An72.
+                                                   There are only one thin section each for these two
+   Ilmenite: Engelhardt (1997) reported ilmenite.        samples, but they appear identical.
+
+   Chemistry
+   Laul and Schmitt (1975) and Dalrymple and Ryder
+   (1996) have analyzed 72535 and find that it is similar     Summary of Age Data for 72535
+    to the nearby boulder #2 (figure 8). The sample has                                 Ar/Ar
+                                                                 Dalrymple and Ryder 1996  3.887 ± 0.016 b.y.
+   high meteoritic siderophiles (Ni 250 ppm, Ir 7 ppb).
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 72535.
+                                              72536       72536
+     reference  Dalrymple96  Laul75     Warner77   Murali77      Warner77
+     weight
+    SiO2 %    45.6      (b)             47.9    (c )                46.7    (c )
+    TiO2      1.5        (b)  1.4     (a)  1.68    (c ) 1.4         (a)  1.68    (c )
+    Al2O3     17.7      (b)  17.8    (a)  18.1    (c ) 17.1       (a)  18.2    (c )
+   FeO       9.1        (a)  8.4     (a)  8.7      (c ) 10         (a)  8.8      (c )
+   MnO      0.11       (b)  0.099  (a)  0.13    (c ) 0.12       (a)  0.13    (c )
+   MgO      13.2      (b)  11      (a)  10.6    (c ) 11         (a)  11.1     (c )
+   CaO       11.2       (b)  11.2    (a)  11.9    (c ) 10.6       (a)  11.5     (c )
+   Na2O     0.56      (a)  0.58    (a)  0.54    (c ) 0.53       (a)  0.57    (c )
+   K2O      0.32      (a)  0.13    (a)  0.07    (c ) 0.21       (a)  0.21    (c )
+   P2O5                              0.27    (c )                0.3      (c )
+   S %
+    sum
+
+    Sc ppm   19.3      (a) 16      (a)            19         (a)
+   V                    40      (a)            60         (a)
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 72535.
+                                              72536       72536
+     reference  Dalrymple96  Laul75     Warner77   Murali77      Warner77
+     weight
+    SiO2 %    45.6      (b)             47.9    (c )                46.7    (c )
+    TiO2      1.5        (b)  1.4     (a)  1.68    (c ) 1.4         (a)  1.68    (c )
+    Al2O3     17.7      (b)  17.8    (a)  18.1    (c ) 17.1       (a)  18.2    (c )
+   FeO       9.1        (a)  8.4     (a)  8.7      (c ) 10         (a)  8.8      (c )
+   MnO      0.11       (b)  0.099  (a)  0.13    (c ) 0.12       (a)  0.13    (c )
+--- references block 3; lines 64-74 ---
+Os ppb
+       Ir ppb     7          (a)                      4           (a)
+     Pt ppb
+    Au ppb    12.3      (a)                          1.5         (a)
+    Th ppm    4.3        (a)  3.4     (a)              2.5         (a)
+   U ppm    1.33      (a)
+     technique:  (a) INAA, (b) Fused bead, (c ) broad beam e-probe
+
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 5-17 ---
+Muehlberger W.R. and many others (1973)  Preliminary
+                                                            Geological Investigation of the Apollo 17 Landing Site. In
+                                                        Apollo 17 Preliminary Science Report. NASA SP-330.
+
+         Figure 9: Ar/Ar plateau age diagram for 72535                                                          Murali A.V., Ma M.-S., Laul J.C. and Schmitt R.A. (1977a)
+          (from Dalrymple and Ryder 1996).                                                       Chemical composition of breccias, feldspathic basalt and
+                                                               anorthosites from Apollo 15 (15308, 15359,15382, and
+                                                            15362), Apollo 16 (60618 and 65785), Apollo 17 (72434,
+                                                         72536, 72559, 72735, 72738, 78526, and 78527) and Luna
+                                                    20 (22012 and 22013) (abs). Lunar Sci. VIII, 700-702.
+     References for 72535                             Lunar Planetary Institute, Houston.
+     Arvidson R., Drozd R., Guiness E., Hohenberg C., Morgan
+--- chemistry block 2; lines 34-46 ---
+Conf. 677-694.                                        280.
+
+      Keil K., Dowty E. and Prinz M. (1974)  Description,
+       classification and inventory of 113 Apollo 17 rake samples
+     from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.
+
+      Laul J.C. and Schmitt R.A. (1975c) Chemical composition
+      of Apollo 17 samples: Boulder breccias (2), rake breccias
+       (8), and others. Lunar Planet. Sci. VI, 489-491. Lunar
+      Planetary Institute, Houston.
+--- mineralogy block 3; lines 26-38 ---
+Catalogue of Apollo 17 rake samples from Stations la, 2, 7,
+     Dalrymple G.B. and Ryder G. (1996) Argon-40/argon-39  and 8. Spec. Publ. #18, UNM Institute of Meteoritics,
+     age spectra of Apollo 17 highlands breccia samples by   Albuquerque. 88 pp.
+       laser step heating and the age of the Serenitatis basin.  J.
+     Geophys. Res. 101, 26069-26084.                     Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+      Engelhardt W. von (1979) Ilmenite in the crystallization   geologic investigation of the Taurus-Littrow Valley: Apollo
+     sequence of lunar rocks.  Proc. 10th Lunar Planet. Sci.  17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+      Conf. 677-694.                                        280.
+
+      Keil K., Dowty E. and Prinz M. (1974)  Description,
+       classification and inventory of 113 Apollo 17 rake samples
+     from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.
+--- material block 4; lines 5-47 ---
+Muehlberger W.R. and many others (1973)  Preliminary
+                                                            Geological Investigation of the Apollo 17 Landing Site. In
+                                                        Apollo 17 Preliminary Science Report. NASA SP-330.
+
+         Figure 9: Ar/Ar plateau age diagram for 72535                                                          Murali A.V., Ma M.-S., Laul J.C. and Schmitt R.A. (1977a)
+          (from Dalrymple and Ryder 1996).                                                       Chemical composition of breccias, feldspathic basalt and
+                                                               anorthosites from Apollo 15 (15308, 15359,15382, and
+                                                            15362), Apollo 16 (60618 and 65785), Apollo 17 (72434,
+                                                         72536, 72559, 72735, 72738, 78526, and 78527) and Luna
+                                                    20 (22012 and 22013) (abs). Lunar Sci. VIII, 700-702.
+     References for 72535                             Lunar Planetary Institute, Houston.
+     Arvidson R., Drozd R., Guiness E., Hohenberg C., Morgan
+      C., Morrison R. and Oberbeck V. (1976) Cosmic ray  Ryder G. (1993c) Catalog of Apollo 17 rocks: Stations 2
+      exposure ages of Apollo 17 samples and the age of Tycho.  and 3. Curators Office JSC#26088.
+      Proc. 7th Lunar Sci. Conf. 2817-2832.
+                                                      Warner R.D., Taylor G.J. and Keil K. (1977b) Petrology of
+     Dalrymple G.B. and Ryder G. (1996) 40Ar/39Ar  laser   crystalline matrix breccias from Apollo 17 rake samples.
+      step heating ages of some Apollo 17 melt rocks and the   Proc. 8th Lunar Sci. Conf. 1987-2006.
+     age of the Serenitatis impact (abs). Lunar Planet. Sci.
+     XXVII, 285-286. Lunar Planetary Institute, Houston.     Warner R.D., Keil K., Nehru C.E. and Taylor G.J. (1978)
+                                                          Catalogue of Apollo 17 rake samples from Stations la, 2, 7,
+     Dalrymple G.B. and Ryder G. (1996) Argon-40/argon-39  and 8. Spec. Publ. #18, UNM Institute of Meteoritics,
+     age spectra of Apollo 17 highlands breccia samples by   Albuquerque. 88 pp.
+       laser step heating and the age of the Serenitatis basin.  J.
+     Geophys. Res. 101, 26069-26084.                     Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+      Engelhardt W. von (1979) Ilmenite in the crystallization   geologic investigation of the Taurus-Littrow Valley: Apollo
+     sequence of lunar rocks.  Proc. 10th Lunar Planet. Sci.  17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+      Conf. 677-694.                                        280.
+
+      Keil K., Dowty E. and Prinz M. (1974)  Description,
+       classification and inventory of 113 Apollo 17 rake samples
+     from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.
+
+      Laul J.C. and Schmitt R.A. (1975c) Chemical composition
+      of Apollo 17 samples: Boulder breccias (2), rake breccias
+       (8), and others. Lunar Planet. Sci. VI, 489-491. Lunar
+      Planetary Institute, Houston.
+--- age block 5; lines 4-38 ---
+Wolfe et al. (1981)
+
+                                                        Muehlberger W.R. and many others (1973)  Preliminary
+                                                            Geological Investigation of the Apollo 17 Landing Site. In
+                                                        Apollo 17 Preliminary Science Report. NASA SP-330.
+
+         Figure 9: Ar/Ar plateau age diagram for 72535                                                          Murali A.V., Ma M.-S., Laul J.C. and Schmitt R.A. (1977a)
+          (from Dalrymple and Ryder 1996).                                                       Chemical composition of breccias, feldspathic basalt and
+                                                               anorthosites from Apollo 15 (15308, 15359,15382, and
+                                                            15362), Apollo 16 (60618 and 65785), Apollo 17 (72434,
+                                                         72536, 72559, 72735, 72738, 78526, and 78527) and Luna
+                                                    20 (22012 and 22013) (abs). Lunar Sci. VIII, 700-702.
+     References for 72535                             Lunar Planetary Institute, Houston.
+     Arvidson R., Drozd R., Guiness E., Hohenberg C., Morgan
+      C., Morrison R. and Oberbeck V. (1976) Cosmic ray  Ryder G. (1993c) Catalog of Apollo 17 rocks: Stations 2
+      exposure ages of Apollo 17 samples and the age of Tycho.  and 3. Curators Office JSC#26088.
+      Proc. 7th Lunar Sci. Conf. 2817-2832.
+                                                      Warner R.D., Taylor G.J. and Keil K. (1977b) Petrology of
+     Dalrymple G.B. and Ryder G. (1996) 40Ar/39Ar  laser   crystalline matrix breccias from Apollo 17 rake samples.
+      step heating ages of some Apollo 17 melt rocks and the   Proc. 8th Lunar Sci. Conf. 1987-2006.
+     age of the Serenitatis impact (abs). Lunar Planet. Sci.
+     XXVII, 285-286. Lunar Planetary Institute, Houston.     Warner R.D., Keil K., Nehru C.E. and Taylor G.J. (1978)
+                                                          Catalogue of Apollo 17 rake samples from Stations la, 2, 7,
+     Dalrymple G.B. and Ryder G. (1996) Argon-40/argon-39  and 8. Spec. Publ. #18, UNM Institute of Meteoritics,
+     age spectra of Apollo 17 highlands breccia samples by   Albuquerque. 88 pp.
+       laser step heating and the age of the Serenitatis basin.  J.
+     Geophys. Res. 101, 26069-26084.                     Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+      Engelhardt W. von (1979) Ilmenite in the crystallization   geologic investigation of the Taurus-Littrow Valley: Apollo
+     sequence of lunar rocks.  Proc. 10th Lunar Planet. Sci.  17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+      Conf. 677-694.                                        280.
+
+      Keil K., Dowty E. and Prinz M. (1974)  Description,
+       classification and inventory of 113 Apollo 17 rake samples
+     from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.
+--- references block 6; lines 10-22 ---
+Figure 9: Ar/Ar plateau age diagram for 72535                                                          Murali A.V., Ma M.-S., Laul J.C. and Schmitt R.A. (1977a)
+          (from Dalrymple and Ryder 1996).                                                       Chemical composition of breccias, feldspathic basalt and
+                                                               anorthosites from Apollo 15 (15308, 15359,15382, and
+                                                            15362), Apollo 16 (60618 and 65785), Apollo 17 (72434,
+                                                         72536, 72559, 72735, 72738, 78526, and 78527) and Luna
+                                                    20 (22012 and 22013) (abs). Lunar Sci. VIII, 700-702.
+     References for 72535                             Lunar Planetary Institute, Houston.
+     Arvidson R., Drozd R., Guiness E., Hohenberg C., Morgan
+      C., Morrison R. and Oberbeck V. (1976) Cosmic ray  Ryder G. (1993c) Catalog of Apollo 17 rocks: Stations 2
+      exposure ages of Apollo 17 samples and the age of Tycho.  and 3. Curators Office JSC#26088.
+      Proc. 7th Lunar Sci. Conf. 2817-2832.
+                                                      Warner R.D., Taylor G.J. and Keil K. (1977b) Petrology of
+     Dalrymple G.B. and Ryder G. (1996) 40Ar/39Ar  laser   crystalline matrix breccias from Apollo 17 rake samples.

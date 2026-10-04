@@ -1,0 +1,219 @@
+DOCUMENT_ID: 76121__compendium__7fb4a7a2b0
+ATLAS_SAMPLE_IDS: 76121
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/76121.pdf
+SOURCE_PDF_SHA256: b27aee5d292013465b04745611dff4eb4768731fb39a65d676673ab6168813dd
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 15-36 ---
+Figure 1: Location of soil sample 76121 at LRV-9 on Apollo 17 map (Meyer 1973). S73-24071
+
+  Introduction                                                         25
+  76120- 76124 is a soil sample collected at LRV – 9 on                                                                              20                      Apollo soils
+  the smooth mare regolith surface.  It did not include
+  large particles and has high maturity.                              15       76121
+                                FeO
+
+                                                                              10  Petrography
+  Morris (1978) determined the maturity index (Is/FeO
+  =71).                                                                        5
+
+                                                                                 0
+  Chemistry                                                                 0       5       10      15      20      25      30      35
+  Korotev and Kremser (1992) reported high FeO content                    Al2O3
+  (figures 2 and 3).                                                                Figure 2: FeO content of 76121compared with
+                                                                    other Apollo soils.
+--- material block 2; lines 1-25 ---
+76121
+                                          Soil
+                                      304 grams
+
+
+
+
+
+                                              76121
+
+
+
+
+
+           Figure 1: Location of soil sample 76121 at LRV-9 on Apollo 17 map (Meyer 1973). S73-24071
+
+  Introduction                                                         25
+  76120- 76124 is a soil sample collected at LRV – 9 on                                                                              20                      Apollo soils
+  the smooth mare regolith surface.  It did not include
+  large particles and has high maturity.                              15       76121
+                                FeO
+
+                                                                              10  Petrography
+  Morris (1978) determined the maturity index (Is/FeO
+  =71).                                                                        5
+--- treatment block 3; lines 14-30 ---
+Figure 1: Location of soil sample 76121 at LRV-9 on Apollo 17 map (Meyer 1973). S73-24071
+
+  Introduction                                                         25
+  76120- 76124 is a soil sample collected at LRV – 9 on                                                                              20                      Apollo soils
+  the smooth mare regolith surface.  It did not include
+  large particles and has high maturity.                              15       76121
+                                FeO
+
+                                                                              10  Petrography
+  Morris (1978) determined the maturity index (Is/FeO
+  =71).                                                                        5
+
+                                                                                 0
+  Chemistry                                                                 0       5       10      15      20      25      30      35
+  Korotev and Kremser (1992) reported high FeO content                    Al2O3
+  (figures 2 and 3).                                                                Figure 2: FeO content of 76121compared with
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 76121.
+
+
+  reference  Korotev92
+  weight
+  SiO2 %
+  TiO2
+  Al2O3
+  FeO       14.5      (a)
+  MnO
+  MgO
+  CaO
+  Na2O     0.405     (a)
+  K2O
+  P2O5
+  S %
+  sum
+
+  Sc ppm   43.7      (a)
+  V                                                             Figure 3: Normalized rare-earth-element diagram
+--- material block 2; lines 15-27 ---
+P2O5
+  S %
+  sum
+
+  Sc ppm   43.7      (a)
+  V                                                             Figure 3: Normalized rare-earth-element diagram
+  Cr       2640     (a)                                                  for 76121 showing similarity to mare soil 75061.
+  Co        35.3      (a)
+  Ni        230       (a)
+  Cu
+  Zn
+  Ga
+  Ge ppb
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 76121.
+
+
+  reference  Korotev92
+  weight
+  SiO2 %
+  TiO2
+  Al2O3
+  FeO       14.5      (a)
+  MnO
+--- references block 4; lines 65-74 ---
+Os ppb
+    Ir ppb     7         (a)
+  Pt ppb
+  Au ppb   < 5       (a)
+  Th ppm    1.11      (a)
+  U ppm    0.25      (a)
+  technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 47-58 ---
+Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Office, Houston
+
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+  soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Sci. Conf. 2287-2297.
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- mineralogy block 2; lines 14-26 ---
+References for 76121
+                                                         Morris R.V. (1980) Origins and size distribution of metallic  Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                               iron particles in the lunar regolith. Proc. 11th Lunar Planet.  17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+                                                                     Sci. Conf. 1697-1712.  Catalog. pp. 447.
+
+                                                        Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+                                                               regolith: Chemistry, Mineralogy and Petrology.  Rev.  Reference Pub. 1265, March 1993
+                                                       Geophys. Space Phys. 20, 761-826.
+  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+                                                      Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                            Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The  Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+                                                           geologic investigation of the Taurus-Littrow Valley: Apollo  Space Phys. 13, 567-587.
+                                                   17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- material block 3; lines 10-26 ---
+128 g   15 g  15 g  15 g
+
+
+
+  References for 76121
+                                                         Morris R.V. (1980) Origins and size distribution of metallic  Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                               iron particles in the lunar regolith. Proc. 11th Lunar Planet.  17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+                                                                     Sci. Conf. 1697-1712.  Catalog. pp. 447.
+
+                                                        Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+                                                               regolith: Chemistry, Mineralogy and Petrology.  Rev.  Reference Pub. 1265, March 1993
+                                                       Geophys. Space Phys. 20, 761-826.
+  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+                                                      Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                            Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The  Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+                                                           geologic investigation of the Taurus-Littrow Valley: Apollo  Space Phys. 13, 567-587.
+                                                   17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- material block 4; lines 38-50 ---
+Meyer C. (1973) Apollo 17 Coarse Fines (4-10 mm) Sample
+  Location, Classification and Photo Index. Curator Report.
+  pp. 182.
+
+  Mitchell J.K., Carrier W.D., Costes N.C., Houston W.N.,
+  Scott R.F. and Hovland H.J. (1973) 8. Soil-Mechanics. In
+  Apollo 17 Preliminary Science Rpt. NASA SP-330. pages
+  8-1-22.
+
+  Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Office, Houston
+--- treatment block 5; lines 46-58 ---
+8-1-22.
+
+  Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Office, Houston
+
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+  soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Sci. Conf. 2287-2297.
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- references block 6; lines 8-26 ---
+,0        ,1      ,2      ,3
+                           128 g   15 g  15 g  15 g
+
+
+
+  References for 76121
+                                                         Morris R.V. (1980) Origins and size distribution of metallic  Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                               iron particles in the lunar regolith. Proc. 11th Lunar Planet.  17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+                                                                     Sci. Conf. 1697-1712.  Catalog. pp. 447.
+
+                                                        Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+                                                               regolith: Chemistry, Mineralogy and Petrology.  Rev.  Reference Pub. 1265, March 1993
+                                                       Geophys. Space Phys. 20, 761-826.
+  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+                                                      Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                            Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The  Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+                                                           geologic investigation of the Taurus-Littrow Valley: Apollo  Space Phys. 13, 567-587.
+                                                   17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.

@@ -1,0 +1,179 @@
+DOCUMENT_ID: 15115__compendium__5afccd35af
+ATLAS_SAMPLE_IDS: 15115
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15115.pdf
+SOURCE_PDF_SHA256: 85ef2b37d6d398ec0f6edb359f165a79bf668b7ad680aa114c9e38120dbb3f8a
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 7-19 ---
+Introduction
+                                                15115 is a relatively coarse basalt.  It was collected as
+                                                      a rake sample from station 2, Apollo 15.
+
+                                              Gose et al. (1972) and Pearce et al. (1973) determined
+                                                           the magnetic properties and Ma et al. (1978) reported
+                                                           the chemical composition (see figures).
+
+
+
+
+
+         Figure 1: Photo of 15115. Scale in cm/mm. S77-
+--- chemistry block 2; lines 26-49 ---
+A11
+                                                                                                10
+
+
+                                                                                                     8
+                                            TiO2
+                                                                                                     6
+
+
+                                                                                                     4
+                                                                                                                    A12
+                                                                                                     2                        A15
+                                                                                             15115
+                                                                                                     0
+                                                                                                       0                5                10                15               20
+                                              MgO
+                                                               Figure 3: Chemical composition of 15115 compared
+                                                                  with other Apollo basalts.
+--- material block 3; lines 1-15 ---
+revised
+
+                                               15115
+                                                           Pigeonite Basalt
+                                                             4 grams
+
+                                                 Introduction
+                                                15115 is a relatively coarse basalt.  It was collected as
+                                                      a rake sample from station 2, Apollo 15.
+
+                                              Gose et al. (1972) and Pearce et al. (1973) determined
+                                                           the magnetic properties and Ma et al. (1978) reported
+                                                           the chemical composition (see figures).
+--- material block 4; lines 45-54 ---
+Figure 2: Photomicrographs of thin section                  Figure 4: Normalized rare-earth-element diagram
+       15115,3 by C Meyer @ 50x.                                      for 15115, with 15601 soil for comparison.
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 5; lines 6-18 ---
+Introduction
+                                                15115 is a relatively coarse basalt.  It was collected as
+                                                      a rake sample from station 2, Apollo 15.
+
+                                              Gose et al. (1972) and Pearce et al. (1973) determined
+                                                           the magnetic properties and Ma et al. (1978) reported
+                                                           the chemical composition (see figures).
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-32 ---
+References for 15115  Table 1. Chemical composition of 15115.
+                                                                Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+                                                                 Office, MSC 03209   reference Ma78
+   weight
+   SiO2 %                                           Gose W.A., Pearce G.W., Strangway D.W. and Carnes J.
+   TiO2      1.8       (a)                                    (1972) Magnetism of Apollo 15 samples. In The Apollo
+   Al2O3     9.6       (a)
+                                                    15 Lunar Samples, 415-417.  FeO      20        (a)
+  MnO      0.275    (a)
+  MgO     8         (a)                                   Lofgren G.E., Donaldson C.H. and Usselman T.M. (1975)
+  CaO      10        (a)                                   Geology, petrology and crystallization of Apollo 15 quartz-
+  Na2O     0.306    (a)
+                                                         normative basalts. Proc. 6th Lunar Sci. Conf. 79-99.  K2O      0.055    (a)
+  P2O5
+  S %                                        LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+  sum                                                           description. Science 175, 363-375.
+
+   Sc ppm   45        (a)
+  V        187      (a)                           LSPET (1972b) Preliminary examination of lunar samples.
+   Cr       3051     (a)                                   Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+  Co       41        (a)                               1—6-28.
+   Ni        10        (a)
+  Cu
+   Zn                                    Ma M.-S., Schmitt R.A., Warner R.D., Taylor G.J. and Keil
+  Ga                                                 K. (1978)  Genesis of Apollo 15 olivine normative mare
+  Ge ppb                                                          basalts: Trace element correlations.  Proc. 9th Lunar Sci.
+   As
+                                                           Conf. 523-533.  Se
+  Rb
+   Sr                                                    Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+  Y                                                   Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+   Zr
+--- mineralogy block 2; lines 19-31 ---
+V        187      (a)                           LSPET (1972b) Preliminary examination of lunar samples.
+   Cr       3051     (a)                                   Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+  Co       41        (a)                               1—6-28.
+   Ni        10        (a)
+  Cu
+   Zn                                    Ma M.-S., Schmitt R.A., Warner R.D., Taylor G.J. and Keil
+  Ga                                                 K. (1978)  Genesis of Apollo 15 olivine normative mare
+  Ge ppb                                                          basalts: Trace element correlations.  Proc. 9th Lunar Sci.
+   As
+                                                           Conf. 523-533.  Se
+  Rb
+   Sr                                                    Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+  Y                                                   Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+--- mineralogy block 3; lines 34-46 ---
+Mo
+  Ru                                               Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+  Rh                                                      volumes). Curatoial Branch Pub. # 72, JSC#20787
+   Pd ppb
+   Ag ppb
+  Cd ppb                                              Ryder G. and Steele A. (1988) Chemical dispersion among
+    In ppb                                                 Apollo 15 olivine-normative mare basalts. Proc. 18th Lunar
+   Sn ppb                                                      Planet. Sci. 273-282. Lunar Planetary Institute, Houston.
+   Sb ppb
+   Te ppb
+   Cs ppm                                        Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+  Ba       70        (a)                                       G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+   La         6.3       (a)                                     Preliminary description of Apollo 15 sample environments.
+--- age block 4; lines 5-17 ---
+SiO2 %                                           Gose W.A., Pearce G.W., Strangway D.W. and Carnes J.
+   TiO2      1.8       (a)                                    (1972) Magnetism of Apollo 15 samples. In The Apollo
+   Al2O3     9.6       (a)
+                                                    15 Lunar Samples, 415-417.  FeO      20        (a)
+  MnO      0.275    (a)
+  MgO     8         (a)                                   Lofgren G.E., Donaldson C.H. and Usselman T.M. (1975)
+  CaO      10        (a)                                   Geology, petrology and crystallization of Apollo 15 quartz-
+  Na2O     0.306    (a)
+                                                         normative basalts. Proc. 6th Lunar Sci. Conf. 79-99.  K2O      0.055    (a)
+  P2O5
+  S %                                        LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+  sum                                                           description. Science 175, 363-375.
+--- treatment block 5; lines 25-37 ---
+Ga                                                 K. (1978)  Genesis of Apollo 15 olivine normative mare
+  Ge ppb                                                          basalts: Trace element correlations.  Proc. 9th Lunar Sci.
+   As
+                                                           Conf. 523-533.  Se
+  Rb
+   Sr                                                    Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+  Y                                                   Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+   Zr
+                                                                                   4th Lunar Sci. Conf. 3045-3076.  Nb
+  Mo
+  Ru                                               Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+  Rh                                                      volumes). Curatoial Branch Pub. # 72, JSC#20787
+   Pd ppb
+--- references block 6; lines 1-9 ---
+References for 15115  Table 1. Chemical composition of 15115.
+                                                                Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+                                                                 Office, MSC 03209   reference Ma78
+   weight
+   SiO2 %                                           Gose W.A., Pearce G.W., Strangway D.W. and Carnes J.
+   TiO2      1.8       (a)                                    (1972) Magnetism of Apollo 15 samples. In The Apollo
+   Al2O3     9.6       (a)
+                                                    15 Lunar Samples, 415-417.  FeO      20        (a)
+  MnO      0.275    (a)
+--- references block 7; lines 64-73 ---
+Os ppb
+     Ir ppb
+   Pt ppb
+   Au ppb
+   Th ppm
+  U ppm
+   technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2010

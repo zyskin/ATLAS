@@ -1,0 +1,105 @@
+DOCUMENT_ID: 67736__compendium__5e5f0e6cea
+ATLAS_SAMPLE_IDS: 67736
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67736.pdf
+SOURCE_PDF_SHA256: 64088e157ea0b0552f43590fefe008be52abd9c825c3fe7159f6841f70bf8861
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 3-25 ---
+14.9 grams
+
+
+
+
+
+                    Figure 1: Photo of 67736 with pink spinel. Scale bar in mm. S80-28529
+
+   Introduction
+                                                 Processing   67736 is a rake sample collected from the rim of North
+                                                   There is only one thin section.   Ray Crater – see section on 67701.  It has zap pits
+    (figure3).
+
+                                                67736   Petrography
+   Stoffler  et  al. (1981) describe the matrix as                 14.9 grams
+    “micropoikilitic”.  Photos of the exterior show what
+   appears to be pink spinel (?) grains (not confirmed).
+                                                                     ,0         ,1
+                                                             14.8 g   PB
+   Chemistry
+   None                                                                                                  ,2
+                                                                TS
+   Radiogenic age dating
+--- material block 2; lines 1-23 ---
+67736
+                                 Crystalline Impact Breccia
+                                            14.9 grams
+
+
+
+
+
+                    Figure 1: Photo of 67736 with pink spinel. Scale bar in mm. S80-28529
+
+   Introduction
+                                                 Processing   67736 is a rake sample collected from the rim of North
+                                                   There is only one thin section.   Ray Crater – see section on 67701.  It has zap pits
+    (figure3).
+
+                                                67736   Petrography
+   Stoffler  et  al. (1981) describe the matrix as                 14.9 grams
+    “micropoikilitic”.  Photos of the exterior show what
+   appears to be pink spinel (?) grains (not confirmed).
+                                                                     ,0         ,1
+                                                             14.8 g   PB
+   Chemistry
+   None                                                                                                  ,2
+--- age block 3; lines 19-31 ---
+appears to be pink spinel (?) grains (not confirmed).
+                                                                     ,0         ,1
+                                                             14.8 g   PB
+   Chemistry
+   None                                                                                                  ,2
+                                                                TS
+   Radiogenic age dating
+   Not
+
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 1-7 ---
+Figure 3: Close up photo of pink spinel (?) in 67736. Scale in mm. S72-49553
+
+
+   References for 67736                                        Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s  Reimold W.U., Wacker K. and Wanke H. (1985)
+    Catalog. pp. 370.                                       Composition and evolution of the lunar crust in the Descartes
+--- material block 2; lines 13-31 ---
+In Apollo 16 Preliminary Science Report. NASA SP-315,   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   7-1—7-58.
+
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+   Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+   67515 to 68537:  Sample classification, description and
+    inventory. Curator Catalog, JSC
+
+    Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+     J. and Rehfeldt A. (1981) Distribution and provenance of
+    lunar highland rock types at North Ray Crater, Apollo 16.
+    Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+--- references block 3; lines 1-10 ---
+Figure 3: Close up photo of pink spinel (?) in 67736. Scale in mm. S72-49553
+
+
+   References for 67736                                        Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s  Reimold W.U., Wacker K. and Wanke H. (1985)
+    Catalog. pp. 370.                                       Composition and evolution of the lunar crust in the Descartes
+                                                                 highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic   Res. 90, C449-C506.
+   and chemical description. Science 179, 23-34.

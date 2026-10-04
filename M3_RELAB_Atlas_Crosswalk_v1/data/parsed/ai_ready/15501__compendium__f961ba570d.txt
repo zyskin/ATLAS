@@ -1,0 +1,596 @@
+DOCUMENT_ID: 15501__compendium__f961ba570d
+ATLAS_SAMPLE_IDS: 15501,15531
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15501.pdf
+SOURCE_PDF_SHA256: ac06ea89077721c915da2daddc2d43525c6bc64c649e837cc5b4f191fa92af5d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 7-30 ---
+25
+
+                                                                        Apollo soils                                                                                20       15531        15501
+                                                                                            15511
+
+                                                                                15
+                                FeO
+
+                                                                                10
+
+
+                                                                                  5
+
+
+                                                                                  0
+                                                                                    0       5      10      15      20      25      30      35
+                                                            Al2O3
+                                                               Figure 2: Chemical composition of 15501 and
+                                                         15531 compared with that of other Apollo soils.
+
+
+                                                                                                        200
+
+                                                                                                        180
+--- chemistry block 2; lines 39-51 ---
+15531 was taken. 15501 and 15511 were from the                   60
+        foreground. AS15-82-11126.                                                 40
+
+                                                                                                       20                              Lunar Soils
+   Modal content of soil 15501 and 15531.                                   0
+                                                                                                                       0          20          40           60          80          100         120   From Basu et al. 1981.
+                         15501         15531                              maturity (Is/FeO)
+     Agglutinates           35.1%          23.7                                                               Figure 3: Maturity index and carbon content of
+    Mare Basalt              7.7             15.8                                                             15501.
+   KREEP basalt            1.3              0.8
+    Breccia                 13.1             3.9         Introduction
+     Anorthosite              0.4              0.1         15501 and 15511 were collected from the rim of a
+     Norite                                                      small crater at station 9, while 15531 was collected at
+--- chemistry block 3; lines 54-66 ---
+soil that came with 15505 (a large breccia), 15511 is    Pyroxene                18.6            30.1
+                                                          the soil that came with the rake sample (15515 etc.),     Olivine                  2.7              5.3
+     Ilmenite                  0.3              0.9         and double drive tube 15011/10 was collected near
+    Glass other              11.3             7.1         15531 and 15600 (rake).
+
+   From Carr and Meyer 1974                    Petrography
+     Agglutinates           56.9%          25.6       The maturity index (Is/FeO) of 15501  is 51
+     Basalt                    6.9             22.4         (submature) and that of 15531 is 27 (immature)
+    Breccia                  1.6              0.6                                                      (Morris 1978). Carr and Meyer (1974) and Basu et
+     Plagioclase            6             8                                                                          al. (1981) determined the mineralogic mode for 15501
+    Pyroxene              16              34.9
+                                                 and 15531. There were ~57% agglutinates in 15501     Olivine                  2.6              1.2
+                                                     while 15531, from near the Rille, only had about 25%     Ilmenite                  0.2              0.6
+--- mineralogy block 4; lines 37-70 ---
+ppm  100
+        Figure 1: Tele-photo of edge of Hadley Rille where                 80
+       15531 was taken. 15501 and 15511 were from the                   60
+        foreground. AS15-82-11126.                                                 40
+
+                                                                                                       20                              Lunar Soils
+   Modal content of soil 15501 and 15531.                                   0
+                                                                                                                       0          20          40           60          80          100         120   From Basu et al. 1981.
+                         15501         15531                              maturity (Is/FeO)
+     Agglutinates           35.1%          23.7                                                               Figure 3: Maturity index and carbon content of
+    Mare Basalt              7.7             15.8                                                             15501.
+   KREEP basalt            1.3              0.8
+    Breccia                 13.1             3.9         Introduction
+     Anorthosite              0.4              0.1         15501 and 15511 were collected from the rim of a
+     Norite                                                      small crater at station 9, while 15531 was collected at
+    Gabbro                  0.3              0.6                                                              station 9a (near Hadley Rille). 15501 is the < 1 mm
+     Plagioclase               6.6              7.2
+                                                                 soil that came with 15505 (a large breccia), 15511 is    Pyroxene                18.6            30.1
+                                                          the soil that came with the rake sample (15515 etc.),     Olivine                  2.7              5.3
+     Ilmenite                  0.3              0.9         and double drive tube 15011/10 was collected near
+    Glass other              11.3             7.1         15531 and 15600 (rake).
+
+   From Carr and Meyer 1974                    Petrography
+     Agglutinates           56.9%          25.6       The maturity index (Is/FeO) of 15501  is 51
+     Basalt                    6.9             22.4         (submature) and that of 15531 is 27 (immature)
+    Breccia                  1.6              0.6                                                      (Morris 1978). Carr and Meyer (1974) and Basu et
+     Plagioclase            6             8                                                                          al. (1981) determined the mineralogic mode for 15501
+    Pyroxene              16              34.9
+                                                 and 15531. There were ~57% agglutinates in 15501     Olivine                  2.6              1.2
+                                                     while 15531, from near the Rille, only had about 25%     Ilmenite                  0.2              0.6
+    Glass other               9.8              6.7           agglutinates.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 5; lines 37-68 ---
+ppm  100
+        Figure 1: Tele-photo of edge of Hadley Rille where                 80
+       15531 was taken. 15501 and 15511 were from the                   60
+        foreground. AS15-82-11126.                                                 40
+
+                                                                                                       20                              Lunar Soils
+   Modal content of soil 15501 and 15531.                                   0
+                                                                                                                       0          20          40           60          80          100         120   From Basu et al. 1981.
+                         15501         15531                              maturity (Is/FeO)
+     Agglutinates           35.1%          23.7                                                               Figure 3: Maturity index and carbon content of
+    Mare Basalt              7.7             15.8                                                             15501.
+   KREEP basalt            1.3              0.8
+    Breccia                 13.1             3.9         Introduction
+     Anorthosite              0.4              0.1         15501 and 15511 were collected from the rim of a
+     Norite                                                      small crater at station 9, while 15531 was collected at
+    Gabbro                  0.3              0.6                                                              station 9a (near Hadley Rille). 15501 is the < 1 mm
+     Plagioclase               6.6              7.2
+                                                                 soil that came with 15505 (a large breccia), 15511 is    Pyroxene                18.6            30.1
+                                                          the soil that came with the rake sample (15515 etc.),     Olivine                  2.7              5.3
+     Ilmenite                  0.3              0.9         and double drive tube 15011/10 was collected near
+    Glass other              11.3             7.1         15531 and 15600 (rake).
+
+   From Carr and Meyer 1974                    Petrography
+     Agglutinates           56.9%          25.6       The maturity index (Is/FeO) of 15501  is 51
+     Basalt                    6.9             22.4         (submature) and that of 15531 is 27 (immature)
+    Breccia                  1.6              0.6                                                      (Morris 1978). Carr and Meyer (1974) and Basu et
+     Plagioclase            6             8                                                                          al. (1981) determined the mineralogic mode for 15501
+    Pyroxene              16              34.9
+                                                 and 15531. There were ~57% agglutinates in 15501     Olivine                  2.6              1.2
+                                                     while 15531, from near the Rille, only had about 25%     Ilmenite                  0.2              0.6
+    Glass other               9.8              6.7           agglutinates.
+--- treatment block 6; lines 39-66 ---
+15531 was taken. 15501 and 15511 were from the                   60
+        foreground. AS15-82-11126.                                                 40
+
+                                                                                                       20                              Lunar Soils
+   Modal content of soil 15501 and 15531.                                   0
+                                                                                                                       0          20          40           60          80          100         120   From Basu et al. 1981.
+                         15501         15531                              maturity (Is/FeO)
+     Agglutinates           35.1%          23.7                                                               Figure 3: Maturity index and carbon content of
+    Mare Basalt              7.7             15.8                                                             15501.
+   KREEP basalt            1.3              0.8
+    Breccia                 13.1             3.9         Introduction
+     Anorthosite              0.4              0.1         15501 and 15511 were collected from the rim of a
+     Norite                                                      small crater at station 9, while 15531 was collected at
+    Gabbro                  0.3              0.6                                                              station 9a (near Hadley Rille). 15501 is the < 1 mm
+     Plagioclase               6.6              7.2
+                                                                 soil that came with 15505 (a large breccia), 15511 is    Pyroxene                18.6            30.1
+                                                          the soil that came with the rake sample (15515 etc.),     Olivine                  2.7              5.3
+     Ilmenite                  0.3              0.9         and double drive tube 15011/10 was collected near
+    Glass other              11.3             7.1         15531 and 15600 (rake).
+
+   From Carr and Meyer 1974                    Petrography
+     Agglutinates           56.9%          25.6       The maturity index (Is/FeO) of 15501  is 51
+     Basalt                    6.9             22.4         (submature) and that of 15531 is 27 (immature)
+    Breccia                  1.6              0.6                                                      (Morris 1978). Carr and Meyer (1974) and Basu et
+     Plagioclase            6             8                                                                          al. (1981) determined the mineralogic mode for 15501
+    Pyroxene              16              34.9
+                                                 and 15531. There were ~57% agglutinates in 15501     Olivine                  2.6              1.2
+                                                     while 15531, from near the Rille, only had about 25%     Ilmenite                  0.2              0.6
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 1-11 ---
+Powell (1972) and Ryder and Sherman (1989)
+  cataloged the coarse-fines.
+
+ Chemistry
+  The chemical composition is plotted in figures 2 and
+  4.
+
+ The carbon content of 15501 is 110 or 130 ppm
+  (Cadogen 1972 or Moore et al. 1973)(figure 3).
+
+  Walker and Papike (1981) calcultated that 15501 –
+--- mineralogy block 2; lines 7-19 ---
+The carbon content of 15501 is 110 or 130 ppm
+  (Cadogen 1972 or Moore et al. 1973)(figure 3).
+
+  Walker and Papike (1981) calcultated that 15501 –
+  15511 was composed of about 60 % mare basalt, 20 %
+ KREEP and 5 % grenn glass.
+                                                               Figure 4: Normalized rare-earth-element diagrams
+  Radiogenic age dating                                         for 15501 and 15531 (Korotev 1987).
+  Alexander et al. (1976) produced an isochron (figure
+  6), but it has no real meaning.
+
+                                                Processing Cosmogenic isotopes and exposure ages
+--- material block 3; lines 6-18 ---
+4.
+
+ The carbon content of 15501 is 110 or 130 ppm
+  (Cadogen 1972 or Moore et al. 1973)(figure 3).
+
+  Walker and Papike (1981) calcultated that 15501 –
+  15511 was composed of about 60 % mare basalt, 20 %
+ KREEP and 5 % grenn glass.
+                                                               Figure 4: Normalized rare-earth-element diagrams
+  Radiogenic age dating                                         for 15501 and 15531 (Korotev 1987).
+  Alexander et al. (1976) produced an isochron (figure
+  6), but it has no real meaning.
+--- material block 4; lines 22-38 ---
+seal).  kg and 46Sc = 7 dpm/kg.
+
+
+
+
+
+                                                            Average grain size = 102 microns         Average grain size = 69 microns
+
+
+
+
+
+        Figure 5a: Grain size distribution of 15500 (Graf         Figure 5b: Grain size distribution of 15530 (Graf
+        1993).                                                  1993).
+
+Lunar Sample Compendium
+C Meyer 2012
+--- age block 5; lines 9-26 ---
+(Cadogen 1972 or Moore et al. 1973)(figure 3).
+
+  Walker and Papike (1981) calcultated that 15501 –
+  15511 was composed of about 60 % mare basalt, 20 %
+ KREEP and 5 % grenn glass.
+                                                               Figure 4: Normalized rare-earth-element diagrams
+  Radiogenic age dating                                         for 15501 and 15531 (Korotev 1987).
+  Alexander et al. (1976) produced an isochron (figure
+  6), but it has no real meaning.
+
+                                                Processing Cosmogenic isotopes and exposure ages
+                                                   15500, 15510 and 15530 were returned in a sample  Rancitelli et al. (1972) determined the cosmic-ray-
+                                                           collection bag (#7) placed in ALSRC#2 (which did not  induced activity of 22Na = 62 dpm/kg, 26Al = 74 dpm/
+                                                                 seal).  kg and 46Sc = 7 dpm/kg.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 15501.
+
+
+   reference LSPET72  Laul72    Morgan72      Rancitelli72  Chou74    Duncan75     Korotev87
+   weight                        Ganapathy73  46.6 g
+   SiO2 %   46.21   (a)                                                  46.46      (a)
+   TiO2      1.81    (a) 1.6     (b)                                         1.78       (a)  1.78     (b)
+   Al2O3     12.2    (a) 12.7    (b)                             13.2     (b) 12.54      (a)  12.5     (b)
+  FeO      16.72   (a) 16.5    (b)                             16.7     (b) 16.61      (a)  16.8     (b)
+  MnO      0.22    (a) 0.207   (b)                             0.22     (b) 0.212      (a)  0.21     (b)
+  MgO      10.8    (a)                                                  10.98      (a)  11        (b)
+  CaO      10.25   (a) 10      (b)                             10.4     (b) 10.31      (a)  9.8       (b)
+  Na2O     0.37    (a) 0.377   (b)                             0.38     (b) 0.36       (a)  0.37     (b)
+  K2O      0.16    (a) 0.17    (b)                0.15      (d)             0.158      (a)
+  P2O5     0.17    (a)                                        0.17     (b) 0.184      (a)
+  S %       0.07    (a)                                                    0.08       (a)
+  sum
+
+   Sc ppm             31      (b)                          34       (b)                32.9     (b)
+  V                  139     (b)                          220     (b) 129        (a)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 15501.
+
+
+   reference LSPET72  Laul72    Morgan72      Rancitelli72  Chou74    Duncan75     Korotev87
+   weight                        Ganapathy73  46.6 g
+   SiO2 %   46.21   (a)                                                  46.46      (a)
+   TiO2      1.81    (a) 1.6     (b)                                         1.78       (a)  1.78     (b)
+   Al2O3     12.2    (a) 12.7    (b)                             13.2     (b) 12.54      (a)  12.5     (b)
+  FeO      16.72   (a) 16.5    (b)                             16.7     (b) 16.61      (a)  16.8     (b)
+  MnO      0.22    (a) 0.207   (b)                             0.22     (b) 0.212      (a)  0.21     (b)
+--- references block 3; lines 65-74 ---
+Os ppb
+     Ir ppb                             6.3        (c )                6.3      (c )                5.7       (b)
+   Pt ppb
+  Au ppb                          2.09       (c )                2.4      (c )                1.3       (b)
+   Th ppm    3.1      (a) 3.4     (b)                4.15      (d)  2.9      (b)                3.4       (b)
+  U ppm              1        (b)                1.03      (d)                            0.89     (b)
+   technique:  (a) XRF, (b) INAA, (c ) RNAA, (d) radiation count.
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 4; CATEGORIES: age,chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 2. Chemical composition of 15511
+
+
+  reference  Laul 73     Chou74   Duncan75   Korotev87
+  weight
+  SiO2 %                           46.04   (c )
+  TiO2       1.9        (a)             1.8      (c )  1.8      (a)
+  Al2O3     12.4      (a)  12.5    (a) 12.14   (c )  12.3     (a)
+  FeO       17.4      (a)  15.8    (a) 16.79   (c )  16.9     (a)
+  MnO      0.216     (a)  0.23    (a) 0.215   (c )  0.22     (a)
+  MgO      12        (a)            10.89   (c )  10.9     (a)
+  CaO      10        (a)  9.4     (a) 10.2    (c )  10.3     (a)
+  Na2O     0.369     (a)  0.38    (a) 0.35    (c )  0.39     (a)
+  K2O       0.14      (a)  0.17    (a) 0.153   (c )
+  P2O5                             0.193   (c )
+  S %                               0.08    (c )
+  sum
+
+  Sc ppm   32        (a) 32      (a)              33.1     (a)
+  V        149       (a) 130    (a) 131     (c ) 130      (a)
+--- chemistry block 2; lines 32-44 ---
+Y                                  68.7    (c )              Baedecker P.A., Chou C.-L. and Wasson J.T. (1972) The
+  Zr        ?                    319     (c ) 300      (a)     extralunar component in lunar soils and breccias. Proc. 3rd
+  Nb                                19.9    (c )              Lunar Sci. Conf. 1343-1361.
+  Mo
+  Ru
+  Rh                                                  Baedecker P.A., Chou C.-L., Grunewicz E.B. and Wasson
+  Pd ppb                                                                J.T. (1973) Volatile and siderophile trace elements in Apollo
+  Ag ppb                                            15 samples – geochemical implications. Proc. 4th Lunar
+  Cd ppb                43      (b)
+   In ppb                44      (b)                               Sci. Conf. 1177-1196.
+  Sn ppb
+  Sb ppb                                                 Basford J.R., Dragon J.C., Pepin R.O., Coscio M.R. and
+  Te ppb                                             Murthy V.R. (1973) Krypton and Xenon in lunar fines. Proc.
+--- material block 3; lines 48-74 ---
+Ce       52        (a) 59      (a)            57       (a)    Basu A. and McKay D.S. (1979)  Petrography and
+  Pr                                                    provenance of Apollo 15 soils. Proc. 10th Lunar Sci. Conf.
+  Nd                                        35       (a)
+ Sm        9.1        (a)  9.35    (a)              10.4     (a)    1413-1424.
+  Eu         1.3        (a)  1.15    (a)              1.23     (a)
+  Gd                                               Basu A., McKay D.S., Griffiths S.A. and Nace G. (1981)
+  Tb         1.9        (a)  1.7     (a)              1.95     (a)    Regolith maturation on the Earth and the Moon with an
+  Dy        11         (a)  11      (a)
+  Ho                                                  example from Apollo 15. Proc. 12th Lunar Planet. Sci. Conf.
+  Er                                                     433-449.
+  Tm
+  Yb         6.9        (a)  6.5     (a)              7.2      (a)    Best J.B. and Minkin J.A. (1972) Apollo 15 glasses of impact
+  Lu         0.98      (a)  0.9     (a)              0.98     (a)
+  Hf         6.4        (a)  6.5     (a)              8.1      (a)     origin. In The Apollo 15 Lunar Samples, 34-39. Lunar
+  Ta         1.2        (a)                         1.05     (a)     Planetary Institute, Houston.
+ W ppb
+  Re ppb                                                       Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+  Os ppb
+    Ir ppb                    5.8     (b)              6.4      (a)     Office, MSC 03209
+  Pt ppb
+  Au ppb                2       (b)                          (a)    Carr M.H. and Meyer C.E. (1974) The regolith at the Apollo
+  Th ppm   3          (a) 3       (a)              3.1      (a)    15 site and its stratigraphic implications. Geochem.
+  U ppm     0.7        (a)                         0.81     (a)
+  technique:  (a) INAA, (b) RNAA, (c ) XRF                   Cosmochem, Acta 38, 1183-1197.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- age block 4; lines 22-34 ---
+Co       48        (a) 47      (a) 47      (c )  48.1     (a)          1976).
+  Ni                    213    (b) 197     (c ) 215      (a)
+  Cu                             10      (c )
+  Zn                      14.5    (b) 16      (c )
+                                                  References for 15500, 15510 and 15530.  Ga                     4.65    (b)
+  Ge ppb               325    (a)                         Alexander E.C., Bates A., Coscio M.R., Dragon J.C., Mutthy
+  As                                                            V.R., Pepin R.O. and Venkatesan T.R. (1977) K/Ar dating
+  Se                                                         of lunar soils II. Proc. 7th Lunar Sci. Conf. 625-648.
+  Rb                                  4.9      (c )
+  Sr                               115     (c ) 105      (a)
+  Y                                  68.7    (c )              Baedecker P.A., Chou C.-L. and Wasson J.T. (1972) The
+  Zr        ?                    319     (c ) 300      (a)     extralunar component in lunar soils and breccias. Proc. 3rd
+  Nb                                19.9    (c )              Lunar Sci. Conf. 1343-1361.
+--- references block 5; lines 1-10 ---
+Table 2. Chemical composition of 15511
+
+
+  reference  Laul 73     Chou74   Duncan75   Korotev87
+  weight
+  SiO2 %                           46.04   (c )
+  TiO2       1.9        (a)             1.8      (c )  1.8      (a)
+  Al2O3     12.4      (a)  12.5    (a) 12.14   (c )  12.3     (a)
+  FeO       17.4      (a)  15.8    (a) 16.79   (c )  16.9     (a)
+  MnO      0.216     (a)  0.23    (a) 0.215   (c )  0.22     (a)
+--- references block 6; lines 20-32 ---
+V        149       (a) 130    (a) 131     (c ) 130      (a)
+  Cr        3106      (a) 3200   (a) 3168    (c ) 3220    (a)          Figure 6: Rare gas in 15531 (Alexander et al.
+  Co       48        (a) 47      (a) 47      (c )  48.1     (a)          1976).
+  Ni                    213    (b) 197     (c ) 215      (a)
+  Cu                             10      (c )
+  Zn                      14.5    (b) 16      (c )
+                                                  References for 15500, 15510 and 15530.  Ga                     4.65    (b)
+  Ge ppb               325    (a)                         Alexander E.C., Bates A., Coscio M.R., Dragon J.C., Mutthy
+  As                                                            V.R., Pepin R.O. and Venkatesan T.R. (1977) K/Ar dating
+  Se                                                         of lunar soils II. Proc. 7th Lunar Sci. Conf. 625-648.
+  Rb                                  4.9      (c )
+  Sr                               115     (c ) 105      (a)
+  Y                                  68.7    (c )              Baedecker P.A., Chou C.-L. and Wasson J.T. (1972) The
+--- references block 7; lines 65-74 ---
+Os ppb
+    Ir ppb                    5.8     (b)              6.4      (a)     Office, MSC 03209
+  Pt ppb
+  Au ppb                2       (b)                          (a)    Carr M.H. and Meyer C.E. (1974) The regolith at the Apollo
+  Th ppm   3          (a) 3       (a)              3.1      (a)    15 site and its stratigraphic implications. Geochem.
+  U ppm     0.7        (a)                         0.81     (a)
+  technique:  (a) INAA, (b) RNAA, (c ) XRF                   Cosmochem, Acta 38, 1183-1197.
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 3. Chemical composition of 15531.
+
+
+   reference  Laul 72     Schnetzler72  Baedecker73  Korotov87  Fruchter73  Wanke73  Murthy72
+   weight
+   SiO2 %                                                                   46.4
+   TiO2       2.1      (a)                               2.2      (a) 2.2      (a)  2.17    (a)
+   Al2O3     10      (a)                               9.9      (a) 10      (a)  9.9     (a)
+  FeO       19.5    (a)                             20.9     (a) 20.7    (a)  20.7    (a)
+  MnO      0.248   (a)                             0.22     (a)             0.25    (a)
+  MgO                                                11.3     (a)             11.49   (a)
+  CaO       10.5    (a)                          8        (a)              9.4     (a)
+  Na2O     0.301   (a)                             0.27     (a) 0.29    (a)  0.3     (a)
+  K2O       0.09    (a) 0.091      (c )                          0.09    (a)  0.086  (a)  0.109   (c )
+  P2O5
+  S %
+  sum
+
+   Sc ppm   36      (a)                             40.7     (a) 41      (a)  39.9    (a)
+  V        182     (a)
+--- references block 2; lines 1-10 ---
+Table 3. Chemical composition of 15531.
+
+
+   reference  Laul 72     Schnetzler72  Baedecker73  Korotov87  Fruchter73  Wanke73  Murthy72
+   weight
+   SiO2 %                                                                   46.4
+   TiO2       2.1      (a)                               2.2      (a) 2.2      (a)  2.17    (a)
+   Al2O3     10      (a)                               9.9      (a) 10      (a)  9.9     (a)
+  FeO       19.5    (a)                             20.9     (a) 20.7    (a)  20.7    (a)
+  MnO      0.248   (a)                             0.22     (a)             0.25    (a)
+--- references block 3; lines 65-74 ---
+Os ppb
+     Ir ppb                                 3.4        (b)  2        (a)
+   Pt ppb
+  Au ppb                               1.8        (b)  1        (a)
+   Th ppm    1.8      (a)                             1.19     (a)
+  U ppm                                            0.29     (a)
+   technique:  (a) INAA, (b) RNAA, (c ) IDMS
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 6; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 39-51 ---
+,29    ,30    ,34     ,35     ,36
+        5 g   5 g   2 g    1 g    1 g                                                     15547
+                                                             20.1 g
+
+
+  Chou C.-L., Boynton W.V., Sundberg L.L. and Wasson J.T.                                                 Duncan A.R., Sher M.K., Abraham Y.C., Erlank A.J., Willis
+  (1975)  Volatiles on the surface of Apollo 15 green glass                                                                             J.P. and Ahrens L. (1975)  Interpretation of compositional
+  and trace-element distributions among Apollo 15 soils. Proc.                                                                    variability of Apollo 15 soils. Proc. 6th Lunar Sci. Conf.
+   6th Lunar Sci. Conf. 1701-1727.                                                       2309-2320.
+
+  Compston W., de Laeter J.R. and Vernon M.J. (1972)                                                            Fruchter J.S., Stoeser J.W., Lindstrom M.M. and Goles G.G.
+  Strontium isotope geochemistry of Apollo 15 basalts.  In                                                         (1973) Apollo 15 clastic materials and their relationship to
+  The Apollo 15 Lunar Samples (Chamberlain and Watkins                                                                  local geologic features.  Proc. 4th Lunar Sci. Conf. 1227-
+
+=== PDF PAGE 7; CATEGORIES: age,chemistry,material,references,treatment ===
+--- chemistry block 1; lines 1-9 ---
+Ganapathy R., Morgan J.W., Krahenbuhl U. and Anders E.
+   (1973) Ancient meteoritic components in lunar highland   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   rocks: Clues from trace elements in Apollo 15 and 16  Handbook of Lunar Soils. JSC 19069
+   samples. Proc. 4th Lunar Sci. Conf. 1239-1261.
+                                                    Murthy V.R., Evensen N.M., Jahn B.-M. and Coscio M.R.
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   (1972)  Apollo 14 and 15 samples: Rb-Sr ages, trace
+   Reference Pub. 1265, March 1993                          elements, and lunar evolution. Proc. 3rd Lunar Sci. Conf.
+                                                        1503-1514.
+   Griffiths S.A., Basu A., McKay D.S. and Nace G-A. (1981)
+--- chemistry block 2; lines 13-25 ---
+Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+                                                        Powell B.N. (1972)  Apollo 15 Coarse Fines (4-10mm):
+   Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.  Sample classification, description and inventory. MSC
+   Space Phys. 13, 567-587.                             03228 Curator’s Office JSC
+
+  Helmke P.A., Blanchard D.P., Haskin L.A., Telander K.,  Powell B.N., Aitken F.K. and Weiblen P.W. (1973)
+   Weiss C. and Jacobs J.W. (1973) Major and trace elements   Classification, distribution and origin of lithic fragments from
+   in igneous rocks from Apollo 15. The Moon 8, 129-148.     the Hadley-Apennine region.  Proc. 4th Lunar Sci. Conf.
+                                                         445-460.
+   Kaplan I.R., Kerridge J.F. and Petrowski C. (1976) Light
+   element geochemistry of the Apollo 15 site. Proc. 7th Lunar   Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+   Sci. Conf. 481-492.                                  (1972)  Lunar surface processes and cosmic ray
+                                                                 characterization from Apollo 12-15 lunar samples analyses.
+--- chemistry block 3; lines 29-41 ---
+Fines. Curators Office #81, JSC#24035
+   Laul J.C., Wakita H., Showalter D.L., Boynton W.V. and
+   Schmitt R.A. (1972)  Bulk, rare earth, and other trace   Schnetzler C.C., Philpotts J.A., Nava D.F., Schuhmann S.
+   elements in Apollo 14 and 15 and Luna 16 samples. Proc.  and Thomas H.H. (1972) Geochemistry of Apollo 15 basalt
+    3rd Lunar Sci. Conf. 1181-1201.                       15555 and soil 15531. Science 175, 426-428.
+
+   Laul J.C. and Schmitt R.A. (1973b) Chemical composition  Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+   of Apollo 15, 16, and 17 samples.  Proc. 4th  Lunar Sci.   G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+   Conf. 1349-1367.                                         Preliminary description of Apollo 15 sample environments.
+                                                            U.S.G.S. Interagency report: 36. pp219 with maps
+  LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+   description. Science 175, 363-375.                   Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+                                                        M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+--- chemistry block 4; lines 45-60 ---
+Geologic Investigation of the Apollo 15 landing site.  In
+  Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total   Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+   carbon contents of Apollo 15 and 16 lunar samples. Proc.   5-1-112.
+    4th Lunar Sci. Conf. 1613-1923.
+                                                      Walker R.J. and Papike J.J. (1981) The Apollo 15 regolith:
+  Morgan J.W., Krahenbuhl U., Ganapathy R. and Anders E.  Chemical modeling and mare/highland mixing. Proc. 12th
+   (1972a) Trace elements in Apollo 15 samples: Implications  Lunar Planet. Sci. Conf. 509-517.
+   for meteorite influx and volatile depletion on the moon. Proc.
+    3rd Lunar Sci. Conf. 1361-1376.                     Wanke H., Baddenhausen H., Balacescu A., Teschke F.,
+                                                                 Spettle B., Dreibus G., Palme H., Quijano-Rico M., Kruse
+   Morris R.V. (1978) The surface exposure (maturity) of lunar   H., Wlotzka F. and Begemann F.  (1972)  Multielement
+   soils: Some concepts and Is/FeO compilation.  Proc. 9th   analyses of Lunar Samples and some implications of the
+  Lunar Planet . Sci. Conf. 2287-2298.                           results. Proc. 3rd Lunar Sci. Conf. 1251-1268.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 5; lines 1-12 ---
+Ganapathy R., Morgan J.W., Krahenbuhl U. and Anders E.
+   (1973) Ancient meteoritic components in lunar highland   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   rocks: Clues from trace elements in Apollo 15 and 16  Handbook of Lunar Soils. JSC 19069
+   samples. Proc. 4th Lunar Sci. Conf. 1239-1261.
+                                                    Murthy V.R., Evensen N.M., Jahn B.-M. and Coscio M.R.
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   (1972)  Apollo 14 and 15 samples: Rb-Sr ages, trace
+   Reference Pub. 1265, March 1993                          elements, and lunar evolution. Proc. 3rd Lunar Sci. Conf.
+                                                        1503-1514.
+   Griffiths S.A., Basu A., McKay D.S. and Nace G-A. (1981)
+   Petrology of Apollo 15 station 9A surface and drive tube  Phakey P.P., Hutcheon I.D., Rajan R.S. and Price B. (1972)
+   soils. Proc. 12th Lunar Sci. Conf. 475-484.                 Radiation effects in soils from five lunar missions. Proc. 3rd
+                                                     Lunar Sci. Conf. 2905-2915.
+--- material block 6; lines 20-39 ---
+in igneous rocks from Apollo 15. The Moon 8, 129-148.     the Hadley-Apennine region.  Proc. 4th Lunar Sci. Conf.
+                                                         445-460.
+   Kaplan I.R., Kerridge J.F. and Petrowski C. (1976) Light
+   element geochemistry of the Apollo 15 site. Proc. 7th Lunar   Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+   Sci. Conf. 481-492.                                  (1972)  Lunar surface processes and cosmic ray
+                                                                 characterization from Apollo 12-15 lunar samples analyses.
+   Korotev R.L. (1987) Mixing levels, the Apennine Front soil   Proc. 3rd Lunar Sci. Conf. 1681-1691.
+   component, and compositional trends in the Apollo 15 soils.
+   Proc. 17th Lunar Planet. Sci. Conf. E411-431.             Ryder G. and Sherman S.B. (1989) The Apollo 15 Coarse
+                                                                Fines. Curators Office #81, JSC#24035
+   Laul J.C., Wakita H., Showalter D.L., Boynton W.V. and
+   Schmitt R.A. (1972)  Bulk, rare earth, and other trace   Schnetzler C.C., Philpotts J.A., Nava D.F., Schuhmann S.
+   elements in Apollo 14 and 15 and Luna 16 samples. Proc.  and Thomas H.H. (1972) Geochemistry of Apollo 15 basalt
+    3rd Lunar Sci. Conf. 1181-1201.                       15555 and soil 15531. Science 175, 426-428.
+
+   Laul J.C. and Schmitt R.A. (1973b) Chemical composition  Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+   of Apollo 15, 16, and 17 samples.  Proc. 4th  Lunar Sci.   G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+   Conf. 1349-1367.                                         Preliminary description of Apollo 15 sample environments.
+                                                            U.S.G.S. Interagency report: 36. pp219 with maps
+  LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+--- material block 7; lines 43-55 ---
+Apollo 15 Preliminary Science Report. NASA SP-289, 6-   G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+  1—6-28.                                                Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary
+                                                        Geologic Investigation of the Apollo 15 landing site.  In
+  Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total   Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+   carbon contents of Apollo 15 and 16 lunar samples. Proc.   5-1-112.
+    4th Lunar Sci. Conf. 1613-1923.
+                                                      Walker R.J. and Papike J.J. (1981) The Apollo 15 regolith:
+  Morgan J.W., Krahenbuhl U., Ganapathy R. and Anders E.  Chemical modeling and mare/highland mixing. Proc. 12th
+   (1972a) Trace elements in Apollo 15 samples: Implications  Lunar Planet. Sci. Conf. 509-517.
+   for meteorite influx and volatile depletion on the moon. Proc.
+    3rd Lunar Sci. Conf. 1361-1376.                     Wanke H., Baddenhausen H., Balacescu A., Teschke F.,
+                                                                 Spettle B., Dreibus G., Palme H., Quijano-Rico M., Kruse
+   Morris R.V. (1978) The surface exposure (maturity) of lunar   H., Wlotzka F. and Begemann F.  (1972)  Multielement
+--- age block 8; lines 18-30 ---
+Helmke P.A., Blanchard D.P., Haskin L.A., Telander K.,  Powell B.N., Aitken F.K. and Weiblen P.W. (1973)
+   Weiss C. and Jacobs J.W. (1973) Major and trace elements   Classification, distribution and origin of lithic fragments from
+   in igneous rocks from Apollo 15. The Moon 8, 129-148.     the Hadley-Apennine region.  Proc. 4th Lunar Sci. Conf.
+                                                         445-460.
+   Kaplan I.R., Kerridge J.F. and Petrowski C. (1976) Light
+   element geochemistry of the Apollo 15 site. Proc. 7th Lunar   Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+   Sci. Conf. 481-492.                                  (1972)  Lunar surface processes and cosmic ray
+                                                                 characterization from Apollo 12-15 lunar samples analyses.
+   Korotev R.L. (1987) Mixing levels, the Apennine Front soil   Proc. 3rd Lunar Sci. Conf. 1681-1691.
+   component, and compositional trends in the Apollo 15 soils.
+   Proc. 17th Lunar Planet. Sci. Conf. E411-431.             Ryder G. and Sherman S.B. (1989) The Apollo 15 Coarse
+                                                                Fines. Curators Office #81, JSC#24035
+   Laul J.C., Wakita H., Showalter D.L., Boynton W.V. and
+--- treatment block 9; lines 49-60 ---
+Walker R.J. and Papike J.J. (1981) The Apollo 15 regolith:
+  Morgan J.W., Krahenbuhl U., Ganapathy R. and Anders E.  Chemical modeling and mare/highland mixing. Proc. 12th
+   (1972a) Trace elements in Apollo 15 samples: Implications  Lunar Planet. Sci. Conf. 509-517.
+   for meteorite influx and volatile depletion on the moon. Proc.
+    3rd Lunar Sci. Conf. 1361-1376.                     Wanke H., Baddenhausen H., Balacescu A., Teschke F.,
+                                                                 Spettle B., Dreibus G., Palme H., Quijano-Rico M., Kruse
+   Morris R.V. (1978) The surface exposure (maturity) of lunar   H., Wlotzka F. and Begemann F.  (1972)  Multielement
+   soils: Some concepts and Is/FeO compilation.  Proc. 9th   analyses of Lunar Samples and some implications of the
+  Lunar Planet . Sci. Conf. 2287-2298.                           results. Proc. 3rd Lunar Sci. Conf. 1251-1268.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- references block 10; lines 1-13 ---
+Ganapathy R., Morgan J.W., Krahenbuhl U. and Anders E.
+   (1973) Ancient meteoritic components in lunar highland   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   rocks: Clues from trace elements in Apollo 15 and 16  Handbook of Lunar Soils. JSC 19069
+   samples. Proc. 4th Lunar Sci. Conf. 1239-1261.
+                                                    Murthy V.R., Evensen N.M., Jahn B.-M. and Coscio M.R.
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   (1972)  Apollo 14 and 15 samples: Rb-Sr ages, trace
+   Reference Pub. 1265, March 1993                          elements, and lunar evolution. Proc. 3rd Lunar Sci. Conf.
+                                                        1503-1514.
+   Griffiths S.A., Basu A., McKay D.S. and Nace G-A. (1981)
+   Petrology of Apollo 15 station 9A surface and drive tube  Phakey P.P., Hutcheon I.D., Rajan R.S. and Price B. (1972)
+   soils. Proc. 12th Lunar Sci. Conf. 475-484.                 Radiation effects in soils from five lunar missions. Proc. 3rd
+                                                     Lunar Sci. Conf. 2905-2915.
+   Heiken G.H. (1974) A catalog of lunar soils. JSC Curator

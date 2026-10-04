@@ -1,0 +1,184 @@
+DOCUMENT_ID: 67746__compendium__8c48a2d0c1
+ATLAS_SAMPLE_IDS: 67746
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67746.pdf
+SOURCE_PDF_SHA256: 3f836fc3fdfd84d8131d36683eb292b48c90bfbbce9c3e1a4423d70a1042aad9
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 16-33 ---
+unusual granoblastic texture and an unusual REE  Radiogenic age dating
+    pattern. Particles like this were pictured by John Wood  Not
+   from the coarse fines of Apollo 11 – causing him to
+   speculate on an anorthositic crust for the moon !.      Processing
+                                                   There are 3 thin sections of 67746.
+   Petrography
+   67746 has > 75 % plagioclase with a granulitic-
+                                                            Mineralogical Mode 67746
+    poikilitic texture (figure 2).  Large pyroxene grains                                                                                            Stoffler et al. 1985
+   completely surround rounded olivine and plagioclase.              Plagioclase       75 – 76 %
+   Ilmenite and metallic Ni-Fe grains are found between            Pyroxene        13 - 25
+   pyroxene oikocrysts. Hansen et al. (1979) gave some             Olivine          10
+                                                                Opaque           0.5   mineral analyses (figure 3).
+
+   Chemistry
+    Stoffler et al. (1985) reported analyses for major
+   elements (table) and REE (figure 4). The REE pattern
+    indicates zircon is present.
+--- material block 2; lines 4-20 ---
+Figure 1: Photo of mm scale, aluminium foil
+         and 67746 (a metamorphic rock). S72-49567
+                                                                 Figure 2: Photomicrograph of thin section 67746,1.
+                                                          2 mm across. (from Ryder and Norman 1980)
+   Introduction
+   67746 is a rake sample collected from the rim of North
+   Ray Crater – see section on 67701.  It has both an
+   unusual granoblastic texture and an unusual REE  Radiogenic age dating
+    pattern. Particles like this were pictured by John Wood  Not
+   from the coarse fines of Apollo 11 – causing him to
+   speculate on an anorthositic crust for the moon !.      Processing
+                                                   There are 3 thin sections of 67746.
+--- age block 3; lines 10-22 ---
+and 67746 (a metamorphic rock). S72-49567
+                                                                 Figure 2: Photomicrograph of thin section 67746,1.
+                                                          2 mm across. (from Ryder and Norman 1980)
+   Introduction
+   67746 is a rake sample collected from the rim of North
+   Ray Crater – see section on 67701.  It has both an
+   unusual granoblastic texture and an unusual REE  Radiogenic age dating
+    pattern. Particles like this were pictured by John Wood  Not
+   from the coarse fines of Apollo 11 – causing him to
+   speculate on an anorthositic crust for the moon !.      Processing
+                                                   There are 3 thin sections of 67746.
+   Petrography
+   67746 has > 75 % plagioclase with a granulitic-
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+67746                     Table 1. Chemical composition of 67746                Di                   Hd
+
+               Hansen et al.
+               1979                                                        reference  Stoffler85    Stoffler85
+                                                                   weight    Borchardt             ,8
+                                                           SiO2 %   46.7     (a)
+                                                              TiO2      0.21     (a) 0.19     (b)
+                                                           Al2O3    24.77    (a) 23.63   (b)
+                                                   FeO      5.46     (a) 5.49     (b)
+                                              MnO      0.07     (a)
+                                              MgO      9.77     (a) 10.52   (b)
+                                                CaO      11.24    (a) 11.64    (b)
+   En                                          Fs  Na2O     0.42     (a) 0.4      (b)
+                                                 K2O      0.05     (a) 0.05     (b)
+    Fo                                        Fa  P2O5     0.01     (a)
+           compiled by C Meyer                                   S %
+                                                     sum
+         Figure 3: Pyroxene and olivine in 67746.            Sc ppm               7.43     (b)
+                                                  V
+                                                               Cr
+--- mineralogy block 2; lines 12-24 ---
+CaO      11.24    (a) 11.64    (b)
+   En                                          Fs  Na2O     0.42     (a) 0.4      (b)
+                                                 K2O      0.05     (a) 0.05     (b)
+    Fo                                        Fa  P2O5     0.01     (a)
+           compiled by C Meyer                                   S %
+                                                     sum
+         Figure 3: Pyroxene and olivine in 67746.            Sc ppm               7.43     (b)
+                                                  V
+                                                               Cr
+                                                    Co                    20.4     (b)
+           67746                                      Ni                  226     (b)
+              3.5 grams                        Cu                                                        Zn
+                                                 Ga
+--- mineralogy block 3; lines 39-51 ---
+16. Lunar Receiving Laboratory. MSC 03210 Curator’s  Sn ppb
+                                                      Sb ppb    Catalog. pp. 370.                                                               Te ppb
+                                                      Cs ppm
+    Hansen E.C., Steele I.M. and Smith J.V. (1979a)  Lunar  Ba                 62       (b)
+    highland rocks: Element partitioning among minerals 1:   La
+                                                    Ce    Electron microprobe analyses of Na, K, and Fe in                                                                 Pr
+    plagioclase; mg partitioning with orthopyroxene. Proc. 10th  Nd
+    Lunar Planet. Sci. Conf. 627-638.                  Sm                   1.06     (b)
+                                                      Eu
+                                                 Gd    Jessberger E.K. (1983) 40Ar-39Ar dating of North Ray Crater                                                        Tb
+     ejecta (abs).  Lunar Planet. Sci. XIV, 349-350.  Lunar  Dy
+    Planetary Institute, Houston.                          Ho
+                                                                 Er
+--- age block 4; lines 42-54 ---
+Hansen E.C., Steele I.M. and Smith J.V. (1979a)  Lunar  Ba                 62       (b)
+    highland rocks: Element partitioning among minerals 1:   La
+                                                    Ce    Electron microprobe analyses of Na, K, and Fe in                                                                 Pr
+    plagioclase; mg partitioning with orthopyroxene. Proc. 10th  Nd
+    Lunar Planet. Sci. Conf. 627-638.                  Sm                   1.06     (b)
+                                                      Eu
+                                                 Gd    Jessberger E.K. (1983) 40Ar-39Ar dating of North Ray Crater                                                        Tb
+     ejecta (abs).  Lunar Planet. Sci. XIV, 349-350.  Lunar  Dy
+    Planetary Institute, Houston.                          Ho
+                                                                 Er
+                                             Tm   LSPET (1973b) The Apollo 16 lunar samples: Petrographic                                                      Yb                    1.75     (b)
+    and chemical description. Science 179, 23-34.             Lu
+                                                                 Hf
+--- references block 5; lines 1-10 ---
+67746                     Table 1. Chemical composition of 67746                Di                   Hd
+
+               Hansen et al.
+               1979                                                        reference  Stoffler85    Stoffler85
+                                                                   weight    Borchardt             ,8
+                                                           SiO2 %   46.7     (a)
+                                                              TiO2      0.21     (a) 0.19     (b)
+                                                           Al2O3    24.77    (a) 23.63   (b)
+                                                   FeO      5.46     (a) 5.49     (b)
+                                              MnO      0.07     (a)
+--- references block 6; lines 31-43 ---
+TS                   TS  TS         Nb
+                                                Mo
+                                                    Ru
+                                                    Rh
+                                                      Pd ppb
+                                                      Ag ppb
+   References for 67746                             Cd ppb
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo    In ppb
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s  Sn ppb
+                                                      Sb ppb    Catalog. pp. 370.                                                               Te ppb
+                                                      Cs ppm
+    Hansen E.C., Steele I.M. and Smith J.V. (1979a)  Lunar  Ba                 62       (b)
+    highland rocks: Element partitioning among minerals 1:   La
+--- references block 7; lines 56-66 ---
+W ppb    In Apollo 16 Preliminary Science Report. NASA SP-315,                                                    Re ppb
+    7-1—7-58.                                        Os ppb
+                                                                                                            Ir ppb
+    Ryder G. and Norman M.D. (1980) Catalog of Apollo 16   Pt ppb
+                                                      Au ppb    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904                                                         Th ppm
+                                              U ppm
+                                                                       technique:  (a) DBA, (b) INAA
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 13-25 ---
+67515 to 68537:  Sample classification, description and   In Geology of the Apollo 16 area, central lunar highlands.
+    inventory. Curator Catalog, JSC                            (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+   Smith J.V., Hansen E.C. and Steele I.M. (1980)  Lunar
+    highland rocks: Element partitioning among minerals II:
+    Electron microprobe analyses of Al, P, Ca, Ti, Cr, Mn and
+   Fe in olivine. Proc. 11th Lunar Planet. Sci. Conf. 555-569.
+
+    Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Reimold W.U., Wacker K. and Wanke H. (1985)
+   Composition and evolution of the lunar crust in the Descartes
+    highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+--- material block 2; lines 6-18 ---
+Figure 4: Normalized rare-earth-element diagram for mostly “granulitic breccias” with 67746
+           shown crossways (from Stoffler et al. 1985)
+
+
+
+   Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+   67515 to 68537:  Sample classification, description and   In Geology of the Apollo 16 area, central lunar highlands.
+    inventory. Curator Catalog, JSC                            (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+   Smith J.V., Hansen E.C. and Steele I.M. (1980)  Lunar
+    highland rocks: Element partitioning among minerals II:
+    Electron microprobe analyses of Al, P, Ca, Ti, Cr, Mn and

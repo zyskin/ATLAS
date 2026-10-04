@@ -1,0 +1,224 @@
+DOCUMENT_ID: 10082__compendium__4ea68dcc60
+ATLAS_SAMPLE_IDS: 10082
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10082.pdf
+SOURCE_PDF_SHA256: 4ad9add2e03c04d08eb0d7874fb4d971d7ef44ceb3927e54f74c7842f3bbc5a5
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 10-31 ---
+bombardment. NASA S76-20463. Sample is about 5 cm.
+
+
+   Introduction
+   10082 is a typical Apollo 11 regolith breccias, made
+   up out of components found in the Apollo 11 soil. The
+   top surface is rounded and covered with numerous        Simon’s Mode for 10082
+   micrometeorite “zap” pits (figure 1). However, it is a                         S    L
+   coherent rock.                                             Mare Basalt                 6.1      4.3
+                                                                     Highland Component        0.2      0.2
+   Petrography                                                       Regolith breccia            1.1      0.5
+                                                                           Agglutinate              12       6.6
+   Simon et al. (1984) included breccia 10082 in their                                                                    Pyroxene                   5.3      0.3
+   comprehensive study of Apollo 11 regolith breccias –           Olivine                     0.4
+    their mode is given in the table. They calculated that           Plagioclase                 2.5      0.5
+     it had about 24 % highland component, but couldn’t           Ilmenite                    1.4
+                                                                  Orange glass                1.5
+    directly identify that many clasts of highland rock.                                                                       Other glass                 2.2      0.2
+                                                                       Matrix                     54.7 %
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-31 ---
+10082
+                                   Regolith Breccia
+                                            50.5 grams
+
+
+
+
+
+         Figure 1: Photo of 10082,1 with white clast. NASA S76-20463. Note the rounded surface due to meteorite
+        bombardment. NASA S76-20463. Sample is about 5 cm.
+
+
+   Introduction
+   10082 is a typical Apollo 11 regolith breccias, made
+   up out of components found in the Apollo 11 soil. The
+   top surface is rounded and covered with numerous        Simon’s Mode for 10082
+   micrometeorite “zap” pits (figure 1). However, it is a                         S    L
+   coherent rock.                                             Mare Basalt                 6.1      4.3
+                                                                     Highland Component        0.2      0.2
+   Petrography                                                       Regolith breccia            1.1      0.5
+                                                                           Agglutinate              12       6.6
+   Simon et al. (1984) included breccia 10082 in their                                                                    Pyroxene                   5.3      0.3
+   comprehensive study of Apollo 11 regolith breccias –           Olivine                     0.4
+    their mode is given in the table. They calculated that           Plagioclase                 2.5      0.5
+     it had about 24 % highland component, but couldn’t           Ilmenite                    1.4
+                                                                  Orange glass                1.5
+    directly identify that many clasts of highland rock.                                                                       Other glass                 2.2      0.2
+                                                                       Matrix                     54.7 %
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 1-22 ---
+25
+                                                                                20                      Apollo soils
+                                                                                              10082            breccia
+
+                                                                                15
+                                 FeO          10084
+
+                                                                                10
+
+
+                                                                                    5
+
+
+                                                                                    0
+                                                                                      0       5       10      15      20      25      30      35
+                                                             Al2O3
+
+                                                                    Figure 3: Composition of 10082 compared with
+                                                                              that of Apollo soil samples.
+
+
+                                                                                               1000
+--- chemistry block 2; lines 35-47 ---
+figure 1 has never been studied!                                        La Ce  Pr Nd Sm Eu Gd Tb Dy Ho  Er Tm Yb Lu
+
+   Chemistry
+   Rhodes and Blanchard (1981) found that the        Figure 4: Normalized rare earth element diagram
+    composition of 10082 was different from the other         for breccia 10082 compared with soil 10084 (data
+    regolith breccias and 10084 (figure 3 and 4).  It has a       from Wiesmann et al. 1975).
+    higher content of FeO – perhaps because the chip
+    analyzed contained a clast of mare basalt.
+
+   Processing
+   Apollo 11 samples were originally described and
+    cataloged in 1969 and “recataloged” by Kramer et al.
+    (1977). There are 3 thin sections.
+--- material block 3; lines 1-9 ---
+25
+                                                                                20                      Apollo soils
+                                                                                              10082            breccia
+
+                                                                                15
+                                 FeO          10084
+
+                                                                                10
+--- material block 4; lines 13-48 ---
+0
+                                                                                      0       5       10      15      20      25      30      35
+                                                             Al2O3
+
+                                                                    Figure 3: Composition of 10082 compared with
+                                                                              that of Apollo soil samples.
+
+
+                                                                                               1000
+
+         Figure 2: Thin section photomicrograph of 10082,8
+                                                                                 10082         showing abundant mineral clasts and less matrix.               100
+       NASA S76-26284. Scale about 2.5 mm.                    sample/
+                                                                                        chondrite
+                                                                                                  10                                    10084
+
+
+   Simon et al. noted that 10082 had fewer clasts of              1
+    highland rock that any of the other regolith breccias
+    they studied. However, the large white clast seen in
+                                                                                                                   0.1
+    figure 1 has never been studied!                                        La Ce  Pr Nd Sm Eu Gd Tb Dy Ho  Er Tm Yb Lu
+
+   Chemistry
+   Rhodes and Blanchard (1981) found that the        Figure 4: Normalized rare earth element diagram
+    composition of 10082 was different from the other         for breccia 10082 compared with soil 10084 (data
+    regolith breccias and 10084 (figure 3 and 4).  It has a       from Wiesmann et al. 1975).
+    higher content of FeO – perhaps because the chip
+    analyzed contained a clast of mare basalt.
+
+   Processing
+   Apollo 11 samples were originally described and
+    cataloged in 1969 and “recataloged” by Kramer et al.
+    (1977). There are 3 thin sections.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-18 ---
+Table 1. Chemical composition of 10082.      References for 10082
+                                                          Fruland Ruth M. (1983)  Regolith Breccia Workbook.
+    reference Rhodes81                                                                 Curatorial Branch Publication # 66. JSC 19045.    weight
+   SiO2 %   42.5     (a)
+    TiO2      8.01     (a)                                   Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,
+   Al2O3    12.55    (a)
+   FeO      16.29    (a)                            Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+   MnO      0.25     (a)                                   abundances by instrumental activation analyses in chips
+   MgO      7.86     (a)
+   CaO      11.79    (a)                                  from 27 lunar rocks.  Proc. Apollo 11 Lunar Sci. Conf.
+   Na2O     0.46     (a)                                    1165-1176.
+   K2O      0.19     (a)
+   P2O5     0.15     (a)
+   S %                                               King E.A. and a cast of thousands (1969) Lunar Sample
+   sum                                                 Information Catalog, Apollo 11.  Lunar Receiving
+   Sc ppm   62       (b)                                       Laboratory, MSC 412 pp
+   V        47       (b)
+    Cr       2190    (b)
+--- material block 2; lines 1-8 ---
+Table 1. Chemical composition of 10082.      References for 10082
+                                                          Fruland Ruth M. (1983)  Regolith Breccia Workbook.
+    reference Rhodes81                                                                 Curatorial Branch Publication # 66. JSC 19045.    weight
+   SiO2 %   42.5     (a)
+    TiO2      8.01     (a)                                   Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,
+   Al2O3    12.55    (a)
+   FeO      16.29    (a)                            Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+   MnO      0.25     (a)                                   abundances by instrumental activation analyses in chips
+--- material block 3; lines 23-35 ---
+Ga       8         (b)
+   Ge ppb                                             LSPET (1969) Preliminary examination of lunar samples   As
+   Se                                                 from Apollo 11. Science 165, 1211-1227.
+   Rb        3.6      (b)
+    Sr       154      (b)
+   Y        110      (b)                                   Phinney W.C., McKay D.S., Simonds C.H. and Warner
+    Zr       337      (b)                                           J.L. (1976a)  Lithification of vitric- and clastic-matrix
+   Nb       19       (b)
+   Mo                                                            breccias: SEM photography. Proc. 7th Lunar Sci. Conf.
+   Ru                                                   2469-2492.
+   Rh
+   Pd ppb
+   Ag ppb                                             Rhodes J.M. and Blanchard D.P. (1981) Apollo 11 breccias
+--- material block 4; lines 41-53 ---
+Cs ppm                                                 Schmitt H.H., Lofgren G., Swann G.A. and Simmons G.
+   Ba       229      (b)                                     (1970) The Apollo 11 samples: Introduction. Proc. Apollo
+   La        18.1     (b)
+                                                         11 Lunar Science Conf. 1-54.   Ce       53       (b)
+    Pr
+   Nd                                                   Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology   Sm       14.8     (b)
+   Eu        1.73     (b)                                        of Apollo 11 regolith breccias. Proc. 15th Lunar Planet.
+   Gd                                                                Sci. Conf. in J. Geophys. Res. 89, C109-132.
+   Tb        2.8      (b)
+   Dy
+   Ho
+    Er
+   Tm
+--- references block 5; lines 1-9 ---
+Table 1. Chemical composition of 10082.      References for 10082
+                                                          Fruland Ruth M. (1983)  Regolith Breccia Workbook.
+    reference Rhodes81                                                                 Curatorial Branch Publication # 66. JSC 19045.    weight
+   SiO2 %   42.5     (a)
+    TiO2      8.01     (a)                                   Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,
+   Al2O3    12.55    (a)
+   FeO      16.29    (a)                            Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+   MnO      0.25     (a)                                   abundances by instrumental activation analyses in chips
+   MgO      7.86     (a)
+--- references block 6; lines 60-69 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm   2.6      (b)
+   U ppm
+    technique: (a) XRF, (b) INAA
+
+Lunar Sample Compendium
+C Meyer 2011

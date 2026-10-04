@@ -1,0 +1,738 @@
+DOCUMENT_ID: 60016__compendium__28288e8a1b
+ATLAS_SAMPLE_IDS: 60016
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60016.pdf
+SOURCE_PDF_SHA256: baed0ebf2fb5227b5f5c3979ac417406c291092e2d3448285f7130ed83fd5dd7
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 3-22 ---
+4307 grams
+
+
+
+
+
+          Figure 1: Photo of 60016 showing large glass-lined micrometeorite crater with significant spall zone.
+          Glass lining about 0.8 cm in size. Sample is about 15 cm across. NASA S72-43840.
+
+
+   Introduction                                    Morrison et al. (1973) and Neukum et al. (1973) studied
+   Lunar sample 60016 was found near the Lunar Module   the size distribution of micrometeorite craters, which
+   and collected at the end of the third EVA. It is regarded   are found on all surfaces. Figure 1 nicely illustrates a
+   as an “ancient” regolith breccia, presumably formed   large glass-lined crater and its spall zone .
+   during the period of basin formation (McKay et al.
+   1986).  It has a light grey matrix with both light and  Ridley (in Butler 1972) described rare brown “staining
+   dark clasts. Ryder and Norman (1980) described this   associated with metal”. Hunter and Taylor (1981) also
+   rock as a fragmental polymict breccia.                 reported rust.
+--- material block 2; lines 1-25 ---
+60016
+                              Ancient Regolith Breccia
+                                       4307 grams
+
+
+
+
+
+          Figure 1: Photo of 60016 showing large glass-lined micrometeorite crater with significant spall zone.
+          Glass lining about 0.8 cm in size. Sample is about 15 cm across. NASA S72-43840.
+
+
+   Introduction                                    Morrison et al. (1973) and Neukum et al. (1973) studied
+   Lunar sample 60016 was found near the Lunar Module   the size distribution of micrometeorite craters, which
+   and collected at the end of the third EVA. It is regarded   are found on all surfaces. Figure 1 nicely illustrates a
+   as an “ancient” regolith breccia, presumably formed   large glass-lined crater and its spall zone .
+   during the period of basin formation (McKay et al.
+   1986).  It has a light grey matrix with both light and  Ridley (in Butler 1972) described rare brown “staining
+   dark clasts. Ryder and Norman (1980) described this   associated with metal”. Hunter and Taylor (1981) also
+   rock as a fragmental polymict breccia.                 reported rust.
+
+
+
+Lunar Sample Compendium
+C Meyer 2009
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 11-23 ---
+anorthosite, coarse-and fine-grained poikilitic impact
+                                                           melt, granoblastic material, noritic anorthosite, dark
+                                                       matrix breccias, and several types of glass fragments
+                                                              in various stages of devitrification. Nearly all the dark
+                                                       matrix clasts are aphanitic melts.
+
+                                                60016 has very low maturity (Is/FeO = 0.5) and less
+                                                      than1 % agglutinates (McKay et al. 1986). Simon et
+         Figure 2: Photomicrographs of thin section                                                                         al. (1988) also reported very little “fused regolith”
+         60016,14. Top is plane polarized light; bottom is
+                                                 component.  Both McKay et al. and Simon et al.          partially-crossed polarized light. NASA S72-45690
+                                                   determined the mineralogic mode for 60016, but        and 45695. Scale is 2.5 x.
+                                                       without apparent agreement (compare tables). McKay
+--- mineralogy block 2; lines 7-47 ---
+description. Ryder and Norman (1980) found that it
+                                               was friable with a porous clastic matrix with seriate
+                                                           grain size from several mm downwards. It is polymict
+                                                       with lithic clasts including cataclastic and recrystallized
+                                                              anorthosite, coarse-and fine-grained poikilitic impact
+                                                           melt, granoblastic material, noritic anorthosite, dark
+                                                       matrix breccias, and several types of glass fragments
+                                                              in various stages of devitrification. Nearly all the dark
+                                                       matrix clasts are aphanitic melts.
+
+                                                60016 has very low maturity (Is/FeO = 0.5) and less
+                                                      than1 % agglutinates (McKay et al. 1986). Simon et
+         Figure 2: Photomicrographs of thin section                                                                         al. (1988) also reported very little “fused regolith”
+         60016,14. Top is plane polarized light; bottom is
+                                                 component.  Both McKay et al. and Simon et al.          partially-crossed polarized light. NASA S72-45690
+                                                   determined the mineralogic mode for 60016, but        and 45695. Scale is 2.5 x.
+                                                       without apparent agreement (compare tables). McKay
+                                                              et al. did find agreement using three different
+                                                          techniques.
+
+                                             Mineralogy
+                                                   Pyroxene:  Takeda et al. (1979) reported pyroxene    Mineralogical Mode for 60016
+    (from Simon et al. 1988)                                  analyses (figure 3).
+                              20-90 micron     90-1000 micron
+    Matrix < 20 micron         39.3 %                         Plagioclase: Johan and Christophie (1974) found that
+    Mare basalt              0               0
+                                                           plagioclase was An96-98.   KREEP basalt            0               0
+     Feldspathic basalt                              0.6 %
+     Plutonic rock frag.          0.3 %             2.7            Metal: Misra and Taylor found the metallic iron grains
+     Granulite                                      3.4           were uniformly Ni = 6 %, Co = 0.3-0.4 %. Hunter and
+     Poik. rocks                 0.2             2             Taylor (1981) also reported “rust” around iron grains
+    Impact melts                0.2                7.3
+                                                         within 60016.     Regolith brec.               0.1                0.5
+     Agglutinate                 0.5                2.1
+     Plagioclase                18.2               9.6            Glass: Wentworth and McKay (1988) found that 60016
+     Olivine                  3                  0.6            did not contain glass with mare basalt composition,
+    Pyroxene                   2.7                0.6                                                      but did include glasses with KREEP, LKFM and    Opaques                                       0.1
+    Glass                       2.8             3
+
+Lunar Sample Compendium
+C Meyer 2009
+--- material block 3; lines 2-47 ---
+(Takeda et al. 1979).
+
+                                              Petrography
+                                              Although 60016 has been  studied by many
+                                                               investigators, it has not had an overall petrographic
+                                                              description. Ryder and Norman (1980) found that it
+                                               was friable with a porous clastic matrix with seriate
+                                                           grain size from several mm downwards. It is polymict
+                                                       with lithic clasts including cataclastic and recrystallized
+                                                              anorthosite, coarse-and fine-grained poikilitic impact
+                                                           melt, granoblastic material, noritic anorthosite, dark
+                                                       matrix breccias, and several types of glass fragments
+                                                              in various stages of devitrification. Nearly all the dark
+                                                       matrix clasts are aphanitic melts.
+
+                                                60016 has very low maturity (Is/FeO = 0.5) and less
+                                                      than1 % agglutinates (McKay et al. 1986). Simon et
+         Figure 2: Photomicrographs of thin section                                                                         al. (1988) also reported very little “fused regolith”
+         60016,14. Top is plane polarized light; bottom is
+                                                 component.  Both McKay et al. and Simon et al.          partially-crossed polarized light. NASA S72-45690
+                                                   determined the mineralogic mode for 60016, but        and 45695. Scale is 2.5 x.
+                                                       without apparent agreement (compare tables). McKay
+                                                              et al. did find agreement using three different
+                                                          techniques.
+
+                                             Mineralogy
+                                                   Pyroxene:  Takeda et al. (1979) reported pyroxene    Mineralogical Mode for 60016
+    (from Simon et al. 1988)                                  analyses (figure 3).
+                              20-90 micron     90-1000 micron
+    Matrix < 20 micron         39.3 %                         Plagioclase: Johan and Christophie (1974) found that
+    Mare basalt              0               0
+                                                           plagioclase was An96-98.   KREEP basalt            0               0
+     Feldspathic basalt                              0.6 %
+     Plutonic rock frag.          0.3 %             2.7            Metal: Misra and Taylor found the metallic iron grains
+     Granulite                                      3.4           were uniformly Ni = 6 %, Co = 0.3-0.4 %. Hunter and
+     Poik. rocks                 0.2             2             Taylor (1981) also reported “rust” around iron grains
+    Impact melts                0.2                7.3
+                                                         within 60016.     Regolith brec.               0.1                0.5
+     Agglutinate                 0.5                2.1
+     Plagioclase                18.2               9.6            Glass: Wentworth and McKay (1988) found that 60016
+     Olivine                  3                  0.6            did not contain glass with mare basalt composition,
+    Pyroxene                   2.7                0.6                                                      but did include glasses with KREEP, LKFM and    Opaques                                       0.1
+    Glass                       2.8             3
+
+Lunar Sample Compendium
+C Meyer 2009
+--- treatment block 4; lines 11-23 ---
+anorthosite, coarse-and fine-grained poikilitic impact
+                                                           melt, granoblastic material, noritic anorthosite, dark
+                                                       matrix breccias, and several types of glass fragments
+                                                              in various stages of devitrification. Nearly all the dark
+                                                       matrix clasts are aphanitic melts.
+
+                                                60016 has very low maturity (Is/FeO = 0.5) and less
+                                                      than1 % agglutinates (McKay et al. 1986). Simon et
+         Figure 2: Photomicrographs of thin section                                                                         al. (1988) also reported very little “fused regolith”
+         60016,14. Top is plane polarized light; bottom is
+                                                 component.  Both McKay et al. and Simon et al.          partially-crossed polarized light. NASA S72-45690
+                                                   determined the mineralogic mode for 60016, but        and 45695. Scale is 2.5 x.
+                                                       without apparent agreement (compare tables). McKay
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-31 ---
+highland basalt composition. A few of the glass          1000
+    particles had high Mg/Fe ratios.
+
+
+                                                                                                 100
+   Significant Clasts                                                sample/
+   White Granoblastic ,51 ,53                                          chondrite
+   Figures 9 and 10 show a large white clast (>1 cm).             10
+   There is an analysis of this clast by Wanke et al.
+   (1975)(figure 5) and the granoblastic texture is              1
+                                                                                                                  A16 soils
+    illustrated in figure 6. But is otherwise unstudied.
+                                                                                                                       60016
+  C06                                                                                                         0.1   La      Pr    Sm    Gd    Dy      Er     Yb                                                                               Ce     Nd     Eu     Tb    Ho    Tm     Lu
+   Korotev(1996) found one “unusually mafic glass
+   breccias” clast with high Sc, but low Sm (table 2, figure      Figure 4: Bulk analysis of 60016 compared with
+                                                               Apollo 16 soil (see table 1).    8).
+                                                                                         1000
+   Chemistry                                                                              60016
+                                                                                  Wanke data
+   In general, analyses of the matrix of 60016 agree and
+                                                                                          100
+   are similar to bulk soil (Table 1).  Korotev (1996)
+   analyzed 2 splits of matrix and ~20 clasts (figure 8).    sample/chondrite
+   One unusually mafic glass breccia clast had high Sc,         10
+   but low Sm. Wanke et al. (1975) analyzed a large white
+    clast and two REE-rich clasts (figure 5) as well as the                                                                ,51 (white clast)
+   matrix.  Krahenbuhl et al. (1973) found enrichments          1
+    in volatile elements indicating exposure to a “fumarolic
+   component”. Jovanovic and Reed (1976) reported Ru
+   and Os.                                                                                           0.1     La Ce   Pr Nd  Sm  Eu  Gd  Tb  Dy Ho  Er  Tm  Yb  Lu
+--- mineralogy block 2; lines 36-65 ---
+ppm; dark = 22 ppm; average 30 ppm).  This is
+    significantly less than for soils.
+
+
+
+
+   Mineralogical Mode for 60016
+    (from McKay et al. 1986)(20-500 micron)
+                    Thin Section      Freeze/Thaw      Ultrasonic
+   Mare basalt              0               0               0
+   KREEP basalt            0               0               0
+    Plutonic rock frag.          9.9                8.8                5.2
+    Other lithic                 4.7                0.7                1.8
+    Granulitc                0                  0.4                0.9
+    Poik. Rocks                 3.7                2.9                3.3
+    Subophitic                  3.7                9.5             8
+    Intergranular                4.2                2.3                1.6         Figure 6: Photo of large white clast with
+     Intersertal                0                  0.2                0.2                                                                            granoblastic texture. Thin section
+     Vitric breccia               5.2                2.1                3.9
+                                                                        60016,98. About 2 mm across.    Frag. Breccia               0.5                2.8             3
+    Plagioclase                44.5              43.5            44
+    Olivine                     7.3                5.9                7.4
+    Pyroxene                   1.1             3               3
+   Opaques                 0                  0.3                0.4
+    Glass                      14.2            17                16.2
+    Agglutinate                 0.5                0.2                0.2
+    Spheres                     0.5                0.4                1.2
+
+Lunar Sample Compendium
+C Meyer 2009
+--- material block 3; lines 1-34 ---
+highland basalt composition. A few of the glass          1000
+    particles had high Mg/Fe ratios.
+
+
+                                                                                                 100
+   Significant Clasts                                                sample/
+   White Granoblastic ,51 ,53                                          chondrite
+   Figures 9 and 10 show a large white clast (>1 cm).             10
+   There is an analysis of this clast by Wanke et al.
+   (1975)(figure 5) and the granoblastic texture is              1
+                                                                                                                  A16 soils
+    illustrated in figure 6. But is otherwise unstudied.
+                                                                                                                       60016
+  C06                                                                                                         0.1   La      Pr    Sm    Gd    Dy      Er     Yb                                                                               Ce     Nd     Eu     Tb    Ho    Tm     Lu
+   Korotev(1996) found one “unusually mafic glass
+   breccias” clast with high Sc, but low Sm (table 2, figure      Figure 4: Bulk analysis of 60016 compared with
+                                                               Apollo 16 soil (see table 1).    8).
+                                                                                         1000
+   Chemistry                                                                              60016
+                                                                                  Wanke data
+   In general, analyses of the matrix of 60016 agree and
+                                                                                          100
+   are similar to bulk soil (Table 1).  Korotev (1996)
+   analyzed 2 splits of matrix and ~20 clasts (figure 8).    sample/chondrite
+   One unusually mafic glass breccia clast had high Sc,         10
+   but low Sm. Wanke et al. (1975) analyzed a large white
+    clast and two REE-rich clasts (figure 5) as well as the                                                                ,51 (white clast)
+   matrix.  Krahenbuhl et al. (1973) found enrichments          1
+    in volatile elements indicating exposure to a “fumarolic
+   component”. Jovanovic and Reed (1976) reported Ru
+   and Os.                                                                                           0.1     La Ce   Pr Nd  Sm  Eu  Gd  Tb  Dy Ho  Er  Tm  Yb  Lu
+
+                                                               Figure 5: Normalized rare-earth-element diagram   Goel et al. (1975) determined the nitrogen content of
+                                                                         for 60016 and its clasts (Simon et al. 1988 and Wanke
+--- material block 4; lines 39-61 ---
+Mineralogical Mode for 60016
+    (from McKay et al. 1986)(20-500 micron)
+                    Thin Section      Freeze/Thaw      Ultrasonic
+   Mare basalt              0               0               0
+   KREEP basalt            0               0               0
+    Plutonic rock frag.          9.9                8.8                5.2
+    Other lithic                 4.7                0.7                1.8
+    Granulitc                0                  0.4                0.9
+    Poik. Rocks                 3.7                2.9                3.3
+    Subophitic                  3.7                9.5             8
+    Intergranular                4.2                2.3                1.6         Figure 6: Photo of large white clast with
+     Intersertal                0                  0.2                0.2                                                                            granoblastic texture. Thin section
+     Vitric breccia               5.2                2.1                3.9
+                                                                        60016,98. About 2 mm across.    Frag. Breccia               0.5                2.8             3
+    Plagioclase                44.5              43.5            44
+    Olivine                     7.3                5.9                7.4
+    Pyroxene                   1.1             3               3
+   Opaques                 0                  0.3                0.4
+    Glass                      14.2            17                16.2
+    Agglutinate                 0.5                0.2                0.2
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 60016.
+
+
+     reference McKay 86         Korotev 96  Krahenbuhl73  Wanke 75                  Taylor 74  McKinley84 Simon 88   Garg76
+     weight                                                    ,51     ,22    ,48                    (ave)        161.9 mg
+    SiO2 %                                                 44.3   43     44.7    (c ) 45     (b) 46.3
+    TiO2                                                    0.27                     (c ) 0.29   (b)             0.49    (c )
+    Al2O3                                                  29.5   20     15.9    (c ) 28.2   (b) 16.4        30.1    (c )
+   FeO      4.47    4.6     (c ) 4.13     (c )              4       7.4    11.5    (c ) 4.28   (b) 12          4.33    (c ) 4.41
+   MnO                                                  0.063  0.093  0.12    (c )            0.13        0.049   (c )
+   MgO                                                      3.8    7.63   12.4    (c ) 5.51   (b) 12.9         5.6      (c )
+   CaO      15.7    15.3   (c ) 16       (c )                17.2   11.9   10.8    (c ) 15.9   (b) 11.2        17.2    (c )
+   Na2O     0.47    0.49   (c ) 0.5      (c )                0.31   0.49   0.6     (c ) 0.43   (b) 0.62        0.51    (c )
+   K2O                                                    0.01   0.29   0.33    (c ) 0.1     (b) 0.34        0.081   (c )
+   P2O5
+   S %
+    sum
+
+    Sc ppm   6.72    6.81   (c ) 6.59     (c )                7.43   13.6   15.6    (c ) 10     (b)              6.3      (c ) 6.4
+   V                                                                       29     (b)            23      (c )
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 60016.
+
+
+     reference McKay 86         Korotev 96  Krahenbuhl73  Wanke 75                  Taylor 74  McKinley84 Simon 88   Garg76
+     weight                                                    ,51     ,22    ,48                    (ave)        161.9 mg
+    SiO2 %                                                 44.3   43     44.7    (c ) 45     (b) 46.3
+    TiO2                                                    0.27                     (c ) 0.29   (b)             0.49    (c )
+    Al2O3                                                  29.5   20     15.9    (c ) 28.2   (b) 16.4        30.1    (c )
+   FeO      4.47    4.6     (c ) 4.13     (c )              4       7.4    11.5    (c ) 4.28   (b) 12          4.33    (c ) 4.41
+   MnO                                                  0.063  0.093  0.12    (c )            0.13        0.049   (c )
+--- references block 3; lines 65-75 ---
+Os ppb
+       Ir ppb     7.6     10.1   (c ) 5.1      (c ) 5.66        (a)        15    36      (c )                         6.4      (c )
+     Pt ppb
+    Au ppb    4.6    19      (c ) 4.4      (c ) 5.91        (a)        15    36      (c )                         1.6      (c )
+    Th ppm   1.64    2.31   (c ) 1.73     (c )                        6.9    7.8     (c ) 2.1     (b)             1.46    (c ) 1.2
+   U ppm    0.42    0.53   (c ) 0.42     (c ) 0.655       (a)                           0.51   (b)             0.48    (c )
+     technique:  (a) RNAA, (b) spark source mass spec., (c ) INAA
+
+
+Lunar Sample Compendium
+C Meyer 2009
+
+=== PDF PAGE 5; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-19 ---
+Table 2. Composition of clasts 60016.        Other Studies
+                                        McKay et al. (1986) reported the rare gas content and
+    reference  Korotev96  Schearer90  Wentworth88              isotopic ratios. The high 40Ar/38Ar rations and presence
+    weight      clast        glass beads
+   SiO2 %               51.98        48.3                    of “fission Xe” led these authors to conclude that it is
+    TiO2                  1.33      (b) 0.73         (b)          an “ancient regolith breccia”.
+   Al2O3                16.76        12.69
+   FeO       10.8     (a) 0.76         16.37
+   MnO                               0.27               Adams and McCord (1973) and Charette et al. (1976)
+   MgO                  17.84        7.97                   determined the optical spectra.
+   CaO       11.1       10.16        11.96
+   Na2O      0.4         0.23         0.1
+   K2O                  0.03         0.04                 60016 was used for various magnetic measurements
+   P2O5                 0.02         0.04                   (Nagata et al. 1974, Huffman et al. 1974, Cisowski et
+   S %
+   sum                                                           al 1975 and others). I don’t think they found anything!
+
+   Sc ppm    25.2     (a) 21        (c )                     Processing   V                   74
+    Cr        2130      1682                             Fruland (1983) included 60016 in the regolith breccia
+--- mineralogy block 2; lines 1-10 ---
+Table 2. Composition of clasts 60016.        Other Studies
+                                        McKay et al. (1986) reported the rare gas content and
+    reference  Korotev96  Schearer90  Wentworth88              isotopic ratios. The high 40Ar/38Ar rations and presence
+    weight      clast        glass beads
+   SiO2 %               51.98        48.3                    of “fission Xe” led these authors to conclude that it is
+    TiO2                  1.33      (b) 0.73         (b)          an “ancient regolith breccia”.
+   Al2O3                16.76        12.69
+   FeO       10.8     (a) 0.76         16.37
+   MnO                               0.27               Adams and McCord (1973) and Charette et al. (1976)
+   MgO                  17.84        7.97                   determined the optical spectra.
+--- material block 3; lines 1-25 ---
+Table 2. Composition of clasts 60016.        Other Studies
+                                        McKay et al. (1986) reported the rare gas content and
+    reference  Korotev96  Schearer90  Wentworth88              isotopic ratios. The high 40Ar/38Ar rations and presence
+    weight      clast        glass beads
+   SiO2 %               51.98        48.3                    of “fission Xe” led these authors to conclude that it is
+    TiO2                  1.33      (b) 0.73         (b)          an “ancient regolith breccia”.
+   Al2O3                16.76        12.69
+   FeO       10.8     (a) 0.76         16.37
+   MnO                               0.27               Adams and McCord (1973) and Charette et al. (1976)
+   MgO                  17.84        7.97                   determined the optical spectra.
+   CaO       11.1       10.16        11.96
+   Na2O      0.4         0.23         0.1
+   K2O                  0.03         0.04                 60016 was used for various magnetic measurements
+   P2O5                 0.02         0.04                   (Nagata et al. 1974, Huffman et al. 1974, Cisowski et
+   S %
+   sum                                                           al 1975 and others). I don’t think they found anything!
+
+   Sc ppm    25.2     (a) 21        (c )                     Processing   V                   74
+    Cr        2130      1682                             Fruland (1983) included 60016 in the regolith breccia
+   Co        20.3       4                              guidebook.  Martinez (1985) mapped the slabbed
+    Ni        70
+    Sr        160       130                                surfaces (see figures 9 – 16). There are three slabs of
+   Y                                            60016 and 43 thin sections.
+    Zr                  376
+   Nb
+--- age block 4; lines 48-68 ---
+Au ppb     0.9
+   Th ppm    0.55
+   U ppm     0.16
+    technique  (a) INAA, (b) elec. Probe, (c ) ion probe
+
+
+   Radiogenic age dating
+   Weber and Schultz (1978) reported K-Ar ages of 3.8
+    +/- 0.1 b.y. Cohen et al. (2006, 2007) reported Ar/Ar
+   ages for two clasts (~3.8 b.y).
+
+   Cosmogenic isotopes and exposure ages
+   Weber and Schultz (1978) and Eugster et al. (1999)
+   reported a cosmic ray exposure age of 2.2 +/- 0.6 m.y.
+   (roughly South Ray Crater age?).
+
+
+
+
+Lunar Sample Compendium
+C Meyer 2009
+--- treatment block 5; lines 7-19 ---
+Al2O3                16.76        12.69
+   FeO       10.8     (a) 0.76         16.37
+   MnO                               0.27               Adams and McCord (1973) and Charette et al. (1976)
+   MgO                  17.84        7.97                   determined the optical spectra.
+   CaO       11.1       10.16        11.96
+   Na2O      0.4         0.23         0.1
+   K2O                  0.03         0.04                 60016 was used for various magnetic measurements
+   P2O5                 0.02         0.04                   (Nagata et al. 1974, Huffman et al. 1974, Cisowski et
+   S %
+   sum                                                           al 1975 and others). I don’t think they found anything!
+
+   Sc ppm    25.2     (a) 21        (c )                     Processing   V                   74
+    Cr        2130      1682                             Fruland (1983) included 60016 in the regolith breccia
+--- references block 6; lines 1-9 ---
+Table 2. Composition of clasts 60016.        Other Studies
+                                        McKay et al. (1986) reported the rare gas content and
+    reference  Korotev96  Schearer90  Wentworth88              isotopic ratios. The high 40Ar/38Ar rations and presence
+    weight      clast        glass beads
+   SiO2 %               51.98        48.3                    of “fission Xe” led these authors to conclude that it is
+    TiO2                  1.33      (b) 0.73         (b)          an “ancient regolith breccia”.
+   Al2O3                16.76        12.69
+   FeO       10.8     (a) 0.76         16.37
+   MnO                               0.27               Adams and McCord (1973) and Charette et al. (1976)
+--- references block 7; lines 45-57 ---
+Os ppb
+      Ir ppb      2.1
+    Pt ppb
+   Au ppb     0.9
+   Th ppm    0.55
+   U ppm     0.16
+    technique  (a) INAA, (b) elec. Probe, (c ) ion probe
+
+
+   Radiogenic age dating
+   Weber and Schultz (1978) reported K-Ar ages of 3.8
+    +/- 0.1 b.y. Cohen et al. (2006, 2007) reported Ar/Ar
+   ages for two clasts (~3.8 b.y).
+
+=== PDF PAGE 6; CATEGORIES: material ===
+--- material block 1; lines 7-19 ---
+Figure 7: Band saw cut of second slab (,181) from 60016,16 in 1984. Cube is 1 inch. NASA S84-40925.
+
+
+
+
+
+               Figure 8: Chemical compostion of ancient regolith breccia and clasts (Korotev 1996).
+
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 7; CATEGORIES: material ===
+--- material block 1; lines 1-20 ---
+Figure 9: Photo of sawn surface of butt end (,17) of 60016 after first sawcut showing large white
+             clast (1.5 cm). S73-21532
+
+
+
+
+
+                                   ,53
+
+
+
+
+
+            Figure 10: Photo of exterior surface of butt end (,17) showing large white clast (,51 and ,53).
+            S73-22564. Sample is about 6 inches long.
+
+=== PDF PAGE 12; CATEGORIES: material ===
+--- material block 1; lines 3-21 ---
+,1                ,18                     ,16           PB                                     ,17
+                                                              slab                                                         sawcut 1973                  sawcut 1984                           ,13
+                                                                 ,14
+                                                TS                                                                               ,19                                                           ,20             ,26      ,25     ,18       ,116    ,123    ,114
+                                                                                  column  131 g    128 g  128 g   white             ,16             ,181       203 g   4 g   column
+                                    slab                                                                                                                                    clast                                                                                                        display   display      sawcut 1984
+                                                                                                      ,56       ,55
+          ,16      ,196      ,176   ,175    ,177   ,182    ,181                clast     25 g
+        1681 g   slab                            13.6 g  359 g
+
+           ,188
+              clast          ,210  ,209   ,192   ,196                     ,21     ,23    ,39    ,44    ,53
+          10 g       PB  PB   40 g                     PB   PB   PB   PB   PB                                509 g
+            ,211                              ,229    ,228                                                                                        ,80      ,85     ,89     ,92     ,98
+         PB          TS    TS
+                                                                                        ,84                                                                                                 ,88                                                                                                                  ,97                                                                                                        ,91                                                                                                                   ,100              ,230                                                                                   ,264                                                                      TS                                                                                 TS                                                                           TS                                                                                      TS           TS
+                                                                                   ,266
+                                                                 TS
+
+=== PDF PAGE 14; CATEGORIES: material ===
+--- material block 1; lines 1-5 ---
+Figure 17: Photo and sketch of butt end 60016,16 after third slab removed (Martinez 1985). S84-41701.
+         Thin sections of large clast ,188 are available.
+
+Lunar Sample Compendium
+C Meyer 2009
+
+=== PDF PAGE 15; CATEGORIES: age,material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 6-18 ---
+Butler P. (1972) Lunar Sample Information Catalog Apollo   Sci. Conf. 3397-3410.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     Goel P.S., Shukla P.N., Kothari B.K. and Garg A.N. (1975)
+                                                                Total nitrogen in lunar soils, breccias and rocks. Geochim.
+    Charette M.P. and Adams J.B. (1975)  Agglutinates as  Cosmochim. Acta 39, 1347-1352.
+    indicators of lunar soil maturity: The rare gas evidence at
+   Apollo 16. Proc. 6th Lunar Sci. Conf. 2281-2290.          Haselton J.D. and Nash W.P. (1975) Ilmenite-orthopyroxene
+                                                              intergrowths from the Moon and the Skaergaard intrustion.
+    Charette M.P., Soderblom L.A., Adams J.B., Gaffey M.J.   Earth Planet. Sci. Lett. 287-291.
+   and McCord T.B. (1976) Age-color relationships in the lunar
+    highlands. Proc. 7th Lunar Sci. Conf. 2579-2592.         Huffman G.P., Schwerer F.C., Fisher R.M. and Nagata T.
+                                                          (1974)  Iron distribution and metallic-ferrous ratios for
+    Charette M.P. and Adams J.B. (1977) Spectral reflectance   Apollo lunar samples: Mossbauer and magnetic analyses.
+--- mineralogy block 2; lines 25-38 ---
+Cisowski S.M., Hale C. and Fuller M. (1977) On the intensity
+    of ancient lunar fields. Proc. 8th Lunar Sci. Conf. 725-750.   Janghorbani M., Miller M.D., Ma M-S., Chyi L.L. and
+                                            Ehmann W.D. (1973)  Oxygen and other elemental
+   Cisowski S.M., Collinson D.W., Runcom S.K., Stephenson   abundance data for Apollo 14, 15, 16 and 17 samples. Proc.
+   A. and Fuller M. (1983) A review of lunar paleointensity    4th Lunar Sci. Conf. 1115-1126.
+    data and implications for the origin of lunar magnetism. Proc.
+    13th Lunar Planet. Sci. Conf. A691-A704.                Johan Z. and Christophe M. (1974) Origin of pyroxene and
+                                                                          silica exsolutions in anorthite from 60016,95 polished thin
+   Clayton R.N., Hurd J.M. and Mayeda T.K. (1973) Oxygen   section (abs). Lunar Sci. V, 385-387.
+    isotope compositions of Apollo 15, 16 and 17 samples, and
+    their bearing on lunar origin and petrogenesis.  Proc. 4th   Jovanovic S. and Reed G.W. (1976a) Chemical fractionation
+   Lunar Sci. Conf. 1535-1542.                                of Ru and Os in the Moon. Proc. 7th Lunar Sci. Conf. 3437-
+                                                          3446.
+   Cohen B.A., Symes S.J. and Swindle T.D. (2006)
+--- material block 3; lines 1-17 ---
+References 60016                                Fruland R.M. (1983)  Regolith Breccia Workbook.
+   Adams J.B. and McCord T.B. (1973) Vitrification darkening   Curatorial Branch Publication # 66. JSC 19045.
+    in the lunar highlands and identification of Descartes material
+    at the Apollo 16 site. Proc. 4th Lunar Sci. Conf. 163-177.   Garg A.N. and Ehmann W.N. (1976a) Zr-Hf fractionation
+                                                                    in chemically defined lunar rock groups. Proc. 7th Lunar
+    Butler P. (1972) Lunar Sample Information Catalog Apollo   Sci. Conf. 3397-3410.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     Goel P.S., Shukla P.N., Kothari B.K. and Garg A.N. (1975)
+                                                                Total nitrogen in lunar soils, breccias and rocks. Geochim.
+    Charette M.P. and Adams J.B. (1975)  Agglutinates as  Cosmochim. Acta 39, 1347-1352.
+    indicators of lunar soil maturity: The rare gas evidence at
+   Apollo 16. Proc. 6th Lunar Sci. Conf. 2281-2290.          Haselton J.D. and Nash W.P. (1975) Ilmenite-orthopyroxene
+                                                              intergrowths from the Moon and the Skaergaard intrustion.
+    Charette M.P., Soderblom L.A., Adams J.B., Gaffey M.J.   Earth Planet. Sci. Lett. 287-291.
+   and McCord T.B. (1976) Age-color relationships in the lunar
+    highlands. Proc. 7th Lunar Sci. Conf. 2579-2592.         Huffman G.P., Schwerer F.C., Fisher R.M. and Nagata T.
+                                                          (1974)  Iron distribution and metallic-ferrous ratios for
+--- material block 4; lines 34-46 ---
+isotope compositions of Apollo 15, 16 and 17 samples, and
+    their bearing on lunar origin and petrogenesis.  Proc. 4th   Jovanovic S. and Reed G.W. (1976a) Chemical fractionation
+   Lunar Sci. Conf. 1535-1542.                                of Ru and Os in the Moon. Proc. 7th Lunar Sci. Conf. 3437-
+                                                          3446.
+   Cohen B.A., Symes S.J. and Swindle T.D. (2006)
+   Petrography and chemistry of impact-melt clasts in Apollo   Korotev R.L. (1996) On the relationship between the Apollo
+   16 breccias (abs#1379 ). Lunar Planet. Sci. XXXVII, Lunar  16 ancient regolith breccias and feldspathic fragmental
+    Planetary Institute, Houston.                                  breccias, and the composition of the prebasin crust in the
+                                                              Central Highlands of the Moon. Meteoritics & Planet. Sci.
+   Cohen B.A., Symes S.J., Swindle T.D., Weirich J. and   31, 403-412.
+    Isachsen C. (2007) Ages of Impact-melt clasts in Apollo 16
+    breccias (abs#1006 ). Lunar Planet. Sci. XXXVIII, Lunar   Krahenbuhl U., Ganapathy R., Morgan J.W. and Anders E.
+    Planetary Institute, Houston.                              (1973a) Volatile elements in Apollo 16 samples: Possible
+--- age block 5; lines 9-21 ---
+Total nitrogen in lunar soils, breccias and rocks. Geochim.
+    Charette M.P. and Adams J.B. (1975)  Agglutinates as  Cosmochim. Acta 39, 1347-1352.
+    indicators of lunar soil maturity: The rare gas evidence at
+   Apollo 16. Proc. 6th Lunar Sci. Conf. 2281-2290.          Haselton J.D. and Nash W.P. (1975) Ilmenite-orthopyroxene
+                                                              intergrowths from the Moon and the Skaergaard intrustion.
+    Charette M.P., Soderblom L.A., Adams J.B., Gaffey M.J.   Earth Planet. Sci. Lett. 287-291.
+   and McCord T.B. (1976) Age-color relationships in the lunar
+    highlands. Proc. 7th Lunar Sci. Conf. 2579-2592.         Huffman G.P., Schwerer F.C., Fisher R.M. and Nagata T.
+                                                          (1974)  Iron distribution and metallic-ferrous ratios for
+    Charette M.P. and Adams J.B. (1977) Spectral reflectance   Apollo lunar samples: Mossbauer and magnetic analyses.
+    of lunar highland rocks (abs). Lunar Sci. VIII, 172-174.     Proc. 5th Lunar Sci. Conf. 2779-2794.
+
+   Cisowski C.S., Dunn J.R., Fuller M., Rose M.F. and   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+--- age block 6; lines 49-60 ---
+photometric studies of lunar samples. Phil. Trans. Roy. Soc.
+   London A285, 397-402.                                Krahenbuhl U., Ganapathy R., Morgan J.W. and Anders E.
+                                                    (1973b)  Volatile elements in Apollo 16 samples:
+    Eugster O., Terribilini Dario, Polnau E. and Kramers J.   Implications for highland volcanism and accretion history
+    (2001) The antiquity indicator argon-40/argon-36 for lunar   of the moon. Proc. 4th Lunar Sci. Conf. 1325-1348.
+    surface samples calibrated by uranium-235-xenon-136
+    dating. Meteoritics & Planet. Sci. 36, 1097-1115.        LSPET (1973) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.
+
+
+Lunar Sample Compendium
+C Meyer 2009
+--- treatment block 7; lines 5-24 ---
+in chemically defined lunar rock groups. Proc. 7th Lunar
+    Butler P. (1972) Lunar Sample Information Catalog Apollo   Sci. Conf. 3397-3410.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     Goel P.S., Shukla P.N., Kothari B.K. and Garg A.N. (1975)
+                                                                Total nitrogen in lunar soils, breccias and rocks. Geochim.
+    Charette M.P. and Adams J.B. (1975)  Agglutinates as  Cosmochim. Acta 39, 1347-1352.
+    indicators of lunar soil maturity: The rare gas evidence at
+   Apollo 16. Proc. 6th Lunar Sci. Conf. 2281-2290.          Haselton J.D. and Nash W.P. (1975) Ilmenite-orthopyroxene
+                                                              intergrowths from the Moon and the Skaergaard intrustion.
+    Charette M.P., Soderblom L.A., Adams J.B., Gaffey M.J.   Earth Planet. Sci. Lett. 287-291.
+   and McCord T.B. (1976) Age-color relationships in the lunar
+    highlands. Proc. 7th Lunar Sci. Conf. 2579-2592.         Huffman G.P., Schwerer F.C., Fisher R.M. and Nagata T.
+                                                          (1974)  Iron distribution and metallic-ferrous ratios for
+    Charette M.P. and Adams J.B. (1977) Spectral reflectance   Apollo lunar samples: Mossbauer and magnetic analyses.
+    of lunar highland rocks (abs). Lunar Sci. VIII, 172-174.     Proc. 5th Lunar Sci. Conf. 2779-2794.
+
+   Cisowski C.S., Dunn J.R., Fuller M., Rose M.F. and   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   Wasilewski P.J. (1974)  Impact processes and lunar   in Apollo 16 highland rocks: Manifestations of volatile-
+   magnetism. Proc. 5th Lunar Sci. Conf. 2841-2858.         element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+                                                            259.
+--- references block 8; lines 1-7 ---
+References 60016                                Fruland R.M. (1983)  Regolith Breccia Workbook.
+   Adams J.B. and McCord T.B. (1973) Vitrification darkening   Curatorial Branch Publication # 66. JSC 19045.
+    in the lunar highlands and identification of Descartes material
+    at the Apollo 16 site. Proc. 4th Lunar Sci. Conf. 163-177.   Garg A.N. and Ehmann W.N. (1976a) Zr-Hf fractionation
+                                                                    in chemically defined lunar rock groups. Proc. 7th Lunar
+    Butler P. (1972) Lunar Sample Information Catalog Apollo   Sci. Conf. 3397-3410.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+
+=== PDF PAGE 16; CATEGORIES: material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 29-41 ---
+Nagata T., Fischer R.M., Schwerer F.C., Fuller M.D. and  Weber H.W. and Schultz L. (1978) Rare gases in matrix
+   Dunn J.R. (1973) Magnetic properties and natural remanent  and clast samples of 60016 (abs). Lunar Planet. Sci. IX,
+    magnetization of Apollo 15 and 16 lunar materials. Proc.   1234-1236.
+      4th Lunar Sci. Conf. 3019-3043.
+                                                      Wentworth S..J. and McKay D.S. (1988) Glasses in ancient
+    Nagata T., Sugiura N., Fisher R.M., Schwerer F.C., Fuller  and young Apollo 16 regolith breccias:  Populations and
+   M.D. and Dunn J.R. (1974a) Magnetic properties of Apollo   ultra-Mg glass. Proc. 18th Lunar Planet. Sci. Conf. 67-77.
+    11-17 lunar materials with special reference to effects of
+    meteorite impact. Proc. 5th Lunar Sci. Conf. 2827-2839.    Wilshire H.G., Stuart-Alexander D.E. and Jackson E.D.
+                                                           (1973) Apollo 16 rocks – Petrology and classification.  J.
+    Nagata T., Sugiura N., Fisher R.M., Schwerer F.C., Fuller   Geophys. Res. 78, 2379-2391.
+   M.D. and Dunn J.R. (1974b) Magnetic properties and natural
+    remanent magnetization of Apollo 16 and 17 lunar samples
+--- material block 2; lines 1-16 ---
+LSPET (1972) Preliminary examination of lunar samples.   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Apollo 16 Preliminary Science Report. NASA SP-315, 7-   In Geology of the Apollo 16 area, central lunar highlands.
+   1—7-58.                                                   (Ulrich et al.) U.S.G.S. Prof. Paper 1048.
+
+    Martinez R. R. (1985) Polymict breccia 60016,6. Lunar  Takeda H., Miyamoto M. and Ishii T. (1979) Pyroxenes in
+    Sample Newsletter 43, Appendix 1, 10-22. Curators Office,   the early crustal cumulates found in achondrites and lunar
+    Houston.                                                highland rocks. Proc. 10th Lunar Planet. Sci. Conf. 1095-
+                                                           1107.
+   McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+    Johnson P. and Wentworth S.J. (1986) Apollo 16 regolith   Taylor S.R., Gorton M.P., Muir P., Nance W., Rudowski R.
+     breccias: Characterization and evidence for early formation  and Ware N. (1974) Lunar highlands composition (abs).
+     in the megaregolith. Proc. 16th Lunar Planet. Sci. Conf. in  Lunar Sci. V, 789-791.
+      J. Geophys. Res. 91, D277-D303.
+                                                         Tsay F-D. and Bauman A.J. (1975) Ferromagnetic resonance
+    McKinley J.P., Taylor G.J., Keil K., Ma M.-S. and Schmitt   as a geothermometer for probing the thermal history of lunar
+    R.A. (1984) Apollo 16: Impact sheets, contrasting nature of   samples (abs). Lunar Sci. VI 821-823.
+--- material block 3; lines 23-40 ---
+615-639.                                              1340.
+
+    Morrison D.A., McKay D.S., Fruland R.M.. and Moore H.J.  Warner J.L., Simonds C.H. and Phinney W.C. (1973) Apollo
+    (1973) Microcraters on Apollo 15 and 16 rocks. Proc. 4th  16 rocks: Classification and petrogenetic model. Proc. 4th
+    Lunar Sci. Conf. 3235-3253.                            Lunar Sci. Conf. 481-504.
+
+    Nagata T., Fischer R.M., Schwerer F.C., Fuller M.D. and  Weber H.W. and Schultz L. (1978) Rare gases in matrix
+   Dunn J.R. (1973) Magnetic properties and natural remanent  and clast samples of 60016 (abs). Lunar Planet. Sci. IX,
+    magnetization of Apollo 15 and 16 lunar materials. Proc.   1234-1236.
+      4th Lunar Sci. Conf. 3019-3043.
+                                                      Wentworth S..J. and McKay D.S. (1988) Glasses in ancient
+    Nagata T., Sugiura N., Fisher R.M., Schwerer F.C., Fuller  and young Apollo 16 regolith breccias:  Populations and
+   M.D. and Dunn J.R. (1974a) Magnetic properties of Apollo   ultra-Mg glass. Proc. 18th Lunar Planet. Sci. Conf. 67-77.
+    11-17 lunar materials with special reference to effects of
+    meteorite impact. Proc. 5th Lunar Sci. Conf. 2827-2839.    Wilshire H.G., Stuart-Alexander D.E. and Jackson E.D.
+                                                           (1973) Apollo 16 rocks – Petrology and classification.  J.
+    Nagata T., Sugiura N., Fisher R.M., Schwerer F.C., Fuller   Geophys. Res. 78, 2379-2391.
+   M.D. and Dunn J.R. (1974b) Magnetic properties and natural
+--- material block 4; lines 46-58 ---
+3255-3276.
+
+    Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+   Simon S.B., Papike J.J., Laul J.C., Hughes S.S. and Schmitt
+    R.A. (1988) Apollo 16 regolith breccias and soils: Recorders
+    of exotic component addition to the Descartes region of the
+    moon. Earth Planet. Sci. Lett. 89, 147-162.
+--- treatment block 5; lines 24-46 ---
+Morrison D.A., McKay D.S., Fruland R.M.. and Moore H.J.  Warner J.L., Simonds C.H. and Phinney W.C. (1973) Apollo
+    (1973) Microcraters on Apollo 15 and 16 rocks. Proc. 4th  16 rocks: Classification and petrogenetic model. Proc. 4th
+    Lunar Sci. Conf. 3235-3253.                            Lunar Sci. Conf. 481-504.
+
+    Nagata T., Fischer R.M., Schwerer F.C., Fuller M.D. and  Weber H.W. and Schultz L. (1978) Rare gases in matrix
+   Dunn J.R. (1973) Magnetic properties and natural remanent  and clast samples of 60016 (abs). Lunar Planet. Sci. IX,
+    magnetization of Apollo 15 and 16 lunar materials. Proc.   1234-1236.
+      4th Lunar Sci. Conf. 3019-3043.
+                                                      Wentworth S..J. and McKay D.S. (1988) Glasses in ancient
+    Nagata T., Sugiura N., Fisher R.M., Schwerer F.C., Fuller  and young Apollo 16 regolith breccias:  Populations and
+   M.D. and Dunn J.R. (1974a) Magnetic properties of Apollo   ultra-Mg glass. Proc. 18th Lunar Planet. Sci. Conf. 67-77.
+    11-17 lunar materials with special reference to effects of
+    meteorite impact. Proc. 5th Lunar Sci. Conf. 2827-2839.    Wilshire H.G., Stuart-Alexander D.E. and Jackson E.D.
+                                                           (1973) Apollo 16 rocks – Petrology and classification.  J.
+    Nagata T., Sugiura N., Fisher R.M., Schwerer F.C., Fuller   Geophys. Res. 78, 2379-2391.
+   M.D. and Dunn J.R. (1974b) Magnetic properties and natural
+    remanent magnetization of Apollo 16 and 17 lunar samples
+     (abs). Lunar Sci. V, 540-542.
+
+   Neukum G., Horz F., Morrison D.A. and Hartung J.B. (1973)
+    Crater populations on lunar rocks. Proc. 4th Lunar Sci. Conf.
+    3255-3276.
+--- references block 6; lines 30-42 ---
+Dunn J.R. (1973) Magnetic properties and natural remanent  and clast samples of 60016 (abs). Lunar Planet. Sci. IX,
+    magnetization of Apollo 15 and 16 lunar materials. Proc.   1234-1236.
+      4th Lunar Sci. Conf. 3019-3043.
+                                                      Wentworth S..J. and McKay D.S. (1988) Glasses in ancient
+    Nagata T., Sugiura N., Fisher R.M., Schwerer F.C., Fuller  and young Apollo 16 regolith breccias:  Populations and
+   M.D. and Dunn J.R. (1974a) Magnetic properties of Apollo   ultra-Mg glass. Proc. 18th Lunar Planet. Sci. Conf. 67-77.
+    11-17 lunar materials with special reference to effects of
+    meteorite impact. Proc. 5th Lunar Sci. Conf. 2827-2839.    Wilshire H.G., Stuart-Alexander D.E. and Jackson E.D.
+                                                           (1973) Apollo 16 rocks – Petrology and classification.  J.
+    Nagata T., Sugiura N., Fisher R.M., Schwerer F.C., Fuller   Geophys. Res. 78, 2379-2391.
+   M.D. and Dunn J.R. (1974b) Magnetic properties and natural
+    remanent magnetization of Apollo 16 and 17 lunar samples
+     (abs). Lunar Sci. V, 540-542.

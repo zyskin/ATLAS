@@ -1,0 +1,206 @@
+DOCUMENT_ID: 63566__compendium__6479bfcdb6
+ATLAS_SAMPLE_IDS: 63566,63575
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63566.pdf
+SOURCE_PDF_SHA256: ce6fd25ff222aa06e3182244dbd4337c17538735823fd74cedfb4c55f526c7c5
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-36 ---
+63566 – 19.6 grams
+                         63575 – 4.72 grams
+                               Glass with Anorthosite
+
+
+
+
+
+                               Figure 1: Photo of 63566. Scale in cm/mm. S72-55395
+
+   Introduction
+   63566 and 63575 may be parts of the series
+   63559 – 63576. They are all rake samples with
+    similar appearance from station 13, on the flank
+   of North Ray Crater. These two small glass
+   samples have relatively large white inclusions
+    (figure 1 and 2).
+
+   Petrography
+   Warner et al. (1973) describe 63566 as
+    “dendritic to spherulitic devitrified glass” and
+   63575 as “glass-cementing light clasts”.
+   Borchardt et al. (1986) discuss these fragments
+    in terms of “glass bombs”.  The glass is
+    devitrified where it is in contact with rock.
+
+   Chemistry                                                               Figure 2: Photo of 63575. Scale in mm. S72-55384
+    Stoffler et al. (1985), See et al. (1986), Morris
+    et al. (1986) and Borchardt et al. (1986)
+                                         Age?   determined the composition of the glass, while
+                                                   Deutsch and Stoffler (1987) quote an age of 63566 of   See et al. (1986) also give composition of the
+                                                       2.16 ± 0.02 b.y. for 63566 (details uncertain).   “anorthosite” inclusions (table 2).
+
+
+
+Lunar Sample Compendium
+--- material block 2; lines 7-31 ---
+Figure 1: Photo of 63566. Scale in cm/mm. S72-55395
+
+   Introduction
+   63566 and 63575 may be parts of the series
+   63559 – 63576. They are all rake samples with
+    similar appearance from station 13, on the flank
+   of North Ray Crater. These two small glass
+   samples have relatively large white inclusions
+    (figure 1 and 2).
+
+   Petrography
+   Warner et al. (1973) describe 63566 as
+    “dendritic to spherulitic devitrified glass” and
+   63575 as “glass-cementing light clasts”.
+   Borchardt et al. (1986) discuss these fragments
+    in terms of “glass bombs”.  The glass is
+    devitrified where it is in contact with rock.
+
+   Chemistry                                                               Figure 2: Photo of 63575. Scale in mm. S72-55384
+    Stoffler et al. (1985), See et al. (1986), Morris
+    et al. (1986) and Borchardt et al. (1986)
+                                         Age?   determined the composition of the glass, while
+                                                   Deutsch and Stoffler (1987) quote an age of 63566 of   See et al. (1986) also give composition of the
+--- age block 3; lines 24-37 ---
+in terms of “glass bombs”.  The glass is
+    devitrified where it is in contact with rock.
+
+   Chemistry                                                               Figure 2: Photo of 63575. Scale in mm. S72-55384
+    Stoffler et al. (1985), See et al. (1986), Morris
+    et al. (1986) and Borchardt et al. (1986)
+                                         Age?   determined the composition of the glass, while
+                                                   Deutsch and Stoffler (1987) quote an age of 63566 of   See et al. (1986) also give composition of the
+                                                       2.16 ± 0.02 b.y. for 63566 (details uncertain).   “anorthosite” inclusions (table 2).
+
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 4; CATEGORIES: treatment ===
+--- treatment block 1; lines 1-13 ---
+Figure 5:  Processing photo of 63566. Cube is 1 cm. S83-40675
+
+
+
+   Other Studies
+    Pearce and Simonds (1974) included 63575 in their
+    study of magnetic properties of Apollo 16 walnuts.
+
+   Processing
+   There are two thin sections of each sample.
+
+=== PDF PAGE 5; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 63566 and 63575
+               glass                                                                 anorthosite
+    reference  Stoffler85     Borcherdt86 See86              Morris86         See86
+    weight     Borcherdt86  63566      63566  63575     63566  63575     63566   63575
+   SiO2 %    43.9      (a)              45.13   44.8     (c ) 45.13   44.85   (b) 44.5    45.07    (a)
+    TiO2      0.44      (a)  0.55      (b)  0.22    0.27     (c ) 0.22    0.27     (b) 0.01     0.03     (a)
+   Al2O3     27.9      (a)             26      26.3     (c ) 29.2    26.26   (b) 35.3    34.29    (a)
+   FeO       5.2       (a)  5.93      (b) 6       6.2      (c ) 4.67    6.2      (b) 0.15     0.64     (a)
+   MnO       0.1       (a)  0.07      (b)         0.09                                    0.02
+   MgO       7.2       (a)                7.3     7.41     (c ) 4.64    7.4      (b) 0.09     1.05     (a)
+   CaO       14.6      (a)  14.8      (b)  14.5    14.7     (c ) 16.02   14.7     (b) 19.44   18.43    (a)
+   Na2O     0.58      (a)  0.52      (b)  0.6     0.53     (c ) 0.57    0.53     (b) 0.42     0.66     (a)
+   K2O       0.1       (a)  0.13      (b)  0.1     0.08     (c ) 0.06    0.08     (b) 0.01     0.04     (a)
+   P2O5     0.16      (a)
+   S %
+   sum
+
+   Sc ppm                 7.73      (b)                     5.86   6        (b)
+   V
+--- mineralogy block 2; lines 1-8 ---
+Table 1. Chemical composition of 63566 and 63575
+               glass                                                                 anorthosite
+    reference  Stoffler85     Borcherdt86 See86              Morris86         See86
+    weight     Borcherdt86  63566      63566  63575     63566  63575     63566   63575
+   SiO2 %    43.9      (a)              45.13   44.8     (c ) 45.13   44.85   (b) 44.5    45.07    (a)
+    TiO2      0.44      (a)  0.55      (b)  0.22    0.27     (c ) 0.22    0.27     (b) 0.01     0.03     (a)
+   Al2O3     27.9      (a)             26      26.3     (c ) 29.2    26.26   (b) 35.3    34.29    (a)
+   FeO       5.2       (a)  5.93      (b) 6       6.2      (c ) 4.67    6.2      (b) 0.15     0.64     (a)
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 63566 and 63575
+               glass                                                                 anorthosite
+    reference  Stoffler85     Borcherdt86 See86              Morris86         See86
+    weight     Borcherdt86  63566      63566  63575     63566  63575     63566   63575
+   SiO2 %    43.9      (a)              45.13   44.8     (c ) 45.13   44.85   (b) 44.5    45.07    (a)
+    TiO2      0.44      (a)  0.55      (b)  0.22    0.27     (c ) 0.22    0.27     (b) 0.01     0.03     (a)
+   Al2O3     27.9      (a)             26      26.3     (c ) 29.2    26.26   (b) 35.3    34.29    (a)
+   FeO       5.2       (a)  5.93      (b) 6       6.2      (c ) 4.67    6.2      (b) 0.15     0.64     (a)
+   MnO       0.1       (a)  0.07      (b)         0.09                                    0.02
+--- references block 4; lines 64-73 ---
+Os ppb
+      Ir ppb                   30.5      (b)
+    Pt ppb
+   Au ppb                  16.4      (b)
+   Th ppm                 2.72      (b)                     2.17    2.44     (b)
+   U ppm                  0.78      (b)                     0.76    0.69     (b)
+    technique:  (a) broad beam e. probe, (b) INAA+RNAA, (c ) e. probe
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 6; CATEGORIES: age,material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 25-37 ---
+Morris R.V., See T.H. and Horz F. (1986) Composition of  Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+    the Cayley Formation at Apollo 16 as inferred from impact   Apollo 16 rocks: Classification and petrogenetic model.
+    melt splashes.  Proc. 17th Lunar Planet. Sci. Conf. in  J.   Proc. 4th Lunar Sci. Conf. 481-504.
+    Geophys. Res. 90, E21-E42.
+
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.
+--- material block 2; lines 1-9 ---
+References for 63566 and 63575.
+    Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,   Phinney W. and Lofgren G. (1973) Description, classification
+   Wacker K. and Jessberger E.K. (1986)  Composition,  and inventory of Apollo 16 rake samples from stations 1, 4
+     structure and age of the Apollo 16 subregolith basement as  and 13. Curators Office.
+    deduced from the chemistry of post-Imbrium melt bombs.
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    E43-E54.                                                rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo  See T.H., Horz F. and Morris R.V. (1986) Apollo 16 impact-
+--- age block 3; lines 1-20 ---
+References for 63566 and 63575.
+    Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,   Phinney W. and Lofgren G. (1973) Description, classification
+   Wacker K. and Jessberger E.K. (1986)  Composition,  and inventory of Apollo 16 rake samples from stations 1, 4
+     structure and age of the Apollo 16 subregolith basement as  and 13. Curators Office.
+    deduced from the chemistry of post-Imbrium melt bombs.
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    E43-E54.                                                rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo  See T.H., Horz F. and Morris R.V. (1986) Apollo 16 impact-
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   melt splashes: Petrography and major-element composition.
+    Catalog. pp. 370.                                         Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 91,
+                                                        E3-E20.
+    Deutsch A. and Stoffler D. (1987) Rb-Sr-analyses of Apollo
+    16 melt rocks and a new age estimate for the Imbrium basin:   Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    Lunar basin chronology and the early heavy bombardment   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+    of the moon. Geochim. Cosmochim. Acta 51, 1951-1964.   Reimold W.U., Wacker K. and Wanke H. (1985)
+                                                         Composition and evolution of the lunar crust in the Descartes
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic   highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+    and chemical description. Science 179, 23-34.              Res. 90, C449-C506.
+--- treatment block 4; lines 24-36 ---
+Morris R.V., See T.H. and Horz F. (1986) Composition of  Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+    the Cayley Formation at Apollo 16 as inferred from impact   Apollo 16 rocks: Classification and petrogenetic model.
+    melt splashes.  Proc. 17th Lunar Planet. Sci. Conf. in  J.   Proc. 4th Lunar Sci. Conf. 481-504.
+    Geophys. Res. 90, E21-E42.
+
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.
+--- references block 5; lines 1-7 ---
+References for 63566 and 63575.
+    Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,   Phinney W. and Lofgren G. (1973) Description, classification
+   Wacker K. and Jessberger E.K. (1986)  Composition,  and inventory of Apollo 16 rake samples from stations 1, 4
+     structure and age of the Apollo 16 subregolith basement as  and 13. Curators Office.
+    deduced from the chemistry of post-Imbrium melt bombs.
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    E43-E54.                                                rocks (3 vol.). Curator’s Office pub. #52, JSC #16904

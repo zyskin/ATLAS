@@ -1,0 +1,164 @@
+DOCUMENT_ID: 61569__compendium__daec37ce8f
+ATLAS_SAMPLE_IDS: 61569
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61569.pdf
+SOURCE_PDF_SHA256: bdf52fd842bdc124452a19d44cd9789494666f84bc6c979858cd3f75ead85fa4
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 10-28 ---
+Introduction                                Radiogenic age dating
+   61569 is a coherent impact melt breccia that was  Norman et al. (2006) determined an Ar/Ar plateau age
+    collected as part of a rake sample taken at Plum Crater   of 3.79 ± 0.01 b.y. (figure 4).
+   – see section on soil 67500.  It appears to be different
+   from most pokilitic melt rocks at Apollo 16 because
+    the dominant oikocryst is olivine, rather than pyroxene.
+
+   Petrography
+   61569 has a poikilitic texture where blocky plagioclase
+    is enclosed in large olivine crystals (figure 2). Simonds
+    et al. (1973) give the mode as 68 % plagioclase, 8 %
+   pyroxene, 22 % olivine (Fo70-78) and 2% ilmenite. There
+    is no rust.
+
+   Chemistry
+   Wasson et al. (1977) determined the chemical
+   composition of 61569. Note the high Ni, Ir and Au.
+--- material block 2; lines 1-20 ---
+61569
+                               Impact Melt Breccia
+                                        12 grams
+
+
+
+
+
+                          Figure 1: Photo of 61569. Scale in cm/mm. S72-55322
+
+   Introduction                                Radiogenic age dating
+   61569 is a coherent impact melt breccia that was  Norman et al. (2006) determined an Ar/Ar plateau age
+    collected as part of a rake sample taken at Plum Crater   of 3.79 ± 0.01 b.y. (figure 4).
+   – see section on soil 67500.  It appears to be different
+   from most pokilitic melt rocks at Apollo 16 because
+    the dominant oikocryst is olivine, rather than pyroxene.
+
+   Petrography
+   61569 has a poikilitic texture where blocky plagioclase
+    is enclosed in large olivine crystals (figure 2). Simonds
+--- age block 3; lines 5-18 ---
+Figure 1: Photo of 61569. Scale in cm/mm. S72-55322
+
+   Introduction                                Radiogenic age dating
+   61569 is a coherent impact melt breccia that was  Norman et al. (2006) determined an Ar/Ar plateau age
+    collected as part of a rake sample taken at Plum Crater   of 3.79 ± 0.01 b.y. (figure 4).
+   – see section on soil 67500.  It appears to be different
+   from most pokilitic melt rocks at Apollo 16 because
+    the dominant oikocryst is olivine, rather than pyroxene.
+
+   Petrography
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 61569
+
+
+    reference  Wasson77
+    weight
+   SiO2 %
+    TiO2      1          (a)
+   Al2O3     21.9       (a)
+   FeO       7.41       (a)
+   MnO      0.085     (a)
+   MgO      9.95       (a)
+   CaO       12.9       (a)
+   Na2O     0.47       (a)
+   K2O       0.19       (a)
+   P2O5
+   S %
+   sum
+
+   Sc ppm    12.4       (a)
+   V        29         (a)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 61569
+
+
+    reference  Wasson77
+    weight
+   SiO2 %
+    TiO2      1          (a)
+   Al2O3     21.9       (a)
+   FeO       7.41       (a)
+   MnO      0.085     (a)
+--- references block 3; lines 65-74 ---
+Os ppb
+      Ir ppb     20         (a)
+    Pt ppb
+   Au ppb    18         (a)
+   Th ppm    2.8        (a)
+   U ppm     0.76       (a)
+    technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 4; CATEGORIES: age,material,references ===
+--- material block 1; lines 3-23 ---
+References for 61569
+                                                          Phinney W. and Lofgren G. (1973) Description, classification    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                       and inventory of Apollo 16 rake samples from stations 1, 4    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                       and 13. Curators Office.    Catalog. pp. 370.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16   Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904    a widespread and distinctive lunar rock type. Earth Planet.
+     Sci. Lett. 24, 15-25.
+                                                  Simonds C.H., Warner J.L. and Phinney W.C. (1973)
+                                                             Petrology of Apollo 16 poikilitic rocks.  Proc. 4th Lunar    Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization
+                                                                        Sci. Conf. 613-632.    history of metal particles in Apollo 16 rake samples. Proc.
+      4th Lunar Sci. Conf. 799-810.
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                                In Geology of the Apollo 16 area, central lunar highlands.    Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.     in Apollo 16 highland rocks: Manifestations of volatile-
+    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    259.                                              Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+--- material block 2; lines 34-46 ---
+the Cayley Plains and Descartes Mountains, and geologic                12 grams
+     history. Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys.
+    Res. 89, B513-B524.
+                                                      ,0          ,1    ,5       ,7       ,8       ,9
+   Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing    10.6 g  PB   0.2 g   0.2 g   0.2 g   0.6 g
+    impact events within the lunar cataclysm from 40Ar-39Ar ages
+    and compositions of Apollo 16 impact melt rocks. Geochim.
+                                                                                                ,4
+    Cosmochim. Acta 70, 6032-6049.                                  TS
+
+
+
+Lunar Sample Compendium
+--- age block 3; lines 10-22 ---
+and 13. Curators Office.    Catalog. pp. 370.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16   Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904    a widespread and distinctive lunar rock type. Earth Planet.
+     Sci. Lett. 24, 15-25.
+                                                  Simonds C.H., Warner J.L. and Phinney W.C. (1973)
+                                                             Petrology of Apollo 16 poikilitic rocks.  Proc. 4th Lunar    Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization
+                                                                        Sci. Conf. 613-632.    history of metal particles in Apollo 16 rake samples. Proc.
+      4th Lunar Sci. Conf. 799-810.
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                                In Geology of the Apollo 16 area, central lunar highlands.    Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.     in Apollo 16 highland rocks: Manifestations of volatile-
+    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+--- references block 4; lines 1-13 ---
+Figure4: Ar/Ar plateau diagram of a wee bit of 61569 by Norman et al. (2006).
+
+
+
+
+
+   References for 61569
+                                                          Phinney W. and Lofgren G. (1973) Description, classification    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                       and inventory of Apollo 16 rake samples from stations 1, 4    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                       and 13. Curators Office.    Catalog. pp. 370.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16   Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904    a widespread and distinctive lunar rock type. Earth Planet.

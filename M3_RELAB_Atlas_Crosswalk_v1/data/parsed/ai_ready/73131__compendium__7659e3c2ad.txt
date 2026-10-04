@@ -1,0 +1,209 @@
+DOCUMENT_ID: 73131__compendium__7659e3c2ad
+ATLAS_SAMPLE_IDS: 73131
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/73131.pdf
+SOURCE_PDF_SHA256: c4bcb72bac9bcdb1b93e359dd52977680de95309b9eca370b97b094dfb5fd9eb
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+73131
+                                      Soil (or soil clod)
+                                       238 grams
+--- material block 2; lines 15-26 ---
+73131
+
+
+
+
+
+            Figure 2: Location of soil sample 73130 at LRV-4 on Apollo 17 map (Meyer 1973). S73-24071
+
+
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 1-42 ---
+Table 1. Chemical composition of 73131.      Introduction
+                                                 Sample 73130 was collected as a “soil clod” from the
+     reference  Korotev92           Eldridge74                 bottom of a small, fresh crater. The astronauts referred
+     weight
+    SiO2 %                                                   to it as “instant rock”, and sure enough it completely
+     TiO2                                              broke up during transit.
+    Al2O3
+    FeO      6.87    7.18     (a)
+   MnO                                        Petrography
+   MgO                                              Morris (1978) reported the maturity index (Is/FeO =
+    CaO
+    Na2O     0.437   0.431   (a)                               16), which is way immature ! The sample has very
+    K2O                          0.14      (b)               low FeO (Korotev and Kremser (1992).
+    P2O5
+    S %
+    sum
+
+    Sc ppm   14.5    15.1     (a)                                            25
+    V
+     Cr       1240   1290    (a)                                                                                 20                      Apollo soils    Co        20.3    25.5     (a)
+     Ni       157    227     (a)
+    Cu                                                                         15
+    Zn                             FeO
+    Ga
+    Ge ppb                                                                    10
+    As                                                                                     73131
+    Se                                                                            5
+    Rb
+     Sr       147    146     (a)
+                                                                                     0
+    Y                                                                                      0       5       10      15      20      25      30      35
+     Zr       210    190     (a)
+    Nb                                                        Al2O3
+    Mo
+    Ru
+    Rh                                                          Figure 3: FeO content for 73131 compared with
+    Pd ppb                                                                  otherApollo soils.    Ag ppb
+    Cd ppb
+      In ppb
+    Sn ppb
+    Sb ppb
+     Te ppb
+--- material block 2; lines 1-11 ---
+Table 1. Chemical composition of 73131.      Introduction
+                                                 Sample 73130 was collected as a “soil clod” from the
+     reference  Korotev92           Eldridge74                 bottom of a small, fresh crater. The astronauts referred
+     weight
+    SiO2 %                                                   to it as “instant rock”, and sure enough it completely
+     TiO2                                              broke up during transit.
+    Al2O3
+    FeO      6.87    7.18     (a)
+   MnO                                        Petrography
+   MgO                                              Morris (1978) reported the maturity index (Is/FeO =
+    CaO
+--- treatment block 3; lines 4-16 ---
+weight
+    SiO2 %                                                   to it as “instant rock”, and sure enough it completely
+     TiO2                                              broke up during transit.
+    Al2O3
+    FeO      6.87    7.18     (a)
+   MnO                                        Petrography
+   MgO                                              Morris (1978) reported the maturity index (Is/FeO =
+    CaO
+    Na2O     0.437   0.431   (a)                               16), which is way immature ! The sample has very
+    K2O                          0.14      (b)               low FeO (Korotev and Kremser (1992).
+    P2O5
+    S %
+    sum
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 73131.      Introduction
+                                                 Sample 73130 was collected as a “soil clod” from the
+     reference  Korotev92           Eldridge74                 bottom of a small, fresh crater. The astronauts referred
+     weight
+    SiO2 %                                                   to it as “instant rock”, and sure enough it completely
+     TiO2                                              broke up during transit.
+    Al2O3
+    FeO      6.87    7.18     (a)
+   MnO                                        Petrography
+--- references block 5; lines 63-72 ---
+Os ppb
+        Ir ppb     4.2      7.3      (a)
+     Pt ppb
+    Au ppb    2.3      2.9      (a)
+    Th ppm   2.5     2.56     (a) 2.24      (b)
+    U ppm    0.76    0.71     (a) 0.63      (b)
+     technique:  (a) INAA, (b) radaition count.
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 10-22 ---
+31.5 g  100 g
+
+
+
+
+   References for 73131                                 Morris R.V. (1978) The surface exposure (maturity) of lunar
+    Butler P. (1973) Lunar Sample Information Catalog           soils: Some concepts and Is/FeO compilation. Proc. 9th
+    Apollo 17. Lunar Receiving Laboratory. MSC 03211      Lunar Sci. Conf. 2287-2297.
+    Curator’s Catalog. pp. 447.
+                                                          Morris R.V. (1980) Origins and size distribution of
+    Butler J.C. and King E.A. (1974) Analysis of the grain size-   metallic iron particles in the lunar regolith. Proc. 11th
+    frequency distributions of lunar fines. Proc. 5th Lunar Sci.  Lunar Planet. Sci. Conf. 1697-1712.
+    Conf. 829-841.
+--- mineralogy block 2; lines 23-35 ---
+O’Kelley G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+    .Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1974a)    Cosmogenic radionuclides in samples from
+    Primordial radioelement concentrations in rocks and soils    Taurus-Littrow: Effects of the solar flare of August 1972.
+   from Taurus-Littrow. Proc. 5th Lunar Sci. Conf. 1025-      Proc. 5th Lunar Sci. Conf. 2139-2147.
+    1033.
+                                                          Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+   Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   regolith: Chemistry, Mineralogy and Petrology.  Rev.
+                                                        Geophys. Space Phys. 20, 761-826.
+   Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+   Space Phys. 13, 567-587.                              Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    Korotev R.L. and Kremser D. (1992) Compositional        geologic investigation of the Taurus-Littrow Valley: Apollo
+    variations in Apollo 17 soils and their relationships to the    17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- material block 3; lines 14-35 ---
+References for 73131                                 Morris R.V. (1978) The surface exposure (maturity) of lunar
+    Butler P. (1973) Lunar Sample Information Catalog           soils: Some concepts and Is/FeO compilation. Proc. 9th
+    Apollo 17. Lunar Receiving Laboratory. MSC 03211      Lunar Sci. Conf. 2287-2297.
+    Curator’s Catalog. pp. 447.
+                                                          Morris R.V. (1980) Origins and size distribution of
+    Butler J.C. and King E.A. (1974) Analysis of the grain size-   metallic iron particles in the lunar regolith. Proc. 11th
+    frequency distributions of lunar fines. Proc. 5th Lunar Sci.  Lunar Planet. Sci. Conf. 1697-1712.
+    Conf. 829-841.
+                                                         O’Kelley G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+    .Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1974a)    Cosmogenic radionuclides in samples from
+    Primordial radioelement concentrations in rocks and soils    Taurus-Littrow: Effects of the solar flare of August 1972.
+   from Taurus-Littrow. Proc. 5th Lunar Sci. Conf. 1025-      Proc. 5th Lunar Sci. Conf. 2139-2147.
+    1033.
+                                                          Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+   Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   regolith: Chemistry, Mineralogy and Petrology.  Rev.
+                                                        Geophys. Space Phys. 20, 761-826.
+   Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+   Space Phys. 13, 567-587.                              Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    Korotev R.L. and Kremser D. (1992) Compositional        geologic investigation of the Taurus-Littrow Valley: Apollo
+    variations in Apollo 17 soils and their relationships to the    17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- material block 4; lines 41-53 ---
+LSPET (1973c) Preliminary examination of lunar samples.
+    Apollo 17 Preliminary Science Report. NASA SP-330, 7-
+   1—7-46.
+
+    Mitchell J.K., Carrier W.D., Costes N.C., Houston W.N.,
+    Scott R.F. and Hovland H.J. (1973) 8. Soil-Mechanics.
+    In Apollo 17 Preliminary Science Rpt. NASA SP-330.
+    pages 8-1-22.
+
+    Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+    Office, Houston
+--- treatment block 5; lines 9-21 ---
+,0        ,1
+                               31.5 g  100 g
+
+
+
+
+   References for 73131                                 Morris R.V. (1978) The surface exposure (maturity) of lunar
+    Butler P. (1973) Lunar Sample Information Catalog           soils: Some concepts and Is/FeO compilation. Proc. 9th
+    Apollo 17. Lunar Receiving Laboratory. MSC 03211      Lunar Sci. Conf. 2287-2297.
+    Curator’s Catalog. pp. 447.
+                                                          Morris R.V. (1980) Origins and size distribution of
+    Butler J.C. and King E.A. (1974) Analysis of the grain size-   metallic iron particles in the lunar regolith. Proc. 11th
+    frequency distributions of lunar fines. Proc. 5th Lunar Sci.  Lunar Planet. Sci. Conf. 1697-1712.
+--- references block 6; lines 9-21 ---
+,0        ,1
+                               31.5 g  100 g
+
+
+
+
+   References for 73131                                 Morris R.V. (1978) The surface exposure (maturity) of lunar
+    Butler P. (1973) Lunar Sample Information Catalog           soils: Some concepts and Is/FeO compilation. Proc. 9th
+    Apollo 17. Lunar Receiving Laboratory. MSC 03211      Lunar Sci. Conf. 2287-2297.
+    Curator’s Catalog. pp. 447.
+                                                          Morris R.V. (1980) Origins and size distribution of
+    Butler J.C. and King E.A. (1974) Analysis of the grain size-   metallic iron particles in the lunar regolith. Proc. 11th
+    frequency distributions of lunar fines. Proc. 5th Lunar Sci.  Lunar Planet. Sci. Conf. 1697-1712.

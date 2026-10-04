@@ -1,0 +1,430 @@
+DOCUMENT_ID: 12020__compendium__1634b9849b
+ATLAS_SAMPLE_IDS: 12020
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/12020.pdf
+SOURCE_PDF_SHA256: 27baba10db777adc25195e6d4720a3eb20001b96a40fa2fe50478a047e15548c
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-24 ---
+12020
+                                     Olivine Basalt
+                                       312 grams
+
+
+
+
+
+                   Figure 1: Photo of 12020. Scale in cm. NASA # S70-43639.
+
+
+   Introduction                                             Petrography
+   12020 is an olivine basalt with large rounded olivine                                                     Klein et al. (1971) describe 12020 as a “medium-
+   phenocrysts and elongate pyroxene crystals set in a                                                      grained olivine microgabbro consisting mainly of
+    variolitic groundmass of thin clinopyroxene and                                                 clinopyroxene, plagioclase and olivine.  The
+   plagioclase laths (figure 2). It had one large zap pit on                                                      clinopyroxene occurs as subhedral laths, up to several
+   one surface.                               mm in length, as smaller anhderal grains, and as very
+                                                                 thin, lathlike, crystals interleathed with plagioclase
+                                                                laths.”
+
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-19 ---
+12020
+                                     Olivine Basalt
+                                       312 grams
+
+
+
+
+
+                   Figure 1: Photo of 12020. Scale in cm. NASA # S70-43639.
+
+
+   Introduction                                             Petrography
+   12020 is an olivine basalt with large rounded olivine                                                     Klein et al. (1971) describe 12020 as a “medium-
+   phenocrysts and elongate pyroxene crystals set in a                                                      grained olivine microgabbro consisting mainly of
+    variolitic groundmass of thin clinopyroxene and                                                 clinopyroxene, plagioclase and olivine.  The
+   plagioclase laths (figure 2). It had one large zap pit on                                                      clinopyroxene occurs as subhedral laths, up to several
+   one surface.                               mm in length, as smaller anhderal grains, and as very
+                                                                 thin, lathlike, crystals interleathed with plagioclase
+                                                                laths.”
+
+=== PDF PAGE 2; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+Figure 2: Photomicrograph of thin section 12020,13 illustrating round olivine and elongate pyroxene
+            phenocrysts with variolitic intergrowths of plagioclase and pyroxene needles. NASA S70-30254. Field of
+            view about 2 cm.
+
+=== PDF PAGE 3; CATEGORIES: age,mineralogy ===
+--- mineralogy block 1; lines 11-60 ---
+Fo                                        Fa
+
+                                                                                                      compiled by C Meyer
+
+
+                                                               Figure 4: Pyroxene and olivine composition of 12020
+                                                               (adapted from Klein et al. 1971, Kushiro et al. 1971).
+
+
+                                                         Plagioclase: Plagioclase composition in 12020 range
+                                                 from An93 to An88 (Kushiro et al. 1971). Klein et al.
+                                                      (1971) report An98 to An80, with the majority as An96.
+
+                                            Chemistry
+                                              The rare earth element pattern is relatively flat (figure
+                                                                  5). 12020 is relatively Mg-rich (figure 6), apparently
+                                                  due to accumulation of olivine (Walker et al. 1976).
+
+                                              Radiogenic age dating
+                                                    Alexander et al. (1972) reported an Ar/Ar age of 3.20
+      Figure 3: Photomicrographs of thin section 12020,11   ± 0.03 b.y. for 12020, consistent with that of other
+       (plane-polarized, crossed-nicols). Field of view is 2.6                                                    Apollo 12 basalts.
+     mm. NASA # S70-49556-557.
+                                           Cosmogenic isotopes and exposure ages   Mineralogy
+                                                       Hintenberger et al. (1971) determined exposure ages   Olivine: According to Klein et al. (1971) the cores of
+                                                              for 12020 using 3He (77 m.y.), 21Ne (71 m.y.) and 38Ar   olivine in 12020 are rather homogeneous (Fo70-77),
+                                                      (56 m.y.). The suntan age for 12020 (from etched solar   whereas the rims range from Fo70 to Fo50 (figure 4).
+                                                                 flare track studies) is 2.6 m.y. (Bhandari et al. 1971).   Kushiro et al. (1971) reported a wide range in olivine
+   composition from Fo74 to Fo3.
+                                           Other Studies
+   Pyroxene: Kushiro et al. (1971) and Klein et al. (1971)  Bogard et al. (1971) reported the content and isotopic
+   studied the composition of pyroxene in 12020 (figure  composition of rare gases in 12020.
+    4).   Pyroxene zones  in Fe  all  the way  to
+   ferroheddenbergite (now there’s a name).             There are 13 thin sections.
+
+                    Mineralogical Mode for 12020
+                                         Neal et           Klein et          Papike et
+                                                           al. 1994              al. 1971              al. 1976
+                          Olivine          19                15.1              11.4
+                        Pyroxene         51.2              58.6              61.4
+                           Plagioclase        25.9            20                20.7
+                       Opaques                                                5.6
+                           Ilmenite           0.2
+                        Chromite +Usp    2.7                4.6
+                          Mesostasis        0.5                1.7
+                              “silica”                                                 0.2
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 2; lines 24-44 ---
+Chemistry
+                                              The rare earth element pattern is relatively flat (figure
+                                                                  5). 12020 is relatively Mg-rich (figure 6), apparently
+                                                  due to accumulation of olivine (Walker et al. 1976).
+
+                                              Radiogenic age dating
+                                                    Alexander et al. (1972) reported an Ar/Ar age of 3.20
+      Figure 3: Photomicrographs of thin section 12020,11   ± 0.03 b.y. for 12020, consistent with that of other
+       (plane-polarized, crossed-nicols). Field of view is 2.6                                                    Apollo 12 basalts.
+     mm. NASA # S70-49556-557.
+                                           Cosmogenic isotopes and exposure ages   Mineralogy
+                                                       Hintenberger et al. (1971) determined exposure ages   Olivine: According to Klein et al. (1971) the cores of
+                                                              for 12020 using 3He (77 m.y.), 21Ne (71 m.y.) and 38Ar   olivine in 12020 are rather homogeneous (Fo70-77),
+                                                      (56 m.y.). The suntan age for 12020 (from etched solar   whereas the rims range from Fo70 to Fo50 (figure 4).
+                                                                 flare track studies) is 2.6 m.y. (Bhandari et al. 1971).   Kushiro et al. (1971) reported a wide range in olivine
+   composition from Fo74 to Fo3.
+                                           Other Studies
+   Pyroxene: Kushiro et al. (1971) and Klein et al. (1971)  Bogard et al. (1971) reported the content and isotopic
+   studied the composition of pyroxene in 12020 (figure  composition of rare gases in 12020.
+    4).   Pyroxene zones  in Fe  all  the way  to
+
+=== PDF PAGE 4; CATEGORIES: age,chemistry ===
+--- chemistry block 1; lines 21-43 ---
+Ar/Ar            Rb/Sr                     14
+       Alexander et al. 1971       3.20 ± 0.03                                                           A17
+                                                                                                     12
+
+             c meyer                                                                            10                   A11            2005           12020
+                      312 g                                                8
+                                             TiO2
+                                    ,22                                                    6              ,1          ,21                  ,23        ,46
+                              195 g
+                                                                                                      4
+                                                                                                                     A12       12020
+          ,7                                                                ,53
+      PB                                           PB                2                        A15
+                  ,45                ,60          ,8                               wire saw cut                     ,56
+             A                                                   ,57                0
+                                                                      ,518                 0                5                10               15               20
+         ,16                                                      TS                 MgO      TS                  ,52
+                       17 g                                                                Figure 6: Composition of lunar basalts showing
+                                                              12020.
+--- age block 2; lines 14-26 ---
+S70-30251-253                                                        La Ce  Pr Nd Sm Eu Gd Tb Dy Ho  Er Tm Yb Lu
+            S70-25890-893
+            S70-27991
+            S70-31559-566   TS                                                                   Figure 5: Rare-earth-element diagram for 12020
+                                                                    (idms data from Hubbard connected).
+
+    Summary of Age Data for 12020                              Lunar Basalts
+                                Ar/Ar            Rb/Sr                     14
+       Alexander et al. 1971       3.20 ± 0.03                                                           A17
+                                                                                                     12
+
+             c meyer                                                                            10                   A11            2005           12020
+                      312 g                                                8
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 12020.
+
+
+    reference  Kushiro71 Hubbard71 Weismann75 Wanke71   Cuttitta71  Wakita71          Haskin71   Compston71 Anders71
+    weight                        259 mg                            0.444  0.408
+   SiO2 %    44.45   (a)                         43.86   (c ) 44.6    (d) 42.2             (c )            44.66      (f)
+    TiO2      2.54    (a)                         2.64    (c ) 2.56    (d)  2.7    3        (c )            2.73        (f)
+   Al2O3     7.99    (a)                           7.2     (c ) 8        (d)  8.5     8.3      (c )            7.31        (f)
+   FeO       20.65   (a)                         21.1    (c ) 20.7    (d) 21.8             (c )            21.58      (f)
+   MnO      0.26    (a)                         0.28    (c ) 0.27    (d) 0.253  0.26    (c )            0.28        (f)
+   MgO      14.89   (a)                         15.65   (c ) 14.4    (d) 16.1             (c )            13.91      (f)
+   CaO       8.53    (a)                         8.12    (c ) 8.53    (d)  8.7    8.8      (c )            8.73        (f)
+   Na2O     0.21    (a) 0.19                    0.17    (c ) 0.23    (d) 0.22   0.213   (c )            0.21        (f)
+   K2O       0.06    (a) 0.056   (b) 0.056     (b) 0.046   (c ) 0.06    (d)        0.069   (c )            0.064      (f)
+   P2O5      0.02    (a)                                     0.08    (d)                                0.08        (f)
+   S %                                                                                                0.06        (f)
+   sum
+
+   Sc ppm                                       45.4    (c ) 39      (d) 42               (c )
+   V                                                  155     (d) 180   200     (e)            146         (f)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 12020.
+
+
+    reference  Kushiro71 Hubbard71 Weismann75 Wanke71   Cuttitta71  Wakita71          Haskin71   Compston71 Anders71
+    weight                        259 mg                            0.444  0.408
+   SiO2 %    44.45   (a)                         43.86   (c ) 44.6    (d) 42.2             (c )            44.66      (f)
+    TiO2      2.54    (a)                         2.64    (c ) 2.56    (d)  2.7    3        (c )            2.73        (f)
+   Al2O3     7.99    (a)                           7.2     (c ) 8        (d)  8.5     8.3      (c )            7.31        (f)
+   FeO       20.65   (a)                         21.1    (c ) 20.7    (d) 21.8             (c )            21.58      (f)
+   MnO      0.26    (a)                         0.28    (c ) 0.27    (d) 0.253  0.26    (c )            0.28        (f)
+--- references block 3; lines 64-74 ---
+Re ppb
+   Os ppb
+      Ir ppb                                                                                                           0.04     (e)
+    Pt ppb
+   Au ppb                                                                                           (c )                         0.36     (e)
+   U ppm
+    technique  (a) conventional wet, (b) IDMS, (c ) INAA , (d) mixed mcirochem, XRF, emission spec., (e) RNAA, (f) XRF
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 6; CATEGORIES: age,chemistry,references,treatment ===
+--- chemistry block 1; lines 1-18 ---
+Table 1b. Chemical composition of 12020.     References for 12020
+                                                          Alexander E.C., Davis P.K. and Reynolds J.H. (1972) Rare-
+     reference  Neal2001                                                            gas analysis on neutron irradiated Apollo 12 samples. Proc.     weight
+    SiO2 %                                                                  3rd Lunar Sci. Conf. 1787-1795.
+    TiO2
+    Al2O3
+   FeO                                                 Anders E., Ganapathy R., Keays R.R., Laul J.C., and Morgan
+   MnO                                                      J.W. (1971) Volatile and siderophile elements in lunar rocks:
+   MgO
+   CaO                                               Comparsion with terrestrial and meteoritic basalts. Proc.
+   Na2O                                                               2nd Lunar Sci. Conf. 1021-1036.
+   K2O
+   P2O5
+   S %                                                Anders E., Ganapathy R., Krahenbuhl U. and Morgan J.W.
+    sum                                                    (1973)  Meteoritic material on the Moon. The Moon 8, 3-
+    Sc ppm   47         (a)                                     24.
+   V        182        (a)
+    Cr        3615      (a)
+--- chemistry block 2; lines 48-60 ---
+Gd        5.78       (a)                                  Hintenberger H., Weber H.W. and Takaoka N. (1971)
+    Tb         1.11       (a)
+    Dy        7.11       (a)                                    Concentrations and isotopic abundances of the rare gases in
+   Ho        1.41       (a)                                      lunar matter. Proc. 2nd Lunar Sci. Conf. 1607-1625.
+    Er         3.82       (a)
+   Tm        0.53       (a)
+    Yb         3.6        (a)                               Hubbard N.J. and Gast P.W. (1971) Chemical composition
+    Lu        0.52       (a)
+                                                       and origin of nonmare lunar basalts. Proc. 2nd Lunar Sci.    Hf         3.12       (a)
+    Ta         0.44       (a)                                    Conf. 999-1020.
+  W ppb    110        (a)
+   Re ppb
+   Os ppb                                             James O.B. and Wright T.L. (1972) Apollo 11 and 12 mare
+--- age block 3; lines 17-29 ---
+V        182        (a)
+    Cr        3615      (a)
+   Co       66         (a)                                  Bhandari N., Bhat S., Lal D., Rajagopalan G., Tamhane A.S.
+     Ni        89         (a)                                and Venkatavaradan V.S. (1971)  High resolution time
+   Cu       16         (a)
+                                                           averaged (millions of years) energy spectrum and chemical    Zn       89         (a)
+   Ga        3.35       (a)                                   composition of iron-group cosmic-ray nuclei at 1 A.U. based
+   Ge ppb                                                     on fossil tracks in Apollo samples.  Proc. 2nd Lunar Sci.    As
+    Se                                                      Conf. 2611-2619.
+   Rb        1.13       (a)
+    Sr        105        (a)
+   Y        43         (a)                                 Bogard D.D., Funkhouser J.G., Schaeffer O.A. and Zahringer
+     Zr        119        (a)                                                 J. (1971) Noble gas abundances in lunar material-cosmic
+--- treatment block 4; lines 1-9 ---
+Table 1b. Chemical composition of 12020.     References for 12020
+                                                          Alexander E.C., Davis P.K. and Reynolds J.H. (1972) Rare-
+     reference  Neal2001                                                            gas analysis on neutron irradiated Apollo 12 samples. Proc.     weight
+    SiO2 %                                                                  3rd Lunar Sci. Conf. 1787-1795.
+    TiO2
+    Al2O3
+   FeO                                                 Anders E., Ganapathy R., Keays R.R., Laul J.C., and Morgan
+   MnO                                                      J.W. (1971) Volatile and siderophile elements in lunar rocks:
+   MgO
+--- references block 5; lines 1-9 ---
+Table 1b. Chemical composition of 12020.     References for 12020
+                                                          Alexander E.C., Davis P.K. and Reynolds J.H. (1972) Rare-
+     reference  Neal2001                                                            gas analysis on neutron irradiated Apollo 12 samples. Proc.     weight
+    SiO2 %                                                                  3rd Lunar Sci. Conf. 1787-1795.
+    TiO2
+    Al2O3
+   FeO                                                 Anders E., Ganapathy R., Keays R.R., Laul J.C., and Morgan
+   MnO                                                      J.W. (1971) Volatile and siderophile elements in lunar rocks:
+   MgO
+--- references block 6; lines 60-70 ---
+Os ppb                                             James O.B. and Wright T.L. (1972) Apollo 11 and 12 mare
+       Ir ppb                                                           basalts and gabbros: Classification, compositional variations
+     Pt ppb
+    Au ppb                                              and possible petrogenetic relations.  Geol. Soc. Am. Bull.
+    Th ppm    0.77       (a)                                      83, 2357-2382.
+   U ppm     0.22       (a)
+     technique  (a) ICP-MS
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 7; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 1-11 ---
+Klein C., Drake J.C. and Frondel C. (1971) Mineralogical,   locations and exposure ages, the two component origin of
+    petrological, and chemical features of four Apollo 12 lunar   the various soil samples and studies on lunar metallic
+    microgabbros. Proc. 2nd Lunar Sci. Conf. 265-284.           particles. Proc. 2nd Lunar Sci. Conf. 1187-1208
+
+   Kushiro I. and Haramura H. (1971) Major element variation  Wiesmann H. and Hubbard N.J. (1975) A compilation of
+   and possible source materials of Apollo 12 crystalline rocks.   the Lunar Sample Data Generated by the Gast, Nyquist and
+    Science 171, 1235-1237.                                                     Hubbard Lunar Sample PI-Ships. Unpublished. JSC
+
+   Kushiro I., Nakamura Y., Kitayama K. and Akimoto S-I.
+                                                       Walker D., Kirkpatrick R.J., Longhi J. and Hays J.F. (1976)    (1971) Petrology of some Apollo 12 crystalline rocks. Proc.
+    2nd Lunar Sci. Conf. 481-495.                                Crystallization history of lunar picritic basalt sample 12002:
+--- chemistry block 2; lines 39-54 ---
+Wakita H. and Schmitt R.A. (1971)  Bulk elemental
+   composition of Apollo 12 samples: Five igneous and one
+    breccia rocks and four soils.  Proc. 2nd Lunar Sci. Conf.
+   1231-1236.
+
+   Wakita H., Rey P. and Schmitt R.A. (1971) Abundances of
+    the 14 rare earth elements and 12 other trace elements in
+   Apollo 12 samples: Five igneous and one breccia rocks and
+    four soils. Proc. 2nd Lunar Sci. Conf. 1319-1329.
+
+   Wänke H., Wlotzka F., M. and Rieder R. (1971) Apollo 12
+    samples: Chemical composition and its relation to sample
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- mineralogy block 3; lines 1-7 ---
+Klein C., Drake J.C. and Frondel C. (1971) Mineralogical,   locations and exposure ages, the two component origin of
+    petrological, and chemical features of four Apollo 12 lunar   the various soil samples and studies on lunar metallic
+    microgabbros. Proc. 2nd Lunar Sci. Conf. 265-284.           particles. Proc. 2nd Lunar Sci. Conf. 1187-1208
+
+   Kushiro I. and Haramura H. (1971) Major element variation  Wiesmann H. and Hubbard N.J. (1975) A compilation of
+   and possible source materials of Apollo 12 crystalline rocks.   the Lunar Sample Data Generated by the Gast, Nyquist and
+    Science 171, 1235-1237.                                                     Hubbard Lunar Sample PI-Ships. Unpublished. JSC
+--- mineralogy block 4; lines 26-38 ---
+G. and Schmitt R.A. (1994b) Basalt generation at the Apollo
+   12 site, Part 2: Source heterogeneity, multiple melts and
+    crustal contamination. Meteoritics 29, 349-361.
+
+   Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+   Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+   mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+   475-540.
+
+   Reid A.M., Meyer C., Harmon R.S. and Brett R. (1970c)
+   Metal grains in Apollo 12 igneous rocks. Earth Planet. Sci.
+    Lett. 9, 1-5.
+--- material block 5; lines 1-32 ---
+Klein C., Drake J.C. and Frondel C. (1971) Mineralogical,   locations and exposure ages, the two component origin of
+    petrological, and chemical features of four Apollo 12 lunar   the various soil samples and studies on lunar metallic
+    microgabbros. Proc. 2nd Lunar Sci. Conf. 265-284.           particles. Proc. 2nd Lunar Sci. Conf. 1187-1208
+
+   Kushiro I. and Haramura H. (1971) Major element variation  Wiesmann H. and Hubbard N.J. (1975) A compilation of
+   and possible source materials of Apollo 12 crystalline rocks.   the Lunar Sample Data Generated by the Gast, Nyquist and
+    Science 171, 1235-1237.                                                     Hubbard Lunar Sample PI-Ships. Unpublished. JSC
+
+   Kushiro I., Nakamura Y., Kitayama K. and Akimoto S-I.
+                                                       Walker D., Kirkpatrick R.J., Longhi J. and Hays J.F. (1976)    (1971) Petrology of some Apollo 12 crystalline rocks. Proc.
+    2nd Lunar Sci. Conf. 481-495.                                Crystallization history of lunar picritic basalt sample 12002:
+                                                                Phase-equilibria and cooling-rate studies. Geol. Soc. Am.
+   LSPET (1970) Preliminary examination of lunar samples   Bull. 87, 646-656.
+   from Apollo 12. Science 167, 1325-1339.
+
+   Neal C.R. (2001)   Interior of the moon: The presence of
+    garnet in the primitive deep lunar mantle. J. Geophys. Res.
+    106, 27865-27885.
+
+   Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-
+    G. and Schmitt R.A. (1994a) Basalt generation at the Apollo
+   12 site, Part 1: New data, classification and re-evaluation.
+    Meteoritics 29, 334-348.
+
+   Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-
+    G. and Schmitt R.A. (1994b) Basalt generation at the Apollo
+   12 site, Part 2: Source heterogeneity, multiple melts and
+    crustal contamination. Meteoritics 29, 349-361.
+
+   Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+   Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+   mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+--- material block 6; lines 35-52 ---
+Reid A.M., Meyer C., Harmon R.S. and Brett R. (1970c)
+   Metal grains in Apollo 12 igneous rocks. Earth Planet. Sci.
+    Lett. 9, 1-5.
+
+   Wakita H. and Schmitt R.A. (1971)  Bulk elemental
+   composition of Apollo 12 samples: Five igneous and one
+    breccia rocks and four soils.  Proc. 2nd Lunar Sci. Conf.
+   1231-1236.
+
+   Wakita H., Rey P. and Schmitt R.A. (1971) Abundances of
+    the 14 rare earth elements and 12 other trace elements in
+   Apollo 12 samples: Five igneous and one breccia rocks and
+    four soils. Proc. 2nd Lunar Sci. Conf. 1319-1329.
+
+   Wänke H., Wlotzka F., M. and Rieder R. (1971) Apollo 12
+    samples: Chemical composition and its relation to sample
+--- age block 7; lines 5-17 ---
+Kushiro I. and Haramura H. (1971) Major element variation  Wiesmann H. and Hubbard N.J. (1975) A compilation of
+   and possible source materials of Apollo 12 crystalline rocks.   the Lunar Sample Data Generated by the Gast, Nyquist and
+    Science 171, 1235-1237.                                                     Hubbard Lunar Sample PI-Ships. Unpublished. JSC
+
+   Kushiro I., Nakamura Y., Kitayama K. and Akimoto S-I.
+                                                       Walker D., Kirkpatrick R.J., Longhi J. and Hays J.F. (1976)    (1971) Petrology of some Apollo 12 crystalline rocks. Proc.
+    2nd Lunar Sci. Conf. 481-495.                                Crystallization history of lunar picritic basalt sample 12002:
+                                                                Phase-equilibria and cooling-rate studies. Geol. Soc. Am.
+   LSPET (1970) Preliminary examination of lunar samples   Bull. 87, 646-656.
+   from Apollo 12. Science 167, 1325-1339.
+
+   Neal C.R. (2001)   Interior of the moon: The presence of
+    garnet in the primitive deep lunar mantle. J. Geophys. Res.
+
+=== PDF PAGE 8; CATEGORIES: references,treatment ===
+--- treatment block 1; lines 1-9 ---
+References for 12020
+    Alexander E.C., Davis P.K. and Reynolds J.H. (1972) Rare-
+    gas analysis on neutron irradiated Apollo 12 samples. Proc.
+     3rd Lunar Sci. Conf. 1787-1795.
+
+    Anders E., Ganapathy R., Keays R.R., Laul J.C., and Morgan
+    J.W. (1971) Volatile and siderophile elements in lunar rocks:
+    Comparsion with terrestrial and meteoritic basalts. Proc.
+     2nd Lunar Sci. Conf. 1021-1036.
+--- references block 2; lines 1-7 ---
+References for 12020
+    Alexander E.C., Davis P.K. and Reynolds J.H. (1972) Rare-
+    gas analysis on neutron irradiated Apollo 12 samples. Proc.
+     3rd Lunar Sci. Conf. 1787-1795.
+
+    Anders E., Ganapathy R., Keays R.R., Laul J.C., and Morgan
+    J.W. (1971) Volatile and siderophile elements in lunar rocks:

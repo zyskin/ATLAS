@@ -1,0 +1,888 @@
+DOCUMENT_ID: 12001__compendium__37bc4e950a
+ATLAS_SAMPLE_IDS: 12001,12003
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/12001.pdf
+SOURCE_PDF_SHA256: b9dc1c8455be4c27ab3fde861d7b62fea5cfc101db68b0737333dffb0a4c8377
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,references ===
+--- material block 1; lines 1-21 ---
+12001 - 2216 grams
+                        12003 - ~ 300 grams
+                                  Reference Soil
+
+
+
+
+
+                                      12001
+
+
+
+
+
+                     Figure 1: Map of Apollo 12 site showing location of LM and soil samples.
+
+
+
+
+
+                   Figure 2: Photo from LM of area where 12001 - 12003 was collected. AS12-47-6960.
+--- references block 2; lines 1-9 ---
+12001 - 2216 grams
+                        12003 - ~ 300 grams
+                                  Reference Soil
+
+
+
+
+
+                                      12001
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 1-20 ---
+25                                                                                          200
+          20                      Apollo soils                   180160                        12003
+                               12001                                                   140
+          15                                 C       120                        12001  FeO                                                                                            100                                           ppm
+          10                                                                                           80
+
+                                                                                                            60
+
+            5                                                                                           40
+
+                                                                                                            20                              Lunar Soils
+            0                                                                                                   0
+              0       5       10      15      20      25      30      35                   0          20          40          60          80         100         120
+                     Al2O3                                              maturity (Is/FeO)
+         Figure 3: Composition of 12001 compared with               Figure 4: Carbon content and maturity index
+           that of other Apollo soil samples.                                 for 12001 and 12003.
+
+                                                Introduction
+                                              The bulk soil sample 12001 – 12003 was collected
+                                                     about 35 meters from the Lunar Module (figures 1 and
+--- mineralogy block 2; lines 15-61 ---
+Figure 3: Composition of 12001 compared with               Figure 4: Carbon content and maturity index
+           that of other Apollo soil samples.                                 for 12001 and 12003.
+
+                                                Introduction
+                                              The bulk soil sample 12001 – 12003 was collected
+                                                     about 35 meters from the Lunar Module (figures 1 and
+        Mineralogical Mode
+                                                                  2). It was returned under vacuum in the Apollo Lunar
+           Frondel et al. 1971
+                         12001   12003                Sample Return Container (ALSRC). 12003 is a portion
+           Olivine +                                                split off during initial processing and studied under
+          Pyroxene         61.8 %  63.4                    nitrogen (Warner 1970). 12001 is the less that 1 mm
+            Plagioclase       15.7     17.2                       fraction, while 12003 is apparently made up of the
+          Opaques          9.5      9.6
+            Glass, angular     10.8     6.1
+            Glass, rounded    2        3.5
+             Silica             0.1      0.3
+
+      Modal Mineralogy of 12001
+       Simon et al. 1981
+        LITHIC FRAGMENTS
+          Mare basalt               12.9
+           Highland Component
+         ANT                 1
+        LMB                    0.1
+               Feld. basalt              0.5
+          RNB/POIK               2.3
+       FUSED SOIL COMPONENT                             average grain size = 73 microns
+       DMB                     9.5
+            Agglutinate               40.1
+       MINERAL FRAG
+           Mafic                    18.3
+            Plag                       3.9
+          Opaque                   0.2
+       GLASS FRAG
+           Orange/black              0.5
+           Yellow/Green              2.8
+         Brown                    1.5
+            Clear                   1
+        MISC
+             Devitrified glass         5
+            Others                     0.5
+                                                                 Figure 5a: Grain size distribution for 12001 (Graf
+                                                                 1993, from data by McKay et al.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 10-25 ---
+20                              Lunar Soils
+            0                                                                                                   0
+              0       5       10      15      20      25      30      35                   0          20          40          60          80         100         120
+                     Al2O3                                              maturity (Is/FeO)
+         Figure 3: Composition of 12001 compared with               Figure 4: Carbon content and maturity index
+           that of other Apollo soil samples.                                 for 12001 and 12003.
+
+                                                Introduction
+                                              The bulk soil sample 12001 – 12003 was collected
+                                                     about 35 meters from the Lunar Module (figures 1 and
+        Mineralogical Mode
+                                                                  2). It was returned under vacuum in the Apollo Lunar
+           Frondel et al. 1971
+                         12001   12003                Sample Return Container (ALSRC). 12003 is a portion
+           Olivine +                                                split off during initial processing and studied under
+--- material block 4; lines 30-48 ---
+Glass, rounded    2        3.5
+             Silica             0.1      0.3
+
+      Modal Mineralogy of 12001
+       Simon et al. 1981
+        LITHIC FRAGMENTS
+          Mare basalt               12.9
+           Highland Component
+         ANT                 1
+        LMB                    0.1
+               Feld. basalt              0.5
+          RNB/POIK               2.3
+       FUSED SOIL COMPONENT                             average grain size = 73 microns
+       DMB                     9.5
+            Agglutinate               40.1
+       MINERAL FRAG
+           Mafic                    18.3
+            Plag                       3.9
+          Opaque                   0.2
+--- material block 5; lines 51-61 ---
+Yellow/Green              2.8
+         Brown                    1.5
+            Clear                   1
+        MISC
+             Devitrified glass         5
+            Others                     0.5
+                                                                 Figure 5a: Grain size distribution for 12001 (Graf
+                                                                 1993, from data by McKay et al.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- treatment block 6; lines 8-33 ---
+5                                                                                           40
+
+                                                                                                            20                              Lunar Soils
+            0                                                                                                   0
+              0       5       10      15      20      25      30      35                   0          20          40          60          80         100         120
+                     Al2O3                                              maturity (Is/FeO)
+         Figure 3: Composition of 12001 compared with               Figure 4: Carbon content and maturity index
+           that of other Apollo soil samples.                                 for 12001 and 12003.
+
+                                                Introduction
+                                              The bulk soil sample 12001 – 12003 was collected
+                                                     about 35 meters from the Lunar Module (figures 1 and
+        Mineralogical Mode
+                                                                  2). It was returned under vacuum in the Apollo Lunar
+           Frondel et al. 1971
+                         12001   12003                Sample Return Container (ALSRC). 12003 is a portion
+           Olivine +                                                split off during initial processing and studied under
+          Pyroxene         61.8 %  63.4                    nitrogen (Warner 1970). 12001 is the less that 1 mm
+            Plagioclase       15.7     17.2                       fraction, while 12003 is apparently made up of the
+          Opaques          9.5      9.6
+            Glass, angular     10.8     6.1
+            Glass, rounded    2        3.5
+             Silica             0.1      0.3
+
+      Modal Mineralogy of 12001
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-7 ---
+Mineralogical Mode for 12001             The maturity index (Is/FeO) for 12001 and 12003 are
+       Labotka et al. 1980                             56 and 57 respectively (Morris 1987). The average
+                        90-20 micron     20-10 micron        grain size of 12001/12003 is about 65 microns (figure
+        Lithic clasts       2.9                                               5 and 6), which is relatively mature.
+       Agglutinates      21.3               4.7
+       Pyroxene         27.5            31
+        Plagioclase        17.4            18                Frondel et al. (1971) determined the mineral mode but
+--- mineralogy block 2; lines 1-30 ---
+Mineralogical Mode for 12001             The maturity index (Is/FeO) for 12001 and 12003 are
+       Labotka et al. 1980                             56 and 57 respectively (Morris 1987). The average
+                        90-20 micron     20-10 micron        grain size of 12001/12003 is about 65 microns (figure
+        Lithic clasts       2.9                                               5 and 6), which is relatively mature.
+       Agglutinates      21.3               4.7
+       Pyroxene         27.5            31
+        Plagioclase        17.4            18                Frondel et al. (1971) determined the mineral mode but
+       Olivine            5.3               10.2               did not specify agglutinates.  Simon et al. (1981)
+        Silica             0.8                1.5              determined the mode for the coarse fraction and
+        Ilmenite           1.2                2.7
+                                                  Labotka et al. (1980) determined the fine fractions.      Mare glass        18.4              24.1
+       Highland glass    4.7                6.4               There are about 40% agglutinates in the coarse grain
+                                                               fraction, but they become unrecognizable in the finer
+                                                              fractions.   greater than 1 mm particles, mixed with some friable
+  material found at the bottom of the ALSRC.
+                                                Marvin et al. (1971), Simon and Papike (1985) and
+                                                Snape et al. (2011) described several large particles  This sample was taken at the end of the first EVA
+                                                from 12001 and 12003.  (Shoemaker et al. 1970). 12001 is one of the “reference
+   soils” studied by Papike et al. (1982). However, 12070
+                                                     Frondel et al. (1971) found that 0.06 wt. % metallic  has been better studied.
+                                                          iron was attracted to a hand magnet (from a 10 gram
+                                                                    split of 12001).  Petrography
+  12001 is one of the reference soils (Labotka et al. 1980),
+                                             Numerous investigators reported on glass particles in  who studied it as a function of grain size.
+                                                   12001. Delano et al. (1981) reported on the trends in
+--- material block 3; lines 1-9 ---
+Mineralogical Mode for 12001             The maturity index (Is/FeO) for 12001 and 12003 are
+       Labotka et al. 1980                             56 and 57 respectively (Morris 1987). The average
+                        90-20 micron     20-10 micron        grain size of 12001/12003 is about 65 microns (figure
+        Lithic clasts       2.9                                               5 and 6), which is relatively mature.
+       Agglutinates      21.3               4.7
+       Pyroxene         27.5            31
+        Plagioclase        17.4            18                Frondel et al. (1971) determined the mineral mode but
+       Olivine            5.3               10.2               did not specify agglutinates.  Simon et al. (1981)
+        Silica             0.8                1.5              determined the mode for the coarse fraction and
+--- material block 4; lines 18-41 ---
+from 12001 and 12003.  (Shoemaker et al. 1970). 12001 is one of the “reference
+   soils” studied by Papike et al. (1982). However, 12070
+                                                     Frondel et al. (1971) found that 0.06 wt. % metallic  has been better studied.
+                                                          iron was attracted to a hand magnet (from a 10 gram
+                                                                    split of 12001).  Petrography
+  12001 is one of the reference soils (Labotka et al. 1980),
+                                             Numerous investigators reported on glass particles in  who studied it as a function of grain size.
+                                                   12001. Delano et al. (1981) reported on the trends in
+
+
+
+
+
+            average grain size = 60 microns                                                             average grain size = 66 microns
+
+
+
+
+
+        Figure 5b: Grain size distribution for 12001 (Graf          Figure 6: Grain size distribution for 12003 (Graf
+        1993, from data by King et al.                            1993, from data by McKay et al.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- treatment block 5; lines 1-19 ---
+Mineralogical Mode for 12001             The maturity index (Is/FeO) for 12001 and 12003 are
+       Labotka et al. 1980                             56 and 57 respectively (Morris 1987). The average
+                        90-20 micron     20-10 micron        grain size of 12001/12003 is about 65 microns (figure
+        Lithic clasts       2.9                                               5 and 6), which is relatively mature.
+       Agglutinates      21.3               4.7
+       Pyroxene         27.5            31
+        Plagioclase        17.4            18                Frondel et al. (1971) determined the mineral mode but
+       Olivine            5.3               10.2               did not specify agglutinates.  Simon et al. (1981)
+        Silica             0.8                1.5              determined the mode for the coarse fraction and
+        Ilmenite           1.2                2.7
+                                                  Labotka et al. (1980) determined the fine fractions.      Mare glass        18.4              24.1
+       Highland glass    4.7                6.4               There are about 40% agglutinates in the coarse grain
+                                                               fraction, but they become unrecognizable in the finer
+                                                              fractions.   greater than 1 mm particles, mixed with some friable
+  material found at the bottom of the ALSRC.
+                                                Marvin et al. (1971), Simon and Papike (1985) and
+                                                Snape et al. (2011) described several large particles  This sample was taken at the end of the first EVA
+                                                from 12001 and 12003.  (Shoemaker et al. 1970). 12001 is one of the “reference
+   soils” studied by Papike et al. (1982). However, 12070
+--- references block 6; lines 12-29 ---
+Highland glass    4.7                6.4               There are about 40% agglutinates in the coarse grain
+                                                               fraction, but they become unrecognizable in the finer
+                                                              fractions.   greater than 1 mm particles, mixed with some friable
+  material found at the bottom of the ALSRC.
+                                                Marvin et al. (1971), Simon and Papike (1985) and
+                                                Snape et al. (2011) described several large particles  This sample was taken at the end of the first EVA
+                                                from 12001 and 12003.  (Shoemaker et al. 1970). 12001 is one of the “reference
+   soils” studied by Papike et al. (1982). However, 12070
+                                                     Frondel et al. (1971) found that 0.06 wt. % metallic  has been better studied.
+                                                          iron was attracted to a hand magnet (from a 10 gram
+                                                                    split of 12001).  Petrography
+  12001 is one of the reference soils (Labotka et al. 1980),
+                                             Numerous investigators reported on glass particles in  who studied it as a function of grain size.
+                                                   12001. Delano et al. (1981) reported on the trends in
+
+=== PDF PAGE 4; CATEGORIES: age,material,mineralogy,treatment ===
+--- mineralogy block 1; lines 1-9 ---
+composition of Apollo 12 particles (mostly from 12070)
+   and Stone et al. (1982) studied the magnetic properties
+   of individual glass beads.
+
+  Chemistry
+   Laul and Papike (1980) give the most definitive
+   analysis (table 1 and figure 7). They find a higher
+   content of REE in the finest fraction (<10 microns).
+--- mineralogy block 2; lines 36-48 ---
+Eberhardt et al. (1972) found that the abundance of
+   rare gas in this soil correlated strongly with grain size,
+   showing that they are implanted in the outer layers of
+   particles (figure 9 and 10).
+
+   Fechtig et al. (1977) studied the microcrater population
+  on a glass surface of a coarse fine particle from 12001
+   (figure 11).  Further investigations on one of these
+   craters illustrate the Complexity of Nature (Nagel et
+    al. 1978).
+
+  Processing
+  The ALSRC contained 40 to 60 microns of gas pressure
+--- material block 3; lines 23-43 ---
+12001.
+
+  Other Studies
+                                                                 Figure 7: Normalized rare-earth-element diagram
+   Arrhenius et al. (1971) studied the frequency of grains                                                                          for 12001 (and 12033 )(Laul and Papike 1981).
+   with high fossil nuclear tracks in 12001 (and all other
+   Apollo 12 soil and core samples)(see figure in section
+  on 12070).
+
+   Norris et al. (1983) studied the isotopic composition
+   of carbon and nitrogen as function of release
+   temperature.
+
+   Eberhardt et al. (1972) found that the abundance of
+   rare gas in this soil correlated strongly with grain size,
+   showing that they are implanted in the outer layers of
+   particles (figure 9 and 10).
+
+   Fechtig et al. (1977) studied the microcrater population
+  on a glass surface of a coarse fine particle from 12001
+   (figure 11).  Further investigations on one of these
+--- age block 4; lines 15-27 ---
+carbon and 78 ppm nitrogen.
+
+   Analyses of 12001 should be compared with that of
+   12070, which has received more study.
+
+  Cosmogenic isotopes and exposure ages
+  Begemann et al. (1972) reported the cosmic-ray-
+   induced activity of 22Na, 26Al, 36Cl, 39Ar and 54Mn for
+   12001.
+
+  Other Studies
+                                                                 Figure 7: Normalized rare-earth-element diagram
+   Arrhenius et al. (1971) studied the frequency of grains                                                                          for 12001 (and 12033 )(Laul and Papike 1981).
+--- treatment block 5; lines 1-14 ---
+composition of Apollo 12 particles (mostly from 12070)
+   and Stone et al. (1982) studied the magnetic properties
+   of individual glass beads.
+
+  Chemistry
+   Laul and Papike (1980) give the most definitive
+   analysis (table 1 and figure 7). They find a higher
+   content of REE in the finest fraction (<10 microns).
+
+  Moore et al. (1971) determined the carbon content of
+  12001 and 12003 as 120 ppm and 180 ppm,
+   respectively. They also reported 110 and 85 ppm
+   nitrogen. Kerridge et al. (1978) found 102 ppm C and
+  54 ppm N, while Norris et  al. (1983) found 96 ppm
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 12001.
+
+
+   reference  Papike 82  Wanke71  Schnetzler71  Frondel71          Kharkar71
+   weight     Laul81                          < 1 mm < 0.037     ave.
+  SiO2 %   46       (a) 46.2    (a)                45.6     46.1    (d)
+   TiO2       2.8      (a) 2.67    (a)              3        2.9      (d) 3.84    (c )
+  Al2O3     12.5     (a) 12.56  (a)                13.9     14.8    (d)
+  FeO       17.2     (a) 16.85  (a)                16.2     15.6    (d) 15.82   (c )
+  MnO      0.22     (a) 0.22    (a)                0.21     0.19    (d) 0.21    (c )
+  MgO      10.4     (a) 9.8     (a)                10.2     9.05    (d)
+  CaO       10.9     (a) 8.54    (a)                10.25    10.81   (d) 11.76   (c )
+  Na2O     0.48     (a) 0.43    (a)                0.45     0.45    (d) 0.46    (c )
+  K2O       0.26     (a) 0.25    (a)  0.24       (c ) 0.23     0.23    (d)
+  P2O5                                          0.25     0.22    (d)
+  S %
+  sum
+
+  Sc ppm    40.2     (a) 38.1    (a)                                39      (c )
+  V         110     (a)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 12001.
+
+
+   reference  Papike 82  Wanke71  Schnetzler71  Frondel71          Kharkar71
+   weight     Laul81                          < 1 mm < 0.037     ave.
+  SiO2 %   46       (a) 46.2    (a)                45.6     46.1    (d)
+   TiO2       2.8      (a) 2.67    (a)              3        2.9      (d) 3.84    (c )
+  Al2O3     12.5     (a) 12.56  (a)                13.9     14.8    (d)
+  FeO       17.2     (a) 16.85  (a)                16.2     15.6    (d) 15.82   (c )
+  MnO      0.22     (a) 0.22    (a)                0.21     0.19    (d) 0.21    (c )
+--- references block 3; lines 65-74 ---
+Os ppb
+     Ir ppb                11      (b)
+   Pt ppb
+  Au ppb                2.6     (b)                                      2.9      (c )
+  Th ppm    5.4      (a) 5.5     (a)
+  U ppm                1.67    (a)                                    1.23    (c )
+   technique:  (a) INAA, (b) RNAA, (c ) IDMS, (d) wet
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 6; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-16 ---
+Figure 8: Composition of 89 glass particles from
+           Apollo 12 soil (Delano 1979).                              Figure 9: Rare gas as function of grain size
+                                                                     (Eberhardt et al. 1972).
+
+
+
+
+
+         Figure 10: Rare gas content as function of grain
+           size for ilmenite (Eberhardt et al. 1972).                                                                  Figure 11: Microcrater size distribution on
+                                                               12001,520 (Fectig et al. 1977).
+--- material block 2; lines 1-8 ---
+Figure 8: Composition of 89 glass particles from
+           Apollo 12 soil (Delano 1979).                              Figure 9: Rare gas as function of grain size
+                                                                     (Eberhardt et al. 1972).
+
+=== PDF PAGE 7; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 36-48 ---
+Barra F., Swindle T.D., Korotev R.L., Jolliff B.L., Zeigler   Carrier W.D ., Mitchell J.K. and Mahmood A. (1973) The
+  R.A. and Olson E. (2006)  40Ar/39Ar dating of Apollo 12   relative density of lunar soil.  Proc. 4th Lunar Sci. Conf.
+   regolith: Implications for the age of Copernicus and the   2403-2411.
+   source of nonmare materials. Geochim. Cosmochim. Acta
+   70, 6016-6031.                                    Champness P.E., Dunham A.C., Gibb F.G.F., Giles H.N.,
+                                                 MacKenzie W.S., Stumpel E.F. and Zussman J. (1971)
+  Begemann F., Born W., Palme H., Vilcsek E. and Wanke H.   Mineralogy and petrology of some Apollo 12 lunar samples.
+   (1972)  Cosmic-ray produced radionuclides in Apollo 12   Proc. 2nd Lunar Sci. Conf. 359-376.
+  and Apollo 14 samples. Proc. 3rd Lunar Sci. Conf. 1693-
+  1702.                                            Compston W., Berry H., Vernon M.J, Chappell B.W. and
+                                                Kaye M.J. (1971)  Rubidium-strontium chronology and
+   Bottino M.L., Fullagar P.D., Schnetzler C.C. and Phillpotts   chemistry of lunar material from the Ocean of Storms. Proc.
+   J.A. (1971) Sr isotopic measurements in Apollo 12 samples.   2nd Lunar Sci. Conf. 1471-1485.
+--- material block 2; lines 27-44 ---
+Pillinger C.T. (1971) Survey of lunar carbon compounds.  Bunch T.E., Prinz M. and Keil K. (1972c)  Electron
+   Proc. Second Lunar Sci. Conf. 1843-1863.                microprobe analyses of lithic fragments and glasses from
+                                                        Apollo 12 lunar samples. Special. Pub. #4, UNM Institute
+  Arrhenius G., Liang S., MacDougal D., Wilkening L.,   of Meteoritics, ABQ.
+  Bhandari N., Bhat S., Lal D., Rajagopalan G., Tamhane A.S.,
+  and Venkatavaradan V.S. (1971) The exposure history of   Carter J.L. (1971) Chemistry and surface morphology of
+   the Apollo 12 regolith.  Proc. 2nd Lunar Sci. Conf. 2583-   fragments from Apollo 12 soil.  Proc. Second Lunar Sci.
+  2598.                                                   Conf. 873-892.
+
+   Barra F., Swindle T.D., Korotev R.L., Jolliff B.L., Zeigler   Carrier W.D ., Mitchell J.K. and Mahmood A. (1973) The
+  R.A. and Olson E. (2006)  40Ar/39Ar dating of Apollo 12   relative density of lunar soil.  Proc. 4th Lunar Sci. Conf.
+   regolith: Implications for the age of Copernicus and the   2403-2411.
+   source of nonmare materials. Geochim. Cosmochim. Acta
+   70, 6016-6031.                                    Champness P.E., Dunham A.C., Gibb F.G.F., Giles H.N.,
+                                                 MacKenzie W.S., Stumpel E.F. and Zussman J. (1971)
+  Begemann F., Born W., Palme H., Vilcsek E. and Wanke H.   Mineralogy and petrology of some Apollo 12 lunar samples.
+   (1972)  Cosmic-ray produced radionuclides in Apollo 12   Proc. 2nd Lunar Sci. Conf. 359-376.
+  and Apollo 14 samples. Proc. 3rd Lunar Sci. Conf. 1693-
+--- age block 3; lines 31-49 ---
+Bhandari N., Bhat S., Lal D., Rajagopalan G., Tamhane A.S.,
+  and Venkatavaradan V.S. (1971) The exposure history of   Carter J.L. (1971) Chemistry and surface morphology of
+   the Apollo 12 regolith.  Proc. 2nd Lunar Sci. Conf. 2583-   fragments from Apollo 12 soil.  Proc. Second Lunar Sci.
+  2598.                                                   Conf. 873-892.
+
+   Barra F., Swindle T.D., Korotev R.L., Jolliff B.L., Zeigler   Carrier W.D ., Mitchell J.K. and Mahmood A. (1973) The
+  R.A. and Olson E. (2006)  40Ar/39Ar dating of Apollo 12   relative density of lunar soil.  Proc. 4th Lunar Sci. Conf.
+   regolith: Implications for the age of Copernicus and the   2403-2411.
+   source of nonmare materials. Geochim. Cosmochim. Acta
+   70, 6016-6031.                                    Champness P.E., Dunham A.C., Gibb F.G.F., Giles H.N.,
+                                                 MacKenzie W.S., Stumpel E.F. and Zussman J. (1971)
+  Begemann F., Born W., Palme H., Vilcsek E. and Wanke H.   Mineralogy and petrology of some Apollo 12 lunar samples.
+   (1972)  Cosmic-ray produced radionuclides in Apollo 12   Proc. 2nd Lunar Sci. Conf. 359-376.
+  and Apollo 14 samples. Proc. 3rd Lunar Sci. Conf. 1693-
+  1702.                                            Compston W., Berry H., Vernon M.J, Chappell B.W. and
+                                                Kaye M.J. (1971)  Rubidium-strontium chronology and
+   Bottino M.L., Fullagar P.D., Schnetzler C.C. and Phillpotts   chemistry of lunar material from the Ocean of Storms. Proc.
+   J.A. (1971) Sr isotopic measurements in Apollo 12 samples.   2nd Lunar Sci. Conf. 1471-1485.
+   Proc. 2nd Lunar Sci. Conf. 1487-1491.
+--- references block 4; lines 19-31 ---
+,108      1 g     1 g                                                          ,113                                                   TS
+                                            TS
+                                                                    ,11      ,12
+                                                         1 g     1 g
+
+
+  References for 12001 and 12003
+   Abell P.I., Cadogen P.H., Eglington G., Maxwell J.R. and
+   Pillinger C.T. (1971) Survey of lunar carbon compounds.  Bunch T.E., Prinz M. and Keil K. (1972c)  Electron
+   Proc. Second Lunar Sci. Conf. 1843-1863.                microprobe analyses of lithic fragments and glasses from
+                                                        Apollo 12 lunar samples. Special. Pub. #4, UNM Institute
+  Arrhenius G., Liang S., MacDougal D., Wilkening L.,   of Meteoritics, ABQ.
+  Bhandari N., Bhat S., Lal D., Rajagopalan G., Tamhane A.S.,
+
+=== PDF PAGE 8; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 14-26 ---
+Hintenberger H., Weber H.W. and Takaoka N. (1971)   Eberhardt P., Geiss J., Graf H., Grogler N., Mendina M.D.,
+                                                            Concentrations and isotopic abundances of the rare gases in   Morgeli M., Schwaller H., Stettler A., Krahenbuhl U. and
+                                                               lunar matter. Proc. 2nd Lunar Sci. Conf. 1607-1625.   von Gunten H.R. (1972) Trapped solar wind noble gases in
+   Apollo 12 lunar fines 12001 and Apollo 11 breccia 10046.
+                                                    Hubbard N.J. and Gast P.W. (1972) Chemical composition   Proc. 3rd Lunar Sci. Conf. 1821-1856.
+                                                      and origin of non-mare lunar basalts. Proc. 2nd Lunar Sci.
+                                                           Conf. 999-1020.  Ehmann W.D., Chyi L.L., Garg A.N., Hawke B.R., Ma M.-
+    S., Miller M.D., James W.D. and Pacer R.A. (1975a)
+                                                      Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Chemical studies of the lunar regolith with emphasis on
+   zirconium and hafnium. Proc. 6th Lunar Sci. Conf. 1351-
+                                                      Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   1361.
+--- mineralogy block 2; lines 23-50 ---
+S., Miller M.D., James W.D. and Pacer R.A. (1975a)
+                                                      Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Chemical studies of the lunar regolith with emphasis on
+   zirconium and hafnium. Proc. 6th Lunar Sci. Conf. 1351-
+                                                      Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   1361.
+                                                       Space Phys. 13, 567-587.
+   Epstein S. and Taylor H.P. (1971) O18/O16, Si30.Si28, D/
+                                                            Keil K., Prinz T.E. and Bunch T.E. (1971)  Mineralogy,  H and C13/C12 ratios in lunar samples. Proc. 2nd Lunar Sci.
+                                                             petrology and chemistry of some Apollo 12 samples. Proc.   Conf. 1421-1441.
+                                                                         2nd Lunar Sci. Conf. 319-341.
+   Fechtig H., Nagel K., Stahle V., Grogler N., Schneider E.
+                                                       Kerridge J.F., Kaplan I.R., Kung C.C., Winter D.A.,   and Neukum G. (1977) Impact phenomena on an Apollo 12
+                                                      Friedman D.L. and DesMarais D.J. (1978) Light element   sample. Proc. 8th Lunar Sci. Conf. 889-899.
+                                                          geochemistry of the Apollo 12 site. Geochim. Cosmochim.
+                                                         Acta 42, 391-402.   Friedman I., O’Niel J.R., Gleason J.D. and Hardcastle K.G.
+   (1971) The carbon and hydrogen content and isotopic
+                                                        Kharkar D.P. and Turekian K.K. (1971) Analyses of Apollo   composition of some Apollo 12 materials. Proc. 2nd Lunar
+                                                       11 and Apollo 12 rocks and soils by neutron activation. Proc.    Sci. Conf. 1407-1415.
+                                                                         2nd Lunar Sci. Conf. 1301-1305.
+   Frondel C., Klein C. and Ito J. (1971) Mineralogical and
+                                                    King E.A., Butler J.C. and Carman M.F. (1971) The lunar   chemical data on Apollo 12 lunar fines. Proc. Second Lunar
+                                                                    regolith as sampled by Apollo 11 and 12: Grain size analyses,    Sci. Conf. 719-726.
+                                                    modal analyses and origins of particles. Proc. 2nd Lunar
+                                                                       Sci. Conf. 737-746.   Goldstein J.I. and Yakowitz H. (1971) Metallic inclusions
+   and metal particles in the Apollo 12 lunar soil. Proc. Second
+                                                        Labotka T.C., Kempa M.J., White C., Papike J.J. and Laul   Lunar Sci. Conf. 177-191.
+                                                                   J.C. (1980) The lunar regolith: Comparative petrology of
+                                                                the Apollo sites. Proc. 11th Lunar Planet. Sci. Conf. 1285-   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+                                                         1305.   Pub. 1265
+--- material block 3; lines 1-30 ---
+C                                      Meyer        12003                                    2009
+                              300 g
+
+
+                                                                                ,66   ,131                        ,18     ,25       ,26       ,27         ,28      ,29                ,3                                                                  47 g 90 g
+
+                                      grain size
+                                     analysis
+                                                                                ,174
+               ,3     ,68    ,132     ,25      ,37  ,26     ,32  ,185    ,183         4.2 g        ,46    ,47    ,29
+           16 g  20 g   13 g     5.2 g       13 g        3.7 g   2 g                   1 g   10 g   46 g
+                                                                                4 - 10 mm                                                                   ,35                                                     ,41                                                                                                     < 1 mm                                  < 1 mm                                                TS       2 - 4 mm                                      TS  1 - 2 mm
+
+
+
+                                                        Hintenberger H., Weber H.W. and Takaoka N. (1971)   Eberhardt P., Geiss J., Graf H., Grogler N., Mendina M.D.,
+                                                            Concentrations and isotopic abundances of the rare gases in   Morgeli M., Schwaller H., Stettler A., Krahenbuhl U. and
+                                                               lunar matter. Proc. 2nd Lunar Sci. Conf. 1607-1625.   von Gunten H.R. (1972) Trapped solar wind noble gases in
+   Apollo 12 lunar fines 12001 and Apollo 11 breccia 10046.
+                                                    Hubbard N.J. and Gast P.W. (1972) Chemical composition   Proc. 3rd Lunar Sci. Conf. 1821-1856.
+                                                      and origin of non-mare lunar basalts. Proc. 2nd Lunar Sci.
+                                                           Conf. 999-1020.  Ehmann W.D., Chyi L.L., Garg A.N., Hawke B.R., Ma M.-
+    S., Miller M.D., James W.D. and Pacer R.A. (1975a)
+                                                      Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Chemical studies of the lunar regolith with emphasis on
+   zirconium and hafnium. Proc. 6th Lunar Sci. Conf. 1351-
+                                                      Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   1361.
+                                                       Space Phys. 13, 567-587.
+   Epstein S. and Taylor H.P. (1971) O18/O16, Si30.Si28, D/
+                                                            Keil K., Prinz T.E. and Bunch T.E. (1971)  Mineralogy,  H and C13/C12 ratios in lunar samples. Proc. 2nd Lunar Sci.
+                                                             petrology and chemistry of some Apollo 12 samples. Proc.   Conf. 1421-1441.
+--- material block 4; lines 37-55 ---
+(1971) The carbon and hydrogen content and isotopic
+                                                        Kharkar D.P. and Turekian K.K. (1971) Analyses of Apollo   composition of some Apollo 12 materials. Proc. 2nd Lunar
+                                                       11 and Apollo 12 rocks and soils by neutron activation. Proc.    Sci. Conf. 1407-1415.
+                                                                         2nd Lunar Sci. Conf. 1301-1305.
+   Frondel C., Klein C. and Ito J. (1971) Mineralogical and
+                                                    King E.A., Butler J.C. and Carman M.F. (1971) The lunar   chemical data on Apollo 12 lunar fines. Proc. Second Lunar
+                                                                    regolith as sampled by Apollo 11 and 12: Grain size analyses,    Sci. Conf. 719-726.
+                                                    modal analyses and origins of particles. Proc. 2nd Lunar
+                                                                       Sci. Conf. 737-746.   Goldstein J.I. and Yakowitz H. (1971) Metallic inclusions
+   and metal particles in the Apollo 12 lunar soil. Proc. Second
+                                                        Labotka T.C., Kempa M.J., White C., Papike J.J. and Laul   Lunar Sci. Conf. 177-191.
+                                                                   J.C. (1980) The lunar regolith: Comparative petrology of
+                                                                the Apollo sites. Proc. 11th Lunar Planet. Sci. Conf. 1285-   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+                                                         1305.   Pub. 1265
+
+                                                        Laul J.C. (1986)  Chemistry of the Apollo 12 highland  Heyman D., Yaniv A. and Lakatos S. (1972)  Inert gases
+                                                        component. Proc. 16th Lunar Planet. Sci. Conf. D251-D261.   from Apollo 12, 14 and 15 fines. Proc. 3rd Lunar Sci. Conf.
+   1857-1863.
+
+=== PDF PAGE 9; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-22 ---
+Laul J.C. and Papike J.J. (1980a) The lunar regolith:
+  Comparative chemistry of the Apollo sites. Proc. 11th Lunar   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+   Planet. Sci. Conf. 1307-1340.                               regolith: Chemistry, Mineralogy and Petrology.  Rev.
+                                                       Geophys. Space Phys. 20, 761-826.
+  Laul J.C., Morgan J.W., Ganapathy R. and Anders E. (1971)
+   Meteoritic materials in lunar samples: Characterization from   Pepin R.O., Bradley J.G., Dragon J.C. and Nyquist L.E.
+   trace elements. Proc. 2nd Lunar Sci. Conf. 1139-1158.       (1972) K-Ar dating of lunar fines: Apollo 12, Apollo 14
+                                                      and Luna 16. Proc. 3rd Lunar Sci. Conf. 1569-1588.
+  LSPET (1970) Preliminary Examination of Lunar Samples
+  from Apollo 12. Science 167, 1325-1339                Quaide W., Overbeck V.R., Bunch T. and Polkowski G.
+                                                          (1971) Investigations of the natural history of the regolith
+  LSPET (1972a) The Apollo 15 lunar samples: A preliminary   at the Apollo 12 site. Proc. Second Lunar. Sci. Conf. 701-
+   description. Science 175, 363-375.                        718.
+
+  LSPET (1972b) Preliminary examination of lunar samples.  Reed G.W. and Jovanovic S. (1971) The halogen and other
+  Apollo 15 Preliminary Science Report. NASA SP-289, 6-   trace elements in Apollo 12 samples. Proc. 2nd Lunar Sci.
+  1—6-28.                                                Conf. 1261-1276.
+
+  Marvin U.B. (1978)  Apollo 12 coarse fines (2-10 mm):   Reid A.M., Warner J., Ridley W.I., Johnston D.A., Harman
+  Sample locations, description and inventory. Curators Office,   R.S., Jakes P. and Brown R.W. (1972a) The mojor element
+  JSC#14434                                              compositions of lunar rocks inferred from glass compositions
+                                                                  in lunar soils. Proc. 3rd Lunar Sci. Conf. 363-379.
+--- mineralogy block 2; lines 1-9 ---
+Laul J.C. and Papike J.J. (1980a) The lunar regolith:
+  Comparative chemistry of the Apollo sites. Proc. 11th Lunar   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+   Planet. Sci. Conf. 1307-1340.                               regolith: Chemistry, Mineralogy and Petrology.  Rev.
+                                                       Geophys. Space Phys. 20, 761-826.
+  Laul J.C., Morgan J.W., Ganapathy R. and Anders E. (1971)
+   Meteoritic materials in lunar samples: Characterization from   Pepin R.O., Bradley J.G., Dragon J.C. and Nyquist L.E.
+   trace elements. Proc. 2nd Lunar Sci. Conf. 1139-1158.       (1972) K-Ar dating of lunar fines: Apollo 12, Apollo 14
+                                                      and Luna 16. Proc. 3rd Lunar Sci. Conf. 1569-1588.
+  LSPET (1970) Preliminary Examination of Lunar Samples
+--- mineralogy block 3; lines 15-40 ---
+LSPET (1972b) Preliminary examination of lunar samples.  Reed G.W. and Jovanovic S. (1971) The halogen and other
+  Apollo 15 Preliminary Science Report. NASA SP-289, 6-   trace elements in Apollo 12 samples. Proc. 2nd Lunar Sci.
+  1—6-28.                                                Conf. 1261-1276.
+
+  Marvin U.B. (1978)  Apollo 12 coarse fines (2-10 mm):   Reid A.M., Warner J., Ridley W.I., Johnston D.A., Harman
+  Sample locations, description and inventory. Curators Office,   R.S., Jakes P. and Brown R.W. (1972a) The mojor element
+  JSC#14434                                              compositions of lunar rocks inferred from glass compositions
+                                                                  in lunar soils. Proc. 3rd Lunar Sci. Conf. 363-379.
+  Marvin U.B., Wood J.A., Taylor G.J., Reid J.B., Powell B.N.,
+  Dickey J.S. and Bower J.F. (1971) Relative proportions and   Schnetzler C.C. and Philpotts J.A. (1971) Alkali, alkaline
+   probable sources of rock fragments in the Apollo 12 soil   earth, and rare earth element concentrations in some Apollo
+   samples. Proc. 2nd Lunar Sci. Conf. 679-699.            12 soils, rocks, and separated phases. Proc. 2nd Lunar Sci.
+                                                           Conf. 1101-1122.
+  McKay D.S., Morrison D.A., Clanton U.S., Ladle G.H. and
+  Lindsay J. (1971) Apollo 12 soil and breccias. Proc. Second  Shoemaker E.M. and 12 others (1970b)  10. Preliminary
+  Lunar Sci. Conf. 755-774.                                 geologic investigation of the Apollo 12 landing site.  In
+                                                         Apollo 12 Preliminary Science Rpt. NASA SP-235 page 113-
+  Meyer C., Brett R., Hubbard N.J., Morrison D.A., McKay   156.
+   D.S., Aitken F.K, Takeda H. and Schonfeld E. (1971)
+   Mineralogy, chemistry and origin of the KREEP component  Simon S.B., Papike J.J. and Laul J.C. (1981) The lunar
+   in soil samples from the Ocean of Storms. Proc. 2nd Lunar   regolith: Comparative studies of the Apollo and Luna sites.
+   Sci. Conf. 393-411.                                       Proc. 12th Lunar Planet. Sci. Conf. 371-388.
+
+  Moore C.B., Lewis C.F., Larimer J.W., Delles F.M., Gooley  Simon S.B. and Papike J.J. (1985) Petrology of the Apollo
+   R.C., Nichiporuk W. and Gibson E.K. (1971) Total carbon  12 highland component. Proc. 16th Lunar Planet. Sci. Conf.
+  and nitrogen abundances in Apollo 12 lunar samples. Proc.  D47-D60.
+--- mineralogy block 4; lines 47-60 ---
+Norris S.J., Swart P.K., Wright I.P., Grady M.M. and Pillinger  A petrographic study of basaltic fragments in Apollo regolith
+   C.T. (1983) A search for a correlatable, isotopically light   sample 12003 (abs#2020). 42nd Lunar Planet. Sci. Conf. @
+  carbon and nitrogen components in lunar soils and breccias.  The Woodlands.
+   Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys. Res. 88,
+  B200-B210.                                             Stone C.D., Taylor L.A., McKay D.S. and Morris R.V. (1982)
+                                                        Ferromagnetic resonance intensity: A rapid method for
+  Papike J.J., Simon S.B., White C. and Laul J.C. (1981) The   determining lunar glass bead origin. Proc. 13th Lunar Planet.
+   relationship of the lunar regolith <10 micron fraction and   Sci. Conf. in J. Geophys. Res. 87, A182-A196.
+   agglutinates. Part I: A model for agglutinate formation and
+  some indirect supportive evidence. Proc. 12th Lunar Planet.
+   Sci. Conf. 409-420.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 5; lines 1-60 ---
+Laul J.C. and Papike J.J. (1980a) The lunar regolith:
+  Comparative chemistry of the Apollo sites. Proc. 11th Lunar   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+   Planet. Sci. Conf. 1307-1340.                               regolith: Chemistry, Mineralogy and Petrology.  Rev.
+                                                       Geophys. Space Phys. 20, 761-826.
+  Laul J.C., Morgan J.W., Ganapathy R. and Anders E. (1971)
+   Meteoritic materials in lunar samples: Characterization from   Pepin R.O., Bradley J.G., Dragon J.C. and Nyquist L.E.
+   trace elements. Proc. 2nd Lunar Sci. Conf. 1139-1158.       (1972) K-Ar dating of lunar fines: Apollo 12, Apollo 14
+                                                      and Luna 16. Proc. 3rd Lunar Sci. Conf. 1569-1588.
+  LSPET (1970) Preliminary Examination of Lunar Samples
+  from Apollo 12. Science 167, 1325-1339                Quaide W., Overbeck V.R., Bunch T. and Polkowski G.
+                                                          (1971) Investigations of the natural history of the regolith
+  LSPET (1972a) The Apollo 15 lunar samples: A preliminary   at the Apollo 12 site. Proc. Second Lunar. Sci. Conf. 701-
+   description. Science 175, 363-375.                        718.
+
+  LSPET (1972b) Preliminary examination of lunar samples.  Reed G.W. and Jovanovic S. (1971) The halogen and other
+  Apollo 15 Preliminary Science Report. NASA SP-289, 6-   trace elements in Apollo 12 samples. Proc. 2nd Lunar Sci.
+  1—6-28.                                                Conf. 1261-1276.
+
+  Marvin U.B. (1978)  Apollo 12 coarse fines (2-10 mm):   Reid A.M., Warner J., Ridley W.I., Johnston D.A., Harman
+  Sample locations, description and inventory. Curators Office,   R.S., Jakes P. and Brown R.W. (1972a) The mojor element
+  JSC#14434                                              compositions of lunar rocks inferred from glass compositions
+                                                                  in lunar soils. Proc. 3rd Lunar Sci. Conf. 363-379.
+  Marvin U.B., Wood J.A., Taylor G.J., Reid J.B., Powell B.N.,
+  Dickey J.S. and Bower J.F. (1971) Relative proportions and   Schnetzler C.C. and Philpotts J.A. (1971) Alkali, alkaline
+   probable sources of rock fragments in the Apollo 12 soil   earth, and rare earth element concentrations in some Apollo
+   samples. Proc. 2nd Lunar Sci. Conf. 679-699.            12 soils, rocks, and separated phases. Proc. 2nd Lunar Sci.
+                                                           Conf. 1101-1122.
+  McKay D.S., Morrison D.A., Clanton U.S., Ladle G.H. and
+  Lindsay J. (1971) Apollo 12 soil and breccias. Proc. Second  Shoemaker E.M. and 12 others (1970b)  10. Preliminary
+  Lunar Sci. Conf. 755-774.                                 geologic investigation of the Apollo 12 landing site.  In
+                                                         Apollo 12 Preliminary Science Rpt. NASA SP-235 page 113-
+  Meyer C., Brett R., Hubbard N.J., Morrison D.A., McKay   156.
+   D.S., Aitken F.K, Takeda H. and Schonfeld E. (1971)
+   Mineralogy, chemistry and origin of the KREEP component  Simon S.B., Papike J.J. and Laul J.C. (1981) The lunar
+   in soil samples from the Ocean of Storms. Proc. 2nd Lunar   regolith: Comparative studies of the Apollo and Luna sites.
+   Sci. Conf. 393-411.                                       Proc. 12th Lunar Planet. Sci. Conf. 371-388.
+
+  Moore C.B., Lewis C.F., Larimer J.W., Delles F.M., Gooley  Simon S.B. and Papike J.J. (1985) Petrology of the Apollo
+   R.C., Nichiporuk W. and Gibson E.K. (1971) Total carbon  12 highland component. Proc. 16th Lunar Planet. Sci. Conf.
+  and nitrogen abundances in Apollo 12 lunar samples. Proc.  D47-D60.
+   2nd Lunar Sci. Conf. 1343-1350.
+                                                 Simon S.B., Papike J.J., Gosselin and Laul J.C.  (1985)
+  Nagel K., ElGoresy A. and Grogler N. (1978) Chemical   Petrology and chemistry of the Apollo 12 regolith breccias.
+   investigations of impact features on sample 12001,520. Proc.   Proc. 16th Lunar Planet. Sci. Conf. D75-D86.
+    9th Lunar Planet. Sci. Conf. 2485-2493.
+                                                     Snape J.F., Crawford I.A., Joy K.H. and Burgess R. (2011)
+   Norris S.J., Swart P.K., Wright I.P., Grady M.M. and Pillinger  A petrographic study of basaltic fragments in Apollo regolith
+   C.T. (1983) A search for a correlatable, isotopically light   sample 12003 (abs#2020). 42nd Lunar Planet. Sci. Conf. @
+  carbon and nitrogen components in lunar soils and breccias.  The Woodlands.
+   Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys. Res. 88,
+  B200-B210.                                             Stone C.D., Taylor L.A., McKay D.S. and Morris R.V. (1982)
+                                                        Ferromagnetic resonance intensity: A rapid method for
+  Papike J.J., Simon S.B., White C. and Laul J.C. (1981) The   determining lunar glass bead origin. Proc. 13th Lunar Planet.
+   relationship of the lunar regolith <10 micron fraction and   Sci. Conf. in J. Geophys. Res. 87, A182-A196.
+   agglutinates. Part I: A model for agglutinate formation and
+  some indirect supportive evidence. Proc. 12th Lunar Planet.
+   Sci. Conf. 409-420.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 6; lines 1-13 ---
+Laul J.C. and Papike J.J. (1980a) The lunar regolith:
+  Comparative chemistry of the Apollo sites. Proc. 11th Lunar   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+   Planet. Sci. Conf. 1307-1340.                               regolith: Chemistry, Mineralogy and Petrology.  Rev.
+                                                       Geophys. Space Phys. 20, 761-826.
+  Laul J.C., Morgan J.W., Ganapathy R. and Anders E. (1971)
+   Meteoritic materials in lunar samples: Characterization from   Pepin R.O., Bradley J.G., Dragon J.C. and Nyquist L.E.
+   trace elements. Proc. 2nd Lunar Sci. Conf. 1139-1158.       (1972) K-Ar dating of lunar fines: Apollo 12, Apollo 14
+                                                      and Luna 16. Proc. 3rd Lunar Sci. Conf. 1569-1588.
+  LSPET (1970) Preliminary Examination of Lunar Samples
+  from Apollo 12. Science 167, 1325-1339                Quaide W., Overbeck V.R., Bunch T. and Polkowski G.
+                                                          (1971) Investigations of the natural history of the regolith
+  LSPET (1972a) The Apollo 15 lunar samples: A preliminary   at the Apollo 12 site. Proc. Second Lunar. Sci. Conf. 701-
+   description. Science 175, 363-375.                        718.
+--- treatment block 7; lines 20-32 ---
+Sample locations, description and inventory. Curators Office,   R.S., Jakes P. and Brown R.W. (1972a) The mojor element
+  JSC#14434                                              compositions of lunar rocks inferred from glass compositions
+                                                                  in lunar soils. Proc. 3rd Lunar Sci. Conf. 363-379.
+  Marvin U.B., Wood J.A., Taylor G.J., Reid J.B., Powell B.N.,
+  Dickey J.S. and Bower J.F. (1971) Relative proportions and   Schnetzler C.C. and Philpotts J.A. (1971) Alkali, alkaline
+   probable sources of rock fragments in the Apollo 12 soil   earth, and rare earth element concentrations in some Apollo
+   samples. Proc. 2nd Lunar Sci. Conf. 679-699.            12 soils, rocks, and separated phases. Proc. 2nd Lunar Sci.
+                                                           Conf. 1101-1122.
+  McKay D.S., Morrison D.A., Clanton U.S., Ladle G.H. and
+  Lindsay J. (1971) Apollo 12 soil and breccias. Proc. Second  Shoemaker E.M. and 12 others (1970b)  10. Preliminary
+  Lunar Sci. Conf. 755-774.                                 geologic investigation of the Apollo 12 landing site.  In
+                                                         Apollo 12 Preliminary Science Rpt. NASA SP-235 page 113-
+  Meyer C., Brett R., Hubbard N.J., Morrison D.A., McKay   156.
+--- treatment block 8; lines 48-60 ---
+C.T. (1983) A search for a correlatable, isotopically light   sample 12003 (abs#2020). 42nd Lunar Planet. Sci. Conf. @
+  carbon and nitrogen components in lunar soils and breccias.  The Woodlands.
+   Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys. Res. 88,
+  B200-B210.                                             Stone C.D., Taylor L.A., McKay D.S. and Morris R.V. (1982)
+                                                        Ferromagnetic resonance intensity: A rapid method for
+  Papike J.J., Simon S.B., White C. and Laul J.C. (1981) The   determining lunar glass bead origin. Proc. 13th Lunar Planet.
+   relationship of the lunar regolith <10 micron fraction and   Sci. Conf. in J. Geophys. Res. 87, A182-A196.
+   agglutinates. Part I: A model for agglutinate formation and
+  some indirect supportive evidence. Proc. 12th Lunar Planet.
+   Sci. Conf. 409-420.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- references block 9; lines 46-58 ---
+Snape J.F., Crawford I.A., Joy K.H. and Burgess R. (2011)
+   Norris S.J., Swart P.K., Wright I.P., Grady M.M. and Pillinger  A petrographic study of basaltic fragments in Apollo regolith
+   C.T. (1983) A search for a correlatable, isotopically light   sample 12003 (abs#2020). 42nd Lunar Planet. Sci. Conf. @
+  carbon and nitrogen components in lunar soils and breccias.  The Woodlands.
+   Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys. Res. 88,
+  B200-B210.                                             Stone C.D., Taylor L.A., McKay D.S. and Morris R.V. (1982)
+                                                        Ferromagnetic resonance intensity: A rapid method for
+  Papike J.J., Simon S.B., White C. and Laul J.C. (1981) The   determining lunar glass bead origin. Proc. 13th Lunar Planet.
+   relationship of the lunar regolith <10 micron fraction and   Sci. Conf. in J. Geophys. Res. 87, A182-A196.
+   agglutinates. Part I: A model for agglutinate formation and
+  some indirect supportive evidence. Proc. 12th Lunar Planet.
+   Sci. Conf. 409-420.
+
+=== PDF PAGE 10; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 5-26 ---
+Wakita H. and Schmitt R.A. (1971)  Bulk elemental
+   composition of Apollo 12 samples: Five igneous and one
+   breccia rocks and four soils. Proc. 2nd Lunar Sci. Conf. 1231-
+   1236.
+
+   Wakita H., Rey P. and Schmitt R.A. (1971) Abundances of
+   the 14 rare-earth elements and 12 other trace elements in
+   Apollo 12 samples. Proc. 2nd Lunar Sci. Conf. 1319-1329.
+
+   Walker R.J. and Papike J.J. (1981a) The relationship of the
+   lunar regolith < 10 micron fraction and agglutinates. Part II:
+   Chemical composition of agglutinate glass as a test of the
+   F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+
+  Wänke H., Wlotzka F., M. and Rieder R. (1971) Apollo 12
+   samples: Chemical composition and its relation to sample
+   locations and exposure ages, the two component origin of
+   the various soil samples and studies on lunar metallic
+    particles. Proc. 2nd Lunar Sci. Conf. 1187-1208.
+
+   Warner J. (1970)  Apollo 12 Lunar Sample Information.
+  NASA TR R-353. JSC (catalog)
+--- mineralogy block 2; lines 10-22 ---
+Wakita H., Rey P. and Schmitt R.A. (1971) Abundances of
+   the 14 rare-earth elements and 12 other trace elements in
+   Apollo 12 samples. Proc. 2nd Lunar Sci. Conf. 1319-1329.
+
+   Walker R.J. and Papike J.J. (1981a) The relationship of the
+   lunar regolith < 10 micron fraction and agglutinates. Part II:
+   Chemical composition of agglutinate glass as a test of the
+   F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+
+  Wänke H., Wlotzka F., M. and Rieder R. (1971) Apollo 12
+   samples: Chemical composition and its relation to sample
+   locations and exposure ages, the two component origin of
+   the various soil samples and studies on lunar metallic
+--- mineralogy block 3; lines 34-46 ---
+Wood J.A. (1972b) Fragments of Terra rock in the Apollo
+   12 soil samples and a structural model of the moon. Icarus
+   16, 462-501.
+
+  Wood J.A., Marvin U.B., Reid J.B., Taylor G.J., Bower J.F.,
+   Powell B.N. and Dickey J.S. (1971a)  Mineralogy and
+   petrology of the Apollo 12 lunar sample.  Smithson.
+   Astrophysi. Observ. Spec. Rep. 333
+--- material block 4; lines 1-42 ---
+Tatasumoto M., Knight R.J. and Doe B.R. (1971) U-Th-Pb
+   systematics of Apollo 12 lunar samples.  Proc. 2nd Lunar
+    Sci. Conf. 1521-1546.
+
+   Wakita H. and Schmitt R.A. (1971)  Bulk elemental
+   composition of Apollo 12 samples: Five igneous and one
+   breccia rocks and four soils. Proc. 2nd Lunar Sci. Conf. 1231-
+   1236.
+
+   Wakita H., Rey P. and Schmitt R.A. (1971) Abundances of
+   the 14 rare-earth elements and 12 other trace elements in
+   Apollo 12 samples. Proc. 2nd Lunar Sci. Conf. 1319-1329.
+
+   Walker R.J. and Papike J.J. (1981a) The relationship of the
+   lunar regolith < 10 micron fraction and agglutinates. Part II:
+   Chemical composition of agglutinate glass as a test of the
+   F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+
+  Wänke H., Wlotzka F., M. and Rieder R. (1971) Apollo 12
+   samples: Chemical composition and its relation to sample
+   locations and exposure ages, the two component origin of
+   the various soil samples and studies on lunar metallic
+    particles. Proc. 2nd Lunar Sci. Conf. 1187-1208.
+
+   Warner J. (1970)  Apollo 12 Lunar Sample Information.
+  NASA TR R-353. JSC (catalog)
+
+   Wiesmann H. and Hubbard N. (1975) unpublished
+
+   Wieler R., Etique Ph., Signer P. and Poupeau G. (1980)
+   Record of the solar corpuscular radiation in minerals from
+   lunar soils: A comparative study of noble gases and tracks.
+   Proc. 11th Lunar Planet. Sci. Conf. 1369-1393.
+
+  Wood J.A. (1972b) Fragments of Terra rock in the Apollo
+   12 soil samples and a structural model of the moon. Icarus
+   16, 462-501.
+
+  Wood J.A., Marvin U.B., Reid J.B., Taylor G.J., Bower J.F.,
+   Powell B.N. and Dickey J.S. (1971a)  Mineralogy and
+   petrology of the Apollo 12 lunar sample.  Smithson.
+   Astrophysi. Observ. Spec. Rep. 333
+--- treatment block 5; lines 9-21 ---
+Wakita H., Rey P. and Schmitt R.A. (1971) Abundances of
+   the 14 rare-earth elements and 12 other trace elements in
+   Apollo 12 samples. Proc. 2nd Lunar Sci. Conf. 1319-1329.
+
+   Walker R.J. and Papike J.J. (1981a) The relationship of the
+   lunar regolith < 10 micron fraction and agglutinates. Part II:
+   Chemical composition of agglutinate glass as a test of the
+   F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+
+  Wänke H., Wlotzka F., M. and Rieder R. (1971) Apollo 12
+   samples: Chemical composition and its relation to sample
+   locations and exposure ages, the two component origin of

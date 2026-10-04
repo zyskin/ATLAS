@@ -1,0 +1,198 @@
+DOCUMENT_ID: 61516__compendium__6712414851
+ATLAS_SAMPLE_IDS: 61515,61516,61517,61518,61519
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61516.pdf
+SOURCE_PDF_SHA256: f5c53477eb3b8da4163c6ecc46d03a27966c392565313da8d9c638ae35234421
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 18-30 ---
+location. Only 61516 has been studied.
+
+   Petrography
+   Phinney and Lofgren (1973) cataloged these particles
+   and described them as friable, clastic, seriate and “very
+    light-grey”. McKay et al. (1986) and Joy et al. (2012)
+   reported the maturity index Is/FeO = 0.5 (immature)
+   and rare gas content for 61516.
+
+   Warner et al. (1973) termed 61516 a light matrix breccia
+    (figure 2), and Phinney et al. (1976) found that it was
+   mostly plagioclase with about 35 % porosity.
+--- mineralogy block 2; lines 23-35 ---
+light-grey”. McKay et al. (1986) and Joy et al. (2012)
+   reported the maturity index Is/FeO = 0.5 (immature)
+   and rare gas content for 61516.
+
+   Warner et al. (1973) termed 61516 a light matrix breccia
+    (figure 2), and Phinney et al. (1976) found that it was
+   mostly plagioclase with about 35 % porosity.
+
+                                                              Figure 2: Thin section of 61516 showing porous,
+                                                                        seriate clastic texture (Warner et al. 1973)..
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 3; lines 1-33 ---
+61515 – 2 grams
+                         61516 – 2.38 grams
+                         61517 – 0.47 grams
+                         61518 – 0.16 grams
+                         61519 – 0.33 grams
+                                   Regolith Breccia
+
+
+
+
+
+                            Figure 1: Photo of 61516. Particles is about 2 cm. S72-55331
+
+   Introduction
+   61515 - 61519 were collected as part of a rake sample
+   from near Plum Crater (figure 2) – see section on 61500.
+   They are all friable pieces of regolith breccia from that
+    location. Only 61516 has been studied.
+
+   Petrography
+   Phinney and Lofgren (1973) cataloged these particles
+   and described them as friable, clastic, seriate and “very
+    light-grey”. McKay et al. (1986) and Joy et al. (2012)
+   reported the maturity index Is/FeO = 0.5 (immature)
+   and rare gas content for 61516.
+
+   Warner et al. (1973) termed 61516 a light matrix breccia
+    (figure 2), and Phinney et al. (1976) found that it was
+   mostly plagioclase with about 35 % porosity.
+
+                                                              Figure 2: Thin section of 61516 showing porous,
+                                                                        seriate clastic texture (Warner et al. 1973)..
+--- treatment block 4; lines 18-30 ---
+location. Only 61516 has been studied.
+
+   Petrography
+   Phinney and Lofgren (1973) cataloged these particles
+   and described them as friable, clastic, seriate and “very
+    light-grey”. McKay et al. (1986) and Joy et al. (2012)
+   reported the maturity index Is/FeO = 0.5 (immature)
+   and rare gas content for 61516.
+
+   Warner et al. (1973) termed 61516 a light matrix breccia
+    (figure 2), and Phinney et al. (1976) found that it was
+   mostly plagioclase with about 35 % porosity.
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+References for 61516   Table 1. Chemical composition of 61516
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s     reference  Floran76   McKay86
+     weight                                                     Catalog. pp. 370.
+    SiO2 %   45.58   (a)
+    TiO2      0.42     (a)                                      Floran R.J., Phinney W.C., Blanchard D.P., Warner J.L.,
+    Al2O3     27.24   (a)
+                                                     Simonds C.H., Brown R.W., Brannon J.C. and Korotev R.L.   FeO       4.61     (a) 4.22     (b)
+   MnO      6.05     (a)                                     (1976) A comparison between geochemistry and petrology
+   MgO      15.35   (a)                                        of Apollo 16 – terrestrial impact melt analogs (abs). Lunar
+   CaO      0.54     (a) 15.9     (b)                                Sci. VII, 263-265. Lunar Science Institute, Houston.
+   Na2O     0.12     (a) 0.509   (b)
+   K2O
+   P2O5                                                Joy K.H., Kring D.A., Bogard D.D., McKay D.S. and
+   S %                                                   Zolensky M.E. (2012) Re-examination of the formation ages
+    sum                                                        of the Apollo 16 regolith breccias. Geochem. Cosmochim.
+                                                          Acta doi: 10.1016    Sc ppm               6.22     (b)
+   V
+    Cr                  484     (b)                    LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+--- material block 2; lines 4-48 ---
+weight                                                     Catalog. pp. 370.
+    SiO2 %   45.58   (a)
+    TiO2      0.42     (a)                                      Floran R.J., Phinney W.C., Blanchard D.P., Warner J.L.,
+    Al2O3     27.24   (a)
+                                                     Simonds C.H., Brown R.W., Brannon J.C. and Korotev R.L.   FeO       4.61     (a) 4.22     (b)
+   MnO      6.05     (a)                                     (1976) A comparison between geochemistry and petrology
+   MgO      15.35   (a)                                        of Apollo 16 – terrestrial impact melt analogs (abs). Lunar
+   CaO      0.54     (a) 15.9     (b)                                Sci. VII, 263-265. Lunar Science Institute, Houston.
+   Na2O     0.12     (a) 0.509   (b)
+   K2O
+   P2O5                                                Joy K.H., Kring D.A., Bogard D.D., McKay D.S. and
+   S %                                                   Zolensky M.E. (2012) Re-examination of the formation ages
+    sum                                                        of the Apollo 16 regolith breccias. Geochem. Cosmochim.
+                                                          Acta doi: 10.1016    Sc ppm               6.22     (b)
+   V
+    Cr                  484     (b)                    LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   Co                   22.7     (b)                         and chemical description. Science 179, 23-34.
+     Ni                  382     (b)
+   Cu
+    Zn                                        LSPET (1972c) Preliminary examination of lunar samples.
+   Ga                                                         In Apollo 16 Preliminary Science Report. NASA SP-315,
+   Ge ppb                                             7-1—7-58.
+    As
+    Se
+   Rb                                        McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+    Sr                  212     (b)                         Johnson P. and Wentworth S.J. (1986) Apollo 16 regolith
+   Y                                                             breccias: Characterization and evidence for early
+     Zr                  150     (b)
+                                                            formation in the megaregolith. Proc. 16th Lunar Planet.   Nb
+   Mo                                                                Sci. Conf. in J. Geophys. Res. 91, D277-D303.
+   Ru
+   Rh                                                    Phinney W. and Lofgren G. (1973) Description, classification
+    Pd ppb
+                                                       and inventory of Apollo 16 rake samples from stations 1, 4    Ag ppb
+   Cd ppb                                              and 13. Curators Office.
+     In ppb
+    Sn ppb                                               Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+    Sb ppb
+                                                           (1976a) Lithification of vitric- and clastic-matrix breccias:    Te ppb
+    Cs ppm               0.11     (b)                 SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+    Ba                  114      (b)
+    La                    10.4     (b)                         Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Ce                   27.6     (b)
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904    Pr
+   Nd                 17       (b)
+--- references block 3; lines 1-9 ---
+References for 61516   Table 1. Chemical composition of 61516
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s     reference  Floran76   McKay86
+     weight                                                     Catalog. pp. 370.
+    SiO2 %   45.58   (a)
+    TiO2      0.42     (a)                                      Floran R.J., Phinney W.C., Blanchard D.P., Warner J.L.,
+    Al2O3     27.24   (a)
+                                                     Simonds C.H., Brown R.W., Brannon J.C. and Korotev R.L.   FeO       4.61     (a) 4.22     (b)
+   MnO      6.05     (a)                                     (1976) A comparison between geochemistry and petrology
+--- references block 4; lines 63-72 ---
+Os ppb
+       Ir ppb                 5.3      (b)
+     Pt ppb
+    Au ppb                6.8      (b)
+    Th ppm               1.86     (b)
+   U ppm                0.44     (b)
+     technique:  (a) fused bead e. probe, (b) INAA
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: age,material ===
+--- material block 1; lines 1-17 ---
+Figure 3: Processing photo of 61516. S72-55333
+
+
+
+   Chemistry
+   Floran et al. (1974) and McKay et al. (1986) determined
+   the composition which is similar to local soil.
+
+   Other Studies
+  McKay et al. (1986) concluded that 61516 had excess
+   40Ar and argued that it was an ancient regolith breccia.
+   Joy et al. (2012) calculate that the age may be 3.4 b.y.
+--- age block 2; lines 6-18 ---
+Floran et al. (1974) and McKay et al. (1986) determined
+   the composition which is similar to local soil.
+
+   Other Studies
+  McKay et al. (1986) concluded that 61516 had excess
+   40Ar and argued that it was an ancient regolith breccia.
+   Joy et al. (2012) calculate that the age may be 3.4 b.y.
+
+
+
+
+
+Lunar Sample Compendium

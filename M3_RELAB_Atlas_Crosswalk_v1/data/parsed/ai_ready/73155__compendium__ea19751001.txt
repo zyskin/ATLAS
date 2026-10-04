@@ -1,0 +1,254 @@
+DOCUMENT_ID: 73155__compendium__ea19751001
+ATLAS_SAMPLE_IDS: 73155
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/73155.pdf
+SOURCE_PDF_SHA256: 65d34610818f9ebf214b6f4b44842e1774330d161230570000e4a1af2161b329
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 12-29 ---
+Introduction                                Petrography
+   73155 was picked up from the rover at LRV stop 4  Ryder et al. (1992, 1993) gives the only description.
+   along the traverse from station 2 to station 3. It is part  The rock is a collection clasts of plutonic rocks (Bickel
+   of the “light mantle” deposit.  It has been dated at 3.9  and Warner 1978), cemented together with a feldspathic
+    b.y.                                              melt with poikilitic texture (figure 2).  There are
+                                                 numerous plagioclase clasts in the matrix.
+   The interest in 73155 is related to two prominent
+   micrometeorite craters that nearly ruptured the rock   Plagioclase: Steele et al. (1980) analyzed plagioclase.
+    (figures 1 and 4). The rock is, in fact, peppered with
+   zap pits (Horz et al. 1975). Note the spall zone around  Gabbro Clast:
+   the glass-lined sap pits.                           Ryder (1992) reported on a a gabbro clast (figure 3).
+
+
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-29 ---
+73155
+                              Catastrophic-ruptured Breccia
+                                            79.3 grams
+
+
+
+
+
+          Figure 1: Photo of 73155 showing micrometeorite crater with spall zone. NASA S73-23887. Cube and
+           scale are 1 cm.
+
+
+   Introduction                                Petrography
+   73155 was picked up from the rover at LRV stop 4  Ryder et al. (1992, 1993) gives the only description.
+   along the traverse from station 2 to station 3. It is part  The rock is a collection clasts of plutonic rocks (Bickel
+   of the “light mantle” deposit.  It has been dated at 3.9  and Warner 1978), cemented together with a feldspathic
+    b.y.                                              melt with poikilitic texture (figure 2).  There are
+                                                 numerous plagioclase clasts in the matrix.
+   The interest in 73155 is related to two prominent
+   micrometeorite craters that nearly ruptured the rock   Plagioclase: Steele et al. (1980) analyzed plagioclase.
+    (figures 1 and 4). The rock is, in fact, peppered with
+   zap pits (Horz et al. 1975). Note the spall zone around  Gabbro Clast:
+   the glass-lined sap pits.                           Ryder (1992) reported on a a gabbro clast (figure 3).
+
+
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 3; lines 10-22 ---
+scale are 1 cm.
+
+
+   Introduction                                Petrography
+   73155 was picked up from the rover at LRV stop 4  Ryder et al. (1992, 1993) gives the only description.
+   along the traverse from station 2 to station 3. It is part  The rock is a collection clasts of plutonic rocks (Bickel
+   of the “light mantle” deposit.  It has been dated at 3.9  and Warner 1978), cemented together with a feldspathic
+    b.y.                                              melt with poikilitic texture (figure 2).  There are
+                                                 numerous plagioclase clasts in the matrix.
+   The interest in 73155 is related to two prominent
+   micrometeorite craters that nearly ruptured the rock   Plagioclase: Steele et al. (1980) analyzed plagioclase.
+    (figures 1 and 4). The rock is, in fact, peppered with
+   zap pits (Horz et al. 1975). Note the spall zone around  Gabbro Clast:
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 9-21 ---
+Fo                                        Fa
+
+                                                                                                     compiled by C Meyer
+
+
+                                                                   Figure 3: Composition of pyroxene in “gabbro
+                                                                          clast” in 73155 (Ryder 1992).
+--- mineralogy block 2; lines 36-48 ---
+References for 73155   have determined the composition of 73155 (table 1).
+                                                              Bickel C.E. and Warner J.L. (1978a) Survey of lunar plutonic   The melted portion is relatively rich in Al and in trace
+                                                       and granulitic lithic fragments. Proc. 9th Lunar Planet. Sci.
+    elements.
+                                                            Conf. 629-652.
+
+   Radiogenic age dating                               Bickel C.E. and Warner J.L. (1978b) Textural-mineralogical
+   Ages of 4 samples in Dalrymple and Ryder   relationships in a population of ANT samples (abs). Lunar
+    (1996)(figure 6).                                          Planet. Sci. IX, 82-84. Lunar Planetary Institute, Houston.
+
+   Processing                                              Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                                17. Lunar Receiving Laboratory. MSC 03211 Curator’s   The sample broke exactly in half (figure 5). There are
+                                                               Catalog. pp. 447.
+--- material block 3; lines 1-7 ---
+73155 (gabbro clast)                                                                         Di                   Hd
+                                                                                                Ryder 1992
+--- material block 4; lines 10-22 ---
+Fo                                        Fa
+
+                                                                                                     compiled by C Meyer
+
+
+                                                                   Figure 3: Composition of pyroxene in “gabbro
+                                                                          clast” in 73155 (Ryder 1992).
+
+
+
+
+
+                                         73155
+--- age block 5; lines 22-48 ---
+73155
+         Figure 2: Photomicrographs of thin section           C Meyer                                                         2011      79.3 g         73155,28 by C Meyer.
+
+
+
+                                                                                ,37                                        ,0       ,1                                                                          ,36      ,35
+    Summary of Age Data for 73155.                PB     0.6 g                              30 g                    30 g                       Ar/Ar
+       Poikilitic        3937 ± 16 m.y.                                                                          ,28
+       Poikilitic        3854 ± 16
+     Gabbro          3885 ± 16                                        ,36         ,48      ,49
+     Gabbro          3900 ± 16                                          ,31     11.2 g    2 g      2.3 g
+                                                     TS
+   Chemistry
+   Dalrymple and Ryder (1996) and Norman et al. (2002)
+                                                    References for 73155   have determined the composition of 73155 (table 1).
+                                                              Bickel C.E. and Warner J.L. (1978a) Survey of lunar plutonic   The melted portion is relatively rich in Al and in trace
+                                                       and granulitic lithic fragments. Proc. 9th Lunar Planet. Sci.
+    elements.
+                                                            Conf. 629-652.
+
+   Radiogenic age dating                               Bickel C.E. and Warner J.L. (1978b) Textural-mineralogical
+   Ages of 4 samples in Dalrymple and Ryder   relationships in a population of ANT samples (abs). Lunar
+    (1996)(figure 6).                                          Planet. Sci. IX, 82-84. Lunar Planetary Institute, Houston.
+
+   Processing                                              Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                                17. Lunar Receiving Laboratory. MSC 03211 Curator’s   The sample broke exactly in half (figure 5). There are
+                                                               Catalog. pp. 447.
+--- references block 6; lines 30-42 ---
+Poikilitic        3854 ± 16
+     Gabbro          3885 ± 16                                        ,36         ,48      ,49
+     Gabbro          3900 ± 16                                          ,31     11.2 g    2 g      2.3 g
+                                                     TS
+   Chemistry
+   Dalrymple and Ryder (1996) and Norman et al. (2002)
+                                                    References for 73155   have determined the composition of 73155 (table 1).
+                                                              Bickel C.E. and Warner J.L. (1978a) Survey of lunar plutonic   The melted portion is relatively rich in Al and in trace
+                                                       and granulitic lithic fragments. Proc. 9th Lunar Planet. Sci.
+    elements.
+                                                            Conf. 629-652.
+
+   Radiogenic age dating                               Bickel C.E. and Warner J.L. (1978b) Textural-mineralogical
+
+=== PDF PAGE 3; CATEGORIES: material ===
+--- material block 1; lines 1-7 ---
+Figure 4: The zap pit that nearly ruptured the rock! NASA S73-23898. Cube is 1 cm.
+
+
+
+
+
+               73155
+
+=== PDF PAGE 5; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 73155.
+                                                       Dalrymple G.B. and Ryder G. (1996) Argon-40/Argon-39
+    reference  Dalrymple96               Norman2002         age spectra of Apollo 17 highland breccia samples by laser
+    weight    melt      melt   gabbro                             step heating and the age of the Serenitatis basin. J. Geophys.
+   SiO2 %   47.4      48.2    50.9     (b)  46.1      (b)          Res. 101, 26,069-26,084.
+    TiO2      1.6       1.5     0.7       (b)  1.69      (b)
+   Al2O3     19.2      18.4    15.4     (b)  17.9      (b)
+   FeO                 9.5     10.3     (a)  8.76      (b)          Hartung J.B., Horz F., Aitken F.K., Gault D.E. and Brownlee
+   MnO      0.11      0.13    0.16     (b)  0.12      (b)          D.E. (1973) The development of microcrater populations
+   MgO      10.3      10.5    10.2     (b)  10.9      (b)         on lunar rocks. Proc. 4th Lunar Sci. Conf. 3213-3234.
+   CaO      11.5     11     12.5     (b)  10.9      (b)
+   Na2O     0.66      0.69    0.76     (a)  0.63      (a)
+   K2O      0.27      0.4     0.7       (a)  0.29      (a)         Hörz F., Schneider E., Gault D.E., Hartung J.B. and Brownlee
+   P2O5                                                 D.E. (1975b) Catastrophic rupture of lunar rocks: A Monte
+   S %                                                    Carlo simulation. The Moon 13, 235-258.
+   sum
+
+   Sc ppm   19.2      18.5   29       (a)  19.2      (c )       LSPET (1973)  Apollo 17 lunar samples: Chemical and
+   V                                  45        (c )          petrographic description. Science 182, 659-672.
+--- mineralogy block 2; lines 49-61 ---
+Nd       89      56     20       (a) 61        (c )         Ryder G. (1993c) Catalog of Apollo 17 rocks: Stations 2
+   Sm       22.9      14.4    4.6       (a)  17.1      (c )         and 3. Curators Office JSC#26088.
+   Eu        1.94      2.02    1.71     (a)  1.77      (c )
+   Gd                                     18.8      (c )
+   Tb        4.8       3.1     1.2       (a)  3.32      (c )          Steele I.M., Hutcheon I.D. and Smith J.V. (1980)  Ion
+   Dy                                      20.9      (c )         microprobe analysis and petrogenetic interpretations of Li,
+   Ho                                     4.47      (c )        Mg, Ti, K, Sr, Ba in lunar plagioclase.  Proc. 11th Lunar
+    Er                                     12.67     (c )
+   Tm                                                         Planet. Sci. Conf. 571-590.
+   Yb       16        11.5    4.4       (a)  11.31     (c )
+   Lu        2.1       1.5     0.6       (a)  1.63      (c )         Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    Hf        18.3     12      3.2       (a)  12.64     (c )          Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    Ta        2.25      1.47    0.25     (a)  1.82      (c )
+--- material block 3; lines 1-9 ---
+Table 1. Chemical composition of 73155.
+                                                       Dalrymple G.B. and Ryder G. (1996) Argon-40/Argon-39
+    reference  Dalrymple96               Norman2002         age spectra of Apollo 17 highland breccia samples by laser
+    weight    melt      melt   gabbro                             step heating and the age of the Serenitatis basin. J. Geophys.
+   SiO2 %   47.4      48.2    50.9     (b)  46.1      (b)          Res. 101, 26,069-26,084.
+    TiO2      1.6       1.5     0.7       (b)  1.69      (b)
+   Al2O3     19.2      18.4    15.4     (b)  17.9      (b)
+   FeO                 9.5     10.3     (a)  8.76      (b)          Hartung J.B., Horz F., Aitken F.K., Gault D.E. and Brownlee
+   MnO      0.11      0.13    0.16     (b)  0.12      (b)          D.E. (1973) The development of microcrater populations
+--- material block 4; lines 37-49 ---
+Pd ppb                                   11.4      (c )           the impactors: Siderophile element signatures of lunar impact
+   Ag ppb                                                   melts from Serenitatis. Earth Planet Sci. Lett. 202, 217-
+   Cd ppb                                                  228.
+     In ppb
+   Sn ppb
+   Sb ppb                                              Ryder G. (1992)  Lunar highlands totality from bits and
+    Te ppb                                                        pieces: A whole-rock-geochemistry-free characterization of
+   Cs ppm   0.4       0.92    0.9       (a)  0.37      (c )         an evolved hypabyssal igneous gabbro schlieren from the
+   Ba       408     347    254      (a) 392       (c )         Apollo 17 landing site (abs). Lunar Plant. Sci. XXIII, 1195-
+   La        50.8      31.8    8.2       (a) 38        (c )
+   Ce        134.7    83.1   23       (a)  97.5      (c )         1196.
+    Pr                                      13.3      (c )
+   Nd       89      56     20       (a) 61        (c )         Ryder G. (1993c) Catalog of Apollo 17 rocks: Stations 2
+--- age block 5; lines 1-10 ---
+Table 1. Chemical composition of 73155.
+                                                       Dalrymple G.B. and Ryder G. (1996) Argon-40/Argon-39
+    reference  Dalrymple96               Norman2002         age spectra of Apollo 17 highland breccia samples by laser
+    weight    melt      melt   gabbro                             step heating and the age of the Serenitatis basin. J. Geophys.
+   SiO2 %   47.4      48.2    50.9     (b)  46.1      (b)          Res. 101, 26,069-26,084.
+    TiO2      1.6       1.5     0.7       (b)  1.69      (b)
+   Al2O3     19.2      18.4    15.4     (b)  17.9      (b)
+   FeO                 9.5     10.3     (a)  8.76      (b)          Hartung J.B., Horz F., Aitken F.K., Gault D.E. and Brownlee
+   MnO      0.11      0.13    0.16     (b)  0.12      (b)          D.E. (1973) The development of microcrater populations
+   MgO      10.3      10.5    10.2     (b)  10.9      (b)         on lunar rocks. Proc. 4th Lunar Sci. Conf. 3213-3234.
+--- references block 6; lines 1-9 ---
+Table 1. Chemical composition of 73155.
+                                                       Dalrymple G.B. and Ryder G. (1996) Argon-40/Argon-39
+    reference  Dalrymple96               Norman2002         age spectra of Apollo 17 highland breccia samples by laser
+    weight    melt      melt   gabbro                             step heating and the age of the Serenitatis basin. J. Geophys.
+   SiO2 %   47.4      48.2    50.9     (b)  46.1      (b)          Res. 101, 26,069-26,084.
+    TiO2      1.6       1.5     0.7       (b)  1.69      (b)
+   Al2O3     19.2      18.4    15.4     (b)  17.9      (b)
+   FeO                 9.5     10.3     (a)  8.76      (b)          Hartung J.B., Horz F., Aitken F.K., Gault D.E. and Brownlee
+   MnO      0.11      0.13    0.16     (b)  0.12      (b)          D.E. (1973) The development of microcrater populations
+--- references block 7; lines 64-73 ---
+Os ppb                                                  280.
+      Ir ppb     6.4       6.5                (a)  6.5       (c )
+    Pt ppb                                  12.7      (c )
+   Au ppb    6.5       5.5     4.1       (a)
+   Th ppm   9.8       4.7     1.2       (a)  7.88      (c )
+   U ppm    2.69      1.57    0.38     (a)  2         (c )
+    technique:  (a) INAA, (b) fused-bead e-probe, (c ) ICP-ms
+
+Lunar Sample Compendium
+C Meyer 2011

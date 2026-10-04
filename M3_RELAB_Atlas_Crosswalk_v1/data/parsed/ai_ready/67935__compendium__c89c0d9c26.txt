@@ -1,0 +1,255 @@
+DOCUMENT_ID: 67935__compendium__c89c0d9c26
+ATLAS_SAMPLE_IDS: 67935,67936,67937
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67935.pdf
+SOURCE_PDF_SHA256: 72e36ee3e3a1a393fbbba5cf93bb8d9dee610ed54efaed870b96fd41dd14638f
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+67935, 67936 and 67937
+                           Basaltic Impact Melt with glass veins
+                                       108.9, 61.8 and 59.7 grams
+
+                 67955
+--- material block 2; lines 1-8 ---
+67935, 67936 and 67937
+                           Basaltic Impact Melt with glass veins
+                                       108.9, 61.8 and 59.7 grams
+
+                 67955
+--- material block 3; lines 13-25 ---
+Spall Zone
+
+
+
+
+
+           Figure 1: Outhouse Rock on rim of North Ray Crater. Note the spall zone, and sample locations.
+          See also section on 67955. AS16-116-18649
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 56-68 ---
+Mineralogy
+    In general, mineral data for 67935 has not been
+    reported.
+
+   Chemistry
+   The chemical analysis shows high Al2O3 content for
+    the “basaltic matrix”.  Clarke and Keith (1973) and
+    Eldridge et al. (1973) reported K, U and Th for these
+
+
+Lunar Sample Compendium
+C Meyer 2008
+--- mineralogy block 2; lines 31-63 ---
+Introduction                                          three samples (table 1). Lindstrom and Salpus (1982)
+   The Apollo 16 astronauts sampled several areas on this  give analyses of the matrix and an aluminous clast
+    side of Outhouse Rock (figure 1).  Samples 67935,   (figure 3).  Hertogen et al. (1977) determined trace
+   67936 and 67937 were collected from the same area   elements, finding high Ni, Ir and Au.
+    outside the spall zone of a large impact crater (shatter
+    cone). Thin veins of black glass could be seen in the  Cosmogenic isotopes and exposure ages
+    area sampled, and the samples contained this glass  Clarke and Keith (1973) reported the cosmic-ray-
+    within a rather crushed matrix (figures 4 – 9).         inducted activity of 26Al = for 67935 and 67936
+                                                            respectively and Eldridge et al. (1973) reported the
+   Petrography                                     cosmic-ray-inducted activity of  26Al  for 67937.
+   Ryder and Norman (1980) found that these samples of   Fruchter et al. (1978) determined the activity 26Al = 51
+   Outhouse Rock had the texture of fine-grained  dpm/kg. and 53Mn = 156 dpm/kg. and discussed the
+    subophitic basalt (figure 2). They also noted that small  age of the shatter cone.
+    clasts of plagioclase or “anorthosite” were included in
+    the basaltic matrix. In general, these samples are poorly  Other Studies
+    described.                                      Roedder and Weiblen (1977) reported rare gas content
+                                                          of veins and matrix of 67936.
+   Roedder and Weiblen (1977) made a detailed study the
+    glass veins in Outhouse Rock, including rather thick  Processing
+    veins in sample 67936. They concluded that the glass                                                    There are 7 thin sections of 67935, 9 TS for 67936 and
+    veins were probably made at time of excavation of                                                 5 TS for 67937. These friable samples were chipped,
+   Outhouse Rock from North Ray Crater.                                                  and not sawn.
+
+    Hunter and Taylor (1981) reported rust in 67935.
+
+   Mineralogy
+    In general, mineral data for 67935 has not been
+    reported.
+
+   Chemistry
+   The chemical analysis shows high Al2O3 content for
+    the “basaltic matrix”.  Clarke and Keith (1973) and
+--- material block 3; lines 9-68 ---
+chondrite
+
+                                                                                             10
+
+
+
+                                                                                                                                                  67936 clast
+
+                                                                                               1
+
+
+
+
+
+                                                                                                              0.1
+                                                                                                      La  Ce     Nd Sm  Eu      Gd                  Yb  Lu
+
+                                                               Figure 3: Normalized rare-earth-element diagram
+         Figure 2: Thin section photomicrograph of                 for matrix and clast in 67935 (see table).
+         67937,13 (field of view about 3 mm). From Ryder
+        and Norman 1980
+
+
+   Introduction                                          three samples (table 1). Lindstrom and Salpus (1982)
+   The Apollo 16 astronauts sampled several areas on this  give analyses of the matrix and an aluminous clast
+    side of Outhouse Rock (figure 1).  Samples 67935,   (figure 3).  Hertogen et al. (1977) determined trace
+   67936 and 67937 were collected from the same area   elements, finding high Ni, Ir and Au.
+    outside the spall zone of a large impact crater (shatter
+    cone). Thin veins of black glass could be seen in the  Cosmogenic isotopes and exposure ages
+    area sampled, and the samples contained this glass  Clarke and Keith (1973) reported the cosmic-ray-
+    within a rather crushed matrix (figures 4 – 9).         inducted activity of 26Al = for 67935 and 67936
+                                                            respectively and Eldridge et al. (1973) reported the
+   Petrography                                     cosmic-ray-inducted activity of  26Al  for 67937.
+   Ryder and Norman (1980) found that these samples of   Fruchter et al. (1978) determined the activity 26Al = 51
+   Outhouse Rock had the texture of fine-grained  dpm/kg. and 53Mn = 156 dpm/kg. and discussed the
+    subophitic basalt (figure 2). They also noted that small  age of the shatter cone.
+    clasts of plagioclase or “anorthosite” were included in
+    the basaltic matrix. In general, these samples are poorly  Other Studies
+    described.                                      Roedder and Weiblen (1977) reported rare gas content
+                                                          of veins and matrix of 67936.
+   Roedder and Weiblen (1977) made a detailed study the
+    glass veins in Outhouse Rock, including rather thick  Processing
+    veins in sample 67936. They concluded that the glass                                                    There are 7 thin sections of 67935, 9 TS for 67936 and
+    veins were probably made at time of excavation of                                                 5 TS for 67937. These friable samples were chipped,
+   Outhouse Rock from North Ray Crater.                                                  and not sawn.
+
+    Hunter and Taylor (1981) reported rust in 67935.
+
+   Mineralogy
+    In general, mineral data for 67935 has not been
+    reported.
+
+   Chemistry
+   The chemical analysis shows high Al2O3 content for
+    the “basaltic matrix”.  Clarke and Keith (1973) and
+    Eldridge et al. (1973) reported K, U and Th for these
+
+
+Lunar Sample Compendium
+C Meyer 2008
+--- age block 4; lines 32-50 ---
+Introduction                                          three samples (table 1). Lindstrom and Salpus (1982)
+   The Apollo 16 astronauts sampled several areas on this  give analyses of the matrix and an aluminous clast
+    side of Outhouse Rock (figure 1).  Samples 67935,   (figure 3).  Hertogen et al. (1977) determined trace
+   67936 and 67937 were collected from the same area   elements, finding high Ni, Ir and Au.
+    outside the spall zone of a large impact crater (shatter
+    cone). Thin veins of black glass could be seen in the  Cosmogenic isotopes and exposure ages
+    area sampled, and the samples contained this glass  Clarke and Keith (1973) reported the cosmic-ray-
+    within a rather crushed matrix (figures 4 – 9).         inducted activity of 26Al = for 67935 and 67936
+                                                            respectively and Eldridge et al. (1973) reported the
+   Petrography                                     cosmic-ray-inducted activity of  26Al  for 67937.
+   Ryder and Norman (1980) found that these samples of   Fruchter et al. (1978) determined the activity 26Al = 51
+   Outhouse Rock had the texture of fine-grained  dpm/kg. and 53Mn = 156 dpm/kg. and discussed the
+    subophitic basalt (figure 2). They also noted that small  age of the shatter cone.
+    clasts of plagioclase or “anorthosite” were included in
+    the basaltic matrix. In general, these samples are poorly  Other Studies
+    described.                                      Roedder and Weiblen (1977) reported rare gas content
+                                                          of veins and matrix of 67936.
+   Roedder and Weiblen (1977) made a detailed study the
+    glass veins in Outhouse Rock, including rather thick  Processing
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 67935.
+             67935   67936   67937      67935       67935     67936
+    reference  Clarke73 Clarke73 Eldridge73   Hertogen77  Lindstrom and Salpus 82
+    weight                        Eldridge75
+   SiO2 %
+    TiO2
+   Al2O3                                                  20.9       30.7        (c )
+   FeO                                                    7.52       2.53        (c )
+   MnO
+   MgO                                                   12.6       3.2         (c )
+   CaO                                             13         18.1        (c )
+   Na2O                                                 0.581      0.484      (c )
+   K2O      0.196    0.194    0.199     (a)
+   P2O5
+   S %
+   sum
+
+   Sc ppm                                                 10.4      5           (c )
+   V
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 67935.
+             67935   67936   67937      67935       67935     67936
+    reference  Clarke73 Clarke73 Eldridge73   Hertogen77  Lindstrom and Salpus 82
+    weight                        Eldridge75
+   SiO2 %
+    TiO2
+   Al2O3                                                  20.9       30.7        (c )
+   FeO                                                    7.52       2.53        (c )
+   MnO
+--- references block 3; lines 64-73 ---
+Os ppb                                    13.9      (b)
+      Ir ppb                                     12.9      (b)
+    Pt ppb
+   Au ppb                                    12.3      (b)
+   Th ppm    2.9      3.12      3.24      (a)              3.88       0.2         (c )
+   U ppm     0.84     0.91      0.96      (a) 1          (b) 1.18       0.07        (c )
+    technique:  (a) radiation counting, (B) RNAA, (c ) INAA
+
+Lunar Sample Compendium
+C Meyer 2008
+
+=== PDF PAGE 7; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 38-50 ---
+Maurer P., Eberhardt P., Geiss J., Grogler N., Stettler A.,
+   Brown G.M., Peckett A. and Krahenbuhl U. (1978)  Pre-
+   Imbrium craters and basins: ages, compositions and
+   excavation depths of Apollo 16 breccias.  Geochim.
+   Cosmochim. Acta 42, 1687-1720.
+
+   Roedder E. and Weiblen P.W. (1977b) Shock glass veins in
+   some lunar and meteoritic samples – Their nature and
+    possible origin. Proc. 8th Lunar Sci. Conf. 2593-2615.
+
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+--- material block 2; lines 47-59 ---
+Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+     J. and Rehfeldt A. (1981) Distribution and provenance of
+    lunar highland rock types at North Ray Crater, Apollo 16.
+    Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+
+
+
+Lunar Sample Compendium
+--- age block 3; lines 1-18 ---
+References for 67935, 936, 937                            Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    Clark R.S. and Keith J.E. (1973) Determination of natural   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   and cosmic ray induced radionuclides in Apollo 16 lunar  Reimold W.U., Wacker K. and Wanke H.  (1985)
+    samples. Proc. 4th Lunar Sci. Conf. 2105-2113.            Composition and evolution of the lunar crust in the Decartes
+                                                                highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+    Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1973)   Res. 90, C449-C506.
+   Radionuclide concentrations in Apollo 16 lunar samples
+   determined by nondestructive gamma-ray spectrometry.   Ulrich G.E. (1973) A geologic model for North Ray Crater
+    Proc. 4th Lunar Sci. Conf. 2115-2122.                    and stratigraphic implications for the Descartes region. Proc.
+                                                                                    4th Lunar Sci. Conf. 27-39.
+    Fruchter J.S., Rancitelli L.A., Evans J.C. and Perkins R.W.
+    (1978a) Lunar surface processes and cosmic ray histories   Ulrich G.E. (1981) Geology of North Ray Crater. In U.S.
+    over the past several million years. Proc. 9th Lunar Planet.   Geol. Survey Prof. Paper 1048, 45-81.
+    Sci. Conf. 2019-2032.
+                                                              Wilshire H.G., Stuart-Alexander D.E. and Schwarzman E.C.
+   Hertogen J., Janssens M.-J., Takahashi H., Palme H. and   (1981)  Petrology and distribution of returned samples,
+   Anders E. (1977) Lunar basins and craters: Evidence for   Apollo 16. in Geology of the Apollo 16 Area, Central Lunar
+    systematic compositional changes of bombarding population.   Highlands. U.S. Geol. Survey Rpt
+--- references block 4; lines 1-7 ---
+References for 67935, 936, 937                            Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    Clark R.S. and Keith J.E. (1973) Determination of natural   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   and cosmic ray induced radionuclides in Apollo 16 lunar  Reimold W.U., Wacker K. and Wanke H.  (1985)
+    samples. Proc. 4th Lunar Sci. Conf. 2105-2113.            Composition and evolution of the lunar crust in the Decartes
+                                                                highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+    Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1973)   Res. 90, C449-C506.
+   Radionuclide concentrations in Apollo 16 lunar samples

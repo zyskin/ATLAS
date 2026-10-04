@@ -1,0 +1,70 @@
+DOCUMENT_ID: 60627__compendium__7e549dd31e
+ATLAS_SAMPLE_IDS: 60627
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60627.pdf
+SOURCE_PDF_SHA256: 2ecee10fb717ef4c73597869074f7906a50bc65315748e4a71646efea7aa911e
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 8-22 ---
+Figure 1: Photo of 60627, with cm scale. S72-46810
+
+
+   Introduction
+                                               60627   60627 is a rake sample collected near the double drive
+                                                      12.1 grams   tube near the LM – see section on 60600.  It is light
+   colored and must be mostly plagioclase, because it
+   seems large for its weight (low density).  It has zap              ,0               ,2
+    pits with transparent glass linings (figure 1).                    10.1 g         1.6 g
+
+   Chemistry
+   None, unless it is category 2Mo, as per Korotev (1994).
+                                                   References for 60627
+                                                               Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   Radiogenic age dating                                                               16.  Lunar Receiving Laboratory. MSC 03210 Curator’s
+--- material block 2; lines 1-18 ---
+60627 – 12.1 grams
+                                       Breccia
+
+
+
+
+
+                              Figure 1: Photo of 60627, with cm scale. S72-46810
+
+
+   Introduction
+                                               60627   60627 is a rake sample collected near the double drive
+                                                      12.1 grams   tube near the LM – see section on 60600.  It is light
+   colored and must be mostly plagioclase, because it
+   seems large for its weight (low density).  It has zap              ,0               ,2
+    pits with transparent glass linings (figure 1).                    10.1 g         1.6 g
+
+   Chemistry
+--- age block 3; lines 16-28 ---
+pits with transparent glass linings (figure 1).                    10.1 g         1.6 g
+
+   Chemistry
+   None, unless it is category 2Mo, as per Korotev (1994).
+                                                   References for 60627
+                                                               Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   Radiogenic age dating                                                               16.  Lunar Receiving Laboratory. MSC 03210 Curator’s
+   none                                                      Catalog. pp. 370.
+
+   Processing                                 LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+  No thin sections have been prepared of 60627.         and chemical description. Science 179, 23-34.
+
+                                                       Ryder G. and Norman M.D. (1980)  Catalog of Apollo 16
+--- references block 4; lines 14-26 ---
+colored and must be mostly plagioclase, because it
+   seems large for its weight (low density).  It has zap              ,0               ,2
+    pits with transparent glass linings (figure 1).                    10.1 g         1.6 g
+
+   Chemistry
+   None, unless it is category 2Mo, as per Korotev (1994).
+                                                   References for 60627
+                                                               Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   Radiogenic age dating                                                               16.  Lunar Receiving Laboratory. MSC 03210 Curator’s
+   none                                                      Catalog. pp. 370.
+
+   Processing                                 LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+  No thin sections have been prepared of 60627.         and chemical description. Science 179, 23-34.

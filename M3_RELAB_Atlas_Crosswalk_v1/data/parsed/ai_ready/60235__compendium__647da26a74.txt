@@ -1,0 +1,109 @@
+DOCUMENT_ID: 60235__compendium__647da26a74
+ATLAS_SAMPLE_IDS: 60235
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60235.pdf
+SOURCE_PDF_SHA256: 51a1365ce36e9582e9cbfd6f03b859a62cd617bc4ad0ff6c6c996379a7968db9
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 14-32 ---
+basaltic texture collected near the Lunar Module. There
+are micrometeorite craters on all sides and some
+vesicles are obvious. Otherwise, it has not been studied.
+
+Petrography
+According to Ryder and Norman (1980), “60235
+is a plagioclase-rich basaltic melt.  It consists of
+plagioclase laths 200-300 micron long (figure 2)
+which are frequently hollow and have square cross-
+sections. Interstitial mineral are mainly pyroxene,
+with some mesostasis glass with opaque mineral
+and crystobalite.  Clastic material consists of
+plagioclase and plagioclase-rich breccias.”
+
+Hunter and Taylor (1981) reported that there was
+abundant ‘rust’ on metal grains in thin sections of
+60235.
+
+Processing
+--- material block 2; lines 1-19 ---
+60235
+                                 Basaltic Impact Melt
+                                        70.06 grams
+
+
+
+
+
+                     Figure 1: Another view of 60235. S79-39951. Cube is 1 cm.
+
+
+Introduction
+60235 is a coherent impact melt rock with a mostly
+basaltic texture collected near the Lunar Module. There
+are micrometeorite craters on all sides and some
+vesicles are obvious. Otherwise, it has not been studied.
+
+Petrography
+According to Ryder and Norman (1980), “60235
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 33-45 ---
+(Ulrich et al.) U.S.G.S. Prof. Paper 1048.
+
+                                              Vaniman D.T. and Papike J.J. (1978) The lunar highland
+                                                      melt-rock suite. Geophys. Res. Lett. 5, 429-432.
+
+                                              Vaniman D.T. and Papike J.J. (1980) Lunar highland melt
+                                                           rocks: Chemistry, petrology and silicate mineralogy. In Proc.
+                                                   Conf. Lunar Highlands Crust (Papike J.J. and Merrill R.B.,
+                                                         eds.) 271-337. Pergamon.  Lunar Planetary Institute,
+                                                    Houston.
+
+                                               Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+                                                  Apollo 16 rocks: Classification and petrogenetic model.
+--- material block 2; lines 6-42 ---
+Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+                                                            in Apollo 16 highland rocks: Manifestations of volatile-
+                                                    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+                                                      259.
+
+                                                 Korotev R.L. (1996c) On the relationship between the
+                                               Apollo 16 ancient regolith breccias and feldspathic
+                                                      fragmental breccias, and the composition of the prebasin
+                                                            crust in the Central Highlands of the Moon.  Meteor. &
+                                                         Planet. Sci. 31, 403-412.
+
+                                        LSPET (1973) The Apollo 16 lunar samples: Petrographic
+                                                 and chemical description. Science 179, 23-34.
+
+                                        LSPET (1972) Preliminary examination of lunar samples.
+                                                   Apollo 16 Preliminary Science Report. NASA SP-315, 7-
+                                              1—7-58.
+
+                                                    Phinney W. and Lofgren G. (1973) Description, classification
+                                                 and inventory of Apollo 16 rake samples from stations 1, 4
+                                                 and 13.  Curators Office. JSC
+
+                                                 Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                      rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+   Figure 2: Photomicrographs of thin section           Sutton R.L. (1981) Documentation of Apollo 16 samples.
+   60235,5 by C Meyer @50x.                           In Geology of the Apollo 16 area, central lunar highlands.
+                                                         (Ulrich et al.) U.S.G.S. Prof. Paper 1048.
+
+                                              Vaniman D.T. and Papike J.J. (1978) The lunar highland
+                                                      melt-rock suite. Geophys. Res. Lett. 5, 429-432.
+
+                                              Vaniman D.T. and Papike J.J. (1980) Lunar highland melt
+                                                           rocks: Chemistry, petrology and silicate mineralogy. In Proc.
+                                                   Conf. Lunar Highlands Crust (Papike J.J. and Merrill R.B.,
+                                                         eds.) 271-337. Pergamon.  Lunar Planetary Institute,
+                                                    Houston.
+--- references block 3; lines 1-7 ---
+References for 60235
+                                                        Butler P. (1972) Lunar Sample Information Catalog Apollo
+                                                         16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                        Catalog. pp. 370.
+
+                                                   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+                                                            in Apollo 16 highland rocks: Manifestations of volatile-

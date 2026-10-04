@@ -1,0 +1,171 @@
+DOCUMENT_ID: 60626__compendium__a28976b06e
+ATLAS_SAMPLE_IDS: 60626
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60626.pdf
+SOURCE_PDF_SHA256: 9281633b8d2ca5b8c5ef084a64e36b63f4e434998bd9f890acc1d3aedd6efbbf
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 18-30 ---
+Petrography
+   Warner et al. (1976) give the only description.
+
+   Chemistry
+   Laul and Schmidt (1973) give an analysis (table 1).
+   The sample as analyzed, has low trace element content.
+
+   There is only one thin section – and it may not be        Figure 2: Thin section photo of 60626. Field of
+    representative of the rock.                                  view is 2 mm. Warner et al. 1976
+
+Lunar Sample Compendium
+C Meyer 2012
+--- mineralogy block 2; lines 8-20 ---
+Figure 1: Photo of 60626. Scale in cm/mm. S73-20493
+
+   Introduction
+   60626 is a highly aluminous impact melt rock that was
+   collected as a rake sample near the LM.   It has a
+    poikilitic texture, but the plagioclase chadocrysts have
+   indistinct boundaries.   In appearance and in
+   composition, this rake sample is different from other
+   impact melt rocks.
+
+   Petrography
+   Warner et al. (1976) give the only description.
+--- material block 3; lines 6-30 ---
+Figure 1: Photo of 60626. Scale in cm/mm. S73-20493
+
+   Introduction
+   60626 is a highly aluminous impact melt rock that was
+   collected as a rake sample near the LM.   It has a
+    poikilitic texture, but the plagioclase chadocrysts have
+   indistinct boundaries.   In appearance and in
+   composition, this rake sample is different from other
+   impact melt rocks.
+
+   Petrography
+   Warner et al. (1976) give the only description.
+
+   Chemistry
+   Laul and Schmidt (1973) give an analysis (table 1).
+   The sample as analyzed, has low trace element content.
+
+   There is only one thin section – and it may not be        Figure 2: Thin section photo of 60626. Field of
+    representative of the rock.                                  view is 2 mm. Warner et al. 1976
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+60626                Di                   Hd           Table 1. Chemical composition of 60626
+            Warner et al. 1976
+
+                                                                     reference  Laul73     Warner76
+                                                                   weight
+                                                           SiO2 %               45.3     (b)
+                                                             TiO2      0.37     (a) 0.32     (b)
+                                                           Al2O3     29.1     (a) 29.6     (b)
+                                                   FeO      5        (a) 3.7       (b)
+                                              MnO      0.061   (a) 0.04     (b)
+                                              MgO      3        (a) 3.3       (b)
+   En                                          Fs  CaO       16.2     (a) 17.1     (b)
+                                                  Na2O     0.444   (a) 0.47     (b)
+                                                 K2O       0.15     (a) 0.05     (b)   Fo                                        Fa
+                                                   P2O5                 0.04     (b)
+          compiled by C Meyer                                   S %
+                                                    sum
+         Figure4 : Pyroxene and olivine composition in
+        60626 (Warner et al. 1976).                        Sc ppm   10       (a)
+                                                  V        20       (a)
+--- chemistry block 2; lines 28-40 ---
+Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)   As
+    Description, classification and inventory of 151 Apollo 16  Se
+                                                   Rb
+    rake samples from the LM area and station 5.  Curator’s   Sr
+    Catalog, JSC.                                    Y
+                                                                     Zr        35       (a)
+   Laul J.C. and Schmitt R.A. (1973b) Chemical composition  Nb
+                                               Mo
+    of Apollo 15, 16, and 17 samples.  Proc. 4th  Lunar Sci.  Ru
+    Conf. 1349-1367.                                  Rh
+                                                      Pd ppb
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic  Ag ppb
+                                                   Cd ppb
+--- mineralogy block 3; lines 12-24 ---
+En                                          Fs  CaO       16.2     (a) 17.1     (b)
+                                                  Na2O     0.444   (a) 0.47     (b)
+                                                 K2O       0.15     (a) 0.05     (b)   Fo                                        Fa
+                                                   P2O5                 0.04     (b)
+          compiled by C Meyer                                   S %
+                                                    sum
+         Figure4 : Pyroxene and olivine composition in
+        60626 (Warner et al. 1976).                        Sc ppm   10       (a)
+                                                  V        20       (a)
+                                                              Cr        657     (a)
+   References for 60626                             Co       14       (a)
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Ni        30       (a)
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s  Cu
+--- material block 4; lines 25-37 ---
+Zn
+    Catalog. pp. 370.                                 Ga
+                                                 Ge ppb
+   Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)   As
+    Description, classification and inventory of 151 Apollo 16  Se
+                                                   Rb
+    rake samples from the LM area and station 5.  Curator’s   Sr
+    Catalog, JSC.                                    Y
+                                                                     Zr        35       (a)
+   Laul J.C. and Schmitt R.A. (1973b) Chemical composition  Nb
+                                               Mo
+    of Apollo 15, 16, and 17 samples.  Proc. 4th  Lunar Sci.  Ru
+    Conf. 1349-1367.                                  Rh
+--- material block 5; lines 47-59 ---
+Sutton R.L. (1981) Documentation of Apollo 16 samples.   La         2.1      (a)
+    In Geology of the Apollo 16 area, central lunar highlands.  Ce       6        (a)
+    (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.                    Pr
+                                                   Nd       4        (a)
+                                           Sm        1.1      (a)
+   Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.  Eu        0.96     (a)
+   and Keil K. (1976c)  Catalog of Apollo 16 rake samples  Gd
+   from the LM area and station 5.  Spec. Publ. #13, UNM   Tb         0.2      (a)
+                                                      Dy         1.5      (a)
+    Institute of Meteoritics, Albuquerque. 87 pp.             Ho
+                                                                 Er
+                                             Tm
+             60626                         Yb       1        (a)
+--- references block 6; lines 1-10 ---
+60626                Di                   Hd           Table 1. Chemical composition of 60626
+            Warner et al. 1976
+
+                                                                     reference  Laul73     Warner76
+                                                                   weight
+                                                           SiO2 %               45.3     (b)
+                                                             TiO2      0.37     (a) 0.32     (b)
+                                                           Al2O3     29.1     (a) 29.6     (b)
+                                                   FeO      5        (a) 3.7       (b)
+                                              MnO      0.061   (a) 0.04     (b)
+--- references block 7; lines 16-28 ---
+compiled by C Meyer                                   S %
+                                                    sum
+         Figure4 : Pyroxene and olivine composition in
+        60626 (Warner et al. 1976).                        Sc ppm   10       (a)
+                                                  V        20       (a)
+                                                              Cr        657     (a)
+   References for 60626                             Co       14       (a)
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Ni        30       (a)
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s  Cu
+                                                        Zn
+    Catalog. pp. 370.                                 Ga
+                                                 Ge ppb
+   Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)   As
+--- references block 8; lines 64-73 ---
+,0        ,1    ,2      ,8                  Os ppb
+           13.9 g  PB  0.5 g  1 g                                   Ir ppb
+                                                                     Pt ppb
+                                                      Au ppb
+                            ,5                                Th ppm    0.3      (a)
+                            ,6                          U ppm
+                  TS                                       technique:  (a) INAA, (b) broad beam e probe
+
+Lunar Sample Compendium
+C Meyer 2012

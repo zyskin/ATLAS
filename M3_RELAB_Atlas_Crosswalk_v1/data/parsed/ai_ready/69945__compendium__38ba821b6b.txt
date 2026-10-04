@@ -1,0 +1,95 @@
+DOCUMENT_ID: 69945__compendium__38ba821b6b
+ATLAS_SAMPLE_IDS: 69945
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/69945.pdf
+SOURCE_PDF_SHA256: 5312c98834b53bb5e67bf35eb1e0de0c925bb7a88732011da858c8a07e2156ff
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-20 ---
+69945
+                                Micropoikititic Impact Melt
+                                            6.88 grams
+
+
+
+
+
+                                Figure 1: Photo of 69945. Scale in cm. S72-40137.
+
+
+  Introduction
+  69945 is a fine-grained, poikilitic impact melt collected
+  from the soil adjacent to boulder 69935/55. It appears
+   to be more mafic than most poikilitic Apollo 16 breccias
+  and has only minor clasts (figure 2).
+
+  Norman et al. (2006) determined that 69945 was
+  3.877 ± 0.011 b.y. old (figure 4).
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 43-55 ---
+Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    impact events within the lunar catalysm from 40Ar-39Ar ages   In Geology of the Apollo 16 area, central lunar highlands.
+    and compositions of Apollo 16 impact melt rocks. Geochim.   (Ulrich et al.) U.S.G.S. Prof. Paper 1048.
+   Cosmochim. Acta 70, 6032-6049.
+                                                     Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties   Apollo 16 rocks: Classification and petrogenetic model.
+    of Apollo 16 samples and implications for their mode of   Proc. 4th Lunar Sci. Conf. 481-504.
+    formation. J. Geophys. Res. 79, 2953-2959.
+
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 2; lines 25-51 ---
+References for 69945
+    Butler P. (1972) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+    Korotev R.L. (1996c) On the relationship between the
+   Apollo 16 ancient regolith breccias and feldspathic   Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+    fragmental breccias, and the composition of the prebasin    J. and Rehfeldt A. (1981) Distribution and provenance of
+    crust in the Central Highlands of the Moon.  Meteor. &   lunar highland rock types at North Ray Crater, Apollo 16.
+    Planet. Sci. 31, 403-412.                                  Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+   LSPET (1973) The Apollo 16 lunar samples: Petrographic   Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+   and chemical description. Science 179, 23-34.              A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                                                Reimold W.U., Wacker K. and Wanke H.  (1985)
+   LSPET (1972) Preliminary examination of lunar samples.   Composition and evolution of the lunar crust in the Descartes
+    Apollo 16 Preliminary Science Report. NASA SP-315, 7-   highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+   1—7-58.                                                Res. 90, C449-C506.
+
+   Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    impact events within the lunar catalysm from 40Ar-39Ar ages   In Geology of the Apollo 16 area, central lunar highlands.
+    and compositions of Apollo 16 impact melt rocks. Geochim.   (Ulrich et al.) U.S.G.S. Prof. Paper 1048.
+   Cosmochim. Acta 70, 6032-6049.
+                                                     Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties   Apollo 16 rocks: Classification and petrogenetic model.
+    of Apollo 16 samples and implications for their mode of   Proc. 4th Lunar Sci. Conf. 481-504.
+    formation. J. Geophys. Res. 79, 2953-2959.
+--- treatment block 3; lines 42-54 ---
+Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    impact events within the lunar catalysm from 40Ar-39Ar ages   In Geology of the Apollo 16 area, central lunar highlands.
+    and compositions of Apollo 16 impact melt rocks. Geochim.   (Ulrich et al.) U.S.G.S. Prof. Paper 1048.
+   Cosmochim. Acta 70, 6032-6049.
+                                                     Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties   Apollo 16 rocks: Classification and petrogenetic model.
+    of Apollo 16 samples and implications for their mode of   Proc. 4th Lunar Sci. Conf. 481-504.
+    formation. J. Geophys. Res. 79, 2953-2959.
+
+
+
+Lunar Sample Compendium
+--- references block 4; lines 19-31 ---
+,15
+                TS
+                                                                Figure 4: Ar/Ar plateau diagram for 69945 (Norman
+                                                                               et al. 2006).
+   References for 69945
+    Butler P. (1972) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+    Korotev R.L. (1996c) On the relationship between the
+   Apollo 16 ancient regolith breccias and feldspathic   Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley

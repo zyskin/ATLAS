@@ -1,0 +1,64 @@
+DOCUMENT_ID: 77537__compendium__4e26866cfd
+ATLAS_SAMPLE_IDS: 77537
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/77537.pdf
+SOURCE_PDF_SHA256: d77259e4995abea1dbf54292d7cba4aec50aa29ead825f9c57507eb1d4bf65d1
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+77537
+                               Impact melt Breccia
+                                            71.7 grams
+
+=== PDF PAGE 2; CATEGORIES: material,references ===
+--- material block 1; lines 1-23 ---
+Figure 3: Photo of 77537 showing alignment of vugs. Note also well developed
+                    mcicrometeorite craters. Scale is in cm. S73-19149
+
+   Introduction
+   77537 is a rake sample from station 7, Apollo 17.  It
+    appears to be another impact melt rock, but there are
+   no thin sections nor other allocations.  It has zap pits
+   on all sides (figures 1 – 3).
+
+   Petrography
+   Keil et al. (1974) and Meyer (1994) gave brief
+    descriptions of 77537. It is coherent without fractures
+   and has10-20% vesicles ranging in size from <1 mm
+   up to 15 mm. Clasts are difficult to discern.
+                                                         77537
+   Based on comparison with other samples from this
+    location, this rock is an impact melt rock.
+
+                                                                    Figure 4: Map of station 7, Apollo 17.
+   Chemistry
+   None
+                                                   Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+                                                               Curator’s Office JSC 26088 pp. 644
+--- material block 2; lines 26-37 ---
+References for 77537.                                                        Muehlberger W.R. and many others (1973)  Preliminary
+    Butler P. (1973) Lunar Sample Information Catalog Apollo                                                            Geological Investigation of the Apollo 17 Landing Site. In
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s                                                        Apollo 17 Preliminary Science Report. NASA SP-330.
+    Catalog. pp. 447.
+                                                        Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    Keil K., Dowty E. and Prinz M. (1974)  Description,                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    classification and inventory of 113 Apollo 17 rake samples                                                             geologic investigation of the Taurus-Littrow Valley: Apollo
+   from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.                                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+                                                            280.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- references block 3; lines 20-32 ---
+Chemistry
+   None
+                                                   Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+                                                               Curator’s Office JSC 26088 pp. 644
+                                                     76 78
+
+   References for 77537.                                                        Muehlberger W.R. and many others (1973)  Preliminary
+    Butler P. (1973) Lunar Sample Information Catalog Apollo                                                            Geological Investigation of the Apollo 17 Landing Site. In
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s                                                        Apollo 17 Preliminary Science Report. NASA SP-330.
+    Catalog. pp. 447.
+                                                        Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    Keil K., Dowty E. and Prinz M. (1974)  Description,                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    classification and inventory of 113 Apollo 17 rake samples                                                             geologic investigation of the Taurus-Littrow Valley: Apollo

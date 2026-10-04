@@ -1,0 +1,183 @@
+DOCUMENT_ID: 76565__compendium__2cd3b962c9
+ATLAS_SAMPLE_IDS: 76565,76566
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/76565.pdf
+SOURCE_PDF_SHA256: 6818e88dc5e528fb4fe813401108641546c054aaf4bf7b0c6f1319dc4c7db97a
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 13-33 ---
+76565 and 76566 were collected as rake samples at                                          Simon et al. (1990), Simonds et al. (1981) and
+  station 6 on the lower slope of the North Massif. They                                          Wiesmann and Hubbard (1976) analyzed 76565.
+  are fairly coherent regolith breccias, with numerous                                             Meyer (1994) claimed that the matrix of 76565 was
+  small clasts of feldspathic material from the highlands
+  and some clasts of mare material from the valley floor.
+
+                                                      Mineralogical Mode for 76565  Petrography                                                                             (Simon et al. 1990)
+  Fruland (1983) and Simon et al. (1990) included 76565       Matrix            55.4 %
+  in their study of regolith breccias. The dark matrix is                       20-90 micron     90-100 micron
+  non-porous and is mostly glass, with a few percent mare      Mare Basalt       0.4                2.2
+  and highland clasts.  . Orange glass is present.               Plutonic           0.5                2.5
+                                                                          Granulitic         0.5                1.9
+                                                                     Breccia            0.7                1.9
+  Significant Clast                                                Olivine            2.4             1
+  Warren et al. (1983) studied the white clast, finding      Pyroxene          3.8                1.6
+  that it was non-pristine or badly contaminated by Ir       Plagioclase        7.8                5.6
+                                                            Opaques          1.5                0.3  and Au.                                                                    Glass              4.6                1.9
+                                                                      Agglutinate        1.6                1.5
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-33 ---
+76565 – 11.6 grams
+                         76566 – 2.6 grams
+                                  Regolith Breccia
+
+
+
+
+
+             Figure 1: Photo of 76565,0. S73-19644. Clast is 6 mm.
+
+
+  Introduction                                           Chemistry
+  76565 and 76566 were collected as rake samples at                                          Simon et al. (1990), Simonds et al. (1981) and
+  station 6 on the lower slope of the North Massif. They                                          Wiesmann and Hubbard (1976) analyzed 76565.
+  are fairly coherent regolith breccias, with numerous                                             Meyer (1994) claimed that the matrix of 76565 was
+  small clasts of feldspathic material from the highlands
+  and some clasts of mare material from the valley floor.
+
+                                                      Mineralogical Mode for 76565  Petrography                                                                             (Simon et al. 1990)
+  Fruland (1983) and Simon et al. (1990) included 76565       Matrix            55.4 %
+  in their study of regolith breccias. The dark matrix is                       20-90 micron     90-100 micron
+  non-porous and is mostly glass, with a few percent mare      Mare Basalt       0.4                2.2
+  and highland clasts.  . Orange glass is present.               Plutonic           0.5                2.5
+                                                                          Granulitic         0.5                1.9
+                                                                     Breccia            0.7                1.9
+  Significant Clast                                                Olivine            2.4             1
+  Warren et al. (1983) studied the white clast, finding      Pyroxene          3.8                1.6
+  that it was non-pristine or badly contaminated by Ir       Plagioclase        7.8                5.6
+                                                            Opaques          1.5                0.3  and Au.                                                                    Glass              4.6                1.9
+                                                                      Agglutinate        1.6                1.5
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: material ===
+--- material block 1; lines 1-12 ---
+Figure 2: Photo of 76566. Scale in mm. S73-19639.
+
+
+
+   the same composition as the adjacent soil (76500).
+  Warren et al. (1983) analyzed the large white clast.
+
+  Processing
+  There are three thin sections of 76565.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-21 ---
+Table 1. Chemical composition of 76565.                25
+                                                                              20                      Apollo soils   reference Simonds81  Simon 90    Warren83
+   weight                                   clast                                                                              breccia
+  SiO2 %   43.94     (b)              45.37     (a)                       15
+  TiO2      3.24      (b) 4.57      (a) 0.25      (a)       FeO
+  Al2O3    18.59     (b) 16.1      (a) 26.08     (a)                                     76565
+  FeO      9.57      (b) 12.4      (a) 5.66      (a)                       10
+  MnO                   0.16      (a) 0.08      (a)
+  MgO      10.22     (b) 10.3      (a) 8.13      (a)                         5
+  CaO      12.15     (b) 12        (a) 14.56     (a)
+  Na2O     0.49      (b) 0.41      (a) 0.35      (a)
+                                                                                  0
+  K2O      0.12      (b) 0.09      (a) 0.1        (a)                                                                                    0       5       10      15      20      25      30      35
+  P2O5
+  S %                                                        Al2O3
+  sum
+                                                                  Figure 4: Composition of 76565 compared with
+  Sc ppm                38.7      (a) 10.9      (a)                      lunar soils.
+  V
+  Cr
+  Co                  30        (a) 33.1      (a)
+--- material block 2; lines 1-9 ---
+Table 1. Chemical composition of 76565.                25
+                                                                              20                      Apollo soils   reference Simonds81  Simon 90    Warren83
+   weight                                   clast                                                                              breccia
+  SiO2 %   43.94     (b)              45.37     (a)                       15
+  TiO2      3.24      (b) 4.57      (a) 0.25      (a)       FeO
+  Al2O3    18.59     (b) 16.1      (a) 26.08     (a)                                     76565
+  FeO      9.57      (b) 12.4      (a) 5.66      (a)                       10
+  MnO                   0.16      (a) 0.08      (a)
+  MgO      10.22     (b) 10.3      (a) 8.13      (a)                         5
+--- material block 3; lines 37-49 ---
+Pd ppb
+  Ag ppb
+  Cd ppb
+   In ppb
+  Sn ppb
+  Sb ppb                                                      Figure 5: Normalized rare-earth-element diagram
+  Te ppb                                                               for matrix and clast in 76565.
+  Cs ppm                0.14      (a) 0.22      (a)
+  Ba                  105       (a)
+  La                     8.55      (a) 2.71      (a)
+  Ce                     22.5      (a) 7.1        (a)
+  Pr
+  Nd                     18.7      (a) 3.9        (a)
+--- references block 4; lines 1-8 ---
+Table 1. Chemical composition of 76565.                25
+                                                                              20                      Apollo soils   reference Simonds81  Simon 90    Warren83
+   weight                                   clast                                                                              breccia
+  SiO2 %   43.94     (b)              45.37     (a)                       15
+  TiO2      3.24      (b) 4.57      (a) 0.25      (a)       FeO
+  Al2O3    18.59     (b) 16.1      (a) 26.08     (a)                                     76565
+  FeO      9.57      (b) 12.4      (a) 5.66      (a)                       10
+  MnO                   0.16      (a) 0.08      (a)
+--- references block 5; lines 64-73 ---
+Os ppb
+    Ir ppb                   4.5        (a) 20        (a)
+   Pt ppb
+  Au ppb               2          (a) 7.2        (a)
+  Th ppm                1.12      (a) 0.72      (a)
+  U ppm                 0.32      (a) 0.21      (a)
+   technique:  (a) INAA, (b) fused-bead e. probe
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: material,references ===
+--- material block 1; lines 10-33 ---
+,19
+                                TS
+
+
+
+  References for 76565 and 76566.                   Phinney W.C., Simonds C.H. and Warner J. (1974)
+   Butler P. (1973) Lunar Sample Information Catalog   Description, Classification and Inventory of Apollo 17 Rake
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211  Samples from Station 6. Curator’s Catalog, pp. 46.
+   Curator’s Catalog. pp. 447.
+                                                  Simon S.B., Papike J.J., Laul J.C., Hughes S.S. and Schmitt
+  Fruland R.M. (1983)  Regolith Breccia Workbook.   R. A. (1989) Comparative petrology and chemistry of Apollo
+   Curatorial Branch Publication # 66. JSC 19045.           17 regolith breccias and soils (abs). Lunar Planet. Sci. XX,
+                                                        1014-1015. Lunar Planetary Institute, Houston.
+  LSPET (1973)  Apollo 17 lunar samples: Chemical and
+   petrographic description. Science 182, 659-672.          Simon S.B., Papike J.J., Gosselin D.C., Laul J.C., Hughes
+                                                                S.S. and Schmitt R.A. (1990) Petrology and chemistry of
+  LSPET (1973) Preliminary Examination of lunar samples.   Apollo 17 regolith breccias: A history of mixing of highland
+   Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –  and mare regolith. Proc. 20th Lunar Planet. Sci. 219-230.
+   7-46.                                               Lunar Planetary Institute, Houston.
+
+  Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.  Simonds C.H. and Warner J.L. (1981)  Petrochemistry of
+   Curator’s Office JSC 26088 pp. 644                      Apollo 16 and 17 samples (abs). Lunar Planet. Sci. XII,
+  76 78                                                 993-995. Lunar Planetary Institute, Houston.
+--- references block 2; lines 9-21 ---
+,8      0.9 g
+                                            ,19
+                                TS
+
+
+
+  References for 76565 and 76566.                   Phinney W.C., Simonds C.H. and Warner J. (1974)
+   Butler P. (1973) Lunar Sample Information Catalog   Description, Classification and Inventory of Apollo 17 Rake
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211  Samples from Station 6. Curator’s Catalog, pp. 46.
+   Curator’s Catalog. pp. 447.
+                                                  Simon S.B., Papike J.J., Laul J.C., Hughes S.S. and Schmitt
+  Fruland R.M. (1983)  Regolith Breccia Workbook.   R. A. (1989) Comparative petrology and chemistry of Apollo
+   Curatorial Branch Publication # 66. JSC 19045.           17 regolith breccias and soils (abs). Lunar Planet. Sci. XX,

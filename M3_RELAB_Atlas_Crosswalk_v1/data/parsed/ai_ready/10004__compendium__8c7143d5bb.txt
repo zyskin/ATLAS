@@ -1,0 +1,206 @@
+DOCUMENT_ID: 10004__compendium__8c7143d5bb
+ATLAS_SAMPLE_IDS: 10004
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10004.pdf
+SOURCE_PDF_SHA256: b02478383f452a68f170235f06d4d3eb3a153e222da067dc93070e047c6bcacd
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 11-36 ---
+Introduction
+   Drive tube 10004 collected about 13.5 cm of lunar soil,          25
+   but was found to be “disturbed” when it was opened in          20                      Apollo soils
+   the LRL (Kramer et al. 1977). The exact location is
+   not known, but it was within a few meters of the LM          15           10005     10004
+   and drive tube 10005. It was returned in ALSRC #1004 FeO
+   (vacuum tight).                                                         10
+
+   Both Apollo 11 drive tubes were pressed into the           5
+    regolith about 12 cm and hammered another 12 cm
+                                                                                   0
+    (Carrier et al. 1970). They were only partially filled,             0       5       10      15      20      25      30      35
+   because the bit was wider than the tube, which required                    Al2O3
+    that the dry uncompressible soil had to “flow” into the
+   tube (the design was changed for later missions). The      Figure 2: Chemical composition of Apollo 11 soils
+    initial weight of 10004 given in the catalog (and Lunar      compared with other luanr soils.
+   Sourcebook!) is 51 g.
+                                            Chemistry
+   Petrography                                The chemical composition of 10004 has not been
+   The Apollo 11 site was chosen to be flat and as free of   reported, but it is presumed to be similar to the other
+   rocks as possible. The regolith was found to be uniform  Apollo 11 soils. Ma et al. (1980) reported the
+   over the whole area covered by the astronauts.         composition of 19 small basalt fragments from core
+                                                    10004. Reed and Jovanovic (1971) determined Li, F,
+   Fryxell et al. (1970) initially dissected and described   Cl, Br, Hg, Os and U for various depths in 10004.
+   the core. A more thorough description was made by
+--- material block 2; lines 7-50 ---
+Figure 1: Half of drive tube 10004. S77-22631. Scale in cm.
+
+
+   Introduction
+   Drive tube 10004 collected about 13.5 cm of lunar soil,          25
+   but was found to be “disturbed” when it was opened in          20                      Apollo soils
+   the LRL (Kramer et al. 1977). The exact location is
+   not known, but it was within a few meters of the LM          15           10005     10004
+   and drive tube 10005. It was returned in ALSRC #1004 FeO
+   (vacuum tight).                                                         10
+
+   Both Apollo 11 drive tubes were pressed into the           5
+    regolith about 12 cm and hammered another 12 cm
+                                                                                   0
+    (Carrier et al. 1970). They were only partially filled,             0       5       10      15      20      25      30      35
+   because the bit was wider than the tube, which required                    Al2O3
+    that the dry uncompressible soil had to “flow” into the
+   tube (the design was changed for later missions). The      Figure 2: Chemical composition of Apollo 11 soils
+    initial weight of 10004 given in the catalog (and Lunar      compared with other luanr soils.
+   Sourcebook!) is 51 g.
+                                            Chemistry
+   Petrography                                The chemical composition of 10004 has not been
+   The Apollo 11 site was chosen to be flat and as free of   reported, but it is presumed to be similar to the other
+   rocks as possible. The regolith was found to be uniform  Apollo 11 soils. Ma et al. (1980) reported the
+   over the whole area covered by the astronauts.         composition of 19 small basalt fragments from core
+                                                    10004. Reed and Jovanovic (1971) determined Li, F,
+   Fryxell et al. (1970) initially dissected and described   Cl, Br, Hg, Os and U for various depths in 10004.
+   the core. A more thorough description was made by
+   Allton (1978). Some of the material in 10004 may  Cosmogenic isotopes and exposure ages
+   have shifted because the Teflon follower was not in   Finkel et al. (1971) found a decrease with depth for
+    place.                                  53Mn activity.
+
+   The small rock was found located halfway along the  Other Studies
+   core was (figure 4).                                  Taylor et al. (1971), Oyama et al. (1971) and others
+                                                     conducted numerous investigations looking for organic
+   Grain size analysis was reported in the preliminary  compounds and/or evidence of any life in the lunar
+   examination (figure 3).                                   regolith.
+
+
+
+Lunar Sample Compendium
+C Meyer 2009
+
+=== PDF PAGE 2; CATEGORIES: material ===
+--- material block 1; lines 1-7 ---
+Figure 4: Grain size distribution of 10004 as
+                                                                   reported in initial catalog (King 1969).
+
+                                                 Processing
+                                        When the Apollo 11 cores were initially opened in the
+                                                         “bio prep lab” in 1969, about half of each was allocated
+                                                              to the ‘Biopool’ sample.  It wasn’t until 1978 that the
+--- material block 2; lines 18-30 ---
+data is not available.
+   Dalymple and Doell (1970) and Hoyt et al. (1970)
+    studied thermoluminescence.                        General information on drive tubes is found in another
+                                                            section of this compendium.
+
+
+                                                                              small rock
+
+
+
+
+
+    Figure 5: Photo of 10004 after material removed for ‘biopool’ split, showing a large particle about half way. S69-45537.
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,references ===
+--- chemistry block 1; lines 40-52 ---
+Duke M.B. and Nagle J.S. (1976)  Lunar Core Catalog.   (1971) Search for viable organisms in lunar samples: Further
+   JSC09252 rev. Curators’ Office                              biological studies of Apollo 11 core, Apollo 12 bulk, and
+                                                         Apollo 12 core samples. Proc. 2nd Lunar Sci. Conf. 1931-
+    Finkel R.C., Arnold J.R., Imamura M., Reedy R.C., Fruchter   1937.
+     J.S., Loosli H.H., Evans J.C., Delany A.C. and Shedlovsky
+     J.P. (1971) Depth variation of cosmogenic nuclides in a  Reed G.W. and Jovanovic S. (1971) The halogens and other
+    lunar surface rock and lunar fines.  Proc. 2nd Lunar Sci.   trace elements in Apollo 12 samples and the implications of
+    Conf. 1773-1789.                                              halides, platimum metals, and mercury on surfaces. Proc.
+                                                                          2nd Lunar Sci. Conf. 1261-1276.
+    Fleischer R.L., Haines E.L., Hart H.R., Wood R.T. and
+   Comstock G.M. (1970) The particle track record of the Sea
+--- material block 2; lines 1-52 ---
+References for 10004                                      of Tranquillity. Proc. Apollo 11 Lunar Science Conference
+    Allton J.H. (1978) The Apollo 11 drive tubes. Curatorial   2103-2120.
+     facility. NASA Johnson Space Center, Houston.
+                                                               Fryxell R., Anderson D., Carrier D., Greenwood W. and
+   Beaty D.W. and Albee A.L. (1980)  The geology and  Heiken G. (1970) Apollo 11 drive-tube core samples: an
+                                                                              initial physical analysis of lunar surface sediment.  Proc.    petrology of the Apollo 11 landing site.  Proc. 11th Lunar
+                                                           Apollo 11 Lunar Science. Conf. 2121-2126.
+    Planet. Sci. Conf. 23-35.
+
+                                                     Hoyt H.P., Kardos J.L., Miyajima M., Seitz M.G., Sun S.S.,
+    Carrier W.D. (1973) Lunar grain size distribution. The Moon                                                        Walker R.M. and Wittels M.C. (1970) Thermoluminescence,
+    6, 250-263.                                                          X-ray and stored energy measurements of Apollo 11 samples.
+                                                             Proc. Apollo 11 Lunar Science Conf. 2269-2287.
+    Carrier W.D., Johnson S.W., Werner R.A. and Schmidt R.
+    (1971) Disturbance in samples recovered with the Apollo                                                     King E.A. and a cast of thousands (1969) Lunar Sample
+    core tubes. Proc. 2nd Lunar Science Conf. 1959-1972.      Information Catalog, Apollo 11.  Lunar Receiving
+                                                              Laboratory, MSC 412 pp
+    Carrier W.D., Olhoeft G.R. and Mendell W. (1991) Physical
+    properties of the Lunar Surface. In Lunar Sourcebook: a  Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo
+    users guide to the moon. (eds. Heiken et al. ) Cambridge   11 Lunar Sample Information Catalogue (revised). Curator’s
+    Univ. Press                                                   Office, JSC 12522
+
+   Costes N.C., Carrier W.D., Mitchell J.K. and Scott R.F.   Lal D., Macdougall D., Wilkening L. and Arrhenius G. (1970)
+    (1969) Apollo 11 soil mechanics investigation. In Apollo  Mixing of the lunar regolith and cosmic ray spectra: Evidence
+   11 Pelim. Sci. Rpt. NASA SP-214, 85-122.               from particle-track studies. Proc. Apollo 11 Lunar Science
+                                                            Conf. 2295-2303.
+   Costes N.C. and Mitchell J.K. (1970)  Apollo 11 soil
+   mechanics investigation.  Proc. Apollo 11 Lunar Science  LSPET (1969a) Preliminary examination of lunar samples.
+    Conf. 2025-2044.                                          In Apollo 11 Prelim. Sci. Rpt. NASA SP-214. 123-142
+
+   Crozaz G., Haack U., Hair M., Maurette M., Walker R. and  LSPET (1969b) Preliminary examination of lunar samples
+   Woolum D. (1970) Nuclear track studies of ancient solar  from Apollo 11. Science 165, 1211-1227.
+    radiations and dynamic lunar surface processes. Proc. Apollo
+   11 Lunar Science Conf. 2051-2080.                Ma M.-S., Schmitt R.A., Beaty D.W. and Albee A.L. (1980)
+                                                   The petrology and chemistry of basaltic fragments from the
+   Dalrymple G.B. and Doell R.R. (1970) Thermoluminescence   Apollo 11 soil: Drive tubes 10004 and 10005.  Proc. 11th
+    of lunar samples from Apollo 11.  Proc. Apollo 11 Lunar  Lunar Planet. Sci. Conf. 37-47.
+    Science Conf. 2081-2092.
+                                              Oyama V.J., Merek E.L., Silverman M.P. and Boylen C.W.
+   Duke M.B. and Nagle J.S. (1976)  Lunar Core Catalog.   (1971) Search for viable organisms in lunar samples: Further
+   JSC09252 rev. Curators’ Office                              biological studies of Apollo 11 core, Apollo 12 bulk, and
+                                                         Apollo 12 core samples. Proc. 2nd Lunar Sci. Conf. 1931-
+    Finkel R.C., Arnold J.R., Imamura M., Reedy R.C., Fruchter   1937.
+     J.S., Loosli H.H., Evans J.C., Delany A.C. and Shedlovsky
+     J.P. (1971) Depth variation of cosmogenic nuclides in a  Reed G.W. and Jovanovic S. (1971) The halogens and other
+    lunar surface rock and lunar fines.  Proc. 2nd Lunar Sci.   trace elements in Apollo 12 samples and the implications of
+    Conf. 1773-1789.                                              halides, platimum metals, and mercury on surfaces. Proc.
+                                                                          2nd Lunar Sci. Conf. 1261-1276.
+    Fleischer R.L., Haines E.L., Hart H.R., Wood R.T. and
+   Comstock G.M. (1970) The particle track record of the Sea
+--- age block 3; lines 18-30 ---
+Carrier W.D., Olhoeft G.R. and Mendell W. (1991) Physical
+    properties of the Lunar Surface. In Lunar Sourcebook: a  Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo
+    users guide to the moon. (eds. Heiken et al. ) Cambridge   11 Lunar Sample Information Catalogue (revised). Curator’s
+    Univ. Press                                                   Office, JSC 12522
+
+   Costes N.C., Carrier W.D., Mitchell J.K. and Scott R.F.   Lal D., Macdougall D., Wilkening L. and Arrhenius G. (1970)
+    (1969) Apollo 11 soil mechanics investigation. In Apollo  Mixing of the lunar regolith and cosmic ray spectra: Evidence
+   11 Pelim. Sci. Rpt. NASA SP-214, 85-122.               from particle-track studies. Proc. Apollo 11 Lunar Science
+                                                            Conf. 2295-2303.
+   Costes N.C. and Mitchell J.K. (1970)  Apollo 11 soil
+   mechanics investigation.  Proc. Apollo 11 Lunar Science  LSPET (1969a) Preliminary examination of lunar samples.
+    Conf. 2025-2044.                                          In Apollo 11 Prelim. Sci. Rpt. NASA SP-214. 123-142
+--- references block 4; lines 1-7 ---
+References for 10004                                      of Tranquillity. Proc. Apollo 11 Lunar Science Conference
+    Allton J.H. (1978) The Apollo 11 drive tubes. Curatorial   2103-2120.
+     facility. NASA Johnson Space Center, Houston.
+                                                               Fryxell R., Anderson D., Carrier D., Greenwood W. and
+   Beaty D.W. and Albee A.L. (1980)  The geology and  Heiken G. (1970) Apollo 11 drive-tube core samples: an
+                                                                              initial physical analysis of lunar surface sediment.  Proc.    petrology of the Apollo 11 landing site.  Proc. 11th Lunar
+                                                           Apollo 11 Lunar Science. Conf. 2121-2126.
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 1-12 ---
+Taylor G.P., Ellis W., Johnson P.H., Kropp K. and Groves T.
+    (1971) Microbial assay of lunar samples. Proc. 2nd Lunar
+    Science Conf. 1939-1948.
+
+    Wakita H., Schmitt R.A. and Rey P. (1970)  Elemental
+    abundances of major, minor, and trace elements in Apollo
+    11 lunar rocks, soil, and core samples. Proc. Apollo 11 Lunar
+     Sci. Conf. 1685-1717.
+--- material block 2; lines 1-13 ---
+Taylor G.P., Ellis W., Johnson P.H., Kropp K. and Groves T.
+    (1971) Microbial assay of lunar samples. Proc. 2nd Lunar
+    Science Conf. 1939-1948.
+
+    Wakita H., Schmitt R.A. and Rey P. (1970)  Elemental
+    abundances of major, minor, and trace elements in Apollo
+    11 lunar rocks, soil, and core samples. Proc. Apollo 11 Lunar
+     Sci. Conf. 1685-1717.

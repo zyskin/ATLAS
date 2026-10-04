@@ -1,0 +1,614 @@
+DOCUMENT_ID: 67941rev__compendium__67e4c7a805
+ATLAS_SAMPLE_IDS: 67941,67960
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67941rev.pdf
+SOURCE_PDF_SHA256: d9369f49ab1a340128c98a321531feecb5460b8a74fbcd40f81f0160d85bdec7
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,references ===
+--- material block 1; lines 1-33 ---
+67941 – 163 grams
+                      67960 – 12 grams
+                         Shielded Soil and reference
+
+
+
+
+         67940
+
+
+
+
+
+   Figure 1: House Rock and location of 67940 in
+   crack with Outhouse Rock.
+
+
+
+
+
+                                                67960
+
+
+
+
+
+   Figure 2: Map of House and Outhouse Rock on
+  rim of North Ray Crater (Sutton 1981). 69940 was
+  from a shielded region between rocks and 69960          Figure 3: Photo of area where 67960 was collected.
+  was collected in the sun as reference soil.                AS16-106-17347.
+
+Lunar Sample Compendium
+C Meyer 2010
+--- references block 2; lines 1-9 ---
+67941 – 163 grams
+                      67960 – 12 grams
+                         Shielded Soil and reference
+
+
+
+
+         67940
+--- references block 3; lines 24-33 ---
+Figure 2: Map of House and Outhouse Rock on
+  rim of North Ray Crater (Sutton 1981). 69940 was
+  from a shielded region between rocks and 69960          Figure 3: Photo of area where 67960 was collected.
+  was collected in the sun as reference soil.                AS16-106-17347.
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-22 ---
+25
+                                                                          20                      Apollo soils
+
+
+                                                                          15
+                               FeO
+
+                                                                          10
+
+
+                                                                               5
+                                                                                                 67940
+
+                                                                               0
+                                                                                 0       5       10      15      20      25      30      35
+                                                          Al2O3
+                                                            Figure 5: Composition of 67941 compared with that
+                                                                      of other Apollo soil samples.
+
+                                                                                                     200
+
+                                                                                                     180
+--- chemistry block 2; lines 33-45 ---
+40              67940
+                                                                                                       20                              Lunar Soils
+
+                                                                                                                0
+                                                                                                                  0          20          40          60          80         100         120
+      Figure 4: Map of Apollo 16 site with North Ray                            maturity (Is/FeO)
+       Crater.                                                Figure 6: Carbon content and maturity index for
+                                                           67941.
+Introduction
+Soil sample 67940 was collected from the regolith in a
+narrow E-W split in House Rock, station 11 (Sutton  Powell et al. (1975) studied the mineralogy of the rock
+1981). This sample was specifically collected to check  fragments in soil 67941. Ryder and Norman (1980)
+--- chemistry block 3; lines 57-69 ---
+Basalt                    8.3Petrography
+                                                        Breccia                 53.2
+67940 and 67960 are both immature soils from the near                                                          Anorthosite              2.6
+the rim of fresh North Ray Crater. Heiken et al. (1973)                                                          Norite                   1.6
+reported the mineralogical mode of 67940 – with only  Gabbro                  0.3
+12 % agglutinates. Morris (1978) found 67940 had a   Plagioclase              13.3
+low maturity index (Is/FeO = 29). The average grain   Pyroxene                 4.6
+size of 67941 is 193 microns (high for an Apollo 16   Olivine                       -
+soil). The reference soil (67960) was also immature   Ilmenite                      -
+with Is/FeO = 20.                                      Glass other               5.2
+
+  Lunar Sample Compendium
+  C Meyer 2010
+--- mineralogy block 4; lines 38-69 ---
+0          20          40          60          80         100         120
+      Figure 4: Map of Apollo 16 site with North Ray                            maturity (Is/FeO)
+       Crater.                                                Figure 6: Carbon content and maturity index for
+                                                           67941.
+Introduction
+Soil sample 67940 was collected from the regolith in a
+narrow E-W split in House Rock, station 11 (Sutton  Powell et al. (1975) studied the mineralogy of the rock
+1981). This sample was specifically collected to check  fragments in soil 67941. Ryder and Norman (1980)
+on the idea that ionized rare gases may be accelerated   cataloged the fragments (67945-67948) picked from
+along and redistributed by solar wind electric field   this soil. House Rock and other samples of North Ray
+along trajectories that are north-south (Horz et al.   Crater are breccias.
+1972). 67960 is the reference soil collected about 5
+meters to the east of House Rock. House Rock is 3-10
+m high and the opposing “Outhouse Rock” 2.5 m high;
+the crack between them is about 2 m long with the
+sample location about midway. However, this soil is  Modal content of soils 67941 (90-150 micron).
+probably NOT permanently shadowed from the Sun  From Heiken et al. 1973.
+(figure 1).
+                                                          Agglutinates           12 %
+                                                           Basalt                    8.3Petrography
+                                                        Breccia                 53.2
+67940 and 67960 are both immature soils from the near                                                          Anorthosite              2.6
+the rim of fresh North Ray Crater. Heiken et al. (1973)                                                          Norite                   1.6
+reported the mineralogical mode of 67940 – with only  Gabbro                  0.3
+12 % agglutinates. Morris (1978) found 67940 had a   Plagioclase              13.3
+low maturity index (Is/FeO = 29). The average grain   Pyroxene                 4.6
+size of 67941 is 193 microns (high for an Apollo 16   Olivine                       -
+soil). The reference soil (67960) was also immature   Ilmenite                      -
+with Is/FeO = 20.                                      Glass other               5.2
+
+  Lunar Sample Compendium
+  C Meyer 2010
+--- material block 5; lines 12-24 ---
+67940
+
+                                                                               0
+                                                                                 0       5       10      15      20      25      30      35
+                                                          Al2O3
+                                                            Figure 5: Composition of 67941 compared with that
+                                                                      of other Apollo soil samples.
+
+                                                                                                     200
+
+                                                                                                     180
+
+                                                                                                     160
+--- material block 6; lines 37-69 ---
+0
+                                                                                                                  0          20          40          60          80         100         120
+      Figure 4: Map of Apollo 16 site with North Ray                            maturity (Is/FeO)
+       Crater.                                                Figure 6: Carbon content and maturity index for
+                                                           67941.
+Introduction
+Soil sample 67940 was collected from the regolith in a
+narrow E-W split in House Rock, station 11 (Sutton  Powell et al. (1975) studied the mineralogy of the rock
+1981). This sample was specifically collected to check  fragments in soil 67941. Ryder and Norman (1980)
+on the idea that ionized rare gases may be accelerated   cataloged the fragments (67945-67948) picked from
+along and redistributed by solar wind electric field   this soil. House Rock and other samples of North Ray
+along trajectories that are north-south (Horz et al.   Crater are breccias.
+1972). 67960 is the reference soil collected about 5
+meters to the east of House Rock. House Rock is 3-10
+m high and the opposing “Outhouse Rock” 2.5 m high;
+the crack between them is about 2 m long with the
+sample location about midway. However, this soil is  Modal content of soils 67941 (90-150 micron).
+probably NOT permanently shadowed from the Sun  From Heiken et al. 1973.
+(figure 1).
+                                                          Agglutinates           12 %
+                                                           Basalt                    8.3Petrography
+                                                        Breccia                 53.2
+67940 and 67960 are both immature soils from the near                                                          Anorthosite              2.6
+the rim of fresh North Ray Crater. Heiken et al. (1973)                                                          Norite                   1.6
+reported the mineralogical mode of 67940 – with only  Gabbro                  0.3
+12 % agglutinates. Morris (1978) found 67940 had a   Plagioclase              13.3
+low maturity index (Is/FeO = 29). The average grain   Pyroxene                 4.6
+size of 67941 is 193 microns (high for an Apollo 16   Olivine                       -
+soil). The reference soil (67960) was also immature   Ilmenite                      -
+with Is/FeO = 20.                                      Glass other               5.2
+
+  Lunar Sample Compendium
+  C Meyer 2010
+--- treatment block 7; lines 33-46 ---
+40              67940
+                                                                                                       20                              Lunar Soils
+
+                                                                                                                0
+                                                                                                                  0          20          40          60          80         100         120
+      Figure 4: Map of Apollo 16 site with North Ray                            maturity (Is/FeO)
+       Crater.                                                Figure 6: Carbon content and maturity index for
+                                                           67941.
+Introduction
+Soil sample 67940 was collected from the regolith in a
+narrow E-W split in House Rock, station 11 (Sutton  Powell et al. (1975) studied the mineralogy of the rock
+1981). This sample was specifically collected to check  fragments in soil 67941. Ryder and Norman (1980)
+on the idea that ionized rare gases may be accelerated   cataloged the fragments (67945-67948) picked from
+--- treatment block 8; lines 57-69 ---
+Basalt                    8.3Petrography
+                                                        Breccia                 53.2
+67940 and 67960 are both immature soils from the near                                                          Anorthosite              2.6
+the rim of fresh North Ray Crater. Heiken et al. (1973)                                                          Norite                   1.6
+reported the mineralogical mode of 67940 – with only  Gabbro                  0.3
+12 % agglutinates. Morris (1978) found 67940 had a   Plagioclase              13.3
+low maturity index (Is/FeO = 29). The average grain   Pyroxene                 4.6
+size of 67941 is 193 microns (high for an Apollo 16   Olivine                       -
+soil). The reference soil (67960) was also immature   Ilmenite                      -
+with Is/FeO = 20.                                      Glass other               5.2
+
+  Lunar Sample Compendium
+  C Meyer 2010
+--- references block 9; lines 43-55 ---
+Soil sample 67940 was collected from the regolith in a
+narrow E-W split in House Rock, station 11 (Sutton  Powell et al. (1975) studied the mineralogy of the rock
+1981). This sample was specifically collected to check  fragments in soil 67941. Ryder and Norman (1980)
+on the idea that ionized rare gases may be accelerated   cataloged the fragments (67945-67948) picked from
+along and redistributed by solar wind electric field   this soil. House Rock and other samples of North Ray
+along trajectories that are north-south (Horz et al.   Crater are breccias.
+1972). 67960 is the reference soil collected about 5
+meters to the east of House Rock. House Rock is 3-10
+m high and the opposing “Outhouse Rock” 2.5 m high;
+the crack between them is about 2 m long with the
+sample location about midway. However, this soil is  Modal content of soils 67941 (90-150 micron).
+probably NOT permanently shadowed from the Sun  From Heiken et al. 1973.
+(figure 1).
+--- references block 10; lines 59-69 ---
+67940 and 67960 are both immature soils from the near                                                          Anorthosite              2.6
+the rim of fresh North Ray Crater. Heiken et al. (1973)                                                          Norite                   1.6
+reported the mineralogical mode of 67940 – with only  Gabbro                  0.3
+12 % agglutinates. Morris (1978) found 67940 had a   Plagioclase              13.3
+low maturity index (Is/FeO = 29). The average grain   Pyroxene                 4.6
+size of 67941 is 193 microns (high for an Apollo 16   Olivine                       -
+soil). The reference soil (67960) was also immature   Ilmenite                      -
+with Is/FeO = 20.                                      Glass other               5.2
+
+  Lunar Sample Compendium
+  C Meyer 2010
+
+=== PDF PAGE 3; CATEGORIES: age,material,references,treatment ===
+--- material block 1; lines 1-36 ---
+average grain size = 193 microns
+
+        Figure 7: Normalized rare-earth-element
+       diagram for 67941.
+
+
+
+Chemistry
+Rose et al. (1975), Finkelman et al. (1975), Boynton et
+al. (1975), Eldridge et al. (1973) and Korotev (1982)
+determined the composition of 67940 and found it
+identical to the reference soil 67960 (table 1 and figures
+5 and 7) and is typical of the regolith at North Ray
+Crater.  Jovanovic and Reed (1973) studied the
+halogens in 67941 finding that they were within the
+range of other Apollo 16 materials.                            Figure 8: Grain size distribution for 67940 (Graf
+                                                            1993; data from Heiken et al. 1973).
+Moore et al. (1975) reported 59 ppm carbon, consistent
+with low maturity (figure 6).  Kerridge et al. (1975)
+and Moore and Lewis (1975) reported 27 ppm and 91
+                                         Other Studiesppm nitrogen for 67941, respectively.
+                                                   Eberhardt et al. (1976) carefully studied 67940 and
+                                                      multiple grain size separates of this sample for all theCosmogenic isotopes and exposure ages
+                                                       isotopes of the rare gases (figures 10 and 11). TheyEberhardt et al. (1976) give the average exposure age
+                                                 found high excess 4He and 40Ar which is typical of soilsof 104 m.y. for 67941 and 95 m.y. for 67960 based on
+                                              from the rims of relatively recent craters. However,various rare gas isotope determinations. This is to be
+                                                    they did not find less excess 40Ar in the shielded soilcompared with the 50 m.y. old exposure age of the
+                                                   (67940) than the reference soil (67960), which had beenvarious boulders thrown out of North Ray Crater
+                                                        predicted.(dating the crater). Obviously, these soils contain an
+ancient regolith component that predates North Ray
+                                                  Wieler et al. (1980) included 67940 in their carefulCrater. Eldridge et al. (1973) found 26Al = 158 dpm/kg
+                                                    study of solar flare tracks compared with implantedand 22Na = 27 dpm/kg for 67941 and Yokoyama et al.
+                                                          solar wind rare gases. In general, they find a relatively(1975) found that 67941 “shows an almost saturated
+                                                      constant ratio of tracks to implanted ions (ie.36Ar) butactivity in solar cosmic (SCR) produced 26Al, in spite
+                                             67940 was significantly off the line (figure 9).of complete shielding from SCR, which can be
+interpreted as the result of an intense lateral transport.”
+--- age block 2; lines 18-35 ---
+Moore et al. (1975) reported 59 ppm carbon, consistent
+with low maturity (figure 6).  Kerridge et al. (1975)
+and Moore and Lewis (1975) reported 27 ppm and 91
+                                         Other Studiesppm nitrogen for 67941, respectively.
+                                                   Eberhardt et al. (1976) carefully studied 67940 and
+                                                      multiple grain size separates of this sample for all theCosmogenic isotopes and exposure ages
+                                                       isotopes of the rare gases (figures 10 and 11). TheyEberhardt et al. (1976) give the average exposure age
+                                                 found high excess 4He and 40Ar which is typical of soilsof 104 m.y. for 67941 and 95 m.y. for 67960 based on
+                                              from the rims of relatively recent craters. However,various rare gas isotope determinations. This is to be
+                                                    they did not find less excess 40Ar in the shielded soilcompared with the 50 m.y. old exposure age of the
+                                                   (67940) than the reference soil (67960), which had beenvarious boulders thrown out of North Ray Crater
+                                                        predicted.(dating the crater). Obviously, these soils contain an
+ancient regolith component that predates North Ray
+                                                  Wieler et al. (1980) included 67940 in their carefulCrater. Eldridge et al. (1973) found 26Al = 158 dpm/kg
+                                                    study of solar flare tracks compared with implantedand 22Na = 27 dpm/kg for 67941 and Yokoyama et al.
+                                                          solar wind rare gases. In general, they find a relatively(1975) found that 67941 “shows an almost saturated
+                                                      constant ratio of tracks to implanted ions (ie.36Ar) butactivity in solar cosmic (SCR) produced 26Al, in spite
+                                             67940 was significantly off the line (figure 9).of complete shielding from SCR, which can be
+--- treatment block 3; lines 13-25 ---
+5 and 7) and is typical of the regolith at North Ray
+Crater.  Jovanovic and Reed (1973) studied the
+halogens in 67941 finding that they were within the
+range of other Apollo 16 materials.                            Figure 8: Grain size distribution for 67940 (Graf
+                                                            1993; data from Heiken et al. 1973).
+Moore et al. (1975) reported 59 ppm carbon, consistent
+with low maturity (figure 6).  Kerridge et al. (1975)
+and Moore and Lewis (1975) reported 27 ppm and 91
+                                         Other Studiesppm nitrogen for 67941, respectively.
+                                                   Eberhardt et al. (1976) carefully studied 67940 and
+                                                      multiple grain size separates of this sample for all theCosmogenic isotopes and exposure ages
+                                                       isotopes of the rare gases (figures 10 and 11). TheyEberhardt et al. (1976) give the average exposure age
+                                                 found high excess 4He and 40Ar which is typical of soilsof 104 m.y. for 67941 and 95 m.y. for 67960 based on
+--- treatment block 4; lines 32-44 ---
+study of solar flare tracks compared with implantedand 22Na = 27 dpm/kg for 67941 and Yokoyama et al.
+                                                          solar wind rare gases. In general, they find a relatively(1975) found that 67941 “shows an almost saturated
+                                                      constant ratio of tracks to implanted ions (ie.36Ar) butactivity in solar cosmic (SCR) produced 26Al, in spite
+                                             67940 was significantly off the line (figure 9).of complete shielding from SCR, which can be
+interpreted as the result of an intense lateral transport.”
+                                              Processing
+                                             67460 has never been sieved.
+
+
+
+
+
+   Lunar Sample Compendium
+--- references block 5; lines 6-18 ---
+Chemistry
+Rose et al. (1975), Finkelman et al. (1975), Boynton et
+al. (1975), Eldridge et al. (1973) and Korotev (1982)
+determined the composition of 67940 and found it
+identical to the reference soil 67960 (table 1 and figures
+5 and 7) and is typical of the regolith at North Ray
+Crater.  Jovanovic and Reed (1973) studied the
+halogens in 67941 finding that they were within the
+range of other Apollo 16 materials.                            Figure 8: Grain size distribution for 67940 (Graf
+                                                            1993; data from Heiken et al. 1973).
+Moore et al. (1975) reported 59 ppm carbon, consistent
+--- references block 6; lines 22-34 ---
+Eberhardt et al. (1976) carefully studied 67940 and
+                                                      multiple grain size separates of this sample for all theCosmogenic isotopes and exposure ages
+                                                       isotopes of the rare gases (figures 10 and 11). TheyEberhardt et al. (1976) give the average exposure age
+                                                 found high excess 4He and 40Ar which is typical of soilsof 104 m.y. for 67941 and 95 m.y. for 67960 based on
+                                              from the rims of relatively recent craters. However,various rare gas isotope determinations. This is to be
+                                                    they did not find less excess 40Ar in the shielded soilcompared with the 50 m.y. old exposure age of the
+                                                   (67940) than the reference soil (67960), which had beenvarious boulders thrown out of North Ray Crater
+                                                        predicted.(dating the crater). Obviously, these soils contain an
+ancient regolith component that predates North Ray
+                                                  Wieler et al. (1980) included 67940 in their carefulCrater. Eldridge et al. (1973) found 26Al = 158 dpm/kg
+                                                    study of solar flare tracks compared with implantedand 22Na = 27 dpm/kg for 67941 and Yokoyama et al.
+                                                          solar wind rare gases. In general, they find a relatively(1975) found that 67941 “shows an almost saturated
+                                                      constant ratio of tracks to implanted ions (ie.36Ar) butactivity in solar cosmic (SCR) produced 26Al, in spite
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 67941.
+                                                                                                                    ave. st. 11
+reference  Korotev91  Rose75     Finkelman75      Boynton75         Philpotts73 Finkelman75                Korotev81
+weight                                                                        90-1000  30-90  <30 um
+SiO2 %               45.75   (b)                                                                                45.1
+TiO2                  0.54                                                                                      0.41
+Al2O3                26.18                                                                                     28.9
+FeO       4.57     (a) 4.73                            4.5     4.76    (a)                                           4.2
+MnO                  0.06                          0.066            (a)                                        0.056
+MgO                  6.48                                                                                         4.3
+CaO       15.4     (a) 15.56                          15.2    15.4    (a)                                         16.5
+Na2O     0.538   (a) 0.53                           0.52    0.51    (a)                                         0.48
+K2O                  0.14                                              0.13     (e)                             0.065
+P2O5                  0.1
+S %
+sum
+
+Sc ppm   8        (a) 9          9      9      (c ) 7.8     8.1     (a)             8.2       8.5     8.3      (a) 7.3
+V                  15         17     13     (c )                                                     18
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 67941.
+                                                                                                                    ave. st. 11
+reference  Korotev91  Rose75     Finkelman75      Boynton75         Philpotts73 Finkelman75                Korotev81
+weight                                                                        90-1000  30-90  <30 um
+SiO2 %               45.75   (b)                                                                                45.1
+TiO2                  0.54                                                                                      0.41
+Al2O3                26.18                                                                                     28.9
+FeO       4.57     (a) 4.73                            4.5     4.76    (a)                                           4.2
+MnO                  0.06                          0.066            (a)                                        0.056
+--- references block 3; lines 64-73 ---
+Os ppb
+Ir ppb      7.3      (a)
+Pt ppb
+Au ppb    6        (a)
+Th ppm    1.75     (a)                             2       2.1     (a)             1.7      2       1.8      (a) 1
+U ppm     0.61     (a)                                                                                           0.27
+technique:  (a) INAA, (e) IDMS, (c ) OES
+
+  Lunar Sample Compendium
+  C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 2. Chemical composition of 67960.
+
+
+reference  Korotev82   Philpotts73
+weight
+SiO2 %
+TiO2
+Al2O3
+FeO       4.56     (a)
+MnO
+MgO
+CaO      16.1     (a)
+Na2O     0.527    (a)
+K2O                   0.113     (b)
+P2O5
+S %
+sum
+                                                              Figure 9: Percentage of track-rich grains plotted
+Sc ppm   7.76     (a)                                              against 36Ar content (Wieler et al. 1980).
+V
+--- material block 2; lines 35-47 ---
+Mo
+Ru
+Rh
+Pd ppb
+Ag ppb
+Cd ppb
+In ppb                                                          Figure 10: Argon data for shadowed soil 67941
+Sn ppb                                                           (Eberhardt et al. 1976).
+Sb ppb
+Te ppb
+Cs ppm   0.13     (a)
+Ba       127      (a)
+La        10.14    (a)
+--- material block 3; lines 64-74 ---
+Re ppb
+Os ppb
+Ir ppb     5.3       (a)
+Pt ppb
+Au ppb
+Th ppm    1.88     (a)
+U ppm    0.51     (a)                                          Figure 11: Rare gas as function of grain size for
+technique:  (a) INAA, (b) IDMS                                67941 (Eberhardt et al. 1976)
+
+   Lunar Sample Compendium
+  C Meyer 2010
+--- references block 4; lines 1-10 ---
+Table 2. Chemical composition of 67960.
+
+
+reference  Korotev82   Philpotts73
+weight
+SiO2 %
+TiO2
+Al2O3
+FeO       4.56     (a)
+MnO
+--- references block 5; lines 65-74 ---
+Os ppb
+Ir ppb     5.3       (a)
+Pt ppb
+Au ppb
+Th ppm    1.88     (a)
+U ppm    0.51     (a)                                          Figure 11: Rare gas as function of grain size for
+technique:  (a) INAA, (b) IDMS                                67941 (Eberhardt et al. 1976)
+
+   Lunar Sample Compendium
+  C Meyer 2010
+
+=== PDF PAGE 6; CATEGORIES: material,references,treatment ===
+--- material block 1; lines 15-27 ---
+67960
+        12.1 g
+
+
+             unsieved
+               allocations                                      Heiken G.H., McKay D.S. and Fruland R.M. (1973) Apollo
+                                                  16 soils – grain size analysis and petrography. Proc. 4th Lunar
+                                                                 Sci. Conf. 251-266.
+
+References for 67941 and 67961.                 Horz F., Carrier W.D., Young J.W., Duke C.M., Nagle J.S.
+                                                   and Fryxell R. (1972) Apollo 16 special soils. In ApolloBoynton W.V., Baedecker P.A., Chou C.-L., Robinson K.L.
+                                                  16 Preliminary Science Report. NASA SP315, 7 - 25-54.and Wasson J.T. (1975a)  Mixing and transport of lunar
+surface materials: Evidence obtained by the determination
+--- material block 2; lines 30-60 ---
+Res. 87, A197-A209.
+Butler P. (1972) Lunar Sample Information Catalog Apollo
+                                                       Jovanovic S. and Reed G.W. (1973) Volatile trace elements16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                   and the characterization of the Cayley formation and theCatalog. pp. 370.
+                                                            primitive lunar crust. Proc. 4th Lunar Sci. Conf. 1313-1324.
+Charette M.P. and Adams J.B. (1975)  Agglutinates as
+                                                        Kerridge J.F., Kaplan I.R. and Petrowski C. (1975) Nitrogenindicators of lunar soil maturity: The rare gas evidence at
+                                                                in the lunar regolith: Solar origin and effects. (abs) LS VI,Apollo 16. Proc. 6th Lunar Sci. Conf. 2281-2289.
+                                                       469-471.
+Eberhardt P., Eugster O., Geiss J., Grogler N., Guggisberg
+                                                         Kerridge J.F., Kaplan I.R. and Petrowski C. (1975) EvidenceS. and Morgeli M. (1976) Noble gases in the Apollo 16
+                                                               for meteoritic sulfur in lunar regolith. Proc. 6th Lunar Sci.special soils from the East-West split and the permanently
+                                                       Conf. 2151-2162.shadowed area. Proc. 7th Lunar Planet. Sci. Conf. 563-585.
+
+                                                    Korotev R.L. (1996c) On the relationship between theEldridge J.S., O’Kelley G.D. and Northcutt K.J. (1973)
+                                                 Apollo 16 ancient regolith breccias and feldspathicRadiogenic concentrations in Apollo 16 lunar samples
+                                                         fragmental breccias, and the composition of the prebasindetermined by nondestructive gamma-ray spectroscopy.
+                                                               crust in the Central Highlands of the Moon.  Meteor. &Proc. 4th Lunar Sci. Conf. 2115-2122.
+                                                            Planet. Sci. 31, 403-412.
+Finkelman R.B., Baedecker P.A., Christian R.P, Berman S.,
+                                                   Korotev R.L. (1991)  Geochemical stratigraphy of twoSchnepfe M.M. and Rose H.J. (1975)  Trace-element
+                                                                 regolith cores from the Central Highlands of the Moon. Proc.chemistry and reducing capacity of grain size fractions from
+                                                                        21st  Lunar Planet. Sci. Conf. 229-289.  Lunar Planetarythe Apollo 16 regolith.  Proc. 6th Lunar Sci. Conf. 1385-
+                                                                      Institute, Houston1398.
+
+                                          LSPET (1973) The Apollo 16 lunar samples: PetrographicGraf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+                                                   and chemical description. Science 179, 23-34.Pub. 1265
+
+
+  Lunar Sample Compendium
+  C Meyer 2010
+--- treatment block 3; lines 30-42 ---
+Res. 87, A197-A209.
+Butler P. (1972) Lunar Sample Information Catalog Apollo
+                                                       Jovanovic S. and Reed G.W. (1973) Volatile trace elements16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                   and the characterization of the Cayley formation and theCatalog. pp. 370.
+                                                            primitive lunar crust. Proc. 4th Lunar Sci. Conf. 1313-1324.
+Charette M.P. and Adams J.B. (1975)  Agglutinates as
+                                                        Kerridge J.F., Kaplan I.R. and Petrowski C. (1975) Nitrogenindicators of lunar soil maturity: The rare gas evidence at
+                                                                in the lunar regolith: Solar origin and effects. (abs) LS VI,Apollo 16. Proc. 6th Lunar Sci. Conf. 2281-2289.
+                                                       469-471.
+Eberhardt P., Eugster O., Geiss J., Grogler N., Guggisberg
+                                                         Kerridge J.F., Kaplan I.R. and Petrowski C. (1975) EvidenceS. and Morgeli M. (1976) Noble gases in the Apollo 16
+                                                               for meteoritic sulfur in lunar regolith. Proc. 6th Lunar Sci.special soils from the East-West split and the permanently
+                                                       Conf. 2151-2162.shadowed area. Proc. 7th Lunar Planet. Sci. Conf. 563-585.
+--- references block 4; lines 18-30 ---
+unsieved
+               allocations                                      Heiken G.H., McKay D.S. and Fruland R.M. (1973) Apollo
+                                                  16 soils – grain size analysis and petrography. Proc. 4th Lunar
+                                                                 Sci. Conf. 251-266.
+
+References for 67941 and 67961.                 Horz F., Carrier W.D., Young J.W., Duke C.M., Nagle J.S.
+                                                   and Fryxell R. (1972) Apollo 16 special soils. In ApolloBoynton W.V., Baedecker P.A., Chou C.-L., Robinson K.L.
+                                                  16 Preliminary Science Report. NASA SP315, 7 - 25-54.and Wasson J.T. (1975a)  Mixing and transport of lunar
+surface materials: Evidence obtained by the determination
+                                              Houck K.J. (1982a)  Petrologic variations in Apollo 16of lithophile, siderophile, and volatile elements. Proc. 6th
+                                                             surface soils. Proc. 13th Lunar Planet. Sci. Conf. J. Geophys.Lunar Sci. Conf. 2241-2259.
+                                                         Res. 87, A197-A209.
+
+=== PDF PAGE 7; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 16-28 ---
+Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+Office, Houston
+
+Morris R.V. (1978) The surface exposure (maturity) of lunar
+soils: Some concepts and Is/FeO compilation.  Proc. 9th
+Lunar Sci. Conf. 2287-2297.
+
+Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+regolith. Rev. Geophys. Space Phys. 20, 761-826.
+
+Philpotts J.A., Schuhmann S., Kouns, C.W., Lun-Staab
+--- chemistry block 2; lines 33-45 ---
+Powell B.N., Duncan M.A. and Weiblen P.W. (1973) Apollo
+16 feldspathic melt rocks: clues to the magmatic history of
+the lunar crust. Proc. 6th Lunar Sci. Conf. 415-433.
+
+Rose H.J., Baedecker P.A., Berman S., Christian R.P.,
+Dwornik E.J., Finkelman R.B. and Schnepfe M.M. (1975a)
+Chemical composition of rocks and soils returned by the
+Apollo 15, 16, and 17 missions. Proc. 6th Lunar Sci. Conf.
+1363-1373.
+
+Sutton R.L. (1981) Documentation of Apollo 16 samples.
+In Geology of the Apollo 16 area, central lunar highlands.
+(Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+--- material block 3; lines 20-32 ---
+Morris R.V. (1978) The surface exposure (maturity) of lunar
+soils: Some concepts and Is/FeO compilation.  Proc. 9th
+Lunar Sci. Conf. 2287-2297.
+
+Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+regolith. Rev. Geophys. Space Phys. 20, 761-826.
+
+Philpotts J.A., Schuhmann S., Kouns, C.W., Lun-Staab
+R.K.L. and Schnetzler C.C. (1973) Apollo 16 returned lunar
+samples – lithophile trace-element abundances.  Proc. 4th
+Lunar Sci. Conf. 1427-1436.
+--- material block 4; lines 47-59 ---
+Wieler R., Etique Ph., Signer P. and Poupeau G. (1980)
+Record of the solar corpuscular radiation in minerals from
+lunar soils: A comparative study of noble gases and tracks.
+Proc. 11th Lunar Planet. Sci. Conf. 1369-1393.
+
+Yokoyama Y., Reyss J.-L. and Guichard F. (1975) 22Na-
+26Al studies of lunar regolith. Proc. 6th Lunar Sci. Conf.
+1823-1843.
+
+
+
+
+   Lunar Sample Compendium
+--- treatment block 5; lines 15-27 ---
+569-571.
+
+Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+Office, Houston
+
+Morris R.V. (1978) The surface exposure (maturity) of lunar
+soils: Some concepts and Is/FeO compilation.  Proc. 9th
+Lunar Sci. Conf. 2287-2297.
+
+Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+regolith. Rev. Geophys. Space Phys. 20, 761-826.

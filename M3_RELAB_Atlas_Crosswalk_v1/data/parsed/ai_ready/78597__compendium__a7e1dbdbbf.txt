@@ -1,0 +1,251 @@
+DOCUMENT_ID: 78597__compendium__a7e1dbdbbf
+ATLAS_SAMPLE_IDS: 78597
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/78597.pdf
+SOURCE_PDF_SHA256: 234e4a9579ad47dd19ac5e5d5ef81a6c1585acec747f45e08aed1ceb74f0dd2c
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 22-32 ---
+bundled in sheaths with intergrown pyroxene. Ilmenite
+           Figure 2: Location where 78597 was found.                                                        occurs in chains. Trace tranquillityite has been reported
+                                                    (Warner et al. 1978).
+
+                                            Chemistry
+                                                 Warner et al. (1975) and Rhodes et al. (1976) reported
+                                                           the chemical composition of 78597 (table 1, figures 6,
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- mineralogy block 2; lines 1-8 ---
+78597
+                                     Ilmenite Basalt
+                                       319 grams
+--- mineralogy block 3; lines 12-28 ---
+78597 is a vuggy, medium-grained high-Ti basalt
+                                                             (figure 1 and 3).  It was collected as part of a rake
+                                                   sample and large comprehensive sample at station 8,
+                                                    Apollo 17 (figure 2).
+
+                                             Petrography
+                                                 78597 is an olivine-microporphritic ilmenite basalt with
+                                                            large olivine grains set in a predominantly variolitic
+                                              groundmass (figure 5).  Plagioclase laths in the
+                                                  groundmass have hollow cores (interfaciculate) and are
+                                                     bundled in sheaths with intergrown pyroxene. Ilmenite
+           Figure 2: Location where 78597 was found.                                                        occurs in chains. Trace tranquillityite has been reported
+                                                    (Warner et al. 1978).
+
+                                            Chemistry
+                                                 Warner et al. (1975) and Rhodes et al. (1976) reported
+                                                           the chemical composition of 78597 (table 1, figures 6,
+--- material block 4; lines 1-24 ---
+78597
+                                     Ilmenite Basalt
+                                       319 grams
+
+
+
+
+
+                            Figure 1: Photo of 78597. Scale in cm. S73-21421
+
+                                                 Introduction
+                                              78597 is a vuggy, medium-grained high-Ti basalt
+                                                             (figure 1 and 3).  It was collected as part of a rake
+                                                   sample and large comprehensive sample at station 8,
+                                                    Apollo 17 (figure 2).
+
+                                             Petrography
+                                                 78597 is an olivine-microporphritic ilmenite basalt with
+                                                            large olivine grains set in a predominantly variolitic
+                                              groundmass (figure 5).  Plagioclase laths in the
+                                                  groundmass have hollow cores (interfaciculate) and are
+                                                     bundled in sheaths with intergrown pyroxene. Ilmenite
+           Figure 2: Location where 78597 was found.                                                        occurs in chains. Trace tranquillityite has been reported
+                                                    (Warner et al. 1978).
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 9-28 ---
+Nyquist et al. (1976) studied the Rb-Sr isotope system,
+    but did not determine an age.  However, the age of
+   Apollo 17 basalt is 3.72 b.y.
+
+   Cosmogenic isotopes and exposure ages
+   O’Kelley et al. (1974) determined the cosmic-ray-
+                                                                 Figure 4: Composition of olivine and pyroxene in   induced activity of 22Na = 33 dpm/kg., 26Al = 48 dpm/
+                                                          78597 (Warner et al. 1978).
+    kg., 46Sc = 25 dpm/kg., 54Mn = 80 dpm/kg and 56Co =
+   80 dpm/kg.
+                                                         Mineralogical Mode
+   Processing                                                              Olivine            5.9
+   There is only one (small) thin section of 78597.                    Pyroxene         42.2
+                                                                                   Plagioclase       29.5
+                                                                    Opaques          16.5
+                                                                                           Silica             5.4
+                                                                             Meostasis         0.5
+--- material block 2; lines 5-17 ---
+Gibson et al. (1976) reported 1990 ppm S.
+
+   Radiogenic age dating
+   Nyquist et al. (1976) studied the Rb-Sr isotope system,
+    but did not determine an age.  However, the age of
+   Apollo 17 basalt is 3.72 b.y.
+
+   Cosmogenic isotopes and exposure ages
+   O’Kelley et al. (1974) determined the cosmic-ray-
+                                                                 Figure 4: Composition of olivine and pyroxene in   induced activity of 22Na = 33 dpm/kg., 26Al = 48 dpm/
+                                                          78597 (Warner et al. 1978).
+    kg., 46Sc = 25 dpm/kg., 54Mn = 80 dpm/kg and 56Co =
+--- age block 3; lines 2-20 ---
+7 and 8). Note that the Rb content is low, compared
+   with other Apollo 17 basalts.
+
+   Gibson et al. (1976) reported 1990 ppm S.
+
+   Radiogenic age dating
+   Nyquist et al. (1976) studied the Rb-Sr isotope system,
+    but did not determine an age.  However, the age of
+   Apollo 17 basalt is 3.72 b.y.
+
+   Cosmogenic isotopes and exposure ages
+   O’Kelley et al. (1974) determined the cosmic-ray-
+                                                                 Figure 4: Composition of olivine and pyroxene in   induced activity of 22Na = 33 dpm/kg., 26Al = 48 dpm/
+                                                          78597 (Warner et al. 1978).
+    kg., 46Sc = 25 dpm/kg., 54Mn = 80 dpm/kg and 56Co =
+   80 dpm/kg.
+                                                         Mineralogical Mode
+   Processing                                                              Olivine            5.9
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-26 ---
+Table 1. Chemical composition of 78597.                     Lunar Basalts
+                                                                                                14
+
+    reference  Eldridge74  Rhodes76  Warner75                                 12             78597      A17
+    weight                 Nyquist76
+                                                                                                      A11
+   SiO2 %               38.54   (d)                                               10
+    TiO2                  12.39   (d) 11.8     (b)
+   Al2O3                 8.85     (d) 9        (b)                                  8
+   FeO                  19.67   (d) 18       (b)            TiO2
+   MnO                  0.29     (d) 0.24     (b)                                  6
+   MgO                  7.83     (d) 7.1      (b)
+   CaO                  10.94   (d) 10.7     (b)                                  4
+                                                                                                                     A12
+   Na2O                  0.39     (d) 0.42     (b)
+                                                                                                     2                        A15   K2O      0.046    (a) 0.04     (d) 0.06     (b)
+   P2O5                  0.11     (d)
+   S %                   0.19     (d)                                                  0 0                5                10                15               20
+   sum
+                                              MgO
+   Sc ppm              85       (b) 75       (b)                          Figure 6: Composition of lunar basalts.
+   V                             100     (b)
+    Cr                  2190    (d)
+   Co                    20.7     (b) 18.5     (b)                              300
+    Ni
+                                                                                  Apollo 17 basalts   Cu
+--- chemistry block 2; lines 38-50 ---
+Nb                                                                                       50                           group C
+   Mo
+   Ru                                                                                         0
+   Rh                                                                                           5             7             9            11            13            15
+   Pd ppb                                                                        Sm ppm
+   Ag ppb
+   Cd ppb                                                         Figure 7: Trace element characteristics of Apollo
+     In ppb                                                    17 basalts.
+   Sn ppb
+   Sb ppb
+    Te ppb
+   Cs ppm
+   Ba                    60.6     (c )
+--- material block 3; lines 62-74 ---
+Tm
+   Yb                    7.37     (c ) 6.7      (b)
+   Lu                     1.07     (b) 1        (b)
+    Hf                      6.8      (b) 6.2      (b)                      Figure 8: Normalized rare-earth-element diagram
+    Ta                                  1.5      (b)                         for 78597 compared with A and B types of Apollo 17
+  W ppb
+   Re ppb                                                                basalt.
+   Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm    0.38     (a)
+   U ppm     0.11      (a)
+--- references block 4; lines 1-10 ---
+Table 1. Chemical composition of 78597.                     Lunar Basalts
+                                                                                                14
+
+    reference  Eldridge74  Rhodes76  Warner75                                 12             78597      A17
+    weight                 Nyquist76
+                                                                                                      A11
+   SiO2 %               38.54   (d)                                               10
+    TiO2                  12.39   (d) 11.8     (b)
+   Al2O3                 8.85     (d) 9        (b)                                  8
+   FeO                  19.67   (d) 18       (b)            TiO2
+--- references block 5; lines 69-78 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm    0.38     (a)
+   U ppm     0.11      (a)
+    technique:  (a) radiation count., (b) INAA, (c ) IDMS, (d) XRF
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 6; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 11-23 ---
+References for 78597
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and   Nyquist L.E., Bansal B.M. and Wiesmann H. (1976a) Sr
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   isotopic constraints on the petrogenesis of Apollo 17 mare
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.             basalts. Proc. 7th Lunar Sci. Conf. 1507-1528.
+
+    Butler P. (1973) Lunar Sample Information Catalog   O’Kelley G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211  Cosmogenic radionuclides in samples from
+    Curator’s Catalog. pp. 447.                                 Taurus-Littrow: Effects of the solar flare of August 1972.
+                                                             Proc. 5th Lunar Sci. Conf. 2139-2147.
+--- mineralogy block 2; lines 28-40 ---
+LSPET (1973)  Apollo 17 lunar samples: Chemical and   Proc. 7th Lunar Sci. Conf. 1467-1489.
+    petrographic description. Science 182, 659-672.
+                                                       Ryder G. (1993) Catalog of Apollo 17 rocks. Vol. 1 South
+   LSPET (1973) Preliminary Examination of lunar samples.   Massif
+    Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –
+    7-46.                                               Warner R.D., Keil K., Prinz M., Laul J.C., Murali A.V. and
+                                                            Schmitt R.A. (1975b) Mineralogy, petrology, and chemistry
+   Ma M-S., Schmitt R.A., Warner R.D., Taylor G.J. and Keil   of mare basalts from Apollo 17 rake samples. Proc. 6th Lunar
+    K. (1979b) Composition, petrography, and genesis of Apollo   Sci. Conf. 193-220.
+   17 high-Ti mare basalts (abs). Lunar Planet. Sci. X, 765-
+    767. Lunar Planetary Institute, Houston.                 Warner R.D., Taylor G.J., Conrad G.H., Northrop H.R.,
+                                                           Barker S., Keil K., Ma M.-S. and Schmitt R. (1979a) Apollo
+   Meyer C. (1994) Catalog of Apollo 17 rocks. Vol. 4 North  17 high-Ti mare basalts: New bulk compositional data,
+--- material block 3; lines 29-41 ---
+petrographic description. Science 182, 659-672.
+                                                       Ryder G. (1993) Catalog of Apollo 17 rocks. Vol. 1 South
+   LSPET (1973) Preliminary Examination of lunar samples.   Massif
+    Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –
+    7-46.                                               Warner R.D., Keil K., Prinz M., Laul J.C., Murali A.V. and
+                                                            Schmitt R.A. (1975b) Mineralogy, petrology, and chemistry
+   Ma M-S., Schmitt R.A., Warner R.D., Taylor G.J. and Keil   of mare basalts from Apollo 17 rake samples. Proc. 6th Lunar
+    K. (1979b) Composition, petrography, and genesis of Apollo   Sci. Conf. 193-220.
+   17 high-Ti mare basalts (abs). Lunar Planet. Sci. X, 765-
+    767. Lunar Planetary Institute, Houston.                 Warner R.D., Taylor G.J., Conrad G.H., Northrop H.R.,
+                                                           Barker S., Keil K., Ma M.-S. and Schmitt R. (1979a) Apollo
+   Meyer C. (1994) Catalog of Apollo 17 rocks. Vol. 4 North  17 high-Ti mare basalts: New bulk compositional data,
+    Massif                                     magma types, and petrogenesis. Proc. 10th Lunar Planet.
+--- references block 4; lines 9-21 ---
+1.6 g                                  TS
+
+
+
+
+
+   References for 78597
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and   Nyquist L.E., Bansal B.M. and Wiesmann H. (1976a) Sr
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   isotopic constraints on the petrogenesis of Apollo 17 mare
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.             basalts. Proc. 7th Lunar Sci. Conf. 1507-1528.
+
+    Butler P. (1973) Lunar Sample Information Catalog   O’Kelley G.D., Eldridge J.S. and Northcutt K.J. (1974a)
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211  Cosmogenic radionuclides in samples from

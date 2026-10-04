@@ -1,0 +1,129 @@
+DOCUMENT_ID: 64817__compendium__c7b84d82b2
+ATLAS_SAMPLE_IDS: 64817
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64817.pdf
+SOURCE_PDF_SHA256: c802878f3be025488cf88a3b793e0b7bb67763b82a9cb517a178418b89e66b09
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 9-26 ---
+Figure 1: Photo of 64817. S72-55334 33 mm long
+
+   Introduction
+   64817 is a rake sample collected from the rim of a small
+    crater at station 4 on Stone Mountain – see section on
+   64801.   It is an aluminous basalt with prominent
+   plagioclase laths and an age of 3.84 b.y.
+
+   Petrography
+   64817 has a subophitic basaltic texture (figure 2).
+   Warner et al. (1973) reported the composition of
+   pyroxene (figure 3).
+
+   Chemistry
+   Allocated to Clive Neal
+
+   Radiogenic age dating
+   Norman et al. (2006) determined an age of 3.84 ± 0.02
+--- material block 2; lines 1-20 ---
+64817
+                                    Basaltic Impact Melt
+                                        9 grams
+
+
+
+
+
+                          Figure 1: Photo of 64817. S72-55334 33 mm long
+
+   Introduction
+   64817 is a rake sample collected from the rim of a small
+    crater at station 4 on Stone Mountain – see section on
+   64801.   It is an aluminous basalt with prominent
+   plagioclase laths and an age of 3.84 b.y.
+
+   Petrography
+   64817 has a subophitic basaltic texture (figure 2).
+   Warner et al. (1973) reported the composition of
+   pyroxene (figure 3).
+--- age block 3; lines 9-32 ---
+Figure 1: Photo of 64817. S72-55334 33 mm long
+
+   Introduction
+   64817 is a rake sample collected from the rim of a small
+    crater at station 4 on Stone Mountain – see section on
+   64801.   It is an aluminous basalt with prominent
+   plagioclase laths and an age of 3.84 b.y.
+
+   Petrography
+   64817 has a subophitic basaltic texture (figure 2).
+   Warner et al. (1973) reported the composition of
+   pyroxene (figure 3).
+
+   Chemistry
+   Allocated to Clive Neal
+
+   Radiogenic age dating
+   Norman et al. (2006) determined an age of 3.84 ± 0.02
+    b.y. for 64817 by the Ar/Ar plateau technique (figure
+    4).
+
+   Processing
+   There are two thin section of 64817.
+--- references block 4; lines 21-33 ---
+Chemistry
+   Allocated to Clive Neal
+
+   Radiogenic age dating
+   Norman et al. (2006) determined an age of 3.84 ± 0.02
+    b.y. for 64817 by the Ar/Ar plateau technique (figure
+    4).
+
+   Processing
+   There are two thin section of 64817.
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 1-7 ---
+Figure 3: Composition of pyroxene in 64817 (from
+                                                         Warner et al. 1973).
+
+
+
+                                                          Phinney W. and Lofgren G. (1973) Description, classification
+                                                       and inventory of Apollo 16 rake samples from stations 1, 4
+--- material block 2; lines 1-13 ---
+Figure 3: Composition of pyroxene in 64817 (from
+                                                         Warner et al. 1973).
+
+
+
+                                                          Phinney W. and Lofgren G. (1973) Description, classification
+                                                       and inventory of Apollo 16 rake samples from stations 1, 4
+                                                       and 13. Curators Office.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+         Figure 2: Photomicrograph of thin section of 64817                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+--- material block 3; lines 24-36 ---
+LSPET (1972c) Preliminary examination of lunar samples.
+    In Apollo 16 Preliminary Science Report. NASA SP-315,
+    7-1—7-58.
+
+   Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+    impact events within the lunar cataclysm from 40Ar-39Ar ages
+    and compositions of Apollo 16 impact melt rocks. Geochim.
+    Cosmochim. Acta 70, 6032-6049.
+--- references block 4; lines 10-22 ---
+Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+         Figure 2: Photomicrograph of thin section of 64817                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+         (from Ryder and Norman 1980).                                                                In Geology of the Apollo 16 area, central lunar highlands.
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   References for 64817
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo  Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   Apollo 16 rocks: Classification and petrogenetic model.
+    Catalog. pp. 370.                                         Proc. 4th Lunar Sci. Conf. 481-504.
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+    and chemical description. Science 179, 23-34.

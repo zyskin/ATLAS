@@ -1,0 +1,220 @@
+DOCUMENT_ID: 15028__compendium__1533498621
+ATLAS_SAMPLE_IDS: 15027,15028
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15028.pdf
+SOURCE_PDF_SHA256: 10971d6ed8e83c4721eb17c5fdcb9e411bc63c0cdf36b6fc01c24e303e08603f
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-9 ---
+15027 – 51 grams
+                         15028 – 59.4 grams
+                                   Regolith Breccia
+
+
+
+
+
+           Figure 1: Photo of 15027. S71-43635                  Figure 2 a,b: Photos of 15028. Cube is 1 inch. S71-
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-17 ---
+Introduction                                                         25
+   15027 and 15028 are both glass-coated breccias found                                                                                20                      Apollo soils
+    together near the LM. They were returned in the same                                                                              A15 breccias
+   bag (DB162), but are identified as independent objects          15
+   on lunar surface (figure 3).                FeO             15027
+                                                                                    15028                                                                                10
+   Petrography
+  McKay et al. (1989) reported that the maturity           5
+   index for 15028 was Is/FeO = 26.                                 0
+                                                                                      0       5       10      15      20      25      30      35
+   Kridelbaugh et al. (1972) reported that about 30 %                    Al2O3
+    of 15028 is glass and that it had numerous clasts        Figure 5: Composition of Apollo soils, Apollo 15
+                                                                     breccias and 15028.    of KREEP basalt. Uhlmann et al. (1981) used the
+    glass to estimate cooling rate (fast).
+
+   Chemistry
+   Wanke et al. (1976) found 15027 and 15028 to have
+--- mineralogy block 2; lines 1-20 ---
+Introduction                                                         25
+   15027 and 15028 are both glass-coated breccias found                                                                                20                      Apollo soils
+    together near the LM. They were returned in the same                                                                              A15 breccias
+   bag (DB162), but are identified as independent objects          15
+   on lunar surface (figure 3).                FeO             15027
+                                                                                    15028                                                                                10
+   Petrography
+  McKay et al. (1989) reported that the maturity           5
+   index for 15028 was Is/FeO = 26.                                 0
+                                                                                      0       5       10      15      20      25      30      35
+   Kridelbaugh et al. (1972) reported that about 30 %                    Al2O3
+    of 15028 is glass and that it had numerous clasts        Figure 5: Composition of Apollo soils, Apollo 15
+                                                                     breccias and 15028.    of KREEP basalt. Uhlmann et al. (1981) used the
+    glass to estimate cooling rate (fast).
+
+   Chemistry
+   Wanke et al. (1976) found 15027 and 15028 to have
+    similar composition. As is the case for other Apollo
+   15 breccia samples, 15027 and 15028 have higher trace
+    element content than Apollo 15 soils (figure ).
+--- mineralogy block 3; lines 26-52 ---
+Figure 6: Thace element composition of 15028 and
+   References for 15028                                                        some soils.
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    Office, MSC 03209
+                                                 Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+    Kridelbaugh S.J., Grieve RAF and Weill D.F. (1972) Glass   G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+    compositions in breccias 15028 and 15059. In The Apollo   Preliminary description of Apollo 15 sample environments.
+    15 Lunar Samples, 123-125.                              U.S.G.S. Interagency report: 36. pp219 with maps
+
+   LSPET (1972a) The Apollo 15 lunar samples: A preliminary  Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+     description. Science 175, 363-375.                       M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+                                                              K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+   LSPET (1972b) Preliminary examination of lunar samples.   G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+    Apollo 15 Preliminary Science Report. NASA SP-289, 6-   Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary
+   1—6-28.                                              Geologic Investigation of the Apollo 15 landing site.  In
+                                                         Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+   McKay D.S., Morris R.V. and Wentworth S.J. (1984)   5-1-112.
+    Maturity of regolith breccias as revealed by ferromagnetic
+    and petrographic indicies (abs). Lunar Planet. Sci. XV, 530-  Uhlmann D.R., Yinnon H. and Fang C.-Y. (1981) Simplified
+    531. Lunar Planetary Institute, Houston.                 model evaluation of cooling rates for glass-containing lunar
+                                                              compositions. Proc. 12th Lunar Planet. Sci. Conf. 281-288.
+   McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+    Wentworth S.J. and Johnson P. (1989) Apollo 15 regolith                                             Wänke H., Baddenhausen H., Blum K., Cendales M.,
+     breccias: Window to a KREEP regolith. Proc. 19th Lunar                                                          Dreibus G., Hofmeister H., Kruse H., Jagoutz E., Palme C.,
+     Sci. Conf. 19-41. Lunar Planetary Institute, Houston.                                                                 Spettel B., Thacker R. and Vilcsek E. (1977a) On the
+                                                            chemistry of lunar samples and achondrites. Primary matter
+--- material block 4; lines 7-25 ---
+Petrography
+  McKay et al. (1989) reported that the maturity           5
+   index for 15028 was Is/FeO = 26.                                 0
+                                                                                      0       5       10      15      20      25      30      35
+   Kridelbaugh et al. (1972) reported that about 30 %                    Al2O3
+    of 15028 is glass and that it had numerous clasts        Figure 5: Composition of Apollo soils, Apollo 15
+                                                                     breccias and 15028.    of KREEP basalt. Uhlmann et al. (1981) used the
+    glass to estimate cooling rate (fast).
+
+   Chemistry
+   Wanke et al. (1976) found 15027 and 15028 to have
+    similar composition. As is the case for other Apollo
+   15 breccia samples, 15027 and 15028 have higher trace
+    element content than Apollo 15 soils (figure ).
+
+   Other Studies
+   Bogard determined the rare gas content and isotopic
+    ratio for 15028 – reported in McKay et al. (1989).
+--- material block 5; lines 38-56 ---
+K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+   LSPET (1972b) Preliminary examination of lunar samples.   G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+    Apollo 15 Preliminary Science Report. NASA SP-289, 6-   Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary
+   1—6-28.                                              Geologic Investigation of the Apollo 15 landing site.  In
+                                                         Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+   McKay D.S., Morris R.V. and Wentworth S.J. (1984)   5-1-112.
+    Maturity of regolith breccias as revealed by ferromagnetic
+    and petrographic indicies (abs). Lunar Planet. Sci. XV, 530-  Uhlmann D.R., Yinnon H. and Fang C.-Y. (1981) Simplified
+    531. Lunar Planetary Institute, Houston.                 model evaluation of cooling rates for glass-containing lunar
+                                                              compositions. Proc. 12th Lunar Planet. Sci. Conf. 281-288.
+   McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+    Wentworth S.J. and Johnson P. (1989) Apollo 15 regolith                                             Wänke H., Baddenhausen H., Blum K., Cendales M.,
+     breccias: Window to a KREEP regolith. Proc. 19th Lunar                                                          Dreibus G., Hofmeister H., Kruse H., Jagoutz E., Palme C.,
+     Sci. Conf. 19-41. Lunar Planetary Institute, Houston.                                                                 Spettel B., Thacker R. and Vilcsek E. (1977a) On the
+                                                            chemistry of lunar samples and achondrites. Primary matter
+    Ryder G. (1985)  Catalog of Apollo 15 Rocks (three                                                                    in the lunar highlands: A re-evaluation. Proc. 8th Lunar Sci.
+    volumes). Curatoial Branch Pub. # 72, JSC#20787                                                            Conf. 2191-2213.
+
+Lunar Sample Compendium
+--- treatment block 6; lines 2-14 ---
+15027 and 15028 are both glass-coated breccias found                                                                                20                      Apollo soils
+    together near the LM. They were returned in the same                                                                              A15 breccias
+   bag (DB162), but are identified as independent objects          15
+   on lunar surface (figure 3).                FeO             15027
+                                                                                    15028                                                                                10
+   Petrography
+  McKay et al. (1989) reported that the maturity           5
+   index for 15028 was Is/FeO = 26.                                 0
+                                                                                      0       5       10      15      20      25      30      35
+   Kridelbaugh et al. (1972) reported that about 30 %                    Al2O3
+    of 15028 is glass and that it had numerous clasts        Figure 5: Composition of Apollo soils, Apollo 15
+                                                                     breccias and 15028.    of KREEP basalt. Uhlmann et al. (1981) used the
+    glass to estimate cooling rate (fast).
+--- treatment block 7; lines 38-50 ---
+K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+   LSPET (1972b) Preliminary examination of lunar samples.   G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+    Apollo 15 Preliminary Science Report. NASA SP-289, 6-   Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary
+   1—6-28.                                              Geologic Investigation of the Apollo 15 landing site.  In
+                                                         Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+   McKay D.S., Morris R.V. and Wentworth S.J. (1984)   5-1-112.
+    Maturity of regolith breccias as revealed by ferromagnetic
+    and petrographic indicies (abs). Lunar Planet. Sci. XV, 530-  Uhlmann D.R., Yinnon H. and Fang C.-Y. (1981) Simplified
+    531. Lunar Planetary Institute, Houston.                 model evaluation of cooling rates for glass-containing lunar
+                                                              compositions. Proc. 12th Lunar Planet. Sci. Conf. 281-288.
+   McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+    Wentworth S.J. and Johnson P. (1989) Apollo 15 regolith                                             Wänke H., Baddenhausen H., Blum K., Cendales M.,
+     breccias: Window to a KREEP regolith. Proc. 19th Lunar                                                          Dreibus G., Hofmeister H., Kruse H., Jagoutz E., Palme C.,
+--- references block 8; lines 22-34 ---
+Other Studies
+   Bogard determined the rare gas content and isotopic
+    ratio for 15028 – reported in McKay et al. (1989).
+
+
+                                                                Figure 6: Thace element composition of 15028 and
+   References for 15028                                                        some soils.
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    Office, MSC 03209
+                                                 Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+    Kridelbaugh S.J., Grieve RAF and Weill D.F. (1972) Glass   G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+    compositions in breccias 15028 and 15059. In The Apollo   Preliminary description of Apollo 15 sample environments.
+    15 Lunar Samples, 123-125.                              U.S.G.S. Interagency report: 36. pp219 with maps
+
+=== PDF PAGE 3; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 15028
+                       15028  15027
+    reference McKay89  Wanke77            Kriedelbaugh72  Uhlmann81
+    weight                                      glass    vein
+   SiO2 %               48.9    49.4      (b) 48       46.5    49       (c )
+    TiO2      2        (a) 1.79    1.89      (b) 1.75     1.6      1.4      (c )
+   Al2O3     13.6    (a) 12.88   13.78    (b) 14.7     16.5    12.9     (c )
+   FeO       14.5    (a) 14.2    14.2      (b) 14.1     13.7    14.1     (c )
+   MnO      0.19    (a) 0.2      0.2       (b)
+   MgO      9.2     (a) 9.25     9.2       (b) 8.7      8.6      7.4      (c )
+   CaO       9.8     (a) 10.4    10.44    (b) 10.3     10.7    9.5      (c )
+   Na2O     0.55    (a) 0.58     0.6       (b) 0.59     0.64    0.6      (c )
+   K2O                  0.41    0.42      (b) 0.41     0.36    0.4      (c )
+   P2O5                0.36    0.394    (b) 0.3      0.37               (c )
+   S %
+   sum
+
+   Sc ppm   28.7    (a) 29.9    30.8      (b)
+   V        83      (a) 95.6    98        (b)
+--- mineralogy block 2; lines 1-10 ---
+Table 1. Chemical composition of 15028
+                       15028  15027
+    reference McKay89  Wanke77            Kriedelbaugh72  Uhlmann81
+    weight                                      glass    vein
+   SiO2 %               48.9    49.4      (b) 48       46.5    49       (c )
+    TiO2      2        (a) 1.79    1.89      (b) 1.75     1.6      1.4      (c )
+   Al2O3     13.6    (a) 12.88   13.78    (b) 14.7     16.5    12.9     (c )
+   FeO       14.5    (a) 14.2    14.2      (b) 14.1     13.7    14.1     (c )
+   MnO      0.19    (a) 0.2      0.2       (b)
+   MgO      9.2     (a) 9.25     9.2       (b) 8.7      8.6      7.4      (c )
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 15028
+                       15028  15027
+    reference McKay89  Wanke77            Kriedelbaugh72  Uhlmann81
+    weight                                      glass    vein
+   SiO2 %               48.9    49.4      (b) 48       46.5    49       (c )
+    TiO2      2        (a) 1.79    1.89      (b) 1.75     1.6      1.4      (c )
+   Al2O3     13.6    (a) 12.88   13.78    (b) 14.7     16.5    12.9     (c )
+   FeO       14.5    (a) 14.2    14.2      (b) 14.1     13.7    14.1     (c )
+   MnO      0.19    (a) 0.2      0.2       (b)
+--- references block 4; lines 61-70 ---
+Os ppb                                                                                   ,6
+      Ir ppb     3.8     (a)         3         (b)                               TS
+    Pt ppb
+   Au ppb    9.6     (a) 4                   (b)
+   Th ppm    8.3     (a) 7.49    7.45      (b)
+   U ppm    2.37    (a) 2.37     2.3       (b)
+    technique:  (a) INAA, (b) various, (c ) elec. Probe
+
+Lunar Sample Compendium
+C Meyer 2011

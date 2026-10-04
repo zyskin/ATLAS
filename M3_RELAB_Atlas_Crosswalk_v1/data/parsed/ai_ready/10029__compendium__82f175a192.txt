@@ -1,0 +1,270 @@
+DOCUMENT_ID: 10029__compendium__82f175a192
+ATLAS_SAMPLE_IDS: 10029
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10029.pdf
+SOURCE_PDF_SHA256: 702070edafbc6e1f2a7f9f9a05b84c6d3720c20b378a7f424fa52569e86a4890
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-41 ---
+10029
+                                 Ilmenite Basalt (low K)
+                                               5.5 grams
+
+
+
+
+
+          Figure 1: Photo of 1 cm cube and 10029,13. NASA S75-33058 (out of focus).
+
+
+
+
+
+   Introduction                               Mineralogy
+   10029 as collected as part of the contingency sample   Olivine:  Olivine is found enclosed in pyroxene and
+   and returned with the astronauts to the crew area of  ranges Fo63-3 (Beaty and Albee 1978).
+   the LRL. 10029 is similar to 10003 except that this
+   sample looks like it has rusted (figure 1).  It has been  Pyroxene: Both Beaty and Albee (1978) and Gamble
+   dated at about 3.9 b.y. with an exposure age about 130   et al. (1978) determined the composition of pyroxene
+   m.y.                                                  in  10029  (figure  3).   Pyroxene  zones  to
+                                                         ferrohedenbergite as well as pyroxferroite.
+   Petrography
+   James and Jackson (1970) and Radcliffe et al. (1970)   Plagioclase: Plagioclase in normally zoned from An93-
+   found that 10029 was a “medium-grained” ophitic    70. The “average” plagioclase analysis is An84.
+    basalt (figure 2). Beaty and Albee (1978) reported the
+   “average” grain size as ~ 500 microns and described   Ilmenite: Ilmenite in 10029 has low Mg (Gamble et
+   the texture as “spectacularly-ophitic” with equant,   al.). Radcliffe et al. (1970) studied internal texture.
+   blocky grains of ilmenite, small anhedral mantled
+   olivine and plagioclase laths set in much coarser  Akaganeite: Gamble et al. (1978) reported 15 micron-
+   pyroxene (figure 2).                                   sized grains of rust associated with troilite and iron.
+
+   Radcliffe et al. (1970) studied the internal structures  Phosphate: Beaty and Albee (1978) determined that
+   of minerals in 10029. Beaty and Albee (1978) discuss   the phosphate in 10029 had 4 % fluorine.
+   the evidence for silicate liquid immiscibility in the
+    residual glass.
+
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-8 ---
+10029
+                                 Ilmenite Basalt (low K)
+                                               5.5 grams
+--- material block 3; lines 20-33 ---
+dated at about 3.9 b.y. with an exposure age about 130   et al. (1978) determined the composition of pyroxene
+   m.y.                                                  in  10029  (figure  3).   Pyroxene  zones  to
+                                                         ferrohedenbergite as well as pyroxferroite.
+   Petrography
+   James and Jackson (1970) and Radcliffe et al. (1970)   Plagioclase: Plagioclase in normally zoned from An93-
+   found that 10029 was a “medium-grained” ophitic    70. The “average” plagioclase analysis is An84.
+    basalt (figure 2). Beaty and Albee (1978) reported the
+   “average” grain size as ~ 500 microns and described   Ilmenite: Ilmenite in 10029 has low Mg (Gamble et
+   the texture as “spectacularly-ophitic” with equant,   al.). Radcliffe et al. (1970) studied internal texture.
+   blocky grains of ilmenite, small anhedral mantled
+   olivine and plagioclase laths set in much coarser  Akaganeite: Gamble et al. (1978) reported 15 micron-
+   pyroxene (figure 2).                                   sized grains of rust associated with troilite and iron.
+
+   Radcliffe et al. (1970) studied the internal structures  Phosphate: Beaty and Albee (1978) determined that
+--- age block 4; lines 14-26 ---
+Introduction                               Mineralogy
+   10029 as collected as part of the contingency sample   Olivine:  Olivine is found enclosed in pyroxene and
+   and returned with the astronauts to the crew area of  ranges Fo63-3 (Beaty and Albee 1978).
+   the LRL. 10029 is similar to 10003 except that this
+   sample looks like it has rusted (figure 1).  It has been  Pyroxene: Both Beaty and Albee (1978) and Gamble
+   dated at about 3.9 b.y. with an exposure age about 130   et al. (1978) determined the composition of pyroxene
+   m.y.                                                  in  10029  (figure  3).   Pyroxene  zones  to
+                                                         ferrohedenbergite as well as pyroxferroite.
+   Petrography
+   James and Jackson (1970) and Radcliffe et al. (1970)   Plagioclase: Plagioclase in normally zoned from An93-
+   found that 10029 was a “medium-grained” ophitic    70. The “average” plagioclase analysis is An84.
+    basalt (figure 2). Beaty and Albee (1978) reported the
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,mineralogy ===
+--- chemistry block 1; lines 1-12 ---
+Figure 2: Optical micrograph of lunar sample 10029 showing ophitic texture.
+                  Crossed polarizers. From Radcliffe et al. 1970.
+
+                       10029                Di                   Hd
+          Beaty and Albee 1978                                 Chemistry
+            Gamble et al.                                    The chemical composition of 10029 is given in table 1
+             1978                                          and figures 4 and 5.
+
+                                               Radiogenic age dating
+                                                    Guggisberg et al. (1979) obtained an Ar/Ar plateau age
+                                                              for 10029 of 3.89 ± 0.3 b.y. (figure 6).
+   En                                          Fs
+--- mineralogy block 2; lines 10-36 ---
+Guggisberg et al. (1979) obtained an Ar/Ar plateau age
+                                                              for 10029 of 3.89 ± 0.3 b.y. (figure 6).
+   En                                          Fs
+                                           Cosmogenic isotopes and exposure ages
+    Fo                                        Fa  Guggisberg et al. obtained an 37Ar/38Ar exposure age
+           compiled by C Meyer                                        of about 130 m.y.
+         Figure 3: Pyroxene and olivine composition of
+        10029 (replotted from Beaty and Albee 1978 and
+       Gamble et al. 1978).
+
+
+
+
+
+                Mineralogical Mode for 10029
+                                 James and       Beaty and      Gamble et
+                                   Jackson 1970     Albee 1978         al. 1978
+                      Olivine            0.7                0.3
+                    Pyroxene         46.8              47.5              44.8
+                       Plagioclase        35.9            35                42.8
+                       Ilmenite          14.1              15.8              10.8
+                      mesostasis         0.3                                   0.5
+                           silica              0.8                0.6                0.2
+                            troilite            0.9                0.5                0.8
+                     phosphate         0.1               0.25
+
+Lunar Sample Compendium
+--- age block 3; lines 3-20 ---
+10029                Di                   Hd
+          Beaty and Albee 1978                                 Chemistry
+            Gamble et al.                                    The chemical composition of 10029 is given in table 1
+             1978                                          and figures 4 and 5.
+
+                                               Radiogenic age dating
+                                                    Guggisberg et al. (1979) obtained an Ar/Ar plateau age
+                                                              for 10029 of 3.89 ± 0.3 b.y. (figure 6).
+   En                                          Fs
+                                           Cosmogenic isotopes and exposure ages
+    Fo                                        Fa  Guggisberg et al. obtained an 37Ar/38Ar exposure age
+           compiled by C Meyer                                        of about 130 m.y.
+         Figure 3: Pyroxene and olivine composition of
+        10029 (replotted from Beaty and Albee 1978 and
+       Gamble et al. 1978).
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material ===
+--- chemistry block 1; lines 4-28 ---
+10029
+                                A11                                           sample/
+              10                                                                         chondrite
+
+                                                                                                    10
+               8
+   TiO2
+               6
+
+                                                                                                              1
+
+               4
+                                              A12
+               2                        A15
+                                                                                                                         0.1
+                                                                                    La      Pr    Sm    Gd     Dy      Er     Yb                                                                            Ce    Nd     Eu     Tb    Ho    Tm     Lu
+               0
+                 0                5                10               15               20
+                MgO                          Figure 5: Normalized rare-earth-element composi-
+                                                                         tion for high-K basalt 10029 (the line) compared with
+        Figure 4: Composition of 10029 compared with that         that of low-K basalt 10020 and high-K basalt 10049
+         of other Apollo lunar samples.                                (the dots) (data from Wiesmann et al. 1975).
+--- material block 2; lines 17-30 ---
+2                        A15
+                                                                                                                         0.1
+                                                                                    La      Pr    Sm    Gd     Dy      Er     Yb                                                                            Ce    Nd     Eu     Tb    Ho    Tm     Lu
+               0
+                 0                5                10               15               20
+                MgO                          Figure 5: Normalized rare-earth-element composi-
+                                                                         tion for high-K basalt 10029 (the line) compared with
+        Figure 4: Composition of 10029 compared with that         that of low-K basalt 10020 and high-K basalt 10049
+         of other Apollo lunar samples.                                (the dots) (data from Wiesmann et al. 1975).
+--- age block 3; lines 38-50 ---
+S75-33058 – 060  color
+
+
+
+
+
+                                                                Figure 6: Ar/Ar plateau age of 10022 compared with
+                                                         10029 (from Guggisberg et al. 1979).
+
+
+                                                        C Meyer       10029
+                                                                         2005           5.5 g
+--- age block 4; lines 59-70 ---
+,19         ,42
+                                                                                                             ,40       TS
+                                                                              TS
+
+
+                                           Summary of Age Data for 10029
+                                                                                          Ar/Ar plateau
+                                                                   Guggisberg et al. (1979)     3.89 ± 0.3 b.y.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-18 ---
+References for 10029   Table 1. Chemical composition of 10029.
+                                                         Beaty D.W. and Albee A.L. (1978) Comparative petrology
+     reference  Rhodes80   Beaty 78                          and possible genetic relations among the Apollo 11 basalts.
+     weight                                                    Proc. 9th Lunar Planet. Sci. Conf. 359-463.
+    SiO2 %    38.59    (a) 37.89      (c )
+    TiO2       11.1     (a) 12.15      (c )
+    Al2O3     10.24    (a) 10.32      (c )                   Gamble R.P., Coish R.A. and Taylor L.A. (1978) The
+   FeO       21.71    (a) 20.49      (c )                        consanguinity of the oldest Apollo 11 mare basalts. Proc.
+   MnO       0.3       (a) 0.23       (c )
+   MgO       6.45     (a) 7.53       (c )                                 9th Lunar Planet. Sci. Conf. 495-507.
+   CaO       10.3     (a) 10.47      (c )
+   Na2O      0.42     (b) 0.39       (c )                                                         Guggisberg S., Eberhardt P., Geiss J., Grogler N., Stettler   K2O       0.08     (a) 0.03       (c )
+   P2O5      0.21     (a) 0.09       (c )                         A., Brown G.M. and Pecket A. (1979) Classification of the
+   S %                    0.23       (c )                    Apollo-11 basalts according to Ar39-Ar40 ages and
+    sum
+                                                                  petrological properties. Proc. 10th Lunar Planet. Sci. Conf.
+    Sc ppm    79       (b)                                      1-39.
+   V
+--- mineralogy block 2; lines 15-27 ---
+sum
+                                                                  petrological properties. Proc. 10th Lunar Planet. Sci. Conf.
+    Sc ppm    79       (b)                                      1-39.
+   V
+    Cr        1570     (b)
+   Co         14.1     (b)                                 James O.B. and Jackson E.D. (1970) Petrology of the Apollo
+     Ni                                                  11 ilmenite basalts. J. Geophys. Res. 75, 5793-5824.
+   Cu
+    Zn
+   Ga                                               Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo
+   Ge ppb
+    As                                                 11 Lunar Sample Information Catalogue (revised).
+    Se                                                        Curator’s Office, JSC 12522
+--- material block 3; lines 31-43 ---
+Zr                                                 from Apollo 11. Science 165, 1211-1227.
+   Nb
+   Mo
+   Ru                                                         Radcliffe S.V., Heuer A.H., Fisher R.M., Christie J.M. and
+   Rh
+    Pd ppb                                              Griggs D.T. (1970)  High voltage (800 kV) electron
+    Ag ppb                                                  petrography of type B rock from Apollo 11. Proc. Apollo
+   Cd ppb
+                                                         11 Lunar Sci. Conf. 731-748.     In ppb
+    Sn ppb
+    Sb ppb                                                      Rhodes J.M. and Blanchard D.P. (1980) Chemistry of Apollo    Te ppb
+    Cs ppm                                              11 low-K mare basalts. Proc. 11th Lunar Planet. Sci. Conf.
+    Ba                                                       49-66.
+--- references block 4; lines 1-9 ---
+References for 10029   Table 1. Chemical composition of 10029.
+                                                         Beaty D.W. and Albee A.L. (1978) Comparative petrology
+     reference  Rhodes80   Beaty 78                          and possible genetic relations among the Apollo 11 basalts.
+     weight                                                    Proc. 9th Lunar Planet. Sci. Conf. 359-463.
+    SiO2 %    38.59    (a) 37.89      (c )
+    TiO2       11.1     (a) 12.15      (c )
+    Al2O3     10.24    (a) 10.32      (c )                   Gamble R.P., Coish R.A. and Taylor L.A. (1978) The
+   FeO       21.71    (a) 20.49      (c )                        consanguinity of the oldest Apollo 11 mare basalts. Proc.
+   MnO       0.3       (a) 0.23       (c )
+--- references block 5; lines 62-71 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm    1.8       (b)
+   U ppm
+     technique: (a) XRF, (b) INAA, (c ) elec. Probe
+
+Lunar Sample Compendium
+C Meyer 2011

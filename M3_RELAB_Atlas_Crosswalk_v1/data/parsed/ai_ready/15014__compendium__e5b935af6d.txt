@@ -1,0 +1,76 @@
+DOCUMENT_ID: 15014__compendium__e5b935af6d
+ATLAS_SAMPLE_IDS: 15014
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15014.pdf
+SOURCE_PDF_SHA256: 1ee09f18443ddc757cf11d789877627784ce3f08b6fe3b7a42b5baa7bdebf23d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-28 ---
+15014
+                          Trench Soil (vacuum container)
+                                       333 grams
+
+
+
+
+
+           Figure 1: Trench at Apollo 15, station 8. 15014 was also collected from the bottom of this trench (~30 cm
+            deep). AS15-92-12440
+
+
+   Introduction
+   15014 was collected from bottom of the Soil Mechanics
+   Trench (figure 1) near the ALSEP site (station 8).
+   Sample 15030 was also collected from the bottom of
+   the trench, while 15040 was from the surface.  This
+   trench was deep enough (30 cm) for the samples from
+   the bottom to be about -10 to -20 deg C before they
+   were disturbed (see Keihm et al. 1973).
+
+   The Apollo 15 deep drill core was collected only 10
+   meters away – and should contain similar material with
+   depth, because there are few craters in the vicinity
+   (Swann et al. 1971, 1972).
+
+   15014 was placed in a special environmental sample
+                                                                Figure 2: Drawing of SESC vacuum container used
+
+=== PDF PAGE 2; CATEGORIES: material,references ===
+--- material block 1; lines 4-32 ---
+Curator’s Office. JSC.   Processing
+    There was a mistake in the early documentation (Swann                                                               Butler (1972) Lunar Sample Information Catalog: Apollo
+     et al. 1971, 1972) related to the numbering of SESC                                                                15. MSC 03209
+    containers 15014 (trench bottom, station 8) and 15013
+    (collected under LM).  In the early documentation,  Keihm S.J. and Langseth M.G. (1973) Surface brightness
+    these sample numbers were switched, but this mistake   temperatures at he Apollo 17 heat flow site – thermal
+   was corrected by the time of allocations for 15013.     conductivity of the upper 15 cm of the regolith. Proc. 4th
+                                                      Lunar Sci. Conf. 2503-2514.
+   SESC 15014, along with 15012, were returned in SCB
+                                                 Keihm S.J., Peters K., Langseth M.G. and Chute J.L. (1973)   5 in ALSRC#2 (which leaked nitrogen). 15012 was
+                                                     Apollo 15 measurement of lunar surface brightness   found to be sealed (Simoneit et al. 1972), while 15014
+                                                               temperatures: Thermal conductivity of the upper 1½ meters
+    remains unstudied (presumably still sealed).  15013                                                                of regolith. Earth Planet. Sci. Lett. 330-336.
+   was returned in SCB 7 without the extra protection of
+    the ALSRC (Butler 1972).                      LSPET (1972a) Apollo 15 Lunar samples – preliminary
+                                                                   description. Science 175, 363-375.
+   The seal was made of In(Ag) which was protected by
+    Teflon rings (figure 2). Since the sample has not been  LSPET (1972b)  6. Preliminary Examination of Lunar
+    opened, the weight of the sample is approximate.       Samples. In Apollo 15 preliminary Science Report. NASA
+                                                          SP-289.
+
+                                                              Mitchell J.K., Bromwell L.G., Carrier W.D., Costes N.C.,
+                                                       Houston W.N. and Scott R.F.  (1972)  7. Soil Mechanics
+                                                           Experiment.  In Apollo 15 Preliminary Science Report
+                                       NASA SP-289.
+
+                                                            Stoenner R.W., Lindstrom R.M., Lyman W. and Davis R.
+                                                           (1972)  Argon, Radon and Tritium radioactivities in the
+                                                        sample return container and the lunar surface.  Proc. 3rd
+--- references block 2; lines 1-7 ---
+Chemistry                                      References 15014
+   Should be the same as that of 15030.                    Allton J.H. (1989) Catalog of Apollo lunar surface
+                                                             geologic sampling tools and containers. JSC-23454 pp97
+                                                               Curator’s Office. JSC.   Processing
+    There was a mistake in the early documentation (Swann                                                               Butler (1972) Lunar Sample Information Catalog: Apollo
+     et al. 1971, 1972) related to the numbering of SESC                                                                15. MSC 03209
+    containers 15014 (trench bottom, station 8) and 15013

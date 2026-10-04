@@ -1,0 +1,162 @@
+DOCUMENT_ID: 76539__compendium__2b321c3cb0
+ATLAS_SAMPLE_IDS: 76539
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/76539.pdf
+SOURCE_PDF_SHA256: 6cb56b449f414a22d80156bd5fa9166707ace03ef5737e2f37f9299aa20bd3d7
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 18-31 ---
+Polished thin sections of 76539 show that it has
+   numerous tiny phenocrysts of skeletal olivine (figure
+   2) and fine needles of ilmenite (seen in reflected light).
+   The remainder is “opaque” glass.
+
+   Chemistry
+   The chemical composition of 76539 was determined
+   by Rhodes et al. (1976). Trace elements were reported
+   by Wiesmann and Hubbard (1975).  Nyquist et al.
+   (1975) reported Rb, Sr and Sr87/86.
+
+
+
+Lunar Sample Compendium
+--- mineralogy block 2; lines 13-27 ---
+76539 is a small aphanitic basalt found in the rake  Radiogenic age dating
+   sample collected at station 6, Apollo 17 (see sections  Turner was allocated a piece of 76539 for age dating.
+   on 76500 and 76537).
+                                                 Processing
+   Petrography                                    There are 2 thin section.
+   Polished thin sections of 76539 show that it has
+   numerous tiny phenocrysts of skeletal olivine (figure
+   2) and fine needles of ilmenite (seen in reflected light).
+   The remainder is “opaque” glass.
+
+   Chemistry
+   The chemical composition of 76539 was determined
+   by Rhodes et al. (1976). Trace elements were reported
+   by Wiesmann and Hubbard (1975).  Nyquist et al.
+   (1975) reported Rb, Sr and Sr87/86.
+--- material block 3; lines 1-19 ---
+76539
+                                    Vitrophyric Basalt
+                                            14.8 grams
+
+
+
+
+
+                            Figure 1: Photo of 76539 with mm scale bar. S73-19606
+
+
+   Introduction
+   76539 is a small aphanitic basalt found in the rake  Radiogenic age dating
+   sample collected at station 6, Apollo 17 (see sections  Turner was allocated a piece of 76539 for age dating.
+   on 76500 and 76537).
+                                                 Processing
+   Petrography                                    There are 2 thin section.
+   Polished thin sections of 76539 show that it has
+   numerous tiny phenocrysts of skeletal olivine (figure
+--- age block 4; lines 7-20 ---
+Figure 1: Photo of 76539 with mm scale bar. S73-19606
+
+
+   Introduction
+   76539 is a small aphanitic basalt found in the rake  Radiogenic age dating
+   sample collected at station 6, Apollo 17 (see sections  Turner was allocated a piece of 76539 for age dating.
+   on 76500 and 76537).
+                                                 Processing
+   Petrography                                    There are 2 thin section.
+   Polished thin sections of 76539 show that it has
+   numerous tiny phenocrysts of skeletal olivine (figure
+   2) and fine needles of ilmenite (seen in reflected light).
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-24 ---
+Table 1. Chemical composition of 76539.                     Lunar Basalts
+                                                                                                14
+    reference Shih75     Rhodes76                                                     76539     A17
+    weight   Wiesmann75                                                             12
+    SiO2 %               38.21     (c )                                                          A11
+    TiO2                  12.65     (c )                                            10
+    Al2O3                  8.8       (c )
+                                                                                                     8
+   FeO                  19.42     (c )                  TiO2
+   MnO                   0.29      (c )                                               6
+   MgO                   7.87      (c )
+   CaO                  10.91     (c )                                               4
+   Na2O                  0.39      (c )                                                                         A12
+   K2O      0.052     (a) 0.06      (c )                                               2                        A15
+   P2O5                   0.1       (c )
+   S %                   0.16      (c )                                               0
+   sum                                                                                            0                5                10                15               20
+                                              MgO
+    Sc ppm   82        (b)
+   V                                                                Figure 3: Composition of lunar basalts.
+    Cr                  2326     (c )
+   Co       20        (b)                                                             300
+    Ni                                                                             Apollo 17 basalts
+   Cu                                                                                      250
+--- material block 2; lines 58-70 ---
+Dy        13.3      (a)
+   Ho
+    Er        8.02      (a)
+   Tm
+   Yb        7.4       (a)                                            Figure 5: Normalized rare-earth-element diagram
+    Lu                                                                      for 76539 compared with A and B types of Apollo
+    Hf                                                       17 basalt.
+    Ta
+  W ppb
+   Re ppb
+   Os ppb
+       Ir ppb
+    Pt ppb
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 76539.                     Lunar Basalts
+                                                                                                14
+    reference Shih75     Rhodes76                                                     76539     A17
+    weight   Wiesmann75                                                             12
+    SiO2 %               38.21     (c )                                                          A11
+    TiO2                  12.65     (c )                                            10
+    Al2O3                  8.8       (c )
+                                                                                                     8
+   FeO                  19.42     (c )                  TiO2
+--- references block 4; lines 68-77 ---
+Os ppb
+       Ir ppb
+    Pt ppb
+   Au ppb
+    Th ppm
+   U ppm
+     technique:  (a) IDMS, (b) INAA, (c ) XRF
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: material,references ===
+--- material block 1; lines 34-46 ---
+Muehlberger W.R. and many others (1973)  Preliminary
+    Geological Investigation of the Apollo 17 Landing Site. In
+   Apollo 17 Preliminary Science Report. NASA SP-330.
+
+   Nyquist L.E., Bansal B.M. and Wiesmann H. (1975a) Rb-
+    Sr ages and initial 87Sr/86Sr for Apollo 17 basalts and KREEP
+    basalt 15386. Proc. 6th Lunar Sci. Conf. 1445-1465.
+
+   Rhodes J.M., Hubbard N.J., Wiesmann H., Rodgers K.V.,
+   Brannon J.C. and Bansal B.M. (1976a) Chemistry,
+    classification, and petrogenesis of Apollo 17 mare basalts.
+    Proc. 7th Lunar Sci. Conf. 1467-1489.
+--- references block 2; lines 8-20 ---
+,9
+                ,10
+            TS
+
+
+
+   References for 76539
+                                                       Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,    Butler P. (1973) Lunar Sample Information Catalog
+                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The   Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+                                                             geologic investigation of the Taurus-Littrow Valley: Apollo    Curator’s Catalog. pp. 447.
+                                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+                                                            280.   LSPET (1973)  Apollo 17 lunar samples: Chemical and
+    petrographic description. Science 182, 659-672.

@@ -1,0 +1,107 @@
+DOCUMENT_ID: 74250__compendium__fc71348ac8
+ATLAS_SAMPLE_IDS: 74250
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/74250.pdf
+SOURCE_PDF_SHA256: 94691fc757823914ae9c72c392fe02cd47f0732e188b735f48bc6163cb8b5ed4
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+74250 and 74270
+                                          Soil
+                                       22.6 and 9.6 grams
+--- material block 2; lines 15-34 ---
+74270
+
+
+
+
+
+         Figure 1: Outcrop at Shorty Crater where basalt samples and orange soil were collected.
+
+
+  Introduction                                Petrography
+  74250 and 74270 are residual soil samples returned in  These bag residue have not been studied. Lunar
+  bags with basalt samples 74255 and 74275. They are  samples are always covered with dust which
+  from the rock outcrop near the orange soil at Shorty  becomes residue in sample bag – along with pieces
+  Crater (figure 1).                               rubbed off of the rock sample included. The basalt
+                                               samples in these bags were discussed in the catalog
+                                           by Meyer (1994) and this compendium.
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 28-40 ---
+Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Office, Houston
+
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+  soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Sci. Conf. 2287-2297.
+
+  Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  regolith: Chemistry, Mineralogy and Petrology.  Rev.
+  Geophys. Space Phys. 20, 761-826.
+--- mineralogy block 2; lines 32-44 ---
+Morris R.V. (1978) The surface exposure (maturity) of lunar
+  soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Sci. Conf. 2287-2297.
+
+  Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  regolith: Chemistry, Mineralogy and Petrology.  Rev.
+  Geophys. Space Phys. 20, 761-826.
+
+  Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+  Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+  geologic investigation of the Taurus-Littrow Valley: Apollo
+  17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- material block 3; lines 19-44 ---
+Curator’s Office JSC 26088 pp. 644
+
+  Meyer C. (2010) Lunar Sample Compendium (abs#1016).
+  The 41st Lunar Planet. Sci. Conf. @ The Woodlands
+
+  Mitchell J.K., Carrier W.D., Costes N.C., Houston W.N.,
+  Scott R.F. and Hovland H.J. (1973) 8. Soil-Mechanics. In
+  Apollo 17 Preliminary Science Rpt. NASA SP-330. pages
+  8-1-22.
+
+  Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Office, Houston
+
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+  soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Sci. Conf. 2287-2297.
+
+  Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  regolith: Chemistry, Mineralogy and Petrology.  Rev.
+  Geophys. Space Phys. 20, 761-826.
+
+  Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+  Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+  geologic investigation of the Taurus-Littrow Valley: Apollo
+  17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- treatment block 4; lines 27-39 ---
+8-1-22.
+
+  Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Office, Houston
+
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+  soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Sci. Conf. 2287-2297.
+
+  Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  regolith: Chemistry, Mineralogy and Petrology.  Rev.
+  Geophys. Space Phys. 20, 761-826.
+--- references block 5; lines 1-7 ---
+References for 74250 and 74270
+  Butler P. (1973) Lunar Sample Information Catalog Apollo
+  17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+  Catalog. pp. 447.
+
+  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator

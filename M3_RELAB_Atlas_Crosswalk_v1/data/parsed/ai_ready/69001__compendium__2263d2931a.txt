@@ -1,0 +1,63 @@
+DOCUMENT_ID: 69001__compendium__2263d2931a
+ATLAS_SAMPLE_IDS: 69001
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/69001.pdf
+SOURCE_PDF_SHA256: b416236a4d6215c22765ee1c96979b7174127323985aae1b969742db2b6981f8
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 8-28 ---
+Figure 1: Surface photo of drive tube 69001. AS16-108-17742.
+
+   Introduction
+   69001 is unopened and has been in vacuum since it   Transcript
+   was sealed in CSVC on the moon.  It was collected  CC    We’d like to get that CSVC.
+   about 10 meters from small boulder 69935, 69955 –  LMP   Okay, Tony. We can turn this rock over - -
+   see transcript.                            CC     John, you lost the bag?
+                                       CDR   Yeah, lost my whole set of bags. O shoot.
+   According the soil mechanics report (Mitchell et al.  LMP   May I borrow your hammer John? This core, I think
+   1972), 69001 was pushed in 20 cm and driven about   might be able to push it in, but – Okay, we’ll just do it right
+   another 7 cm by eight hammer blows.                     here. Tony, I’m 15 meters out to the left of the –
+                                        CC     Rodger. We’re watching you, Charlie.
+   Petrography                                       Okay. There we go. Pushed it in halfway, Tony.
+   Surface soil for comparison is the soil collected  CC     Okay. And rember not ot hammer this oneall the
+   beneath the small station 9 boulder (69960).       way in.
+                                                                                     - —
+   Chemistry                            LMP   Okay. Tony, that ‘s about 7 centimeters out.
+  No data                                CC     Looks good to us.
+                                      LMP    Feels good to me too, to get that over.
+
+=== PDF PAGE 2; CATEGORIES: material,references ===
+--- material block 1; lines 1-8 ---
+Figure 3: Special vacuum container (CSVC) used to
+                                                                hold short lunar drive tube (core).  It has the same
+                                                                     type of In seal used with the SESC (Allton 1989).
+                           69001
+--- material block 2; lines 15-32 ---
+Curator’s Office. JSC.
+
+                                                               Butler P. (1972a) Lunar Sample Information Catalog
+                                                         Apollo 16. Lunar Receiving Laboratory. MSC 03210
+                                                               Curator’s Catalog. pp. 370.
+
+                                                 Duke M.B. and Nagle J.S. (1976) Lunar Core Catalog.
+                                                   JSC09252 rev. Curators’ Office
+
+                                                              Mitchell J.K., Carrier W.D., Houston W.N., Scott R.F.,
+                                                     Bromwell L.G., Durgunoglu H.T., Hovland H.J.,
+                                                           Treadwell D.D. and Costes N.C. (1973) 8. Soil-
+                                                         Mechanics. In Apollo 16 Preliminary Science Rpt. NASA
+                                                          SP-315. pages 8-1-29.
+
+                                                        Muehlberger W.R. and many others (1973) Preliminary
+                                                            Geological Investigation of the Apollo 17 Landing Site.
+                                                               In Apollo 17 Preliminary Science Report. NASA SP-330.
+--- references block 3; lines 6-18 ---
+Figure 2: Map of Apollo 16 site.
+
+                                                References
+                                                              Allton J.H. (1989) Catalog of Apollo lunar surface
+                                                             geologic sampling tools and containers. JSC-23454 pp97
+                                                               Curator’s Office. JSC.
+
+                                                               Butler P. (1972a) Lunar Sample Information Catalog
+                                                         Apollo 16. Lunar Receiving Laboratory. MSC 03210

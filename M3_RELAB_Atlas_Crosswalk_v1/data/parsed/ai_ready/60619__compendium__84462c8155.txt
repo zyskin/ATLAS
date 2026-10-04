@@ -1,0 +1,208 @@
+DOCUMENT_ID: 60619__compendium__84462c8155
+ATLAS_SAMPLE_IDS: 60619
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60619.pdf
+SOURCE_PDF_SHA256: 3574a84fcbe72d34fc9f3d638b48e090e73a2b35d78cb699bff9eeb84e7e3801
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 7-27 ---
+Figure 1: Photo of 60619. NASA S73-20460. Scale in mm/cm.
+
+   Introduction
+                                                           grains at these triple junctions, 2) as minute inclusions   60619 is a rake sample collected 70 m west of the Lunar
+                                                              in the plagioclase or 3) as large grains that enclose small   Module.  It is a coherent, recrystallized, plagioclase-
+                                                            plagioclase.   rich rock with minor glass-splash and a few
+   micrometeorite craters (figure 1). It has not been well
+                                             Mineralogy    studied.
+                                                         Olivine: Olivine is uniform in composition (Fo70).
+   Petrography
+                                                  Pyroxene:  Pyroxene compositions determined by   Dowty et al. (1974) and Warner et al. (1976) reported
+                                           Dowty et al. (1974a) and Warner et al. (1976) are   petrographic descriptions of 60619. The granoblastic
+                                                                  illustrated in figure 3.    texture (figure 2) is caused by extensive subsolidus
+    recrystallization. Small anhedral grains of plagioclase
+   have smooth boundaries and meet in triple junctions.
+   The mafic mineral phases occur 1) as small anhderal
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 2; lines 6-20 ---
+Figure 1: Photo of 60619. NASA S73-20460. Scale in mm/cm.
+
+   Introduction
+                                                           grains at these triple junctions, 2) as minute inclusions   60619 is a rake sample collected 70 m west of the Lunar
+                                                              in the plagioclase or 3) as large grains that enclose small   Module.  It is a coherent, recrystallized, plagioclase-
+                                                            plagioclase.   rich rock with minor glass-splash and a few
+   micrometeorite craters (figure 1). It has not been well
+                                             Mineralogy    studied.
+                                                         Olivine: Olivine is uniform in composition (Fo70).
+   Petrography
+                                                  Pyroxene:  Pyroxene compositions determined by   Dowty et al. (1974) and Warner et al. (1976) reported
+                                           Dowty et al. (1974a) and Warner et al. (1976) are   petrographic descriptions of 60619. The granoblastic
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,mineralogy ===
+--- chemistry block 1; lines 1-12 ---
+Figure 2: Thin section photomicrograph of 60619 showing granoblastic texture - mostly plagioclase with
+         minute olivine. Width of field is 4 mm. Crossed nicols. (picture from Dowty et al. 1974).
+
+
+    Plagioclase: Plagioclase is An95. Hansen et al. (1979)               Di        60619       Hd
+   determined the trace element composition of         Dowty1974  et al.
+    plagioclase in 60619.
+
+    Ilmenite:  Warner et al. (1976) give an analysis of
+    ilmenite.
+
+   Chromite: Dowty et al. (1974a) give an analysis of
+--- mineralogy block 2; lines 1-24 ---
+Figure 2: Thin section photomicrograph of 60619 showing granoblastic texture - mostly plagioclase with
+         minute olivine. Width of field is 4 mm. Crossed nicols. (picture from Dowty et al. 1974).
+
+
+    Plagioclase: Plagioclase is An95. Hansen et al. (1979)               Di        60619       Hd
+   determined the trace element composition of         Dowty1974  et al.
+    plagioclase in 60619.
+
+    Ilmenite:  Warner et al. (1976) give an analysis of
+    ilmenite.
+
+   Chromite: Dowty et al. (1974a) give an analysis of
+    trace chromite found in 60619.                    En                                          Fs
+
+    Rutile: A tiny grain of rutile is reported (Dowty et al.  Fo                                        Fa
+    1974a).                                                                                  compiled by C Meyer
+
+                                                                  Figure 3:  Pyroxene and olivine composition in
+   Chemistry                                             60619 (Warner et al. 1976).
+   The only analysis of 60619 is the broad beam analysis
+    of an area on a thin section (Dowty et al. 1974a, Warner
+     et al. 1976).
+
+   Radiogenic age dating
+--- age block 3; lines 18-30 ---
+Figure 3:  Pyroxene and olivine composition in
+   Chemistry                                             60619 (Warner et al. 1976).
+   The only analysis of 60619 is the broad beam analysis
+    of an area on a thin section (Dowty et al. 1974a, Warner
+     et al. 1976).
+
+   Radiogenic age dating
+   None
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 18-42 ---
+in Apollo 16 highland rocks: Manifestations of volatile-
+                                                          element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+                                                            259.       Figure 4: Pyroxene and plagioclase composition in
+       60619.
+                                                         Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+                                                                Description, classification and inventory of 151 Apollo 16
+   Table 1. Chemical composition of 60619.        rake samples from the LM area and station 5.  Curator’s
+                                                              Catalog, JSC.
+    reference  Dowty 74a
+    weight    Warner 76                            LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   SiO2 %    44.6      (a)                                 and chemical description. Science 179, 23-34.
+    TiO2       0.06      (a)
+   Al2O3     32.9      (a)
+   FeO       1.2        (a)                           LSPET (1972c) Preliminary examination of lunar samples.
+   MnO       0.01      (a)                                      In Apollo 16 Preliminary Science Report. NASA SP-315,
+   MgO       1.68      (a)                                7-1—7-58.
+   CaO       17.8      (a)
+   Na2O      0.63      (a)
+   K2O       0.04      (a)                                 Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   P2O5      0.03      (a)                                    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   S %
+   sum
+                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.
+   Sc ppm                                                     In Geology of the Apollo 16 area, central lunar highlands.
+   V                                                          (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+--- mineralogy block 2; lines 1-26 ---
+An in plagioclase
+             75       80        85       90       95             References for 60619
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                               troctolites
+                                                              90      Catalog. pp. 370.
+
+                                                 Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:
+                              mg-suite                                                   norites                 80      a widespread and distinctive lunar rock type. Earth Planet.                                                                 En
+                                                                 in   Sci. Lett. 24, 15-25.
+                                                                                                                                                                                                  low-Ca  Hansen E.C., Steele I.M. and Smith J.V. (1979a)  Lunar                                gabbro-         60619     70
+                                    norites                               highland rocks: Element partitioning among minerals 1:
+                                                        Electron microprobe analyses of Na, K, and Fe in                                                                                                                                                                                                                                                                  pyroxene
+                                                            ferroan-        60      plagioclase; mg partitioning with orthopyroxene. Proc. 10th
+                                                          anorthosite           Lunar Planet. Sci. Conf. 627-638.
+
+                                                              50     Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+                                                                   in Apollo 16 highland rocks: Manifestations of volatile-
+                                                          element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+                                                            259.       Figure 4: Pyroxene and plagioclase composition in
+       60619.
+                                                         Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+                                                                Description, classification and inventory of 151 Apollo 16
+   Table 1. Chemical composition of 60619.        rake samples from the LM area and station 5.  Curator’s
+                                                              Catalog, JSC.
+    reference  Dowty 74a
+--- material block 3; lines 3-15 ---
+Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                               troctolites
+                                                              90      Catalog. pp. 370.
+
+                                                 Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:
+                              mg-suite                                                   norites                 80      a widespread and distinctive lunar rock type. Earth Planet.                                                                 En
+                                                                 in   Sci. Lett. 24, 15-25.
+                                                                                                                                                                                                  low-Ca  Hansen E.C., Steele I.M. and Smith J.V. (1979a)  Lunar                                gabbro-         60619     70
+                                    norites                               highland rocks: Element partitioning among minerals 1:
+                                                        Electron microprobe analyses of Na, K, and Fe in                                                                                                                                                                                                                                                                  pyroxene
+                                                            ferroan-        60      plagioclase; mg partitioning with orthopyroxene. Proc. 10th
+                                                          anorthosite           Lunar Planet. Sci. Conf. 627-638.
+--- material block 4; lines 18-30 ---
+in Apollo 16 highland rocks: Manifestations of volatile-
+                                                          element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+                                                            259.       Figure 4: Pyroxene and plagioclase composition in
+       60619.
+                                                         Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+                                                                Description, classification and inventory of 151 Apollo 16
+   Table 1. Chemical composition of 60619.        rake samples from the LM area and station 5.  Curator’s
+                                                              Catalog, JSC.
+    reference  Dowty 74a
+    weight    Warner 76                            LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   SiO2 %    44.6      (a)                                 and chemical description. Science 179, 23-34.
+    TiO2       0.06      (a)
+   Al2O3     32.9      (a)
+--- material block 5; lines 40-52 ---
+Sutton R.L. (1981) Documentation of Apollo 16 samples.
+   Sc ppm                                                     In Geology of the Apollo 16 area, central lunar highlands.
+   V                                                          (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Cr        68        (a)
+   Co
+                                                      Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+                                                       and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+                                                      from the LM area and station 5.  Spec. Publ. #13, UNM
+                                                                        Institute of Meteoritics, Albuquerque. 87 pp.
+
+              C Meyer       60619                 2006
+                      28 g
+--- references block 6; lines 1-8 ---
+An in plagioclase
+             75       80        85       90       95             References for 60619
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                               troctolites
+                                                              90      Catalog. pp. 370.
+
+                                                 Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:
+--- references block 7; lines 20-32 ---
+259.       Figure 4: Pyroxene and plagioclase composition in
+       60619.
+                                                         Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+                                                                Description, classification and inventory of 151 Apollo 16
+   Table 1. Chemical composition of 60619.        rake samples from the LM area and station 5.  Curator’s
+                                                              Catalog, JSC.
+    reference  Dowty 74a
+    weight    Warner 76                            LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   SiO2 %    44.6      (a)                                 and chemical description. Science 179, 23-34.
+    TiO2       0.06      (a)
+   Al2O3     32.9      (a)
+   FeO       1.2        (a)                           LSPET (1972c) Preliminary examination of lunar samples.
+   MnO       0.01      (a)                                      In Apollo 16 Preliminary Science Report. NASA SP-315,

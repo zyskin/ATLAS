@@ -1,0 +1,86 @@
+DOCUMENT_ID: 76577__compendium__7646b8e1de
+ATLAS_SAMPLE_IDS: 76577
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/76577.pdf
+SOURCE_PDF_SHA256: 7f27f6282e43202764383cacc54406d6a9b8b37128ef8b0bcfc2633c4fd70571
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,references ===
+--- material block 1; lines 1-25 ---
+76577 – 13.5 grams
+                               Impact Melt Breccia
+
+
+
+
+
+                     Figure 1: Photo of 76577. Scale in mm. S73-19645
+
+   Introduction                                    References for 76577
+                                                               Butler P. (1973) Lunar Sample Information Catalog Apollo   76577 was collected as a rake sample from the base of
+                                                               17. Lunar Receiving Laboratory. MSC 03211 Curator’s   the North Massif – see section on 76501.
+                                                              Catalog. pp. 447.
+      ,
+   Petrography                                   Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+     It is a light tan, vesicular, impact melt rock with a   Curator’s Office JSC 26088 pp. 644
+   poikilitic texture (figures 2 and 3).  Mineral
+   compositions have not been reported.                Phinney W.C., Simonds C.H. and Warner J. (1974)
+                                                                 Description, Classification and Inventory of Apollo 17 Rake
+   Chemistry                                        Samples from Station 6. Curator’s Catalog, pp. 46.
+   All we have for analyses of 76577 are data from fused
+                                                    Simonds C.H. and Warner J.L. (1981)  Petrochemistry of
+   bead electron probe analyses (table).                                                         Apollo 16 and 17 samples (abs). Lunar Planet. Sci. XII,
+                                                          993-995. Lunar Planetary Institute, Houston.
+   Processing
+--- references block 2; lines 4-16 ---
+Figure 1: Photo of 76577. Scale in mm. S73-19645
+
+   Introduction                                    References for 76577
+                                                               Butler P. (1973) Lunar Sample Information Catalog Apollo   76577 was collected as a rake sample from the base of
+                                                               17. Lunar Receiving Laboratory. MSC 03211 Curator’s   the North Massif – see section on 76501.
+                                                              Catalog. pp. 447.
+      ,
+   Petrography                                   Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+     It is a light tan, vesicular, impact melt rock with a   Curator’s Office JSC 26088 pp. 644
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-18 ---
+Table 1. Chemical composition of 76577.
+                                                76577
+     reference Simonds81                                         13.5 grams
+     weight
+    SiO2 %   46.34     (a)
+    TiO2      1.49      (a)
+    Al2O3    18.07     (a)                                                   ,0        ,1     ,2
+   FeO      8.02      (a)                                            13.3 g  PB   0.1 g   MnO
+   MgO      11.94     (a)
+                                                                                         analyses   CaO      11.09     (a)
+                                                                                                  ,7   Na2O     0.8       (a)
+                                                                                                  ,8   K2O      0.33      (a)
+   P2O5                                                        TS
+   S %
+    sum
+
+    Sc ppm
+   V
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 76577.
+                                                76577
+     reference Simonds81                                         13.5 grams
+     weight
+    SiO2 %   46.34     (a)
+    TiO2      1.49      (a)
+    Al2O3    18.07     (a)                                                   ,0        ,1     ,2
+   FeO      8.02      (a)                                            13.3 g  PB   0.1 g   MnO
+   MgO      11.94     (a)
+--- references block 3; lines 63-73 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm
+   U ppm
+     technique: (a) fused bead e probe
+
+
+Lunar Sample Compendium
+C Meyer 2012

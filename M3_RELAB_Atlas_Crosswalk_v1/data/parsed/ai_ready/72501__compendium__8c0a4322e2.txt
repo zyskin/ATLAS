@@ -1,0 +1,628 @@
+DOCUMENT_ID: 72501__compendium__8c0a4322e2
+ATLAS_SAMPLE_IDS: 72501,72530
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72501.pdf
+SOURCE_PDF_SHA256: 600f274ed7bda9a74ceea2b37d3bd7f681337ac4d0f14917a11e02f1a0fef7b1
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 5-38 ---
+Introduction
+   72501 is a soil sample collected about 5 meters from          25
+   boulder 2 at station 2 on the landslide off of the South                                                                                20                      Apollo soils
+   Massif at Apollo 17 (Wolfe et al. 1981).  It contained
+   one rock fragment - 72505. A large rake sample (72535-          15
+   559) was collected adjacent to this soil sample. The FeO
+   rock fragments from this location are all impact melt          10                               72501
+   breccias – similar to the adjacent boulder (72315).
+   72530 is the residue in the bag for the rake sample and           5
+  may contain material abraded off of the rake samples
+   – mixed with some soil.                                                0 0       5       10      15      20      25      30      35
+                                                             Al2O3
+    Station 2 is located on the bottom slope of the South                                                                Figure 1: Composition of 72501 (landslide)
+   Massif, but in close proximity of Nansen Crater (figures       compared with other lunar soils.
+   5 and 6).  Soil sample 72320 was collected about 5
+   meters away. 72700 was collected on the other side of             200180
+   Nansen Crater.                                                                          160
+
+                                                                                                        140
+   Petrography                                                                           120                                     72501                                        C
+                                                                                                        100   72501 is one of the soils that Papike et al. (1982)  ppm
+   considered a “reference” soil.  It is a mature soil with               80
+   maturity index Is/FeO = 81 (Morris 1978), average               60
+   grain size 59 microns (Graf 1992) and high agglutinate               40
+    content. The grain size distribution was determined               20                              Lunar Soils
+   by Butler and King (1974) and Green et al. (1975) and                 0 0          20          40          60          80         100         120
+   the mineralogic mode given by Heiken and McKay                         maturity (Is/FeO)
+   (1974) and Simon et al. (1981).  Meyer (1973)       Figure 2: Carbon content and maturity index for
+   cataloged the 4 – 10 mm coarse-fines. Bence et al.       72501 compared with other lunar soil samples.
+   (1974) and Jolliff et al. (1996) studied several coarse-
+    fines from 72503 (figures 7 and 8).
+
+   Chemistry
+--- mineralogy block 2; lines 23-56 ---
+140
+   Petrography                                                                           120                                     72501                                        C
+                                                                                                        100   72501 is one of the soils that Papike et al. (1982)  ppm
+   considered a “reference” soil.  It is a mature soil with               80
+   maturity index Is/FeO = 81 (Morris 1978), average               60
+   grain size 59 microns (Graf 1992) and high agglutinate               40
+    content. The grain size distribution was determined               20                              Lunar Soils
+   by Butler and King (1974) and Green et al. (1975) and                 0 0          20          40          60          80         100         120
+   the mineralogic mode given by Heiken and McKay                         maturity (Is/FeO)
+   (1974) and Simon et al. (1981).  Meyer (1973)       Figure 2: Carbon content and maturity index for
+   cataloged the 4 – 10 mm coarse-fines. Bence et al.       72501 compared with other lunar soil samples.
+   (1974) and Jolliff et al. (1996) studied several coarse-
+    fines from 72503 (figures 7 and 8).
+
+   Chemistry
+   This is an Al-rich and Fe-poor soil (figure 1), derived
+   from feldspathic impact melt rocks from high up on  Mineralogical Mode for 72501
+   the South Massif (rim of Serenitatis basin?). Laul et                  Simon et al. 1981          Heiken 1974
+    al. (1981) also reported the composition as function of                     (90 to 1000 micron)        (90 to 150 micron
+                                                       Mare basalt                 2.9                3.3   grain size. The rare earth pattern is distinctive of a
+                                                                        feldspathic basalt            0.2
+   high KREEP component (figure 9). Krahenbuhl et al.   anorthosite, norite           5.2                2.7
+   (1977) studied the distribution of volatile elements (Cd,   breccias, light               2.4                8.7
+   Ge, Hg, In, Sb and Zn) as function of grain size.           poikilitic breccias           9.7               12.6
+                                                                mafic mineral               5.2             6
+                                                                       plagioclase                 10.9               6.3
+  LSPET (1973), Moore et al. (1974) and DesMarais et                                                            opaque                     0.1                0.3
+    al. (1975)  reported 125 and 135 ppm carbon,   glass                    3                  3.4
+    respectively. Müller (1974) determined nitrogen = 70   agglutinate                 37.6            48
+                                                                 dark breccias               22.6               8.3
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 3; lines 1-53 ---
+72501 and 72530
+                                    Landslide Soil
+                                    1061 and 18 grams
+
+
+   Introduction
+   72501 is a soil sample collected about 5 meters from          25
+   boulder 2 at station 2 on the landslide off of the South                                                                                20                      Apollo soils
+   Massif at Apollo 17 (Wolfe et al. 1981).  It contained
+   one rock fragment - 72505. A large rake sample (72535-          15
+   559) was collected adjacent to this soil sample. The FeO
+   rock fragments from this location are all impact melt          10                               72501
+   breccias – similar to the adjacent boulder (72315).
+   72530 is the residue in the bag for the rake sample and           5
+  may contain material abraded off of the rake samples
+   – mixed with some soil.                                                0 0       5       10      15      20      25      30      35
+                                                             Al2O3
+    Station 2 is located on the bottom slope of the South                                                                Figure 1: Composition of 72501 (landslide)
+   Massif, but in close proximity of Nansen Crater (figures       compared with other lunar soils.
+   5 and 6).  Soil sample 72320 was collected about 5
+   meters away. 72700 was collected on the other side of             200180
+   Nansen Crater.                                                                          160
+
+                                                                                                        140
+   Petrography                                                                           120                                     72501                                        C
+                                                                                                        100   72501 is one of the soils that Papike et al. (1982)  ppm
+   considered a “reference” soil.  It is a mature soil with               80
+   maturity index Is/FeO = 81 (Morris 1978), average               60
+   grain size 59 microns (Graf 1992) and high agglutinate               40
+    content. The grain size distribution was determined               20                              Lunar Soils
+   by Butler and King (1974) and Green et al. (1975) and                 0 0          20          40          60          80         100         120
+   the mineralogic mode given by Heiken and McKay                         maturity (Is/FeO)
+   (1974) and Simon et al. (1981).  Meyer (1973)       Figure 2: Carbon content and maturity index for
+   cataloged the 4 – 10 mm coarse-fines. Bence et al.       72501 compared with other lunar soil samples.
+   (1974) and Jolliff et al. (1996) studied several coarse-
+    fines from 72503 (figures 7 and 8).
+
+   Chemistry
+   This is an Al-rich and Fe-poor soil (figure 1), derived
+   from feldspathic impact melt rocks from high up on  Mineralogical Mode for 72501
+   the South Massif (rim of Serenitatis basin?). Laul et                  Simon et al. 1981          Heiken 1974
+    al. (1981) also reported the composition as function of                     (90 to 1000 micron)        (90 to 150 micron
+                                                       Mare basalt                 2.9                3.3   grain size. The rare earth pattern is distinctive of a
+                                                                        feldspathic basalt            0.2
+   high KREEP component (figure 9). Krahenbuhl et al.   anorthosite, norite           5.2                2.7
+   (1977) studied the distribution of volatile elements (Cd,   breccias, light               2.4                8.7
+   Ge, Hg, In, Sb and Zn) as function of grain size.           poikilitic breccias           9.7               12.6
+                                                                mafic mineral               5.2             6
+                                                                       plagioclase                 10.9               6.3
+  LSPET (1973), Moore et al. (1974) and DesMarais et                                                            opaque                     0.1                0.3
+    al. (1975)  reported 125 and 135 ppm carbon,   glass                    3                  3.4
+    respectively. Müller (1974) determined nitrogen = 70   agglutinate                 37.6            48
+                                                                 dark breccias               22.6               8.3
+--- treatment block 4; lines 21-39 ---
+meters away. 72700 was collected on the other side of             200180
+   Nansen Crater.                                                                          160
+
+                                                                                                        140
+   Petrography                                                                           120                                     72501                                        C
+                                                                                                        100   72501 is one of the soils that Papike et al. (1982)  ppm
+   considered a “reference” soil.  It is a mature soil with               80
+   maturity index Is/FeO = 81 (Morris 1978), average               60
+   grain size 59 microns (Graf 1992) and high agglutinate               40
+    content. The grain size distribution was determined               20                              Lunar Soils
+   by Butler and King (1974) and Green et al. (1975) and                 0 0          20          40          60          80         100         120
+   the mineralogic mode given by Heiken and McKay                         maturity (Is/FeO)
+   (1974) and Simon et al. (1981).  Meyer (1973)       Figure 2: Carbon content and maturity index for
+   cataloged the 4 – 10 mm coarse-fines. Bence et al.       72501 compared with other lunar soil samples.
+   (1974) and Jolliff et al. (1996) studied several coarse-
+    fines from 72503 (figures 7 and 8).
+
+   Chemistry
+   This is an Al-rich and Fe-poor soil (figure 1), derived
+--- references block 5; lines 21-33 ---
+meters away. 72700 was collected on the other side of             200180
+   Nansen Crater.                                                                          160
+
+                                                                                                        140
+   Petrography                                                                           120                                     72501                                        C
+                                                                                                        100   72501 is one of the soils that Papike et al. (1982)  ppm
+   considered a “reference” soil.  It is a mature soil with               80
+   maturity index Is/FeO = 81 (Morris 1978), average               60
+   grain size 59 microns (Graf 1992) and high agglutinate               40
+    content. The grain size distribution was determined               20                              Lunar Soils
+   by Butler and King (1974) and Green et al. (1975) and                 0 0          20          40          60          80         100         120
+   the mineralogic mode given by Heiken and McKay                         maturity (Is/FeO)
+   (1974) and Simon et al. (1981).  Meyer (1973)       Figure 2: Carbon content and maturity index for
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 20-33 ---
+Rees and Thode (1974) reported the isotopic
+                                                      composition of sulfur.
+
+                                                 Bogard et al. (1974) and Hubner et al. (1974) reported
+                                                           the rare gas content and isotopic ratios and Wieler et
+         Figure 3: Grain size distribution for 72500 (Graf                                                                          al. (1983) reported rare gas content and isotopic ratios
+         1993, data by McKay).                                                           for mineral separates (plagioclase, pyroxene and
+                                                             agglutinate) from 72501.   ppm. Norris et al. (1983) reported carbon = 109 ppm
+   and nitrogen = 94 ppm in 72501. Most carbon and
+    nitrogen are implanted by the solar wind, and are a
+   measure of soil maturity (figure 2). Goel et al. (1975)
+   found 92 ppm nitrogen.
+
+   Radiogenic age dating
+--- mineralogy block 2; lines 36-45 ---
+technique (figure 10).
+
+
+
+
+
+              Figure 4: Composition of olivine and pyroxene in 72501 (Simon et al. 1981).
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 3; lines 5-36 ---
+Curtis and Wasserburg (1977) determined the isotopic
+                                                                  ratio for Gd to determine the total flux of neutrons.
+
+                                           Other Studies
+                                            Hua et al. (1976) determined the ultraviolet spectra.
+                                                      Durrani and Hwang (1975) produced “glow curves”
+           average grain size = 59 mcirons                                                             for 72501 to compare with samples from different
+                                                       depths in the station 8 trench (figure 11).
+
+                                                       Merlivat (1974) reported the hydrogen content and
+                                                             isotopic ratio of 72501.
+
+                                                            Silver (1974) determined the U, Th and Pb isotope
+                                                    system for 72500 and other Apollo 17 soils.
+
+                                             Rees and Thode (1974) reported the isotopic
+                                                      composition of sulfur.
+
+                                                 Bogard et al. (1974) and Hubner et al. (1974) reported
+                                                           the rare gas content and isotopic ratios and Wieler et
+         Figure 3: Grain size distribution for 72500 (Graf                                                                          al. (1983) reported rare gas content and isotopic ratios
+         1993, data by McKay).                                                           for mineral separates (plagioclase, pyroxene and
+                                                             agglutinate) from 72501.   ppm. Norris et al. (1983) reported carbon = 109 ppm
+   and nitrogen = 94 ppm in 72501. Most carbon and
+    nitrogen are implanted by the solar wind, and are a
+   measure of soil maturity (figure 2). Goel et al. (1975)
+   found 92 ppm nitrogen.
+
+   Radiogenic age dating
+    Particles from 72503 have been dated by Schaeffer
+   and Husain (1974) with the 40Ar/39Ar plateau
+    technique (figure 10).
+--- age block 4; lines 27-40 ---
+agglutinate) from 72501.   ppm. Norris et al. (1983) reported carbon = 109 ppm
+   and nitrogen = 94 ppm in 72501. Most carbon and
+    nitrogen are implanted by the solar wind, and are a
+   measure of soil maturity (figure 2). Goel et al. (1975)
+   found 92 ppm nitrogen.
+
+   Radiogenic age dating
+    Particles from 72503 have been dated by Schaeffer
+   and Husain (1974) with the 40Ar/39Ar plateau
+    technique (figure 10).
+--- treatment block 5; lines 24-36 ---
+the rare gas content and isotopic ratios and Wieler et
+         Figure 3: Grain size distribution for 72500 (Graf                                                                          al. (1983) reported rare gas content and isotopic ratios
+         1993, data by McKay).                                                           for mineral separates (plagioclase, pyroxene and
+                                                             agglutinate) from 72501.   ppm. Norris et al. (1983) reported carbon = 109 ppm
+   and nitrogen = 94 ppm in 72501. Most carbon and
+    nitrogen are implanted by the solar wind, and are a
+   measure of soil maturity (figure 2). Goel et al. (1975)
+   found 92 ppm nitrogen.
+
+   Radiogenic age dating
+    Particles from 72503 have been dated by Schaeffer
+   and Husain (1974) with the 40Ar/39Ar plateau
+    technique (figure 10).
+--- references block 6; lines 30-42 ---
+measure of soil maturity (figure 2). Goel et al. (1975)
+   found 92 ppm nitrogen.
+
+   Radiogenic age dating
+    Particles from 72503 have been dated by Schaeffer
+   and Husain (1974) with the 40Ar/39Ar plateau
+    technique (figure 10).
+
+
+
+
+
+              Figure 4: Composition of olivine and pyroxene in 72501 (Simon et al. 1981).
+
+=== PDF PAGE 3; CATEGORIES: material ===
+--- material block 1; lines 4-16 ---
+72500
+
+
+       rake
+       sample
+        area
+
+=== PDF PAGE 4; CATEGORIES: age,material ===
+--- material block 1; lines 1-7 ---
+Figure 8: Pyroxenes in several particles from soil
+                                                         72500 (Bence et al. 1974).
+
+
+
+                                                                                             1000
+                                                                             72501
+--- age block 2; lines 28-43 ---
+for 72501.
+
+
+
+
+
+         Figure 10: Ar age plateau for coarse-fine particle
+         from 72503 (Schaeffer and Husain 1974).
+
+       Summary of Age Data for 72503
+                                    Ar/Ar
+            Schaeffer et al. 1974        3.96 ± 0.02 b.y.                  Figure 11: Glow curve for Apollo 17 samples
+                                                                (Duranni and Huang 1974).
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 72501.
+                                  LSPET73
+ reference  Laul74              Laul 81   Rhodes74            Philpotts74 Chou76    Brunfelt74   Jolliff96     Miller74 Scoon74
+ weight                              Wiesmann76                                      unpublished
+
+ SiO2 %                        45.2    (a) 45.12   45.17   (b)                                                44.5    45.52    (e)
+ TiO2       1.5     1.7       (a)  1.4     (a) 1.56    1.55    (b)                        1.17     (a)            ~1.7    1.62      (e)
+ Al2O3     20.7   21       (a)  20.1    (a) 20.64   20.63   (b)                         21.3     (a)             20.2    20.52    (e)
+ FeO       8.6     8.6       (a)  9.5     (a) 8.77    8.74    (b)              8.62    (a) 8.46     (a) 8.52     (a) 8.2     8.98      (e)
+ MnO       0.112   0.114    (a)  0.12    (a) 0.11     0.13    (b)              0.125  (a) 0.115    (a)             0.11    0.12      (e)
+ MgO      10     10       (a) 10      (a) 10.08   9.87    (b)                         10.9     (a)             10.4    9.9       (e)
+ CaO       12.6    12.8     (a)  12.5    (a) 12.86   12.84   (b)                         14.8     (a) 13.1     (a) 12.7    12.69    (e)
+ Na2O      0.47    0.49     (a)  0.44    (a) 0.4     0.46    (b)                         0.47     (a) 0.45     (a) 0.54    0.5       (e)
+ K2O       0.16    0.16     (a)  0.17    (a) 0.164            (c )  0.17    (c ) 0.16    (a) 0.17     (a)                     0.17      (e)
+ P2O5                                     0.13    0.15    (b)                                                        0.04      (e)
+ S %                                      0.09    0.06    (b)
+ sum
+
+ Sc ppm    18     18       (a) 20      (a)                              19      (a) 17.7     (a) 18.9     (a)
+ V         45     50       (a) 45      (a)                                       61       (a)
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 72501.
+                                  LSPET73
+ reference  Laul74              Laul 81   Rhodes74            Philpotts74 Chou76    Brunfelt74   Jolliff96     Miller74 Scoon74
+ weight                              Wiesmann76                                      unpublished
+
+ SiO2 %                        45.2    (a) 45.12   45.17   (b)                                                44.5    45.52    (e)
+ TiO2       1.5     1.7       (a)  1.4     (a) 1.56    1.55    (b)                        1.17     (a)            ~1.7    1.62      (e)
+ Al2O3     20.7   21       (a)  20.1    (a) 20.64   20.63   (b)                         21.3     (a)             20.2    20.52    (e)
+ FeO       8.6     8.6       (a)  9.5     (a) 8.77    8.74    (b)              8.62    (a) 8.46     (a) 8.52     (a) 8.2     8.98      (e)
+--- references block 3; lines 65-74 ---
+Os ppb
+  Ir ppb     8      10       (a)                                        9       (a)             7.9      (a)
+ Pt ppb
+ Au ppb    4      5         (a)                                               5.5     (a)             3.8      (a)
+ Th ppm    2.9    3         (a)  3       (a) 3.14              (c )              2.8     (a) 2.24     (a) 3        (a)
+ U ppm     1      1         (a)  1       (a) 0.87              (c )                        0.75     (a) 0.82     (a)
+ technique:  (a) INAA, (b) XRF, (c ) IDMS, (d) RNAA, (e) wet
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 6; CATEGORIES: age,material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 47-59 ---
+Butler J.C. and King E.A. (1974) Analysis of the grain size-   Proc. 5th Lunar Sci. Conf. 2643-2662.
+    frequency distributions of lunar fines. Proc. 5th Lunar Sci.
+    Conf. 829-841.                                         Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+                                                           Reference Pub. 1265, March 1993
+   Chou C.-L. and Pearce G.W. (1976) Relationship between
+    nickel and metallic iron contents of Apollo 16 and 17 soils.  Green G.M., King D.T., Banholzer G.S. and King E.A. (1975)
+    Proc. 7th Lunar Sci. Conf. 779-789.                        Size and modal analysis of fines and ultrafines from some
+                                                         Apollo 17 samples. Proc. 6th Lunar Sci. Conf. 517-527.
+    Curtis D.B. and Wasserburg G.J.  (1977)  Transport and
+    erosional processes in the Taurus-Littrow Valley – Inferences  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+    from neutron fluences in lunar soils. Proc. 8th Lunar Sci.
+    Conf. 3045-3057.                                    Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+                                                       Space Phys. 13, 567-587.
+--- material block 2; lines 3-20 ---
+< 1 mm                         reserve
+
+                     72500     72501             72502   72503    72504         72505
+                       325.5 g    687.2               24.13 g   12.94 g    7.96 g          3.09 g
+
+                                                        1 - 2 mm   2 - 4 mm   4 - 10 mm          green-grey
+                                                                                                                 breccia frag
+                  ,0       ,66     ,83    ,84     ,85     ,86
+              489 g   17 g   17 g   17 g   17 g   15 g
+
+
+                                                                            72535 - breccia - 221 g
+                                                                            72536 - 52 g
+                                                                 same bag
+                                 C Meyer  72530                         72537 - 5 g
+                                          2010    18 g                           72538 - 11 g
+                                                                            72539 - 11 g
+                                                                            72545 - 4 g
+--- material block 3; lines 26-66 ---
+72555 - 10.5 g
+                                                                            72556 - 3.8 g
+                                                                            72557 - 4.5 g
+   References for 72501                                                      72558 - 5.7 g
+    Bence A.E., Delano J.W., Papike J.J. and Cameron K.L.                            72559 - 28 g - feldspathic
+    (1974) Petrology of the highlands massifs at Taurus-Littrow:
+   An analysis of the 2-4 mm soil fraction. Proc. 5th Lunar
+     Sci. Conf. 785-827.                                  Durrani   S.A.   and  Hwang   F.S.W.   (1975)
+                                                      Thermoluminescence and thermal environment of some
+    Bogard D.D., Hirsch W.C. and Nyquist L.E. (1974) Noble   Apollo 17 fines. Proc. 5th Lunar Sci. Conf. 2689-2702.
+    gases in Apollo 17 fines: Mass fractionation effects in
+    trapped Xe and Kr. Proc. 5th Lunar Sci. Conf. 1975-2003.  Garg A.N. and Ehmann W.N. (1976a) Zr-Hf fractionation
+                                                                    in chemically defined lunar rock groups. Proc. 7th Lunar
+    Brunfelt A.O., Heier K.S., Nilssen B., Steinnes E. and   Sci. Conf. 3397-3410.
+    Sundvoll B. (1974)  Elemental composition of Apollo 17
+     fines and rocks. Proc. 5th Lunar Sci. Conf. 981-990.       Goel P.S., Shukla P.N., Kothari B.K. and Garg A.N. (1975)
+                                                                 Total nitrogen in lunar soils, breccias, and rocks. Geochim.
+    Butler P. (1973) Lunar Sample Information Catalog Apollo  Cosmochim. Acta 39, 1347-1352.
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+    Catalog. pp. 447.                                 Goswami J.N. and Lal D. (1974) Cosmic ray irradiation at
+                                                                 the Apollo 17 site: Implications to Lunar regolith dynamics.
+    Butler J.C. and King E.A. (1974) Analysis of the grain size-   Proc. 5th Lunar Sci. Conf. 2643-2662.
+    frequency distributions of lunar fines. Proc. 5th Lunar Sci.
+    Conf. 829-841.                                         Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+                                                           Reference Pub. 1265, March 1993
+   Chou C.-L. and Pearce G.W. (1976) Relationship between
+    nickel and metallic iron contents of Apollo 16 and 17 soils.  Green G.M., King D.T., Banholzer G.S. and King E.A. (1975)
+    Proc. 7th Lunar Sci. Conf. 779-789.                        Size and modal analysis of fines and ultrafines from some
+                                                         Apollo 17 samples. Proc. 6th Lunar Sci. Conf. 517-527.
+    Curtis D.B. and Wasserburg G.J.  (1977)  Transport and
+    erosional processes in the Taurus-Littrow Valley – Inferences  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+    from neutron fluences in lunar soils. Proc. 8th Lunar Sci.
+    Conf. 3045-3057.                                    Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+                                                       Space Phys. 13, 567-587.
+   Des Marais D.J., Basu A., Hayes J.M. and Meinschein W.G.
+    (1975) Evolution of carbon isotopes, agglutinates, and the  Heiken G.H. and McKay D.S. (1974) Petrology of Apollo
+    lunar regolith. Proc. 6th Lunar Sci. Conf. 2353-2373.      17 soils. Proc. 5th Lunar Sci. Conf. 843-860.
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 4; lines 39-51 ---
+Brunfelt A.O., Heier K.S., Nilssen B., Steinnes E. and   Sci. Conf. 3397-3410.
+    Sundvoll B. (1974)  Elemental composition of Apollo 17
+     fines and rocks. Proc. 5th Lunar Sci. Conf. 981-990.       Goel P.S., Shukla P.N., Kothari B.K. and Garg A.N. (1975)
+                                                                 Total nitrogen in lunar soils, breccias, and rocks. Geochim.
+    Butler P. (1973) Lunar Sample Information Catalog Apollo  Cosmochim. Acta 39, 1347-1352.
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+    Catalog. pp. 447.                                 Goswami J.N. and Lal D. (1974) Cosmic ray irradiation at
+                                                                 the Apollo 17 site: Implications to Lunar regolith dynamics.
+    Butler J.C. and King E.A. (1974) Analysis of the grain size-   Proc. 5th Lunar Sci. Conf. 2643-2662.
+    frequency distributions of lunar fines. Proc. 5th Lunar Sci.
+    Conf. 829-841.                                         Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+                                                           Reference Pub. 1265, March 1993
+   Chou C.-L. and Pearce G.W. (1976) Relationship between
+--- treatment block 5; lines 26-51 ---
+72555 - 10.5 g
+                                                                            72556 - 3.8 g
+                                                                            72557 - 4.5 g
+   References for 72501                                                      72558 - 5.7 g
+    Bence A.E., Delano J.W., Papike J.J. and Cameron K.L.                            72559 - 28 g - feldspathic
+    (1974) Petrology of the highlands massifs at Taurus-Littrow:
+   An analysis of the 2-4 mm soil fraction. Proc. 5th Lunar
+     Sci. Conf. 785-827.                                  Durrani   S.A.   and  Hwang   F.S.W.   (1975)
+                                                      Thermoluminescence and thermal environment of some
+    Bogard D.D., Hirsch W.C. and Nyquist L.E. (1974) Noble   Apollo 17 fines. Proc. 5th Lunar Sci. Conf. 2689-2702.
+    gases in Apollo 17 fines: Mass fractionation effects in
+    trapped Xe and Kr. Proc. 5th Lunar Sci. Conf. 1975-2003.  Garg A.N. and Ehmann W.N. (1976a) Zr-Hf fractionation
+                                                                    in chemically defined lunar rock groups. Proc. 7th Lunar
+    Brunfelt A.O., Heier K.S., Nilssen B., Steinnes E. and   Sci. Conf. 3397-3410.
+    Sundvoll B. (1974)  Elemental composition of Apollo 17
+     fines and rocks. Proc. 5th Lunar Sci. Conf. 981-990.       Goel P.S., Shukla P.N., Kothari B.K. and Garg A.N. (1975)
+                                                                 Total nitrogen in lunar soils, breccias, and rocks. Geochim.
+    Butler P. (1973) Lunar Sample Information Catalog Apollo  Cosmochim. Acta 39, 1347-1352.
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+    Catalog. pp. 447.                                 Goswami J.N. and Lal D. (1974) Cosmic ray irradiation at
+                                                                 the Apollo 17 site: Implications to Lunar regolith dynamics.
+    Butler J.C. and King E.A. (1974) Analysis of the grain size-   Proc. 5th Lunar Sci. Conf. 2643-2662.
+    frequency distributions of lunar fines. Proc. 5th Lunar Sci.
+    Conf. 829-841.                                         Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+                                                           Reference Pub. 1265, March 1993
+   Chou C.-L. and Pearce G.W. (1976) Relationship between
+--- references block 6; lines 23-35 ---
+14.3 g   3.8 g
+                                                                            72548 - 29 g
+                                                                            72549 - 21 g
+                                                                            72555 - 10.5 g
+                                                                            72556 - 3.8 g
+                                                                            72557 - 4.5 g
+   References for 72501                                                      72558 - 5.7 g
+    Bence A.E., Delano J.W., Papike J.J. and Cameron K.L.                            72559 - 28 g - feldspathic
+    (1974) Petrology of the highlands massifs at Taurus-Littrow:
+   An analysis of the 2-4 mm soil fraction. Proc. 5th Lunar
+     Sci. Conf. 785-827.                                  Durrani   S.A.   and  Hwang   F.S.W.   (1975)
+                                                      Thermoluminescence and thermal environment of some
+    Bogard D.D., Hirsch W.C. and Nyquist L.E. (1974) Noble   Apollo 17 fines. Proc. 5th Lunar Sci. Conf. 2689-2702.
+--- references block 7; lines 44-56 ---
+17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+    Catalog. pp. 447.                                 Goswami J.N. and Lal D. (1974) Cosmic ray irradiation at
+                                                                 the Apollo 17 site: Implications to Lunar regolith dynamics.
+    Butler J.C. and King E.A. (1974) Analysis of the grain size-   Proc. 5th Lunar Sci. Conf. 2643-2662.
+    frequency distributions of lunar fines. Proc. 5th Lunar Sci.
+    Conf. 829-841.                                         Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+                                                           Reference Pub. 1265, March 1993
+   Chou C.-L. and Pearce G.W. (1976) Relationship between
+    nickel and metallic iron contents of Apollo 16 and 17 soils.  Green G.M., King D.T., Banholzer G.S. and King E.A. (1975)
+    Proc. 7th Lunar Sci. Conf. 779-789.                        Size and modal analysis of fines and ultrafines from some
+                                                         Apollo 17 samples. Proc. 6th Lunar Sci. Conf. 517-527.
+    Curtis D.B. and Wasserburg G.J.  (1977)  Transport and
+    erosional processes in the Taurus-Littrow Valley – Inferences  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+
+=== PDF PAGE 7; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 18-45 ---
+volatile elements in grain-size fractions of Apollo 17 soils
+   75081, 72461 and 72501. Proc. 8th Lunar Sci. Conf. 3901-   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   3916.                                            Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+                                                                  Office, Houston
+   Laul J.C., Hill D.W. and Schmitt R.A. (1974)  Chemical
+    studies of Apollo 16 and 17 samples. Proc. 5th Lunar Sci.   Morris R.V. (1978) The surface exposure (maturity) of lunar
+    Conf. 1047-1066.                                                 soils: Some concepts and Is/FeO compilation. Proc. 9th
+                                                      Lunar Sci. Conf. 2287-2297.
+   Laul J.C. and Schmitt R.A. (1974a) Chemical composition
+    of boulder-2 rocks and soils, Apollo 17, Station 2. Earth  Moynier F., Albarede F. and Herzog G.F. (2006)  Isotopic
+    Planet. Sci. Lett. 23, 206-219.                            composition of zinc, copper, and iron in lunar samples.
+                                                      Geochim. Cosmochim. Acta 70, 6103-6117.
+   Laul J.C., Papike J.J. and Simon S.B. (1981) The lunar
+    regolith: Comparative studies of the Apollo and Luna 16,   Müller O. (1974a)  Solar wind nitrogen and indigenous
+   20 and 24. Proc. 12th Lunar Planet. Sci. Conf. 389-407.     nitrogen in Apollo 17 lunar samples. Proc. 5th Lunar Sci.
+                                                            Conf. 1907-1918.
+   LSPET (1973a) Apollo 17 lunar samples : Chemical and
+    petrographic description. Science 182, 659-690.           Müller O. (1974b) Solar wind and indigenous nitrogen in
+                                                          Apollo 17 lunar samples (abs). Lunar Sci. V, 534-536. Lunar
+   LSPET (1973c) Preliminary examination of lunar samples.   Planetary Institute, Houston.
+   Apollo 17 Preliminary Science Report. NASA SP-330, 7-
+   1—7-46.                                              Müller O. (1975)  Lithophile trace and major elements in
+                                                         Apollo 16 and 17 lunar samples. Proc. 6th Lunar Sci. Conf.
+   McKay D.S., Fruland R.M. and Heiken G.H. (1974) Grain   1303-1312.
+    size and the evolution of lunar soils. Proc. 5th Lunar Sci.
+    Conf. 887-906.                                             Norris S.J., Swart P.K., Wright I.P., Grady M.M. and Pillinger
+                                                              C.T. (1983) A search for a correlatable, isotopically light
+   Merlivat L., Lelu M., Nief G. and Roth E. (1974a)   carbon and nitrogen components in lunar soils and breccias.
+--- mineralogy block 2; lines 44-56 ---
+C.T. (1983) A search for a correlatable, isotopically light
+   Merlivat L., Lelu M., Nief G. and Roth E. (1974a)   carbon and nitrogen components in lunar soils and breccias.
+   Deuterium, hydrogen, and water content of lunar material.   Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys. Res. 88,
+    Proc. 5th Lunar Sci. Conf. 1885-1895.                  B200-B210.
+
+   Meyer C. (1973) Apollo 17 Coarse Fines (4-10 mm) Sample   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    Location, Classification and Photo Index. Curator Report.   regolith: Chemistry, Mineralogy and Petrology.  Rev.
+    pp. 182.                                              Geophys. Space Phys. 20, 761-826.
+
+    Miller M.D., Pacer R.A., Ma M.-S., Hawke B.R., Lookhart   Philpotts J.A., Schuhmann S., Kouns C.W., Lum R.K.L. and
+    G.L. and Ehmann W.D. (1974)  Compositional studies of  Winzer S. (1974) Origin of Apollo 17 rocks and soils. Proc.
+    the lunar regolith at the Apollo 17 site. Proc. 5th Lunar Sci.    5th Lunar Sci. Conf. 1255-1267.
+    Conf. 1079-1086.
+--- material block 3; lines 1-18 ---
+Housley R.M., Cirlin E.H., Paton N.E. and Goldberg I.B.   Mitchell J.K., Carrier W.D., Costes N.C., Houston W.N.,
+    (1974) Solar wind and micrometeorite alteration of the lunar   Scott R.F. and Hovland H.J. (1973) 8. Soil-Mechanics. In
+    reolith. Proc. 5th Lunar Sci. Conf. 2623-2642.             Apollo 17 Preliminary Science Rpt. NASA SP-330. pages
+                                                               8-1-22.
+   Hubner W., Kirsten T and Kiko J. (1975)  Rare gases in
+   Apollo 17 soils with emphasis on analysis of size and mineral  Moore C.B., Lewis C.F. and Cripe J.D. (1974a) Total carbon
+    fractions of soil 74241. Proc. 6th Lunar Sci. Conf. 2009-  and sulfur contents of Apollo 17 lunar samples. Proc. 5th
+   2026.                                              Lunar Sci. Conf. 1897-1906.
+
+     Jolliff B.L., Rockow K.M., Korotev R.L. and Haskin L.A.  Moore C.B., Lewis C.F., Cripe J.D. and Volk M. (1974b)
+    (1996) Lithologic distributions and geologic history of the   Total carbon and sulfur contents of Apollo 17 lunar samples
+   Apollo 17 site: The record in soils and small rock particles   (abs). Lunar Sci. V, 520-522. Lunar Planetary Institute,
+   from the highlands massifs. Meteor. & Planet. Sci. 31, 116-   Houston.
+    145.
+                                                          Morris R.V. (1976) Surface exposure indicies of lunar soils:
+   Krahenbuhl U., Grutter A., von Gunten H.R., Meyer G.,  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-
+   Wegmuller F. and Wyttenbach A. (1977) Volatile and non-   335.
+    volatile elements in grain-size fractions of Apollo 17 soils
+--- material block 4; lines 25-37 ---
+Lunar Sci. Conf. 2287-2297.
+   Laul J.C. and Schmitt R.A. (1974a) Chemical composition
+    of boulder-2 rocks and soils, Apollo 17, Station 2. Earth  Moynier F., Albarede F. and Herzog G.F. (2006)  Isotopic
+    Planet. Sci. Lett. 23, 206-219.                            composition of zinc, copper, and iron in lunar samples.
+                                                      Geochim. Cosmochim. Acta 70, 6103-6117.
+   Laul J.C., Papike J.J. and Simon S.B. (1981) The lunar
+    regolith: Comparative studies of the Apollo and Luna 16,   Müller O. (1974a)  Solar wind nitrogen and indigenous
+   20 and 24. Proc. 12th Lunar Planet. Sci. Conf. 389-407.     nitrogen in Apollo 17 lunar samples. Proc. 5th Lunar Sci.
+                                                            Conf. 1907-1918.
+   LSPET (1973a) Apollo 17 lunar samples : Chemical and
+    petrographic description. Science 182, 659-690.           Müller O. (1974b) Solar wind and indigenous nitrogen in
+                                                          Apollo 17 lunar samples (abs). Lunar Sci. V, 534-536. Lunar
+   LSPET (1973c) Preliminary examination of lunar samples.   Planetary Institute, Houston.
+--- material block 5; lines 44-59 ---
+C.T. (1983) A search for a correlatable, isotopically light
+   Merlivat L., Lelu M., Nief G. and Roth E. (1974a)   carbon and nitrogen components in lunar soils and breccias.
+   Deuterium, hydrogen, and water content of lunar material.   Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys. Res. 88,
+    Proc. 5th Lunar Sci. Conf. 1885-1895.                  B200-B210.
+
+   Meyer C. (1973) Apollo 17 Coarse Fines (4-10 mm) Sample   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    Location, Classification and Photo Index. Curator Report.   regolith: Chemistry, Mineralogy and Petrology.  Rev.
+    pp. 182.                                              Geophys. Space Phys. 20, 761-826.
+
+    Miller M.D., Pacer R.A., Ma M.-S., Hawke B.R., Lookhart   Philpotts J.A., Schuhmann S., Kouns C.W., Lum R.K.L. and
+    G.L. and Ehmann W.D. (1974)  Compositional studies of  Winzer S. (1974) Origin of Apollo 17 rocks and soils. Proc.
+    the lunar regolith at the Apollo 17 site. Proc. 5th Lunar Sci.    5th Lunar Sci. Conf. 1255-1267.
+    Conf. 1079-1086.
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 6; lines 17-29 ---
+Wegmuller F. and Wyttenbach A. (1977) Volatile and non-   335.
+    volatile elements in grain-size fractions of Apollo 17 soils
+   75081, 72461 and 72501. Proc. 8th Lunar Sci. Conf. 3901-   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   3916.                                            Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+                                                                  Office, Houston
+   Laul J.C., Hill D.W. and Schmitt R.A. (1974)  Chemical
+    studies of Apollo 16 and 17 samples. Proc. 5th Lunar Sci.   Morris R.V. (1978) The surface exposure (maturity) of lunar
+    Conf. 1047-1066.                                                 soils: Some concepts and Is/FeO compilation. Proc. 9th
+                                                      Lunar Sci. Conf. 2287-2297.
+   Laul J.C. and Schmitt R.A. (1974a) Chemical composition
+    of boulder-2 rocks and soils, Apollo 17, Station 2. Earth  Moynier F., Albarede F. and Herzog G.F. (2006)  Isotopic
+    Planet. Sci. Lett. 23, 206-219.                            composition of zinc, copper, and iron in lunar samples.
+                                                      Geochim. Cosmochim. Acta 70, 6103-6117.
+
+=== PDF PAGE 8; CATEGORIES: material ===
+--- material block 1; lines 5-17 ---
+Rees C.E. and Thode H.G. (1974a) Sulfur concentrations
+    and isotope ratios in Apollo 16 and 17 samples. Proc. 5th
+    Lunar Sci. Conf. 1963-1973.
+
+    Rhodes J.M., Rodgers K.V., Shih C., Bansal B.M., Nyquist
+    L.E., Wiesmann H. and Hubbard N.J. (1974) The
+    relationships between geology and soil chemistry at the
+    Apollo 17 landing site. Proc. 5th Lunar Sci. Conf. 1097-
+    1117.
+
+    Schaeffer O.A. and Husain L. (1974) Chronology of lunar
+    basin formation. Proc. 5th Lunar Sci. Conf. 1541-1555.
+--- material block 2; lines 25-43 ---
+Silver L.T. (1974) Patterns for U, Th, Pb distributions and
+    isotopic relationships in Apollo 17 soils (abs). Lunar Sci.
+    V, 706-708.
+
+   Simon S.B., Papike J.J. and Laul J.C. (1981) The lunar
+     regolith: Comparative studies of the Apollo and Luna sites.
+    Proc. 12th Lunar Planet. Sci. Conf. 371-388.
+
+    Wieler R., Etique P., Signer P. and Poupean G. (1983)
+    Decrease of the solar flare/solar wind flux ratio in the past
+    several aeons deduced from solar neon and tracks in lunar
+     soil plagioclases. Proc. 13th Lunar Planet. Sci. Conf. in J.
+    Geophys. Res. A713 -A724.
+
+   Wiesmann H. and Hubbard N.J. (1975) A compilation of
+    the Lunar Sample Data Generated by the Gast, Nyquist and
+    Hubbard Lunar Sample PI-Ships. Unpublished. JSC

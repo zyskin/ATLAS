@@ -1,0 +1,436 @@
+DOCUMENT_ID: 15291__compendium__6224153490
+ATLAS_SAMPLE_IDS: 15291
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15291.pdf
+SOURCE_PDF_SHA256: c7f16257975b5b1075277f37c7e9497af5ceb54d8731303cba27d3327e7bc5c0
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 8-49 ---
+25
+                                                                               20                      Apollo soils
+
+
+                                                                               15
+                                FeO
+
+                                                                               10
+
+
+                                                                                  5
+
+
+                                                                                  0
+                                                                                   0       5      10      15      20      25      30      35
+                                                            Al2O3
+                                                                Figure 1: Chemical composition of 15291 com-
+  Introduction                                                              pared with other Apollo soils.
+  15291 is the soil collected with 15295 (a large breccia)
+   at station 6, on the Apennine Front. This soil should             200
+  be similar to 15271 collected nearby.                                        180
+
+                                                                                                       160
+
+                                                                                                       140  Petrography
+                                                                                                       120
+  The       maturity                index                                  of                              15291                                                       is                                        68  C                        (Is/FeO)
+                                                                                                       100                              15291                                           ppm  (mature)(Morris                     et                          al. 1978)                         and the                                  average                                             grain                                                     size
+   is very fine (56 microns). The grain size distribution              80
+  indicates that some fragments may have broken off of              6040
+  the large rock (figure 4).                                                            20                                                                                           Lunar Soils
+
+                                                                                                                    0
+  Morris et al. (1983) report a mineral mode determined                   0          20          40           60          80          100         120
+  by Heiken and McKay.                                                         maturity (Is/FeO)
+
+                                                                Figure 2: The carbon content and matruity index
+                                                                         for 15291 (Moore et al. 1973, Morris 1978)..
+
+
+       Modal content of soils 15291.                                              Powell (1972) and Ryder and Sherman (1989)
+--- mineralogy block 2; lines 36-65 ---
+100                              15291                                           ppm  (mature)(Morris                     et                          al. 1978)                         and the                                  average                                             grain                                                     size
+   is very fine (56 microns). The grain size distribution              80
+  indicates that some fragments may have broken off of              6040
+  the large rock (figure 4).                                                            20                                                                                           Lunar Soils
+
+                                                                                                                    0
+  Morris et al. (1983) report a mineral mode determined                   0          20          40           60          80          100         120
+  by Heiken and McKay.                                                         maturity (Is/FeO)
+
+                                                                Figure 2: The carbon content and matruity index
+                                                                         for 15291 (Moore et al. 1973, Morris 1978)..
+
+
+       Modal content of soils 15291.                                              Powell (1972) and Ryder and Sherman (1989)
+       From Morris et al. 1983                                                       cataloged the coarse-fine particles. Laul et al. (1987)
+                                                         studied an impact melt rock from 15294 (table 1).          Agglutinates    16 5
+          Basalt         8
+          Breccia        32                      Chemistry
+          Anorthosite     4                                 Cuttitta et al. (1972), Brunfelt et al. (1972), Korotev
+          Norite                                       (1987) and others have determined the composition of
+         Gabbro                                15291 (figure 1 and 3).   It has the same dominat
+          Plagioclase     12                        KREEP-like rare-earth element pattern as other soils
+         Pyroxene       12                                                 from the Apennine Front. The carbon content of 15291
+          Olivine        2                                             was determined by Moore et al. (1973) as 105 ppm C
+         Green glass     3
+                                                            (figure 2).        Brown glass    2
+          Glass other     5
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 3; lines 1-8 ---
+15291
+                                           Soil
+                                         246.3 grams
+--- material block 4; lines 21-59 ---
+0
+                                                                                   0       5      10      15      20      25      30      35
+                                                            Al2O3
+                                                                Figure 1: Chemical composition of 15291 com-
+  Introduction                                                              pared with other Apollo soils.
+  15291 is the soil collected with 15295 (a large breccia)
+   at station 6, on the Apennine Front. This soil should             200
+  be similar to 15271 collected nearby.                                        180
+
+                                                                                                       160
+
+                                                                                                       140  Petrography
+                                                                                                       120
+  The       maturity                index                                  of                              15291                                                       is                                        68  C                        (Is/FeO)
+                                                                                                       100                              15291                                           ppm  (mature)(Morris                     et                          al. 1978)                         and the                                  average                                             grain                                                     size
+   is very fine (56 microns). The grain size distribution              80
+  indicates that some fragments may have broken off of              6040
+  the large rock (figure 4).                                                            20                                                                                           Lunar Soils
+
+                                                                                                                    0
+  Morris et al. (1983) report a mineral mode determined                   0          20          40           60          80          100         120
+  by Heiken and McKay.                                                         maturity (Is/FeO)
+
+                                                                Figure 2: The carbon content and matruity index
+                                                                         for 15291 (Moore et al. 1973, Morris 1978)..
+
+
+       Modal content of soils 15291.                                              Powell (1972) and Ryder and Sherman (1989)
+       From Morris et al. 1983                                                       cataloged the coarse-fine particles. Laul et al. (1987)
+                                                         studied an impact melt rock from 15294 (table 1).          Agglutinates    16 5
+          Basalt         8
+          Breccia        32                      Chemistry
+          Anorthosite     4                                 Cuttitta et al. (1972), Brunfelt et al. (1972), Korotev
+          Norite                                       (1987) and others have determined the composition of
+         Gabbro                                15291 (figure 1 and 3).   It has the same dominat
+          Plagioclase     12                        KREEP-like rare-earth element pattern as other soils
+         Pyroxene       12                                                 from the Apennine Front. The carbon content of 15291
+          Olivine        2                                             was determined by Moore et al. (1973) as 105 ppm C
+--- treatment block 5; lines 29-49 ---
+be similar to 15271 collected nearby.                                        180
+
+                                                                                                       160
+
+                                                                                                       140  Petrography
+                                                                                                       120
+  The       maturity                index                                  of                              15291                                                       is                                        68  C                        (Is/FeO)
+                                                                                                       100                              15291                                           ppm  (mature)(Morris                     et                          al. 1978)                         and the                                  average                                             grain                                                     size
+   is very fine (56 microns). The grain size distribution              80
+  indicates that some fragments may have broken off of              6040
+  the large rock (figure 4).                                                            20                                                                                           Lunar Soils
+
+                                                                                                                    0
+  Morris et al. (1983) report a mineral mode determined                   0          20          40           60          80          100         120
+  by Heiken and McKay.                                                         maturity (Is/FeO)
+
+                                                                Figure 2: The carbon content and matruity index
+                                                                         for 15291 (Moore et al. 1973, Morris 1978)..
+
+
+       Modal content of soils 15291.                                              Powell (1972) and Ryder and Sherman (1989)
+
+=== PDF PAGE 2; CATEGORIES: age,material,references,treatment ===
+--- material block 1; lines 1-40 ---
+Figure 3: Normalized rare-earth-element diagram
+         for 15291 (Korotev 1987).
+
+
+                                                                 Figure 5: Ar/Ar plateau diagrams for an impact
+                                                                   melt breccia from the coarse fine fraction of 15290
+                                                               (Dalrymple and Ryder 1993).
+
+
+
+                                           Summary of Age Data for 15294
+                                                                                           Ar/Ar
+                                                                 Dalrymple and Ryder 1991  3875 ± 16 m.y.
+                                                                                      3864 ± 17 m.y.
+
+
+                                                  Walker and Papike (1981) calculate that 15291 is made
+                                                up of 30 % KREEP and 30 % mare basalt.
+           Average grain size = 56 microns
+
+                                              Radiogenic age dating
+                                                  Dalrymple and Ryder (1991, 1993) determined the age
+                                                         of an impact melt rock found in the coarse-fines using
+                                                          the Ar/Ar dating technique (figure 5); concluding that
+                                                                  this was the age of Imbrium!
+
+                                           Other Studies
+                                                Bogard and Nyquist (1973) determined the rare gas
+                                                        content and isotopic ratios for 15291.
+
+                                                Processing
+                                             Sample 15290 was returned in SCB#3 placed in
+                                       ALSRC#2 (which did not seal).
+       Figure 4: Grain size distribution of 15290 (Graf
+       1993)
+--- age block 2; lines 5-31 ---
+Figure 5: Ar/Ar plateau diagrams for an impact
+                                                                   melt breccia from the coarse fine fraction of 15290
+                                                               (Dalrymple and Ryder 1993).
+
+
+
+                                           Summary of Age Data for 15294
+                                                                                           Ar/Ar
+                                                                 Dalrymple and Ryder 1991  3875 ± 16 m.y.
+                                                                                      3864 ± 17 m.y.
+
+
+                                                  Walker and Papike (1981) calculate that 15291 is made
+                                                up of 30 % KREEP and 30 % mare basalt.
+           Average grain size = 56 microns
+
+                                              Radiogenic age dating
+                                                  Dalrymple and Ryder (1991, 1993) determined the age
+                                                         of an impact melt rock found in the coarse-fines using
+                                                          the Ar/Ar dating technique (figure 5); concluding that
+                                                                  this was the age of Imbrium!
+
+                                           Other Studies
+                                                Bogard and Nyquist (1973) determined the rare gas
+                                                        content and isotopic ratios for 15291.
+
+                                                Processing
+--- treatment block 3; lines 1-12 ---
+Figure 3: Normalized rare-earth-element diagram
+         for 15291 (Korotev 1987).
+
+
+                                                                 Figure 5: Ar/Ar plateau diagrams for an impact
+                                                                   melt breccia from the coarse fine fraction of 15290
+                                                               (Dalrymple and Ryder 1993).
+
+
+
+                                           Summary of Age Data for 15294
+                                                                                           Ar/Ar
+--- references block 4; lines 18-30 ---
+up of 30 % KREEP and 30 % mare basalt.
+           Average grain size = 56 microns
+
+                                              Radiogenic age dating
+                                                  Dalrymple and Ryder (1991, 1993) determined the age
+                                                         of an impact melt rock found in the coarse-fines using
+                                                          the Ar/Ar dating technique (figure 5); concluding that
+                                                                  this was the age of Imbrium!
+
+                                           Other Studies
+                                                Bogard and Nyquist (1973) determined the rare gas
+                                                        content and isotopic ratios for 15291.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 15291.
+                                                                                  15294,20
+    reference  Korotev87  Cuttitta72    Juan72                        Brunfelt72          Laul87
+    weight                                                                             Impact melt
+    SiO2 %               47.21     (b) 47.6     47.3    47.4     (c )
+    TiO2      1.44       1.44       (b) 1.58     1.65    1.54     (c ) 1.35    (a)         1         (a)
+    Al2O3     16.4       16.4       (b) 16.3     17.2    16.51   (c ) 16.1    (a)          19.3      (a)
+   FeO       11.9    (a)  11.75     (b) 12.25   12.8    12.5     (c ) 11.45   (a)           7.8       (a)
+   MnO      0.17    (a)  0.17       (b) 0.16    0.156   0.16     (c ) 0.152   (a)           0.1       (a)
+   MgO      10.2    (a) 10.25     (b) 10.14   10.24   19.14   (c )                     21.5      (a)
+   CaO       11.1    (a)  11.47     (b) 11.18    9.48    10.88   (c ) 11.9    (a)           9.4       (a)
+   Na2O     0.47    (a)  0.53       (b) 0.45     0.45    0.41     (c ) 0.44    (a)          0.36      (a)
+   K2O                  0.21       (b) 0.238   0.133   0.236   (c )                     0.14      (a)
+   P2O5                 0.25       (b)
+   S %
+   sum
+
+   Sc ppm    23.7    (a) 24         (b)                              22.3    (a)         13        (a)
+   V        85      (a) 103       (b)                           140     (a)         50        (a)
+--- material block 2; lines 1-10 ---
+Table 1. Chemical composition of 15291.
+                                                                                  15294,20
+    reference  Korotev87  Cuttitta72    Juan72                        Brunfelt72          Laul87
+    weight                                                                             Impact melt
+    SiO2 %               47.21     (b) 47.6     47.3    47.4     (c )
+    TiO2      1.44       1.44       (b) 1.58     1.65    1.54     (c ) 1.35    (a)         1         (a)
+    Al2O3     16.4       16.4       (b) 16.3     17.2    16.51   (c ) 16.1    (a)          19.3      (a)
+   FeO       11.9    (a)  11.75     (b) 12.25   12.8    12.5     (c ) 11.45   (a)           7.8       (a)
+   MnO      0.17    (a)  0.17       (b) 0.16    0.156   0.16     (c ) 0.152   (a)           0.1       (a)
+   MgO      10.2    (a) 10.25     (b) 10.14   10.24   19.14   (c )                     21.5      (a)
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 15291.
+                                                                                  15294,20
+    reference  Korotev87  Cuttitta72    Juan72                        Brunfelt72          Laul87
+    weight                                                                             Impact melt
+    SiO2 %               47.21     (b) 47.6     47.3    47.4     (c )
+    TiO2      1.44       1.44       (b) 1.58     1.65    1.54     (c ) 1.35    (a)         1         (a)
+    Al2O3     16.4       16.4       (b) 16.3     17.2    16.51   (c ) 16.1    (a)          19.3      (a)
+   FeO       11.9    (a)  11.75     (b) 12.25   12.8    12.5     (c ) 11.45   (a)           7.8       (a)
+   MnO      0.17    (a)  0.17       (b) 0.16    0.156   0.16     (c ) 0.152   (a)           0.1       (a)
+--- references block 4; lines 64-73 ---
+Os ppb
+      Ir ppb      6.6     (a)                                              6.4      (a)           3.2       (a)
+    Pt ppb
+   Au ppb    3.2     (a)                                              6.8      (a)           1.8       (a)
+   Th ppm    4.6     (a)                                              3.7      (a)         3         (a)
+   U ppm     1.06    (a)                                            1.13    (a)          0.73      (a)
+    technique:  (a) INAA, (b) “microchemical” and OES, (c ) conventional?
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 4; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 37-49 ---
+returned by the Apollo 15 mission. Proc. 4th Lunar Sci. Conf.
+   1081-1096.                                                Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+                                                         carbon contents of Apollo 15 and 16 lunar samples. Proc.
+   Dalrymple G.B. and Ryder G. (1991) 40Ar/39Ar ages of six                                                                                  4th Lunar Sci. Conf. 1613-1923.
+   Apollo 15 impact melt rocks by laser step heating. Geophys.
+   Res. Lett. 18, 1163-1166.                                                          Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                         soils: Some concepts and Is/FeO compilation.  Proc. 9th
+   Dalrymple G.B. and Ryder G. (1993) 40Ar/39Ar age spectra                                                     Lunar Planet . Sci. Conf. 2287-2298.
+   of Apollo 15 impact melt rocks by laser step-heating and
+    their bearing on the history of lunar basin formation.  J.                                                         Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Geophys. Res. 98, 13,085-13,095.                                                  Handbook of Lunar Soils. JSC 19069
+
+   Engelhardt W.v., Hurrle H. and Luft E. (1976) Microimpact-                                                        Phinney W.C., Warner J ., Simonds C.H. and Lofgren G.E.
+--- mineralogy block 2; lines 44-56 ---
+Dalrymple G.B. and Ryder G. (1993) 40Ar/39Ar age spectra                                                     Lunar Planet . Sci. Conf. 2287-2298.
+   of Apollo 15 impact melt rocks by laser step-heating and
+    their bearing on the history of lunar basin formation.  J.                                                         Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Geophys. Res. 98, 13,085-13,095.                                                  Handbook of Lunar Soils. JSC 19069
+
+   Engelhardt W.v., Hurrle H. and Luft E. (1976) Microimpact-                                                        Phinney W.C., Warner J ., Simonds C.H. and Lofgren G.E.
+   induced changes of textural parameters and modal                                                          (1972) Classification and distribution of rock types at Spur
+   composition of the lunar regolith. Proc. 7th Lunar Sci. Conf.                                                                    Crater. In The Apollo 15 Lunar Samples, 149-153. LPI
+   373-392.
+                                                        Powell B.N. (1972) Apollo 15 Coarse Fines (4-10mm):
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA                                                   Sample classification, description and inventory. MSC
+   Reference Pub. 1265, March 1993                                                    03228 Curator’s Office JSC
+--- material block 3; lines 1-9 ---
+C Meyer
+                                                    15295              2010        15290
+                                                    947 g                    246.3 g                        reserve         < 1 mm                         2 - 4 mm     4 - 10 mm    Breccia
+                                                 1 - 2 mm
+           15290   15291     15292  15293   15294
+           55 g    169 g       5.4 g   6.7 g    10.2 g
+
+              ,0      ,1    ,14    ,15    ,16   ,17   ,18   ,19           14 g         100 g         5 g  5 g  5 g   2 g
+--- material block 4; lines 14-58 ---
+Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+   References for 15291.
+   Bogard D.D. and Nyquist L.E. (1973) 40Ar/36Ar variations                                                      Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+   in Apollo 15 and 16 regolith.  Proc. 4th Lunar Sci. Conf.                                                       Space Phys. 13, 567-587.
+   1975-1986.
+                                                        Korotev R.L. (1987) Mixing levels, the Apennine Front soil
+   Bogard D.D., Hirsch W.C. and Nyquist L.E. (1974) Noble                                                        component, and compositional trends in the Apollo 15 soils.
+   gases in Apollo 17 fine: Mass fractionation effects in trapped                                                             Proc. 17th Lunar Planet. Sci. Conf. E411-431.
+  Xe and Kr. Proc. 5th Lunar Sci. Conf. 1975-2003.
+                                                         Laul J.C., Simon S.B. and Papike J.J. (1988)  Chemistry
+   Brunfelt A.O., Heier K.S., Nilssen B., Steiennes E. and                                                      and petrology of the Apennine Front, Apollo 15, Part II:
+   Sundvoll B. (1972)  Elemental composition of Apollo 15                                                        Impact melt rocks. Proc. 18th Lunar Planet. Sci. Conf. 203-
+   samples. In The Apollo 15 Lunar Samples 195-197. LPI                                                           217. Lunar Planetary Institute, Houston.
+
+   Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’                                             LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+   Office, MSC 03209                                                                  description. Science 175, 363-375.
+
+    Cuttitta F., Rose H.J., Annell C.S., Carron M.K., Christian                                            LSPET (1972b) Preliminary examination of lunar samples.
+    R.P., Ligon D.T., Dwornik E.J., Wright T.L. and Greenland                                                        Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+   L.P. (1973) Chemistry of twenty-one igneous rocks and soils                                                   1—6-28.
+   returned by the Apollo 15 mission. Proc. 4th Lunar Sci. Conf.
+   1081-1096.                                                Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+                                                         carbon contents of Apollo 15 and 16 lunar samples. Proc.
+   Dalrymple G.B. and Ryder G. (1991) 40Ar/39Ar ages of six                                                                                  4th Lunar Sci. Conf. 1613-1923.
+   Apollo 15 impact melt rocks by laser step heating. Geophys.
+   Res. Lett. 18, 1163-1166.                                                          Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                         soils: Some concepts and Is/FeO compilation.  Proc. 9th
+   Dalrymple G.B. and Ryder G. (1993) 40Ar/39Ar age spectra                                                     Lunar Planet . Sci. Conf. 2287-2298.
+   of Apollo 15 impact melt rocks by laser step-heating and
+    their bearing on the history of lunar basin formation.  J.                                                         Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Geophys. Res. 98, 13,085-13,095.                                                  Handbook of Lunar Soils. JSC 19069
+
+   Engelhardt W.v., Hurrle H. and Luft E. (1976) Microimpact-                                                        Phinney W.C., Warner J ., Simonds C.H. and Lofgren G.E.
+   induced changes of textural parameters and modal                                                          (1972) Classification and distribution of rock types at Spur
+   composition of the lunar regolith. Proc. 7th Lunar Sci. Conf.                                                                    Crater. In The Apollo 15 Lunar Samples, 149-153. LPI
+   373-392.
+                                                        Powell B.N. (1972) Apollo 15 Coarse Fines (4-10mm):
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA                                                   Sample classification, description and inventory. MSC
+   Reference Pub. 1265, March 1993                                                    03228 Curator’s Office JSC
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 5; lines 38-50 ---
+1081-1096.                                                Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+                                                         carbon contents of Apollo 15 and 16 lunar samples. Proc.
+   Dalrymple G.B. and Ryder G. (1991) 40Ar/39Ar ages of six                                                                                  4th Lunar Sci. Conf. 1613-1923.
+   Apollo 15 impact melt rocks by laser step heating. Geophys.
+   Res. Lett. 18, 1163-1166.                                                          Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                         soils: Some concepts and Is/FeO compilation.  Proc. 9th
+   Dalrymple G.B. and Ryder G. (1993) 40Ar/39Ar age spectra                                                     Lunar Planet . Sci. Conf. 2287-2298.
+   of Apollo 15 impact melt rocks by laser step-heating and
+    their bearing on the history of lunar basin formation.  J.                                                         Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Geophys. Res. 98, 13,085-13,095.                                                  Handbook of Lunar Soils. JSC 19069
+
+   Engelhardt W.v., Hurrle H. and Luft E. (1976) Microimpact-                                                        Phinney W.C., Warner J ., Simonds C.H. and Lofgren G.E.
+   induced changes of textural parameters and modal                                                          (1972) Classification and distribution of rock types at Spur
+--- treatment block 6; lines 36-48 ---
+L.P. (1973) Chemistry of twenty-one igneous rocks and soils                                                   1—6-28.
+   returned by the Apollo 15 mission. Proc. 4th Lunar Sci. Conf.
+   1081-1096.                                                Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+                                                         carbon contents of Apollo 15 and 16 lunar samples. Proc.
+   Dalrymple G.B. and Ryder G. (1991) 40Ar/39Ar ages of six                                                                                  4th Lunar Sci. Conf. 1613-1923.
+   Apollo 15 impact melt rocks by laser step heating. Geophys.
+   Res. Lett. 18, 1163-1166.                                                          Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                         soils: Some concepts and Is/FeO compilation.  Proc. 9th
+   Dalrymple G.B. and Ryder G. (1993) 40Ar/39Ar age spectra                                                     Lunar Planet . Sci. Conf. 2287-2298.
+   of Apollo 15 impact melt rocks by laser step-heating and
+    their bearing on the history of lunar basin formation.  J.                                                         Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Geophys. Res. 98, 13,085-13,095.                                                  Handbook of Lunar Soils. JSC 19069
+--- references block 7; lines 12-24 ---
+1 g   1 g   1g   1 g
+
+
+
+
+                                                      Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+   References for 15291.
+   Bogard D.D. and Nyquist L.E. (1973) 40Ar/36Ar variations                                                      Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+   in Apollo 15 and 16 regolith.  Proc. 4th Lunar Sci. Conf.                                                       Space Phys. 13, 567-587.
+   1975-1986.
+                                                        Korotev R.L. (1987) Mixing levels, the Apennine Front soil
+   Bogard D.D., Hirsch W.C. and Nyquist L.E. (1974) Noble                                                        component, and compositional trends in the Apollo 15 soils.
+   gases in Apollo 17 fine: Mass fractionation effects in trapped                                                             Proc. 17th Lunar Planet. Sci. Conf. E411-431.
+--- references block 8; lines 49-58 ---
+Engelhardt W.v., Hurrle H. and Luft E. (1976) Microimpact-                                                        Phinney W.C., Warner J ., Simonds C.H. and Lofgren G.E.
+   induced changes of textural parameters and modal                                                          (1972) Classification and distribution of rock types at Spur
+   composition of the lunar regolith. Proc. 7th Lunar Sci. Conf.                                                                    Crater. In The Apollo 15 Lunar Samples, 149-153. LPI
+   373-392.
+                                                        Powell B.N. (1972) Apollo 15 Coarse Fines (4-10mm):
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA                                                   Sample classification, description and inventory. MSC
+   Reference Pub. 1265, March 1993                                                    03228 Curator’s Office JSC
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: material ===
+--- material block 1; lines 17-29 ---
+G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+  Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary
+  Geologic Investigation of the Apollo 15 landing site.  In
+  Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+  5-1-112.
+
+  Walker R.J. and Papike J.J. (1981) The Apollo 15 regolith:
+  Chemical modeling and mare/highland mixing. Proc. 12th
+  Lunar Planet. Sci. Conf. 509-517.

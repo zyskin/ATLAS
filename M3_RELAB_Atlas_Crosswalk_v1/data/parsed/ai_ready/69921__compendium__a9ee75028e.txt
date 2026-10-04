@@ -1,0 +1,574 @@
+DOCUMENT_ID: 69921__compendium__a9ee75028e
+ATLAS_SAMPLE_IDS: 69920,69940,69960
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/69921.pdf
+SOURCE_PDF_SHA256: 33260f05ef811ab1c9e74a7008e72c3b755a152e38731b447088a47c77748ebd
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 10-45 ---
+69940
+
+
+
+
+
+         Figure 1: Soil samples collected from shaded area of small (0.5 m) boulder at station 9, Apollo 16. AS16-107-
+         17562. Area may not be permanently shaded at all sun angles. However, 69960 was collected from under the
+          rock, after it was rolled over, and was thus permanently shaded.
+
+
+                                                             stomp all over it, Charlie, sneak over here and let’s get some of   LMP   We got to get a skim.
+                                                                                this soil.   CDR    Can we skim where the pristine sample was?
+                                            LMP     Yeah, okay. Look at that soil! It’s all cake looking, isn’t   CC     We’d like a skim next to it.
+                                                                                  it? And it looks just like an alkali flat in the cake that under it,   LMP    No, they want it right beside it, right there
+                                                                     Tony. And that’s right from the deepest part. That sample is right   CDR    You can’t see any of that stuff.
+                                                                           in the middle, which happens to be the deepest penetration that   LMP     Yeah, I can see. Okay here we go. Get me a bag ready.
+                                                                       the boulder made. There’s a sackful. (69960 bag 379)   LMP     Tony, I probably got 5 mm on that skim.
+   CDR     That’s going in bag 376? (69920)
+   CDR    Okay. Charlie’s scoop is being taken right under the –   Introduction
+   LMP    You got it. Okay, there you go. That’s going in bag 377,  69920 and 69940 were collected from the shade cast
+    Houston. (69940)                                                by a small boulder (figure 1). 69960 was soil collected
+   CC     We’d like you to get that CSVC. (69001)
+                                                 from under the boulder after is was rolled over. 69920
+           -     - - - - - -
+                                              was called a “skim soil”, because it was collected from   CC     John. Can you turn that over by yourself?
+                                                            the top 1 cm. 69940 was collected beneath 69920. Rock           -     - - - - -
+                                                    samples 69935 and 69955 are from the top and bottom   LMP   He did it, Houston! He did it.
+   CC     So you can not only sneak up on them, you can flip the   of the boulder. 69001 is a special core (CSVC) taken
+    over, huh?                                          nearby (Sutton 1981).
+   CDR     Yeah. That’s a biggie. Man, it looks like it’s been sitting
+    there for quite a while. Look at that soil underneath. Before I
+
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 1-29 ---
+25                                                                                          200
+
+                                                                                                           180
+                                                                                                                    69941           20                      Apollo soils                  160
+                                                                                                           140                                          69961
+           15                                 C       120  FeO                                                                                            100                                                     69921     ppm
+           10                                         69941                      80
+                                                     69961                      60
+
+             5                                                                                                40
+
+                                                                                                                   20                              Lunar Soils
+             0                                                                                                   0
+               0       5      10      15      20      25      30      35                   0           20          40          60          80         100         120
+                     Al2O3                                              maturity (Is/FeO)
+
+              Figure 2: Composition of samples.                       Figure 4: Carbon content and maturity of lunar soils
+                                                            showing Apollo 16 station 9 soils.
+
+                                              Petrography
+                                              These are very mature soils with about 65 %
+                                                              agglutinates, and high carbon and nitrogen contents
+                                                              (figure 4). The maturity index (Is/FeO) determined
+                                                         for 69921, 69941 and 69961 is 90, 85 and 92,
+                                                            respectively (Morris 1988). The grain size distribution
+                                               was determined by Butler et al. (1973)(figure 5).
+
+                                               The mineralogy of 69941 is interesting in that several
+                                                            grains of pyroxene and olivine are very Mg-rich (figure
+--- mineralogy block 2; lines 22-35 ---
+agglutinates, and high carbon and nitrogen contents
+                                                              (figure 4). The maturity index (Is/FeO) determined
+                                                         for 69921, 69941 and 69961 is 90, 85 and 92,
+                                                            respectively (Morris 1988). The grain size distribution
+                                               was determined by Butler et al. (1973)(figure 5).
+
+                                               The mineralogy of 69941 is interesting in that several
+                                                            grains of pyroxene and olivine are very Mg-rich (figure
+
+
+
+
+
+                                                        Average grain size = 100 microns
+--- mineralogy block 3; lines 38-55 ---
+Figure 3: Map of Apollo 16 site with location of
+        69920 etc.
+
+
+       Mineral Mode 69940 (63-125 microns)
+                    LSPET 1972
+         Agglutinates     64%
+         Basalt           1
+         Anorthosite      1
+         Breccias         14
+          Plagioclase       7
+        Pyroxene 2                                                  Figure 5a: Grain size distribution for 69941
+         Glass           10                                             (Butler et al. 1973).
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 4; lines 19-55 ---
+Petrography
+                                              These are very mature soils with about 65 %
+                                                              agglutinates, and high carbon and nitrogen contents
+                                                              (figure 4). The maturity index (Is/FeO) determined
+                                                         for 69921, 69941 and 69961 is 90, 85 and 92,
+                                                            respectively (Morris 1988). The grain size distribution
+                                               was determined by Butler et al. (1973)(figure 5).
+
+                                               The mineralogy of 69941 is interesting in that several
+                                                            grains of pyroxene and olivine are very Mg-rich (figure
+
+
+
+
+
+                                                        Average grain size = 100 microns
+
+
+
+
+         Figure 3: Map of Apollo 16 site with location of
+        69920 etc.
+
+
+       Mineral Mode 69940 (63-125 microns)
+                    LSPET 1972
+         Agglutinates     64%
+         Basalt           1
+         Anorthosite      1
+         Breccias         14
+          Plagioclase       7
+        Pyroxene 2                                                  Figure 5a: Grain size distribution for 69941
+         Glass           10                                             (Butler et al. 1973).
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 5; lines 9-29 ---
+5                                                                                                40
+
+                                                                                                                   20                              Lunar Soils
+             0                                                                                                   0
+               0       5      10      15      20      25      30      35                   0           20          40          60          80         100         120
+                     Al2O3                                              maturity (Is/FeO)
+
+              Figure 2: Composition of samples.                       Figure 4: Carbon content and maturity of lunar soils
+                                                            showing Apollo 16 station 9 soils.
+
+                                              Petrography
+                                              These are very mature soils with about 65 %
+                                                              agglutinates, and high carbon and nitrogen contents
+                                                              (figure 4). The maturity index (Is/FeO) determined
+                                                         for 69921, 69941 and 69961 is 90, 85 and 92,
+                                                            respectively (Morris 1988). The grain size distribution
+                                               was determined by Butler et al. (1973)(figure 5).
+
+                                               The mineralogy of 69941 is interesting in that several
+                                                            grains of pyroxene and olivine are very Mg-rich (figure
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 1-12 ---
+6). Some plagioclase grains are also very Ca-rich                       69941                                                                         Di                   Hd
+   (Taylor and Carter 1973).                                                          Taylor and Carter
+                                                                                            1973
+
+   Chemistry
+   The chemical composition of these three soils is given
+    in the tables herein (figures 2 and 6).
+
+   Kothari and Goel (1973) determined 140 ppm nitrogen
+    in both 69941 and 69961. Moore et al. (1973) reported  En                                          Fs
+   170 ppm carbon in 69941 and 140 ppm in 69961 (figure
+    2). Gibson and Moore (1973) reported 765 ppm sulfur   Fo                                      Fa
+--- mineralogy block 2; lines 1-20 ---
+6). Some plagioclase grains are also very Ca-rich                       69941                                                                         Di                   Hd
+   (Taylor and Carter 1973).                                                          Taylor and Carter
+                                                                                            1973
+
+   Chemistry
+   The chemical composition of these three soils is given
+    in the tables herein (figures 2 and 6).
+
+   Kothari and Goel (1973) determined 140 ppm nitrogen
+    in both 69941 and 69961. Moore et al. (1973) reported  En                                          Fs
+   170 ppm carbon in 69941 and 140 ppm in 69961 (figure
+    2). Gibson and Moore (1973) reported 765 ppm sulfur   Fo                                      Fa
+    in 69941 and 794 ppm sulfur in 69961.                                 compiled by C Meyer
+                                                                Figure 6: Composition of pyroxene and olivine in
+                                                         69941 (Taylor and Carter 1973).
+   Cosmogenic isotopes and exposure ages
+   The cosmic-ray-induced activity 26Al = 305 dpm/kg.,        1000
+   22Na = 86 dpm/kg and 53Mn = 630 dpm/kg for skim                                69941
+    soil 69921 is quite high (Fructher et al. 1981) –                                69961
+   apparently due to erosion off the top of the adjacent         100
+--- material block 3; lines 13-25 ---
+in 69941 and 794 ppm sulfur in 69961.                                 compiled by C Meyer
+                                                                Figure 6: Composition of pyroxene and olivine in
+                                                         69941 (Taylor and Carter 1973).
+   Cosmogenic isotopes and exposure ages
+   The cosmic-ray-induced activity 26Al = 305 dpm/kg.,        1000
+   22Na = 86 dpm/kg and 53Mn = 630 dpm/kg for skim                                69941
+    soil 69921 is quite high (Fructher et al. 1981) –                                69961
+   apparently due to erosion off the top of the adjacent         100
+                                                                                             sample/
+   boulder (figure 8). The cosmic-ray-induced activity     chondrite
+   beneath the boulder (66961) is also quite high          10
+   considering the shielding (Wrigley 1973, Fruchter et
+    al. 1981).
+--- material block 4; lines 36-55 ---
+for 699xx soils (Haskin et al.).
+
+
+
+
+
+          Average grain size = 90 microns
+
+                                                                Figure 8: Fruchter’s explanation for high 26Al in
+                                                              69941.
+
+
+
+
+
+          Figure 5b: Grain size distribution for 69961
+           (Butler et al. 1973).                                   Figure 9: Cosmic ray tracks in 69921 (Rao et al. 1979).
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 5; lines 11-28 ---
+170 ppm carbon in 69941 and 140 ppm in 69961 (figure
+    2). Gibson and Moore (1973) reported 765 ppm sulfur   Fo                                      Fa
+    in 69941 and 794 ppm sulfur in 69961.                                 compiled by C Meyer
+                                                                Figure 6: Composition of pyroxene and olivine in
+                                                         69941 (Taylor and Carter 1973).
+   Cosmogenic isotopes and exposure ages
+   The cosmic-ray-induced activity 26Al = 305 dpm/kg.,        1000
+   22Na = 86 dpm/kg and 53Mn = 630 dpm/kg for skim                                69941
+    soil 69921 is quite high (Fructher et al. 1981) –                                69961
+   apparently due to erosion off the top of the adjacent         100
+                                                                                             sample/
+   boulder (figure 8). The cosmic-ray-induced activity     chondrite
+   beneath the boulder (66961) is also quite high          10
+   considering the shielding (Wrigley 1973, Fruchter et
+    al. 1981).
+                                                                                                   1
+--- age block 6; lines 46-55 ---
+Figure 5b: Grain size distribution for 69961
+           (Butler et al. 1973).                                   Figure 9: Cosmic ray tracks in 69921 (Rao et al. 1979).
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 4; CATEGORIES: material ===
+--- material block 1; lines 17-29 ---
+C Meyer        69940
+                             2009         428 g
+
+
+              69940             69941           69942   69943   69944  69945
+              149 g              255 g            12 g    8 g       4.5 g    7 g
+                                                               1 - 2 mm   2 - 4 mm   4 - 10 mm     rock
+
+                 ,1                   ,0          ,1       ,18
+             98 g            113 g              7 g
+
+
+                  ,26
+--- material block 2; lines 44-56 ---
+2009          507.6 g
+
+
+               69960           69961            69962     69963     69964      69965
+                                                           14 g       10 g       5 g          1.1 g
+               171 g           308 g
+                                                                    1 - 2 mm    2 - 4 mm                   sm. rock
+                                                                                           4 - 10 mm
+                                          ,0      ,14    ,19    ,21                  ,1
+                               173 g          7 g    1 g             119 g
+
+
+                    ,3                ,44      ,45
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-18 ---
+Table 1. Chemical composition of 69921.
+    reference  Rose73      Laul73                Rancitelli73                              69955
+    weight
+   SiO2 %    45.21     (a)
+    TiO2       0.59      (a) 0.64     0.6       (b)
+   Al2O3     26.2      (a) 26      26.3      (b)                                       69960
+   FeO       5.54      (a) 5.7      5.6       (b)
+   MnO       0.07      (a) 0.07     0.07      (b)
+   MgO       6.35      (a) 6.3      6.3       (b)
+   CaO       15.35     (a) 14.7    15        (b)
+   Na2O      0.53      (a) 0.47     0.46      (b)
+   K2O       0.14      (a) 0.11     0.11      (b) 0.12    (c )
+   P2O5      0.12      (a)
+   S %
+   sum
+
+   Sc ppm   10         (a) 10      10        (b)
+   V        19         (a) 27      25        (b)
+--- references block 2; lines 1-8 ---
+Table 1. Chemical composition of 69921.
+    reference  Rose73      Laul73                Rancitelli73                              69955
+    weight
+   SiO2 %    45.21     (a)
+    TiO2       0.59      (a) 0.64     0.6       (b)
+   Al2O3     26.2      (a) 26      26.3      (b)                                       69960
+   FeO       5.54      (a) 5.7      5.6       (b)
+   MnO       0.07      (a) 0.07     0.07      (b)
+--- references block 3; lines 62-71 ---
+Os ppb
+      Ir ppb                 15                  (b)
+    Pt ppb
+   Au ppb               10                  (b)
+   Th ppm                  2.3      2.3       (b) 2.47    (c )
+   U ppm                  0.66     0.7       (b) 0.67    (c )              Figure 11. Density of nuclear tracks in Apollo 16
+    technique:  (a) various, (b) INAA, (c ) radiation counting                      soils (Behrmann et al. 1973).
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 6; CATEGORIES: age,chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 2. Chemical composition of 69941.                Table 3. Chemical composition of 69961.
+
+
+  reference  Haskin74   Rose73     Laul73      Rancitelli73  Korotev91         reference  Laul73     Rose73      Rancitelli73
+  weight                                                                       weight
+  SiO2 %    46.3     (a) 44.67   (c )                                     SiO2 %                44.76    (a)
+  TiO2       0.73     (a) 0.63     (c ) 0.6      (b)                             TiO2       0.61     (b) 0.6       (a)
+  Al2O3     24.2     (a) 26.3     (c ) 26.4     (b)                           Al2O3     26.2     (b) 26.35    (a)
+  FeO       5.41     (a) 5.76     (c ) 5.7      (b)              5.52     (b)      FeO       5.7       (b) 5.76      (a)
+  MnO       0.075   (a) 0.07     (c ) 0.068   (b)                     MnO       0.068    (b) 0.07      (a)
+  MgO       6.11     (a) 6.35     (c ) 6.4      (b)                     MgO       6.4       (b) 6.33      (a)
+  CaO       14.2     (a) 15.57   (c ) 15.4     (b)              15.4     (b)     CaO       14.5     (b) 15.55    (a)
+  Na2O      0.47     (a) 0.42     (c ) 0.47     (b)              0.45     (b)     Na2O      0.47     (b) 0.41      (a)
+  K2O       0.118    (a) 0.14     (c ) 0.11     (b) 0.14      (d)              K2O       0.11     (b) 0.14      (a) 0.14      (d)
+  P2O5                  0.12     (c )                                 P2O5                  0.12      (a)
+  S %                                                      S %
+  sum                                                         sum
+
+  Sc ppm    10       (b) 12.7       10       (b)              9.94     (b)      Sc ppm    10       (b) 11.8      (a)
+  V                   31         26       (b)                       V         22       (b) 29        (a)
+--- age block 2; lines 20-32 ---
+V                   31         26       (b)                       V         22       (b) 29        (a)
+  Cr                   890        739     (b)            802      (b)       Cr        732      (b) 890      (a)
+  Co         32.1     (b) 34         29       (b)              26.3     (b)      Co        30       (b) 47        (a)
+  Ni        470      (b) 545        460     (b)            382      (b)        Ni        460      (b) 600      (a)
+  Cu                     8.3                                       Cu                      8.7       (a)
+  Zn        32       (b) 27                                           Zn                  31        (a)
+  Ga         4.5      (b)  3.3                                     Ga                     3.2       (a)
+  Ge ppb                                                    Ge ppb
+  As                                                             As
+  Se                                                           Se
+  Rb         2.9      (b)  3.4                                       Rb                      2.9       (a)
+  Sr                   120                             164      (b)       Sr                   135      (a)
+  Y                   58                                      Y                   52        (a)
+--- references block 3; lines 1-10 ---
+Table 2. Chemical composition of 69941.                Table 3. Chemical composition of 69961.
+
+
+  reference  Haskin74   Rose73     Laul73      Rancitelli73  Korotev91         reference  Laul73     Rose73      Rancitelli73
+  weight                                                                       weight
+  SiO2 %    46.3     (a) 44.67   (c )                                     SiO2 %                44.76    (a)
+  TiO2       0.73     (a) 0.63     (c ) 0.6      (b)                             TiO2       0.61     (b) 0.6       (a)
+  Al2O3     24.2     (a) 26.3     (c ) 26.4     (b)                           Al2O3     26.2     (b) 26.35    (a)
+  FeO       5.41     (a) 5.76     (c ) 5.7      (b)              5.52     (b)      FeO       5.7       (b) 5.76      (a)
+  MnO       0.075   (a) 0.07     (c ) 0.068   (b)                     MnO       0.068    (b) 0.07      (a)
+--- references block 4; lines 65-75 ---
+Os ppb                                                      Os ppb
+    Ir ppb                          13       (b)              11.4     (b)            Ir ppb     15       (b)
+  Pt ppb                                                                         Pt ppb
+  Au ppb                         9                        6.8      (b)      Au ppb    9         (b)
+  Th ppm                             2.2        2.44      (d) 2.42     (b)      Th ppm    2.2       (b)              2.47      (d)
+  U ppm                             0.67       0.6       (d) 0.65     (b)     U ppm     0.64     (b)              0.61      (d)
+  technique:  (a) AA, (b) INAA, (c ) various, (d) radiation counting                    technique:  (a) AA, (b) INAA, (c ) various, (d) radiation counting
+
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 7; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 22-57 ---
+frequency distribution and modal analysis of Apollo 16 fines.                                                                  thru 60007. Proc. 13th Lunar Planet. Sci. Conf. A269-A278.
+    Proc. 4th Lunar Sci. Conf. 267-278.
+
+                                                              Kothari B.K. and Goel P.S. (1973) Nitrogen in lunar samples.
+    Carter J.L. and Padovani E. (1973) Genetic implications of                                                             Proc. 4th Lunar Sci. Conf. 1587-1596.
+   some unusual partoicles in Apollo 16 less than 1 mm fines
+   68841 and 69941. Proc. 4th Lunar Sci. Conf. 323-332.                                                         Laul J.C. and Schmitt R.A. (1973) Chemical composition
+                                                               of Apollo 15, 16 and 17 samples. Proc. 4th Lunar Sci. Conf.
+    Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1974a)                                                         1349-1367.
+    Primordial radioelement concentrations in rocks and soils
+   from Taurus-Littrow. Proc. 5th Lunar Sci. Conf. 1025-1033.                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.
+    Fruchter J.S., Reeves J.H., Evans J.C. and Perkins R.W.
+   (1981)  Studies of lunar regolith dynamics using                                                 Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+   measurements of cosmogenic radionuclides in lunar rocks,                                                          carbon contents of Apollo 15 and 16 lunar samples. Proc.
+    soils and cores. Proc. 12th Lunar Planet. Sci. Conf. 567-                                                                                    4th Lunar Sci. Conf. 1613-1623.
+    575.
+
+                                                           Morris R.V. (1978) The surface exposure (maturity) of lunar
+   Gibson E.K. and Moore G.W. (1973) Carbon and sulfur                                                                          soils: Some concepts and Is/FeO compilation.  Proc. 9th
+    distributions and abundances in lunar fines. Proc. 4th Lunar                                                      Lunar Sci. Conf. 2287-2298.
+    Sci. Conf. 1577-1586.
+
+                                                          Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA                                                  Handbook of Lunar Soils. TWO volumes! JSC 19069.
+   Pub. 1265
+
+                                                             Nautiyal C.M., Padia J.T., Rao M.N. and Venkatesan T.R.
+   Haskin L.A., Helmke P.A., Blanchard D.P., Jacobs J.W. and                                                          (1981b) Solar flare neon: Clues from implanted noble gases
+    Telander K. (1973) Major and trace element abundances in                                                                    in lunar soils and rocks. Proc. 12th Lunar Sci. Conf. 627-
+   samples for the lunar highlands. Proc. 4th Lunar Sci. Conf.                                                            637.
+   1275-1296.
+
+                                                 Rao M.N., Venkatesan T.R., Goswami J.N., Nautiyal C.M.
+   Horz F., Carrier W.D., Young J.W., Duke C.M., Nagle J.S.                                                       and Padia J.T. (1979) Noble gas based solar flare exposure
+   and Fryxell R. (1972) Apollo 16 special soils. In Apollo                                                                  history of lunar rocks and soils. Proc. 10th Lunar Planet.
+--- mineralogy block 2; lines 16-28 ---
+C., Walker R. and Yuhas D. (1973b) Cosmic-ray exposure                                                                            21st  Lunar Planet. Sci. Conf. 229-289.  Lunar Planetary
+    history of North Ray and South Ray material. Proc. 4th Lunar                                                                          Institute, Houston.
+    Sci. Conf. 1957-1974.
+
+                                                        Korotev R.L. (1982) Comprative geochemistry of Apollo
+    Butler J.C., Greene G.M. and King E.A. (1973) Grain size                                                     16 surface soils and samples from cores 64002 and 60002
+    frequency distribution and modal analysis of Apollo 16 fines.                                                                  thru 60007. Proc. 13th Lunar Planet. Sci. Conf. A269-A278.
+    Proc. 4th Lunar Sci. Conf. 267-278.
+
+                                                              Kothari B.K. and Goel P.S. (1973) Nitrogen in lunar samples.
+    Carter J.L. and Padovani E. (1973) Genetic implications of                                                             Proc. 4th Lunar Sci. Conf. 1587-1596.
+   some unusual partoicles in Apollo 16 less than 1 mm fines
+   68841 and 69941. Proc. 4th Lunar Sci. Conf. 323-332.                                                         Laul J.C. and Schmitt R.A. (1973) Chemical composition
+--- material block 3; lines 9-52 ---
+Becker R.H., Clayton R.N. and Mayeda T.K. (1976)                                                        Korotev R.L. (1981)  Compositional trends in Apollo 16
+    Characterization of lunar nitrogen abundances.  Proc. 7th                                                                           soils. Proc. 12th Lunar Sci. Conf. 577-605.
+   Lunar Sci. Conf. 441-458.
+
+                                                       Korotev R.L. (1991)  Geochemical stratigraphy of two
+   Behrmann C.J., Crozaz G., Drozd R., Hohenberg C., Ralston                                                                     regolith cores from the Central Highlands of the Moon. Proc.
+    C., Walker R. and Yuhas D. (1973b) Cosmic-ray exposure                                                                            21st  Lunar Planet. Sci. Conf. 229-289.  Lunar Planetary
+    history of North Ray and South Ray material. Proc. 4th Lunar                                                                          Institute, Houston.
+    Sci. Conf. 1957-1974.
+
+                                                        Korotev R.L. (1982) Comprative geochemistry of Apollo
+    Butler J.C., Greene G.M. and King E.A. (1973) Grain size                                                     16 surface soils and samples from cores 64002 and 60002
+    frequency distribution and modal analysis of Apollo 16 fines.                                                                  thru 60007. Proc. 13th Lunar Planet. Sci. Conf. A269-A278.
+    Proc. 4th Lunar Sci. Conf. 267-278.
+
+                                                              Kothari B.K. and Goel P.S. (1973) Nitrogen in lunar samples.
+    Carter J.L. and Padovani E. (1973) Genetic implications of                                                             Proc. 4th Lunar Sci. Conf. 1587-1596.
+   some unusual partoicles in Apollo 16 less than 1 mm fines
+   68841 and 69941. Proc. 4th Lunar Sci. Conf. 323-332.                                                         Laul J.C. and Schmitt R.A. (1973) Chemical composition
+                                                               of Apollo 15, 16 and 17 samples. Proc. 4th Lunar Sci. Conf.
+    Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1974a)                                                         1349-1367.
+    Primordial radioelement concentrations in rocks and soils
+   from Taurus-Littrow. Proc. 5th Lunar Sci. Conf. 1025-1033.                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.
+    Fruchter J.S., Reeves J.H., Evans J.C. and Perkins R.W.
+   (1981)  Studies of lunar regolith dynamics using                                                 Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+   measurements of cosmogenic radionuclides in lunar rocks,                                                          carbon contents of Apollo 15 and 16 lunar samples. Proc.
+    soils and cores. Proc. 12th Lunar Planet. Sci. Conf. 567-                                                                                    4th Lunar Sci. Conf. 1613-1623.
+    575.
+
+                                                           Morris R.V. (1978) The surface exposure (maturity) of lunar
+   Gibson E.K. and Moore G.W. (1973) Carbon and sulfur                                                                          soils: Some concepts and Is/FeO compilation.  Proc. 9th
+    distributions and abundances in lunar fines. Proc. 4th Lunar                                                      Lunar Sci. Conf. 2287-2298.
+    Sci. Conf. 1577-1586.
+
+                                                          Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA                                                  Handbook of Lunar Soils. TWO volumes! JSC 19069.
+   Pub. 1265
+
+                                                             Nautiyal C.M., Padia J.T., Rao M.N. and Venkatesan T.R.
+   Haskin L.A., Helmke P.A., Blanchard D.P., Jacobs J.W. and                                                          (1981b) Solar flare neon: Clues from implanted noble gases
+    Telander K. (1973) Major and trace element abundances in                                                                    in lunar soils and rocks. Proc. 12th Lunar Sci. Conf. 627-
+   samples for the lunar highlands. Proc. 4th Lunar Sci. Conf.                                                            637.
+--- material block 4; lines 57-68 ---
+and Fryxell R. (1972) Apollo 16 special soils. In Apollo                                                                  history of lunar rocks and soils. Proc. 10th Lunar Planet.
+   16 Preliminary Science Report NASA SP315 section 7 -                                                                       Sci. Conf. 1547-1564.
+    25-54.
+
+                                                                    Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+    Kerridge J.F., Kaplan I.R. and Petrowski C. (1975) Nitrogen                                                           (1973)  Primordial radionuclides in soils and rocks from
+    in the lunar regolith: Solar origin and effects. (abs) Lunar                                                         Apollo 16 site. (abs) Lunar Sci. IV, 615.
+    Sci. VI, 469-471.
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 5; lines 1-22 ---
+References for 69921, 41, 61
+   Becker R.H. (1980) Light elements in lunar soils revisited:                                                            Kerridge J.F., Kaplan I.R., Petrowski C. and Chang S. (1975)
+   Carbon, nitrogen, hydrogen and helium. Proc. 11th Lunar                                                            Light element geochemistry of Apollo 16 rocks and soils.
+    Planet. Sci. Conf. 1743-1761.                                                      Geochim. Cosmochim. Acta 39, 137-162.
+
+   Becker R.H. and Clayton R.N. (1975) Nitrogen abundances                                                              Kirsten T., Horn P. and Kiko J. (1973a) 39Ar/40Ar dating
+   and isotopic compositions in lunar samples. Proc. 6th Lunar                                                       and rare gas analysis of Apollo 16 rocks and soils. Proc. 4th
+    Sci. Conf. 2131-2149.                                                      Lunar Sci. Conf. 1757-1784.
+
+   Becker R.H., Clayton R.N. and Mayeda T.K. (1976)                                                        Korotev R.L. (1981)  Compositional trends in Apollo 16
+    Characterization of lunar nitrogen abundances.  Proc. 7th                                                                           soils. Proc. 12th Lunar Sci. Conf. 577-605.
+   Lunar Sci. Conf. 441-458.
+
+                                                       Korotev R.L. (1991)  Geochemical stratigraphy of two
+   Behrmann C.J., Crozaz G., Drozd R., Hohenberg C., Ralston                                                                     regolith cores from the Central Highlands of the Moon. Proc.
+    C., Walker R. and Yuhas D. (1973b) Cosmic-ray exposure                                                                            21st  Lunar Planet. Sci. Conf. 229-289.  Lunar Planetary
+    history of North Ray and South Ray material. Proc. 4th Lunar                                                                          Institute, Houston.
+    Sci. Conf. 1957-1974.
+
+                                                        Korotev R.L. (1982) Comprative geochemistry of Apollo
+    Butler J.C., Greene G.M. and King E.A. (1973) Grain size                                                     16 surface soils and samples from cores 64002 and 60002
+    frequency distribution and modal analysis of Apollo 16 fines.                                                                  thru 60007. Proc. 13th Lunar Planet. Sci. Conf. A269-A278.
+--- treatment block 6; lines 34-46 ---
+Fruchter J.S., Reeves J.H., Evans J.C. and Perkins R.W.
+   (1981)  Studies of lunar regolith dynamics using                                                 Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+   measurements of cosmogenic radionuclides in lunar rocks,                                                          carbon contents of Apollo 15 and 16 lunar samples. Proc.
+    soils and cores. Proc. 12th Lunar Planet. Sci. Conf. 567-                                                                                    4th Lunar Sci. Conf. 1613-1623.
+    575.
+
+                                                           Morris R.V. (1978) The surface exposure (maturity) of lunar
+   Gibson E.K. and Moore G.W. (1973) Carbon and sulfur                                                                          soils: Some concepts and Is/FeO compilation.  Proc. 9th
+    distributions and abundances in lunar fines. Proc. 4th Lunar                                                      Lunar Sci. Conf. 2287-2298.
+    Sci. Conf. 1577-1586.
+
+                                                          Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA                                                  Handbook of Lunar Soils. TWO volumes! JSC 19069.
+--- references block 7; lines 1-7 ---
+References for 69921, 41, 61
+   Becker R.H. (1980) Light elements in lunar soils revisited:                                                            Kerridge J.F., Kaplan I.R., Petrowski C. and Chang S. (1975)
+   Carbon, nitrogen, hydrogen and helium. Proc. 11th Lunar                                                            Light element geochemistry of Apollo 16 rocks and soils.
+    Planet. Sci. Conf. 1743-1761.                                                      Geochim. Cosmochim. Acta 39, 137-162.
+
+   Becker R.H. and Clayton R.N. (1975) Nitrogen abundances                                                              Kirsten T., Horn P. and Kiko J. (1973a) 39Ar/40Ar dating
+   and isotopic compositions in lunar samples. Proc. 6th Lunar                                                       and rare gas analysis of Apollo 16 rocks and soils. Proc. 4th
+
+=== PDF PAGE 8; CATEGORIES: age,material ===
+--- material block 1; lines 18-30 ---
+Taylor J.H.C. and Carter J.L. (1973)  Silicate mineral
+    chemistry of Apollo soils 15411, 15501, 66081 and 69941.
+    Proc. 4th Lunar Sci. Conf. 291-307.
+
+    Taylor G.J., Drake M.J., Hallam M.E., Marvin U.B. and
+   Wood J.A. (1973b) Apollo 16 stratigraphy: The ANT hills,
+    the Cayley Plains and a pre-Imbrian regolith. Proc. 4th Lunar
+     Sci. Conf. 553-568.
+
+    Venkatesan T.R., Nautiyal C.M., Padia J.T. and Rao M.N.
+    (1980)  Solar flare cosmic ray proton fluxes in the recent
+     past. Proc. 11th Lunar Planet. Sci. Conf. 1271-1284.
+--- age block 2; lines 22-34 ---
+Taylor G.J., Drake M.J., Hallam M.E., Marvin U.B. and
+   Wood J.A. (1973b) Apollo 16 stratigraphy: The ANT hills,
+    the Cayley Plains and a pre-Imbrian regolith. Proc. 4th Lunar
+     Sci. Conf. 553-568.
+
+    Venkatesan T.R., Nautiyal C.M., Padia J.T. and Rao M.N.
+    (1980)  Solar flare cosmic ray proton fluxes in the recent
+     past. Proc. 11th Lunar Planet. Sci. Conf. 1271-1284.
+
+    Walton J.R., Lakatos S. and Heymann D. (1973) Distribution
+    of inert gases in fines from the Cayley-Descartes region.
+    Proc. 4th Lunar Sci. Conf. 2079-2095.

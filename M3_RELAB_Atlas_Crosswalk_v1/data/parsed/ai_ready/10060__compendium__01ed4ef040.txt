@@ -1,0 +1,389 @@
+DOCUMENT_ID: 10060__compendium__01ed4ef040
+ATLAS_SAMPLE_IDS: 10060
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10060.pdf
+SOURCE_PDF_SHA256: 1b2c14113255b97ae119d5bdff1fd56eec96ce314f5eff091ec6c4fe1b12e5b9
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 6-17 ---
+Figure 1. Photo of 10060. NASA S86-38114. Sample is 11 cm high.
+
+   Introduction
+   Lunar sample 10060 is one of the largest and best   glass-lined micrometeorite pits (Schmitt et al. 1970).
+   studied Apollo 11 breccias. One side (the top?) of  McGee et al. (1979) and Fruland (1983) describes
+   10060 is smooth-rounded with a high percentage of  10060 as a “typical soil breccia”.  Thiemens and
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-17 ---
+10060
+                                   Regolith Breccia
+                                       722 grams
+
+
+
+
+
+                        Figure 1. Photo of 10060. NASA S86-38114. Sample is 11 cm high.
+
+   Introduction
+   Lunar sample 10060 is one of the largest and best   glass-lined micrometeorite pits (Schmitt et al. 1970).
+   studied Apollo 11 breccias. One side (the top?) of  McGee et al. (1979) and Fruland (1983) describes
+   10060 is smooth-rounded with a high percentage of  10060 as a “typical soil breccia”.  Thiemens and
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 2-30 ---
+Clayton (1980) discuss the very long exposure age   Basaltic fragments are the predominant lithic clast type
+    (~2.3 b.y.) of Apollo 11 soil breccias.                   in 10060. Beaty and Albee (1978) studied one of the
+                                                                largest basaltic clasts (,17 delta) in 10060.  Basaltic
+   Petrography                                             clast “delta” is a vitrophyre which contains subhedral
+   10060 is a large, gas-rich, regolith breccia made up of   to euhedral pyroxene phenocrysts (41%), subhedral
+    ancient soil from the Apollo 11 site (Fruland 1983).   olivine (3%), bladed armalcolite (1%) and bladed
+   The grain size distribution is seriate with a majority of   ilmenite (14%) set in a groundmass of basaltic glass
+    grains less than 39 microns (McGee et al. 1979).  It is  with incipient feathery pyroxene. The large armalcolite
+    porous with micron-sized intergranular voids that can   grains have a reaction relation with the melt, forming
+    best be seen in reflected light or by SEM (Phinney et   ilmenite at the rims. Grove and Beaty (1980) were
+     al. 1976). It has an abundance of glass of various types
+   and stages of devitrification (Lofgren 1971).
+                                                                Mineralogical Mode for 10060
+                                                                              McGee et
+                                                                                                                                          al. 1979
+                                                                              Matrix < 39 microns       55
+              Mineralogical Mode for basaltic                           Plagioclase                 1.2
+                clast “delta” in 10060                                   Mafic                       2.3
+                  Olivine          3 %                                   Opaque                     0.4
+                Pyroxene        41                                              Glass, hetero                2.6
+                  Plagioclase                                                        Glass, homo                0.5
+                  Armalcolite      1                                               Glass, devitrified            4.4
+                  Ilmenite         14                                              Breccia, frags               3.7
+                 Glass           41                                    Mare Basalt                29.8
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-30 ---
+Figure 2: Photomicrograph of thin section of 10060. NASA S70-49013. Scale is 2.5 mm.
+
+
+    Clayton (1980) discuss the very long exposure age   Basaltic fragments are the predominant lithic clast type
+    (~2.3 b.y.) of Apollo 11 soil breccias.                   in 10060. Beaty and Albee (1978) studied one of the
+                                                                largest basaltic clasts (,17 delta) in 10060.  Basaltic
+   Petrography                                             clast “delta” is a vitrophyre which contains subhedral
+   10060 is a large, gas-rich, regolith breccia made up of   to euhedral pyroxene phenocrysts (41%), subhedral
+    ancient soil from the Apollo 11 site (Fruland 1983).   olivine (3%), bladed armalcolite (1%) and bladed
+   The grain size distribution is seriate with a majority of   ilmenite (14%) set in a groundmass of basaltic glass
+    grains less than 39 microns (McGee et al. 1979).  It is  with incipient feathery pyroxene. The large armalcolite
+    porous with micron-sized intergranular voids that can   grains have a reaction relation with the melt, forming
+    best be seen in reflected light or by SEM (Phinney et   ilmenite at the rims. Grove and Beaty (1980) were
+     al. 1976). It has an abundance of glass of various types
+   and stages of devitrification (Lofgren 1971).
+                                                                Mineralogical Mode for 10060
+                                                                              McGee et
+                                                                                                                                          al. 1979
+                                                                              Matrix < 39 microns       55
+              Mineralogical Mode for basaltic                           Plagioclase                 1.2
+                clast “delta” in 10060                                   Mafic                       2.3
+                  Olivine          3 %                                   Opaque                     0.4
+                Pyroxene        41                                              Glass, hetero                2.6
+                  Plagioclase                                                        Glass, homo                0.5
+                  Armalcolite      1                                               Glass, devitrified            4.4
+                  Ilmenite         14                                              Breccia, frags               3.7
+                 Glass           41                                    Mare Basalt                29.8
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 3; lines 1-10 ---
+Figure 2: Photomicrograph of thin section of 10060. NASA S70-49013. Scale is 2.5 mm.
+
+
+    Clayton (1980) discuss the very long exposure age   Basaltic fragments are the predominant lithic clast type
+    (~2.3 b.y.) of Apollo 11 soil breccias.                   in 10060. Beaty and Albee (1978) studied one of the
+                                                                largest basaltic clasts (,17 delta) in 10060.  Basaltic
+   Petrography                                             clast “delta” is a vitrophyre which contains subhedral
+   10060 is a large, gas-rich, regolith breccia made up of   to euhedral pyroxene phenocrysts (41%), subhedral
+    ancient soil from the Apollo 11 site (Fruland 1983).   olivine (3%), bladed armalcolite (1%) and bladed
+   The grain size distribution is seriate with a majority of   ilmenite (14%) set in a groundmass of basaltic glass
+
+=== PDF PAGE 3; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-20 ---
+Figure 3: Photomicrograph if thin section of 10060 showing glass coating on basalt clast.
+           Scale unknown. S70-19538.
+   able to reproduce this texture experimentally and          1000
+   discuss the cooling rate and crystallization history.
+                                                                                                   100                              10060
+   Phinney et al. (1976) used SEM petrography to
+   determine the sintering of the glass in the matrix. They    sample/
+                                                                                         chondrite
+    report a porosity of ~ 35% with filaments and thin glass            10                                    10084
+   films between very fine grains in the matrix. Uhlmann
+    et al. (1981) calculate the cooling rate for 10060 from
+   observation of the devitrification of glass in 10060 and               1
+    their studies of nucleation barriers to crystallization of
+    glass.                                                                                                         0.1
+                                                                                   La      Pr    Sm    Gd     Dy      Er     Yb                                                                            Ce    Nd     Eu     Tb    Ho    Tm     Lu
+
+   Chemistry
+                                                                Figure 4: Normalized rare earth element diagram
+  A large number of analyses were done on 10060 (table
+                                                                          for breccia 10060 compared with soil 10084 (data
+--- material block 2; lines 1-34 ---
+Figure 3: Photomicrograph if thin section of 10060 showing glass coating on basalt clast.
+           Scale unknown. S70-19538.
+   able to reproduce this texture experimentally and          1000
+   discuss the cooling rate and crystallization history.
+                                                                                                   100                              10060
+   Phinney et al. (1976) used SEM petrography to
+   determine the sintering of the glass in the matrix. They    sample/
+                                                                                         chondrite
+    report a porosity of ~ 35% with filaments and thin glass            10                                    10084
+   films between very fine grains in the matrix. Uhlmann
+    et al. (1981) calculate the cooling rate for 10060 from
+   observation of the devitrification of glass in 10060 and               1
+    their studies of nucleation barriers to crystallization of
+    glass.                                                                                                         0.1
+                                                                                   La      Pr    Sm    Gd     Dy      Er     Yb                                                                            Ce    Nd     Eu     Tb    Ho    Tm     Lu
+
+   Chemistry
+                                                                Figure 4: Normalized rare earth element diagram
+  A large number of analyses were done on 10060 (table
+                                                                          for breccia 10060 compared with soil 10084 (data
+   1 and figure 4). Kaplan et al. (1970) determined the                                                              from Wiesmann et al. 1975).
+   carbon (135 ppm C) and sulfur contents (1120 ppm S)
+   and isotopic rations. Thiemens and Clayton (1980)
+   determined 93 ppm nitrogen (with a very negative delta  Simon et al. (1984) could not identify such a high
+    15N).                                                percentage of highland component.
+
+   Schonfeld and Meyer (1972) calculated that 10060 was  Radiogenic age dating
+   a mix of mare basalt with ~17 % gabboic anorthosite   Silver (1970) determined the U, Th and Pb isotopes
+   and ~1 % KREEP, while Rhodes and Blanchard (1981)   for 10060, finding them more like the soil (10084) than
+   found it was a mix of soil and high-K basalt. However,   the rocks.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 3; lines 1-33 ---
+Figure 3: Photomicrograph if thin section of 10060 showing glass coating on basalt clast.
+           Scale unknown. S70-19538.
+   able to reproduce this texture experimentally and          1000
+   discuss the cooling rate and crystallization history.
+                                                                                                   100                              10060
+   Phinney et al. (1976) used SEM petrography to
+   determine the sintering of the glass in the matrix. They    sample/
+                                                                                         chondrite
+    report a porosity of ~ 35% with filaments and thin glass            10                                    10084
+   films between very fine grains in the matrix. Uhlmann
+    et al. (1981) calculate the cooling rate for 10060 from
+   observation of the devitrification of glass in 10060 and               1
+    their studies of nucleation barriers to crystallization of
+    glass.                                                                                                         0.1
+                                                                                   La      Pr    Sm    Gd     Dy      Er     Yb                                                                            Ce    Nd     Eu     Tb    Ho    Tm     Lu
+
+   Chemistry
+                                                                Figure 4: Normalized rare earth element diagram
+  A large number of analyses were done on 10060 (table
+                                                                          for breccia 10060 compared with soil 10084 (data
+   1 and figure 4). Kaplan et al. (1970) determined the                                                              from Wiesmann et al. 1975).
+   carbon (135 ppm C) and sulfur contents (1120 ppm S)
+   and isotopic rations. Thiemens and Clayton (1980)
+   determined 93 ppm nitrogen (with a very negative delta  Simon et al. (1984) could not identify such a high
+    15N).                                                percentage of highland component.
+
+   Schonfeld and Meyer (1972) calculated that 10060 was  Radiogenic age dating
+   a mix of mare basalt with ~17 % gabboic anorthosite   Silver (1970) determined the U, Th and Pb isotopes
+   and ~1 % KREEP, while Rhodes and Blanchard (1981)   for 10060, finding them more like the soil (10084) than
+   found it was a mix of soil and high-K basalt. However,   the rocks.
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 10060.
+
+
+     reference  Rhodes81 Wanke70   Philpotts70  Haskin70   Goles70    Smales70  Morrison70   Agrell 70   Wasson70
+     weight                       218 mg
+    SiO2 %    41.5    (a) 42.36   (b)                         42.8        41.8       40        (d)  41.96
+    TiO2      9.15    (a) 7.7      (b)                          8.5         8.7         8.5       (d)  9.02
+    Al2O3     11.8    (a) 11.7     (b)                          11.5        11.5        11.3      (d)  11.85
+   FeO      17      (a) 17.7     (b)                         16.8        16.7        17.7      (d)  16.89
+   MnO      0.23    (a) 0.17     (b)                         0.21     (b)             0.2       (d)  0.23
+   MgO      7.52    (a) 7.6      (b)                          8.1         7.6         7.63      (d)  7.63
+   CaO       11.6    (a) 11.6     (b)                                      11.2        14.5      (d)  11.38
+   Na2O     0.78    (a) 0.48     (b)                         0.49     (b) 0.51        0.55      (d)  0.49
+   K2O       0.18    (a)            0.19     (c )                          0.2         0.19      (d)  0.2
+   P2O5               (a)                                                           0.14      (d)  0.07
+   S %                                                                                         0.15
+    sum
+
+    Sc ppm             70       (b)                      64       (b)           70        (d)
+   V                                                58       (b)           62        (d)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 10060.
+
+
+     reference  Rhodes81 Wanke70   Philpotts70  Haskin70   Goles70    Smales70  Morrison70   Agrell 70   Wasson70
+     weight                       218 mg
+    SiO2 %    41.5    (a) 42.36   (b)                         42.8        41.8       40        (d)  41.96
+    TiO2      9.15    (a) 7.7      (b)                          8.5         8.7         8.5       (d)  9.02
+    Al2O3     11.8    (a) 11.7     (b)                          11.5        11.5        11.3      (d)  11.85
+   FeO      17      (a) 17.7     (b)                         16.8        16.7        17.7      (d)  16.89
+   MnO      0.23    (a) 0.17     (b)                         0.21     (b)             0.2       (d)  0.23
+--- references block 3; lines 65-75 ---
+Os ppb
+       Ir ppb                                                                                                        5.4      (e)
+     Pt ppb
+    Au ppb                                                                                                       1.4      (e)
+    Th ppm                                                                 3         (d)
+   U ppm                                                  0.51     (b)             0.6       (d)
+     technique:  (a) XRF, (b) INAA, (c ) IDMS, (d) various, (e) RNAA
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: age,material ===
+--- material block 1; lines 1-11 ---
+Figure 5: Reflect light photo of polished surface of 10060. Scale unknown
+
+  Cosmic ray exposure                       Other Studies
+   Thiemens and Clayton (1980) discuss the very long  Hintenberger and Weber (1973) and Hintenberger et
+   exposure age (~2.3 b.y.) of gas-rich Apollo 11 soil   al. (1975) determined the rare gas abundance (figure
+    breccias.                                              6) and reported the isotopic ratios.  Friedman et al.
+                                                       (1970) determined the gas content evolved from heating
+                                               10060 is vacuum and in O2. They found 83 ppm
+                                                   hydrogen with low D/H ratio and ~100 ppm C.
+--- age block 2; lines 1-11 ---
+Figure 5: Reflect light photo of polished surface of 10060. Scale unknown
+
+  Cosmic ray exposure                       Other Studies
+   Thiemens and Clayton (1980) discuss the very long  Hintenberger and Weber (1973) and Hintenberger et
+   exposure age (~2.3 b.y.) of gas-rich Apollo 11 soil   al. (1975) determined the rare gas abundance (figure
+    breccias.                                              6) and reported the isotopic ratios.  Friedman et al.
+                                                       (1970) determined the gas content evolved from heating
+                                               10060 is vacuum and in O2. They found 83 ppm
+                                                   hydrogen with low D/H ratio and ~100 ppm C.
+
+=== PDF PAGE 7; CATEGORIES: mineralogy,references ===
+--- mineralogy block 1; lines 8-20 ---
+References for 10060
+                                                        Beaty D.W. and Albee A.L. (1978) Comparative petrology    Agrell S.O., Scoon J.H., Muir I.D., Long J.V.P., McConnell
+                                                       and possible genetic relations among the Apollo 11 basalts.    J.D.C. and Peckett A. (1970) Observations on the chemistry,
+                                                             Proc. 9th Lunar Planet. Sci. Conf. 359-463.   mineralogy and petrology of some Apollo 11 lunar samples.
+    Proc. Apollo 11 Lunar Sci. Conf. 93-128.
+
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- references block 2; lines 5-17 ---
+Figure 9: Photo of 10060,38 showing saw cut. Cube is 1 cm. S76-25549.
+
+
+
+   References for 10060
+                                                        Beaty D.W. and Albee A.L. (1978) Comparative petrology    Agrell S.O., Scoon J.H., Muir I.D., Long J.V.P., McConnell
+                                                       and possible genetic relations among the Apollo 11 basalts.    J.D.C. and Peckett A. (1970) Observations on the chemistry,
+                                                             Proc. 9th Lunar Planet. Sci. Conf. 359-463.   mineralogy and petrology of some Apollo 11 lunar samples.
+    Proc. Apollo 11 Lunar Sci. Conf. 93-128.
+
+=== PDF PAGE 8; CATEGORIES: age,material,treatment ===
+--- material block 1; lines 1-52 ---
+Clayton R.N. and Thiemens M.H. (1980) Lunar nitrogen:  McGee P.E., Warner J.L., Simonds C.E. and Phinney W.C.
+    Evidence for secular change in the solar wind.  In The   (1979) Introduction to the Apollo collections. Part II: Lunar
+    Ancient Sun. 463-473. (eds Pepin, Eddy, Merrill)           Breccias. Curator’s Office. JSC
+
+    Friedman I., Gleason J.D. and Hardcastle K.G. (1970) Water,   Morrison G.H., Gerard J.T., Kashuba A.T., Gangadharam
+    hydrogen, deuterium, carbon and C13 content of selected   E.V., Rothenberg A.M., Potter N.M. and Miller G.B. (1970)
+    lunar material. Proc. Apollo 11 Lunar Sci. Conf. 1103-1109.   Elemental abundances of lunar soil and rocks. Proc. Apollo
+                                                         11 Lunar Sci. Conf. 1383-1392.
+    Fruland R.M. (1983)  Regolith Breccia Workbook.
+    Curatorial Branch Publication # 66. JSC 19045.             Philpotts J.A. and Schnetzler C.C. (1970a)  Potassium,
+                                                             rubidium, strontium, barium and rare-earth concentrations
+    Goles G.G., Randle K., Osawa M., Lindstrom D.J., Jerome   in lunar rocks and separated phases. Science 167, 493-495.
+    D.Y., Steinborn T.L., Beyer R.L., Martin M.R. and McKay
+    S.M. (1970) Interpretations and speculations on elemental   Philpotts J.A. and Schnetzler C.C. (1970b) Apollo 11 lunar
+    abundances in lunar samples. Proc. Apollo 11 Lunar Sci.   samples: K, Rb, Sr, Ba and rare-earth concentrations in some
+    Conf. 1177-1194.                                         rocks and separated phases. Proc. Apollo 11 Lunar Science
+                                                            Conf. 1471-1486.
+   Grove T.L. and Beaty D.W. (1980)  Classification,
+    experimental petrology and possible volcanic histories of   Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+    the Apollo 11 high-K basalts. Proc. 11th Lunar Planet. Sci.   (1976a) Lithification of vitric- and clastic-matrix breccias:
+    Conf. 149-177.                           SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+
+    Hintenberger H., Weber H.W. and Takaoka N. (1971)   Schonfeld E. and Meyer C. (1972) The abundances of
+    Concentrations and isotopic abundances of the rare gases in  components of the lunar soils by a least-squares mixing
+    lunar matter. Proc. 2nd Lunar Sci. Conf. 1607-1625.       model and the formation age of KREEP. Proc. 3rd Lunar
+                                                                        Sci. Conf. 1397-1420.
+    Hintenberger H., Schultz L. and Weber H.W. (1975a) A
+    comparison of noble gases in lunar fines and soil breccias:   Schmitt H.H., Lofgren G., Swann G.A. and Simmons G.
+    Implications for the origin of soil breccias. Proc. 6th Lunar   (1970) The Apollo 11 samples: Introduction. Proc. Apollo
+     Sci. Conf. 2261-2270.                                  11 Lunar Science Conf. 1-54.
+
+    Hintenberger H., Schultz L. and Weber H.W. (1975b)   Silver L.T. (1970) Uranium-thorium-lead isotopes in some
+    Differences of the rare gas abundance pattern between lunar   Tranquillity Base samples and their implications for lunar
+     soils and breccias (abs). Lunar Sci. VI, 367-369. Lunar   history. Proc. Apollo 11 Lunar Sci. Conf. 1533-1574.
+    Planetary Institute, Houston.
+                                                   Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+    Kaplan I.R., Smith J.W. and Ruth E. (1970) Carbon and   of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+     sulfur concentration and isotopic composition in Apollo 11   Conf. in J. Geophys. Res. 89, C109-132.
+    lunar samples. Proc. Apollo 11 Lunar Sci. Conf. 1317-1329.
+                                                      Smales A.A., Mapper D., Webb M.S.W., Webster R.K.,
+    Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo   Wilson J.D., and Hislop J.S. (1971) Elemental composition
+    11 Lunar Sample Information Catalogue (revised).   of lunar surface material (part 2). Proc. Seond Lunar Sci.
+    Curator’s Office, JSC 12522                              Conf. 1253-1258.
+
+   LSPET (1969) Preliminary examination of lunar samples   Sutton R.L. and Schaber G.G. (1971) Lunar locations and
+    from Apollo 11. Science 165, 1211-1227.                    orientations of rock samples from Apollo missions 11 and
+                                                                12. Proc. 2nd Lunar Sci. Conf. 17-26.
+
+
+
+
+Lunar Sample Compendium
+--- age block 2; lines 19-31 ---
+experimental petrology and possible volcanic histories of   Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+    the Apollo 11 high-K basalts. Proc. 11th Lunar Planet. Sci.   (1976a) Lithification of vitric- and clastic-matrix breccias:
+    Conf. 149-177.                           SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+
+    Hintenberger H., Weber H.W. and Takaoka N. (1971)   Schonfeld E. and Meyer C. (1972) The abundances of
+    Concentrations and isotopic abundances of the rare gases in  components of the lunar soils by a least-squares mixing
+    lunar matter. Proc. 2nd Lunar Sci. Conf. 1607-1625.       model and the formation age of KREEP. Proc. 3rd Lunar
+                                                                        Sci. Conf. 1397-1420.
+    Hintenberger H., Schultz L. and Weber H.W. (1975a) A
+    comparison of noble gases in lunar fines and soil breccias:   Schmitt H.H., Lofgren G., Swann G.A. and Simmons G.
+    Implications for the origin of soil breccias. Proc. 6th Lunar   (1970) The Apollo 11 samples: Introduction. Proc. Apollo
+     Sci. Conf. 2261-2270.                                  11 Lunar Science Conf. 1-54.
+--- treatment block 3; lines 6-22 ---
+hydrogen, deuterium, carbon and C13 content of selected   E.V., Rothenberg A.M., Potter N.M. and Miller G.B. (1970)
+    lunar material. Proc. Apollo 11 Lunar Sci. Conf. 1103-1109.   Elemental abundances of lunar soil and rocks. Proc. Apollo
+                                                         11 Lunar Sci. Conf. 1383-1392.
+    Fruland R.M. (1983)  Regolith Breccia Workbook.
+    Curatorial Branch Publication # 66. JSC 19045.             Philpotts J.A. and Schnetzler C.C. (1970a)  Potassium,
+                                                             rubidium, strontium, barium and rare-earth concentrations
+    Goles G.G., Randle K., Osawa M., Lindstrom D.J., Jerome   in lunar rocks and separated phases. Science 167, 493-495.
+    D.Y., Steinborn T.L., Beyer R.L., Martin M.R. and McKay
+    S.M. (1970) Interpretations and speculations on elemental   Philpotts J.A. and Schnetzler C.C. (1970b) Apollo 11 lunar
+    abundances in lunar samples. Proc. Apollo 11 Lunar Sci.   samples: K, Rb, Sr, Ba and rare-earth concentrations in some
+    Conf. 1177-1194.                                         rocks and separated phases. Proc. Apollo 11 Lunar Science
+                                                            Conf. 1471-1486.
+   Grove T.L. and Beaty D.W. (1980)  Classification,
+    experimental petrology and possible volcanic histories of   Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+    the Apollo 11 high-K basalts. Proc. 11th Lunar Planet. Sci.   (1976a) Lithification of vitric- and clastic-matrix breccias:
+    Conf. 149-177.                           SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+
+=== PDF PAGE 9; CATEGORIES: chemistry ===
+--- chemistry block 1; lines 1-12 ---
+Thiemens M.H. and Clayton R.N. (1980) Ancient solar wind
+    in lunar microbreccias. Earth Planet. Sci. Lett. 47, 34-42.
+
+   Wänke H., Rieder R., Baddenhausen H., Spettler B., Teschke
+     F., Quijano-Rico M. and Balacescu A.
+    (1970) Major and trace elements in lunar material. Proc.
+    Apollo 11 Lunar Sci. Conf. 1719-1727.
+
+   Wasson J.T. and Baedecker P.A. (1970) Ga, Ge, In, Ir, and
+   Au in lunar terrestrial and meteoritic basalts. Proc. Apollo
+   11 Lunar Sci. Conf. 1741-1750.

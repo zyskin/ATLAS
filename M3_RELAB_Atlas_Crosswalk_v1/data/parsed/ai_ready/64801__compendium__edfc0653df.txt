@@ -1,0 +1,482 @@
+DOCUMENT_ID: 64801__compendium__edfc0653df
+ATLAS_SAMPLE_IDS: 64801,64810
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64801.pdf
+SOURCE_PDF_SHA256: 2cef552644101e622ed1b9f7ea57c81ffbf7839fd459effbdbee5728b93746e5
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+64801 and 64810
+                                  Soil and rake residue
+                                  480 and 301 grams
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-17 ---
+Introduction                                                         25
+  Soil sample 64801 and rake sample 64810 were                                                                              20                      Apollo soils
+  collected adjacent to each other at Station 4, on the
+  slope of Stone Mountain (figures 1, 2 and 3). The area          15
+  was free of the blocky material found at the Doublet FeO
+  Crater nearby (64501 etc) and, indeed, the rake sample          10
+  yielded only a few small rocks.                                                                         64801
+                                                                                  5
+  Petrography
+  The maturity index Is/FeO = 71 for 64801 and 54 for           0 0       5       10      15      20      25      30      35
+  64810 (Morris 1978). This is a relatively mature soil                    Al2O3
+  with average grain size 80 microns (figure 8).
+                                                                Figure 4: Composition of 64801 and other Apollo
+                                                                               soil samples.  Phinney and Lofgren (1973) and Marvin (1972)
+  cataloged the particles picked out of these samples.                 200
+
+                                                                                                         180
+--- chemistry block 2; lines 22-34 ---
+rake sample 64811. There are a lot of agglutinates in  ppm  100
+  each size range.                                                                             80
+                                                                                                          60
+  Chemistry                                                                                   4020                                                                                           Lunar Soils
+  64801 is a typical high-Al highland soil (figures 4 and                 0
+   6).  It should be considered as a reference to the soils                   0          20          40          60          80         100         120
+  from the nearby Doublet Crater which is thought to                         maturity (Is/FeO)
+  have been created by ejecta from South Ray Crater.       Figure 5: Carbon content and maturity index for
+  Together, these soils should include material from the       64801 (Moore et al. 1973; Graf 1993).
+  elusive Descartes Formation, but in fact they haven’t
+  been distinguished from the material from the Cayley
+  Plains.
+--- mineralogy block 3; lines 12-27 ---
+with average grain size 80 microns (figure 8).
+                                                                Figure 4: Composition of 64801 and other Apollo
+                                                                               soil samples.  Phinney and Lofgren (1973) and Marvin (1972)
+  cataloged the particles picked out of these samples.                 200
+
+                                                                                                         180
+  Butler et al. (1973) reported a mineral mode for              160                       64801
+  different size fractions of 64801 and Simkin et al.              140
+
+                                                                                                         120  (1973) reported the mode for the large residue from  C
+  rake sample 64811. There are a lot of agglutinates in  ppm  100
+  each size range.                                                                             80
+                                                                                                          60
+  Chemistry                                                                                   4020                                                                                           Lunar Soils
+  64801 is a typical high-Al highland soil (figures 4 and                 0
+   6).  It should be considered as a reference to the soils                   0          20          40          60          80         100         120
+--- material block 4; lines 1-32 ---
+Introduction                                                         25
+  Soil sample 64801 and rake sample 64810 were                                                                              20                      Apollo soils
+  collected adjacent to each other at Station 4, on the
+  slope of Stone Mountain (figures 1, 2 and 3). The area          15
+  was free of the blocky material found at the Doublet FeO
+  Crater nearby (64501 etc) and, indeed, the rake sample          10
+  yielded only a few small rocks.                                                                         64801
+                                                                                  5
+  Petrography
+  The maturity index Is/FeO = 71 for 64801 and 54 for           0 0       5       10      15      20      25      30      35
+  64810 (Morris 1978). This is a relatively mature soil                    Al2O3
+  with average grain size 80 microns (figure 8).
+                                                                Figure 4: Composition of 64801 and other Apollo
+                                                                               soil samples.  Phinney and Lofgren (1973) and Marvin (1972)
+  cataloged the particles picked out of these samples.                 200
+
+                                                                                                         180
+  Butler et al. (1973) reported a mineral mode for              160                       64801
+  different size fractions of 64801 and Simkin et al.              140
+
+                                                                                                         120  (1973) reported the mode for the large residue from  C
+  rake sample 64811. There are a lot of agglutinates in  ppm  100
+  each size range.                                                                             80
+                                                                                                          60
+  Chemistry                                                                                   4020                                                                                           Lunar Soils
+  64801 is a typical high-Al highland soil (figures 4 and                 0
+   6).  It should be considered as a reference to the soils                   0          20          40          60          80         100         120
+  from the nearby Doublet Crater which is thought to                         maturity (Is/FeO)
+  have been created by ejecta from South Ray Crater.       Figure 5: Carbon content and maturity index for
+  Together, these soils should include material from the       64801 (Moore et al. 1973; Graf 1993).
+  elusive Descartes Formation, but in fact they haven’t
+  been distinguished from the material from the Cayley
+--- material block 5; lines 37-50 ---
+and Lewis (1975) reported 86 ppm and 113 ppm
+  nitrogen, respectively for 64801. Jovanovic and Reed  Walton et al. (1973) determined the rare gas content
+  (1973) determined the halogens, Li, U and Te. The  and isotopic rations. The 21Ne exposure age is 310
+  meteoritic siderophiles (Ni, Ir and Au) are very high.   m.y.
+
+  Cosmogenic isotopes and exposure ages         Processing
+  Eldridge et al. (1973) determined the cosmic-ray-  Since there was a lot of residue in the rake sample
+  induced activity of 26Al = 105 dpm/kg and 22Na = 50  64810, it was treated as a soil and sieved.
+  dpm/kg. Wrigley (1973) determined the cosmic-ray-
+  induced activity of 26Al = 116 dpm/kg and 22Na = 55
+  dpm/kg .
+
+  Other Studies
+  Bhandari et al. (1973) determined the fossil nuclear
+--- age block 6; lines 33-57 ---
+Plains.
+
+  Moore et al. (1973) determined 160 ppm carbon for  Pearce et al. (1973) reported magnetic properties for
+  64801 (figure 5).  Kerridge et al. (1975) and Moore  64801 and other samples.
+  and Lewis (1975) reported 86 ppm and 113 ppm
+  nitrogen, respectively for 64801. Jovanovic and Reed  Walton et al. (1973) determined the rare gas content
+  (1973) determined the halogens, Li, U and Te. The  and isotopic rations. The 21Ne exposure age is 310
+  meteoritic siderophiles (Ni, Ir and Au) are very high.   m.y.
+
+  Cosmogenic isotopes and exposure ages         Processing
+  Eldridge et al. (1973) determined the cosmic-ray-  Since there was a lot of residue in the rake sample
+  induced activity of 26Al = 105 dpm/kg and 22Na = 50  64810, it was treated as a soil and sieved.
+  dpm/kg. Wrigley (1973) determined the cosmic-ray-
+  induced activity of 26Al = 116 dpm/kg and 22Na = 55
+  dpm/kg .
+
+  Other Studies
+  Bhandari et al. (1973) determined the fossil nuclear
+  track density and found a ‘suntan’ age of only 6 m.y.
+
+
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 7; lines 4-17 ---
+slope of Stone Mountain (figures 1, 2 and 3). The area          15
+  was free of the blocky material found at the Doublet FeO
+  Crater nearby (64501 etc) and, indeed, the rake sample          10
+  yielded only a few small rocks.                                                                         64801
+                                                                                  5
+  Petrography
+  The maturity index Is/FeO = 71 for 64801 and 54 for           0 0       5       10      15      20      25      30      35
+  64810 (Morris 1978). This is a relatively mature soil                    Al2O3
+  with average grain size 80 microns (figure 8).
+                                                                Figure 4: Composition of 64801 and other Apollo
+                                                                               soil samples.  Phinney and Lofgren (1973) and Marvin (1972)
+  cataloged the particles picked out of these samples.                 200
+
+                                                                                                         180
+--- treatment block 8; lines 22-50 ---
+rake sample 64811. There are a lot of agglutinates in  ppm  100
+  each size range.                                                                             80
+                                                                                                          60
+  Chemistry                                                                                   4020                                                                                           Lunar Soils
+  64801 is a typical high-Al highland soil (figures 4 and                 0
+   6).  It should be considered as a reference to the soils                   0          20          40          60          80         100         120
+  from the nearby Doublet Crater which is thought to                         maturity (Is/FeO)
+  have been created by ejecta from South Ray Crater.       Figure 5: Carbon content and maturity index for
+  Together, these soils should include material from the       64801 (Moore et al. 1973; Graf 1993).
+  elusive Descartes Formation, but in fact they haven’t
+  been distinguished from the material from the Cayley
+  Plains.
+
+  Moore et al. (1973) determined 160 ppm carbon for  Pearce et al. (1973) reported magnetic properties for
+  64801 (figure 5).  Kerridge et al. (1975) and Moore  64801 and other samples.
+  and Lewis (1975) reported 86 ppm and 113 ppm
+  nitrogen, respectively for 64801. Jovanovic and Reed  Walton et al. (1973) determined the rare gas content
+  (1973) determined the halogens, Li, U and Te. The  and isotopic rations. The 21Ne exposure age is 310
+  meteoritic siderophiles (Ni, Ir and Au) are very high.   m.y.
+
+  Cosmogenic isotopes and exposure ages         Processing
+  Eldridge et al. (1973) determined the cosmic-ray-  Since there was a lot of residue in the rake sample
+  induced activity of 26Al = 105 dpm/kg and 22Na = 50  64810, it was treated as a soil and sieved.
+  dpm/kg. Wrigley (1973) determined the cosmic-ray-
+  induced activity of 26Al = 116 dpm/kg and 22Na = 55
+  dpm/kg .
+
+  Other Studies
+  Bhandari et al. (1973) determined the fossil nuclear
+--- references block 9; lines 21-33 ---
+120  (1973) reported the mode for the large residue from  C
+  rake sample 64811. There are a lot of agglutinates in  ppm  100
+  each size range.                                                                             80
+                                                                                                          60
+  Chemistry                                                                                   4020                                                                                           Lunar Soils
+  64801 is a typical high-Al highland soil (figures 4 and                 0
+   6).  It should be considered as a reference to the soils                   0          20          40          60          80         100         120
+  from the nearby Doublet Crater which is thought to                         maturity (Is/FeO)
+  have been created by ejecta from South Ray Crater.       Figure 5: Carbon content and maturity index for
+  Together, these soils should include material from the       64801 (Moore et al. 1973; Graf 1993).
+  elusive Descartes Formation, but in fact they haven’t
+  been distinguished from the material from the Cayley
+  Plains.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 5-28 ---
+5
+
+
+              4
+ FeO
+              3
+
+
+              2
+
+              1     HB (Ridley et al. 1973)
+               A16 soil
+
+              0
+              24         25        26         27        28         29         30         31
+                           Al2O3
+
+         Figure 6: Composition of 64801
+                                                         average grain size = 80 microns
+--- material block 2; lines 12-38 ---
+3
+
+
+              2
+
+              1     HB (Ridley et al. 1973)
+               A16 soil
+
+              0
+              24         25        26         27        28         29         30         31
+                           Al2O3
+
+         Figure 6: Composition of 64801
+                                                         average grain size = 80 microns
+
+
+
+
+
+        Figure 7: Normalized rare-earth-element diagram
+          for 64801.                                                              Figure 8: Grain size distribution for 64800 (Graf
+                                                             1991, from data by Butler et al. )
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 64801.
+                                                                                                                  ave. st. 4
+   reference  Hubbard73  Compston73  Simkin73   Taylor73   Wrigley73  Eldridge73  Korotev91  Krahenbuhl73 Korotev81
+   weight
+  SiO2 %   45.03    (e) 45.05     (e)  44.6        44.9    (b)                                                  45.1
+  TiO2      0.61      (e) 0.61       (e)  0.49        0.47    (b)                                                  0.52
+  Al2O3     27.37    (e) 27.12     (e)  26.9        27.7    (b)                                                  27.6
+  FeO       5.36      (e) 5.16       (e)  5.59        5.01    (b)                        5.17    (a)                 4.6
+  MnO      0.08      (e) 0.07       (e)  0.04                                                                   0.06
+  MgO      5.66      (e) 5.7        (e)  5.5         5.69    (b)                                                    5.1
+  CaO      15.64    (e) 15.87     (e)  15.5        15.7    (b)                        15.7    (a)                16.2
+  Na2O     0.36      (e) 0.44       (e)  0.5         0.51    (b)                        0.45    (a)                0.47
+  K2O      0.13      (e) 0.12       (e)  0.19        0.22    (b) 0.1      (d) 0.13     (d)                           0.112
+  P2O5     0.13      (e) 0.1        (e)             0.16    (b)
+  S %       0.08      (e) 0.05       (e)
+  sum
+
+  Sc ppm                                       11      (b)                         9.6     (a)                 8.2
+  V                                8         28      (b)                                            15
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 64801.
+                                                                                                                  ave. st. 4
+   reference  Hubbard73  Compston73  Simkin73   Taylor73   Wrigley73  Eldridge73  Korotev91  Krahenbuhl73 Korotev81
+   weight
+  SiO2 %   45.03    (e) 45.05     (e)  44.6        44.9    (b)                                                  45.1
+  TiO2      0.61      (e) 0.61       (e)  0.49        0.47    (b)                                                  0.52
+  Al2O3     27.37    (e) 27.12     (e)  26.9        27.7    (b)                                                  27.6
+  FeO       5.36      (e) 5.16       (e)  5.59        5.01    (b)                        5.17    (a)                 4.6
+  MnO      0.08      (e) 0.07       (e)  0.04                                                                   0.06
+--- references block 3; lines 64-73 ---
+Os ppb
+    Ir ppb                                                                             10.3    (a) 26         (c )
+   Pt ppb
+  Au ppb                                                                            15.6    (a)  16.6       (c )
+  Th ppm                                          2.17    (b) 2.21     (d) 2.23     (d) 2.09    (a)              2
+  U ppm                                          0.61    (b) 0.58     (d) 0.6      (d) 0.56    (a)  0.66       (c ) 0.58
+   technique:  (a) INAA, (b) SSMS, (c ) RNAA,  (d) radiation count. (e) XRF, (f) IDMS
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-25 ---
+Table 2. Chemical composition of 64811.
+                                              References for 64801 and 64811. reference  Korotev82  Simkin73
+ weight                                              Bhandari N., Goswami J. and Lal D. (1973)  Surface
+ SiO2 %               44.6     (b)                               irradiation and evolution of the lunar regolith.  Proc. 4th
+ TiO2                  0.49     (b)                        Lunar Sci. Conf. 2275-2290.
+ Al2O3    27       (a) 26.9     (b)
+ FeO       5.56     (a) 5.59     (b)
+ MnO      0.073   (a) 0.04     (b)                            Butler P. (1972) Lunar Sample Information Catalog Apollo
+ MgO      6.1      (a)  5.5      (b)                            16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+ CaO      14.6     (a) 15.5     (b)                            Catalog. pp. 370.
+ Na2O     0.462   (a)  0.5      (b)
+ K2O                  0.19     (b)
+ P2O5                                                      Butler J.C., Greene G.M. and King E.A. (1973) Grain size
+ S %                                                     frequency distribution and modal analysis of Apollo 16 fines.
+ sum                                                      Proc. 4th Lunar Sci. Conf. 267-278.
+
+ Sc ppm   9.27     (a)
+ V        21       (a) 8        (c )                       Compston W., Vernon M.J., Chappell B.W. and Freeman R.
+ Cr       733     (a) 770     (c )                          (1973) Rb-Sr model ages and chemical composition of nine
+ Co        35.5     (a) 24       (c )                         Apollo 16 soils (abs). Lunar Sci. IV, 158.
+ Ni        465     (a) 290     (c )
+ Cu                 10       (c )
+ Zn                                                      Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1973)
+ Ga                 4        (c )                          Radionuclide concentrations in Apollo 16 lunar samples
+ Ge ppb                                                determined by nondestructive gamma-ray spectrometry.
+--- chemistry block 2; lines 33-45 ---
+Mo                                               Hubbard N.J., Rhodes J.M., Gast P.W., Bansal B.M., Shih
+ Ru                                                            C.-Y., Wiesmann H. and Nyquist L.E. (1973b) Lunar rock
+ Rh                                                            types: The role of plagioclase in non-mare and highland rock
+ Pd ppb
+                                                                types. Proc. 4th Lunar Sci. Conf. 1297-1312. Ag ppb
+ Cd ppb
+  In ppb                                                  Jovanovic S. and Reed G.W. (1973b) Volatile trace elements
+ Sn ppb                                              and the characterization of the Cayley formation and the
+ Sb ppb
+                                                              primitive lunar crust. Proc. 4th Lunar Sci. Conf. 1313-1324. Te ppb
+ Cs ppm   0.17     (a)
+ Ba       159     (a) 180     (c )                         Korotev R.L. (1982) Comparative geochemistry of Apollo
+ La        14.21   (a)                                 16 surface soils and samples from cores 64002 and 60002
+--- mineralogy block 3; lines 8-20 ---
+MnO      0.073   (a) 0.04     (b)                            Butler P. (1972) Lunar Sample Information Catalog Apollo
+ MgO      6.1      (a)  5.5      (b)                            16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+ CaO      14.6     (a) 15.5     (b)                            Catalog. pp. 370.
+ Na2O     0.462   (a)  0.5      (b)
+ K2O                  0.19     (b)
+ P2O5                                                      Butler J.C., Greene G.M. and King E.A. (1973) Grain size
+ S %                                                     frequency distribution and modal analysis of Apollo 16 fines.
+ sum                                                      Proc. 4th Lunar Sci. Conf. 267-278.
+
+ Sc ppm   9.27     (a)
+ V        21       (a) 8        (c )                       Compston W., Vernon M.J., Chappell B.W. and Freeman R.
+ Cr       733     (a) 770     (c )                          (1973) Rb-Sr model ages and chemical composition of nine
+ Co        35.5     (a) 24       (c )                         Apollo 16 soils (abs). Lunar Sci. IV, 158.
+--- mineralogy block 4; lines 29-41 ---
+Sr       165     (a) 150     (c )                         Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+ Y                  44       (c )                          Pub. 1265
+ Zr        225     (a) 220     (c )
+ Nb
+ Mo                                               Hubbard N.J., Rhodes J.M., Gast P.W., Bansal B.M., Shih
+ Ru                                                            C.-Y., Wiesmann H. and Nyquist L.E. (1973b) Lunar rock
+ Rh                                                            types: The role of plagioclase in non-mare and highland rock
+ Pd ppb
+                                                                types. Proc. 4th Lunar Sci. Conf. 1297-1312. Ag ppb
+ Cd ppb
+  In ppb                                                  Jovanovic S. and Reed G.W. (1973b) Volatile trace elements
+ Sn ppb                                              and the characterization of the Cayley formation and the
+ Sb ppb
+--- material block 5; lines 1-19 ---
+Table 2. Chemical composition of 64811.
+                                              References for 64801 and 64811. reference  Korotev82  Simkin73
+ weight                                              Bhandari N., Goswami J. and Lal D. (1973)  Surface
+ SiO2 %               44.6     (b)                               irradiation and evolution of the lunar regolith.  Proc. 4th
+ TiO2                  0.49     (b)                        Lunar Sci. Conf. 2275-2290.
+ Al2O3    27       (a) 26.9     (b)
+ FeO       5.56     (a) 5.59     (b)
+ MnO      0.073   (a) 0.04     (b)                            Butler P. (1972) Lunar Sample Information Catalog Apollo
+ MgO      6.1      (a)  5.5      (b)                            16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+ CaO      14.6     (a) 15.5     (b)                            Catalog. pp. 370.
+ Na2O     0.462   (a)  0.5      (b)
+ K2O                  0.19     (b)
+ P2O5                                                      Butler J.C., Greene G.M. and King E.A. (1973) Grain size
+ S %                                                     frequency distribution and modal analysis of Apollo 16 fines.
+ sum                                                      Proc. 4th Lunar Sci. Conf. 267-278.
+
+ Sc ppm   9.27     (a)
+ V        21       (a) 8        (c )                       Compston W., Vernon M.J., Chappell B.W. and Freeman R.
+ Cr       733     (a) 770     (c )                          (1973) Rb-Sr model ages and chemical composition of nine
+--- material block 6; lines 23-41 ---
+Zn                                                      Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1973)
+ Ga                 4        (c )                          Radionuclide concentrations in Apollo 16 lunar samples
+ Ge ppb                                                determined by nondestructive gamma-ray spectrometry.
+ As
+                                                           Proc. 4th Lunar Sci. Conf. 2115-2122. Se
+ Rb
+ Sr       165     (a) 150     (c )                         Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+ Y                  44       (c )                          Pub. 1265
+ Zr        225     (a) 220     (c )
+ Nb
+ Mo                                               Hubbard N.J., Rhodes J.M., Gast P.W., Bansal B.M., Shih
+ Ru                                                            C.-Y., Wiesmann H. and Nyquist L.E. (1973b) Lunar rock
+ Rh                                                            types: The role of plagioclase in non-mare and highland rock
+ Pd ppb
+                                                                types. Proc. 4th Lunar Sci. Conf. 1297-1312. Ag ppb
+ Cd ppb
+  In ppb                                                  Jovanovic S. and Reed G.W. (1973b) Volatile trace elements
+ Sn ppb                                              and the characterization of the Cayley formation and the
+ Sb ppb
+--- material block 7; lines 44-56 ---
+Ba       159     (a) 180     (c )                         Korotev R.L. (1982) Comparative geochemistry of Apollo
+ La        14.21   (a)                                 16 surface soils and samples from cores 64002 and 60002
+ Ce        38.3     (a)
+                                                               thru 60007. Proc. 13th Lunar Planet. Sci. Conf. A269-A278. Pr
+ Nd
+ Sm       6.82     (a)                                  Korotev R.L. (1991)  Geochemical stratigraphy of two
+ Eu        1.185   (a)                                            regolith cores from the Central Highlands of the Moon. Proc.
+ Gd
+                                                                         21st  Lunar Planet. Sci. Conf. 229-289.  Lunar Planetary Tb        1.44     (a)
+ Dy                                                                   Institute, Houston
+ Ho
+ Er                                                        Kothari B.K. and Goel P.S. (1973) Nitrogen in lunar samples.
+ Tm
+--- treatment block 8; lines 1-10 ---
+Table 2. Chemical composition of 64811.
+                                              References for 64801 and 64811. reference  Korotev82  Simkin73
+ weight                                              Bhandari N., Goswami J. and Lal D. (1973)  Surface
+ SiO2 %               44.6     (b)                               irradiation and evolution of the lunar regolith.  Proc. 4th
+ TiO2                  0.49     (b)                        Lunar Sci. Conf. 2275-2290.
+ Al2O3    27       (a) 26.9     (b)
+ FeO       5.56     (a) 5.59     (b)
+ MnO      0.073   (a) 0.04     (b)                            Butler P. (1972) Lunar Sample Information Catalog Apollo
+ MgO      6.1      (a)  5.5      (b)                            16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+ CaO      14.6     (a) 15.5     (b)                            Catalog. pp. 370.
+--- references block 9; lines 1-8 ---
+Table 2. Chemical composition of 64811.
+                                              References for 64801 and 64811. reference  Korotev82  Simkin73
+ weight                                              Bhandari N., Goswami J. and Lal D. (1973)  Surface
+ SiO2 %               44.6     (b)                               irradiation and evolution of the lunar regolith.  Proc. 4th
+ TiO2                  0.49     (b)                        Lunar Sci. Conf. 2275-2290.
+ Al2O3    27       (a) 26.9     (b)
+ FeO       5.56     (a) 5.59     (b)
+ MnO      0.073   (a) 0.04     (b)                            Butler P. (1972) Lunar Sample Information Catalog Apollo
+--- references block 10; lines 63-72 ---
+Os ppb                                                     of the moon. Proc. 4th Lunar Sci. Conf. 1325-1348.
+  Ir ppb     14.8     (a)
+ Pt ppb                                      LSPET (1973) The Apollo 16 lunar samples: Petrographic
+ Au ppb
+                                                     and chemical description. Science 179, 23-34. Th ppm    2.68     (a)
+ U ppm     0.7      (a)
+  technique:  (a) INAA, (b) fused bead e-probe, (c ) ES
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 6; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 34-46 ---
+of inert gases in fines from the Cayley-Descartes region.
+  Morris R.V., Score R., Dardano C. and Heiken G. (1983)                                                            Proc. 4th Lunar Sci. Conf. 2079-2096.
+  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+   Office, Houston                                                       Wrigley R.C. (1973)  Radionuclides at Descartes in the
+                                                                  central highlands. Proc. 4th Lunar Sci. Conf. 2203-2208.
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+   soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  Lunar Sci. Conf. 2287-2297.
+
+  Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+  Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+   4th Lunar Sci. Conf. 3045-3076.
+--- material block 2; lines 42-54 ---
+Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+  Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+   4th Lunar Sci. Conf. 3045-3076.
+
+  Phinney W. and Lofgren G. (1973) Description, classification
+  and inventory of Apollo 16 rake samples from stations 1, 4
+  and 13. Curators Office.
+
+  Schonfeld E. (1974) The contamination of lunar highland
+  rocks by KREEP: Interpretations by mixing models. Proc.
+   5th Lunar Sci. Conf. 1269-1286.
+--- treatment block 3; lines 33-50 ---
+569-571.                                                       Walton J.R., Lakatos S. and Heymann D. (1973) Distribution
+                                                              of inert gases in fines from the Cayley-Descartes region.
+  Morris R.V., Score R., Dardano C. and Heiken G. (1983)                                                            Proc. 4th Lunar Sci. Conf. 2079-2096.
+  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+   Office, Houston                                                       Wrigley R.C. (1973)  Radionuclides at Descartes in the
+                                                                  central highlands. Proc. 4th Lunar Sci. Conf. 2203-2208.
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+   soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  Lunar Sci. Conf. 2287-2297.
+
+  Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+  Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+   4th Lunar Sci. Conf. 3045-3076.
+
+  Phinney W. and Lofgren G. (1973) Description, classification
+  and inventory of Apollo 16 rake samples from stations 1, 4
+  and 13. Curators Office.

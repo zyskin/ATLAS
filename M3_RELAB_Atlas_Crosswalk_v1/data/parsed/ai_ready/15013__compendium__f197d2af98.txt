@@ -1,0 +1,320 @@
+DOCUMENT_ID: 15013__compendium__f197d2af98
+ATLAS_SAMPLE_IDS: 15013
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15013.pdf
+SOURCE_PDF_SHA256: 3151ba4eb167fbefe024dfb4fedeb86d70eec8ce41b52dee63e08ac5281b3a47
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 22-43 ---
+20                              Lunar Soils
+
+                                                                                                                      0
+                                                                                                                        0          20          40          60          80         100         120
+
+                                                                                     maturity (Is/FeO)
+
+                                                                Figure 2: Maturity index and carbon content of
+                                                         15013 (data from Moore et al. 1973, Morris 1978).
+
+
+                                             Petrography
+                                                15013 is a mature soil, based on Is/FeO = 77 (Morris
+                                                   1978) and average grain size = 52 microns (figure 2).
+                                                   Another soil taken near the LM is 15020 (Is/FeO = 70),
+                                                 with agglutinate content 48 % (Basu 1981).
+                                                   Experiments should be done on both sample – for
+                                                      comparison.
+
+                                               The particles extracted from 15013 are shown in figures
+                                                             8a,b. They have apparently escaped notice by lunar
+--- mineralogy block 2; lines 32-44 ---
+Petrography
+                                                15013 is a mature soil, based on Is/FeO = 77 (Morris
+                                                   1978) and average grain size = 52 microns (figure 2).
+                                                   Another soil taken near the LM is 15020 (Is/FeO = 70),
+                                                 with agglutinate content 48 % (Basu 1981).
+                                                   Experiments should be done on both sample – for
+                                                      comparison.
+
+                                               The particles extracted from 15013 are shown in figures
+                                                             8a,b. They have apparently escaped notice by lunar
+                                                               petrologists.
+--- material block 3; lines 1-8 ---
+15013
+                                  Soil (vacuum container)
+                                           296.2 grams
+
+
+
+                                                                                                           200
+--- material block 4; lines 29-58 ---
+Figure 2: Maturity index and carbon content of
+                                                         15013 (data from Moore et al. 1973, Morris 1978).
+
+
+                                             Petrography
+                                                15013 is a mature soil, based on Is/FeO = 77 (Morris
+                                                   1978) and average grain size = 52 microns (figure 2).
+                                                   Another soil taken near the LM is 15020 (Is/FeO = 70),
+                                                 with agglutinate content 48 % (Basu 1981).
+                                                   Experiments should be done on both sample – for
+                                                      comparison.
+
+                                               The particles extracted from 15013 are shown in figures
+                                                             8a,b. They have apparently escaped notice by lunar
+                                                               petrologists.
+
+       Figure 1: SESC used to collect soil sample 15013     Chemistry
+       from under Lunar Module. The wire was caught in     Christian et al. (1976) and Korotev (1987) have
+        the seal and the container was not under vacuum       analyzed 15013 (table 1, figures 3 and 4). It is similar
+      when opened. NASA S71-44784.                       in composition to 15020, which was collected nearby.
+
+   Introduction                              Moore et al. (1973) and Des Marais et al. (1973)
+   This soil was collected from the surface under the Lunar  determined 150 ppm and 103 ppm carbon, respectively
+   Module and placed in a special environmental sample   (figure 2). Kothari and Goel (1972) and Muller (1973)
+   container (SESC).  However, when the sample was   reported 98 ppm and 113 ppm nitrogen, respectively.
+   opened in Berkeley by Burlingame, it was found to
+   not have sealed (see figure 1).                  Other Studies
+                                                     Simoneit et al. (1973) seems to have found “lightly
+   Simoneit et al. (1973) found that the breakdown  bound” exhaust products from the LM (figure 6).
+--- treatment block 5; lines 22-41 ---
+20                              Lunar Soils
+
+                                                                                                                      0
+                                                                                                                        0          20          40          60          80         100         120
+
+                                                                                     maturity (Is/FeO)
+
+                                                                Figure 2: Maturity index and carbon content of
+                                                         15013 (data from Moore et al. 1973, Morris 1978).
+
+
+                                             Petrography
+                                                15013 is a mature soil, based on Is/FeO = 77 (Morris
+                                                   1978) and average grain size = 52 microns (figure 2).
+                                                   Another soil taken near the LM is 15020 (Is/FeO = 70),
+                                                 with agglutinate content 48 % (Basu 1981).
+                                                   Experiments should be done on both sample – for
+                                                      comparison.
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 1-21 ---
+25
+           20                      Apollo soils
+
+
+           15
+  FeO          15013
+           10
+
+
+             5
+
+
+             0
+               0       5      10      15      20      25      30      35
+                     Al2O3
+
+        Figure 3: Composition diagram for all Apollo soil
+                                                                Average grain size = 53 microns        samples indiating 15013.
+--- material block 2; lines 11-24 ---
+0
+               0       5      10      15      20      25      30      35
+                     Al2O3
+
+        Figure 3: Composition diagram for all Apollo soil
+                                                                Average grain size = 53 microns        samples indiating 15013.
+
+
+
+             1000
+
+                            15013
+--- material block 3; lines 41-53 ---
+0.1
+                 La      Pr    Sm    Gd     Dy      Er     Yb                  Ce    Nd     Eu     Tb    Ho    Tm     Lu
+
+
+        Figure 4: Normalized rare-earth-element diagram for
+       15013 (Korotev 1987).                                      Figure 5: Grain size distribution of 15013 (Graf
+                                                                     1993).
+
+=== PDF PAGE 3; CATEGORIES: material,treatment ===
+--- material block 1; lines 1-29 ---
+Figure 7: Volatile release curve for typical mature
+                                                                  lunar soil (15020) for comparison (from Gibson and
+                                                       Moore 1972).
+
+
+
+                                                 Processing
+                                                    There was a mistake in the early documentation (Swann
+                                                                  et al. 1971, 1972; Graf 1993) related to the numbering
+                                                          of SESC containers 15014 (trench bottom, station 8)
+                                               and 15013 (collected under LM).  In the early
+                                                      documentation, these sample numbers were switched.
+                                                 However, by the time 15013 was sent to Berkeley the
+        Figure 6: Temperature release pattern for heating                                                  numbering was correct.
+          soil sample 15013, showing breakdown products of
+        Lunar Module exhaust (hydrozene and N2O4 ?) -
+                                                15013 was transferred directly to Burlingame, opened        from Simoneit et al. 1973.
+                                                            in He in Berkeley and distributed directly to PIs
+                                                       (Simoneit et al. 1971).
+
+
+
+
+
+       Figure 8a: Small rock particles found in          Figure 8b: Sketch of small rock particles
+      15013 (from Simoneit et al.1972).                found in 15013 (from Simoneit et al.1972).
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 2; lines 1-7 ---
+Figure 7: Volatile release curve for typical mature
+                                                                  lunar soil (15020) for comparison (from Gibson and
+                                                       Moore 1972).
+
+
+
+                                                 Processing
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 15013 (and 15020).
+                                                   15021 (for ref.)
+     reference  Christian76  Korotev87                    Laul73           Wanke73
+     weight
+    SiO2 %    46.94     (a)                                                  47.07    (b)
+    TiO2       1.72      (a) 1.97     (b)                    1.8     1.8      (b) 1.75      (b)
+    Al2O3     14.46     (a) 14.8     (b)                   14.1    14.1     (b) 14.17    (b)
+   FeO       14.98     (a) 14.8     (b)                 15     15       (b) 14.92    (b)
+   MnO       0.21      (a) 0.2       (b)                   0.19    0.184   (b) 0.18      (b)
+   MgO      10.35     (a) 10.8     (b)                        10       (b) 10.44    (b)
+   CaO       10.38     (a) 10       (b)                   10.8    10.7     (b) 8.95      (b)
+   Na2O      0.44      (a) 0.46     (b)                   0.434   0.426   (b) 0.39      (b)
+   K2O       0.22      (a)                               0.22    0.22     (b) 0.2       (b)
+   P2O5      0.22      (a)
+   S %
+    sum
+
+    Sc ppm                 28.7     (b)                 28     27       (b) 26.6      (b)
+   V                    115      (b)                  114     113      (b)
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 15013 (and 15020).
+                                                   15021 (for ref.)
+     reference  Christian76  Korotev87                    Laul73           Wanke73
+     weight
+    SiO2 %    46.94     (a)                                                  47.07    (b)
+    TiO2       1.72      (a) 1.97     (b)                    1.8     1.8      (b) 1.75      (b)
+    Al2O3     14.46     (a) 14.8     (b)                   14.1    14.1     (b) 14.17    (b)
+   FeO       14.98     (a) 14.8     (b)                 15     15       (b) 14.92    (b)
+   MnO       0.21      (a) 0.2       (b)                   0.19    0.184   (b) 0.18      (b)
+--- references block 3; lines 64-74 ---
+Os ppb
+       Ir ppb                   7.9       (b)
+     Pt ppb
+    Au ppb                  2.6       (b)
+    Th ppm                 5.2       (b)
+   U ppm                  1.1       (b)
+     technique:  (a) “microchemical”, (b) INAA
+
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 36-48 ---
+distribution in lunar soil of hydrogen released by pryrolysis.
+    Proc. 5th Lunar Sci. Conf. 1811-1822.                 Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+                                                          carbon contents of Apollo 15 and 16 lunar samples. Proc.
+   DesMarais D.J., Basu A., Hayes J.M. and Meinshein W.G.    4th Lunar Sci. Conf. 1613-1624.
+    (1975) Evolution of carbon isotopes, agglutinates and the
+    lunar regolith. Proc. 6th Lunar Sci. Conf. 2353-2374.       Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                          soils: Some concepts and Is/FeO compilation.  Proc. 9th
+    Farr T.G., Bates B., Ralph R.L. and Adams J.B. (1980)  Lunar Planet . Sci. Conf. 2287-2298.
+    Effects of overlapping optical absorption bands of pyroxene
+   and glass on the reflectance spectra of lunar soils (abs).   Muller O. (1973) Chemically bound nitrogen contents of
+   Lunar Sci. XI, 276-278. LPI.                            Apollo 16 and Apollo 15 lunar fines. Proc. 4th Lunar Sci.
+                                                            Conf. 1625-1634.
+   Fox S.W., Harada K. and Hare P.E. (1973) Accumulated
+--- mineralogy block 2; lines 38-51 ---
+carbon contents of Apollo 15 and 16 lunar samples. Proc.
+   DesMarais D.J., Basu A., Hayes J.M. and Meinshein W.G.    4th Lunar Sci. Conf. 1613-1624.
+    (1975) Evolution of carbon isotopes, agglutinates and the
+    lunar regolith. Proc. 6th Lunar Sci. Conf. 2353-2374.       Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                          soils: Some concepts and Is/FeO compilation.  Proc. 9th
+    Farr T.G., Bates B., Ralph R.L. and Adams J.B. (1980)  Lunar Planet . Sci. Conf. 2287-2298.
+    Effects of overlapping optical absorption bands of pyroxene
+   and glass on the reflectance spectra of lunar soils (abs).   Muller O. (1973) Chemically bound nitrogen contents of
+   Lunar Sci. XI, 276-278. LPI.                            Apollo 16 and Apollo 15 lunar fines. Proc. 4th Lunar Sci.
+                                                            Conf. 1625-1634.
+   Fox S.W., Harada K. and Hare P.E. (1973) Accumulated
+    analyses of amino acid precursors in returned lunar samples.   Muller O. (1974) Solar wind nitrogen and idigenous nitrogen
+    Proc. 4th Lunar Sci. Conf. 2241-2248.                        in Apollo 17 lunar samples. Proc. 5th Lunar Sci. Conf. 1907-
+                                                          1918.
+--- material block 3; lines 6-47 ---
+May 18                                             Kaplan I.R., Kerridge J.F. and Petrowski C. (1976) Light
+                                                          element geochemistry of the Apollo 15 site. Proc. 7th Lunar
+    Butler (1972) Lunar Sample Information Catalog: Apollo   Sci. Conf. 481-492.
+    15. MSC 03209
+                                                Keihm S.J. and Langseth M.G. (1973) Surface brightness
+   Chang S., Mack R., Gibson E.K. and Moore G.W. (1973)   temperatures at he Apollo 17 heat flow site – thermal
+   Simulated solar wind implantation of carbon and nitrogen   conductivity of the upper 15 cm of the regolith. Proc. 4th
+    ions into terrestrial basalt and lunar fines. Proc. 4th Lunar  Lunar Sci. Conf. 2503-2514.
+    Sci. Conf. 1509-1522.
+                                                        Korotev R.L. (1987) Mixing levels, the Apennine Front soil
+   Chang S., Lawless J., Romiez M., Kaplan I.R., Petrowski   component, and compositional trends in the Apollo 15 soils.
+    C., Sakai H. and Smith J.W. (1974) Carbon, nirotgen an   Proc. 17th Lunar Planet. Sci. Conf. E411-431.
+    sulfur abundances in lunar fines 15012 and 15013 –
+   abundances, distributions and isotopic compositions.  Kothari B.K. and Goel P.S. (1972)  Total nitrogen
+   Geochim. Cosmochim. Acta 38, 853-872.                 abundances in several lunar samples (abs). Lunar Sci. IV,
+                                                         292- 293. LPI.
+    Christian R.P., Berman S., Dwornik E.J., Rose H.J. and
+   Schnepfe M.M. (1976) Composition of some Apollo 14, 15   Kothari B.K. and Goel P.S. (1973) Nitrogen in lunar samples.
+   and 16 lunar breccias and two Apollo 15 soils (abs). Lunar   Proc. 4th Lunar Sci. Conf. 1587-1596.
+    Sci. VII, 138-140. LPI
+                                            LSPET (1972)  Apollo 15 Lunar samples – preliminary
+   DesMarais D.J., Hayes J.M. and Meinshein W.G. (1973a)   description. Science 175, 363-375.
+   The distribution in lunar soil of carbon released by pyrolysis
+    (abs). Lunar Sci. IV, 178-181. LPI.                   Moore C.B. and Cripe J.D. (1974) Total sulfur contents of
+                                                         Apollo 15 and Apollo 16 lunar samples (abs). Lunar Sci. V,
+   DesMarais D.J., Hayes J.M. and Meinshein W.G. (1973b)   523-525. LPI.
+   The distribution in lunar soil of carbon released by pryrolysis.
+    Proc. 4th Lunar Sci. Conf. 1543-1558.                 Moore C.B., Lewis C.F. and Gibson E.K. (1972) Carbon
+                                                       and nitrogen in Apollo 15 lunar sample (abs). In The Apollo
+   DesMarais D.J., Hayes J.M. and Meinshein W.G. (1977) The  15 Lunar Samples 316-318. LPI.
+    distribution in lunar soil of hydrogen released by pryrolysis.
+    Proc. 5th Lunar Sci. Conf. 1811-1822.                 Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+                                                          carbon contents of Apollo 15 and 16 lunar samples. Proc.
+   DesMarais D.J., Basu A., Hayes J.M. and Meinshein W.G.    4th Lunar Sci. Conf. 1613-1624.
+    (1975) Evolution of carbon isotopes, agglutinates and the
+    lunar regolith. Proc. 6th Lunar Sci. Conf. 2353-2374.       Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                          soils: Some concepts and Is/FeO compilation.  Proc. 9th
+    Farr T.G., Bates B., Ralph R.L. and Adams J.B. (1980)  Lunar Planet . Sci. Conf. 2287-2298.
+    Effects of overlapping optical absorption bands of pyroxene
+   and glass on the reflectance spectra of lunar soils (abs).   Muller O. (1973) Chemically bound nitrogen contents of
+   Lunar Sci. XI, 276-278. LPI.                            Apollo 16 and Apollo 15 lunar fines. Proc. 4th Lunar Sci.
+                                                            Conf. 1625-1634.
+--- treatment block 4; lines 35-47 ---
+DesMarais D.J., Hayes J.M. and Meinshein W.G. (1977) The  15 Lunar Samples 316-318. LPI.
+    distribution in lunar soil of hydrogen released by pryrolysis.
+    Proc. 5th Lunar Sci. Conf. 1811-1822.                 Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+                                                          carbon contents of Apollo 15 and 16 lunar samples. Proc.
+   DesMarais D.J., Basu A., Hayes J.M. and Meinshein W.G.    4th Lunar Sci. Conf. 1613-1624.
+    (1975) Evolution of carbon isotopes, agglutinates and the
+    lunar regolith. Proc. 6th Lunar Sci. Conf. 2353-2374.       Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                          soils: Some concepts and Is/FeO compilation.  Proc. 9th
+    Farr T.G., Bates B., Ralph R.L. and Adams J.B. (1980)  Lunar Planet . Sci. Conf. 2287-2298.
+    Effects of overlapping optical absorption bands of pyroxene
+   and glass on the reflectance spectra of lunar soils (abs).   Muller O. (1973) Chemically bound nitrogen contents of
+   Lunar Sci. XI, 276-278. LPI.                            Apollo 16 and Apollo 15 lunar fines. Proc. 4th Lunar Sci.
+                                                            Conf. 1625-1634.
+--- references block 5; lines 1-7 ---
+References                                          Holland P.T., Simoneit B.R., Wszolek P.C. and Burlingame
+   Burlingame A.L., Holland P., McFadden W.H., Simoneit   A.L. (1972) Compounds of carbon and other volatile
+    B.R., Wilder J.T. and Wzzolek P.C. (1971) UCB Space   elements in Apollo 14 and 15 samples. Proc. 3rd Lunar Sci.
+    Science Laboratory organic clean room and lunar material   Conf. 2131-2149.
+    transfer facilities. Univ. California, Space Sciences Lap Rpt.
+   May 18                                             Kaplan I.R., Kerridge J.F. and Petrowski C. (1976) Light
+                                                          element geochemistry of the Apollo 15 site. Proc. 7th Lunar

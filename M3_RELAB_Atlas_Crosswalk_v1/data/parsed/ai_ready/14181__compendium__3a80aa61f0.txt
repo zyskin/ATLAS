@@ -1,0 +1,122 @@
+DOCUMENT_ID: 14181__compendium__3a80aa61f0
+ATLAS_SAMPLE_IDS: 14181
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14181.pdf
+SOURCE_PDF_SHA256: 0ff7148bee0415efd2f6bde0375aae0a47480c9e97361c16f6f088c1b2b9e935
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 20-37 ---
+14181 was probably  collected  as  part  of  a
+ comprehensive sample near the ALSEP station. It is a
+ small chip of high-K, mare basalt.
+
+ Petrography
+ 14181 has a subophitic basaltic texture (figure ) with
+ prominent plagioclase laths partially intruding
+ clinopyroxene. Plagioclase varies in composition for
+ An84-An94 (Warren et al. 1985).  There are a few       Figure 3: Photomicrographs of 14181,5 by C Meyer
+ small grains of olivine (Fo37) and pyroxene analyses     @50x (crossed polarizers).
+ are typical of mare basalt.  Other phases include K-
+  feldspar, ilmenite and chromite.
+
+                                                      C                                                                        Meyer  14181 According to Phinney et al. (1975), 14169-14188 may                                                                     2011
+ be parts of 14303/4, and indeed this kind of basalt is                   2.48 grams
+ frequently found as clasts in Fra Mauro breccias (thus
+ predating the Imbrium impact).
+                                                                ,0          ,2     ,7     ,6
+--- material block 2; lines 1-8 ---
+14181
+                                                 Basalt
+                                            2.48 grams
+--- material block 3; lines 16-40 ---
+Meyer @50x.
+
+
+ Introduction
+ 14181 was probably  collected  as  part  of  a
+ comprehensive sample near the ALSEP station. It is a
+ small chip of high-K, mare basalt.
+
+ Petrography
+ 14181 has a subophitic basaltic texture (figure ) with
+ prominent plagioclase laths partially intruding
+ clinopyroxene. Plagioclase varies in composition for
+ An84-An94 (Warren et al. 1985).  There are a few       Figure 3: Photomicrographs of 14181,5 by C Meyer
+ small grains of olivine (Fo37) and pyroxene analyses     @50x (crossed polarizers).
+ are typical of mare basalt.  Other phases include K-
+  feldspar, ilmenite and chromite.
+
+                                                      C                                                                        Meyer  14181 According to Phinney et al. (1975), 14169-14188 may                                                                     2011
+ be parts of 14303/4, and indeed this kind of basalt is                   2.48 grams
+ frequently found as clasts in Fra Mauro breccias (thus
+ predating the Imbrium impact).
+                                                                ,0          ,2     ,7     ,6
+ Chemistry                                             2.2 g   PB   PB    0.1 g
+ Warren et al. (1985, 1997) reported only part of their
+  analysis of 14181 (table 1).                                                                                                            ,4       ,8
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 14181.       References for 14181
+                                                          Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+   reference  Warren97   Warren86                          Samples. Curators Office. JSC 14240
+   weight
+  SiO2 %               45.8     (a)
+                                            LSPET (1971) Preliminary examination of lunar samples  TiO2                2         (a)
+  Al2O3                 13.8     (a)                        from Apollo 14. Science 173, 681-693.
+  FeO                   15.6     (a)
+  MnO                  0.23     (a)                       Phinney W.C., Simonds C.H. and Warner J. (1975)
+  MgO                  10.1     (a)
+                                                       Description, Classification and Inventory of the  CaO                   11.3     (a)
+  Na2O                 0.43     (a)                        Comprehensive sample from Apollo 14. Curator’s Catalog,
+  K2O                  0.65     (a)                            pp. 46.
+  P2O5
+  S %
+                                                           Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of  sum
+                                                               the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-38.
+  Sc ppm              57       (a)
+  V                                            Swann G.A., Trask N.J., Hait M.H. and Sutton R.L. (1971a)
+--- material block 2; lines 1-8 ---
+Table 1. Chemical composition of 14181.       References for 14181
+                                                          Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+   reference  Warren97   Warren86                          Samples. Curators Office. JSC 14240
+   weight
+  SiO2 %               45.8     (a)
+                                            LSPET (1971) Preliminary examination of lunar samples  TiO2                2         (a)
+  Al2O3                 13.8     (a)                        from Apollo 14. Science 173, 681-693.
+  FeO                   15.6     (a)
+--- material block 3; lines 38-50 ---
+Ag ppb                                                                   site. In Apollo 14 Preliminary Science Rpt. NASA SP-272.
+  Cd ppb                                                pages 39-85.
+   In ppb
+  Sn ppb
+  Sb ppb                                              Warren P.H., Shirley D.N. and Kallemeyn G.W. (1986) A
+  Te ppb                                                      potpourri of pristine moon rocks, including a VHK mare
+  Cs ppm               0.65     (a)                              basalt and a unique, augite-rich Apollo 17 anorthosite. Proc.
+  Ba                  138      (a)
+                                                                       16th Lunar Planet. Sci. Conf. in J. Geophys. Res. 89, D319-  La                     5.2      (a)
+  Ce                    14.4     (a)                       D330.
+  Pr                     8.7      (a)
+  Nd                                             Warren P.H., Kallemeyn G.W. and Kyte F.T. (1997)
+  Sm
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 14181.       References for 14181
+                                                          Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+   reference  Warren97   Warren86                          Samples. Curators Office. JSC 14240
+   weight
+  SiO2 %               45.8     (a)
+                                            LSPET (1971) Preliminary examination of lunar samples  TiO2                2         (a)
+  Al2O3                 13.8     (a)                        from Apollo 14. Science 173, 681-693.
+  FeO                   15.6     (a)
+  MnO                  0.23     (a)                       Phinney W.C., Simonds C.H. and Warner J. (1975)
+--- references block 5; lines 64-73 ---
+Os ppb    11       (b)
+    Ir ppb     1.5       (b)
+   Pt ppb
+  Au ppb    0.15     (b)
+  Th ppm
+  U ppm
+   technique:  (a) INAA, (b) RNAA
+
+Lunar Sample Compendium
+C Meyer 2011

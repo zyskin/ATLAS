@@ -1,0 +1,95 @@
+DOCUMENT_ID: 67718__compendium__0442fa67b7
+ATLAS_SAMPLE_IDS: 67718,67719
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67718.pdf
+SOURCE_PDF_SHA256: 996901fedac2060ad30bfc41d92140ca08657688256ea86223ffb8f81f14453f
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 14-26 ---
+67701.
+
+   Petrography
+   67718 and 67719 are two coherent, fine-grained impact
+   melt rocks, but there is not enough data to tell if they
+   are alike.  Both rocklets have abundant clasts of
+   plagioclase set in an aphanitic matrix (figures 3 and
+    4).
+
+   Chemistry
+   None
+                                                                  Figure 2: Photo of 67719. Scale in mm.
+   Radiogenic age dating                                  S72-51248
+--- material block 2; lines 1-26 ---
+67718 – 41 grams
+                          67719 – 2.1 grams
+                               Impact Melt Breccia
+
+
+
+
+
+                  Figure 1: Photo of 67718. Scale in mm. S72-51242.
+
+   Introduction
+   Thirty-two rake samples were collected near House
+   Rock on the rim of North Ray Crater – see section on
+   67701.
+
+   Petrography
+   67718 and 67719 are two coherent, fine-grained impact
+   melt rocks, but there is not enough data to tell if they
+   are alike.  Both rocklets have abundant clasts of
+   plagioclase set in an aphanitic matrix (figures 3 and
+    4).
+
+   Chemistry
+   None
+                                                                  Figure 2: Photo of 67719. Scale in mm.
+   Radiogenic age dating                                  S72-51248
+--- age block 3; lines 20-32 ---
+plagioclase set in an aphanitic matrix (figures 3 and
+    4).
+
+   Chemistry
+   None
+                                                                  Figure 2: Photo of 67719. Scale in mm.
+   Radiogenic age dating                                  S72-51248
+   Not
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 4; CATEGORIES: material,references ===
+--- material block 1; lines 12-34 ---
+Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+            ,0       ,3    ,2     ,4        ,7                 rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+         40 g   PB  PB   0.2 g    0.2 g
+                                                                        Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+                         ,1     ,5                                            J. and Rehfeldt A. (1981) Distribution and provenance of
+                TS   TS                                                                lunar highland rock types at North Ray Crater, Apollo 16.
+                                                             Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+                                                                       Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                                                                A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                                                 Reimold W.U., Wacker K. and Wanke H. (1985)
+                                                         Composition and evolution of the lunar crust in the Descartes
+                                                                  highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+                                                            Res. 90, C449-C506.
+
+                                                       Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and
+                                                                  inventory. Curator Catalog, JSC
+
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                                In Geology of the Apollo 16 area, central lunar highlands.
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+--- references block 2; lines 1-7 ---
+References for 67718
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   Processing                                              16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   Each has a thin section.                                  Catalog. pp. 370.
+
+    List of Photo #s                              LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.

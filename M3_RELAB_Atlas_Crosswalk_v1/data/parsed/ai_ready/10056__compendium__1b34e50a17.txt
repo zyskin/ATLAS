@@ -1,0 +1,265 @@
+DOCUMENT_ID: 10056__compendium__1b34e50a17
+ATLAS_SAMPLE_IDS: 10056
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10056.pdf
+SOURCE_PDF_SHA256: 403ea93f3df3b0c57590f64aa40b749a3ab0cfbdea3477de6c4672baade154d3
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+10056
+                                Unusual Breccia
+                                       186 grams
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-28 ---
+Figure 2: Photomicrograph of 10056 showing mineral and rock clasts in fine matrix. There are
+            also a few broken orange glass spheres. NASA S70-19529. Scale is 2.5 mm.
+
+
+   Introduction
+   Most of the Apollo 11 regolith breccias are similar to  Schmitt et al. (1970) noted that one surface of 10056
+   one another and to the Apollo 11 soil. However, breccia  has a large botryoidal glass splash (figures 6 and 7).
+   sample 10056 is anomalous modally, petrographically
+   and chemically.   It would be characterized as tough,
+   compared to the more friable Apollo 11 regolith
+    breccias.
+
+                                                       Simon’s Mode for 10056
+   Petrography                                                                  S    L
+   10056 is a glass-matrix breccia. Phinney et al. (1976)                                                              Mare Basalt                 2.7      12.2
+   and Simon et al. (1984) found that the matrix of 10056          Highland Component      0       0
+   was different from that of the other Apollo 11 breccias.          Regolith breccia            1.2     0
+   They found the matrix of 10056 was opaque and fused           Agglutinate                11.6     22.6
+                                                                     Pyroxene                   4.7     1
+   and appeared similar to agglutinates (figure 2).  In a                                                                            Olivine                  0
+    histogram of lithic types in Apollo 11 breccias, Simon           Plagioclase                 1.7
+    et al. show 10056 is more than half “agglutinate”.           Ilmenite                    2.2      0.1
+   However, the mode they give is not that high in         Orange glass                1.4      0.6
+                                                                       Other glass                 0.9      1.2    agglutinate.
+                                                                        Matrix                     35.8 %
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-28 ---
+Figure 2: Photomicrograph of 10056 showing mineral and rock clasts in fine matrix. There are
+            also a few broken orange glass spheres. NASA S70-19529. Scale is 2.5 mm.
+
+
+   Introduction
+   Most of the Apollo 11 regolith breccias are similar to  Schmitt et al. (1970) noted that one surface of 10056
+   one another and to the Apollo 11 soil. However, breccia  has a large botryoidal glass splash (figures 6 and 7).
+   sample 10056 is anomalous modally, petrographically
+   and chemically.   It would be characterized as tough,
+   compared to the more friable Apollo 11 regolith
+    breccias.
+
+                                                       Simon’s Mode for 10056
+   Petrography                                                                  S    L
+   10056 is a glass-matrix breccia. Phinney et al. (1976)                                                              Mare Basalt                 2.7      12.2
+   and Simon et al. (1984) found that the matrix of 10056          Highland Component      0       0
+   was different from that of the other Apollo 11 breccias.          Regolith breccia            1.2     0
+   They found the matrix of 10056 was opaque and fused           Agglutinate                11.6     22.6
+                                                                     Pyroxene                   4.7     1
+   and appeared similar to agglutinates (figure 2).  In a                                                                            Olivine                  0
+    histogram of lithic types in Apollo 11 breccias, Simon           Plagioclase                 1.7
+    et al. show 10056 is more than half “agglutinate”.           Ilmenite                    2.2      0.1
+   However, the mode they give is not that high in         Orange glass                1.4      0.6
+                                                                       Other glass                 0.9      1.2    agglutinate.
+                                                                        Matrix                     35.8 %
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 1-34 ---
+25                                                                                  1000
+                                                                                    10056
+                              Apollo soils           20                  10056
+                                                        breccia                          100
+
+           15
+  FeO          10084                                                                                               10084
+                                                                                                      10
+           10                                                                    sample/
+                                                                                         chondrites
+
+            5                                                                                                1
+
+
+            0
+              0       5       10      15      20      25      30      35                0.1
+                                                                             Ce     Nd     Eu     Tb    Ho    Tm     Lu                     Al2O3                                         La      Pr    Sm    Gd     Dy      Er     Yb
+
+          Figure 3: Composition of 10056 compared with
+           Apollo soil samples.                                    Figure 4: Normalized rare earth element diagram
+                                                                           for breccia 10056 compared with soil 10084 (data
+                                                               from Wiesmann et al. 1975).
+
+   Significant Clasts                                            Chemistry
+   Ferroan Anorthosite                                           Rhodes and Blanchard (1981) found that the
+   Thin section 10056,52 contains a relatively large                                                     composition of 10056 was different from the other
+   (~5mm2) clast of anorthosite which Warren et al.                                                             regolith breccias and 10084 (figures 4 and 5). The
+   (1983) classified as “pristine”.                                                     chemical composition is similar to low-K Apollo 11
+
+
+
+
+
+                 Figure 5: Histogram of lithic components in Apollo 11 breccias (Simon et al. 1986).
+--- material block 2; lines 1-10 ---
+25                                                                                  1000
+                                                                                    10056
+                              Apollo soils           20                  10056
+                                                        breccia                          100
+
+           15
+  FeO          10084                                                                                               10084
+                                                                                                      10
+           10                                                                    sample/
+                                                                                         chondrites
+--- material block 3; lines 14-33 ---
+0
+              0       5       10      15      20      25      30      35                0.1
+                                                                             Ce     Nd     Eu     Tb    Ho    Tm     Lu                     Al2O3                                         La      Pr    Sm    Gd     Dy      Er     Yb
+
+          Figure 3: Composition of 10056 compared with
+           Apollo soil samples.                                    Figure 4: Normalized rare earth element diagram
+                                                                           for breccia 10056 compared with soil 10084 (data
+                                                               from Wiesmann et al. 1975).
+
+   Significant Clasts                                            Chemistry
+   Ferroan Anorthosite                                           Rhodes and Blanchard (1981) found that the
+   Thin section 10056,52 contains a relatively large                                                     composition of 10056 was different from the other
+   (~5mm2) clast of anorthosite which Warren et al.                                                             regolith breccias and 10084 (figures 4 and 5). The
+   (1983) classified as “pristine”.                                                     chemical composition is similar to low-K Apollo 11
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 10056.
+
+
+     reference  Wiesmann75  Goles70  Rhodes81  Kharkar71   Morrison 70  Wasson70  Warren83
+     weight                                                                                 Anor.
+    SiO2 %                  43.2       41.7    (c )              42.4      (d)
+    TiO2                      9.7        9.09    (c ) 8.5       (b) 9.34      (d)
+    Al2O3                    11.4      10.37   (c )             10.8      (d)           no
+   FeO                     19.2       18.6    (c ) 16.8      (b) 19         (d)              anal.
+   MnO                     0.25    (b) 0.28    (c ) 0.27      (b) 0.26      (d)
+   MgO                      6.5        5.89    (c )              4.64      (d)
+   CaO                     13.2      12.47   (c ) 12.5      (b) 15.4      (d)
+   Na2O                    0.45    (b) 0.43    (c ) 0.38      (b) 0.43      (d)
+   K2O       0.11        (a)             0.11     (c )              0.11       (d)
+   P2O5                                0.1      (c )              0.04      (d)
+   S %
+    sum
+
+    Sc ppm                  91.6    (b)           100       (b) 97         (d)
+   V                     47      (b)                      56         (d)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 10056.
+
+
+     reference  Wiesmann75  Goles70  Rhodes81  Kharkar71   Morrison 70  Wasson70  Warren83
+     weight                                                                                 Anor.
+    SiO2 %                  43.2       41.7    (c )              42.4      (d)
+    TiO2                      9.7        9.09    (c ) 8.5       (b) 9.34      (d)
+    Al2O3                    11.4      10.37   (c )             10.8      (d)           no
+   FeO                     19.2       18.6    (c ) 16.8      (b) 19         (d)              anal.
+   MnO                     0.25    (b) 0.28    (c ) 0.27      (b) 0.26      (d)
+--- references block 3; lines 65-75 ---
+Os ppb
+       Ir ppb                                                                    0.13     (e)
+     Pt ppb
+    Au ppb                                                                  0.61     (e)
+    Th ppm    0.85        (a)                                      1.4        (d)
+   U ppm     0.25        (a)  0.18    (b)                         0.21      (d)
+     technique:  (a) IDMS, (b) INAA, (c ) XRF, (d) various, (e) RNAA
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-11 ---
+Figure 6: Photo of 10056,14 showing frothy side. NASA S75-32572. Sample is 7 cm.
+
+
+
+
+
+         Figure 7: Close-up photo of surface of lunar breccia 10057 showing thin coating of black glass. NASA S69-
+         47607. Area about 3 cm across.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-11 ---
+Figure 6: Photo of 10056,14 showing frothy side. NASA S75-32572. Sample is 7 cm.
+
+
+
+
+
+         Figure 7: Close-up photo of surface of lunar breccia 10057 showing thin coating of black glass. NASA S69-
+         47607. Area about 3 cm across.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 6; CATEGORIES: material,references ===
+--- material block 1; lines 12-54 ---
+,49   ,52
+                              TS   ,73
+                                   TS
+                                                References for 10056
+                                                         Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,
+                                             Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+    basalt (figure ). Wasson and Baedecker (1970) found   abundances by instrumental activation analyses in chips from
+    that the Ge, Ir and Au are low for a breccia.           27 lunar rocks. Proc. Apollo 11 Lunar Sci. Conf. 1165-1176.
+
+   Other Studies                                    King E.A. and a cast of thousands (1969) Lunar Sample
+   The total organic carbon content of 10056 was  Information Catalog, Apollo 11.  Lunar Receiving
+    determined by hydrogen flame ionization pyrolysis   Laboratory, MSC 412 pp
+   (Ponnamperuma et al. 1970).
+                                                     Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo
+   Processing                                         11 Lunar Sample Information Catalogue (revised). Curator’s
+   Apollo 11 samples were originally described and   Office, JSC 12522
+    cataloged in 1969 and “re-cataloged” by Kramer et al.
+    (1977). There are 12 thin sections.                    Morrison G.H., Gerard J.T., Kashuba A.T., Gangadharam
+                                                                    E.V., Rothenberg A.M., Potter N.M. and Miller G.B. (1970)
+    List of Photo #s for 10056                                                           Elemental abundances of lunar soil and rocks. Proc. Apollo
+   S69-47319                                                         11 Lunar Sci. Conf. 1383-1392.
+   S69-47607
+
+                                                         Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+                                                           (1976a) Lithification of vitric- and clastic-matrix breccias:
+                                       SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+
+                                                     Rhodes J.M. and Blanchard D.P. (1981) Apollo 11 breccias
+                                                      and soils: Aluminous mare basalts or multi-component
+                                                            mixtures? Proc. 12th Lunar Planet. Sci. Conf. 607-620.
+
+                                                           Schmitt H.H., Lofgren G., Swann G.A. and Simmons G.
+                                                           (1970) The Apollo 11 samples: Introduction. Proc. Apollo
+                                                         11 Lunar Science Conf. 1-54.
+
+                                                   Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+                                                                of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+                                                            Conf. in J. Geophys. Res. 89, C109-132.
+
+                                                    Wasson J.T. and Baedecker P.A. (1970) Ga, Ge, In, Ir, and
+                                           Au in lunar terrestrial and meteoritic basalts. Proc. Apollo
+                                                         11 Lunar Sci. Conf. 1741-1750.
+--- references block 2; lines 9-21 ---
+,14       ,42      ,47   ,50   ,54    ,56            TS   ,44                                  2.4 g   PB  PB   4.9 g                               ,46
+              98.2 g                  70 g               TS
+
+                                          ,49   ,52
+                              TS   ,73
+                                   TS
+                                                References for 10056
+                                                         Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,
+                                             Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+    basalt (figure ). Wasson and Baedecker (1970) found   abundances by instrumental activation analyses in chips from
+    that the Ge, Ir and Au are low for a breccia.           27 lunar rocks. Proc. Apollo 11 Lunar Sci. Conf. 1165-1176.
+
+   Other Studies                                    King E.A. and a cast of thousands (1969) Lunar Sample

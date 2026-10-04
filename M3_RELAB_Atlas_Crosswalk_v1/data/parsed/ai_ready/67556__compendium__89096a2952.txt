@@ -1,0 +1,135 @@
+DOCUMENT_ID: 67556__compendium__89096a2952
+ATLAS_SAMPLE_IDS: 67556
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67556.pdf
+SOURCE_PDF_SHA256: f6086f7b4eb2ac8aff263cac38c2d0d74edef465c8b72ae7d20ae0cadd0c6321
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 8-26 ---
+Figure 1: Photo of 67556. Scale in mm. S72-51241
+
+   Introduction                                            Chemistry
+   67556 is a rake sample collected from the rim of North                                                67556 has been analyzed by the North Ray Consortium
+   Ray Crater – see section on 67481.   It is a friable                                                                 (Stoffler et al. 1985). There appear to be three analyses
+    micropoikilitic impact melt with intrusive glass veins.                                                          of the thin section by defocused beam analysis and one
+     It has a micrometeorite crater (figure 1).                                                      bulk analysis by INAA (table and figure 3).
+
+   Petrography                                              Radiogenic age dating
+   67556 is a micropoikilitic impact melt breccia that                                            Not
+   that has been highly shocked.  It is “riddled” with
+   glass veins with abundant metal grains (Ryder and  Processing
+  Norman 1980). Mineral analyses are not available.  There is one thin section and no way to know if it is
+                                                             representative.
+--- material block 2; lines 1-24 ---
+67556
+                               Impact Melt Breccia
+                                            82.1 grams
+
+
+
+
+
+                      Figure 1: Photo of 67556. Scale in mm. S72-51241
+
+   Introduction                                            Chemistry
+   67556 is a rake sample collected from the rim of North                                                67556 has been analyzed by the North Ray Consortium
+   Ray Crater – see section on 67481.   It is a friable                                                                 (Stoffler et al. 1985). There appear to be three analyses
+    micropoikilitic impact melt with intrusive glass veins.                                                          of the thin section by defocused beam analysis and one
+     It has a micrometeorite crater (figure 1).                                                      bulk analysis by INAA (table and figure 3).
+
+   Petrography                                              Radiogenic age dating
+   67556 is a micropoikilitic impact melt breccia that                                            Not
+   that has been highly shocked.  It is “riddled” with
+   glass veins with abundant metal grains (Ryder and  Processing
+  Norman 1980). Mineral analyses are not available.  There is one thin section and no way to know if it is
+                                                             representative.
+--- age block 3; lines 11-23 ---
+Introduction                                            Chemistry
+   67556 is a rake sample collected from the rim of North                                                67556 has been analyzed by the North Ray Consortium
+   Ray Crater – see section on 67481.   It is a friable                                                                 (Stoffler et al. 1985). There appear to be three analyses
+    micropoikilitic impact melt with intrusive glass veins.                                                          of the thin section by defocused beam analysis and one
+     It has a micrometeorite crater (figure 1).                                                      bulk analysis by INAA (table and figure 3).
+
+   Petrography                                              Radiogenic age dating
+   67556 is a micropoikilitic impact melt breccia that                                            Not
+   that has been highly shocked.  It is “riddled” with
+   glass veins with abundant metal grains (Ryder and  Processing
+  Norman 1980). Mineral analyses are not available.  There is one thin section and no way to know if it is
+                                                             representative.
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 67556     References for 67556
+                                                           Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,
+       reference  Stoffler85              Borchardt 86           Wacker K. and Jessberger E.K. (1986)  Composition,
+      weight                                Stoffler85                  structure and age of the Apollo 16 subregolith basement as
+      SiO2 %    45.2   46.4   44.6    45.6     (a)
+                                                       deduced from the chemistry of post-Imbrium melt bombs.      TiO2      0.65   0.31   0.53    1.26     (a)
+      Al2O3     21.5   20.8   22.16   22.4     (a)              Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,
+     FeO       6.3     6.2     6.2     6.03     (a)             E43-E54.
+    MnO      0.02   0.11    0.06    0.09     (a)
+    MgO      10.6   13     10.9    11        (a)
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo     CaO       14.2   12.3   12.8    12.9     (a)
+     Na2O     0.53   0.46   0.525   0.42     (a)               16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+     K2O       0.26   0.12   0.185   0.17     (a)               Catalog. pp. 370.
+     P2O5     0.56    0.1     0.4     0.12     (a)
+     Sc ppm    9.27   9.27            9.27     (b)
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic      Cr
+     Co        24.4   24.4            24.4     (b)             and chemical description. Science 179, 23-34.
+       Ni        368    368           368      (b)
+     Ba       186    186           186      (b)           LSPET (1972c) Preliminary examination of lunar samples.
+--- material block 2; lines 21-39 ---
+In Apollo 16 Preliminary Science Report. NASA SP-315,     Yb        5.74   5.74            5.74     (b)
+       technique:  (a) DBA, (b) INAA                           7-1—7-58.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+                                                       Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and
+                           67556                                                                 inventory. Curator Catalog, JSC
+
+                                                                       Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+                                                                                  J. and Rehfeldt A. (1981) Distribution and provenance of
+                                                                lunar highland rock types at North Ray Crater, Apollo 16.
+                                                             Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+                                                                      Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                                                               A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                                                Reimold W.U., Wacker K. and Wanke H. (1985)
+                                                         Composition and evolution of the lunar crust in the Descartes
+--- age block 3; lines 1-10 ---
+Table 1. Chemical composition of 67556     References for 67556
+                                                           Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,
+       reference  Stoffler85              Borchardt 86           Wacker K. and Jessberger E.K. (1986)  Composition,
+      weight                                Stoffler85                  structure and age of the Apollo 16 subregolith basement as
+      SiO2 %    45.2   46.4   44.6    45.6     (a)
+                                                       deduced from the chemistry of post-Imbrium melt bombs.      TiO2      0.65   0.31   0.53    1.26     (a)
+      Al2O3     21.5   20.8   22.16   22.4     (a)              Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,
+     FeO       6.3     6.2     6.2     6.03     (a)             E43-E54.
+    MnO      0.02   0.11    0.06    0.09     (a)
+    MgO      10.6   13     10.9    11        (a)
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 67556     References for 67556
+                                                           Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,
+       reference  Stoffler85              Borchardt 86           Wacker K. and Jessberger E.K. (1986)  Composition,
+      weight                                Stoffler85                  structure and age of the Apollo 16 subregolith basement as
+      SiO2 %    45.2   46.4   44.6    45.6     (a)
+                                                       deduced from the chemistry of post-Imbrium melt bombs.      TiO2      0.65   0.31   0.53    1.26     (a)
+      Al2O3     21.5   20.8   22.16   22.4     (a)              Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,
+     FeO       6.3     6.2     6.2     6.03     (a)             E43-E54.
+    MnO      0.02   0.11    0.06    0.09     (a)
+--- references block 5; lines 16-28 ---
+LSPET (1973b) The Apollo 16 lunar samples: Petrographic      Cr
+     Co        24.4   24.4            24.4     (b)             and chemical description. Science 179, 23-34.
+       Ni        368    368           368      (b)
+     Ba       186    186           186      (b)           LSPET (1972c) Preliminary examination of lunar samples.
+    Sm        8.68   8.68            8.68     (b)
+                                                               In Apollo 16 Preliminary Science Report. NASA SP-315,     Yb        5.74   5.74            5.74     (b)
+       technique:  (a) DBA, (b) INAA                           7-1—7-58.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+                                                       Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                    67515 to 68537:  Sample classification, description and

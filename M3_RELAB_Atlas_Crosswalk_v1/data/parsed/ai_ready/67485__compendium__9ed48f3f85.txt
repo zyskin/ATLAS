@@ -1,0 +1,126 @@
+DOCUMENT_ID: 67485__compendium__9ed48f3f85
+ATLAS_SAMPLE_IDS: 67485,67488
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67485.pdf
+SOURCE_PDF_SHA256: 4cc96b3b07e839d0dc02ca4fe7f072a3cd1f7538d2c97eb2d4e1048de246a2af
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 19-31 ---
+Stoffler et al. (1985) list these two samples as granulitic
+                                                        breccias and gives the modal mineralogy as 87%
+                                                            plagioclase, 12% orthopyroxene, 2 % olivine and 0.3
+                             % opaque.
+
+                                            Chemistry
+                                                               Stoffler et al. (1985) determined their major element
+                                                     composition by DBA (table).
+
+                                              Radiogenic age dating
+                                             none
+
+                                                 Processing
+--- mineralogy block 2; lines 14-27 ---
+found in soil sample 67480 taken from the south rim
+                                                          of North Ray Crater – see section on 67481. Not much
+                                                                        is known about them. They both have zap pits.
+
+                                             Petrography
+                                                                Stoffler et al. (1985) list these two samples as granulitic
+                                                        breccias and gives the modal mineralogy as 87%
+                                                            plagioclase, 12% orthopyroxene, 2 % olivine and 0.3
+                             % opaque.
+
+                                            Chemistry
+                                                               Stoffler et al. (1985) determined their major element
+                                                     composition by DBA (table).
+--- material block 3; lines 1-20 ---
+67485 – 6.6 grams
+                          67488 – 2.3 grams
+                               Impact Melt Breccia
+
+
+
+
+
+                         Figure 1: Photo of 67485 with zap pits.. Scale is marked in mm. S80-40832
+
+
+                                                 Introduction
+                                                67485 and 67488 are crystalline impact melts that were
+                                                   found in soil sample 67480 taken from the south rim
+                                                          of North Ray Crater – see section on 67481. Not much
+                                                                        is known about them. They both have zap pits.
+
+                                             Petrography
+                                                                Stoffler et al. (1985) list these two samples as granulitic
+                                                        breccias and gives the modal mineralogy as 87%
+--- age block 4; lines 22-34 ---
+% opaque.
+
+                                            Chemistry
+                                                               Stoffler et al. (1985) determined their major element
+                                                     composition by DBA (table).
+
+                                              Radiogenic age dating
+                                             none
+
+                                                 Processing
+      Figure 2: Photo of 67488 with mm scle. S80-40827
+                                                   There is only one thin section of each sample.
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 6-29 ---
+5.4 g  PB   0.4 g                                1.8 g   PB   0.4 g
+
+                                      ,4                                                                 ,3
+                        TS                                          TS
+
+
+     Table 1. Chemical composition of 67485.     References for 67485, 88
+               67485     67488                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+       reference  Stoffler85   Stoffler85                             16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+      weight                                                   Catalog. pp. 370.
+      SiO2 %    42.7       43.5        (a)
+      TiO2      0.4        0.2          (a)
+      Al2O3     31.04      33.74       (a)                 LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+     FeO       2.71       1.99        (a)                     and chemical description. Science 179, 23-34.
+    MnO                                  (a)
+    MgO      2.34       1.59        (a)                                             LSPET (1972c) Preliminary examination of lunar samples.     CaO      18.02      18.04       (a)
+     Na2O     0.5        0.62        (a)                         In Apollo 16 Preliminary Science Report. NASA SP-315,
+     K2O      0.06       0.04        (a)                     7-1—7-58.
+     P2O5     0.04       0.03        (a)
+     S %                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16     sum
+        (a) broad beam e. probe                                   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+                                                                        Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+                                                                                   J. and Rehfeldt A. (1981) Distribution and provenance of
+--- material block 2; lines 24-36 ---
+P2O5     0.04       0.03        (a)
+     S %                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16     sum
+        (a) broad beam e. probe                                   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+                                                                        Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+                                                                                   J. and Rehfeldt A. (1981) Distribution and provenance of
+                                                                lunar highland rock types at North Ray Crater, Apollo 16.
+                                                             Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+                                                                       Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                                                                A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                                                 Reimold W.U., Wacker K. and Wanke H. (1985)
+                                                         Composition and evolution of the lunar crust in the Descartes
+--- references block 3; lines 6-20 ---
+5.4 g  PB   0.4 g                                1.8 g   PB   0.4 g
+
+                                      ,4                                                                 ,3
+                        TS                                          TS
+
+
+     Table 1. Chemical composition of 67485.     References for 67485, 88
+               67485     67488                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+       reference  Stoffler85   Stoffler85                             16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+      weight                                                   Catalog. pp. 370.
+      SiO2 %    42.7       43.5        (a)
+      TiO2      0.4        0.2          (a)
+      Al2O3     31.04      33.74       (a)                 LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+     FeO       2.71       1.99        (a)                     and chemical description. Science 179, 23-34.
+    MnO                                  (a)

@@ -1,0 +1,314 @@
+DOCUMENT_ID: 67627__compendium__55c3e4b889
+ATLAS_SAMPLE_IDS: 67627,67629,67695,67696,67697
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67627.pdf
+SOURCE_PDF_SHA256: 77282b743b78a9c9720b2543c3053ba43d3a2cc1e9b788193d83b78611dddbf6
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-12 ---
+67627 – 80 grams
+                                          67629 – 5.4 grams
+                                          67695 – 14 grams
+                                          67696 – 7.8 grams
+                                          67697 – 5.5 grams
+                                                Vesicular Glass with white inclusions
+
+
+
+
+
+                Figure 1: Photo of 67695. S80-30292
+--- mineralogy block 2; lines 16-27 ---
+Figure 2:  Photo of 67629 before it was renumbered.  S72-51239
+
+
+   Introduction
+   67627 and 67629 are glass-cemented aggregates that were collected as rake samples from the regolith just
+    inside the rim of North Ray Crater – see section on 67601 and figure 6. They include numerous white feldspathic
+    particles. The exposure age of these glass particles is about that of NRC.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 3; lines 16-27 ---
+Figure 2:  Photo of 67629 before it was renumbered.  S72-51239
+
+
+   Introduction
+   67627 and 67629 are glass-cemented aggregates that were collected as rake samples from the regolith just
+    inside the rim of North Ray Crater – see section on 67601 and figure 6. They include numerous white feldspathic
+    particles. The exposure age of these glass particles is about that of NRC.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- age block 4; lines 18-27 ---
+Figure 2:  Photo of 67629 before it was renumbered.  S72-51239
+
+
+   Introduction
+   67627 and 67629 are glass-cemented aggregates that were collected as rake samples from the regolith just
+    inside the rim of North Ray Crater – see section on 67601 and figure 6. They include numerous white feldspathic
+    particles. The exposure age of these glass particles is about that of NRC.
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 2; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 6-22 ---
+Figure 4: Photo of 67697. Sample is 2 cm. S80-35160
+
+
+   Petrography                               Chemistry
+   Borchardt et al. (1985) and Stoffler et al. (1985)  Haskin et al. (1973), Wiesmann and Hubbard (1975),
+    carefully studied glass particles from North Ray Crater   Stoffler et al. (1985) and Borchardt et al. (1985)
+   and correctly labeled these particles “glass bombs”.  determined the composition of these particles – there
+   They have smooth exterior surfaces and are often  were no surprises (figure 10).
+    devitrified in the interior.  Plagioclase microlites, in
+    various configurations, are prominent.  Numerous
+    plagioclase-rich inclusions (figure 11-13).
+
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: age,material ===
+--- material block 1; lines 2-14 ---
+Radiogenic age dating
+   Borchardt et al. (1986) reported Ar/Ar ages of 1.19
+    b.y. for 67627 and 1.41 b.y. for 67629. A clast in 67627
+   was 3.63 b.y. old (figure 9).
+
+   Cosmogenic isotopes and exposure ages
+   Borchardt et al. (1986) determined the 38Ar exposure
+   age of 67627 to be 40 or 44 m.y., and 43 m.y. for 67629.
+   This about the age of NRC.
+--- age block 2; lines 1-20 ---
+Figure 5: Processing photo of 67627. Cube is 1 cm. S96-01615
+
+
+
+
+   Radiogenic age dating
+   Borchardt et al. (1986) reported Ar/Ar ages of 1.19
+    b.y. for 67627 and 1.41 b.y. for 67629. A clast in 67627
+   was 3.63 b.y. old (figure 9).
+
+   Cosmogenic isotopes and exposure ages
+   Borchardt et al. (1986) determined the 38Ar exposure
+   age of 67627 to be 40 or 44 m.y., and 43 m.y. for 67629.
+   This about the age of NRC.
+
+   Processing
+   67627 was broken into several pieces (figure 5). 67629
+   was originally 4 pieces, which have since  been
+   relabeled 67629, 67695, 67696 and 67697 (figures 1 –
+   4 and 11 - 13). There are 6 thin sections of 67629.          Figure 6: Map of south rim of North RayCrater.
+
+=== PDF PAGE 6; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-7 ---
+Figure 9: Ar/Ar ages of glass particles from rake samples at NRC (Stoffler et al. 1985).
+
+
+
+
+                                                67629
+                                                                   original
+--- material block 2; lines 1-20 ---
+Figure 9: Ar/Ar ages of glass particles from rake samples at NRC (Stoffler et al. 1985).
+
+
+
+
+                                                67629
+                                                                   original
+             67627
+             80 grams
+
+                                   67629    ,0     ,2     ,12    ,1   ,14
+                     3.4 g PB  2.6 g             5.4 grams   42 g  21 g
+                                    dark
+                                     ,5     clast
+      ,18               TS              ,0      ,1     ,5   ,8   ,11                                                67695      3.5 g                               2.2 g   0.5 g PB PB  1.3 g
+                                               14 grams
+                                                                      ,6    ,22
+                                               TS   ,23
+                                                      TS      ,0      ,3   ,6    ,10
+                                                          13 g  PB PB   0.3 g
+
+=== PDF PAGE 7; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 67627    Table 2. Chemical composition of 67629.
+
+
+    reference  Borchardt86        Borchardt86                   reference  Wiesmann76 Haskin73     Bourchardt86Stoffler85
+    weight                            Stoffler85                     weight                                          Bourchardt86
+   SiO2 %                       43.6     (b)                SiO2 %                 46.3      (b)              44.4      (d)
+    TiO2              0.58     (a)  0.64     (b)                 TiO2                    0.85      (b)  0.88     (c ) 0.44      (d)
+   Al2O3                        28.2     (b)                Al2O3                24        (b)              25.9      (d)
+   FeO       5.5     6.9      (a)  4.1       (b)              FeO                    5.29      (b)  5.24     (c ) 5.6        (d)
+   MnO                          0.03     (b)             MnO                   0.067    (b)              0.09      (d)
+   MgO                           4.8       (b)             MgO                    5.94      (b)  5.14     (c ) 6.5        (d)
+   CaO       13.2    14.1     (a)  15.9     (b)             CaO                    15.2      (b)  15.54    (c ) 15.1      (d)
+   Na2O      0.5     0.57     (a)  0.61     (b)              Na2O                   0.62      (b)  0.6      (c ) 0.51      (d)
+   K2O       0.16    0.17     (a)  0.14     (b)              K2O      0.13       (a) 0.137    (b)  0.125    (c ) 0.08      (d)
+   P2O5                         0.05     (b)              P2O5                                            0.03      (d)
+   S %                                          S %
+   sum                                            sum
+
+   Sc ppm    10.2    10.2     (a)                          Sc ppm                  9.4       (c ) 9.28     (c )
+   V                                           V
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 67627    Table 2. Chemical composition of 67629.
+
+
+    reference  Borchardt86        Borchardt86                   reference  Wiesmann76 Haskin73     Bourchardt86Stoffler85
+    weight                            Stoffler85                     weight                                          Bourchardt86
+   SiO2 %                       43.6     (b)                SiO2 %                 46.3      (b)              44.4      (d)
+    TiO2              0.58     (a)  0.64     (b)                 TiO2                    0.85      (b)  0.88     (c ) 0.44      (d)
+   Al2O3                        28.2     (b)                Al2O3                24        (b)              25.9      (d)
+   FeO       5.5     6.9      (a)  4.1       (b)              FeO                    5.29      (b)  5.24     (c ) 5.6        (d)
+   MnO                          0.03     (b)             MnO                   0.067    (b)              0.09      (d)
+--- references block 3; lines 65-74 ---
+Os ppb                                         Os ppb
+      Ir ppb     2      18       (a)                                                  Ir ppb                                12.3
+    Pt ppb                                                        Pt ppb
+   Au ppb    1      18.2     (a)                         Au ppb                                4.3
+   Th ppm    2.98    2.37     (a)                          Th ppm                              1.81     (c )
+   U ppm     0.86    0.74     (a)                     U ppm                               0.54     (c )
+    technique:  (a) INAA+RNAA, (b) broad beam e probe            technique:  (a) IDMS, (b) AA, (c ) INAA, (d) broad beam e probe
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 8; CATEGORIES: age,chemistry,material,references ===
+--- chemistry block 1; lines 1-30 ---
+Table 3. Chemical composition of 67695
+                                                                     clast        References for 67627 and 67629
+     reference  Borchardt86 Stoffler85          Morris86    See 86       Borchardt R., Stoffler D., Spettel B., Palme H., Wanke
+     weight                 Borchardt86      See 86                  H., Wacker K. and Jessberger E.K. (1986)
+    SiO2 %                43.4   43      (b) 44.95    (a) 44.37    (b)   Composition, structure and age of the Apollo 16
+    TiO2                   0.32    0.31    (b)  0.26      (a)  0.01     (b)
+                                                                       subregolith basement as deduced from the chemistry    Al2O3                 25.5    24.2    (b) 26.52    (a)  35.5     (b)
+   FeO       6.4       (a)  6.2     7.3     (b)  5.85      (a)  0.15     (b)   of post-Imbrium melt bombs. Proc. 17th Lunar Planet.
+   MnO                   0.09    0.12    (b)              0.06     (b)    Sci. Conf. in J. Geophys. Res. 90, E43-E54.
+   MgO                   7.5    9        (b)  7.31      (a)  4.09     (b)
+   CaO      14.3     (a)  14.5   14      (b) 14.72    (a)  16.7     (b)
+                                                                      Butler P. (1972a) Lunar Sample Information Catalog   Na2O     0.51     (a)  0.5     0.55    (b)  0.57      (a)  0.42     (b)
+   K2O                    0.11    0.1     (b)  0.08      (a)  0.13     (b)   Apollo 16. Lunar Receiving Laboratory. MSC 03210
+   P2O5                  0.06    0.03    (b)                           Curator’s Catalog. pp. 370.
+   S %
+    sum
+                                                         Deutsch A. and Stoffler D. (1987) Rb-Sr-analyses of Apollo
+    Sc ppm   5.82     (a)                     5.47      (a)        16 melt rocks and a new age estimate for the Imbrium basin:
+   V                                                   Lunar basin chronology and the early heavy bombardment
+    Cr       950      (a)                  772      (a)
+                                                                of the moon. Geochim. Cosmochim. Acta 51, 1951-1964.   Co        72.3     (a)                  59        (a)
+     Ni        1380     (a)                  1091     (a)
+   Cu                                                  Haskin L.A., Helmke P.A., Blanchard D.P., Jacobs J.W. and
+    Zn       18        (a)                                     Telunder K. (1973) Major and trace element abundances in
+   Ga
+                                                          samples from the lunar highlands. Proc. 4th Lunar Sci. Conf.   Ge ppb
+    As                                                   1275-1296.
+    Se
+   Rb                                             Head J.W. (1974b)  Stratigraphy of the Descartes region
+    Sr        140      (a)
+--- material block 2; lines 1-8 ---
+Table 3. Chemical composition of 67695
+                                                                     clast        References for 67627 and 67629
+     reference  Borchardt86 Stoffler85          Morris86    See 86       Borchardt R., Stoffler D., Spettel B., Palme H., Wanke
+     weight                 Borchardt86      See 86                  H., Wacker K. and Jessberger E.K. (1986)
+    SiO2 %                43.4   43      (b) 44.95    (a) 44.37    (b)   Composition, structure and age of the Apollo 16
+    TiO2                   0.32    0.31    (b)  0.26      (a)  0.01     (b)
+                                                                       subregolith basement as deduced from the chemistry    Al2O3                 25.5    24.2    (b) 26.52    (a)  35.5     (b)
+   FeO       6.4       (a)  6.2     7.3     (b)  5.85      (a)  0.15     (b)   of post-Imbrium melt bombs. Proc. 17th Lunar Planet.
+--- material block 3; lines 61-73 ---
+See T.H., Horz F. and Morris R.V. (1986) Apollo 16 impact-    Ta        0.33     (a)                    0.45      (a)
+  W ppb                                                   melt splashes: Petrography and major-element composition.
+   Re ppb                                                   Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 91,
+   Os ppb                                               E3-E20.
+       Ir ppb     3.7       (a)
+     Pt ppb
+    Au ppb    1.7       (a)                                  Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+    Th ppm    1.23     (a)                    1.87      (a)       67515 to 68537:  Sample classification, description and
+   U ppm    0.38     (a)                     0.5       (a)         inventory. Curator Catalog, JSC
+     technique:  (a) INAA, (b) broad beam e. probe
+
+
+Lunar Sample Compendium
+--- age block 4; lines 1-24 ---
+Table 3. Chemical composition of 67695
+                                                                     clast        References for 67627 and 67629
+     reference  Borchardt86 Stoffler85          Morris86    See 86       Borchardt R., Stoffler D., Spettel B., Palme H., Wanke
+     weight                 Borchardt86      See 86                  H., Wacker K. and Jessberger E.K. (1986)
+    SiO2 %                43.4   43      (b) 44.95    (a) 44.37    (b)   Composition, structure and age of the Apollo 16
+    TiO2                   0.32    0.31    (b)  0.26      (a)  0.01     (b)
+                                                                       subregolith basement as deduced from the chemistry    Al2O3                 25.5    24.2    (b) 26.52    (a)  35.5     (b)
+   FeO       6.4       (a)  6.2     7.3     (b)  5.85      (a)  0.15     (b)   of post-Imbrium melt bombs. Proc. 17th Lunar Planet.
+   MnO                   0.09    0.12    (b)              0.06     (b)    Sci. Conf. in J. Geophys. Res. 90, E43-E54.
+   MgO                   7.5    9        (b)  7.31      (a)  4.09     (b)
+   CaO      14.3     (a)  14.5   14      (b) 14.72    (a)  16.7     (b)
+                                                                      Butler P. (1972a) Lunar Sample Information Catalog   Na2O     0.51     (a)  0.5     0.55    (b)  0.57      (a)  0.42     (b)
+   K2O                    0.11    0.1     (b)  0.08      (a)  0.13     (b)   Apollo 16. Lunar Receiving Laboratory. MSC 03210
+   P2O5                  0.06    0.03    (b)                           Curator’s Catalog. pp. 370.
+   S %
+    sum
+                                                         Deutsch A. and Stoffler D. (1987) Rb-Sr-analyses of Apollo
+    Sc ppm   5.82     (a)                     5.47      (a)        16 melt rocks and a new age estimate for the Imbrium basin:
+   V                                                   Lunar basin chronology and the early heavy bombardment
+    Cr       950      (a)                  772      (a)
+                                                                of the moon. Geochim. Cosmochim. Acta 51, 1951-1964.   Co        72.3     (a)                  59        (a)
+     Ni        1380     (a)                  1091     (a)
+   Cu                                                  Haskin L.A., Helmke P.A., Blanchard D.P., Jacobs J.W. and
+    Zn       18        (a)                                     Telunder K. (1973) Major and trace element abundances in
+--- references block 5; lines 1-9 ---
+Table 3. Chemical composition of 67695
+                                                                     clast        References for 67627 and 67629
+     reference  Borchardt86 Stoffler85          Morris86    See 86       Borchardt R., Stoffler D., Spettel B., Palme H., Wanke
+     weight                 Borchardt86      See 86                  H., Wacker K. and Jessberger E.K. (1986)
+    SiO2 %                43.4   43      (b) 44.95    (a) 44.37    (b)   Composition, structure and age of the Apollo 16
+    TiO2                   0.32    0.31    (b)  0.26      (a)  0.01     (b)
+                                                                       subregolith basement as deduced from the chemistry    Al2O3                 25.5    24.2    (b) 26.52    (a)  35.5     (b)
+   FeO       6.4       (a)  6.2     7.3     (b)  5.85      (a)  0.15     (b)   of post-Imbrium melt bombs. Proc. 17th Lunar Planet.
+   MnO                   0.09    0.12    (b)              0.06     (b)    Sci. Conf. in J. Geophys. Res. 90, E43-E54.
+--- references block 6; lines 64-74 ---
+Os ppb                                               E3-E20.
+       Ir ppb     3.7       (a)
+     Pt ppb
+    Au ppb    1.7       (a)                                  Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+    Th ppm    1.23     (a)                    1.87      (a)       67515 to 68537:  Sample classification, description and
+   U ppm    0.38     (a)                     0.5       (a)         inventory. Curator Catalog, JSC
+     technique:  (a) INAA, (b) broad beam e. probe
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 9; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 5-17 ---
+67629
+
+
+
+
+
+        Figure 10: Normalized rare-earth-element diagram for glass-bearing samples from NRC (a la Stoffler et al. 1985)..
+
+
+
+                                                                 highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.    Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+                                                            Res. 90, C449-C506.     J. and Rehfeldt A. (1981) Distribution and provenance of
+    lunar highland rock types at North Ray Crater, Apollo 16.
+--- material block 2; lines 11-23 ---
+Figure 10: Normalized rare-earth-element diagram for glass-bearing samples from NRC (a la Stoffler et al. 1985)..
+
+
+
+                                                                 highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.    Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+                                                            Res. 90, C449-C506.     J. and Rehfeldt A. (1981) Distribution and provenance of
+    lunar highland rock types at North Ray Crater, Apollo 16.
+                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.    Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+                                                               In Geology of the Apollo 16 area, central lunar highlands.
+                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.    Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                                                  Wiesmann H. and Hubbard N.J. (1975) A compilation of   Reimold W.U., Wacker K. and Wanke H. (1985)
+                                                                the Lunar Sample Data Generated by the Gast, Nyquist and   Composition and evolution of the lunar crust in the Descartes

@@ -1,0 +1,260 @@
+DOCUMENT_ID: 10067__compendium__7b4958c438
+ATLAS_SAMPLE_IDS: 10067
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10067.pdf
+SOURCE_PDF_SHA256: 2ff16c57cca4b0823ece3753a2b28ec5ffde7fae92e0c1b415093ec882ba07da
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 9-21 ---
+Figure 1: Photo of 10067,3. Sample is 3.5 cm across. NASA S76-21923.
+
+
+
+   Introduction                               Chemistry
+   10067 is a typical Apollo 11 soil breccia.            The composition of 10067, as reported by Goles et al.
+                                                         (1970), seems to have more FeO than Apollo soils
+   Petrography                                           (figure 3).
+   Carter and McGregger (1970) and Keil et al. (1970)
+    briefly mentioned 10067 in their study of Apollo 11  Processing
+    regolith breccias.                                Apollo 11 samples were originally described and
+                                                        cataloged in 1969 and “recataloged” by Kramer et al.
+                                                         (1977). There are 4 thin sections.
+--- material block 2; lines 1-24 ---
+10067
+                                   Regolith Breccia
+                                            69.3 grams
+
+
+
+
+
+              Figure 1: Photo of 10067,3. Sample is 3.5 cm across. NASA S76-21923.
+
+
+
+   Introduction                               Chemistry
+   10067 is a typical Apollo 11 soil breccia.            The composition of 10067, as reported by Goles et al.
+                                                         (1970), seems to have more FeO than Apollo soils
+   Petrography                                           (figure 3).
+   Carter and McGregger (1970) and Keil et al. (1970)
+    briefly mentioned 10067 in their study of Apollo 11  Processing
+    regolith breccias.                                Apollo 11 samples were originally described and
+                                                        cataloged in 1969 and “recataloged” by Kramer et al.
+                                                         (1977). There are 4 thin sections.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-23 ---
+25
+                                                                                 20                      Apollo soils
+                                                                                              10067
+                                                                                                                                   breccia
+
+                                                                                 15
+                                 FeO          10084
+
+                                                                                 10
+
+
+                                                                                    5
+
+
+                                                                                    0
+                                                                                      0       5       10      15      20      25      30      35
+                                                             Al2O3
+
+                                                                  Figure 3: Composition of 10067 (Goles et al.
+                                                                    1970).
+
+        Figure 2: Photomicrograph of thin section 10067,6             1000
+        showing orange glass bead in breccia matrix. NASA
+--- mineralogy block 2; lines 17-29 ---
+Al2O3
+
+                                                                  Figure 3: Composition of 10067 (Goles et al.
+                                                                    1970).
+
+        Figure 2: Photomicrograph of thin section 10067,6             1000
+        showing orange glass bead in breccia matrix. NASA
+                                                                                   10067        S70-50554. Field of view is 2.5 mm.
+                                                                                               100
+
+                                                                                sample/
+                                                                                                                         10084
+                                                                                         chondrite
+--- mineralogy block 3; lines 48-60 ---
+for breccia 10067 compared with soil 10084 (data
+                                                              from Goles et al. 1970).
+
+
+
+                                                References for 10067
+                                                           Carter J.L. and MacGregor I.D. (1970)  Mineralogy,
+                                                              petrology and surface features of some Apollo 11 samples.
+        C Meyer   10067                                                             Proc. Apollo 11 Lunar Sci. Conf. 247-265.
+          2011      69.3 grams
+
+                                                      Cloud P., Margolis S.V., Moorman M., Barker J.M., Licari
+              ,3          ,7     ,11                        G. Kringsley D. and Barnes V.E. (1970) Micromorphology
+--- material block 4; lines 1-10 ---
+25
+                                                                                 20                      Apollo soils
+                                                                                              10067
+                                                                                                                                   breccia
+
+                                                                                 15
+                                 FeO          10084
+
+                                                                                 10
+--- material block 5; lines 17-29 ---
+Al2O3
+
+                                                                  Figure 3: Composition of 10067 (Goles et al.
+                                                                    1970).
+
+        Figure 2: Photomicrograph of thin section 10067,6             1000
+        showing orange glass bead in breccia matrix. NASA
+                                                                                   10067        S70-50554. Field of view is 2.5 mm.
+                                                                                               100
+
+                                                                                sample/
+                                                                                                                         10084
+                                                                                         chondrite
+--- material block 6; lines 42-70 ---
+0.1
+                                                                                   La      Pr    Sm    Gd     Dy      Er     Yb
+                                                                              Ce     Nd     Eu     Tb    Ho    Tm     Lu
+
+                                                                 Figure 4: Normalized rare earth element diagram
+                                                                          for breccia 10067 compared with soil 10084 (data
+                                                              from Goles et al. 1970).
+
+
+
+                                                References for 10067
+                                                           Carter J.L. and MacGregor I.D. (1970)  Mineralogy,
+                                                              petrology and surface features of some Apollo 11 samples.
+        C Meyer   10067                                                             Proc. Apollo 11 Lunar Sci. Conf. 247-265.
+          2011      69.3 grams
+
+                                                      Cloud P., Margolis S.V., Moorman M., Barker J.M., Licari
+              ,3          ,7     ,11                        G. Kringsley D. and Barnes V.E. (1970) Micromorphology
+            46.8 g        PB                      and Surface Characteristics of Lunar Dust and Breccia. Proc.
+                                                           Apollo 11 Lunar Science Conf. 1793- 1798.
+                                  ,6               ,19     ,9001
+                                  ,8                       Fruland Ruth M. (1983)  Regolith Breccia Workbook.               1.3 g   8 g
+                                  ,9                                                                 Curatorial Branch Publication # 66. JSC 19045.
+                              ,10
+                      TS
+                                                         Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,
+                                             Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+                                                          abundances by instrumental activation analyses in chips from
+--- references block 7; lines 47-59 ---
+Figure 4: Normalized rare earth element diagram
+                                                                          for breccia 10067 compared with soil 10084 (data
+                                                              from Goles et al. 1970).
+
+
+
+                                                References for 10067
+                                                           Carter J.L. and MacGregor I.D. (1970)  Mineralogy,
+                                                              petrology and surface features of some Apollo 11 samples.
+        C Meyer   10067                                                             Proc. Apollo 11 Lunar Sci. Conf. 247-265.
+          2011      69.3 grams
+
+                                                      Cloud P., Margolis S.V., Moorman M., Barker J.M., Licari
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Keil K., Bunch T.E. and Prinz M. (1970) Mineralogy and   Table 1. Chemical composition of 10067.
+                                                          composition of Apollo 11 lunar samples. Proc. Apollo 11
+    reference  Goles70                                    Lunar Sci. Conf. 561-598.
+    weight
+   SiO2 %    44.1
+    TiO2       8.8                                       King E.A. and a cast of thousands (1969) Lunar Sample
+   Al2O3    14                                        Information Catalog, Apollo 11.  Lunar Receiving
+   FeO       17.9
+   MnO      0.23      (a)                                      Laboratory, MSC 412 pp
+   MgO      12
+   CaO       12.2
+                                                     Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo   Na2O     0.48      (a)
+   K2O                                                11 Lunar Sample Information Catalogue (revised).
+   P2O5                                                      Curator’s Office, JSC 12522
+   S %
+   sum
+                                                        Lofgren G.E. (1971b)  Devitrified glass fragments from
+   Sc ppm   66        (a)
+   V        71        (a)                                   Apollo 11 and Apollo 12 lunar samples.  Proc. 2nd Lunar
+--- mineralogy block 2; lines 1-7 ---
+Keil K., Bunch T.E. and Prinz M. (1970) Mineralogy and   Table 1. Chemical composition of 10067.
+                                                          composition of Apollo 11 lunar samples. Proc. Apollo 11
+    reference  Goles70                                    Lunar Sci. Conf. 561-598.
+    weight
+   SiO2 %    44.1
+    TiO2       8.8                                       King E.A. and a cast of thousands (1969) Lunar Sample
+   Al2O3    14                                        Information Catalog, Apollo 11.  Lunar Receiving
+--- mineralogy block 3; lines 11-23 ---
+CaO       12.2
+                                                     Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo   Na2O     0.48      (a)
+   K2O                                                11 Lunar Sample Information Catalogue (revised).
+   P2O5                                                      Curator’s Office, JSC 12522
+   S %
+   sum
+                                                        Lofgren G.E. (1971b)  Devitrified glass fragments from
+   Sc ppm   66        (a)
+   V        71        (a)                                   Apollo 11 and Apollo 12 lunar samples.  Proc. 2nd Lunar
+    Cr        2040     (a)                                            Sci. Conf. 949-955
+   Co        35.9      (a)
+    Ni
+   Cu                                        LSPET (1969) Preliminary examination of lunar samples
+--- material block 4; lines 22-34 ---
+Ni
+   Cu                                        LSPET (1969) Preliminary examination of lunar samples
+   Zn                                                      from Apollo 11. Science 165, 1211-1227.   Ga
+   Ge ppb
+   As                                                   Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+   Se
+   Rb                                                     (1976a) Lithification of vitric- and clastic-matrix breccias:
+    Sr                                   SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+   Y
+    Zr
+   Nb                                                     Schmitt H.H., Lofgren G., Swann G.A. and Simmons G.
+   Mo
+                                                           (1970) The Apollo 11 samples: Introduction. Proc. Apollo   Ru
+--- material block 5; lines 39-51 ---
+In ppb                                                    Petrology of the Apollo 11 highland component. Proc. 14th
+   Sn ppb
+   Sb ppb                                             Lunar Planet. Sci. Conf. in J. Geophys. Res. 88, B103-138.
+    Te ppb
+   Cs ppm
+                                                  Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology   Ba
+   La        20.1      (a)                                       of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+   Ce       68        (a)                                                            Conf. in J. Geophys. Res. 89, C109-132.    Pr
+   Nd
+   Sm        16.7      (a)
+   Eu         2.4       (a)
+   Gd
+   Tb         3.1       (a)
+--- references block 6; lines 1-9 ---
+Keil K., Bunch T.E. and Prinz M. (1970) Mineralogy and   Table 1. Chemical composition of 10067.
+                                                          composition of Apollo 11 lunar samples. Proc. Apollo 11
+    reference  Goles70                                    Lunar Sci. Conf. 561-598.
+    weight
+   SiO2 %    44.1
+    TiO2       8.8                                       King E.A. and a cast of thousands (1969) Lunar Sample
+   Al2O3    14                                        Information Catalog, Apollo 11.  Lunar Receiving
+   FeO       17.9
+   MnO      0.23      (a)                                      Laboratory, MSC 412 pp
+--- references block 7; lines 62-71 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm
+   U ppm     0.54      (a)
+    technique: (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2011

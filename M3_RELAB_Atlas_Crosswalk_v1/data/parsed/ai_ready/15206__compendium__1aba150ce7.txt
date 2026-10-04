@@ -1,0 +1,197 @@
+DOCUMENT_ID: 15206__compendium__1aba150ce7
+ATLAS_SAMPLE_IDS: 15206
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15206.pdf
+SOURCE_PDF_SHA256: c2ae63e737a4f65a46769501a258277ca43454511d23e6a9e2d924d547d7f6c2
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 18-30 ---
+not been dated.
+
+   Petrography
+   The best description of 15206 is found in Ryder (1985).
+     It is a vesicular glassy breccia containing KREEP basalt
+   and mare basalt clasts.  Unlike 15205 the clasts are
+   shocked and penetrated by glass and there is a higher
+   proportion of matrix (figure 3).  It is an impact melt
+    rock, that was probably generated from a regolith.
+                                         C Meyer    15206   Chemistry
+                                                     2009     92 grams   The K, Th and U was determined by radiation counting
+   and found to be similar to that of 15205. Judging from
+   the high Th content both samples must be made up   ,0                                                     ,1                                                                             ,9             PB
+--- material block 2; lines 1-8 ---
+15206
+                               Impact melt Breccia
+                                        92 grams
+--- material block 3; lines 16-37 ---
+composition.  However, it has a different texture
+   (Wilshire and Moore 1974, Dymek et al. 1974). It has
+   not been dated.
+
+   Petrography
+   The best description of 15206 is found in Ryder (1985).
+     It is a vesicular glassy breccia containing KREEP basalt
+   and mare basalt clasts.  Unlike 15205 the clasts are
+   shocked and penetrated by glass and there is a higher
+   proportion of matrix (figure 3).  It is an impact melt
+    rock, that was probably generated from a regolith.
+                                         C Meyer    15206   Chemistry
+                                                     2009     92 grams   The K, Th and U was determined by radiation counting
+   and found to be similar to that of 15205. Judging from
+   the high Th content both samples must be made up   ,0                                                     ,1                                                                             ,9             PB
+   mostly KREEP basalt. Halogens were determined by   56 g
+   Reed and Jovanovic (1972).                                                                                                      ,3
+                                                                       ,10   ,11     ,17   ,19    ,9
+                                                                       2.9 g          1 g   1 g    3.4 g
+   Cosmogenic isotopes and exposure ages                                                                                ,8                                                                                               TS
+   Keith et al. (1972) and Rancitelli et al. (1972)               ,14  ,15  ,11
+                                                   PB  PB  10 g
+--- age block 4; lines 12-24 ---
+Introduction
+   Lunar sample 15206 was broken off the same boulder
+   as 15205 and apparently has the same chemical
+   composition.  However, it has a different texture
+   (Wilshire and Moore 1974, Dymek et al. 1974). It has
+   not been dated.
+
+   Petrography
+   The best description of 15206 is found in Ryder (1985).
+     It is a vesicular glassy breccia containing KREEP basalt
+   and mare basalt clasts.  Unlike 15205 the clasts are
+   shocked and penetrated by glass and there is a higher
+--- age block 5; lines 32-44 ---
+Reed and Jovanovic (1972).                                                                                                      ,3
+                                                                       ,10   ,11     ,17   ,19    ,9
+                                                                       2.9 g          1 g   1 g    3.4 g
+   Cosmogenic isotopes and exposure ages                                                                                ,8                                                                                               TS
+   Keith et al. (1972) and Rancitelli et al. (1972)               ,14  ,15  ,11
+                                                   PB  PB  10 g
+   determined the cosmic-ray-induced activity of 26Al,
+    22Na, 46Sc, 48V, 54Mn, 56Co and 60Co.                                       ,29   ,30
+                                                                                     ,32   ,31
+                                                                                     ,34   ,33
+   Processing                                               TS  TS
+  An elongate piece (,9) was cut off and subdivided..
+   There are 12 thin sections.
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-29 ---
+Table 1. Chemical composition of 15206.       References for 15206
+                                                                 Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    reference  Keith72  Rancitelli72   Reed72                      Office, MSC 03209
+    weight            86 g
+   SiO2 %
+                                             Dymek R.F., Albee A.L. and Chodos A.A. (1974)  Glass-    TiO2
+   Al2O3                                                     coated soil breccia 15205: Selenologic history and petrologic
+   FeO                                                            constraints on the nature of its source region. Proc. 5th Lunar
+   MnO                                                              Sci. Conf. 235-260.
+   MgO
+   CaO
+   Na2O                                                   Keith J.E., Clark R.S. and Richardson K.A. (1972) Gamma-
+   K2O      0.59     0.6         (a)                             ray measurements of Apollo 12, 14 and 15 lunar samples.
+   P2O5                                                      Proc. 3rd Lunar Sci. Conf. 1671-1680.
+   S %
+   sum
+                                                                    Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+   Sc ppm                                            (1972)  Lunar surface processes and cosmic ray
+   V                                                            characterization from Apollo 12-15 lunar samples analyses.
+    Cr
+                                                             Proc. 3rd Lunar Sci. Conf. 1681-1691.   Co
+    Ni
+   Cu                                           Reed G.W. and Jovanovic S. (1972)  Trace element
+   Zn                                                    comparisons between mare and Apennine-Front nonmare
+   Ga
+                                                            samples. The Apollo 15 Lunar Samples (Chamberlain J.W.   Ge ppb
+   As                                                 and Watkins C., eds.), 247-249. Lunar Science Institute,
+   Se                                                    Houston.
+   Rb
+--- mineralogy block 2; lines 1-12 ---
+Table 1. Chemical composition of 15206.       References for 15206
+                                                                 Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    reference  Keith72  Rancitelli72   Reed72                      Office, MSC 03209
+    weight            86 g
+   SiO2 %
+                                             Dymek R.F., Albee A.L. and Chodos A.A. (1974)  Glass-    TiO2
+   Al2O3                                                     coated soil breccia 15205: Selenologic history and petrologic
+   FeO                                                            constraints on the nature of its source region. Proc. 5th Lunar
+   MnO                                                              Sci. Conf. 235-260.
+   MgO
+   CaO
+   Na2O                                                   Keith J.E., Clark R.S. and Richardson K.A. (1972) Gamma-
+--- mineralogy block 3; lines 52-64 ---
+Gd                                                   Geologic Investigation of the Apollo 15 landing site.  In
+   Tb
+                                                         Apollo 15 Preliminary Science Rpt. NASA SP-289. pages   Dy
+   Ho                                                        5-1-112.
+    Er
+   Tm
+                                                              Wilshire H.G. and Moore H.J. (1974)  Glass-coated lunar   Yb
+   Lu                                                      rock fragments. J. Geol. 82, 403-417.
+    Hf
+    Ta
+  W ppb
+   Re ppb
+   Os ppb
+--- material block 4; lines 1-13 ---
+Table 1. Chemical composition of 15206.       References for 15206
+                                                                 Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    reference  Keith72  Rancitelli72   Reed72                      Office, MSC 03209
+    weight            86 g
+   SiO2 %
+                                             Dymek R.F., Albee A.L. and Chodos A.A. (1974)  Glass-    TiO2
+   Al2O3                                                     coated soil breccia 15205: Selenologic history and petrologic
+   FeO                                                            constraints on the nature of its source region. Proc. 5th Lunar
+   MnO                                                              Sci. Conf. 235-260.
+   MgO
+   CaO
+   Na2O                                                   Keith J.E., Clark R.S. and Richardson K.A. (1972) Gamma-
+   K2O      0.59     0.6         (a)                             ray measurements of Apollo 12, 14 and 15 lunar samples.
+--- material block 5; lines 53-65 ---
+Tb
+                                                         Apollo 15 Preliminary Science Rpt. NASA SP-289. pages   Dy
+   Ho                                                        5-1-112.
+    Er
+   Tm
+                                                              Wilshire H.G. and Moore H.J. (1974)  Glass-coated lunar   Yb
+   Lu                                                      rock fragments. J. Geol. 82, 403-417.
+    Hf
+    Ta
+  W ppb
+   Re ppb
+   Os ppb
+      Ir ppb
+--- age block 6; lines 12-24 ---
+Na2O                                                   Keith J.E., Clark R.S. and Richardson K.A. (1972) Gamma-
+   K2O      0.59     0.6         (a)                             ray measurements of Apollo 12, 14 and 15 lunar samples.
+   P2O5                                                      Proc. 3rd Lunar Sci. Conf. 1671-1680.
+   S %
+   sum
+                                                                    Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+   Sc ppm                                            (1972)  Lunar surface processes and cosmic ray
+   V                                                            characterization from Apollo 12-15 lunar samples analyses.
+    Cr
+                                                             Proc. 3rd Lunar Sci. Conf. 1681-1691.   Co
+    Ni
+   Cu                                           Reed G.W. and Jovanovic S. (1972)  Trace element
+   Zn                                                    comparisons between mare and Apennine-Front nonmare
+--- references block 7; lines 1-9 ---
+Table 1. Chemical composition of 15206.       References for 15206
+                                                                 Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    reference  Keith72  Rancitelli72   Reed72                      Office, MSC 03209
+    weight            86 g
+   SiO2 %
+                                             Dymek R.F., Albee A.L. and Chodos A.A. (1974)  Glass-    TiO2
+   Al2O3                                                     coated soil breccia 15205: Selenologic history and petrologic
+   FeO                                                            constraints on the nature of its source region. Proc. 5th Lunar
+   MnO                                                              Sci. Conf. 235-260.
+--- references block 8; lines 64-73 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm   12       12.4
+   U ppm    3.2      3.22          4.9
+    technique:  (a) radiation counting
+
+Lunar Sample Compendium
+C Meyer 2009

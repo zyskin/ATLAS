@@ -1,0 +1,847 @@
+DOCUMENT_ID: 14163__compendium__db93626814
+ATLAS_SAMPLE_IDS: 14163
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14163.pdf
+SOURCE_PDF_SHA256: 12544c124422d009449e9aa108462c73d4fa3ab7d376dbcffe6eb810efe8343e
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 21-33 ---
+Figure 1a: Map of Apollo 14                       Note: It seems odd, that out of all this soil, only a few
+                                                        rock chips were collected.
+
+                                              Petrography
+                                                 14163 was chosen as one of the reference soils for
+                                                            the lunar highlands suite (Labotka et al. 1980).
+                                                The maturity index for 14163 (Is/FeO = 57, submature)
+                                               was reported by Morris (1978) and the soil contained
+                                                       about 46 % agglutinates. King et al. (1972), McKay
+                                                                   et al. (1972) and others determined the grain size
+                                                               distribution (figure 1).
+
+                                                     Carr and Meyer (1972) and Simon et al. (1981)
+--- mineralogy block 2; lines 7-19 ---
+At the end of the first EVA on Apollo 14, a large soil
+                                                    sample was collected from the area near the LM. The
+                                                                area, about 15 meters from the LM, was apparently
+                                                               free of rock fragments (see Graf 1993), and not many
+                                                were sieved from the large soil collected.  The
+                                                               transcript indicates that the bulk soil sample was
+                                                    scooped from a small (2 foot) crater with glass in the
+                                                       bottom, possibly secondary in origin. 14163 should
+                                                    be compared with 14259, which is more of a surface
+                                                       sample.       14163
+
+                                                 Twenty nine small rock samples from this soil were
+                                                 numbered 14425 to 14453. Reserve soil 14421 (<1
+--- mineralogy block 3; lines 28-56 ---
+was reported by Morris (1978) and the soil contained
+                                                       about 46 % agglutinates. King et al. (1972), McKay
+                                                                   et al. (1972) and others determined the grain size
+                                                               distribution (figure 1).
+
+                                                     Carr and Meyer (1972) and Simon et al. (1981)
+                                                       determined the petrographic mode, finding a very high
+                                                     percentage of glass (figure 4). Much of this is
+                                                            agglutinate glass but Papike et al. (1982) note that
+                                              some of the glass has the composition of mare basalt
+                                                         (an exotic component at the A14 site). There is also a
+            Figure 1b: Sieving soil sample in SNAP.           small percentage of “granitic” glass.
+
+         Modal content of soils 14163.
+           From Simon et al. 1981                          Modal content of soils 14163.
+              Agglutinates      45.7 %                              From Carr and Meyer (1972)
+              Basalt             2.8                                         Glass                      61.1 %
+              Breccia          31                                             Dark cloudy      41
+              Anorthosite       2.9                                          Homogeneous     20.1
+              Norite                                                         Breccia                    27.9
+            Gabbro                                                                 Light matrix      17.9
+              Plagioclase        5.1                                            Dark matrix      10
+             Pyroxene          2.6                                         Minerals                    9.6
+              Olivine                                                                    Plagioclase        5.1
+              Ilmenite                                                           Pyroxene          4.1
+             Glass other       10                                                    Olivine            0.4
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 4; lines 1-55 ---
+14163
+                               Bulk Soil Sample
+                                           7,776 grams
+
+
+                                                  Introduction
+                                                 At the end of the first EVA on Apollo 14, a large soil
+                                                    sample was collected from the area near the LM. The
+                                                                area, about 15 meters from the LM, was apparently
+                                                               free of rock fragments (see Graf 1993), and not many
+                                                were sieved from the large soil collected.  The
+                                                               transcript indicates that the bulk soil sample was
+                                                    scooped from a small (2 foot) crater with glass in the
+                                                       bottom, possibly secondary in origin. 14163 should
+                                                    be compared with 14259, which is more of a surface
+                                                       sample.       14163
+
+                                                 Twenty nine small rock samples from this soil were
+                                                 numbered 14425 to 14453. Reserve soil 14421 (<1
+                                               cm) and 14422 and 14423 were also from this bag.
+         Figure 1a: Map of Apollo 14                       Note: It seems odd, that out of all this soil, only a few
+                                                        rock chips were collected.
+
+                                              Petrography
+                                                 14163 was chosen as one of the reference soils for
+                                                            the lunar highlands suite (Labotka et al. 1980).
+                                                The maturity index for 14163 (Is/FeO = 57, submature)
+                                               was reported by Morris (1978) and the soil contained
+                                                       about 46 % agglutinates. King et al. (1972), McKay
+                                                                   et al. (1972) and others determined the grain size
+                                                               distribution (figure 1).
+
+                                                     Carr and Meyer (1972) and Simon et al. (1981)
+                                                       determined the petrographic mode, finding a very high
+                                                     percentage of glass (figure 4). Much of this is
+                                                            agglutinate glass but Papike et al. (1982) note that
+                                              some of the glass has the composition of mare basalt
+                                                         (an exotic component at the A14 site). There is also a
+            Figure 1b: Sieving soil sample in SNAP.           small percentage of “granitic” glass.
+
+         Modal content of soils 14163.
+           From Simon et al. 1981                          Modal content of soils 14163.
+              Agglutinates      45.7 %                              From Carr and Meyer (1972)
+              Basalt             2.8                                         Glass                      61.1 %
+              Breccia          31                                             Dark cloudy      41
+              Anorthosite       2.9                                          Homogeneous     20.1
+              Norite                                                         Breccia                    27.9
+            Gabbro                                                                 Light matrix      17.9
+              Plagioclase        5.1                                            Dark matrix      10
+             Pyroxene          2.6                                         Minerals                    9.6
+              Olivine                                                                    Plagioclase        5.1
+              Ilmenite                                                           Pyroxene          4.1
+             Glass other       10                                                    Olivine            0.4
+
+Lunar Sample Compendium
+--- treatment block 5; lines 5-17 ---
+Introduction
+                                                 At the end of the first EVA on Apollo 14, a large soil
+                                                    sample was collected from the area near the LM. The
+                                                                area, about 15 meters from the LM, was apparently
+                                                               free of rock fragments (see Graf 1993), and not many
+                                                were sieved from the large soil collected.  The
+                                                               transcript indicates that the bulk soil sample was
+                                                    scooped from a small (2 foot) crater with glass in the
+                                                       bottom, possibly secondary in origin. 14163 should
+                                                    be compared with 14259, which is more of a surface
+                                                       sample.       14163
+--- treatment block 6; lines 21-33 ---
+Figure 1a: Map of Apollo 14                       Note: It seems odd, that out of all this soil, only a few
+                                                        rock chips were collected.
+
+                                              Petrography
+                                                 14163 was chosen as one of the reference soils for
+                                                            the lunar highlands suite (Labotka et al. 1980).
+                                                The maturity index for 14163 (Is/FeO = 57, submature)
+                                               was reported by Morris (1978) and the soil contained
+                                                       about 46 % agglutinates. King et al. (1972), McKay
+                                                                   et al. (1972) and others determined the grain size
+                                                               distribution (figure 1).
+
+                                                     Carr and Meyer (1972) and Simon et al. (1981)
+--- references block 7; lines 19-31 ---
+numbered 14425 to 14453. Reserve soil 14421 (<1
+                                               cm) and 14422 and 14423 were also from this bag.
+         Figure 1a: Map of Apollo 14                       Note: It seems odd, that out of all this soil, only a few
+                                                        rock chips were collected.
+
+                                              Petrography
+                                                 14163 was chosen as one of the reference soils for
+                                                            the lunar highlands suite (Labotka et al. 1980).
+                                                The maturity index for 14163 (Is/FeO = 57, submature)
+                                               was reported by Morris (1978) and the soil contained
+                                                       about 46 % agglutinates. King et al. (1972), McKay
+                                                                   et al. (1972) and others determined the grain size
+                                                               distribution (figure 1).
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy,treatment ===
+--- mineralogy block 1; lines 6-18 ---
+Figure 2a: Grain size distribution for soil 14163
+                                                                 Figure 2b: Grain size distribution for soil 14163         (from Graf 1993, data from King).
+                                                                   (from Graf 1993, data from McKay).
+
+
+  A glass sphere (14425) was found in the particles from   minerals in the soil were mostly derived from the Fra
+   14163 and was allocated to John O’Keefe. Kramer  Mauro breccias and/or KREEP basalt.
+   and Twedell (1977) sorted and described a portion of
+    the coarse fine particles (14160) and also found a high  Chemistry
+    percentage of agglutinates (Table 3). McKay et al.  Taylor et al. (1972), Laul et al. (1972), Lindstrom et
+   (1979) studied three breccias from 14160, while   al. (1972), Rose et al. (1972), Hubbard (1972), Wanke
+   Hubbard et al. (1972), Taylor et al. (1972) and Powell   et al. (1972), Masuda et al. (1972), Laul and Papike
+--- material block 2; lines 1-35 ---
+Average grain size = 61 microns                                                      Average grain size = 73 microns
+
+
+
+
+
+        Figure 2a: Grain size distribution for soil 14163
+                                                                 Figure 2b: Grain size distribution for soil 14163         (from Graf 1993, data from King).
+                                                                   (from Graf 1993, data from McKay).
+
+
+  A glass sphere (14425) was found in the particles from   minerals in the soil were mostly derived from the Fra
+   14163 and was allocated to John O’Keefe. Kramer  Mauro breccias and/or KREEP basalt.
+   and Twedell (1977) sorted and described a portion of
+    the coarse fine particles (14160) and also found a high  Chemistry
+    percentage of agglutinates (Table 3). McKay et al.  Taylor et al. (1972), Laul et al. (1972), Lindstrom et
+   (1979) studied three breccias from 14160, while   al. (1972), Rose et al. (1972), Hubbard (1972), Wanke
+   Hubbard et al. (1972), Taylor et al. (1972) and Powell   et al. (1972), Masuda et al. (1972), Laul and Papike
+   and Weiblen (1972) reported on other fragments from   (1980), Morgan et al. (1972), Baedecker et al. (1972),
+     this large soil sample. Brad Jolliff (1991) studied three   Willis et al. (1972), Brunfelt et al. (1972), Helmke et
+    crystalline coarse-fines of granitic composition from   al. (1972), Philpotts et al. (1972), Quaide and Wrigley
+   14161 (Table 4).                                    (1972) and Keith et al. (1972) all analyzed 14163 (table
+                                                                1, figures 5 and 6).
+   Finkelman (1973) and Devine et al. (1982) studied the
+    finest fraction, concluding that compositional  Laul and Papike (1980) and Papike et al. (1982)
+    differences are related to comminution of local   calculate the relative proportion of rock types present
+    components. Walker and Papike (1981) determined   in 14163 using a chemical mixing model (55-67% high-
+    the composition and considered the origin of  K KREEP, 6-15% exotic mare basalt and the rest low-
+    agglutinates in 14163, which fuse             K Fra Mauro basalt).
+
+   Papike et  al. (1982) summarized the mineral
+    compositions in 14163 (figure 3). They found that the
+
+
+Lunar Sample Compendium
+--- treatment block 3; lines 19-31 ---
+and Weiblen (1972) reported on other fragments from   (1980), Morgan et al. (1972), Baedecker et al. (1972),
+     this large soil sample. Brad Jolliff (1991) studied three   Willis et al. (1972), Brunfelt et al. (1972), Helmke et
+    crystalline coarse-fines of granitic composition from   al. (1972), Philpotts et al. (1972), Quaide and Wrigley
+   14161 (Table 4).                                    (1972) and Keith et al. (1972) all analyzed 14163 (table
+                                                                1, figures 5 and 6).
+   Finkelman (1973) and Devine et al. (1982) studied the
+    finest fraction, concluding that compositional  Laul and Papike (1980) and Papike et al. (1982)
+    differences are related to comminution of local   calculate the relative proportion of rock types present
+    components. Walker and Papike (1981) determined   in 14163 using a chemical mixing model (55-67% high-
+    the composition and considered the origin of  K KREEP, 6-15% exotic mare basalt and the rest low-
+    agglutinates in 14163, which fuse             K Fra Mauro basalt).
+
+   Papike et  al. (1982) summarized the mineral
+
+=== PDF PAGE 3; CATEGORIES: age,mineralogy ===
+--- mineralogy block 1; lines 25-45 ---
+LPM     Yes.
+   CDR     Let’s hit the little crater out there.   It looks like a
+    secondary.
+   LMP     Let’s go get it.
+   CDR     Right out here.
+   LMP      I saw a little crater about this size out here that I’d swear
+   had glass in the bottom of it, but I was too busy thumping to stop
+   and make any comment on it.
+     - - -
+   CDR     There’s a little different colored layer at the bottom of it
+     there.
+   LMP      Yes. Scoop it out. ***
+   CDR     See, there’s a different color there, maybe. Okay how
+    does that look to you?
+   LMP      I can take another shovelful.
+   CDR    Okay. Houston, that’s in a small crater, looks like it might
+    be a secondary impact, just hazarding a guess; it’s about 2 feet in       Figure 4: Labotka et al. (1980) determined glass
+    diameter, and it’s about 130 feet from the LM.                      composition in 14163.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 2; lines 1-11 ---
+Figure 3: Labotka et al. (1980) and Papike et al. (1982) summarized the mineral
+                compositions in 14163.
+
+                                           Cosmogenic isotopes and exposure ages   Moore et al. (1972) and Cadogen et al. (1972) reported
+                                                      Keith et al. (1972) determined the cosmic-ray-induced   120 ppm carbon (figure 7). Goel and Kothari (1972)
+                                                                activity of 22Na = 46 dpm/kg., 26Al = 79 dpm/kg, 46Sc =   determined nitrogen = 80 ppm.
+                                                         0.7 dpm/kg., 54Mn = 4 dpm/kg and 56Co = 21 dpm/kg.
+                                                              for 14163. Begemann et al. (1972) obtained 26Al = 86
+                                                   dpm/kg. and 36Cl = 25 dpm/kg. Quaide and Wrigley
+                                                      (1972) determined 22Na = 71 dpm/kg and 26Al = 88
+                                                   dpm/kg.
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 1-22 ---
+25
+           20                      Apollo soils
+
+
+           15
+  FeO
+                                               14163
+           10
+
+
+             5
+
+
+             0
+               0       5       10      15      20      25      30      35
+                     Al2O3
+
+         Figure 5: Composition of lunar soils with 14163.
+
+           1000
+--- chemistry block 2; lines 67-79 ---
+40
+
+                 20                              Lunar Soils
+                   0
+                      0          20          40          60          80         100         120
+
+                          maturity (Is/FeO)
+         Figure 7: Maturity and carbon content of lunar
+          soils with 14163.
+                                                                 Figure 9: Evolution of gasses from 14163 as
+                                                                       function of temperature (from Gibson and Moore
+   Other Studies                                               1972).
+  A very large number of highly imaginative studies have
+--- material block 3; lines 21-33 ---
+100
+                                 14163 soil
+       sample/
+       chondrite
+
+
+             10
+--- material block 4; lines 74-86 ---
+Figure 7: Maturity and carbon content of lunar
+          soils with 14163.
+                                                                 Figure 9: Evolution of gasses from 14163 as
+                                                                       function of temperature (from Gibson and Moore
+   Other Studies                                               1972).
+  A very large number of highly imaginative studies have
+   been performed on this soil; only a few are mentioned  Heymann et al. (1972), Bogard and Nyquist (1972) and
+    here. See also sections on 14259, 14149, 14003 etc.   Baur et al. (1972) reported rare gas data..
+   Gibson and Moore (1972) determined the gas release  Tatsumoto et al. (1972) studied the U, Th and Pb
+    profile (figure 9).                                      systematics.
+   Cadenhead et al. (1972) studied the adsorption of water
+    (figure 8).
+--- treatment block 5; lines 67-80 ---
+40
+
+                 20                              Lunar Soils
+                   0
+                      0          20          40          60          80         100         120
+
+                          maturity (Is/FeO)
+         Figure 7: Maturity and carbon content of lunar
+          soils with 14163.
+                                                                 Figure 9: Evolution of gasses from 14163 as
+                                                                       function of temperature (from Gibson and Moore
+   Other Studies                                               1972).
+  A very large number of highly imaginative studies have
+   been performed on this soil; only a few are mentioned  Heymann et al. (1972), Bogard and Nyquist (1972) and
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1a. Chemical composition of 14163.
+
+    reference  Laul72     Laul80      Lindstrom72  Rose72    Hubbard72  Wanke72     Taylor72    Masuda72   Keith72
+    weight               Papike82                       Weismanm75                         Strasheim72
+   SiO2 %               47.3                     47.97   (c )              48.35   (d)   48.1     (e) 47.3      (d)
+    TiO2      1.9      (a)  1.6      (a)               1.77    (c )              1.46     (d)   1.83     (e) 1.84      (d)
+   Al2O3     18.4    (a)  17.8     (a)               17.57   (c )              18.1     (d)   17.6     (e) 17.1      (d)
+   FeO       10.4    (a)  10.5     (a) 10.7      (a)  10.41   (c )              10.4     (d)   10.3     (e) 10.15    (d)
+   MnO      0.124   (a)  0.135    (a)               0.14    (c )              0.13     (d)   0.18     (e) 0.127    (d)
+   MgO                   9.6      (a)               9.18    (c )              9.28     (d)   9.78     (e) 9         (d)
+   CaO      11       (a)  11.4     (a)               11.15   (c )              10.2     (d)   10.4     (e) 10.65    (d)
+   Na2O     0.711   (a)  0.7      (a) 0.75      (a)  0.7     (c ) 0.77      (b) 0.67     (d)   0.62     (e) 0.65      (d)
+   K2O      0.52    (a)  0.55     (a) 0.52      (a)  0.58    (c ) 0.58      (b) 0.53     (d)   0.52     (e) 0.53      (d)  0.57    (g)
+   P2O5                                           0.52    (c )                                          0.5       (d)
+   S %
+   sum
+
+   Sc ppm   21      (a)  21.7     (a) 21.4      (a) 25      (c )              22.8     (a, h) 21         (f)
+   V        57      (a) 45       (a)             57      (c )                         49         (f)  42        (d)
+--- references block 2; lines 1-9 ---
+Table 1a. Chemical composition of 14163.
+
+    reference  Laul72     Laul80      Lindstrom72  Rose72    Hubbard72  Wanke72     Taylor72    Masuda72   Keith72
+    weight               Papike82                       Weismanm75                         Strasheim72
+   SiO2 %               47.3                     47.97   (c )              48.35   (d)   48.1     (e) 47.3      (d)
+    TiO2      1.9      (a)  1.6      (a)               1.77    (c )              1.46     (d)   1.83     (e) 1.84      (d)
+   Al2O3     18.4    (a)  17.8     (a)               17.57   (c )              18.1     (d)   17.6     (e) 17.1      (d)
+   FeO       10.4    (a)  10.5     (a) 10.7      (a)  10.41   (c )              10.4     (d)   10.3     (e) 10.15    (d)
+   MnO      0.124   (a)  0.135    (a)               0.14    (c )              0.13     (d)   0.18     (e) 0.127    (d)
+--- references block 3; lines 64-74 ---
+Os ppb
+      Ir ppb                                                           19
+    Pt ppb
+   Au ppb                                                                     6.1      (a, h)
+   Th ppm   13      (a)  13.3     (a) 15.2      (a)                          15.9     (a, h) 12         (f)               13.7    (g)
+   U ppm                 3.5      (a)                                       4.07     (a, h) 3.2        (f)               3.9     (g)
+    technique:  (a) INAA, (b) IDMS, (c ) microchemical, (d) various, (e) XRF, (f) spark-source mass spec., (g) radiation counting
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 6; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1b. Chemical composition of 14163 (cont.)
+
+
+     reference Morgan72         Baedecker72  Willis72Hubbard72      Brunfelt72        Helmke72  Philpotts72  Quaide72
+     weight                    Wasson73                                 regolith fines                14421
+    SiO2 %                                     47.25   (e) 47.2     (e)
+    TiO2                                        1.79    (e) 1.79     (e)  1.5     1.85    (a)
+    Al2O3                                      17.34   (e) 17.2     (e) 17.2    18.1    (a)
+   FeO                                       10.32   (e) 10.4     (e) 10.4    10.5    (a)
+   MnO                                       0.137   (e) 0.14     (e) 0.13    0.13    (a)
+   MgO                                        9.36    (e) 9.37     (e)  9.1     11.1    (a)
+   CaO                                       10.97   (e) 11       (e) 10     10.2    (a)
+   Na2O                                       0.66    (e) 0.66     (e) 0.73    0.74    (a)
+   K2O                                         0.56    (e) 0.58     (e) 0.49    0.4     (a)                         0.57      (i)
+   P2O5                                       0.49    (e) 0.46     (e)
+   S %                                           0.1     (e) 0.08     (e)
+    sum
+
+    Sc ppm                                                     21     20.5    (a) 20.5
+   V                                                          48     45      (a)
+--- material block 2; lines 1-11 ---
+Table 1b. Chemical composition of 14163 (cont.)
+
+
+     reference Morgan72         Baedecker72  Willis72Hubbard72      Brunfelt72        Helmke72  Philpotts72  Quaide72
+     weight                    Wasson73                                 regolith fines                14421
+    SiO2 %                                     47.25   (e) 47.2     (e)
+    TiO2                                        1.79    (e) 1.79     (e)  1.5     1.85    (a)
+    Al2O3                                      17.34   (e) 17.2     (e) 17.2    18.1    (a)
+   FeO                                       10.32   (e) 10.4     (e) 10.4    10.5    (a)
+   MnO                                       0.137   (e) 0.14     (e) 0.13    0.13    (a)
+   MgO                                        9.36    (e) 9.37     (e)  9.1     11.1    (a)
+--- references block 3; lines 1-10 ---
+Table 1b. Chemical composition of 14163 (cont.)
+
+
+     reference Morgan72         Baedecker72  Willis72Hubbard72      Brunfelt72        Helmke72  Philpotts72  Quaide72
+     weight                    Wasson73                                 regolith fines                14421
+    SiO2 %                                     47.25   (e) 47.2     (e)
+    TiO2                                        1.79    (e) 1.79     (e)  1.5     1.85    (a)
+    Al2O3                                      17.34   (e) 17.2     (e) 17.2    18.1    (a)
+   FeO                                       10.32   (e) 10.4     (e) 10.4    10.5    (a)
+   MnO                                       0.137   (e) 0.14     (e) 0.13    0.13    (a)
+--- references block 4; lines 65-75 ---
+Os ppb
+       Ir ppb     13.6    11.7     (h) 9.1         (h)
+     Pt ppb
+    Au ppb    5.4     5.3      (h)                                                 2.3     (a)
+    Th ppm                                           13       (e)  11.3    10.6    (a)                         13.2      (i)
+   U ppm                                                                3.4     3.4     (a)                         3.75      (i)
+     technique:  (h) RNAA, (e) XRF, (a) INAA, (b) IDMS, (i) radiation counting
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 7; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 2. Chemical composition of some coarse-fines from 14163.
+             14160   14160,79 14160      14161,35 breccias                      14161 anor.   14163
+    reference McKay 79                    Hubbard 72                           Hubbard71    Brunfelt72
+    weight                              Weismann76                        Weismann76  light rx.  dark rx.
+   SiO2 %    48.3     47.8      47.6
+    TiO2      2.1      1.66      1.99         1.83   1.57    1.97    1.62    1.6      (a)                1.2       1.4         (a)
+   Al2O3    16      16.2      15.4                                                                19.3     16.8       (a)
+   FeO      10      10.2      10.5                                                                   8.5      10.2       (a)
+   MnO      0.12     0.14      0.12                                                                   0.11     0.13       (a)
+   MgO      10.1     10.7      11.6         12.4   11.3    9.8     12.2    11.4    (a) 3.6        (a)  9.7      12.2       (a)
+   CaO      10.1     10.3      9.67         9.1     9.8     10.1    8.7     9.4      (a) 17.8       (a) 12       10.1       (a)
+   Na2O                                     0.81   0.78            0.73    0.75    (a) 0.39       (a)  0.81     0.76       (a)
+   K2O      0.81     0.62      0.7          0.57   0.28    0.62    0.57    0.68    (a) 0.018      (a)
+   P2O5
+   S %
+   sum
+
+   Sc ppm                                                                                          16.5     19.7       (a)
+   V                                                                                     18      38          (a)
+--- references block 2; lines 1-9 ---
+Table 2. Chemical composition of some coarse-fines from 14163.
+             14160   14160,79 14160      14161,35 breccias                      14161 anor.   14163
+    reference McKay 79                    Hubbard 72                           Hubbard71    Brunfelt72
+    weight                              Weismann76                        Weismann76  light rx.  dark rx.
+   SiO2 %    48.3     47.8      47.6
+    TiO2      2.1      1.66      1.99         1.83   1.57    1.97    1.62    1.6      (a)                1.2       1.4         (a)
+   Al2O3    16      16.2      15.4                                                                19.3     16.8       (a)
+   FeO      10      10.2      10.5                                                                   8.5      10.2       (a)
+   MnO      0.12     0.14      0.12                                                                   0.11     0.13       (a)
+--- references block 3; lines 64-73 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm                                                                                          10.9     13.6       (a)
+   U ppm                                    5.03   4.08    4.71    3.92    4.61    (a) 0.058      (a)  4        4.4         (a)
+    technique:  (a) IDMS
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 8; CATEGORIES: material ===
+--- material block 1; lines 37-49 ---
+,52     ,59     ,60    ,61     ,62            ,53     ,65     ,66     ,67
+                     150 g  150 g  150 g 140 g  81 g         155 g  145 g  151 g  149 g
+
+
+                                                 Processing
+                                               The bulk soil was placed in weight bag #2 (number   Crozaz et al. (1972), Bhandari et al. (1972) and Berdot
+                                                        1028), which was returned in D-ALSRC#1007 (it was     et al. (1972) reported the density of nuclear and cosmic-
+                                                        processed in N2 atmosphere). The processing of sample    ray tracks (less than for 14259).
+                                                  14163/14422 was not well documented (figure 1b). A
+                                                          portion of 14422 (285 g) was used as the “biopool
+                                                    sample” for the purpose of quarantine. Other portions
+                                                  were set aside as “organic reserves”.
+
+=== PDF PAGE 9; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-12 ---
+Table 2: Small rocks from 14422 - -      Table 4: Composition of granitic coarse-fines, 14161.
+                     wt. grams  type                                                         Jolliff 1993
+         14425   0.79       glass sphere                              ,7069    ,7373    ,7269
+         14426   1.59        breccia                     FeO    14      16       7.4        (a)
+         14427   4.47        breccia                    CaO    9        11.3      7.5        (a)
+         14428   1.47     CMB                      Na2O   1.41     0.75     0.71      (a)
+         14429   3.03     CMB                        Sc      30.2     42.2     15.6      (a)
+         14430   4.81        breccia                          Cr     361     982     680       (a)
+         14431   1.7         melt rock                          Ni      110              110       (a)
+         14432   1.81                                Rb     52      21      107       (a)
+         14433   1.23        breccia                           Sr     160     207     190       (a)
+         14434   1.68     CMB                               Zr     4240    7150    1240      (a)
+--- mineralogy block 2; lines 1-9 ---
+Table 2: Small rocks from 14422 - -      Table 4: Composition of granitic coarse-fines, 14161.
+                     wt. grams  type                                                         Jolliff 1993
+         14425   0.79       glass sphere                              ,7069    ,7373    ,7269
+         14426   1.59        breccia                     FeO    14      16       7.4        (a)
+         14427   4.47        breccia                    CaO    9        11.3      7.5        (a)
+         14428   1.47     CMB                      Na2O   1.41     0.75     0.71      (a)
+         14429   3.03     CMB                        Sc      30.2     42.2     15.6      (a)
+         14430   4.81        breccia                          Cr     361     982     680       (a)
+         14431   1.7         melt rock                          Ni      110              110       (a)
+--- material block 3; lines 1-64 ---
+Table 2: Small rocks from 14422 - -      Table 4: Composition of granitic coarse-fines, 14161.
+                     wt. grams  type                                                         Jolliff 1993
+         14425   0.79       glass sphere                              ,7069    ,7373    ,7269
+         14426   1.59        breccia                     FeO    14      16       7.4        (a)
+         14427   4.47        breccia                    CaO    9        11.3      7.5        (a)
+         14428   1.47     CMB                      Na2O   1.41     0.75     0.71      (a)
+         14429   3.03     CMB                        Sc      30.2     42.2     15.6      (a)
+         14430   4.81        breccia                          Cr     361     982     680       (a)
+         14431   1.7         melt rock                          Ni      110              110       (a)
+         14432   1.81                                Rb     52      21      107       (a)
+         14433   1.23        breccia                           Sr     160     207     190       (a)
+         14434   1.68     CMB                               Zr     4240    7150    1240      (a)
+         14435   0.92     CMB                        Cs      1.6      0.36     5          (a)
+         14436   3.76        basalt                       Ba     2050    740     2290      (a)
+         14437   2.65        breccia                        La     228     696      95.3      (a)
+         14438   2.35        breccia                  Sm    97      326      35.6      (a)
+         14439   1           breccia                      Eu      3.35     5.68     2.69      (a)
+         14440   1.5         basalt                        Tb      18.7     62.2     7.95      (a)
+         14441   1.23        breccia                      Yb      73.6    146      55.3      (a)
+         14442   3.52        breccia                        Lu      10.2     18.7     7.93      (a)
+         14443   2.54        basalt                            Hf     100     163     33         (a)
+         14444   1.56        basalt                           Ta      9.2      4.3      11         (a)
+         14445   9.22        breccia                                            Ir ppb                   6          (a)
+         14446   0.82        basalt                       Au ppb                  4          (a)
+         14447   0.91        breccia                       Th     44      37      66         (a)
+         14448   1.06        breccia                   U      12       5.4      20         (a)
+         14449   1.7         breccia                          technique: a) INAA
+         14450   1.27        breccia
+         14451   2.1         basalt
+         14452   1.77        breccia                         Selected References for 14163
+         14453   6.03        breccia
+                                                        Baedecker P.A., Chou C-L. and Wasson J.T. (1972) The
+                                                                extralunar component in lunar soils and breccias. Proc. 3rd
+      Table 3: Coarse fines.                                                       Lunar Sci. Conf. 1343-1359.
+        from Kramer and Twedell 1977
+                              number weight  split          Baur H., Frick U., Funk H., Schultz L. and Signer P. (1972)
+           Soil breccia             50     18 g    ,87
+                                                      Thermal release of helium, neon, and argon from lunar fines          Anorthosite              2       0.2 g   ,88
+          breccia, light matrix       13     2 g     ,89           and minerals. Proc. 3rd Lunar Sci. Conf. 1947-1966.
+          breccia, dark matrix       14      3.5 g   ,92
+           fine grained basalt, light   24      6.6 g   ,90           Berdot J.L., Chetrit G.C., Lorin J.C., Pellas P. and Poupeau
+           fine grained basalt, dark   37      9.7 g   ,91
+                                                              G. (1972) Track studies of Apollo 14 rocks and Apollo 14,          aphanitic basalt ?         2       1.6 g   ,93
+         impact melt             10      2.2 g   ,94           Apollo 15 and Luna 16 soils.  Proc. 3rd Lunar Sci. Conf.
+         aphanite                2       1.7 g   ,95           2867-2881.
+            total                   154    45 g
+                                                 Begemann F., Born W., Palme H., Vilcsek E. and Wanke H.
+                                                           (1972)  Cosmic-ray produced radionuclides in Apollo 12
+                                                       and Apollo 14 samples. Proc. 3rd Lunar Sci. Conf. 1693-
+                                                          1702.
+
+                                                         Bhandari N., Goswami J.N., Gupta S.K., Lal D., Tamhane
+                                                           A.S. and Venkatavaradan V.S. (1972) Collision controlled
+                                                                  radiation history of the lunar regolith. Proc. 3rd Lunar Sci.
+                                                          Conf. 2811-2829.
+
+                                                      Bogard D.D. and Nyquist L.A. (1972) Noble gas studies on
+                                                                   regolith materials from Apollo 14 and 15. Proc. 3rd Lunar
+                                                                     Sci. Conf. 1797-1819.
+
+                                                             Brunfeldt A.O., Heier K.S., Nilssen B., Sundvoll B. and
+                                                           Steinnes E. (1972)  Distribution of elements between
+                                                                      different phases of Apollo 14 rocks and soils. Proc. 3rd Lunar
+                                                                     Sci. Conf. 1133-1147.
+--- age block 4; lines 42-54 ---
+fine grained basalt, dark   37      9.7 g   ,91
+                                                              G. (1972) Track studies of Apollo 14 rocks and Apollo 14,          aphanitic basalt ?         2       1.6 g   ,93
+         impact melt             10      2.2 g   ,94           Apollo 15 and Luna 16 soils.  Proc. 3rd Lunar Sci. Conf.
+         aphanite                2       1.7 g   ,95           2867-2881.
+            total                   154    45 g
+                                                 Begemann F., Born W., Palme H., Vilcsek E. and Wanke H.
+                                                           (1972)  Cosmic-ray produced radionuclides in Apollo 12
+                                                       and Apollo 14 samples. Proc. 3rd Lunar Sci. Conf. 1693-
+                                                          1702.
+
+                                                         Bhandari N., Goswami J.N., Gupta S.K., Lal D., Tamhane
+                                                           A.S. and Venkatavaradan V.S. (1972) Collision controlled
+                                                                  radiation history of the lunar regolith. Proc. 3rd Lunar Sci.
+--- references block 5; lines 21-36 ---
+14443   2.54        basalt                            Hf     100     163     33         (a)
+         14444   1.56        basalt                           Ta      9.2      4.3      11         (a)
+         14445   9.22        breccia                                            Ir ppb                   6          (a)
+         14446   0.82        basalt                       Au ppb                  4          (a)
+         14447   0.91        breccia                       Th     44      37      66         (a)
+         14448   1.06        breccia                   U      12       5.4      20         (a)
+         14449   1.7         breccia                          technique: a) INAA
+         14450   1.27        breccia
+         14451   2.1         basalt
+         14452   1.77        breccia                         Selected References for 14163
+         14453   6.03        breccia
+                                                        Baedecker P.A., Chou C-L. and Wasson J.T. (1972) The
+                                                                extralunar component in lunar soils and breccias. Proc. 3rd
+      Table 3: Coarse fines.                                                       Lunar Sci. Conf. 1343-1359.
+        from Kramer and Twedell 1977
+                              number weight  split          Baur H., Frick U., Funk H., Schultz L. and Signer P. (1972)
+
+=== PDF PAGE 10; CATEGORIES: age,chemistry,material,treatment ===
+--- chemistry block 1; lines 21-54 ---
+Devine J.M., McKay D.S. and Papike J.J. (1982)  Lunar   Labotka T.C., Kempa M.J., White C., Papike J.J. and Laul
+     regloith: Petrology of the <10 micron fraction. Proc. 13th   J.C. (1980) The lunar regolith: Comparative petrology of
+    Lunar Planet. Sci. Conf. in J. Geophys. Res. 87, A260-A268.   the Apollo sites. Proc. 11th Lunar Planet. Sci. Conf. 1285-
+                                                          1305.
+    Finkelman R.B. (1973) Analysis of the ultrafine fraction of
+    the Apollo 14 regolith. Proc. 4th Lunar Sci. Conf. 179-189.   Laul J.C., Wakita H., Showalter D.L., Boynton W.V. and
+                                                             Schmitt R.A (1972) Bulk, rare earth, and other trace elements
+    Gibson E.K. and Moore G.W. (1972) Inorganic gas release   in Apollo 14 and 15 and Luna 16 samples. Proc. 3rd Lunar
+    and thermal analysis study of Apollo 14 and 15 soils. Proc.   Sci. Conf. 1181-1200.
+     3rd Lunar Sci. Conf. 2029-2040.
+                                                       Laul J.C. and Papike J.J. (1980)  The lunar regolith:
+    Goel P.S. and Kothari B.K. (1972) Total nitrogen contents   Comparative chemistry of the Apollo sites. Proc. 11th Lunar
+    of some Apollo 14 lunar samples by neutron activation   Planet. Sci. Conf. 1307-1340.
+     analysis. Proc. 3rd Lunar Sci. Conf. 2041-2050.
+                                                         Lindstrom M.M., Duncan A.R., Fruchter J.S., McKay S.M.,
+    Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Stoeser J.W., Goles G.G. and Lindstrom D.J. (1972)
+    Pub. 1265                                             Compositional characteristics of some Apollo 14 clastic
+                                                                   materials. Proc. 3rd Lunar Sci. Conf. 1201-1214.
+   Helmke P.A., Haskin L.A., Korotev R.L. and Ziege K.E.
+    (1972) Rare earths and other trace elements in Apollo 14  LSPET (1971) Preliminary examination of lunar samples
+    samples. Proc. 3rd Lunar Sci. Conf. 1275-1292.           from Apollo 14. Science 173, 681-693.
+
+   Heymann D., Yaniv A. and Lakatos S. (1972)  Inert gases  Lugmair G.W. and Marti K. (1972)  Exposure ages and
+    from Apollo 12, 14 and 15 fines. Proc. 3rd Lunar Sci. Conf.   neutron capture record in lunar samples from Fra Mauro.
+    1857-1863.                                                Proc. 3rd Lunar Sci. Conf. 1891-1897.
+
+    Hubbard N.J., Gast P.W., Meyer C., Nyquist L.E. and Shih  Masuda A., Nakamura N., Kurasawa H. and Tanaka T. (1972)
+    C.-Y. (1971b) Chemical composition of lunar anorthosites   Precise determination of rare-earth elements in the Apollo
+    and their parent liquids. Earth Planet. Sci. Lett. 13, 71-75.  14 and 15 samples. Proc. 3rd Lunar Sci. Conf. 1307-1313.
+
+   Hubbard N.J., Gast P.W., Rhodes J.M., Bansal B.M.,  McKay D.S., Heiken G.H., Taylor R.M., Clanton U.S.,
+   Wiesmann H. and Church S.E. (1972) Nonmare basalts:   Morrison D.A. and Ladle G.H. (1972) Apollo 14 soils: Size
+    Part II. Proc. 3rd Lunar Sci. Conf. 1161-1179.                distribution and particle types. Proc. 3rd Lunar Sci. Conf.
+                                                           983-995.
+--- material block 2; lines 1-10 ---
+Jolliff B.L. (1991) Fragments of quartz-monzodiorite and
+    Cadenhead D.A., Wagner N.J., Jones B.R. and Stetter J.R.   felsite in Apollo 14 soil particles. Proc. 21st Lunar Planet.
+    (1972) Some surface characteristics and gas interactions of   Sci. Conf. 101-118. Lunar Planetary Institute, Houston
+    Apollo 14 fines and rock fragments. Proc. 3rd Lunar Sci.
+    Conf. 2243-2257.                                        Keith J.E., Clark R.S. and Richardson K.A. (1972) Gamma-
+                                                              ray measurements of Apollo 12, 14 and 15 lunar samples.
+    Cadogen P.H., Eglington G., Firth J.N.M., Maxwell J.R., May   Proc. 3rd Lunar Sci. Conf. 1671-1680.
+     B.J. and Pillinger C.T. (1972)  Survey of lunar carbon
+    compounds: II. The carbon chemistry of Apollo 11, 12, 14  King E.A., Butler J.C. and Carman M.F. (1972) Chondrules
+    and 15 samples. Proc. 3rd Lunar Sci. Conf. 2069-2091.      in Apollo 14 samples and size analyses of Apollo 14 and 15
+--- material block 3; lines 16-42 ---
+Crozaz G., Drozd R., Hohenberg C.M., Hoyt H.P., Rajan
+    D., Walker R.M. and Yuhas D. (1972b)  Solar flare and  Kramer F.E. and Twedell D.B. (1977) Apoloo 14 coarse
+     galactic cosmic ray studies of Apollo,14 and 15 samples.   fines (4-10 mm) sample location and clasification. JSC
+    Proc. 3rd Lunar Sci. Conf. 2917-2931.                  12922
+
+    Devine J.M., McKay D.S. and Papike J.J. (1982)  Lunar   Labotka T.C., Kempa M.J., White C., Papike J.J. and Laul
+     regloith: Petrology of the <10 micron fraction. Proc. 13th   J.C. (1980) The lunar regolith: Comparative petrology of
+    Lunar Planet. Sci. Conf. in J. Geophys. Res. 87, A260-A268.   the Apollo sites. Proc. 11th Lunar Planet. Sci. Conf. 1285-
+                                                          1305.
+    Finkelman R.B. (1973) Analysis of the ultrafine fraction of
+    the Apollo 14 regolith. Proc. 4th Lunar Sci. Conf. 179-189.   Laul J.C., Wakita H., Showalter D.L., Boynton W.V. and
+                                                             Schmitt R.A (1972) Bulk, rare earth, and other trace elements
+    Gibson E.K. and Moore G.W. (1972) Inorganic gas release   in Apollo 14 and 15 and Luna 16 samples. Proc. 3rd Lunar
+    and thermal analysis study of Apollo 14 and 15 soils. Proc.   Sci. Conf. 1181-1200.
+     3rd Lunar Sci. Conf. 2029-2040.
+                                                       Laul J.C. and Papike J.J. (1980)  The lunar regolith:
+    Goel P.S. and Kothari B.K. (1972) Total nitrogen contents   Comparative chemistry of the Apollo sites. Proc. 11th Lunar
+    of some Apollo 14 lunar samples by neutron activation   Planet. Sci. Conf. 1307-1340.
+     analysis. Proc. 3rd Lunar Sci. Conf. 2041-2050.
+                                                         Lindstrom M.M., Duncan A.R., Fruchter J.S., McKay S.M.,
+    Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Stoeser J.W., Goles G.G. and Lindstrom D.J. (1972)
+    Pub. 1265                                             Compositional characteristics of some Apollo 14 clastic
+                                                                   materials. Proc. 3rd Lunar Sci. Conf. 1201-1214.
+   Helmke P.A., Haskin L.A., Korotev R.L. and Ziege K.E.
+    (1972) Rare earths and other trace elements in Apollo 14  LSPET (1971) Preliminary examination of lunar samples
+    samples. Proc. 3rd Lunar Sci. Conf. 1275-1292.           from Apollo 14. Science 173, 681-693.
+--- age block 4; lines 12-24 ---
+Carr M.H. and Meyer C.E. (1972)  Chemical and
+    petrographic characterization of Fra Mauro soils. Proc. 3rd   Kirsten T., Deubner J., Horn P., Kaneoka I., Kiko J., Schaeffer
+    Lunar Sci. Conf. 1015-1027.                           O.A. and Thio S.K. (1972) The rare gas record of Apollo
+                                                     14 and 15 samples. Proc. 3rd Lunar Sci. Conf. 1865-1889.
+    Crozaz G., Drozd R., Hohenberg C.M., Hoyt H.P., Rajan
+    D., Walker R.M. and Yuhas D. (1972b)  Solar flare and  Kramer F.E. and Twedell D.B. (1977) Apoloo 14 coarse
+     galactic cosmic ray studies of Apollo,14 and 15 samples.   fines (4-10 mm) sample location and clasification. JSC
+    Proc. 3rd Lunar Sci. Conf. 2917-2931.                  12922
+
+    Devine J.M., McKay D.S. and Papike J.J. (1982)  Lunar   Labotka T.C., Kempa M.J., White C., Papike J.J. and Laul
+     regloith: Petrology of the <10 micron fraction. Proc. 13th   J.C. (1980) The lunar regolith: Comparative petrology of
+    Lunar Planet. Sci. Conf. in J. Geophys. Res. 87, A260-A268.   the Apollo sites. Proc. 11th Lunar Planet. Sci. Conf. 1285-
+                                                          1305.
+--- treatment block 5; lines 16-31 ---
+Crozaz G., Drozd R., Hohenberg C.M., Hoyt H.P., Rajan
+    D., Walker R.M. and Yuhas D. (1972b)  Solar flare and  Kramer F.E. and Twedell D.B. (1977) Apoloo 14 coarse
+     galactic cosmic ray studies of Apollo,14 and 15 samples.   fines (4-10 mm) sample location and clasification. JSC
+    Proc. 3rd Lunar Sci. Conf. 2917-2931.                  12922
+
+    Devine J.M., McKay D.S. and Papike J.J. (1982)  Lunar   Labotka T.C., Kempa M.J., White C., Papike J.J. and Laul
+     regloith: Petrology of the <10 micron fraction. Proc. 13th   J.C. (1980) The lunar regolith: Comparative petrology of
+    Lunar Planet. Sci. Conf. in J. Geophys. Res. 87, A260-A268.   the Apollo sites. Proc. 11th Lunar Planet. Sci. Conf. 1285-
+                                                          1305.
+    Finkelman R.B. (1973) Analysis of the ultrafine fraction of
+    the Apollo 14 regolith. Proc. 4th Lunar Sci. Conf. 179-189.   Laul J.C., Wakita H., Showalter D.L., Boynton W.V. and
+                                                             Schmitt R.A (1972) Bulk, rare earth, and other trace elements
+    Gibson E.K. and Moore G.W. (1972) Inorganic gas release   in Apollo 14 and 15 and Luna 16 samples. Proc. 3rd Lunar
+    and thermal analysis study of Apollo 14 and 15 soils. Proc.   Sci. Conf. 1181-1200.
+     3rd Lunar Sci. Conf. 2029-2040.
+                                                       Laul J.C. and Papike J.J. (1980)  The lunar regolith:
+
+=== PDF PAGE 11; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 5-47 ---
+and Gibson E.K. (1972) Total carbon, nitrogen and sulfur  Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+    in Apollo 14 lunar samples. Proc. 3rd Lunar Sci. Conf. 2051-   M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+   2058.                                                    Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+                                                     Geology of the Apollo 14 landing site in the Fra Mauro
+   Morgan J.W., Laul J.C., Krahenbuhl U., Ganapathy R. and   highlands. U.S. Geological Survey Professional Paper 880
+   Anders E. (1972b)  Major impacts on the moon:
+    Characterization from trace elements in Apollo 12 and 14  Tatsumoto M., Hedge C.E., Doe B.R. and Unruh D.M.
+    samples. Proc. 3rd  Lunar Sci. Conf. 1377-1395.            (1972a) U-Th-Pb and Rb-Sr measurements on some Apollo
+                                                     14 lunar samples. Proc. 3rd Lunar Sci. Conf. 1531-1555.
+   Morris R.V. (1976) Surface exposure indicies of lunar soils:
+  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-   Taylor G.J., Marvin U.B., Ried J.B. and Wood J.A. (1972)
+    335.                                                          Noritic fragments in the Apollo 14 and 12 soils and the origin
+                                                               of Oceanus Procellarum. Proc. 3rd Lunar Sci. Conf. 995-
+   Morris R.V. (1978) The surface exposure (maturity) of lunar   1014.
+    soils: Some concepts and Is/FeO compilation.  Proc. 9th
+   Lunar Sci. Conf. 2287-2297.                              Taylor S.R., Kaye M., Muir P., Nance W., Rudowski R. and
+                                                    Ware N. (1972) Composition of the lunar uplands: Chemistry
+    Philpotts J.A., Schnetzler C.C ., Nava D.F., Bottino M.L.,   of Apollo 14 samples from Fra Mauro. Proc. 3rd Lunar Sci.
+    Fullagar P.D., Thomas H.H., Schumann S. and Kouns C.W.   Conf. 1231-1249.
+    (1972) Apollo 14: Some geochemical aspects.  Proc. 3rd
+   Lunar Sci. Conf. 1293-1305.                            Walker R.J. and Papike J.J. (1981a) The relationship of the
+                                                                lunar regolith < 10 micron fraction and agglutinates. Part II:
+   Powell B.N. and Weiblen P.W. (1972) Petrology and origin  Chemical composition of agglutinate glass as a test of the
+    of lithic fragments in the Apollo 14 regolith. Proc. 3rd Lunar  F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+    Sci. Conf. 837-852.
+                                              Wänke H., Baddenhausen H., Balacescu A., Teschke F.,
+   Quaide W. and Wrigley R. (1972) Mineralogy and origin of   Spettel B., Dreibus G., Palme H., Quijano-Rico M., Kruse
+    Fra Mauro fines and breccias. Proc. 3rd Lunar Sci. Conf.   H., Wlotzka F. and Begemann F. (1972)  Multielement
+   771-784.                                                   analysis of lunar samples and some implications of the
+                                                                         results. Proc. 3rd Lunar Sci. Conf. 1251-1268.
+   Rose H.J., Cuttitta F., Annell C.S., Carron M.K., Christian
+    R.P., Dwornik E.J., Greenland L.P. and Ligon D.T. (1972)  Wasson J.T., Chou C-L., Bild R.W. and Baedecker P.A.
+   Compositional data for twenty-one Fra Mauro lunar   (1973)  Extralunar materials in Cone-crater soil 14141.
+    materials. Proc. 3rd Lunar Sci. Conf. 1215-1229.           Geochim. Cosmochim Acta 37, 2349-2353.
+
+   Stasheim A., Jackson P.F.S., Coetzee J.H.J., Strelow F.W.E.,   Willis J.P., Erlank A.J., Gurney J.J., Theil R.H. and Ahrens
+   Wybenga F.T., Gricius A.J., Kokot M.L. and Scott R.H.   L.H. (1972) Major, minor, and trace element data for some
+    (1972a) Analysis of lunar samples 14163, 14259 and 14321   Apollo 11, 12, 14 and 15 samples.  Proc. 3rd  Lunar Sci.
+    with isotopic data for 7Li/6Li. Proc. 3rd Lunar Sci. Conf.   Conf. 1269-1273.
+   1337-1342.
+
+    Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of
+    the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+--- mineralogy block 2; lines 21-37 ---
+Ware N. (1972) Composition of the lunar uplands: Chemistry
+    Philpotts J.A., Schnetzler C.C ., Nava D.F., Bottino M.L.,   of Apollo 14 samples from Fra Mauro. Proc. 3rd Lunar Sci.
+    Fullagar P.D., Thomas H.H., Schumann S. and Kouns C.W.   Conf. 1231-1249.
+    (1972) Apollo 14: Some geochemical aspects.  Proc. 3rd
+   Lunar Sci. Conf. 1293-1305.                            Walker R.J. and Papike J.J. (1981a) The relationship of the
+                                                                lunar regolith < 10 micron fraction and agglutinates. Part II:
+   Powell B.N. and Weiblen P.W. (1972) Petrology and origin  Chemical composition of agglutinate glass as a test of the
+    of lithic fragments in the Apollo 14 regolith. Proc. 3rd Lunar  F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+    Sci. Conf. 837-852.
+                                              Wänke H., Baddenhausen H., Balacescu A., Teschke F.,
+   Quaide W. and Wrigley R. (1972) Mineralogy and origin of   Spettel B., Dreibus G., Palme H., Quijano-Rico M., Kruse
+    Fra Mauro fines and breccias. Proc. 3rd Lunar Sci. Conf.   H., Wlotzka F. and Begemann F. (1972)  Multielement
+   771-784.                                                   analysis of lunar samples and some implications of the
+                                                                         results. Proc. 3rd Lunar Sci. Conf. 1251-1268.
+   Rose H.J., Cuttitta F., Annell C.S., Carron M.K., Christian
+    R.P., Dwornik E.J., Greenland L.P. and Ligon D.T. (1972)  Wasson J.T., Chou C-L., Bild R.W. and Baedecker P.A.
+   Compositional data for twenty-one Fra Mauro lunar   (1973)  Extralunar materials in Cone-crater soil 14141.
+--- material block 3; lines 20-57 ---
+Lunar Sci. Conf. 2287-2297.                              Taylor S.R., Kaye M., Muir P., Nance W., Rudowski R. and
+                                                    Ware N. (1972) Composition of the lunar uplands: Chemistry
+    Philpotts J.A., Schnetzler C.C ., Nava D.F., Bottino M.L.,   of Apollo 14 samples from Fra Mauro. Proc. 3rd Lunar Sci.
+    Fullagar P.D., Thomas H.H., Schumann S. and Kouns C.W.   Conf. 1231-1249.
+    (1972) Apollo 14: Some geochemical aspects.  Proc. 3rd
+   Lunar Sci. Conf. 1293-1305.                            Walker R.J. and Papike J.J. (1981a) The relationship of the
+                                                                lunar regolith < 10 micron fraction and agglutinates. Part II:
+   Powell B.N. and Weiblen P.W. (1972) Petrology and origin  Chemical composition of agglutinate glass as a test of the
+    of lithic fragments in the Apollo 14 regolith. Proc. 3rd Lunar  F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+    Sci. Conf. 837-852.
+                                              Wänke H., Baddenhausen H., Balacescu A., Teschke F.,
+   Quaide W. and Wrigley R. (1972) Mineralogy and origin of   Spettel B., Dreibus G., Palme H., Quijano-Rico M., Kruse
+    Fra Mauro fines and breccias. Proc. 3rd Lunar Sci. Conf.   H., Wlotzka F. and Begemann F. (1972)  Multielement
+   771-784.                                                   analysis of lunar samples and some implications of the
+                                                                         results. Proc. 3rd Lunar Sci. Conf. 1251-1268.
+   Rose H.J., Cuttitta F., Annell C.S., Carron M.K., Christian
+    R.P., Dwornik E.J., Greenland L.P. and Ligon D.T. (1972)  Wasson J.T., Chou C-L., Bild R.W. and Baedecker P.A.
+   Compositional data for twenty-one Fra Mauro lunar   (1973)  Extralunar materials in Cone-crater soil 14141.
+    materials. Proc. 3rd Lunar Sci. Conf. 1215-1229.           Geochim. Cosmochim Acta 37, 2349-2353.
+
+   Stasheim A., Jackson P.F.S., Coetzee J.H.J., Strelow F.W.E.,   Willis J.P., Erlank A.J., Gurney J.J., Theil R.H. and Ahrens
+   Wybenga F.T., Gricius A.J., Kokot M.L. and Scott R.H.   L.H. (1972) Major, minor, and trace element data for some
+    (1972a) Analysis of lunar samples 14163, 14259 and 14321   Apollo 11, 12, 14 and 15 samples.  Proc. 3rd  Lunar Sci.
+    with isotopic data for 7Li/6Li. Proc. 3rd Lunar Sci. Conf.   Conf. 1269-1273.
+   1337-1342.
+
+    Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of
+    the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+    38.
+
+   Simon S.B., Papike J.J. and Laul J.C. (1981) The lunar
+    regolith: Comparative studies of the Apollo and Luna sites.
+    Proc. 12th Lunar Planet. Sci. Conf. 371-388.
+
+   Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+   M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,
+   Schaber G.G., Schafer J.P., Shepard A.B., Sutton R.L., Trask
+    N.J., Ulrich G.E., Wilshire H.G. and Wolf E.W.  (1971)
+--- treatment block 4; lines 12-32 ---
+samples. Proc. 3rd  Lunar Sci. Conf. 1377-1395.            (1972a) U-Th-Pb and Rb-Sr measurements on some Apollo
+                                                     14 lunar samples. Proc. 3rd Lunar Sci. Conf. 1531-1555.
+   Morris R.V. (1976) Surface exposure indicies of lunar soils:
+  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-   Taylor G.J., Marvin U.B., Ried J.B. and Wood J.A. (1972)
+    335.                                                          Noritic fragments in the Apollo 14 and 12 soils and the origin
+                                                               of Oceanus Procellarum. Proc. 3rd Lunar Sci. Conf. 995-
+   Morris R.V. (1978) The surface exposure (maturity) of lunar   1014.
+    soils: Some concepts and Is/FeO compilation.  Proc. 9th
+   Lunar Sci. Conf. 2287-2297.                              Taylor S.R., Kaye M., Muir P., Nance W., Rudowski R. and
+                                                    Ware N. (1972) Composition of the lunar uplands: Chemistry
+    Philpotts J.A., Schnetzler C.C ., Nava D.F., Bottino M.L.,   of Apollo 14 samples from Fra Mauro. Proc. 3rd Lunar Sci.
+    Fullagar P.D., Thomas H.H., Schumann S. and Kouns C.W.   Conf. 1231-1249.
+    (1972) Apollo 14: Some geochemical aspects.  Proc. 3rd
+   Lunar Sci. Conf. 1293-1305.                            Walker R.J. and Papike J.J. (1981a) The relationship of the
+                                                                lunar regolith < 10 micron fraction and agglutinates. Part II:
+   Powell B.N. and Weiblen P.W. (1972) Petrology and origin  Chemical composition of agglutinate glass as a test of the
+    of lithic fragments in the Apollo 14 regolith. Proc. 3rd Lunar  F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+    Sci. Conf. 837-852.
+                                              Wänke H., Baddenhausen H., Balacescu A., Teschke F.,
+   Quaide W. and Wrigley R. (1972) Mineralogy and origin of   Spettel B., Dreibus G., Palme H., Quijano-Rico M., Kruse
+    Fra Mauro fines and breccias. Proc. 3rd Lunar Sci. Conf.   H., Wlotzka F. and Begemann F. (1972)  Multielement

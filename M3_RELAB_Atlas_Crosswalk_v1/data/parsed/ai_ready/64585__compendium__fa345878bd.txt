@@ -1,0 +1,147 @@
+DOCUMENT_ID: 64585__compendium__fa345878bd
+ATLAS_SAMPLE_IDS: 64585
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64585.pdf
+SOURCE_PDF_SHA256: 768fe6b55996d4cd3d08441f0bc1b67900ae7b45f8e01756b155913900fd6e5b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+64585
+                                   Vitric Impact Melt Breccia
+                                               4.7 grams
+
+=== PDF PAGE 3; CATEGORIES: age,material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 7-24 ---
+Mountain – see section on 64501.  It is an old impact
+   melt with unique texture.                       LSPET (1972c) Preliminary examination of lunar samples.
+                                                               In Apollo 16 Preliminary Science Report. NASA SP-315,
+                                                     7-1—7-58.
+   Petrography
+   64585 has a brownish color (figure 1) and a devitrified                                                 Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+    glass matrix (figure 2). Plagioclase laths and xeocrysts   impact events within the lunar cataclysm from 40Ar-39Ar ages
+    are trapped in a devitrified matrix. Warner et al. (1973)  and compositions of Apollo 16 impact melt rocks. Geochim.
+   give an analysis of the “mesostasis”.                 Cosmochim. Acta 70, 6032-6049.
+
+   Chemistry                                            Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+                                                               of Apollo 16 samples and implications for their mode of   none reported – but Korotev says it is “2DB”.
+                                                               formation. J. Geophys. Res. 79, 2953-2959.
+
+   Radiogenic age dating                                                         Phinney W. and Lofgren G. (1973) Description, classification
+   Norman et al. (2006) determined an age of 3.962 ±  and inventory of Apollo 16 rake samples from stations 1, 4
+   0.015 for 64585 by the Ar/Ar plateau technique (figure  and 13. Curators Office.
+    4).
+--- material block 2; lines 1-49 ---
+Figure 4: The low temperature release of Ar gives an age older than most Apollo impact melts
+          (Norman et al. 2006).
+
+
+   Introduction                               LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   64585 was collected as a rake sample from Stone  and chemical description. Science 179, 23-34.
+   Mountain – see section on 64501.  It is an old impact
+   melt with unique texture.                       LSPET (1972c) Preliminary examination of lunar samples.
+                                                               In Apollo 16 Preliminary Science Report. NASA SP-315,
+                                                     7-1—7-58.
+   Petrography
+   64585 has a brownish color (figure 1) and a devitrified                                                 Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+    glass matrix (figure 2). Plagioclase laths and xeocrysts   impact events within the lunar cataclysm from 40Ar-39Ar ages
+    are trapped in a devitrified matrix. Warner et al. (1973)  and compositions of Apollo 16 impact melt rocks. Geochim.
+   give an analysis of the “mesostasis”.                 Cosmochim. Acta 70, 6032-6049.
+
+   Chemistry                                            Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+                                                               of Apollo 16 samples and implications for their mode of   none reported – but Korotev says it is “2DB”.
+                                                               formation. J. Geophys. Res. 79, 2953-2959.
+
+   Radiogenic age dating                                                         Phinney W. and Lofgren G. (1973) Description, classification
+   Norman et al. (2006) determined an age of 3.962 ±  and inventory of Apollo 16 rake samples from stations 1, 4
+   0.015 for 64585 by the Ar/Ar plateau technique (figure  and 13. Curators Office.
+    4).
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   References for 64585
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                                                               In Geology of the Apollo 16 area, central lunar highlands.
+    Catalog. pp. 370.                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+   Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization
+                                                     Warner J.L., Simonds C.H. and Phinney W.C. (1973b)    history of metal particles in Apollo 16 rake samples. Proc.
+                                                        Apollo 16 rocks: Classification and petrogenetic model.     4th Lunar Sci. Conf. 799-810.
+                                                             Proc. 4th Lunar Sci. Conf. 481-504.
+
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite                                                        64585
+    in Apollo 16 highland rocks: Manifestations of volatile-                                                                    4.7 grams   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    259.
+
+                                                                                ,0      ,1    ,6      ,7
+   Korotev R.L. (1994) Compositional variation in Apollo 16                                                                      3.6 g  PB   0.4 g   0.3 g
+   impact melt breccias and inferences for the geology and
+   bombardment history of the central highlands of the Moon.
+   Geochim. Cosmochim. Acta 58, 3931-3969.                                            ,3                                                                                                     ,4
+                                                                   TS
+
+Lunar Sample Compendium
+C Meyer 2012
+--- age block 3; lines 1-7 ---
+Figure 4: The low temperature release of Ar gives an age older than most Apollo impact melts
+          (Norman et al. 2006).
+
+
+   Introduction                               LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   64585 was collected as a rake sample from Stone  and chemical description. Science 179, 23-34.
+   Mountain – see section on 64501.  It is an old impact
+--- age block 4; lines 15-38 ---
+give an analysis of the “mesostasis”.                 Cosmochim. Acta 70, 6032-6049.
+
+   Chemistry                                            Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+                                                               of Apollo 16 samples and implications for their mode of   none reported – but Korotev says it is “2DB”.
+                                                               formation. J. Geophys. Res. 79, 2953-2959.
+
+   Radiogenic age dating                                                         Phinney W. and Lofgren G. (1973) Description, classification
+   Norman et al. (2006) determined an age of 3.962 ±  and inventory of Apollo 16 rake samples from stations 1, 4
+   0.015 for 64585 by the Ar/Ar plateau technique (figure  and 13. Curators Office.
+    4).
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   References for 64585
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                                                               In Geology of the Apollo 16 area, central lunar highlands.
+    Catalog. pp. 370.                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+   Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization
+                                                     Warner J.L., Simonds C.H. and Phinney W.C. (1973b)    history of metal particles in Apollo 16 rake samples. Proc.
+                                                        Apollo 16 rocks: Classification and petrogenetic model.     4th Lunar Sci. Conf. 799-810.
+                                                             Proc. 4th Lunar Sci. Conf. 481-504.
+
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite                                                        64585
+    in Apollo 16 highland rocks: Manifestations of volatile-                                                                    4.7 grams   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+--- treatment block 5; lines 11-23 ---
+Petrography
+   64585 has a brownish color (figure 1) and a devitrified                                                 Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+    glass matrix (figure 2). Plagioclase laths and xeocrysts   impact events within the lunar cataclysm from 40Ar-39Ar ages
+    are trapped in a devitrified matrix. Warner et al. (1973)  and compositions of Apollo 16 impact melt rocks. Geochim.
+   give an analysis of the “mesostasis”.                 Cosmochim. Acta 70, 6032-6049.
+
+   Chemistry                                            Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+                                                               of Apollo 16 samples and implications for their mode of   none reported – but Korotev says it is “2DB”.
+                                                               formation. J. Geophys. Res. 79, 2953-2959.
+
+   Radiogenic age dating                                                         Phinney W. and Lofgren G. (1973) Description, classification
+   Norman et al. (2006) determined an age of 3.962 ±  and inventory of Apollo 16 rake samples from stations 1, 4
+   0.015 for 64585 by the Ar/Ar plateau technique (figure  and 13. Curators Office.
+--- references block 6; lines 17-33 ---
+Chemistry                                            Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+                                                               of Apollo 16 samples and implications for their mode of   none reported – but Korotev says it is “2DB”.
+                                                               formation. J. Geophys. Res. 79, 2953-2959.
+
+   Radiogenic age dating                                                         Phinney W. and Lofgren G. (1973) Description, classification
+   Norman et al. (2006) determined an age of 3.962 ±  and inventory of Apollo 16 rake samples from stations 1, 4
+   0.015 for 64585 by the Ar/Ar plateau technique (figure  and 13. Curators Office.
+    4).
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   References for 64585
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                                                               In Geology of the Apollo 16 area, central lunar highlands.
+    Catalog. pp. 370.                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+   Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization
+                                                     Warner J.L., Simonds C.H. and Phinney W.C. (1973b)    history of metal particles in Apollo 16 rake samples. Proc.

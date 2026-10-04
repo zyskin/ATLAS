@@ -1,0 +1,167 @@
+DOCUMENT_ID: 10009__compendium__bb7dcae745
+ATLAS_SAMPLE_IDS: 10009
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10009.pdf
+SOURCE_PDF_SHA256: 6fd3620dd03565b31408fa98f0b58a35dcb47597e2d454b77eae755c8817d5cf
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 8-30 ---
+Figure 1: Photograph of 10009. Sample is 6 cm long. This is the south face. NASA S75-31108.
+
+
+   Introduction
+   10009 is a tough regolith breccia that breaks creating
+                                                        Simon’s Mode for 10009
+   hackly surfaces (figure 1). Fruland (1983) grouped it
+                                                                   S    L
+   with regolith breccias.                                                              Mare Basalt                 5.1      10.3
+                                                                      Highland Component      0        1.6
+   Petrography                                                        Regolith breccia            0.6      0.8
+   Fruland (1985) and Simon et al. (1984) included breccia            Agglutinate                 2.2      3.3
+                                                                     Pyroxene                6        0.3   10009 in their comprehensive study of Apollo 11                                                                             Olivine                     0.1
+    regolith breccias – their mode is given in the table.            Plagioclase                 1.8
+   They calculated that  it had about 22% highland            Ilmenite                    2.9
+   component, but couldn’t directly identify that many          Orange glass                2.9      1.4
+    clasts of highland rock.                                           Other glass                 1.7      1.1
+                                                                        Matrix                     57.9 %
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-30 ---
+10009
+                                   Regolith Breccia
+                                        112 grams
+
+
+
+
+
+          Figure 1: Photograph of 10009. Sample is 6 cm long. This is the south face. NASA S75-31108.
+
+
+   Introduction
+   10009 is a tough regolith breccia that breaks creating
+                                                        Simon’s Mode for 10009
+   hackly surfaces (figure 1). Fruland (1983) grouped it
+                                                                   S    L
+   with regolith breccias.                                                              Mare Basalt                 5.1      10.3
+                                                                      Highland Component      0        1.6
+   Petrography                                                        Regolith breccia            0.6      0.8
+   Fruland (1985) and Simon et al. (1984) included breccia            Agglutinate                 2.2      3.3
+                                                                     Pyroxene                6        0.3   10009 in their comprehensive study of Apollo 11                                                                             Olivine                     0.1
+    regolith breccias – their mode is given in the table.            Plagioclase                 1.8
+   They calculated that  it had about 22% highland            Ilmenite                    2.9
+   component, but couldn’t directly identify that many          Orange glass                2.9      1.4
+    clasts of highland rock.                                           Other glass                 1.7      1.1
+                                                                        Matrix                     57.9 %
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-22 ---
+25
+   Table 1. Chemical composition of 10009.
+              Rhodes81                                                    20                      Apollo soils
+     reference                                                                               10009              breccia
+     weight
+    SiO2 %     42         (a)                                                 15
+    TiO2        7.89      (a)                   FeO          10084
+    Al2O3      12.21     (a)                                                 10
+   FeO        16.43     (a)
+   MnO        0.24      (a)
+                                                                                    5
+   MgO        8.08      (a)
+   CaO        11.55     (a)
+   Na2O       0.48      (a)                                                    0
+   K2O        0.18      (a)                                                      0       5       10      15      20      25      30      35
+   P2O5       0.13      (a)                                           Al2O3
+   S %
+    sum                                                           Figure 2: Composition of 10009 compared with
+                                                                     lunar soils.    Sc ppm    64         (b)
+   V          41         (b)                                                           1000
+    Cr         2120      (b)
+   Co        33         (b)                                                              10009
+--- material block 2; lines 1-10 ---
+25
+   Table 1. Chemical composition of 10009.
+              Rhodes81                                                    20                      Apollo soils
+     reference                                                                               10009              breccia
+     weight
+    SiO2 %     42         (a)                                                 15
+    TiO2        7.89      (a)                   FeO          10084
+    Al2O3      12.21     (a)                                                 10
+   FeO        16.43     (a)
+   MnO        0.24      (a)
+--- material block 3; lines 33-45 ---
+Y          110       (a)
+     Zr         333       (b)
+   Nb        20         (b)                                                                          0.1    La      Pr    Sm    Gd     Dy      Er     Yb                                                                             Ce    Nd     Eu     Tb    Ho    Tm     Lu
+   Mo
+   Ru
+                                                                   Figure 3: Normalized rare earth element diagram   Rh
+    Pd ppb                                                                  for breccia 10009 compared with soil 10084 (data
+    Ag ppb                                                        from Rhodes et al. 1981).
+   Cd ppb
+     In ppb
+    Sn ppb
+    Sb ppb
+    Te ppb
+--- references block 4; lines 1-10 ---
+25
+   Table 1. Chemical composition of 10009.
+              Rhodes81                                                    20                      Apollo soils
+     reference                                                                               10009              breccia
+     weight
+    SiO2 %     42         (a)                                                 15
+    TiO2        7.89      (a)                   FeO          10084
+    Al2O3      12.21     (a)                                                 10
+   FeO        16.43     (a)
+   MnO        0.24      (a)
+--- references block 5; lines 66-75 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm     2.6        (b)
+   U ppm                                                      Figure 4:  Nitrogen isotopes as function of thermal
+     technique: (a) XRF, (b) INAA                                        release temperature (Thiemens and Clayton 1980).
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: material,references ===
+--- material block 1; lines 1-11 ---
+References for 10009
+   Chemistry                                          Fruland Ruth M. (1983)  Regolith Breccia Workbook.
+   Rhodes and Blanchard (1981) found that the   Curatorial Branch Publication # 66. JSC 19045.
+   composition of 10009 was similar to that of other
+   regolith breccias and 10084 (figures 2 and 3).  King E.A. and a cast of thousands (1969) Lunar Sample
+   Thiemens and Clayton (1980) determined 96 ppm  Information Catalog, Apollo 11.  Lunar Receiving
+   nitrogen (with a very negative delta 15N( figure 4).                                                              Laboratory, MSC 412 pp
+
+   Processing                                                    Rhodes J.M. and Blanchard D.P. (1981) Apollo 11 breccias
+   Apollo 11 samples were originally described and                                                     and soils: Aluminous mare basalts or multi-component
+   cataloged in 1969 and “re-cataloged” by Kramer et al.                                                            mixtures? Proc. 12th Lunar Planet. Sci. Conf. 607-620.
+--- material block 2; lines 14-26 ---
+Schmitt H.H., Lofgren G., Swann G.A. and Simmons G.
+   List of Photo #s for 10009
+                                                           (1970) The Apollo 11 samples: Introduction. Proc. Apollo    S75-31104 – 31109
+   S75-31361                                             11 Lunar Science Conf. 1-54.
+   S76-25830      TS
+   S76-26296      TS                                Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+                                                               of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+                                                            Conf. in J. Geophys. Res. 89, C109-132.
+
+                                                      Thiemens M.H. and Clayton R.N. (1980) Ancient solar wind
+                                                                    in lunar microbreccias. Earth Planet. Sci. Lett. 47, 34-42.
+--- references block 3; lines 1-7 ---
+References for 10009
+   Chemistry                                          Fruland Ruth M. (1983)  Regolith Breccia Workbook.
+   Rhodes and Blanchard (1981) found that the   Curatorial Branch Publication # 66. JSC 19045.
+   composition of 10009 was similar to that of other
+   regolith breccias and 10084 (figures 2 and 3).  King E.A. and a cast of thousands (1969) Lunar Sample
+   Thiemens and Clayton (1980) determined 96 ppm  Information Catalog, Apollo 11.  Lunar Receiving
+   nitrogen (with a very negative delta 15N( figure 4).                                                              Laboratory, MSC 412 pp

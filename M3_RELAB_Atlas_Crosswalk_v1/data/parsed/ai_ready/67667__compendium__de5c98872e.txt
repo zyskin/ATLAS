@@ -1,0 +1,331 @@
+DOCUMENT_ID: 67667__compendium__de5c98872e
+ATLAS_SAMPLE_IDS: 67667
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67667.pdf
+SOURCE_PDF_SHA256: b2de2fbcf3b6b74030e961793b45ffbd640373ceb362f45d09ca6491f92c0e93
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material ===
+--- chemistry block 1; lines 12-29 ---
+Introduction
+   67667 was collected as a rake sample from the rim of
+   North Ray Crater (see section on 67601). It is coherent
+   and has a few micrometeorite craters on the surface
+    (figure 1). It has been found to be chemically “pristine”
+   and to have an old age (4.2 b.y.).  In mineral and
+   chemical composition, it appears unlike other lunar
+   samples.
+
+   Petrography
+  LSPET (1973) and Steele and Smith (1973) noted that
+   67667 was “ultramafic”. Warren and Wasson (1979)
+   termed 67667 a feldspathic lherzolite and determined
+   the chemical composition. Hansen et al. (1980) also
+   termed it a feldspathic lherzolite and provided a full
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 2; lines 7-19 ---
+Figure 1: Photo of 67667.  Scale is in mm. NASA S72-49555.
+
+
+   Introduction
+   67667 was collected as a rake sample from the rim of
+   North Ray Crater (see section on 67601). It is coherent
+   and has a few micrometeorite craters on the surface
+    (figure 1). It has been found to be chemically “pristine”
+   and to have an old age (4.2 b.y.).  In mineral and
+   chemical composition, it appears unlike other lunar
+   samples.
+--- age block 3; lines 11-23 ---
+Introduction
+   67667 was collected as a rake sample from the rim of
+   North Ray Crater (see section on 67601). It is coherent
+   and has a few micrometeorite craters on the surface
+    (figure 1). It has been found to be chemically “pristine”
+   and to have an old age (4.2 b.y.).  In mineral and
+   chemical composition, it appears unlike other lunar
+   samples.
+
+   Petrography
+  LSPET (1973) and Steele and Smith (1973) noted that
+   67667 was “ultramafic”. Warren and Wasson (1979)
+
+=== PDF PAGE 2; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 15-46 ---
+En                                          Fs
+
+                                                   Fo                                        Fa
+
+                                                                                                       compiled by C Meyer
+
+                                                                Figure 3: Pyroxene and olivine composition of 67667
+                                                                 (from Warren and Wasson 1979, Hansen et al. 1980).
+
+
+
+
+
+         Figure 2: Thin section photomicrographs of 67667,1
+         (from Ryder and Norman 1980). Field of view is 2
+       mm. Top is with crossed polarized light, bottom is
+         plane polarized.
+                                                                Figure 4: Composition of plagioclase in 67667
+    petrographic description. James and Flohr (1983) also       compared with other samples (Hansen et al., 1980).
+    reported mineral analyses and classified 67667 as “Mg-
+    gabbronorite” – and, therefore, not so unusual..
+                                                     Mineralogical Mode of 67667
+   Lunar sample 67667 has a brecciated texture with                          Hansen et        Warren and
+    mineral grains in the size range 30 – 100 microns (figure                                         al. 1980         Wasson 1979
+                                                                    Olivine                  50 vol. %        58
+     2). Plagioclase is shocked or badly strained and mafic                                                               Orthopyroxene            21              15
+    minerals are fractured.  According to Ryder and   Clinopx.                 5               5
+                                                                       Plagioclase               23              21
+                                                                       Ilmenite                 1               1
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 4; CATEGORIES: age,chemistry,mineralogy ===
+--- chemistry block 1; lines 25-47 ---
+Norman (1980) there is little or no pore space and
+    portions may have been melted (?).
+
+   Mineralogy
+    Olivine: Olivine (Fo70) is abundant in 67667. It is not
+    unusual in trace element composition (Smith et al.
+    1980). Mn/Fe is lunar.
+                                                                Figure 8: Sm/Nd isochron for 67667 (from Carlson
+   Pyroxene:  Hansen et al. (1980) and Warren and      and Lugmair 1981).
+   Wasson (1979) found a high percentage of Ca-rich
+   pyroxene (figure 3).
+                                             Summary of Age Data for 67667
+    Plagioclase: Hansen et al. (1979, 1980) determined                                   Sm/Nd
+    that most plagioclase was ~An90, but zoned at some          Carlson and Lugmair 1981           4.18 ± 0.07 b.y.
+    edges as far as An72.  Steele et al. (1980) determined
+    the trace element composition of plagioclase in 67667
+    (figure 4) and found very high Sr (580 ppm !).        Radiogenic age dating
+                                                      Carlson and Lugmair (1981) determined the age of
+   Opaques:  Hansen et al. (1980) analyzed grains of  67667 (figure 8).
+    ilmenite and chromite. James and Flohr (1983) give
+    analysis of chromite. Metal grains were found to have  Processing
+   ~5% Ni and 1 – 4 % Co (Warren and Wasson 1979).   There are already too many thin sections of this small
+--- mineralogy block 2; lines 1-7 ---
+An in plagioclase                                                 1000
+             75       80        85       90       95
+                                                               67667
+                                                                                                  100
+                                                                troctolites                     sample/              Carlson and Lugmair
+                                                              90         chondrite
+--- mineralogy block 3; lines 10-51 ---
+mg-suite
+                                                    norites                 80                                                                 En
+                                                                 in              1
+                      67667
+                                                                                                                                                                                                    low-Ca                                 gabbro-                           70
+                                     norites                                                               0.1    La       Pr    Sm    Gd     Dy      Er     Yb                                                                                Ce    Nd     Eu      Tb    Ho    Tm     Lu                                                                                                                                                                                                                                                                     pyroxene
+                                                             ferroan-        60
+                                                           anorthosite                   Figure 7: Normalized rare-earth-element
+                                                             diagram for 67667 (data from Warren and Wasson
+                                                              50             1979).
+
+
+       Figure 6: Pyroxene and plagioclase composition of
+       67667 (from Hansen et al. 1980).
+
+   Norman (1980) there is little or no pore space and
+    portions may have been melted (?).
+
+   Mineralogy
+    Olivine: Olivine (Fo70) is abundant in 67667. It is not
+    unusual in trace element composition (Smith et al.
+    1980). Mn/Fe is lunar.
+                                                                Figure 8: Sm/Nd isochron for 67667 (from Carlson
+   Pyroxene:  Hansen et al. (1980) and Warren and      and Lugmair 1981).
+   Wasson (1979) found a high percentage of Ca-rich
+   pyroxene (figure 3).
+                                             Summary of Age Data for 67667
+    Plagioclase: Hansen et al. (1979, 1980) determined                                   Sm/Nd
+    that most plagioclase was ~An90, but zoned at some          Carlson and Lugmair 1981           4.18 ± 0.07 b.y.
+    edges as far as An72.  Steele et al. (1980) determined
+    the trace element composition of plagioclase in 67667
+    (figure 4) and found very high Sr (580 ppm !).        Radiogenic age dating
+                                                      Carlson and Lugmair (1981) determined the age of
+   Opaques:  Hansen et al. (1980) analyzed grains of  67667 (figure 8).
+    ilmenite and chromite. James and Flohr (1983) give
+    analysis of chromite. Metal grains were found to have  Processing
+   ~5% Ni and 1 – 4 % Co (Warren and Wasson 1979).   There are already too many thin sections of this small
+                                                   sample (like children, 8 is enough).
+   Chemistry
+   The REE pattern of 67667 is unique among pristine
+    highland rocks, being virtually flat (figure 7) and having
+--- age block 4; lines 31-49 ---
+unusual in trace element composition (Smith et al.
+    1980). Mn/Fe is lunar.
+                                                                Figure 8: Sm/Nd isochron for 67667 (from Carlson
+   Pyroxene:  Hansen et al. (1980) and Warren and      and Lugmair 1981).
+   Wasson (1979) found a high percentage of Ca-rich
+   pyroxene (figure 3).
+                                             Summary of Age Data for 67667
+    Plagioclase: Hansen et al. (1979, 1980) determined                                   Sm/Nd
+    that most plagioclase was ~An90, but zoned at some          Carlson and Lugmair 1981           4.18 ± 0.07 b.y.
+    edges as far as An72.  Steele et al. (1980) determined
+    the trace element composition of plagioclase in 67667
+    (figure 4) and found very high Sr (580 ppm !).        Radiogenic age dating
+                                                      Carlson and Lugmair (1981) determined the age of
+   Opaques:  Hansen et al. (1980) analyzed grains of  67667 (figure 8).
+    ilmenite and chromite. James and Flohr (1983) give
+    analysis of chromite. Metal grains were found to have  Processing
+   ~5% Ni and 1 – 4 % Co (Warren and Wasson 1979).   There are already too many thin sections of this small
+                                                   sample (like children, 8 is enough).
+   Chemistry
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 67667.
+
+
+    reference  Ebihara 92  Carlson81   Warren79
+    weight
+   SiO2 %                             42.4     (b)
+    TiO2                               1.03     (b)
+   Al2O3                               7.6      (b)
+   FeO                            17       (b)
+   MnO                                 0.2      (b)
+   MgO                               26.4     (b)
+   CaO                                 5.3      (b)
+   Na2O                              0.16     (b)
+   K2O                               0.023   (b)
+   P2O5
+   S %
+   sum
+
+   Sc ppm                             24.4     (b)
+   V
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 67667.
+
+
+    reference  Ebihara 92  Carlson81   Warren79
+    weight
+   SiO2 %                             42.4     (b)
+    TiO2                               1.03     (b)
+   Al2O3                               7.6      (b)
+   FeO                            17       (b)
+   MnO                                 0.2      (b)
+--- references block 3; lines 65-74 ---
+Os ppb    0.171   (a)
+      Ir ppb     0.133   (a)              0.013   (a)               4.3 g  1.3 g  PB    0.2 g   PB    0.6 g
+    Pt ppb
+   Au ppb    0.34     (a)              0.029   (a)                       ,1                   ,6        ,10       ,13
+   Th ppm                             0.46     (b)               TS                ,16     TS        ,18
+   U ppm    0.101   (a)               0.15     (b)                                       ,17                 ,19
+    technique:  (a) RNAA, (b) INAA, (c ) IDMS                                 TS             TS
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 6; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 5-17 ---
+Planet. Sci. Conf. 571-590.
+    Carlson R.W. and Lugmair G.W. (1981b) Sm-Nd age of
+     lherzolite 67667: Implications for the processes involved in   Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    lunar crustal formation. Earth Planet. Sci. Lett. 56, 1-8.     A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                                                 Reimold W.U., Wacker K. and Wanke H. (1985)
+    Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)   Composition and evolution of the lunar crust in the Descartes
+    Trace elements in 59 mostly highland moon rocks. Proc.   highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+     22nd Lunar Planet. Sci. Conf. 417-426. Lunar Planetary   Res. 90, C449-C506.
+     Institute, Houston
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Hansen E.C., Steele I.M. and Smith J.V. (1979a)  Lunar   In Geology of the Apollo 16 area, central lunar highlands.
+    highland rocks: Element partitioning among minerals 1:   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Electron microprobe analyses of Na, K, and Fe in
+--- chemistry block 2; lines 44-56 ---
+rich lithologies, a diopside-bearing troctolitic anorthosite,
+    Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples   ferroan anorthosite and KREEP. Proc. 14th Lunar Planet.
+    67515 to 68537:  Sample classification, description and   Sci. Conf. in J. Geophys. Res. 88, B151-B164.
+    inventory. Curator Catalog, JSC
+                                                       Warren P.H. and Kallemeyn G.W. (1984) Pristine rocks (8th
+    Smith J.V., Hansen E.C. and Steele I.M. (1980)  Lunar   foray): Plagiophile element ratios, crustal genesis, and the
+    highland rocks: Element partitioning among minerals II:   bulk composition of the Moon. Proc. 15th Lunar Planet.
+    Electron microprobe analyses of Al, P, Ca, Ti, Cr, Mn and   Sci. Conf. in J. Geophys. Res. 89, C16-C24.
+    Fe in olivine. Proc. 11th Lunar Planet. Sci. Conf. 555-569.
+
+    Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    of some Apollo 16 rocks and fines: General petrologic model
+    of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+--- mineralogy block 3; lines 1-24 ---
+References for 67667
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Steele I.M., Hutcheon I.D. and Smith J.V. (1980)  Ion
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   microprobe analysis and petrogenetic interpretations of Li,
+    Catalog. pp. 370.                                 Mg, Ti, K, Sr, Ba in lunar plagioclase.  Proc. 11th Lunar
+                                                                 Planet. Sci. Conf. 571-590.
+    Carlson R.W. and Lugmair G.W. (1981b) Sm-Nd age of
+     lherzolite 67667: Implications for the processes involved in   Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    lunar crustal formation. Earth Planet. Sci. Lett. 56, 1-8.     A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                                                 Reimold W.U., Wacker K. and Wanke H. (1985)
+    Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)   Composition and evolution of the lunar crust in the Descartes
+    Trace elements in 59 mostly highland moon rocks. Proc.   highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+     22nd Lunar Planet. Sci. Conf. 417-426. Lunar Planetary   Res. 90, C449-C506.
+     Institute, Houston
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Hansen E.C., Steele I.M. and Smith J.V. (1979a)  Lunar   In Geology of the Apollo 16 area, central lunar highlands.
+    highland rocks: Element partitioning among minerals 1:   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Electron microprobe analyses of Na, K, and Fe in
+    plagioclase; mg partitioning with orthopyroxene. Proc. 10th  Warren P.H. (1993) A concise compilation of petrologic
+    Lunar Planet. Sci. Conf. 627-638.                          information on possibly pristine nonmare Moon rocks. Am.
+                                                             Mineral. 78, 360-376.
+    Hansen E.C., Smith J.V. and Steele I.M. (1980b) Petrology
+    and mineral chemistry of 67667, a unique feldspathic  Warren P.H. and Wasson J.T. (1979a) The compositional-
+     lherzolite. Proc. 11th Lunar Planet. Sci. 523-533.           petrographic search for pristine nonmare rocks: Third foray.
+                                                             Proc. 10th Lunar Planet. Sci. Conf. 583-610.
+--- mineralogy block 4; lines 46-60 ---
+67515 to 68537:  Sample classification, description and   Sci. Conf. in J. Geophys. Res. 88, B151-B164.
+    inventory. Curator Catalog, JSC
+                                                       Warren P.H. and Kallemeyn G.W. (1984) Pristine rocks (8th
+    Smith J.V., Hansen E.C. and Steele I.M. (1980)  Lunar   foray): Plagiophile element ratios, crustal genesis, and the
+    highland rocks: Element partitioning among minerals II:   bulk composition of the Moon. Proc. 15th Lunar Planet.
+    Electron microprobe analyses of Al, P, Ca, Ti, Cr, Mn and   Sci. Conf. in J. Geophys. Res. 89, C16-C24.
+    Fe in olivine. Proc. 11th Lunar Planet. Sci. Conf. 555-569.
+
+    Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    of some Apollo 16 rocks and fines: General petrologic model
+    of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 5; lines 39-51 ---
+NASA-JSC Curatorial Facility Publ. JSC 14565, Houston.   rocks: Four more from the west (abs). Lunar Planet. Sci.
+    147 pp.                                                   XIII, 841-842. Lunar Planetary Institute, Houston.
+
+    Ryder G. and Norman M.D. (1980) Catalog of Apollo 16  Warren P.H., Taylor G.J., Keil K., Kallemeyn G.W., Shirley
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904      D. and Wasson J.T. (1983d) Seventh foray: Whitlockite-
+                                                                    rich lithologies, a diopside-bearing troctolitic anorthosite,
+    Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples   ferroan anorthosite and KREEP. Proc. 14th Lunar Planet.
+    67515 to 68537:  Sample classification, description and   Sci. Conf. in J. Geophys. Res. 88, B151-B164.
+    inventory. Curator Catalog, JSC
+                                                       Warren P.H. and Kallemeyn G.W. (1984) Pristine rocks (8th
+    Smith J.V., Hansen E.C. and Steele I.M. (1980)  Lunar   foray): Plagiophile element ratios, crustal genesis, and the
+    highland rocks: Element partitioning among minerals II:   bulk composition of the Moon. Proc. 15th Lunar Planet.
+    Electron microprobe analyses of Al, P, Ca, Ti, Cr, Mn and   Sci. Conf. in J. Geophys. Res. 89, C16-C24.
+--- age block 6; lines 1-12 ---
+References for 67667
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Steele I.M., Hutcheon I.D. and Smith J.V. (1980)  Ion
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   microprobe analysis and petrogenetic interpretations of Li,
+    Catalog. pp. 370.                                 Mg, Ti, K, Sr, Ba in lunar plagioclase.  Proc. 11th Lunar
+                                                                 Planet. Sci. Conf. 571-590.
+    Carlson R.W. and Lugmair G.W. (1981b) Sm-Nd age of
+     lherzolite 67667: Implications for the processes involved in   Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    lunar crustal formation. Earth Planet. Sci. Lett. 56, 1-8.     A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                                                 Reimold W.U., Wacker K. and Wanke H. (1985)
+    Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)   Composition and evolution of the lunar crust in the Descartes
+    Trace elements in 59 mostly highland moon rocks. Proc.   highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+     22nd Lunar Planet. Sci. Conf. 417-426. Lunar Planetary   Res. 90, C449-C506.
+--- references block 7; lines 1-7 ---
+References for 67667
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Steele I.M., Hutcheon I.D. and Smith J.V. (1980)  Ion
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   microprobe analysis and petrogenetic interpretations of Li,
+    Catalog. pp. 370.                                 Mg, Ti, K, Sr, Ba in lunar plagioclase.  Proc. 11th Lunar
+                                                                 Planet. Sci. Conf. 571-590.
+    Carlson R.W. and Lugmair G.W. (1981b) Sm-Nd age of
+     lherzolite 67667: Implications for the processes involved in   Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch

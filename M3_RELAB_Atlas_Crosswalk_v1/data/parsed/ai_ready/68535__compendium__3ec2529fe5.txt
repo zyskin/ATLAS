@@ -1,0 +1,153 @@
+DOCUMENT_ID: 68535__compendium__3ec2529fe5
+ATLAS_SAMPLE_IDS: 68535,68536
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/68535.pdf
+SOURCE_PDF_SHA256: a9ebf1106eb8a6fb8a1151a42eb7c4123f56ace0d24bcb44e4334eddfb2d8dd1
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-9 ---
+68535 – 8 grams
+                          68536 – 1.8 grams
+                           Impact Melt Breccia with glass
+
+
+
+
+
+                                Figure 1: Photo of 68535 with mm scale. S72-49572
+--- mineralogy block 2; lines 17-29 ---
+Introduction                                                        then the lithic fragments. There are two thin sections
+   68535 and 68536 are rake samples collected from                                                          of 68536, but none for 68535.
+    station 8 soil in an area thought of have disturbance
+   from South Ray Crater – see section on 68501. They
+   are a collection of impact melt fragments cemented by
+   a black glass. The impact melt is aphanitic with
+   abundant feldspar laths. The glass is more aluminous
+
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 3; lines 1-9 ---
+68535 – 8 grams
+                          68536 – 1.8 grams
+                           Impact Melt Breccia with glass
+
+
+
+
+
+                                Figure 1: Photo of 68535 with mm scale. S72-49572
+--- material block 4; lines 13-29 ---
+Figure 2: Photo of 68536 with mm scale. S72-51253
+
+
+   Introduction                                                        then the lithic fragments. There are two thin sections
+   68535 and 68536 are rake samples collected from                                                          of 68536, but none for 68535.
+    station 8 soil in an area thought of have disturbance
+   from South Ray Crater – see section on 68501. They
+   are a collection of impact melt fragments cemented by
+   a black glass. The impact melt is aphanitic with
+   abundant feldspar laths. The glass is more aluminous
+
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+References for 68535 and 536   Table 1. Chemical composition of 78536
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                  i-melt      glass         i-melt
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  See86     Morris86    Ryder82
+    weight                                                     Catalog. pp. 370.
+   SiO2 %    45.38   (a) 44.73     (b)
+    TiO2       0.24     (a) 0.14      (b)                        Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   Al2O3     26.62   (a) 31.61     (b)
+                                                                   in Apollo 16 highland rocks: Manifestations of volatile-   FeO       4.39     (a) ~3        (b) 11.2      (b)
+   MnO       0.06     (a)                                    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   MgO       7.89     (a) 2.29      (b)                          259.
+   CaO       14.95   (a) 17.7      (b)
+   Na2O      1.26     (a) 0.4        (b) 0.51      (b)
+                                                        Korotev R.L. (1994) Compositional variation in Apollo 16   K2O       0.06     (a) 0.08      (b)
+   P2O5                                                  impact melt breccias and inferences for the geology and
+   S %                                              bombardment history of the central highlands of the Moon.
+   sum                                                Geochim. Cosmochim. Acta 58, 3931-3969.
+
+   Sc ppm               6.74      (b) 9.3       (b)
+   V                                         LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+--- mineralogy block 2; lines 1-9 ---
+References for 68535 and 536   Table 1. Chemical composition of 78536
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                  i-melt      glass         i-melt
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  See86     Morris86    Ryder82
+    weight                                                     Catalog. pp. 370.
+   SiO2 %    45.38   (a) 44.73     (b)
+    TiO2       0.24     (a) 0.14      (b)                        Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   Al2O3     26.62   (a) 31.61     (b)
+                                                                   in Apollo 16 highland rocks: Manifestations of volatile-   FeO       4.39     (a) ~3        (b) 11.2      (b)
+--- mineralogy block 3; lines 50-62 ---
+Nd
+   Sm                    5.2        (b) 10.9      (b)             Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+   Eu                    1.04      (b) 1.4       (b)             67515 to 68537:  Sample classification, description and
+   Gd
+                                                                 inventory. Curator Catalog, JSC   Tb                     0.9        (b)
+   Dy
+   Ho                                                           Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    Er                                                          of some Apollo 16 rocks and fines: General petrologic model
+   Tm
+                                                               of the moon. Proc. 4th Lunar Sci. Conf. 519-536.   Yb                    3.35      (b)
+   Lu                    0.46      (b) 1.1       (b)
+    Hf                    2.96      (b)                          Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Ta                     0.4        (b)                           In Geology of the Apollo 16 area, central lunar highlands.
+--- material block 4; lines 9-21 ---
+in Apollo 16 highland rocks: Manifestations of volatile-   FeO       4.39     (a) ~3        (b) 11.2      (b)
+   MnO       0.06     (a)                                    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   MgO       7.89     (a) 2.29      (b)                          259.
+   CaO       14.95   (a) 17.7      (b)
+   Na2O      1.26     (a) 0.4        (b) 0.51      (b)
+                                                        Korotev R.L. (1994) Compositional variation in Apollo 16   K2O       0.06     (a) 0.08      (b)
+   P2O5                                                  impact melt breccias and inferences for the geology and
+   S %                                              bombardment history of the central highlands of the Moon.
+   sum                                                Geochim. Cosmochim. Acta 58, 3931-3969.
+
+   Sc ppm               6.74      (b) 9.3       (b)
+   V                                         LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+    Cr                  501       (b)                       and chemical description. Science 179, 23-34.
+--- material block 5; lines 45-57 ---
+Cs ppm                                              See T.H., Horz F. and Morris R.V. (1986) Apollo 16 impact-
+   Ba                  123       (b)                          melt splashes: Petrography and major-element composition.
+   La                    11.05     (b) 23.6      (b)               Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 91,
+   Ce                 33         (b)
+                                                        E3-E20.    Pr
+   Nd
+   Sm                    5.2        (b) 10.9      (b)             Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+   Eu                    1.04      (b) 1.4       (b)             67515 to 68537:  Sample classification, description and
+   Gd
+                                                                 inventory. Curator Catalog, JSC   Tb                     0.9        (b)
+   Dy
+   Ho                                                           Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    Er                                                          of some Apollo 16 rocks and fines: General petrologic model
+--- references block 6; lines 1-10 ---
+References for 68535 and 536   Table 1. Chemical composition of 78536
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                  i-melt      glass         i-melt
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s    reference  See86     Morris86    Ryder82
+    weight                                                     Catalog. pp. 370.
+   SiO2 %    45.38   (a) 44.73     (b)
+    TiO2       0.24     (a) 0.14      (b)                        Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   Al2O3     26.62   (a) 31.61     (b)
+                                                                   in Apollo 16 highland rocks: Manifestations of volatile-   FeO       4.39     (a) ~3        (b) 11.2      (b)
+   MnO       0.06     (a)                                    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+--- references block 7; lines 65-74 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm               1.45      (b)
+   U ppm                0.39      (b)
+    technique:  (a) DBA, (b) INAA
+
+Lunar Sample Compendium
+C Meyer 2012

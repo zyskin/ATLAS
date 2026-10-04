@@ -1,0 +1,123 @@
+DOCUMENT_ID: 65789__compendium__fc4592c5c0
+ATLAS_SAMPLE_IDS: 65789
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65789.pdf
+SOURCE_PDF_SHA256: 3cbd7788f223978c2827ad3b0c2e353106f58a3bf4c4b69cd7986d4ce80cefc9
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 8-31 ---
+Figure 1: Photo of 65789. Scale in mm. S72-48818
+
+   Introduction
+   65789 is a chalky white rake sample from station 5 –
+   see sections on 65501 and 65701.
+                                                     Table 1. Chemical composition of 65789
+   Petrography
+   Keil et al. (1972), Dowty et al. (1974) and Warner et            reference  Dowty74                                                                           weight    Warner76
+    al. (1976) described 65789 as a cataclastic anorthosite.          SiO2 %    44.9     (a)
+   The thin section shows it is finely divided (figure 2).          TiO2      0.01     (a)
+                                                                  Al2O3     34.3     (a)
+   Plagioclase does not show shock features; the mafic        FeO       0.96     (a)
+   minerals are not “equilibrated” (figure 3).  Minor        MnO
+   chromite and ilmenite are present.   It is a ferroan        MgO      0.63     (a)
+                                                      CaO       18.8     (a)
+    anorthosite.                                           Na2O     0.37     (a)
+                                                       K2O       0.01     (a)
+   Warren (1993) list 65789 as probably pristine – even         P2O5     0.02     (a)                                                        S %
+   without Ir, Au analyses.                                   sum
+                                                                                          (a) DBA
+   Chemistry
+   The only analysis is by defocused beam analysis
+   (DBA).
+--- mineralogy block 2; lines 14-28 ---
+Table 1. Chemical composition of 65789
+   Petrography
+   Keil et al. (1972), Dowty et al. (1974) and Warner et            reference  Dowty74                                                                           weight    Warner76
+    al. (1976) described 65789 as a cataclastic anorthosite.          SiO2 %    44.9     (a)
+   The thin section shows it is finely divided (figure 2).          TiO2      0.01     (a)
+                                                                  Al2O3     34.3     (a)
+   Plagioclase does not show shock features; the mafic        FeO       0.96     (a)
+   minerals are not “equilibrated” (figure 3).  Minor        MnO
+   chromite and ilmenite are present.   It is a ferroan        MgO      0.63     (a)
+                                                      CaO       18.8     (a)
+    anorthosite.                                           Na2O     0.37     (a)
+                                                       K2O       0.01     (a)
+   Warren (1993) list 65789 as probably pristine – even         P2O5     0.02     (a)                                                        S %
+   without Ir, Au analyses.                                   sum
+                                                                                          (a) DBA
+--- material block 3; lines 6-18 ---
+Figure 1: Photo of 65789. Scale in mm. S72-48818
+
+   Introduction
+   65789 is a chalky white rake sample from station 5 –
+   see sections on 65501 and 65701.
+                                                     Table 1. Chemical composition of 65789
+   Petrography
+   Keil et al. (1972), Dowty et al. (1974) and Warner et            reference  Dowty74                                                                           weight    Warner76
+    al. (1976) described 65789 as a cataclastic anorthosite.          SiO2 %    44.9     (a)
+   The thin section shows it is finely divided (figure 2).          TiO2      0.01     (a)
+--- references block 4; lines 10-22 ---
+Introduction
+   65789 is a chalky white rake sample from station 5 –
+   see sections on 65501 and 65701.
+                                                     Table 1. Chemical composition of 65789
+   Petrography
+   Keil et al. (1972), Dowty et al. (1974) and Warner et            reference  Dowty74                                                                           weight    Warner76
+    al. (1976) described 65789 as a cataclastic anorthosite.          SiO2 %    44.9     (a)
+   The thin section shows it is finely divided (figure 2).          TiO2      0.01     (a)
+                                                                  Al2O3     34.3     (a)
+   Plagioclase does not show shock features; the mafic        FeO       0.96     (a)
+   minerals are not “equilibrated” (figure 3).  Minor        MnO
+   chromite and ilmenite are present.   It is a ferroan        MgO      0.63     (a)
+
+=== PDF PAGE 2; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 11-23 ---
+En                                          Fs
+
+                                                  Fo                                        Fa
+                                                                                                     compiled by C Meyer
+
+                                                                 Figure 3: Composition of olivine and pyroxene in
+                                                          65789 (from Warner et al. 1976).
+
+=== PDF PAGE 3; CATEGORIES: material,references ===
+--- material block 1; lines 1-18 ---
+References for 65789
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+   Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:
+    a widespread and distinctive lunar rock type. Earth Planet.
+    Sci. Lett. 24, 15-25.
+
+   Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+    Description, classification and inventory of 151 Apollo 16
+    rake samples from the LM area and station 5.  Curator’s
+    Catalog, JSC.
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   and chemical description. Science 179, 23-34.
+
+   LSPET (1972c) Preliminary examination of lunar samples.
+--- material block 2; lines 24-36 ---
+Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    In Geology of the Apollo 16 area, central lunar highlands.
+    (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+   Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+   and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+   from the LM area and station 5.  Spec. Publ. #13, UNM
+    Institute of Meteoritics, Albuquerque. 87 pp.
+
+   Warren P.H. (1993) A concise compilation of petrologic
+    information on possibly pristine nonmare Moon rocks. Am.
+    Mineral. 78, 360-376.
+--- references block 3; lines 1-7 ---
+References for 65789
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+   Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:
+    a widespread and distinctive lunar rock type. Earth Planet.

@@ -1,0 +1,115 @@
+DOCUMENT_ID: 76575__compendium__8114e7b62a
+ATLAS_SAMPLE_IDS: 76575
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/76575.pdf
+SOURCE_PDF_SHA256: 3907343b431c007aacb3bb9ab848ad7b1de9840c77f60958753550b5a4a28fce
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-21 ---
+76575
+                                       Breccia
+                                            16.2 grams
+
+
+
+
+
+                        Figure 1: Photo of 76575 with mm scale. S73-19633.
+
+
+   Introduction
+                                                 Processing   76575 is covered with a thin brown patina and many
+                                                   There are 8 thin section of 76575.   micrometeorite pits (figure 1).  It was collected as a
+   rake sample at station 6, on the North Massif - see
+    section on 76501.
+                                                   76575
+   Petrography                                               16.2 grams
+   76575 is a different kind of highland breccias (Meyer
+   1994).   It is highly aluminous, with a suevite-like
+    texture (figure 2). It undoubtedly has an impact origin,       ,0        ,1     ,2       ,3      ,14
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 76575
+
+
+    reference  Wiesman76  Simonds81
+    weight
+   SiO2 %                44.83     (b)
+    TiO2                    0.34      (b)
+   Al2O3                  25.77     (b)
+   FeO                    5.61      (b)
+   MnO                   0.08      (b)
+   MgO                   7.45      (b)
+   CaO                   15.23     (b)
+   Na2O                   0.35      (b)
+   K2O      0.032     (a) 0.03      (b)
+   P2O5                   0.04      (b)
+   S %                    0.04      (b)
+   sum
+
+   Sc ppm
+   V
+--- material block 2; lines 18-30 ---
+Sc ppm
+   V
+    Cr                   752       (b)
+   Co
+    Ni                                                           Figure 3: A comparison of the composition of
+   Cu                                                     76575 with the soil weher it was found.
+   Zn
+   Ga
+   Ge ppb
+                                                   References for 76575   As
+   Se                                                         Butler P. (1973) Lunar Sample Information Catalog Apollo
+   Rb        0.697     (a)                                      17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+--- material block 3; lines 33-45 ---
+Zr        47         (a)
+   Nb                                             Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+   Mo                                                        Curator’s Office JSC 26088 pp. 644
+   Ru
+   Rh
+                                                   Phinney W.C., Simonds C.H. and Warner J. (1974)   Pd ppb
+   Ag ppb                                                      Description, Classification and Inventory of Apollo 17 Rake
+   Cd ppb                                              Samples from Station 6. Curator’s Catalog, pp. 46.
+     In ppb
+   Sn ppb
+                                                    Simonds C.H. and Warner J.L. (1981)  Petrochemistry of   Sb ppb
+    Te ppb                                                Apollo 16 and 17 samples (abs). Lunar Planet. Sci. XII,
+   Cs ppm                                                 993-995. Lunar Planetary Institute, Houston.
+--- references block 4; lines 1-10 ---
+Table 1. Chemical composition of 76575
+
+
+    reference  Wiesman76  Simonds81
+    weight
+   SiO2 %                44.83     (b)
+    TiO2                    0.34      (b)
+   Al2O3                  25.77     (b)
+   FeO                    5.61      (b)
+   MnO                   0.08      (b)
+--- references block 5; lines 22-34 ---
+Co
+    Ni                                                           Figure 3: A comparison of the composition of
+   Cu                                                     76575 with the soil weher it was found.
+   Zn
+   Ga
+   Ge ppb
+                                                   References for 76575   As
+   Se                                                         Butler P. (1973) Lunar Sample Information Catalog Apollo
+   Rb        0.697     (a)                                      17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+    Sr        143       (a)                                     Catalog. pp. 447.
+   Y
+    Zr        47         (a)
+   Nb                                             Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+--- references block 6; lines 65-74 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm    0.48       (a)
+   U ppm     0.13       (a)
+    technique:  (a) IDMS, (b) whatever
+
+Lunar Sample Compendium
+C Meyer 2012

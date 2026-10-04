@@ -1,0 +1,50 @@
+DOCUMENT_ID: 15506__compendium__402184247d
+ATLAS_SAMPLE_IDS: 15506,15508
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15506.pdf
+SOURCE_PDF_SHA256: d50085b072887428592b53ce43cc27e2bc452fd57115f3e29509a3d9393a9bee
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 6-18 ---
+Figure 1 a,b: Photos of two sides of 15506. Cube is 1 cm. S71-44527 and 529.
+
+   Introduction
+   15506 and 15508 are glass-coated pieces of regolith
+   breccia similar to 15505 in the same bag and may be
+   pieces of the larger breccia – see also section on
+   15501. They have not been studied and there are no
+    thin sections.
+--- material block 2; lines 1-20 ---
+15506 – 22.9 grams
+                         15508 – 1.4 grams
+                                   Regolith Breccia
+
+
+
+
+
+                        Figure 1 a,b: Photos of two sides of 15506. Cube is 1 cm. S71-44527 and 529.
+
+   Introduction
+   15506 and 15508 are glass-coated pieces of regolith
+   breccia similar to 15505 in the same bag and may be
+   pieces of the larger breccia – see also section on
+   15501. They have not been studied and there are no
+    thin sections.
+
+
+   References for 15506                                                               Figure 2: This wee-bitty thing is an
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’                                                                      afterthought, as it has never been, and
+--- references block 3; lines 13-25 ---
+breccia similar to 15505 in the same bag and may be
+   pieces of the larger breccia – see also section on
+   15501. They have not been studied and there are no
+    thin sections.
+
+
+   References for 15506                                                               Figure 2: This wee-bitty thing is an
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’                                                                      afterthought, as it has never been, and
+    Office, MSC 03209                                                               never be, studied! Call it 15508.
+
+   LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+    description. Science 175, 363-375.

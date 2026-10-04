@@ -1,0 +1,292 @@
+DOCUMENT_ID: 72221__compendium__996a8b4ec2
+ATLAS_SAMPLE_IDS: 72221,72241,72261
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72221.pdf
+SOURCE_PDF_SHA256: c4da31b7126599ad1eac517d6ed9ec11c8f802c0a7345b8b28295cfaa4610b48
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,references ===
+--- material block 1; lines 1-8 ---
+72221
+                           Partially Shaded Soil – 388 grams
+                          72241 – 322 grams
+                          72261 – 279 grams
+                             Reference Soils
+--- material block 2; lines 20-32 ---
+72240
+
+                                                       72260
+
+          Figure 1: Boulder 1, station 2, Apollo 17. Lunar soil sample 72220 was collected from shadow on east side
+            of boulder, while soils 72240 and 72260 were collected from sunlit “fillet” of boulder.  AS17-138-21031.
+
+
+   Introduction
+                                                                friable boulder). The boulder is probably part of the   72221 was collected in the shade under boulder #1, at
+                                                            landslide off of the South Massif (Wolfe et al. 1981).    station 2, Apollo 17 (figure 1). 72241 and 72261 were
+--- references block 3; lines 1-11 ---
+72221
+                           Partially Shaded Soil – 388 grams
+                          72241 – 322 grams
+                          72261 – 279 grams
+                             Reference Soils
+
+
+
+
+            72275
+                                                     Nansen
+--- references block 4; lines 27-39 ---
+of boulder, while soils 72240 and 72260 were collected from sunlit “fillet” of boulder.  AS17-138-21031.
+
+
+   Introduction
+                                                                friable boulder). The boulder is probably part of the   72221 was collected in the shade under boulder #1, at
+                                                            landslide off of the South Massif (Wolfe et al. 1981).    station 2, Apollo 17 (figure 1). 72241 and 72261 were
+    collected as nearby reference samples. 72241 is from
+                                                These soils are probably fillet material from the    the “fillet” of the boulder and 72261 is a “skim” sample
+                                                         adjacent boulder, as is evident from the high rare earth   from the top 1 cm (see also sections on 72215, 72235,
+                                                     element and Th concentration.   72255 and 72275, which are samples of the rather
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-42 ---
+25
+                                                                                20                      Apollo soils
+
+          72220                                                       15                                 FeO
+                                                                                  72221, 72241, 72261          72240                                                       10
+          72260
+                                                                                    5
+
+
+                                                                                    0
+                                                                                      0       5       10      15      20      25      30      35
+                                                             Al2O3
+                                                                  Figure 3: FeO content of 72221 compared with
+                                                                      other lunar soils.
+
+
+
+          Figure 2: Map for station 2, Apollo 17.
+
+
+
+   Petrography
+    Morris (1978) determined the maturity index (Is/FeO)
+    of 72221 and 72261 as 58 and 59, respectively. The
+    maturity of 72241 is Is/FeO = 64 and the average grain
+    size is 63 microns (Morris 1978, Graf 1993).
+
+   Meyer (1973) cataloged the 4 – 10 mm coarse fines,        Figure 4: Normalized rare-earth-element diagram
+    but nobody seems to have performed the obligatory         for 72221 - compared with mare soil 75061.
+   modal minerlology.
+
+   Chemistry
+   These three soils are from the debris that falls off of  References for 72221-241-261
+    the boulder (fillet), perhaps mixed with a bit of soil   Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                               17.  Lunar Receiving Laboratory. MSC 03211 Curator’s    that was present before the boulder was placed. The
+                                                               Catalog. pp. 447.   FeO content is similar to the other landslide soils
+   (72501 etc). Figure 4 compares the rare earth content                                                       Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+    with mare materials.
+                                                       Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+   Cosmogenic isotopes and exposure ages          Space Phys. 13, 567-587.
+    Keith et al. (1974) determined the cosmic-ray-induced
+    activity of 22Na = 63 and 143 dpm/kg, 26Al = 132 and  Keith  J.E., Clark R.S. and Bennett  L.J. (1974a)
+--- mineralogy block 2; lines 24-36 ---
+of 72221 and 72261 as 58 and 59, respectively. The
+    maturity of 72241 is Is/FeO = 64 and the average grain
+    size is 63 microns (Morris 1978, Graf 1993).
+
+   Meyer (1973) cataloged the 4 – 10 mm coarse fines,        Figure 4: Normalized rare-earth-element diagram
+    but nobody seems to have performed the obligatory         for 72221 - compared with mare soil 75061.
+   modal minerlology.
+
+   Chemistry
+   These three soils are from the debris that falls off of  References for 72221-241-261
+    the boulder (fillet), perhaps mixed with a bit of soil   Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                               17.  Lunar Receiving Laboratory. MSC 03211 Curator’s    that was present before the boulder was placed. The
+                                                               Catalog. pp. 447.   FeO content is similar to the other landslide soils
+--- material block 3; lines 23-40 ---
+Morris (1978) determined the maturity index (Is/FeO)
+    of 72221 and 72261 as 58 and 59, respectively. The
+    maturity of 72241 is Is/FeO = 64 and the average grain
+    size is 63 microns (Morris 1978, Graf 1993).
+
+   Meyer (1973) cataloged the 4 – 10 mm coarse fines,        Figure 4: Normalized rare-earth-element diagram
+    but nobody seems to have performed the obligatory         for 72221 - compared with mare soil 75061.
+   modal minerlology.
+
+   Chemistry
+   These three soils are from the debris that falls off of  References for 72221-241-261
+    the boulder (fillet), perhaps mixed with a bit of soil   Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                               17.  Lunar Receiving Laboratory. MSC 03211 Curator’s    that was present before the boulder was placed. The
+                                                               Catalog. pp. 447.   FeO content is similar to the other landslide soils
+   (72501 etc). Figure 4 compares the rare earth content                                                       Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+    with mare materials.
+                                                       Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+   Cosmogenic isotopes and exposure ages          Space Phys. 13, 567-587.
+--- age block 4; lines 35-49 ---
+17.  Lunar Receiving Laboratory. MSC 03211 Curator’s    that was present before the boulder was placed. The
+                                                               Catalog. pp. 447.   FeO content is similar to the other landslide soils
+   (72501 etc). Figure 4 compares the rare earth content                                                       Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+    with mare materials.
+                                                       Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+   Cosmogenic isotopes and exposure ages          Space Phys. 13, 567-587.
+    Keith et al. (1974) determined the cosmic-ray-induced
+    activity of 22Na = 63 and 143 dpm/kg, 26Al = 132 and  Keith  J.E., Clark R.S. and Bennett  L.J. (1974a)
+   187 dpm/kg, 46Sc = 5 and 11 dpm/kg, 54Mn = 48 and 78  Determination of natural and cosmic ray induced
+                                                               radionuclides in Apollo 17 lunar samples. Proc. 5th Lunar   dpm/kg and 56Co = <200 and 130 dpm/kg.
+                                                                       Sci. Conf. 2121-2138.
+   Other Studies                                                     Korotev R.L. and Kremser D. (1992)  Compositional
+    Wieler et al. (1980, 1983) studied the rare gas content   variations in Apollo 17 soils and their relationships to the
+   and isotopic ratio of mineral separates for 72261.      geology of the Taurus-Littrow site. Proc. 22nd Lunar Planet.
+                                                                       Sci. Conf. 275-301.
+--- treatment block 5; lines 17-31 ---
+Figure 2: Map for station 2, Apollo 17.
+
+
+
+   Petrography
+    Morris (1978) determined the maturity index (Is/FeO)
+    of 72221 and 72261 as 58 and 59, respectively. The
+    maturity of 72241 is Is/FeO = 64 and the average grain
+    size is 63 microns (Morris 1978, Graf 1993).
+
+   Meyer (1973) cataloged the 4 – 10 mm coarse fines,        Figure 4: Normalized rare-earth-element diagram
+    but nobody seems to have performed the obligatory         for 72221 - compared with mare soil 75061.
+   modal minerlology.
+--- references block 6; lines 27-39 ---
+Meyer (1973) cataloged the 4 – 10 mm coarse fines,        Figure 4: Normalized rare-earth-element diagram
+    but nobody seems to have performed the obligatory         for 72221 - compared with mare soil 75061.
+   modal minerlology.
+
+   Chemistry
+   These three soils are from the debris that falls off of  References for 72221-241-261
+    the boulder (fillet), perhaps mixed with a bit of soil   Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                               17.  Lunar Receiving Laboratory. MSC 03211 Curator’s    that was present before the boulder was placed. The
+                                                               Catalog. pp. 447.   FeO content is similar to the other landslide soils
+   (72501 etc). Figure 4 compares the rare earth content                                                       Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+    with mare materials.
+                                                       Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Composition of 72221, 72241 and 72261.
+             72221            72221     72241            72241      72261
+    reference  Korotev92          Keith74     Korotev92          Keith74     Korotev92
+    weight
+   SiO2 %
+    TiO2
+   Al2O3
+   FeO       8.89    8.68    (a)             8.84    8.59     (a)              8.55   8.24    (a)
+   MnO
+   MgO
+   CaO
+   Na2O     0.463  0.456   (a)             0.472   0.466   (a)             0.451  0.427  (a)
+   K2O                          0.17     (b)                     0.173    (b)
+   P2O5
+   S %
+   sum
+
+   Sc ppm   21     18.9    (a)             19.7    19       (a)              18.9   17.8    (a)
+   V
+--- references block 2; lines 1-9 ---
+Table 1. Composition of 72221, 72241 and 72261.
+             72221            72221     72241            72241      72261
+    reference  Korotev92          Keith74     Korotev92          Keith74     Korotev92
+    weight
+   SiO2 %
+    TiO2
+   Al2O3
+   FeO       8.89    8.68    (a)             8.84    8.59     (a)              8.55   8.24    (a)
+   MnO
+--- references block 3; lines 64-73 ---
+Os ppb
+      Ir ppb     8      9        (a)              5.7     5.5      (a)              9.2    9       (a)
+    Pt ppb
+   Au ppb    3.6     3.2      (a)              2.8     2.9      (a)              3.6    2.6     (a)
+   Th ppm    3.6     3.25    (a)  3.6      (b) 3.2     3.36     (a)  3.6       (b) 3.2    3.04    (a)
+   U ppm    0.79    0.84    (a)  0.89     (b) 0.84    1        (a) 0.94      (b) 0.81   0.59    (a)
+    technique:  (a) INAA, (b) radiation count.
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 48-60 ---
+soil plagioclases. Proc. 13th Lunar Planet. Sci. Conf. in J.
+                                                        Geophys. Res. A713 -A724.    Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+                                                        Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,    Office, Houston
+                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+                                                             geologic investigation of the Taurus-Littrow Valley: Apollo    Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.     soils: Some concepts and Is/FeO compilation. Proc. 9th
+                                                            280.    Lunar Sci. Conf. 2287-2297.
+
+    Morris R.V. (1980) Origins and size distribution of metallic
+    iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+     Sci. Conf. 1697-1712.
+--- mineralogy block 2; lines 31-43 ---
+,0         ,1       ,2       ,3         ,4
+          109 g    8.7 g    13.3 g  13.7 g   9.3 g
+
+
+
+                                                          Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar   LSPET (1973c) Preliminary examination of lunar samples.
+                                                                 regolith: Chemistry, Mineralogy and Petrology.  Rev.    Apollo 17 Preliminary Science Report. NASA SP-330, 7-
+                                                        Geophys. Space Phys. 20, 761-826.   1—7-46.
+
+                                                             Wieler R., Etique P., Signer P. and Poupean G. (1980) Record   Meyer C. (1973) Apollo 17 Coarse Fines (4-10 mm) Sample
+                                                                of the solar corpuscular radiation in minerals from lunar soil:    Location, Classification and Photo Index. Curator Report.
+                                     A comparative study of noble gases and tracks. Proc. 11th    pp. 182.
+                                                      Lunar Planet. Sci. Conf. 1369-1393.
+--- material block 3; lines 31-63 ---
+,0         ,1       ,2       ,3         ,4
+          109 g    8.7 g    13.3 g  13.7 g   9.3 g
+
+
+
+                                                          Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar   LSPET (1973c) Preliminary examination of lunar samples.
+                                                                 regolith: Chemistry, Mineralogy and Petrology.  Rev.    Apollo 17 Preliminary Science Report. NASA SP-330, 7-
+                                                        Geophys. Space Phys. 20, 761-826.   1—7-46.
+
+                                                             Wieler R., Etique P., Signer P. and Poupean G. (1980) Record   Meyer C. (1973) Apollo 17 Coarse Fines (4-10 mm) Sample
+                                                                of the solar corpuscular radiation in minerals from lunar soil:    Location, Classification and Photo Index. Curator Report.
+                                     A comparative study of noble gases and tracks. Proc. 11th    pp. 182.
+                                                      Lunar Planet. Sci. Conf. 1369-1393.
+    Mitchell J.K., Carrier W.D., Costes N.C., Houston W.N.,
+                                                         Wieler R., Etique P., Signer P. and Poupean G. (1983)    Scott R.F. and Hovland H.J. (1973) 8. Soil-Mechanics. In
+                                                          Decrease of the solar flare/solar wind flux ratio in the past    Apollo 17 Preliminary Science Rpt. NASA SP-330. pages
+                                                                 several aeons deduced from solar neon and tracks in lunar    8-1-22.
+                                                                         soil plagioclases. Proc. 13th Lunar Planet. Sci. Conf. in J.
+                                                        Geophys. Res. A713 -A724.    Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+                                                        Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,    Office, Houston
+                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+                                                             geologic investigation of the Taurus-Littrow Valley: Apollo    Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.     soils: Some concepts and Is/FeO compilation. Proc. 9th
+                                                            280.    Lunar Sci. Conf. 2287-2297.
+
+    Morris R.V. (1980) Origins and size distribution of metallic
+    iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+     Sci. Conf. 1697-1712.
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 4; lines 47-59 ---
+several aeons deduced from solar neon and tracks in lunar    8-1-22.
+                                                                         soil plagioclases. Proc. 13th Lunar Planet. Sci. Conf. in J.
+                                                        Geophys. Res. A713 -A724.    Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+   Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+                                                        Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,    Office, Houston
+                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+                                                             geologic investigation of the Taurus-Littrow Valley: Apollo    Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.     soils: Some concepts and Is/FeO compilation. Proc. 9th
+                                                            280.    Lunar Sci. Conf. 2287-2297.
+
+    Morris R.V. (1980) Origins and size distribution of metallic
+    iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+     Sci. Conf. 1697-1712.

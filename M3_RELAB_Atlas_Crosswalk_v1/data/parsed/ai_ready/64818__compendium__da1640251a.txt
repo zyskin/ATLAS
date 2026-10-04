@@ -1,0 +1,92 @@
+DOCUMENT_ID: 64818__compendium__da1640251a
+ATLAS_SAMPLE_IDS: 64818
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64818.pdf
+SOURCE_PDF_SHA256: 0be875b364340d4d2bb21118c845c436cb35f4353ce5c7deb3d9d63248f9bcf5
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 14-26 ---
+None    crater at station 4 on Stone Mountain – see section on
+   64801.
+                                              Radiogenic age dating
+                                         None   Petrography
+   Phinney et al. (1976) refer to 64818 as a “tough
+    crystalline breccia” with 5% vugs and vesicles, while  Processing
+   Warner et al. (1973) called in a “meta-norite”. Ryder  There are two thin sections.
+   and Norman (1980) called it a “dilithologic breccia”
+    (?) so I will just call it a breccia, until a proper
+    petrologic description shows up.
+
+  A single 3 mm clast of “cataclastic anorhosite” is
+   reported by Ryder and Norman (1980). There is also a
+--- material block 2; lines 1-31 ---
+64818
+                                       Breccia
+                                        14 grams
+
+
+
+
+
+             Figure 1: Photo of 64818. Scale is marked in mm. S72-55338
+
+
+   Introduction
+                                            Chemistry   64818 is a rake sample collected from the rim of a small
+                                            None    crater at station 4 on Stone Mountain – see section on
+   64801.
+                                              Radiogenic age dating
+                                         None   Petrography
+   Phinney et al. (1976) refer to 64818 as a “tough
+    crystalline breccia” with 5% vugs and vesicles, while  Processing
+   Warner et al. (1973) called in a “meta-norite”. Ryder  There are two thin sections.
+   and Norman (1980) called it a “dilithologic breccia”
+    (?) so I will just call it a breccia, until a proper
+    petrologic description shows up.
+
+  A single 3 mm clast of “cataclastic anorhosite” is
+   reported by Ryder and Norman (1980). There is also a
+   glassy portion!
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- age block 3; lines 10-22 ---
+Introduction
+                                            Chemistry   64818 is a rake sample collected from the rim of a small
+                                            None    crater at station 4 on Stone Mountain – see section on
+   64801.
+                                              Radiogenic age dating
+                                         None   Petrography
+   Phinney et al. (1976) refer to 64818 as a “tough
+    crystalline breccia” with 5% vugs and vesicles, while  Processing
+   Warner et al. (1973) called in a “meta-norite”. Ryder  There are two thin sections.
+   and Norman (1980) called it a “dilithologic breccia”
+    (?) so I will just call it a breccia, until a proper
+
+=== PDF PAGE 3; CATEGORIES: material,references ===
+--- material block 1; lines 13-29 ---
+LSPET (1972c) Preliminary examination of lunar samples.
+    In Apollo 16 Preliminary Science Report. NASA SP-315,
+   7-1—7-58.
+
+   Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+   (1976a) Lithification of vitric- and clastic-matrix breccias:
+  SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+
+   Phinney W. and Lofgren G. (1973) Description, classification
+   and inventory of Apollo 16 rake samples from stations 1, 4
+   and 13. Curators Office.
+
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Sutton R.L. (1981) Documentation of Apollo 16 samples.
+--- references block 2; lines 1-7 ---
+References for 64818
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+    in Apollo 16 highland rocks: Manifestations of volatile-

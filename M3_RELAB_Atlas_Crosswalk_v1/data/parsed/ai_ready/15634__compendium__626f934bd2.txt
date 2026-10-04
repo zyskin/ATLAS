@@ -1,0 +1,191 @@
+DOCUMENT_ID: 15634__compendium__626f934bd2
+ATLAS_SAMPLE_IDS: 15634,15639
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15634.pdf
+SOURCE_PDF_SHA256: 58b76d06965deb4e10355e1d70e64269d461a0bba449524f9f62eda1f4c32f2e
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 16-41 ---
+12
+
+                                                                                                     A11
+                                                                                               10
+  Introduction
+                                                                                                    8
+  Lunar samples 15634 and 15639 are rake samples from  TiO2
+   the edge of Hadley Rille (see section on 15614). They             6
+   are more coarse grained than others, and apparently             4
+  have abnormally low trace element contents. They                                             A12
+  have not been adequately described.                                        2                        A15         15639                                                                                                                 15634
+                                                                                                    0
+  Petrography                                                                           0                5                10                15               20
+                                              MgO  Ryder (1985) provides the only description these
+   particles. Although he calls them “coarse grained”,       Figure 3: Chemical composition of 15634 and
+                                                        15639 compared with other Apollo basalts.   the grain size is still less than 1 mm (figures 5 and 6).
+
+  Chemistry
+  Ma et al. (1978) finds these two basalts “way low in
+   trace elements”. But they have high Ni !
+
+  Other Studies
+  Gose et al. (1972) and Pearce et al. (1973) determined
+   the magnetic properties of these two particles. Nothing
+   unusual.
+--- mineralogy block 2; lines 1-8 ---
+15634 and 15639
+                         Coarse Olivine-normative Basalt
+                                           5.2 and 7 grams
+--- material block 3; lines 1-8 ---
+15634 and 15639
+                         Coarse Olivine-normative Basalt
+                                           5.2 and 7 grams
+--- material block 4; lines 16-37 ---
+12
+
+                                                                                                     A11
+                                                                                               10
+  Introduction
+                                                                                                    8
+  Lunar samples 15634 and 15639 are rake samples from  TiO2
+   the edge of Hadley Rille (see section on 15614). They             6
+   are more coarse grained than others, and apparently             4
+  have abnormally low trace element contents. They                                             A12
+  have not been adequately described.                                        2                        A15         15639                                                                                                                 15634
+                                                                                                    0
+  Petrography                                                                           0                5                10                15               20
+                                              MgO  Ryder (1985) provides the only description these
+   particles. Although he calls them “coarse grained”,       Figure 3: Chemical composition of 15634 and
+                                                        15639 compared with other Apollo basalts.   the grain size is still less than 1 mm (figures 5 and 6).
+
+  Chemistry
+  Ma et al. (1978) finds these two basalts “way low in
+   trace elements”. But they have high Ni !
+
+  Other Studies
+--- treatment block 5; lines 33-45 ---
+Chemistry
+  Ma et al. (1978) finds these two basalts “way low in
+   trace elements”. But they have high Ni !
+
+  Other Studies
+  Gose et al. (1972) and Pearce et al. (1973) determined
+   the magnetic properties of these two particles. Nothing
+   unusual.
+
+
+
+
+                                                                Figure 4: Normalized rare-earth-element diagram
+
+=== PDF PAGE 3; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+Figure 6: Photomicrographs of thin section 15639,4 by C Meyer at 50 and 150x. Note that I caught
+               this pyroxene “end on”!
+
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 4; CATEGORIES: age,chemistry,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 15634 and 15639.
+             15634     15639
+     reference  Ma78     Ma78
+     weight
+    SiO2 %
+    TiO2       1.5      (a) 1.8       (a)                      References for 15634.
+    Al2O3     9.8      (a) 9.4       (a)                            Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+   FeO       19.9     (a) 21.9      (a)
+                                                                  Office, MSC 03209   MnO      0.25     (a) 0.26      (a)
+   MgO      13       (a) 12        (a)
+   CaO       9.1      (a) 8.9       (a)                      Gose W.A., Pearce G.W., Strangway D.W. and Carnes J.
+   Na2O     0.27     (a) 0.28      (a)                          (1972) Magnetism of Apollo 15 samples. In The Apollo
+   K2O       0.02     (a) 0.038    (a)
+                                                     15 Lunar Samples, 415-417.   P2O5
+   S %
+    sum                                                  Lofgren G.E., Donaldson C.H. and Usselman T.M. (1975)
+                                                          Geology, petrology and crystallization of Apollo 15 quartz-
+    Sc ppm   38       (a) 39        (a)
+                                                           normative basalts. Proc. 6th Lunar Sci. Conf. 79-99.   V        223      (a) 194      (a)
+--- chemistry block 2; lines 26-38 ---
+Ge ppb                                                Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+    As                                              1—6-28.
+    Se
+   Rb
+    Sr                                    Ma M.-S., Schmitt R.A., Warner R.D., Taylor G.J. and Keil
+   Y                                                  K. (1978)  Genesis of Apollo 15 olivine normative mare
+     Zr                                                               basalts: Trace element correlations.  Proc. 9th Lunar Sci.
+   Nb
+                                                            Conf. 523-533.   Mo
+   Ru
+   Rh                                                   Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+    Pd ppb                                               Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+    Ag ppb
+--- mineralogy block 3; lines 25-37 ---
+Ga                                        LSPET (1972b) Preliminary examination of lunar samples.
+   Ge ppb                                                Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+    As                                              1—6-28.
+    Se
+   Rb
+    Sr                                    Ma M.-S., Schmitt R.A., Warner R.D., Taylor G.J. and Keil
+   Y                                                  K. (1978)  Genesis of Apollo 15 olivine normative mare
+     Zr                                                               basalts: Trace element correlations.  Proc. 9th Lunar Sci.
+   Nb
+                                                            Conf. 523-533.   Mo
+   Ru
+   Rh                                                   Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+    Pd ppb                                               Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+--- age block 4; lines 11-23 ---
+CaO       9.1      (a) 8.9       (a)                      Gose W.A., Pearce G.W., Strangway D.W. and Carnes J.
+   Na2O     0.27     (a) 0.28      (a)                          (1972) Magnetism of Apollo 15 samples. In The Apollo
+   K2O       0.02     (a) 0.038    (a)
+                                                     15 Lunar Samples, 415-417.   P2O5
+   S %
+    sum                                                  Lofgren G.E., Donaldson C.H. and Usselman T.M. (1975)
+                                                          Geology, petrology and crystallization of Apollo 15 quartz-
+    Sc ppm   38       (a) 39        (a)
+                                                           normative basalts. Proc. 6th Lunar Sci. Conf. 79-99.   V        223      (a) 194      (a)
+    Cr        4358    (a) 4447     (a)
+   Co       55       (a) 54        (a)                    LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+     Ni        100      (a) 75        (a)                             description. Science 175, 363-375.
+   Cu
+--- treatment block 5; lines 31-43 ---
+Y                                                  K. (1978)  Genesis of Apollo 15 olivine normative mare
+     Zr                                                               basalts: Trace element correlations.  Proc. 9th Lunar Sci.
+   Nb
+                                                            Conf. 523-533.   Mo
+   Ru
+   Rh                                                   Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+    Pd ppb                                               Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+    Ag ppb
+                                                                                    4th Lunar Sci. Conf. 3045-3076.   Cd ppb
+     In ppb
+    Sn ppb                                            Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+    Sb ppb                                                  volumes). Curatoial Branch Pub. # 72, JSC#20787
+    Te ppb
+--- references block 6; lines 1-12 ---
+Table 1. Chemical composition of 15634 and 15639.
+             15634     15639
+     reference  Ma78     Ma78
+     weight
+    SiO2 %
+    TiO2       1.5      (a) 1.8       (a)                      References for 15634.
+    Al2O3     9.8      (a) 9.4       (a)                            Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+   FeO       19.9     (a) 21.9      (a)
+                                                                  Office, MSC 03209   MnO      0.25     (a) 0.26      (a)
+   MgO      13       (a) 12        (a)
+   CaO       9.1      (a) 8.9       (a)                      Gose W.A., Pearce G.W., Strangway D.W. and Carnes J.
+   Na2O     0.27     (a) 0.28      (a)                          (1972) Magnetism of Apollo 15 samples. In The Apollo
+--- references block 7; lines 64-73 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm
+   U ppm
+     technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2010

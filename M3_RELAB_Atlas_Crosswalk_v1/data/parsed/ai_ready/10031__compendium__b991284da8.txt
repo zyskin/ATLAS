@@ -1,0 +1,167 @@
+DOCUMENT_ID: 10031__compendium__b991284da8
+ATLAS_SAMPLE_IDS: 10031
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10031.pdf
+SOURCE_PDF_SHA256: 854c02cf4d88f8f231c04b7c861da668a63e2dc5b93ef67f1a811f7a92460e7b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 9-34 ---
+Figure 1: Photo of 10031. Scale 1.8 cm. NASA S76-21144.
+
+
+   Introduction
+   10031 was returned as a “contingency sample”.  It is  Grove and Beaty (1980) were able to reproduce the
+   apparently a quickly cooled (quenched) example of the   texture of 10031 experimentally and determine the
+   high-K ilmenite basalts from Apollo 11.               cooling rate.
+
+     It is 3.6 b.y. old and has had an exposure to cosmic  Mineralogy
+   rays for ~ 300 m.y.                                    Olivine: Olivine is Fo75.
+
+   Petrography                                    Pyroxene: Beaty et al. give the composition of some
+   Beaty et al. (1979) describe 10031 as a “vitrophyre”.  pyroxene grains.
+   Phenocrysts of olivine and armalcolite (with ilmenite
+   overgrowth) are contained in a fine-grained to glassy   Armalcolite: The composition of armalcolite in 10031
+   groundmass.  “10031 contains about 60% crystals   is discussed in Beaty et al.
+   which consist of equant armalcolite mantled by rutile-
+   bearing ilmenite, platey ilmenite (50 x 5 microns) with   Ilmenite: Ilmenite in 10031 forms elongate platy grains
+   feathery edges, pyroxene (to 100 microns) and minute   (figure 2) and also forms overgrowths on armalcolite
+    troilite spheres. These crystals are enclosed in a brown   grains and has exsolution of rutile.
+   glass which contains numerous incipient crystallites
+    of ilmenite and pyroxene.”(from Beaty et al.)
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-8 ---
+10031
+                                   Vitrophyre Basalt
+                                               2.7 grams
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 10031.
+
+                                                                      reference   Beaty 1979
+                                                                   weight
+                                                           SiO2 %
+                                                              TiO2        11.4       (a)
+                                                           Al2O3      8           (a)
+                                                   FeO        20.7       (a)
+                                              MnO        0.225      (a)
+                                              MgO       8           (a)
+                                                CaO        10.6       (a)
+                                                  Na2O       0.503      (a)
+                                                 K2O        0.3         (a)
+                                                   P2O5
+           Figure 2: Texture of 10031 from Beaty et al.       S %
+           1979.                                       sum
+
+                                                         Sc ppm    87         (a)
+                                                  V          65         (a)
+--- age block 2; lines 20-41 ---
+Cr         2370       (a)
+   Chemistry                                      Co        28         (a)                                                                      Ni
+   Lunar sample 10031 has the composition typical of  Cu
+    the high-K suite of Apollo 11 basalts (table 1).         Zn
+                                                 Ga
+                                                  Ge ppb
+   Radiogenic age dating                            As
+                                                      Se
+   Guggisberg et al. (1979) determined the age of 10031                                                    Rb
+   by the Ar/Ar plateau technique (figure 3).                Sr
+                                                  Y
+                                                                      Zr         370        (a)
+   Cosmogenic isotopes and exposure ages         Nb
+   Guggisberg et al. (1979) determined an 37Ar/38Ar  Mo
+                                                    Ru
+    exposure age of 300 m.y. There are 2 thin sections.                                                    Rh
+                                                      Pd ppb
+                                                      Ag ppb
+                                                    Cd ppb
+                                                                               In ppb
+                                                      Sn ppb
+                                                      Sb ppb
+--- age block 3; lines 61-72 ---
+W ppb
+         Figure 3: Argon plateau for 10031 compared        Re ppb
+          with 10029 (from Guggisberg et al . 1979).          Os ppb
+                                                                                                            Ir ppb
+                                                                      Pt ppb
+                                                      Au ppb
+  Summary of Age Data for 10031                  Th ppm     2.8         (a)                                              U ppm
+                             Ar/Ar                                technique:  (a) INAA
+    Guggisberg et al. 1979      3.6 ± 0.08 b.y. (poorly defined)
+
+Lunar Sample Compendium
+C Meyer 2011
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 10031.
+
+                                                                      reference   Beaty 1979
+                                                                   weight
+                                                           SiO2 %
+                                                              TiO2        11.4       (a)
+                                                           Al2O3      8           (a)
+                                                   FeO        20.7       (a)
+                                              MnO        0.225      (a)
+--- references block 5; lines 23-35 ---
+the high-K suite of Apollo 11 basalts (table 1).         Zn
+                                                 Ga
+                                                  Ge ppb
+   Radiogenic age dating                            As
+                                                      Se
+   Guggisberg et al. (1979) determined the age of 10031                                                    Rb
+   by the Ar/Ar plateau technique (figure 3).                Sr
+                                                  Y
+                                                                      Zr         370        (a)
+   Cosmogenic isotopes and exposure ages         Nb
+   Guggisberg et al. (1979) determined an 37Ar/38Ar  Mo
+                                                    Ru
+    exposure age of 300 m.y. There are 2 thin sections.                                                    Rh
+--- references block 6; lines 62-72 ---
+Figure 3: Argon plateau for 10031 compared        Re ppb
+          with 10029 (from Guggisberg et al . 1979).          Os ppb
+                                                                                                            Ir ppb
+                                                                      Pt ppb
+                                                      Au ppb
+  Summary of Age Data for 10031                  Th ppm     2.8         (a)                                              U ppm
+                             Ar/Ar                                technique:  (a) INAA
+    Guggisberg et al. 1979      3.6 ± 0.08 b.y. (poorly defined)
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 13-25 ---
+A., Brown G.M. and Pecket A. (1979) Classification of the
+   Apollo-11 basalts according to Ar39-Ar40 ages and
+    petrological properties. Proc. 10th Lunar Planet. Sci. Conf.
+    1-39.
+
+   James O.B. and Jackson E.D. (1970) Petrology of the Apollo
+   11 ilmenite basalts. J. Geophys. Res. 75, 5793-5824.
+
+   Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo
+   11 Lunar Sample Information Catalogue (revised).
+    Curator’s Office, JSC 12522
+
+   LSPET (1969) Preliminary examination of lunar samples
+--- material block 2; lines 1-10 ---
+References for 10031
+   Beaty D.W., Hill S.M.R., Albee A.L., Ma M.-S., and Schmitt
+   R.A. (1979a) The petrology and chemistry of basaltic
+    fragments from the Apollo 11 soil, part 1. Proc. 10th Lunar
+    Sci. Conf. 41-75.
+
+   Grove T.L. and Beaty D.W. (1980)  Classification,
+    experimental petrology and possible volcanic histories of
+    the Apollo 11 high-K basalts. Proc. 11th Lunar Planet. Sci.
+    Conf. 149-177.
+--- references block 3; lines 1-7 ---
+References for 10031
+   Beaty D.W., Hill S.M.R., Albee A.L., Ma M.-S., and Schmitt
+   R.A. (1979a) The petrology and chemistry of basaltic
+    fragments from the Apollo 11 soil, part 1. Proc. 10th Lunar
+    Sci. Conf. 41-75.
+
+   Grove T.L. and Beaty D.W. (1980)  Classification,

@@ -1,0 +1,150 @@
+DOCUMENT_ID: 10026__compendium__08ae0c5763
+ATLAS_SAMPLE_IDS: 10026,10027,10028
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10026.pdf
+SOURCE_PDF_SHA256: 14f0a85b8aa7f01bb356e0d435ddabc2324ec18b734513a42d9f5b215b137502
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-10 ---
+10026 – 9.3 grams
+                          10027 – 8.9 grams
+                          10028 – 3.5 grams
+                                   Regolith Breccia
+
+
+
+
+
+                Figure 1: Photo of 10026,10. Cube is 1 cm. NASA S75-32596.
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 9-21 ---
+contingency sample from the area immediately in front
+    of the Lunar Module (LM). They are similar to 10023
+   – 10025 from the same collection area, as well as the
+    other Apollo 11 regolith breccias.
+
+   Petrography
+    Engelhardt et al. (1971) give a modal analysis of 10027.
+   There is an abundance of basalt clasts.
+
+   Kramer et al. (1977) noted that 10028 may have a
+    different clast assemblage. Fruland (1983) and Simon
+    et al. (1984) discuss Apollo 11 regolith breccias in
+    general.  Phinney et al. (1974) showed how to
+--- mineralogy block 2; lines 24-41 ---
+Field of view is 1.2 mm. S76-26306.
+   Chemistry
+   none
+
+   Other Studies
+   Funkhouser et al. (1970) determined rare gases in
+   10027 (figure 6).                               Mode for 10027 (Engelhardt et al. 1971)
+                                                                         Matrix          50 %
+   Processing                                                       Without matrix
+                                                                                 Basalt          24 %
+   Apollo 11 samples were originally described and                                                                           Anor.          2
+    cataloged in 1969 and “recataloged” by Kramer et al.             Glass          26
+    (1977). 10026, 10027 and 10028 were returned in the            Mafic min.      24
+    Contingency Sample Bag. There are 2 thin sections of              Plag.           13
+                                                                    Opaques        8    10026, 5 for 10027 and only 1 for 10028.
+--- material block 3; lines 6-39 ---
+Field of view is 1.2 mm. S76-26860
+   Introduction
+    10026, 10027 and 10028 were collected as part of the
+    contingency sample from the area immediately in front
+    of the Lunar Module (LM). They are similar to 10023
+   – 10025 from the same collection area, as well as the
+    other Apollo 11 regolith breccias.
+
+   Petrography
+    Engelhardt et al. (1971) give a modal analysis of 10027.
+   There is an abundance of basalt clasts.
+
+   Kramer et al. (1977) noted that 10028 may have a
+    different clast assemblage. Fruland (1983) and Simon
+    et al. (1984) discuss Apollo 11 regolith breccias in
+    general.  Phinney et al. (1974) showed how to
+    characterize these rocks by SEM petrography (but did
+    not include these samples).                                                                 Figure 5: Photomicrograph of thin section of 10027.
+                                                                     Field of view is 1.2 mm. S76-26306.
+   Chemistry
+   none
+
+   Other Studies
+   Funkhouser et al. (1970) determined rare gases in
+   10027 (figure 6).                               Mode for 10027 (Engelhardt et al. 1971)
+                                                                         Matrix          50 %
+   Processing                                                       Without matrix
+                                                                                 Basalt          24 %
+   Apollo 11 samples were originally described and                                                                           Anor.          2
+    cataloged in 1969 and “recataloged” by Kramer et al.             Glass          26
+    (1977). 10026, 10027 and 10028 were returned in the            Mafic min.      24
+    Contingency Sample Bag. There are 2 thin sections of              Plag.           13
+                                                                    Opaques        8    10026, 5 for 10027 and only 1 for 10028.
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 16-28 ---
+cores                                  Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo
+
+
+                           0                             0          0.05          0.1         0.15          0.2         0.25         0.3         0.35          0.4         0.45          0.5  11 Lunar Sample Information Catalogue (revised).
+                         4He                           Curator’s Office, JSC 12522
+
+            Figure 6: Implanted solar wind in 10027                                                        Lofgren G.E. (1971b)  Devitrified glass fragments from
+           compared with Apollo 11 soils and breccias                                                         Apollo 11 and Apollo 12 lunar samples.  Proc. 2nd Lunar
+            (Funkhouser et al. 1070 and Hintenberger et al.
+                                                                       Sci. Conf. 949-955             1976). Units STP cc/g.
+
+                                             LSPET (1969) Preliminary examination of lunar samples
+                                                      from Apollo 11. Science 165, 1211-1227.
+--- material block 2; lines 1-9 ---
+0.0012
+
+                        0.001                                               Fruland Ruth M. (1983)  Regolith Breccia Workbook.
+                                                      breccias                    Curatorial Branch Publication # 66. JSC 19045.
+
+                       0.0008
+    36Ar                10027
+                       0.0006                                           King E.A. and a cast of thousands (1969) Lunar Sample
+                                                      Information Catalog, Apollo 11.  Lunar Receiving
+--- material block 3; lines 27-52 ---
+LSPET (1969) Preliminary examination of lunar samples
+                                                      from Apollo 11. Science 165, 1211-1227.
+   References for 10026, 10027 and 10028
+   von Engelhardt W., Arndt J., Muller W.F. and Stoffler D.
+                                                        Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+    (1970) Shock metamorphism of lunar rocks and origin of
+                                                           (1976a) Lithification of vitric- and clastic-matrix breccias:
+    the regolith at the Apollo 11 landing site. Proc. Apollo 11
+                                      SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+   Lunar Sci. Conf. 363-384.
+
+                                                  Simon S.B., Papike J.J., Shearer C.K. and Laul J.C. (1983)
+   von Engelhardt W., Arndt J., Muller W.F. and Stoffler D.
+                                                             Petrology of the Apollo 11 highland component. Proc. 14th
+    (1971)  Shock mdtamorphism and origin of regolith and
+                                                      Lunar Planet. Sci. Conf. in J. Geophys. Res. 88, B103-138.
+    breccias at the Apollo 11 and Apollo 12 landing sites. Proc.
+   Second Lunar Sci. Conf. 833-854.
+                                                  Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+                                                               of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+   Funkhauser J.G., Jessberger E., Muller O. and Zahringer J.
+                                                            Conf. in J. Geophys. Res. 89, C109-132.
+    (1971) Active and inert gasses in Apollo 12 and 11 samples
+    released by crushing at room temperature and heating at low
+    temperature. Proc. 2nd Lunar Sci. Conf. 1381-1396.
+--- references block 4; lines 23-35 ---
+compared with Apollo 11 soils and breccias                                                         Apollo 11 and Apollo 12 lunar samples.  Proc. 2nd Lunar
+            (Funkhouser et al. 1070 and Hintenberger et al.
+                                                                       Sci. Conf. 949-955             1976). Units STP cc/g.
+
+                                             LSPET (1969) Preliminary examination of lunar samples
+                                                      from Apollo 11. Science 165, 1211-1227.
+   References for 10026, 10027 and 10028
+   von Engelhardt W., Arndt J., Muller W.F. and Stoffler D.
+                                                        Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+    (1970) Shock metamorphism of lunar rocks and origin of
+                                                           (1976a) Lithification of vitric- and clastic-matrix breccias:
+    the regolith at the Apollo 11 landing site. Proc. Apollo 11
+                                      SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.

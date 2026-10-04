@@ -1,0 +1,289 @@
+DOCUMENT_ID: 70275__compendium__fac9373be0
+ATLAS_SAMPLE_IDS: 70275
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/70275.pdf
+SOURCE_PDF_SHA256: fd2d019a20624158acc63024baaf3fe966b38e867e120f49396323d5ff0922e1
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+70275
+                                     Ilmenite Basalt
+                                           171.4 grams
+--- mineralogy block 2; lines 11-27 ---
+Figure 2: Photo of 70275 B1. S73-16211
+
+   Introduction                                            Mineralogical Mode
+   70275 was collected from the regolith about 300 meters                 Olivine           10.4
+    east of the Apollo 17 ALSEP station.  It is an olivine                Pyroxene        45
+    porphritic basalt with olivine and ilmenite pheonocrysts                  Plagioclase       17.2
+                                                                      Opaques          25.7
+    set in a variolitic matrix of pyroxene and plagioclase                                                                                             Silica             1.7
+    (figure 4a, b).  It has a surface well-rounded on all                 Meostasis
+    sides by micrometeorite erosion (figures 1 and 2).
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-8 ---
+70275
+                                     Ilmenite Basalt
+                                           171.4 grams
+--- material block 4; lines 12-27 ---
+Figure 2: Photo of 70275 B1. S73-16211
+
+   Introduction                                            Mineralogical Mode
+   70275 was collected from the regolith about 300 meters                 Olivine           10.4
+    east of the Apollo 17 ALSEP station.  It is an olivine                Pyroxene        45
+    porphritic basalt with olivine and ilmenite pheonocrysts                  Plagioclase       17.2
+                                                                      Opaques          25.7
+    set in a variolitic matrix of pyroxene and plagioclase                                                                                             Silica             1.7
+    (figure 4a, b).  It has a surface well-rounded on all                 Meostasis
+    sides by micrometeorite erosion (figures 1 and 2).
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 14-26 ---
+phenocrysts in 70275.
+
+   The modal percent olivine given in Neal and Taylor
+   (1993) is wrong.
+
+   Chemistry
+   The chemical composition has been reported by Shih
+    et al. (1975), Rhodes et al. (1976) and Neal (2001).  It
+     is a type B2 basalt (Neal 2001)(figure 6). The REE
+    pattern is intermediate between type A and B (figure
+    7).
+
+   Radiogenic age dating
+--- mineralogy block 2; lines 1-22 ---
+70275 has not been dated, and has not been well-
+    studied.                                    ?
+
+   Petrography
+   Brown et al. (1975) classified 70275 as “type 1a” basalt
+    with early pyroxene being high Ca (figure 3). However,
+    the texture illustrated in their photomicrograph of
+   70275 (figure C) is much finer grained than the
+   photomicrograph of thin section 70275,34 (figure 4).
+                                                                  Figure 3: Pyroxene diagram from Brown et al.
+                                                                       (1975).
+    Bell et al. (1975) reported minute high-Cr inclusions
+   apparently decorating dislocations in the olivine
+    phenocrysts in 70275.
+
+   The modal percent olivine given in Neal and Taylor
+   (1993) is wrong.
+
+   Chemistry
+   The chemical composition has been reported by Shih
+    et al. (1975), Rhodes et al. (1976) and Neal (2001).  It
+     is a type B2 basalt (Neal 2001)(figure 6). The REE
+--- material block 3; lines 1-11 ---
+70275 has not been dated, and has not been well-
+    studied.                                    ?
+
+   Petrography
+   Brown et al. (1975) classified 70275 as “type 1a” basalt
+    with early pyroxene being high Ca (figure 3). However,
+    the texture illustrated in their photomicrograph of
+   70275 (figure C) is much finer grained than the
+   photomicrograph of thin section 70275,34 (figure 4).
+                                                                  Figure 3: Pyroxene diagram from Brown et al.
+                                                                       (1975).
+--- material block 4; lines 16-48 ---
+The modal percent olivine given in Neal and Taylor
+   (1993) is wrong.
+
+   Chemistry
+   The chemical composition has been reported by Shih
+    et al. (1975), Rhodes et al. (1976) and Neal (2001).  It
+     is a type B2 basalt (Neal 2001)(figure 6). The REE
+    pattern is intermediate between type A and B (figure
+    7).
+
+   Radiogenic age dating
+   Apollo 17 mare basalts are generally considered 3.72
+   ± 0.04 b.y. old (see Paces et al. 1991), but 70275 has
+    not been dated. However, Nyquist et al. (1974) reported
+    the Sr isotopic composition for the “whole rock”.
+
+   Cosmogenic isotopes and exposure ages
+   Keith et al. (1974) determined the cosmic ray induced
+    activity of 22Na = 84 dpm/kg., 26Al = 91 dpm/kg., 46Sc
+   = 83 dpm/kg., 48V = 32 dpm/kg., 54Mn = 180 dpm/kg.,
+   and 56Co = 220 dpm/kg.
+
+   Drozd et al. (1977) determined an exposure age of 109
+    m.y.
+
+   Processing
+   70275 was collected with soil from the surface near
+    the SEP station and returned in bag 23E.
+
+   70275 has been broken and not sawn (figure 8). There
+    are 8 thin sections of 70275.
+--- age block 5; lines 1-7 ---
+70275 has not been dated, and has not been well-
+    studied.                                    ?
+
+   Petrography
+   Brown et al. (1975) classified 70275 as “type 1a” basalt
+    with early pyroxene being high Ca (figure 3). However,
+    the texture illustrated in their photomicrograph of
+--- age block 6; lines 20-44 ---
+The chemical composition has been reported by Shih
+    et al. (1975), Rhodes et al. (1976) and Neal (2001).  It
+     is a type B2 basalt (Neal 2001)(figure 6). The REE
+    pattern is intermediate between type A and B (figure
+    7).
+
+   Radiogenic age dating
+   Apollo 17 mare basalts are generally considered 3.72
+   ± 0.04 b.y. old (see Paces et al. 1991), but 70275 has
+    not been dated. However, Nyquist et al. (1974) reported
+    the Sr isotopic composition for the “whole rock”.
+
+   Cosmogenic isotopes and exposure ages
+   Keith et al. (1974) determined the cosmic ray induced
+    activity of 22Na = 84 dpm/kg., 26Al = 91 dpm/kg., 46Sc
+   = 83 dpm/kg., 48V = 32 dpm/kg., 54Mn = 180 dpm/kg.,
+   and 56Co = 220 dpm/kg.
+
+   Drozd et al. (1977) determined an exposure age of 109
+    m.y.
+
+   Processing
+   70275 was collected with soil from the surface near
+    the SEP station and returned in bag 23E.
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-24 ---
+Table 1. Chemical composition of 70275.                     Lunar Basalts
+                                                                                                14
+    reference  Keith74    Rhodes76  Shih75     Neal2001                           70275        A17
+    weight                       Wiesmann76                             12
+   SiO2 %               39.37   (a)                                                             A11
+    TiO2                   11.9    (a)                                                10
+   Al2O3                10.23   (a)
+                                                                                                     8
+   FeO                  18.61   (a)                    TiO2
+   MnO                  0.28    (a)                                                   6
+   MgO                  6.09    (a)
+   CaO                  11.65   (a)                                                   4
+   Na2O                 0.38    (a)                                                                            A12
+   K2O      0.052   (d)  0.06    (a)  0.055   (b)                                  2                        A15
+   P2O5                 0.08    (a)
+   S %                   0.15    (a)                                                   0
+   sum                                                                                            0                5                10                15               20
+                                              MgO
+   Sc ppm                        85      (b) 80       (c )
+   V                                       76       (c )          Figure 5: Composition of 70275 and Apollo basalts.
+    Cr                                       1727    (c )
+   Co                            16      (b) 17       (c )              300
+    Ni                                            1.03     (c )                                Apollo 17 basalts   Cu                                      36       (c )
+   Zn                                      84       (c )              250
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 70275.                     Lunar Basalts
+                                                                                                14
+    reference  Keith74    Rhodes76  Shih75     Neal2001                           70275        A17
+    weight                       Wiesmann76                             12
+   SiO2 %               39.37   (a)                                                             A11
+    TiO2                   11.9    (a)                                                10
+   Al2O3                10.23   (a)
+                                                                                                     8
+   FeO                  18.61   (a)                    TiO2
+--- references block 3; lines 66-75 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm    0.43    (d)                         0.36     (c )
+   U ppm     0.12    (d)              0.14    (b)  0.12     (c )
+    technique  (a) XRF, (b) INAA, (c ) ICP-MS, (d) radiation cout.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 7; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 1-22 ---
+References for 70275                                 Nyquist L.E., Bansal B.M., Wiesmann H. and Jahn B.-M.
+    Bell P.M., Mao H.K., Roedder E. and Weiblen P.W.         (1974a)  Taurus-Littrow chronology: some constraints on
+    (1975) The problem of the origin of symplectites in          early lunar crustal development. Proc. 5th Lunar Sci. Conf.
+    olivine-beating lunar rocks. Proc. 6th Lunar Sci. Conf.      1515-1539.
+   231-248.
+                                                          Nyquist L.E., Bansal B.M. and Wiesmann H. (1975a) Rb-
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and   Sr ages and initial 87Sr/86Sr for Apollo 17 basalts and KREEP
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   basalt 15386. Proc. 6th Lunar Sci. Conf. 1445-1465.
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.
+                                                          Nyquist L.E., Bansal B.M. and Wiesmann H. (1976a) Sr
+    Butler P. (1973) Lunar Sample Information Catalog   isotopic constraints on the petrogenesis of Apollo 17 mare
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211   basalts. Proc. 7th Lunar Sci. Conf. 1507-1528.
+    Curator’s Catalog. pp. 447.
+                                                         Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+   Drozd R.J., Hohenberg C.M., Morgan C.J., Podosek F.A.  Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+   and Wroge M.L. (1977)  Cosmic-ray exposure history at   mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+    Taurus-Littrow. Proc. 8th Lunar Sci. Conf. 3027-3043.     475-540.
+
+   Gibson E.K., Usselman T.M. and Morris R.V. (1976a) Sulfur   Paces J.B., Nakai S., Neal C.R., Taylor L.A., Halliday A.N.
+    in the Apollo 17 basalts and their source regions. Proc. 7th  and Lee D.-C. (1991) A strontium and neodymium isotopic
+   Lunar Sci. Conf. 1491-1505.                               study of Apollo 17 high-Ti mare basalts: Resolution of ages,
+                                                              evolution of magmas, and origin of source heterogeneities.
+--- material block 2; lines 2-14 ---
+Bell P.M., Mao H.K., Roedder E. and Weiblen P.W.         (1974a)  Taurus-Littrow chronology: some constraints on
+    (1975) The problem of the origin of symplectites in          early lunar crustal development. Proc. 5th Lunar Sci. Conf.
+    olivine-beating lunar rocks. Proc. 6th Lunar Sci. Conf.      1515-1539.
+   231-248.
+                                                          Nyquist L.E., Bansal B.M. and Wiesmann H. (1975a) Rb-
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and   Sr ages and initial 87Sr/86Sr for Apollo 17 basalts and KREEP
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   basalt 15386. Proc. 6th Lunar Sci. Conf. 1445-1465.
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.
+                                                          Nyquist L.E., Bansal B.M. and Wiesmann H. (1976a) Sr
+    Butler P. (1973) Lunar Sample Information Catalog   isotopic constraints on the petrogenesis of Apollo 17 mare
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211   basalts. Proc. 7th Lunar Sci. Conf. 1507-1528.
+    Curator’s Catalog. pp. 447.
+                                                         Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+--- age block 3; lines 10-30 ---
+Nyquist L.E., Bansal B.M. and Wiesmann H. (1976a) Sr
+    Butler P. (1973) Lunar Sample Information Catalog   isotopic constraints on the petrogenesis of Apollo 17 mare
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211   basalts. Proc. 7th Lunar Sci. Conf. 1507-1528.
+    Curator’s Catalog. pp. 447.
+                                                         Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+   Drozd R.J., Hohenberg C.M., Morgan C.J., Podosek F.A.  Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+   and Wroge M.L. (1977)  Cosmic-ray exposure history at   mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+    Taurus-Littrow. Proc. 8th Lunar Sci. Conf. 3027-3043.     475-540.
+
+   Gibson E.K., Usselman T.M. and Morris R.V. (1976a) Sulfur   Paces J.B., Nakai S., Neal C.R., Taylor L.A., Halliday A.N.
+    in the Apollo 17 basalts and their source regions. Proc. 7th  and Lee D.-C. (1991) A strontium and neodymium isotopic
+   Lunar Sci. Conf. 1491-1505.                               study of Apollo 17 high-Ti mare basalts: Resolution of ages,
+                                                              evolution of magmas, and origin of source heterogeneities.
+   Keith  J.E., Clark R.S. and Bennett L.J. (1974a)  Geochim. Cosmochim. Acta 55, 2025-2043.
+   Determination of natural and cosmic ray induced
+    radionuclides in Apollo 17 lunar samples. Proc. 5th Lunar  Rhodes J.M., Hubbard N.J., Wiesmann H., Rodgers K.V.,
+    Sci. Conf. 2121-2138.                             Brannon J.C. and Bansal B.M. (1976a) Chemistry,
+                                                                       classification, and petrogenesis of Apollo 17 mare basalts.
+   LSPET (1973)  Apollo 17 lunar samples: Chemical and   Proc. 7th Lunar Sci. Conf. 1467-1489.
+    petrographic description. Science 182, 659-672.
+                                                         Shih C.-Y., Haskin L.A., Wiesmann H., Bansal B.M. and
+--- age block 4; lines 47-59 ---
+Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+    rocks. Vol. 2 Basalts
+
+   Neal C.R., Taylor L.A., Patchen A.D., Hughes S.S. and
+   Schmitt R.A. (1990a)  The significance of fractional
+    crystallization in the petrogenesis of Apollo 17 Type A and
+  B high-Ti basalts. Geochim. Cosmochim. Acta 54, 1817-
+   1833.
+
+
+
+Lunar Sample Compendium
+--- references block 5; lines 1-7 ---
+References for 70275                                 Nyquist L.E., Bansal B.M., Wiesmann H. and Jahn B.-M.
+    Bell P.M., Mao H.K., Roedder E. and Weiblen P.W.         (1974a)  Taurus-Littrow chronology: some constraints on
+    (1975) The problem of the origin of symplectites in          early lunar crustal development. Proc. 5th Lunar Sci. Conf.
+    olivine-beating lunar rocks. Proc. 6th Lunar Sci. Conf.      1515-1539.
+   231-248.
+                                                          Nyquist L.E., Bansal B.M. and Wiesmann H. (1975a) Rb-
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and   Sr ages and initial 87Sr/86Sr for Apollo 17 basalts and KREEP

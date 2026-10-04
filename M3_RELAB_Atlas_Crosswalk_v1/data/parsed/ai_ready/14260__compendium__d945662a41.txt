@@ -1,0 +1,232 @@
+DOCUMENT_ID: 14260__compendium__d945662a41
+ATLAS_SAMPLE_IDS: 14260
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14260.pdf
+SOURCE_PDF_SHA256: 6d591bda454871bf3507dd99aec9bf0955c3c2249b38484f3cbbf2feaaf61bc6
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 16-28 ---
+exercise to collect a comprehensive sample. However,
+     it probably includes rock fragments abraded off of the
+    larger samples in this “weigh bag”. 14259 is the proper
+   comprehensive soil sample from this site.
+
+   Petrography
+   14260 is mature with Is/FeO = 72 and with an average
+   grain size of 117 microns. Finkelman (1973) reported
+   a mineral mode.                                        average grain size = 113 microns
+
+   Kramer and Twedell (1977) cataloged the coarse-fine
+    particles from 14260 and other Apollo 14 soils. Quaide
+   and Wrigley (1972), Snyder et al. (1992) and Lindstrom
+--- mineralogy block 2; lines 18-30 ---
+larger samples in this “weigh bag”. 14259 is the proper
+   comprehensive soil sample from this site.
+
+   Petrography
+   14260 is mature with Is/FeO = 72 and with an average
+   grain size of 117 microns. Finkelman (1973) reported
+   a mineral mode.                                        average grain size = 113 microns
+
+   Kramer and Twedell (1977) cataloged the coarse-fine
+    particles from 14260 and other Apollo 14 soils. Quaide
+   and Wrigley (1972), Snyder et al. (1992) and Lindstrom
+    et al. (1972) analyzed some of the particles.
+--- material block 3; lines 1-42 ---
+14260
+                              Residue from rock bag
+                                       316 grams
+
+
+
+
+
+                          Figure 1: Location of 14260 on traverse map for Apollo 14.
+
+
+   Introduction
+   14260 is sort of a soil sample. It is soil collected along
+   with numerous small rocks collected from the surface
+   – within a circle drawn by the astronauts as part of an
+   exercise to collect a comprehensive sample. However,
+     it probably includes rock fragments abraded off of the
+    larger samples in this “weigh bag”. 14259 is the proper
+   comprehensive soil sample from this site.
+
+   Petrography
+   14260 is mature with Is/FeO = 72 and with an average
+   grain size of 117 microns. Finkelman (1973) reported
+   a mineral mode.                                        average grain size = 113 microns
+
+   Kramer and Twedell (1977) cataloged the coarse-fine
+    particles from 14260 and other Apollo 14 soils. Quaide
+   and Wrigley (1972), Snyder et al. (1992) and Lindstrom
+    et al. (1972) analyzed some of the particles.
+
+   Chemistry
+   14260 is not well analyzed. See the section on 14259
+    for an analysis of the regolith at this location.
+
+   Processing
+   14260 is the residue in weigh bag 1039, which also
+  may have contained 14169 – 14188, 14264 – 14289,
+   14303? etc. See also discussion in Phinney et al. 1975.                                                              Figure 2: Grain size distribution for 14260 (Graf
+                                                              1993, from data by McKay).
+
+Lunar Sample Compendium
+C Meyer 2011
+--- treatment block 4; lines 16-28 ---
+exercise to collect a comprehensive sample. However,
+     it probably includes rock fragments abraded off of the
+    larger samples in this “weigh bag”. 14259 is the proper
+   comprehensive soil sample from this site.
+
+   Petrography
+   14260 is mature with Is/FeO = 72 and with an average
+   grain size of 117 microns. Finkelman (1973) reported
+   a mineral mode.                                        average grain size = 113 microns
+
+   Kramer and Twedell (1977) cataloged the coarse-fine
+    particles from 14260 and other Apollo 14 soils. Quaide
+   and Wrigley (1972), Snyder et al. (1992) and Lindstrom
+
+=== PDF PAGE 2; CATEGORIES: chemistry,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 14260.               Mineralogical Mode
+                                                                         Finkelman 1973
+    reference  Rhodes76                                                        Olivine          5 %
+    weight    nonmagnetic  magnetic                                       Pyroxene        29
+    SiO2 %    47.75        47.11      (b)                                        Plagioclase       15.5
+    TiO2      1.26          1.87       (b)                                        Ilmenite         4
+    Al2O3    19           16.97      (b)                                                                               Glass
+   FeO       8.52          11.08      (b)
+                                                                                     Al-rich         6   MnO      0.21          0.17       (b)
+   MgO       8.8           9.42       (b)                                 Low-Al         32
+   CaO       11.73        10.95      (b)                                      Fe-metal          0.5
+   Na2O      0.8           0.68       (b)                                     Other           5
+   K2O       0.52          0.49       (b)                                      K-rich             2.5
+   P2O5     0.53          0.47       (b)
+   S %       0.06          0.12       (b)
+   sum
+
+    Sc ppm    19.2          22.8       (a)
+   V
+--- mineralogy block 2; lines 1-13 ---
+Table 1. Chemical composition of 14260.               Mineralogical Mode
+                                                                         Finkelman 1973
+    reference  Rhodes76                                                        Olivine          5 %
+    weight    nonmagnetic  magnetic                                       Pyroxene        29
+    SiO2 %    47.75        47.11      (b)                                        Plagioclase       15.5
+    TiO2      1.26          1.87       (b)                                        Ilmenite         4
+    Al2O3    19           16.97      (b)                                                                               Glass
+   FeO       8.52          11.08      (b)
+                                                                                     Al-rich         6   MnO      0.21          0.17       (b)
+   MgO       8.8           9.42       (b)                                 Low-Al         32
+   CaO       11.73        10.95      (b)                                      Fe-metal          0.5
+   Na2O      0.8           0.68       (b)                                     Other           5
+   K2O       0.52          0.49       (b)                                      K-rich             2.5
+--- treatment block 3; lines 1-10 ---
+Table 1. Chemical composition of 14260.               Mineralogical Mode
+                                                                         Finkelman 1973
+    reference  Rhodes76                                                        Olivine          5 %
+    weight    nonmagnetic  magnetic                                       Pyroxene        29
+    SiO2 %    47.75        47.11      (b)                                        Plagioclase       15.5
+    TiO2      1.26          1.87       (b)                                        Ilmenite         4
+    Al2O3    19           16.97      (b)                                                                               Glass
+   FeO       8.52          11.08      (b)
+                                                                                     Al-rich         6   MnO      0.21          0.17       (b)
+   MgO       8.8           9.42       (b)                                 Low-Al         32
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 14260.               Mineralogical Mode
+                                                                         Finkelman 1973
+    reference  Rhodes76                                                        Olivine          5 %
+    weight    nonmagnetic  magnetic                                       Pyroxene        29
+    SiO2 %    47.75        47.11      (b)                                        Plagioclase       15.5
+    TiO2      1.26          1.87       (b)                                        Ilmenite         4
+    Al2O3    19           16.97      (b)                                                                               Glass
+   FeO       8.52          11.08      (b)
+                                                                                     Al-rich         6   MnO      0.21          0.17       (b)
+--- references block 5; lines 60-69 ---
+Os ppb
+       Ir ppb
+    Pt ppb
+   Au ppb
+    Th ppm    13.1          12.1       (a)
+   U ppm
+     technique:  (a) INAA, (b) XRF
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 31-49 ---
+983-995.
+
+    Mitchell J.K., Bromwell L.G., Carrier W.D., Costes N.C.
+   and Scott R.F. (1971) Soil Mechanics Experiment. In Apollo
+    14: Preliminary Science Report NASA SP-272.
+
+   Quaide W. and Wrigley R. (1972) Mineralogy and origin of
+    Fra Mauro fines and breccias. Proc. 3rd Lunar Sci. Conf.
+   771-784.
+
+   Rhodes J.M., Blanchard D.P., Adams J.B., Charette M.B.,
+   Brannon J.C. and Rodgers K.V. (1976c) The chemistry of
+    agglutinate fractions in lunar soils (abs). Lunar Sci. VII,
+   733-734. Lunar Planetary Institute, Houston.
+
+   Snyder G.A., Taylor L.A., Liu Y.-G. and Schmit R.A. (1992a)
+    Petrogenesis of the western highlands of the Moon: Evidence
+   from a diverse group of whitlockite-rich rocks from the Fra
+--- material block 2; lines 1-16 ---
+References for 14260                          Mauro formation. Proc. 22nd Lunar Planet. Sci. 399-416.
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock  Lunar Planetary Institute, Houston.
+   Samples. Curators Office. JSC 14240
+                                                Swann G.A., Trask N.J., Hait M.H. and Sutton R.L. (1971a)
+   Chao E.C.T., Best J.B. and Minkin J.A. (1972b) Apollo 14   Geologic setting of the Apollo 14 samples.  Science 173,
+    glasses of impact origin and their parent rock types. Proc.   716-719.
+     3rd Lunar Sci. Conf. 907-925.
+                                                Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+   Finkelman R.B. (1973) Analysis of the ultrafine fraction of   M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+    the Apollo 14 regolith. Proc. 4th Lunar Sci. Conf. 179-189.   Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+                                                     Geology of the Apollo 14 landing site in the Fra Mauro
+   Kramer F.E. and Twedell D.B. (1977)  Apollo 14 coarse   Highlands. U.S.G.S. Prof. Paper 880.
+    fines (4-10 mm) sample location and classification. JSC
+   12922                                         Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+                                                         M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,
+   Lindstrom M.M., Duncan A.R., Fruchter J.S., McKay S.M.,   Schaber G.G., Schafer J.P., Shepard A.B., Sutton R.L., Trask
+--- material block 3; lines 28-40 ---
+McKay D.S., Heiken G.H., Taylor R.M., Clanton U.S.,
+   Morrison D.A. and Ladle G.H. (1972) Apollo 14 soils: Size
+    distribution and particle types. Proc. 3rd Lunar Sci. Conf.
+   983-995.
+
+    Mitchell J.K., Bromwell L.G., Carrier W.D., Costes N.C.
+   and Scott R.F. (1971) Soil Mechanics Experiment. In Apollo
+    14: Preliminary Science Report NASA SP-272.
+
+   Quaide W. and Wrigley R. (1972) Mineralogy and origin of
+    Fra Mauro fines and breccias. Proc. 3rd Lunar Sci. Conf.
+   771-784.
+--- treatment block 4; lines 3-15 ---
+Samples. Curators Office. JSC 14240
+                                                Swann G.A., Trask N.J., Hait M.H. and Sutton R.L. (1971a)
+   Chao E.C.T., Best J.B. and Minkin J.A. (1972b) Apollo 14   Geologic setting of the Apollo 14 samples.  Science 173,
+    glasses of impact origin and their parent rock types. Proc.   716-719.
+     3rd Lunar Sci. Conf. 907-925.
+                                                Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+   Finkelman R.B. (1973) Analysis of the ultrafine fraction of   M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+    the Apollo 14 regolith. Proc. 4th Lunar Sci. Conf. 179-189.   Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+                                                     Geology of the Apollo 14 landing site in the Fra Mauro
+   Kramer F.E. and Twedell D.B. (1977)  Apollo 14 coarse   Highlands. U.S.G.S. Prof. Paper 880.
+    fines (4-10 mm) sample location and classification. JSC
+   12922                                         Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+                                                         M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,
+--- references block 5; lines 1-7 ---
+References for 14260                          Mauro formation. Proc. 22nd Lunar Planet. Sci. 399-416.
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock  Lunar Planetary Institute, Houston.
+   Samples. Curators Office. JSC 14240
+                                                Swann G.A., Trask N.J., Hait M.H. and Sutton R.L. (1971a)
+   Chao E.C.T., Best J.B. and Minkin J.A. (1972b) Apollo 14   Geologic setting of the Apollo 14 samples.  Science 173,
+    glasses of impact origin and their parent rock types. Proc.   716-719.
+     3rd Lunar Sci. Conf. 907-925.

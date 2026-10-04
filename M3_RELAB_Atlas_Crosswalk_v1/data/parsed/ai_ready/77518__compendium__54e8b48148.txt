@@ -1,0 +1,158 @@
+DOCUMENT_ID: 77518__compendium__54e8b48148
+ATLAS_SAMPLE_IDS: 77518,77519
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/77518.pdf
+SOURCE_PDF_SHA256: 430c3346943be7541d72dd9b3a400fa716f4464a31e5503422736bc553917a8a
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 9-42 ---
+Figure 2: Photo of 77519. Scale in cm/mm. S73-
+                                                               31340.
+
+
+
+        Figure 1: Photo of 77518. Sample is about 1 inch.
+        S73-31343                               Mineralogy
+                                                         Olivine: Olivine in 77518 has a rather wide range of
+                                                     composition (figure ).
+          Mineralogical Mode for 77518
+            Matrix          85 %                        Pyroxene: Warner et al. (1978) determined pyroxene
+            Pyroxene clasts   5                          and olivine composition (figure ).
+              Plagioclase clasts  7.5
+              Lithic clast       3
+                                                         Plagioclase: An80-98
+
+                                                         Spinel: Warner et al. (1978) report that pink spinel   Introduction
+                                                            grains in 77518 are surrounded by “plagioclase reaction   77518 and 77519 were collected along with 77515 and
+                                                        coronas”.   77511 soil – see section on 77531. They are probably
+   impact melt breccias similar to 77515. Together this
+                                            Chemistry   bunch of impact melts needs more study.
+                                            None
+   Petrography
+                                              Radiogenic age dating   According to Warner et al. (1987), 77518 is similar to
+                                            None   77549, but finer grained. The texture is microgranular-
+   micropoikilitic with numerous xenoliths of calcic
+                                                 Processing    plagioclase. A portion of the sample has K-rich, silca-
+                                                   These samples were returned in the same bag as 77510.    rich glass for matrix. One large olivine clast contains
+                                                   There are 2 thin sections of 77518, but none for 77519.    symplectite.
+
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 2; lines 1-9 ---
+77518 – 42.5 grams
+                         77519 – 27.4 grams
+                               Impact Melt Breccia
+
+
+
+
+
+                                                                Figure 2: Photo of 77519. Scale in cm/mm. S73-
+--- material block 3; lines 13-42 ---
+Figure 1: Photo of 77518. Sample is about 1 inch.
+        S73-31343                               Mineralogy
+                                                         Olivine: Olivine in 77518 has a rather wide range of
+                                                     composition (figure ).
+          Mineralogical Mode for 77518
+            Matrix          85 %                        Pyroxene: Warner et al. (1978) determined pyroxene
+            Pyroxene clasts   5                          and olivine composition (figure ).
+              Plagioclase clasts  7.5
+              Lithic clast       3
+                                                         Plagioclase: An80-98
+
+                                                         Spinel: Warner et al. (1978) report that pink spinel   Introduction
+                                                            grains in 77518 are surrounded by “plagioclase reaction   77518 and 77519 were collected along with 77515 and
+                                                        coronas”.   77511 soil – see section on 77531. They are probably
+   impact melt breccias similar to 77515. Together this
+                                            Chemistry   bunch of impact melts needs more study.
+                                            None
+   Petrography
+                                              Radiogenic age dating   According to Warner et al. (1987), 77518 is similar to
+                                            None   77549, but finer grained. The texture is microgranular-
+   micropoikilitic with numerous xenoliths of calcic
+                                                 Processing    plagioclase. A portion of the sample has K-rich, silca-
+                                                   These samples were returned in the same bag as 77510.    rich glass for matrix. One large olivine clast contains
+                                                   There are 2 thin sections of 77518, but none for 77519.    symplectite.
+
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- age block 4; lines 26-38 ---
+grains in 77518 are surrounded by “plagioclase reaction   77518 and 77519 were collected along with 77515 and
+                                                        coronas”.   77511 soil – see section on 77531. They are probably
+   impact melt breccias similar to 77515. Together this
+                                            Chemistry   bunch of impact melts needs more study.
+                                            None
+   Petrography
+                                              Radiogenic age dating   According to Warner et al. (1987), 77518 is similar to
+                                            None   77549, but finer grained. The texture is microgranular-
+   micropoikilitic with numerous xenoliths of calcic
+                                                 Processing    plagioclase. A portion of the sample has K-rich, silca-
+                                                   These samples were returned in the same bag as 77510.    rich glass for matrix. One large olivine clast contains
+                                                   There are 2 thin sections of 77518, but none for 77519.    symplectite.
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 9-40 ---
+Fo                                        Fa
+
+                                         compiled by C Meyer
+
+
+                            Figure 4: Pyorxene and olivine composition of
+                          77518 (Warner et al. 1979).
+
+
+   References for 77518
+                                                        Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,    Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                               Scott D.H., Sutton R.L and Wilshire H.G. (1981) The    17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+                                                              geologic investigation of the Taurus-Littrow Valley: Apollo    Catalog. pp. 447.
+                                                      17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+                                                             280.   Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+    Curator’s Office JSC 26088 pp. 644
+
+   Warner R.D., Warren R.G., Mansker W.L., Berkley J.L. and
+    Keil K. (1976a) Electron microprobe analyses of olivine,
+   pyroxene and plagioclase from Apollo 17 rake sample mare
+    basalts.  Spec. Publ. # 15, UNM Institute of Meteoritics,
+   Albuquerque. 158 pp.
+
+   Warner R.D., Berkley J.L., Mansker W.L., Warren R.G. and
+    Keil K. (1976b)  Electron microprobe analyses of spinel,
+    Fe-Ti oxides and metal from Apollo 17 rake sample mare
+    basalts.  Spec. Publ. #16, UNM Institute of Meteoritics,
+   Albuquerque. 114 pp.
+--- material block 2; lines 23-41 ---
+17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+                                                             280.   Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+    Curator’s Office JSC 26088 pp. 644
+
+   Warner R.D., Warren R.G., Mansker W.L., Berkley J.L. and
+    Keil K. (1976a) Electron microprobe analyses of olivine,
+   pyroxene and plagioclase from Apollo 17 rake sample mare
+    basalts.  Spec. Publ. # 15, UNM Institute of Meteoritics,
+   Albuquerque. 158 pp.
+
+   Warner R.D., Berkley J.L., Mansker W.L., Warren R.G. and
+    Keil K. (1976b)  Electron microprobe analyses of spinel,
+    Fe-Ti oxides and metal from Apollo 17 rake sample mare
+    basalts.  Spec. Publ. #16, UNM Institute of Meteoritics,
+   Albuquerque. 114 pp.
+
+
+
+                 77518               77519
+--- references block 3; lines 13-25 ---
+Figure 4: Pyorxene and olivine composition of
+                          77518 (Warner et al. 1979).
+
+
+   References for 77518
+                                                        Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,    Butler P. (1973) Lunar Sample Information Catalog Apollo
+                                                               Scott D.H., Sutton R.L and Wilshire H.G. (1981) The    17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+                                                              geologic investigation of the Taurus-Littrow Valley: Apollo    Catalog. pp. 447.
+                                                      17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+                                                             280.   Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+    Curator’s Office JSC 26088 pp. 644

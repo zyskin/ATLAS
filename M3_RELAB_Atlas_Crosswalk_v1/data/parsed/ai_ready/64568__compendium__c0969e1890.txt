@@ -1,0 +1,255 @@
+DOCUMENT_ID: 64568__compendium__c0969e1890
+ATLAS_SAMPLE_IDS: 64568
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64568.pdf
+SOURCE_PDF_SHA256: 8162f728d947ce1dab408411fdc72ac86253d40bb2368b6d472ad43659b88f2f
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 22-34 ---
+Petrography
+ Simonds et al. (1973) classified 64568 as a poikilitic
+ rock and gave pyroxene data (figure 4). This sample
+ should be compared with 64567, 64569 and 62235.
+
+ Composition
+ McKinley et al. (1984) give the chemical composition
+ of 64568. The sample seems to have high K. Trace
+ elements have not been reported.
+
+ Crystallization Age
+ Norman et al. (2006) determined the age of 64568 by
+ Ar/Ar to be 3.867 ± 0.09 b.y. (figure 5).                                                             Figure 2: Photomicrographs of thin section 64568,4
+--- mineralogy block 2; lines 10-30 ---
+across. S72-55370.
+
+
+ Introduction
+ 64568 is a rake sample from the bottom slope of Stone
+ Mountain - see section on 64501.  It has a poikilitic
+ texture with a network of pyroxene phenocrysts
+ surrounding small laths of plagioclase (figures 2 and
+  3). It was from the surface of the regolith, as illustrated
+ by the zap pits (figure 1).  It has been dated at ~ 3.87
+  b.y.
+
+ Petrography
+ Simonds et al. (1973) classified 64568 as a poikilitic
+ rock and gave pyroxene data (figure 4). This sample
+ should be compared with 64567, 64569 and 62235.
+
+ Composition
+ McKinley et al. (1984) give the chemical composition
+ of 64568. The sample seems to have high K. Trace
+ elements have not been reported.
+--- material block 3; lines 1-30 ---
+64568
+                                Poikilitic Impact Melt Breccia
+                                           9.38 grams
+
+
+
+
+
+                      Figure 1: Photo of 64568 showing numerous zap pits. Sample is about 3 cm
+                         across. S72-55370.
+
+
+ Introduction
+ 64568 is a rake sample from the bottom slope of Stone
+ Mountain - see section on 64501.  It has a poikilitic
+ texture with a network of pyroxene phenocrysts
+ surrounding small laths of plagioclase (figures 2 and
+  3). It was from the surface of the regolith, as illustrated
+ by the zap pits (figure 1).  It has been dated at ~ 3.87
+  b.y.
+
+ Petrography
+ Simonds et al. (1973) classified 64568 as a poikilitic
+ rock and gave pyroxene data (figure 4). This sample
+ should be compared with 64567, 64569 and 62235.
+
+ Composition
+ McKinley et al. (1984) give the chemical composition
+ of 64568. The sample seems to have high K. Trace
+ elements have not been reported.
+--- age block 4; lines 13-38 ---
+Introduction
+ 64568 is a rake sample from the bottom slope of Stone
+ Mountain - see section on 64501.  It has a poikilitic
+ texture with a network of pyroxene phenocrysts
+ surrounding small laths of plagioclase (figures 2 and
+  3). It was from the surface of the regolith, as illustrated
+ by the zap pits (figure 1).  It has been dated at ~ 3.87
+  b.y.
+
+ Petrography
+ Simonds et al. (1973) classified 64568 as a poikilitic
+ rock and gave pyroxene data (figure 4). This sample
+ should be compared with 64567, 64569 and 62235.
+
+ Composition
+ McKinley et al. (1984) give the chemical composition
+ of 64568. The sample seems to have high K. Trace
+ elements have not been reported.
+
+ Crystallization Age
+ Norman et al. (2006) determined the age of 64568 by
+ Ar/Ar to be 3.867 ± 0.09 b.y. (figure 5).                                                             Figure 2: Photomicrographs of thin section 64568,4
+                                                          by C Meyer @ 50x.
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 64568.                           64568                                                                      Di                   Hd
+                                                                                           Simonds et
+  reference McKinley83                                                                                              al. 1973
+  weight
+ SiO2 %   47.84     (a)
+  TiO2      0.63       (a)
+ Al2O3    22.88     (a)
+ FeO      4.99       (a)
+ MnO      0.09       (a)
+ MgO      9.15       (a)
+ CaO      13.2       (a)
+ Na2O     0.49       (a)                            En                                          Fs
+ K2O      0.35       (a)
+ P2O5                                           Fo                                        Fa
+ S %                                                                                         compiled by C Meyer
+ sum
+  (a) broad beam e probe                                          Figure 4: Olivine and pyroxene composition for
+                                                        64568 (Simonds et al. 1974).
+ Other properties
+--- mineralogy block 2; lines 11-23 ---
+CaO      13.2       (a)
+ Na2O     0.49       (a)                            En                                          Fs
+ K2O      0.35       (a)
+ P2O5                                           Fo                                        Fa
+ S %                                                                                         compiled by C Meyer
+ sum
+  (a) broad beam e probe                                          Figure 4: Olivine and pyroxene composition for
+                                                        64568 (Simonds et al. 1974).
+ Other properties
+ Pearce and Simonds (1974) determined the ratio of Fe
+ metal to Fe silicate by magnetic measurements.
+
+ Processing
+--- age block 3; lines 24-36 ---
+There is only one small thin section of 74568.
+
+
+
+
+
+                                                                Figure 5: Ar/Ar plateau age for 64568 (Norman et
+                                                                                    al. 2006).
+--- treatment block 4; lines 15-27 ---
+S %                                                                                         compiled by C Meyer
+ sum
+  (a) broad beam e probe                                          Figure 4: Olivine and pyroxene composition for
+                                                        64568 (Simonds et al. 1974).
+ Other properties
+ Pearce and Simonds (1974) determined the ratio of Fe
+ metal to Fe silicate by magnetic measurements.
+
+ Processing
+ There is only one small thin section of 74568.
+--- references block 5; lines 1-9 ---
+Table 1. Chemical composition of 64568.                           64568                                                                      Di                   Hd
+                                                                                           Simonds et
+  reference McKinley83                                                                                              al. 1973
+  weight
+ SiO2 %   47.84     (a)
+  TiO2      0.63       (a)
+ Al2O3    22.88     (a)
+ FeO      4.99       (a)
+ MnO      0.09       (a)
+
+=== PDF PAGE 4; CATEGORIES: material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 35-47 ---
+Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+  impact events within the lunar catalysm from 40Ar-39Ar ages
+  and compositions of Apollo 16 impact melt rocks. Geochim.
+  Cosmochim. Acta 70, 6032-6049.
+
+   Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+   of Apollo 16 samples and implications for their mode of
+   formation. J. Geophys. Res. 79, 2953-2959.
+
+  Phinney W. and Lofgren G. (1973) Description, classification
+  and inventory of Apollo 16 rake samples from stations 1, 4
+  and 13.  Curators Office. JSC
+--- material block 2; lines 1-23 ---
+C Meyer      64568                             Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+         2010         9.38 g                                 J. and Rehfeldt A. (1981) Distribution and provenance of
+                                                               lunar highland rock types at North Ray Crater, Apollo 16.
+                                                            Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+      ,0          ,1     ,5       ,7
+     8.25 g  PB   0.6 g   0.2 g                           Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                                                              A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                       ,4                               Reimold W.U., Wacker K. and Wanke H.  (1985)
+               TS                                    Composition and evolution of the lunar crust in the Descartes
+                                                                highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+  References for 64568                                Res. 90, C449-C506.
+   Butler P. (1972) Lunar Sample Information Catalog Apollo
+                                                           Sutton R.L. (1981) Documentation of Apollo 16 samples.   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                              In Geology of the Apollo 16 area, central lunar highlands.   Catalog. pp. 370.
+                                                              (Ulrich et al.) U.S.G.S. Prof. Paper 1048.
+  Korotev R.L. (1996c) On the relationship between the
+                                                    Warner J.L., Simonds C.H. and Phinney W.C. (1973b)  Apollo 16 ancient regolith breccias and feldspathic
+                                                       Apollo 16 rocks: Classification and petrogenetic model.   fragmental breccias, and the composition of the prebasin
+                                                            Proc. 4th Lunar Sci. Conf. 481-504.   crust in the Central Highlands of the Moon.  Meteor. &
+   Planet. Sci. 31, 403-412.
+
+  LSPET (1973) The Apollo 16 lunar samples: Petrographic
+  and chemical description. Science 179, 23-34.
+--- material block 3; lines 31-51 ---
+the Cayley Plains and Descartes Mountains, and geologic
+   history. Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys.
+   Res. 89, B513-B524.
+
+  Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+  impact events within the lunar catalysm from 40Ar-39Ar ages
+  and compositions of Apollo 16 impact melt rocks. Geochim.
+  Cosmochim. Acta 70, 6032-6049.
+
+   Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+   of Apollo 16 samples and implications for their mode of
+   formation. J. Geophys. Res. 79, 2953-2959.
+
+  Phinney W. and Lofgren G. (1973) Description, classification
+  and inventory of Apollo 16 rake samples from stations 1, 4
+  and 13.  Curators Office. JSC
+
+  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+  Simonds C.H., Warner J.L. and Phinney W.C. (1973)
+--- treatment block 4; lines 34-46 ---
+Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+  impact events within the lunar catalysm from 40Ar-39Ar ages
+  and compositions of Apollo 16 impact melt rocks. Geochim.
+  Cosmochim. Acta 70, 6032-6049.
+
+   Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+   of Apollo 16 samples and implications for their mode of
+   formation. J. Geophys. Res. 79, 2953-2959.
+
+  Phinney W. and Lofgren G. (1973) Description, classification
+  and inventory of Apollo 16 rake samples from stations 1, 4
+  and 13.  Curators Office. JSC
+--- references block 5; lines 5-17 ---
+,0          ,1     ,5       ,7
+     8.25 g  PB   0.6 g   0.2 g                           Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                                                              A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                       ,4                               Reimold W.U., Wacker K. and Wanke H.  (1985)
+               TS                                    Composition and evolution of the lunar crust in the Descartes
+                                                                highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+  References for 64568                                Res. 90, C449-C506.
+   Butler P. (1972) Lunar Sample Information Catalog Apollo
+                                                           Sutton R.L. (1981) Documentation of Apollo 16 samples.   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                              In Geology of the Apollo 16 area, central lunar highlands.   Catalog. pp. 370.
+                                                              (Ulrich et al.) U.S.G.S. Prof. Paper 1048.
+  Korotev R.L. (1996c) On the relationship between the
+                                                    Warner J.L., Simonds C.H. and Phinney W.C. (1973b)  Apollo 16 ancient regolith breccias and feldspathic

@@ -1,0 +1,295 @@
+DOCUMENT_ID: 68121__compendium__6f3c9e4d9f
+ATLAS_SAMPLE_IDS: 68121
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/68121.pdf
+SOURCE_PDF_SHA256: 4aaf29c49dc1a56973a1d2e578f3175e39659b3c59333794a9e41842595b4d30
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+68121
+                                          Soil
+                                      259 grams
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 2-24 ---
+180
+         20                      Apollo soils                  160                           68121 (Moore)
+
+                                                                                                       140
+         15                                                                                        120                          68121 (Kerridge)
+                                       C FeO                                                                                           100                                           ppm
+         10                                                                                         80
+
+                                                                                                        60
+                                                  68121
+           5                                                                                         40
+
+                                                                                                        20                              Lunar Soils
+           0                                                                                                    0
+             0       5       10      15      20      25      30      35                   0          20          40          60          80         100         120
+                    Al2O3                                               maturity (Is/FeO)
+
+                                                              Figure 5: Carbon content and maturity index for         Figure 4: Composition of 68121 compared with
+                                                        68121 compared with other soil samples.         Apollo soil samples.
+--- chemistry block 2; lines 27-44 ---
+Crater. Soil sample 68120-68124 was collected from
+  a “fillet” beside a large boulder (figure 1), directly
+  beneath a “spall zone” on the side of the boulder (Horz
+   et al. 1972). A double drive tube was collected nearby.
+
+  Petrography
+  The maturity index of 68121 is Is/FeO = 61 (Morris
+  1978). The mineral mode, agglutinate count and grain
+  size distribution have not been determined for this soil.
+                                                              Figure 6: Normalized rare-earth-element diagram
+  Chemistry                                                       for 68121.
+  Compston et al. (1973) determined the major element
+  content (figure 4), while Fruchter et al. (1974)
+  determined the race element content (figure 6).
+
+  Moore et al. (1973) determined 170 ppm carbon for
+  68121 (figure 5).  Kerridge et al. (1975) determined
+  126 ppm carbon and 83 ppm nitrogen, and Moore and
+--- mineralogy block 3; lines 28-40 ---
+a “fillet” beside a large boulder (figure 1), directly
+  beneath a “spall zone” on the side of the boulder (Horz
+   et al. 1972). A double drive tube was collected nearby.
+
+  Petrography
+  The maturity index of 68121 is Is/FeO = 61 (Morris
+  1978). The mineral mode, agglutinate count and grain
+  size distribution have not been determined for this soil.
+                                                              Figure 6: Normalized rare-earth-element diagram
+  Chemistry                                                       for 68121.
+  Compston et al. (1973) determined the major element
+  content (figure 4), while Fruchter et al. (1974)
+  determined the race element content (figure 6).
+--- material block 4; lines 15-41 ---
+20                              Lunar Soils
+           0                                                                                                    0
+             0       5       10      15      20      25      30      35                   0          20          40          60          80         100         120
+                    Al2O3                                               maturity (Is/FeO)
+
+                                                              Figure 5: Carbon content and maturity index for         Figure 4: Composition of 68121 compared with
+                                                        68121 compared with other soil samples.         Apollo soil samples.
+
+
+
+  Introduction
+  Station 8 was supposed to be on a ray from South Ray
+  Crater. Soil sample 68120-68124 was collected from
+  a “fillet” beside a large boulder (figure 1), directly
+  beneath a “spall zone” on the side of the boulder (Horz
+   et al. 1972). A double drive tube was collected nearby.
+
+  Petrography
+  The maturity index of 68121 is Is/FeO = 61 (Morris
+  1978). The mineral mode, agglutinate count and grain
+  size distribution have not been determined for this soil.
+                                                              Figure 6: Normalized rare-earth-element diagram
+  Chemistry                                                       for 68121.
+  Compston et al. (1973) determined the major element
+  content (figure 4), while Fruchter et al. (1974)
+  determined the race element content (figure 6).
+--- age block 5; lines 47-59 ---
+Cirlin and Housley (1981) determined 54 - 80 ppb Cd
+  and 22.3 ppm Zn.
+
+  Other Studies
+  Bhandari et al. (1973) determined the “suntan”
+  exposure age of 68121 by measurement of the density
+  of fossil nuclear tracks.
+--- treatment block 6; lines 12-39 ---
+68121
+           5                                                                                         40
+
+                                                                                                        20                              Lunar Soils
+           0                                                                                                    0
+             0       5       10      15      20      25      30      35                   0          20          40          60          80         100         120
+                    Al2O3                                               maturity (Is/FeO)
+
+                                                              Figure 5: Carbon content and maturity index for         Figure 4: Composition of 68121 compared with
+                                                        68121 compared with other soil samples.         Apollo soil samples.
+
+
+
+  Introduction
+  Station 8 was supposed to be on a ray from South Ray
+  Crater. Soil sample 68120-68124 was collected from
+  a “fillet” beside a large boulder (figure 1), directly
+  beneath a “spall zone” on the side of the boulder (Horz
+   et al. 1972). A double drive tube was collected nearby.
+
+  Petrography
+  The maturity index of 68121 is Is/FeO = 61 (Morris
+  1978). The mineral mode, agglutinate count and grain
+  size distribution have not been determined for this soil.
+                                                              Figure 6: Normalized rare-earth-element diagram
+  Chemistry                                                       for 68121.
+  Compston et al. (1973) determined the major element
+  content (figure 4), while Fruchter et al. (1974)
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 68121.
+                                            ave st. 8
+  reference  Compston73  Fruchter74           Korotev81
+  weight
+  SiO2 %    44.93     (a)                       45.1
+  TiO2       0.58       (a)                       0.56
+  Al2O3     26.43     (a)                       26.6
+ FeO       5.67       (a) 5.15    (c )           5.35
+ MnO       0.08       (a)                       0.07
+ MgO       6.04       (a)                        6.3
+ CaO       15.5       (a)                       15.3
+ Na2O      0.47       (a) 0.47    (c )           0.46
+ K2O       0.12       (a)                       0.121
+  P2O5      0.14       (a)
+ S %       0.08       (a)
+  sum
+
+  Sc ppm                  9.8     (c )            9.6
+ V                                       14
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 68121.
+                                            ave st. 8
+  reference  Compston73  Fruchter74           Korotev81
+  weight
+  SiO2 %    44.93     (a)                       45.1
+  TiO2       0.58       (a)                       0.56
+  Al2O3     26.43     (a)                       26.6
+ FeO       5.67       (a) 5.15    (c )           5.35
+ MnO       0.08       (a)                       0.07
+--- references block 3; lines 64-73 ---
+Os ppb
+   Ir ppb
+  Pt ppb
+  Au ppb
+  Th ppm                  2.5     (c )            2.4
+ U ppm                                        0.62
+  technique:  (a) XRF, (b) IDMS, (c ) INAA
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 23-54 ---
+Cirlin E.H. and Housley R.M. (1981)  Distribution and   Catalog.
+  evolution of Zn, Cd, and Pb in Apollo 16 regolith samples
+  and the average U-Pb ages of the parent rocks. Proc. 12th  Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+  Lunar Planet. Sci. Conf. 529-540.                        carbon contents of Apollo 15 and 16 lunar samples. Proc.
+                                                                                  4th Lunar Sci. Conf. 1613-1923.
+  Compston W., Vernon M.J., Chappell B.W. and Freeman R.
+  (1973) Rb-Sr model ages and chemical composition of nine  Moore C.B. and Lewis C.F. (1975) Total nitrogen contents
+  Apollo 16 soils (abs). Lunar Sci. IV, 158.                   of Apollo 15, 16 and 17 lunar fines samples. Lunar Sci. VI,
+                                                         569-571.
+  Fruchter J.S., Kriedelbaugh S.J., Robyn M.A. and Goles G.G.
+  (1974)  Breccia 66055 and related clastic materials from   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  the Decartes region, Apollo 16. Proc. 5th Lunar Sci. Conf.  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  1035-1046.                                                  Office, Houston
+
+  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Pub. 1265                                                          soils: Some concepts and Is/FeO compilation.  Proc. 9th
+                                                     Lunar Sci. Conf. 2287-2297.
+  Heiken G.H., McKay D.S. and Fruland R.M. (1973b) Apollo
+  16 soils – grain size analysis and petrography.  Proc. 4th   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Lunar Sci. Conf. 251-266.                                      regolith. Rev. Geophys. Space Phys. 20, 761-826.
+
+  Kerridge J.F., Kaplan I.R., Petrowski C. and Chang S. (1975)   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+  Light element geochemistry of Apollo 16 rocks and soils.   In Geology of the Apollo 16 area, central lunar highlands.
+  Geochim. Cosmochim. Acta 39, 137-162.                    (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+  Horz F., Carrier W.D., Young J.W., Duke C.M., Nagle J.S.  Woodcock M.R. and Pillinger C.T. (1978) Major element
+  and Fryxell R. (1972) Apollo 16 special soils. In Apollo   chemistry of agglutinate size fractions.  Proc. 9th Lunar
+  16 Preliminary Science Report NASA SP315 section 7 -   Planet. Sci. Conf. 2195-2214.
+  25-54.
+--- mineralogy block 2; lines 43-55 ---
+Kerridge J.F., Kaplan I.R., Petrowski C. and Chang S. (1975)   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+  Light element geochemistry of Apollo 16 rocks and soils.   In Geology of the Apollo 16 area, central lunar highlands.
+  Geochim. Cosmochim. Acta 39, 137-162.                    (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+  Horz F., Carrier W.D., Young J.W., Duke C.M., Nagle J.S.  Woodcock M.R. and Pillinger C.T. (1978) Major element
+  and Fryxell R. (1972) Apollo 16 special soils. In Apollo   chemistry of agglutinate size fractions.  Proc. 9th Lunar
+  16 Preliminary Science Report NASA SP315 section 7 -   Planet. Sci. Conf. 2195-2214.
+  25-54.
+--- material block 3; lines 10-48 ---
+,0        ,1       ,18   ,19
+                 23.5 g  100 g   1 g  1 g
+
+
+  References for 68121.                       LSPET (1973) The Apollo 16 lunar samples: Petrographic
+  Bhandari N., Goswami J. and Lal D. (1973)  Surface  and chemical description. Science 179, 23-34.
+   irradiation and evolution of the lunar regolith.  Proc. 4th
+  Lunar Sci. Conf. 2275-2290.                      LSPET (1972) Preliminary examination of lunar samples.
+                                                       Apollo 16 Preliminary Science Report. NASA SP-315, 7-
+  Butler P. (1972) Lunar Sample Information Catalog Apollo  1—7-58.
+  16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+  Catalog. pp. 370.                                    Marvin U.B. (1972)  Apollo 16 coarse fines (4-10 mm):
+                                                  Sample classification, description and inventory. JSC
+   Cirlin E.H. and Housley R.M. (1981)  Distribution and   Catalog.
+  evolution of Zn, Cd, and Pb in Apollo 16 regolith samples
+  and the average U-Pb ages of the parent rocks. Proc. 12th  Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+  Lunar Planet. Sci. Conf. 529-540.                        carbon contents of Apollo 15 and 16 lunar samples. Proc.
+                                                                                  4th Lunar Sci. Conf. 1613-1923.
+  Compston W., Vernon M.J., Chappell B.W. and Freeman R.
+  (1973) Rb-Sr model ages and chemical composition of nine  Moore C.B. and Lewis C.F. (1975) Total nitrogen contents
+  Apollo 16 soils (abs). Lunar Sci. IV, 158.                   of Apollo 15, 16 and 17 lunar fines samples. Lunar Sci. VI,
+                                                         569-571.
+  Fruchter J.S., Kriedelbaugh S.J., Robyn M.A. and Goles G.G.
+  (1974)  Breccia 66055 and related clastic materials from   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  the Decartes region, Apollo 16. Proc. 5th Lunar Sci. Conf.  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  1035-1046.                                                  Office, Houston
+
+  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Pub. 1265                                                          soils: Some concepts and Is/FeO compilation.  Proc. 9th
+                                                     Lunar Sci. Conf. 2287-2297.
+  Heiken G.H., McKay D.S. and Fruland R.M. (1973b) Apollo
+  16 soils – grain size analysis and petrography.  Proc. 4th   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Lunar Sci. Conf. 251-266.                                      regolith. Rev. Geophys. Space Phys. 20, 761-826.
+
+  Kerridge J.F., Kaplan I.R., Petrowski C. and Chang S. (1975)   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+  Light element geochemistry of Apollo 16 rocks and soils.   In Geology of the Apollo 16 area, central lunar highlands.
+  Geochim. Cosmochim. Acta 39, 137-162.                    (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+  Horz F., Carrier W.D., Young J.W., Duke C.M., Nagle J.S.  Woodcock M.R. and Pillinger C.T. (1978) Major element
+--- treatment block 4; lines 10-22 ---
+,0        ,1       ,18   ,19
+                 23.5 g  100 g   1 g  1 g
+
+
+  References for 68121.                       LSPET (1973) The Apollo 16 lunar samples: Petrographic
+  Bhandari N., Goswami J. and Lal D. (1973)  Surface  and chemical description. Science 179, 23-34.
+   irradiation and evolution of the lunar regolith.  Proc. 4th
+  Lunar Sci. Conf. 2275-2290.                      LSPET (1972) Preliminary examination of lunar samples.
+                                                       Apollo 16 Preliminary Science Report. NASA SP-315, 7-
+  Butler P. (1972) Lunar Sample Information Catalog Apollo  1—7-58.
+  16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+  Catalog. pp. 370.                                    Marvin U.B. (1972)  Apollo 16 coarse fines (4-10 mm):
+                                                  Sample classification, description and inventory. JSC
+--- treatment block 5; lines 31-43 ---
+569-571.
+  Fruchter J.S., Kriedelbaugh S.J., Robyn M.A. and Goles G.G.
+  (1974)  Breccia 66055 and related clastic materials from   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  the Decartes region, Apollo 16. Proc. 5th Lunar Sci. Conf.  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  1035-1046.                                                  Office, Houston
+
+  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Pub. 1265                                                          soils: Some concepts and Is/FeO compilation.  Proc. 9th
+                                                     Lunar Sci. Conf. 2287-2297.
+  Heiken G.H., McKay D.S. and Fruland R.M. (1973b) Apollo
+  16 soils – grain size analysis and petrography.  Proc. 4th   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Lunar Sci. Conf. 251-266.                                      regolith. Rev. Geophys. Space Phys. 20, 761-826.
+--- references block 6; lines 8-20 ---
+reserve                                                 4 - 10 mm
+
+                    ,0        ,1       ,18   ,19
+                 23.5 g  100 g   1 g  1 g
+
+
+  References for 68121.                       LSPET (1973) The Apollo 16 lunar samples: Petrographic
+  Bhandari N., Goswami J. and Lal D. (1973)  Surface  and chemical description. Science 179, 23-34.
+   irradiation and evolution of the lunar regolith.  Proc. 4th
+  Lunar Sci. Conf. 2275-2290.                      LSPET (1972) Preliminary examination of lunar samples.
+                                                       Apollo 16 Preliminary Science Report. NASA SP-315, 7-
+  Butler P. (1972) Lunar Sample Information Catalog Apollo  1—7-58.
+  16. Lunar Receiving Laboratory. MSC 03210 Curator’s

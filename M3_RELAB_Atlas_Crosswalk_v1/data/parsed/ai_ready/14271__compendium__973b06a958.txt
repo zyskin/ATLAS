@@ -1,0 +1,173 @@
+DOCUMENT_ID: 14271__compendium__973b06a958
+ATLAS_SAMPLE_IDS: 14268,14269,14271,14272,14273,14275,14277,14278,14280,14281
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14271.pdf
+SOURCE_PDF_SHA256: ef4cae6b1910a09139c57e3cd920557cd8f1ea74c99e9a31439b2d3a43d3cf49
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 6-18 ---
+14275 - 12.46 grams
+         14277 - 7.59 grams
+         14278 - 7.6 grams
+         14280 - 6.2 grams
+          14281 - 12 grams
+                                                                 Figure 1: Traverse map for Apollo 14 showing
+         Vitric matrix Breccia                     location of comprehensive sample.
+
+
+
+
+
+                       Figure 2: Photos of 14268. Scale in cm.  S71-36393 and 392.
+--- material block 2; lines 22-35 ---
+Figure 3: Photos of 14271. Sample is 5 cm across. NASA S71-29213 and 29211.
+
+
+   Introduction
+   These ten small rocks were all collected as part of the   soil. These ten samples are similar in texture and all
+   “comprehensive sample” (Phinney et al. 1975). A circle  appear to be soil breccia or vitric matrix breccia made
+   about 14 meters in diameter was drawn and every rock  from the soil. They are similar to 14264, 14265 and
+   on the surface placed in the same bag along with large  14267 also collected from the same circle, and better
+    soil samples 14259 and 14261. Some may be from the   studied.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-12 ---
+Petrography
+                                                   Phinney et al. (1975) and Carlson and Walton (1977)
+                                                        described these samples as vitric matrix breccias made
+                                                  from the Apollo 14 soil. They are each a little different
+                                                              (figure 2 – 10), but they all have glass. Some have
+                                                            glass spheres. The largest, 14271, has two large clasts
+                                                       of crystalline matrix breccia.  They all have an
+                                                   abundance of small lithic clasts (figure 11 to 17). Many
+         Figure 4: Photo of 14272. Sample is 4 cm across.     of the lithic clasts have the texture of impact melt rocks.
+       NASA S71-30353
+--- material block 2; lines 1-15 ---
+Petrography
+                                                   Phinney et al. (1975) and Carlson and Walton (1977)
+                                                        described these samples as vitric matrix breccias made
+                                                  from the Apollo 14 soil. They are each a little different
+                                                              (figure 2 – 10), but they all have glass. Some have
+                                                            glass spheres. The largest, 14271, has two large clasts
+                                                       of crystalline matrix breccia.  They all have an
+                                                   abundance of small lithic clasts (figure 11 to 17). Many
+         Figure 4: Photo of 14272. Sample is 4 cm across.     of the lithic clasts have the texture of impact melt rocks.
+       NASA S71-30353
+
+=== PDF PAGE 4; CATEGORIES: age,material ===
+--- material block 1; lines 34-46 ---
+the surface during the last solar flare.
+
+   Processing
+    All these samples were collected from the surface
+    within a 14 meter circle as part of the comprehensive
+   sample (Swann et al. 1977). They were returned, along
+   with soil, in weigh bag 1039, which was in ALSRC
+   1007. However, 1007 did not seal, and these samples
+   were exposed to air (minimal).
+--- age block 2; lines 20-36 ---
+Chemistry
+    Eldridge et al. (1972) determined the K, U and Th for
+   14271, 14272 and 14273 (table 1).
+
+   Radiogenic age dating
+   None
+
+   Cosmogenic isotopes and exposure ages
+   Eldridge et al. (1972) determined the cosmic-ray-
+   induced activity for 22Na = 61, 78 and 66 dpm/kg for
+   14271, 14272 and 14273, respectively and 26Al = 118,
+   94 and 73 dpm/kg. respectively. They were clearly at
+    the surface during the last solar flare.
+
+   Processing
+
+=== PDF PAGE 12; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 14271, 14272 and 14273.
+             14271                                14272     14273
+    reference  Eldridge72  Simonds77                     Eldridge72  Eldridge72
+    weight                   clast        clast    matrix
+    SiO2 %               47.38   (b) 48.39   48.3    (c )
+    TiO2                  1.68    (b) 1.59    2.06    (c )
+    Al2O3                16.29   (b) 15.95   16.48   (c )
+   FeO                  9.33    (b) 10.41   10.51   (c )
+   MnO                             0.14    0.15    (c )
+   MgO                  11.66   (b) 12.62   9.54    (c )
+   CaO                10      (b) 9.85    10.07   (c )
+   Na2O                 0.9      (b) 0.83    0.89    (c )
+   K2O      0.63     (a) 0.66    (b) 0.27    0.8      (c ) 0.54     (a) 0.55     (a)
+   P2O5                            0.65    0.65    (c )
+   S %                              0.06    0.09
+   sum
+
+    Sc ppm
+   V
+--- material block 2; lines 1-10 ---
+Table 1. Chemical composition of 14271, 14272 and 14273.
+             14271                                14272     14273
+    reference  Eldridge72  Simonds77                     Eldridge72  Eldridge72
+    weight                   clast        clast    matrix
+    SiO2 %               47.38   (b) 48.39   48.3    (c )
+    TiO2                  1.68    (b) 1.59    2.06    (c )
+    Al2O3                16.29   (b) 15.95   16.48   (c )
+   FeO                  9.33    (b) 10.41   10.51   (c )
+   MnO                             0.14    0.15    (c )
+   MgO                  11.66   (b) 12.62   9.54    (c )
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 14271, 14272 and 14273.
+             14271                                14272     14273
+    reference  Eldridge72  Simonds77                     Eldridge72  Eldridge72
+    weight                   clast        clast    matrix
+    SiO2 %               47.38   (b) 48.39   48.3    (c )
+    TiO2                  1.68    (b) 1.59    2.06    (c )
+    Al2O3                16.29   (b) 15.95   16.48   (c )
+   FeO                  9.33    (b) 10.41   10.51   (c )
+   MnO                             0.14    0.15    (c )
+--- references block 4; lines 64-73 ---
+Os ppb
+       Ir ppb
+    Pt ppb
+   Au ppb
+    Th ppm    15.6     (a)                                 11.3     (a) 11.7     (a)
+   U ppm     4.5      (a)                                 3.3       (a) 3.1      (a)
+     technique:  (a) radation counting, (b) e. probe, (c ) XRF
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 13; CATEGORIES: material,references ===
+--- material block 1; lines 1-8 ---
+References for 14268-81                                      site. In Apollo 14 Preliminary Science Rpt. NASA SP-272.
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock   pages 39-85.
+   Samples. Curators Office. JSC 14240
+                                                      Warner J.L. and Duke M.B. (1971) Apollo 14 lunar sample
+   Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14   information catalog. NASA TM X-58062.
+    breccias: General characteristics and classification.  Proc.
+     3rd Lunar Sci. Conf. 645-659.                           Warren P.H. (1993) A concise compilation of petrologic
+                                                             information on possibly pristine nonmare Moon rocks. Am.
+--- material block 2; lines 21-33 ---
+Phinney W.C., Simonds C.H. and Warner J. (1975)
+   Description, Classification and Inventory of the
+   Comprehensive sample from Apollo 14. Curator’s Catalog,
+    pp. 46.
+
+   Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+   (1976a) Lithification of vitric- and elastic-matrix breccias:
+  SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+
+   Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+    Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+    revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+    Sci. Conf. 1869-1893.
+--- references block 3; lines 1-7 ---
+References for 14268-81                                      site. In Apollo 14 Preliminary Science Rpt. NASA SP-272.
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock   pages 39-85.
+   Samples. Curators Office. JSC 14240
+                                                      Warner J.L. and Duke M.B. (1971) Apollo 14 lunar sample
+   Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14   information catalog. NASA TM X-58062.
+    breccias: General characteristics and classification.  Proc.
+     3rd Lunar Sci. Conf. 645-659.                           Warren P.H. (1993) A concise compilation of petrologic

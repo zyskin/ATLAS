@@ -1,0 +1,258 @@
+DOCUMENT_ID: 64815__compendium__7d8c15afb6
+ATLAS_SAMPLE_IDS: 64815
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64815.pdf
+SOURCE_PDF_SHA256: 02a7b8d62bf3981b0c6eed1f85edc8b08daecb2809ee5eb346322997bb209d69
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 21-33 ---
+64815 has been well analyzed (table 1, figure 3).
+    poikilitic texture with relatively coarse oikocrysts of
+                                                Hubbard et al. (1973), Wasson et al. (1977), Wanke et
+   orthopyroxene and some sort of (unspecified)
+                                                                          al. (1976) and Ebihara et al. (1992) found consistent
+   metamorphic overprint (figure 2). The sample is said
+                                                                   results. Trace elements show an addition of KREEP
+    to resemble 60315 or 62235. Olivine chadocrysts are
+                                                component (figure 3), and the relatively high Ni, Ir
+    Fo70; pyroxene oikocrysts are Wo4En72.                                                  and Au give evidence of an impact origin.
+
+  A more thorough petrographic description seems to be
+    indicated.
+--- mineralogy block 2; lines 5-36 ---
+Figure 1: Photo of 64815. Scale in mm. S72-55316
+
+   Introduction                                            Mineralogical Mode
+   64815 is a rake sample collected from the rim of a small          From Simonds et al. 1973
+    crater at station 4 on Stone Mountain – see section on             Plagioclase       55 %
+                                                                       Pyroxene        34
+   64801.   It is an impact melt breccia with a coarse                                                                              Olivine          9
+    poikilitic texture and KREEP-like composition. The           Opaque          2
+   age has been determined to be 3.89 ± 0.01 b.y.
+
+   Petrography                                            Chemistry
+   According to Simonds et al. (1973) 64815 has a
+                                               64815 has been well analyzed (table 1, figure 3).
+    poikilitic texture with relatively coarse oikocrysts of
+                                                Hubbard et al. (1973), Wasson et al. (1977), Wanke et
+   orthopyroxene and some sort of (unspecified)
+                                                                          al. (1976) and Ebihara et al. (1992) found consistent
+   metamorphic overprint (figure 2). The sample is said
+                                                                   results. Trace elements show an addition of KREEP
+    to resemble 60315 or 62235. Olivine chadocrysts are
+                                                component (figure 3), and the relatively high Ni, Ir
+    Fo70; pyroxene oikocrysts are Wo4En72.                                                  and Au give evidence of an impact origin.
+
+  A more thorough petrographic description seems to be
+    indicated.
+
+
+Lunar Sample Compendium
+--- material block 3; lines 1-21 ---
+64815
+                                       Poikilitic Impact Melt
+                                            20.9 grams
+
+
+
+
+
+                              Figure 1: Photo of 64815. Scale in mm. S72-55316
+
+   Introduction                                            Mineralogical Mode
+   64815 is a rake sample collected from the rim of a small          From Simonds et al. 1973
+    crater at station 4 on Stone Mountain – see section on             Plagioclase       55 %
+                                                                       Pyroxene        34
+   64801.   It is an impact melt breccia with a coarse                                                                              Olivine          9
+    poikilitic texture and KREEP-like composition. The           Opaque          2
+   age has been determined to be 3.89 ± 0.01 b.y.
+
+   Petrography                                            Chemistry
+   According to Simonds et al. (1973) 64815 has a
+                                               64815 has been well analyzed (table 1, figure 3).
+--- age block 4; lines 11-23 ---
+Introduction                                            Mineralogical Mode
+   64815 is a rake sample collected from the rim of a small          From Simonds et al. 1973
+    crater at station 4 on Stone Mountain – see section on             Plagioclase       55 %
+                                                                       Pyroxene        34
+   64801.   It is an impact melt breccia with a coarse                                                                              Olivine          9
+    poikilitic texture and KREEP-like composition. The           Opaque          2
+   age has been determined to be 3.89 ± 0.01 b.y.
+
+   Petrography                                            Chemistry
+   According to Simonds et al. (1973) 64815 has a
+                                               64815 has been well analyzed (table 1, figure 3).
+    poikilitic texture with relatively coarse oikocrysts of
+                                                Hubbard et al. (1973), Wasson et al. (1977), Wanke et
+
+=== PDF PAGE 3; CATEGORIES: age,references,treatment ===
+--- age block 1; lines 1-12 ---
+Figure 3: Normalized rare-earth-element diagram
+           for 64815.
+
+   Radiogenic age dating
+   Nyquist et al. (1973) reported the isotopic composition
+   of Sr. Norman et al. (2006) determined an age of 3.89
+   ± 0.01 b.y. for 64815 by the Ar/Ar plateau technique
+                                                 C Meyer       64815    (figure 4).
+                                                              2012          20.9 grams
+   Other Studies
+   Pearce and Simonds (1974) determined some magnetic    ,0         ,1    ,12   ,3     ,20     ,22      ,28    ,29
+    properties of 64815.                                    10.8 g   PB  PB   0.3 g  0.3 g   5.4 g   1 g    0.6 g
+--- treatment block 2; lines 5-17 ---
+Nyquist et al. (1973) reported the isotopic composition
+   of Sr. Norman et al. (2006) determined an age of 3.89
+   ± 0.01 b.y. for 64815 by the Ar/Ar plateau technique
+                                                 C Meyer       64815    (figure 4).
+                                                              2012          20.9 grams
+   Other Studies
+   Pearce and Simonds (1974) determined some magnetic    ,0         ,1    ,12   ,3     ,20     ,22      ,28    ,29
+    properties of 64815.                                    10.8 g   PB  PB   0.3 g  0.3 g   5.4 g   1 g    0.6 g
+
+   Processing                                                                          ,5      ,13     ,9        ,27                                                                                                   0.5 g     0.3 g
+   There are three thin sections of 64815.                         TS     ,15                                                                    TS
+--- references block 3; lines 1-13 ---
+Figure 3: Normalized rare-earth-element diagram
+           for 64815.
+
+   Radiogenic age dating
+   Nyquist et al. (1973) reported the isotopic composition
+   of Sr. Norman et al. (2006) determined an age of 3.89
+   ± 0.01 b.y. for 64815 by the Ar/Ar plateau technique
+                                                 C Meyer       64815    (figure 4).
+                                                              2012          20.9 grams
+   Other Studies
+   Pearce and Simonds (1974) determined some magnetic    ,0         ,1    ,12   ,3     ,20     ,22      ,28    ,29
+    properties of 64815.                                    10.8 g   PB  PB   0.3 g  0.3 g   5.4 g   1 g    0.6 g
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 64815.
+
+
+     reference Wanke76  Hubbard73        Wasson77  McKinley83 Ebihara92
+     weight             Weismann76
+    SiO2 %    45.4   (c ) 45.86             (b)             45.8     (e)
+    TiO2      1.7     (c ) 1.7      1.7      (a) 1.5     (d)  1.65     (e)
+    Al2O3     17.9   (c ) 17.33             (b) 20      (d)  17.7     (e)
+   FeO       9.4     (c ) 9.5                (b) 9.04    (d)  9.34     (e)
+   MnO      0.12   (c ) 0.12               (b) 0.11    (d)  0.13     (e)
+   MgO      11.5    (c ) 11.83              (b) 12.6    (d)  11.95    (e)
+   CaO      12      (c ) 12.05             (b) 11.76   (d) 12.05   (e)
+   Na2O     0.52   (c ) 0.47     0.47     (b) 0.53    (d)  0.5      (e)
+   K2O      0.27   (c ) 0.26    0.275   (a) 0.26    (d)  0.27     (e)
+   P2O5      0.3     (c ) 0.29               (b)
+   S %       0.114  (c )                     (b)
+    sum
+
+    Sc ppm   23.1   (c )                     21.7    (d)
+   V                                    51      (d)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 64815.
+
+
+     reference Wanke76  Hubbard73        Wasson77  McKinley83 Ebihara92
+     weight             Weismann76
+    SiO2 %    45.4   (c ) 45.86             (b)             45.8     (e)
+    TiO2      1.7     (c ) 1.7      1.7      (a) 1.5     (d)  1.65     (e)
+    Al2O3     17.9   (c ) 17.33             (b) 20      (d)  17.7     (e)
+   FeO       9.4     (c ) 9.5                (b) 9.04    (d)  9.34     (e)
+   MnO      0.12   (c ) 0.12               (b) 0.11    (d)  0.13     (e)
+--- references block 3; lines 65-75 ---
+Os ppb                                                          15.4     (d)
+       Ir ppb     16      (c )                   9        (d)             13.8     (d)
+     Pt ppb
+    Au ppb    13.7   (c )                      8.4     (d)             14.5     (d)
+    Th ppm    4.92   (c )                      5.6     (d)
+   U ppm    1.21   (c ) 1.62     1.62     (a) 1.6     (d)             1.83     (d)
+     technique:  (a) IDMS, (b) XRF, (c ) various, (d) INAA, RNAA
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-13 ---
+References for 64815                              16 stations 11 and 13. North Ray Crater. Proc. 15th Lunar
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Planet. Sci. Conf. in J. Geophys. Res. 90, C431-C448.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)
+   Trace elements in 59 mostly highland moon rocks. Proc.   Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    22nd Lunar Planet. Sci. Conf. 417-426. Lunar Planetary   of Apollo 16 samples and implications for their mode of
+    Institute, Houston                                          formation. J. Geophys. Res. 79, 2953-2959.
+
+   Hubbard N.J., Rhodes J.M., Gast P.W., Bansal B.M., Shih   Phinney W. and Lofgren G. (1973) Description, classification
+    C.-Y., Wiesmann H. and Nyquist L.E. (1973b) Lunar rock  and inventory of Apollo 16 rake samples from stations 1, 4
+    types: The role of plagioclase in non-mare and highland rock  and 13. Curators Office.
+--- mineralogy block 2; lines 2-19 ---
+Butler P. (1972a) Lunar Sample Information Catalog Apollo   Planet. Sci. Conf. in J. Geophys. Res. 90, C431-C448.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)
+   Trace elements in 59 mostly highland moon rocks. Proc.   Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    22nd Lunar Planet. Sci. Conf. 417-426. Lunar Planetary   of Apollo 16 samples and implications for their mode of
+    Institute, Houston                                          formation. J. Geophys. Res. 79, 2953-2959.
+
+   Hubbard N.J., Rhodes J.M., Gast P.W., Bansal B.M., Shih   Phinney W. and Lofgren G. (1973) Description, classification
+    C.-Y., Wiesmann H. and Nyquist L.E. (1973b) Lunar rock  and inventory of Apollo 16 rake samples from stations 1, 4
+    types: The role of plagioclase in non-mare and highland rock  and 13. Curators Office.
+    types. Proc. 4th Lunar Sci. Conf. 1297-1312.
+                                                  Simonds C.H., Warner J.L. and Phinney W.C. (1973)
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite   Petrology of Apollo 16 poikilitic rocks.  Proc. 4th Lunar
+    in Apollo 16 highland rocks: Manifestations of volatile-   Sci. Conf. 613-632.
+   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    259.                                                     Sutton R.L. (1981) Documentation of Apollo 16 samples.
+--- material block 3; lines 6-19 ---
+Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)
+   Trace elements in 59 mostly highland moon rocks. Proc.   Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    22nd Lunar Planet. Sci. Conf. 417-426. Lunar Planetary   of Apollo 16 samples and implications for their mode of
+    Institute, Houston                                          formation. J. Geophys. Res. 79, 2953-2959.
+
+   Hubbard N.J., Rhodes J.M., Gast P.W., Bansal B.M., Shih   Phinney W. and Lofgren G. (1973) Description, classification
+    C.-Y., Wiesmann H. and Nyquist L.E. (1973b) Lunar rock  and inventory of Apollo 16 rake samples from stations 1, 4
+    types: The role of plagioclase in non-mare and highland rock  and 13. Curators Office.
+    types. Proc. 4th Lunar Sci. Conf. 1297-1312.
+                                                  Simonds C.H., Warner J.L. and Phinney W.C. (1973)
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite   Petrology of Apollo 16 poikilitic rocks.  Proc. 4th Lunar
+    in Apollo 16 highland rocks: Manifestations of volatile-   Sci. Conf. 613-632.
+   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    259.                                                     Sutton R.L. (1981) Documentation of Apollo 16 samples.
+--- material block 4; lines 36-48 ---
+the Cayley Plains and Descartes Mountains, and geologic   Proc. 4th Lunar Sci. Conf. 481-504.
+    history. Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys.
+    Res. 89, B513-B524.                                      Weill D.F. and McKay G.A. (1973) The partioning of Mg,
+                                                               Fe, Sr, Ce, Sm, Eu and Yb in lunar igneous systems and a
+   Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing   possible origin of KREEP by equilibrium partial melting.
+   impact events within the lunar cataclysm from 40Ar-39Ar ages   Proc. 6th Lunar Sci. Conf. 1143-1158.
+   and compositions of Apollo 16 impact melt rocks. Geochim.
+   Cosmochim. Acta 70, 6032-6049.                     Wiesmann H. and Hubbard N.J. (1975) A compilation of
+                                                                the Lunar Sample Data Generated by the Gast, Nyquist and
+   Nyquist L.E., Hubbard N.J., Gast P.W., Bansal B.M.,  Hubbard Lunar Sample PI-Ships. Unpublished. JSC
+   Wiesmann H. and Jahn B-M. (1973) Rb-Sr systematics for
+    chemically defined Apollo 15 and 16 materials. Proc. 4th
+   Lunar Sci. Conf. 1823-1846.
+--- treatment block 5; lines 1-13 ---
+References for 64815                              16 stations 11 and 13. North Ray Crater. Proc. 15th Lunar
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Planet. Sci. Conf. in J. Geophys. Res. 90, C431-C448.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)
+   Trace elements in 59 mostly highland moon rocks. Proc.   Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    22nd Lunar Planet. Sci. Conf. 417-426. Lunar Planetary   of Apollo 16 samples and implications for their mode of
+    Institute, Houston                                          formation. J. Geophys. Res. 79, 2953-2959.
+
+   Hubbard N.J., Rhodes J.M., Gast P.W., Bansal B.M., Shih   Phinney W. and Lofgren G. (1973) Description, classification
+    C.-Y., Wiesmann H. and Nyquist L.E. (1973b) Lunar rock  and inventory of Apollo 16 rake samples from stations 1, 4
+    types: The role of plagioclase in non-mare and highland rock  and 13. Curators Office.
+--- references block 6; lines 1-7 ---
+References for 64815                              16 stations 11 and 13. North Ray Crater. Proc. 15th Lunar
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Planet. Sci. Conf. in J. Geophys. Res. 90, C431-C448.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.                                     Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)
+   Trace elements in 59 mostly highland moon rocks. Proc.   Pearce G.W. and Simonds C.H. (1974) Magnetic properties

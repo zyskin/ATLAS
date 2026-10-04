@@ -1,0 +1,287 @@
+DOCUMENT_ID: 62231__compendium__ceba478330
+ATLAS_SAMPLE_IDS: 62231,62241
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/62231.pdf
+SOURCE_PDF_SHA256: 29f0d91c0417c23f96127a83b2d107d94430db1c8c1620d8791d073c0d77027b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,treatment ===
+--- chemistry block 1; lines 25-47 ---
+180
+        20                      Apollo soils                   160
+
+                                                                                                       140
+                                                                                                                 62241
+        15                                                                                          120                                      C
+                                                                                                       100 FeO                                     ppm
+        10                                                                                           80
+
+                                                 62241                        60
+          5                                                                                           40
+
+                                                                                                         20                              Lunar Soils
+          0                                                                                                   0
+            0       5      10      15      20      25      30      35                    0          20          40          60          80         100         120
+                   Al2O3                                               maturity (Is/FeO)
+        Figure 2: Chemical composition of station 2 soils,
+                                                              Figure 3: Carbon content and maturity index for
+         at Apollo 16.
+                                                            62241.
+--- treatment block 2; lines 34-48 ---
+62241                        60
+          5                                                                                           40
+
+                                                                                                         20                              Lunar Soils
+          0                                                                                                   0
+            0       5      10      15      20      25      30      35                    0          20          40          60          80         100         120
+                   Al2O3                                               maturity (Is/FeO)
+        Figure 2: Chemical composition of station 2 soils,
+                                                              Figure 3: Carbon content and maturity index for
+         at Apollo 16.
+                                                            62241.
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,treatment ===
+--- chemistry block 1; lines 17-53 ---
+5
+
+
+                                                                                                                        4
+                                             FeO
+                                                                                                                        3
+
+
+                                                                                                                        2
+
+                                                                                                                        1     HB (Ridley et al. 1973)
+                                                                                      A16 soil
+
+                                                                                                                        0
+                                                                                                             24         25        26         27        28         29         30         31
+        Figure 4: Location of station 2 on Cayley plain.                                Al2O3
+
+                                                                  Figure 6: Composition of 62241.
+   Introduction                                                    desMarais et al. (1973) determined 140 ppm carbon
+   62230 and 62240 were collected adjacent to each other                                                         for 62240 (figure 3) and Kerridge et al. (1975)
+   (figure 1) from the rim of Buster Crater (Sutton 1981).                                                     determined 152 ppm carbon and 94 ppm nitrogen.
+
+   Rock samples 62235, 62236, 62237 and 62238 were                                           Cosmogenic isotopes and exposure ages
+   collected in the immediate vicinity, 62255 was nearby.                                                     Eldridge et al. (1973) determined the cosmic-ray-
+   Samples 62245 – 62249 were sieved from 62240.                                                     induced activity of 62241 as 22Na = 41 dpm/kg and
+   62315 is also from this spot (Sutton 1981).                                                            26Al = 130 dpm/kg.
+
+   Petrography
+   Morris (1978) reported the maturity index Is/FeO = 91
+   and 100 for 62231 and 62241, respectively. This high
+   maturity is consistent with surface soils at Apollo 16.
+   The grain size distribution has not been reported.
+
+   Marvin (1972) cataloged the 4 – 10 mm particles.
+--- material block 2; lines 24-62 ---
+3
+
+
+                                                                                                                        2
+
+                                                                                                                        1     HB (Ridley et al. 1973)
+                                                                                      A16 soil
+
+                                                                                                                        0
+                                                                                                             24         25        26         27        28         29         30         31
+        Figure 4: Location of station 2 on Cayley plain.                                Al2O3
+
+                                                                  Figure 6: Composition of 62241.
+   Introduction                                                    desMarais et al. (1973) determined 140 ppm carbon
+   62230 and 62240 were collected adjacent to each other                                                         for 62240 (figure 3) and Kerridge et al. (1975)
+   (figure 1) from the rim of Buster Crater (Sutton 1981).                                                     determined 152 ppm carbon and 94 ppm nitrogen.
+
+   Rock samples 62235, 62236, 62237 and 62238 were                                           Cosmogenic isotopes and exposure ages
+   collected in the immediate vicinity, 62255 was nearby.                                                     Eldridge et al. (1973) determined the cosmic-ray-
+   Samples 62245 – 62249 were sieved from 62240.                                                     induced activity of 62241 as 22Na = 41 dpm/kg and
+   62315 is also from this spot (Sutton 1981).                                                            26Al = 130 dpm/kg.
+
+   Petrography
+   Morris (1978) reported the maturity index Is/FeO = 91
+   and 100 for 62231 and 62241, respectively. This high
+   maturity is consistent with surface soils at Apollo 16.
+   The grain size distribution has not been reported.
+
+   Marvin (1972) cataloged the 4 – 10 mm particles.
+
+  Chemistry
+   Figure 2 shows the composition of 62231 and 62241
+   in comparison with all other Apollo soil samples and
+   figure 7 shows the rare-earth-element diagram.
+                                                                Figure 7: Normalized rare-earth-element diagram
+                                                                          for 62231 (Korotev 1982).
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 3; lines 36-48 ---
+Figure 6: Composition of 62241.
+   Introduction                                                    desMarais et al. (1973) determined 140 ppm carbon
+   62230 and 62240 were collected adjacent to each other                                                         for 62240 (figure 3) and Kerridge et al. (1975)
+   (figure 1) from the rim of Buster Crater (Sutton 1981).                                                     determined 152 ppm carbon and 94 ppm nitrogen.
+
+   Rock samples 62235, 62236, 62237 and 62238 were                                           Cosmogenic isotopes and exposure ages
+   collected in the immediate vicinity, 62255 was nearby.                                                     Eldridge et al. (1973) determined the cosmic-ray-
+   Samples 62245 – 62249 were sieved from 62240.                                                     induced activity of 62241 as 22Na = 41 dpm/kg and
+   62315 is also from this spot (Sutton 1981).                                                            26Al = 130 dpm/kg.
+
+   Petrography
+   Morris (1978) reported the maturity index Is/FeO = 91
+   and 100 for 62231 and 62241, respectively. This high
+--- treatment block 4; lines 37-55 ---
+Introduction                                                    desMarais et al. (1973) determined 140 ppm carbon
+   62230 and 62240 were collected adjacent to each other                                                         for 62240 (figure 3) and Kerridge et al. (1975)
+   (figure 1) from the rim of Buster Crater (Sutton 1981).                                                     determined 152 ppm carbon and 94 ppm nitrogen.
+
+   Rock samples 62235, 62236, 62237 and 62238 were                                           Cosmogenic isotopes and exposure ages
+   collected in the immediate vicinity, 62255 was nearby.                                                     Eldridge et al. (1973) determined the cosmic-ray-
+   Samples 62245 – 62249 were sieved from 62240.                                                     induced activity of 62241 as 22Na = 41 dpm/kg and
+   62315 is also from this spot (Sutton 1981).                                                            26Al = 130 dpm/kg.
+
+   Petrography
+   Morris (1978) reported the maturity index Is/FeO = 91
+   and 100 for 62231 and 62241, respectively. This high
+   maturity is consistent with surface soils at Apollo 16.
+   The grain size distribution has not been reported.
+
+   Marvin (1972) cataloged the 4 – 10 mm particles.
+
+  Chemistry
+   Figure 2 shows the composition of 62231 and 62241
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 62231.    Table 2. Chemical composition of 62241.
+                                                                                                                           ave. st. 2
+  reference  Korotev82                                         reference  Rose73   Bonyton76   Brunfelt73  Eldridge73   Korotev81
+  weight                                                      weight
+ SiO2 %                                              SiO2 %    44.65  (a)                                      44.6
+  TiO2                                                   TiO2      0.56    (a) 0.62      (b) 0.58                     0.6
+ Al2O3     26.5      (a)                                 Al2O3    27      (a) 26.6      (b) 27.8                  27
+ FeO       5.6       (a)                             FeO       5.49    (a) 5.58      (b) 4.76                     5.5
+ MnO                                      MnO      0.07    (a) 0.067    (b) 0.07                    0.07
+ MgO      6.4       (a)                          MgO      5.84    (a) 5.47      (b) 9.1                     6.05
+ CaO      14.5      (a)                           CaO      15.95  (a) 15.8      (b) 15                      15.7
+ Na2O     0.444     (a)                            Na2O     0.44    (a) 0.45      (b) 0.51                   0.445
+ K2O                                         K2O       0.13    (a) 0.096    (b) 0.1        0.113     (d) 0.112
+ P2O5                                          P2O5      0.1     (a)
+ S %                                          S %
+ sum                                            sum
+
+ Sc ppm   9.28      (a)                                Sc ppm    13.2    (a) 9.7       (b) 8.5                      9.1
+ V        22        (a)                            V        29      (a) 21        (b) 90                   26
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 62231.    Table 2. Chemical composition of 62241.
+                                                                                                                           ave. st. 2
+  reference  Korotev82                                         reference  Rose73   Bonyton76   Brunfelt73  Eldridge73   Korotev81
+  weight                                                      weight
+ SiO2 %                                              SiO2 %    44.65  (a)                                      44.6
+  TiO2                                                   TiO2      0.56    (a) 0.62      (b) 0.58                     0.6
+ Al2O3     26.5      (a)                                 Al2O3    27      (a) 26.6      (b) 27.8                  27
+ FeO       5.6       (a)                             FeO       5.49    (a) 5.58      (b) 4.76                     5.5
+ MnO                                      MnO      0.07    (a) 0.067    (b) 0.07                    0.07
+--- references block 3; lines 64-73 ---
+Os ppb                                         Os ppb
+   Ir ppb     14.8      (a)                                                            Ir ppb                10.6      (c )
+  Pt ppb                                                        Pt ppb
+ Au ppb                                           Au ppb               6.2       (c )
+ Th ppm    1.98      (a)                                Th ppm               1.8       (b) 1.5         1.7       (d) 1.8
+ U ppm    0.48      (a)                          U ppm               0.55      (b) 0.65       0.46      (d) 0.56
+  technique:  (a) INAA                                           technique: (a)’microchemical’, (b) INAA, (c ) RNAA, (d) rad. Count.
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 4; CATEGORIES: material ===
+--- material block 1; lines 9-27 ---
+Figure 8: Density of fossil nuclear tracks in Apollo 16
+                                                                             soil samples.(Behrmann et al. 1973).
+
+
+
+
+
+      C Meyer                                  same bag     62235 - 320 g - basalt
+       2010             62230                                            62236 - 57 g - bx.
+                    112 grams                                            62237 - 62 g - bx.                    < 1 mm
+                                            62238 - 1.6
+
+     62230       62231            62232   62233   62234
+      4.6 g        87 g              7 g       5.3 g    8.5 g
+
+=== PDF PAGE 5; CATEGORIES: age,chemistry,material,references,treatment ===
+--- chemistry block 1; lines 8-20 ---
+and Wasson J.T. (1976) Lithophiles, siderophiles and
+  volatiles in Apollo 16 soils and rocks. Proc. 7th Lunar      Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Sci. Conf. 727-742.                                Handbook of Lunar Soils. Two Parts. JSC 19069.
+                                                            Curator’s Office, Houston
+  Brunfelt A.O., Heier K.S., Nilssen B., Sundvoll B. and
+  Steinnes E. (1973) Geochemistry Apollo 15 and 16         Morris R.V. (1978) The surface exposure (maturity) of
+  materials. Proc. 4th Lunar Sci. Conf. 1209-1218.            lunar soils: Some concepts and Is/FeO compilation. Proc.
+                                                                                 9th Lunar Sci. Conf. 2287-2297.
+  Butler P. (1972) Lunar Sample Information Catalog
+ Apollo 16. Lunar Receiving Laboratory. MSC 03210       Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Curator’s Catalog. pp. 370.                                     regolith. Rev. Geophys. Space Phys. 20, 761-826.
+
+ Des Marais D.J., Hayes J.M. and Meinschein W.G.         Rose H.J., Cuttitta F., Berman S., Carron M.K., Christian
+--- material block 2; lines 12-39 ---
+Brunfelt A.O., Heier K.S., Nilssen B., Sundvoll B. and
+  Steinnes E. (1973) Geochemistry Apollo 15 and 16         Morris R.V. (1978) The surface exposure (maturity) of
+  materials. Proc. 4th Lunar Sci. Conf. 1209-1218.            lunar soils: Some concepts and Is/FeO compilation. Proc.
+                                                                                 9th Lunar Sci. Conf. 2287-2297.
+  Butler P. (1972) Lunar Sample Information Catalog
+ Apollo 16. Lunar Receiving Laboratory. MSC 03210       Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Curator’s Catalog. pp. 370.                                     regolith. Rev. Geophys. Space Phys. 20, 761-826.
+
+ Des Marais D.J., Hayes J.M. and Meinschein W.G.         Rose H.J., Cuttitta F., Berman S., Carron M.K., Christian
+ (1973a) The distribution in lunar soils of carbon released    R.P., Dwornik E.J., Greenland L.P. and Ligon D.T. (1973)
+ by pyrolysis. Proc. 4th Lunar Sci. Conf. 1543-1558.        Compositional data for twenty-two Apollo 16 samples.
+                                                           Proc. 4th Lunar Sci. Conf. 1149-1158.
+  Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1973)
+ Radionuclide concentrations in Apollo 16 lunar samples     Sutton R.L. (1981) Documentation of Apollo 16 samples.
+ determined by nondestructive gamma-ray spectrometry.      In Geology of the Apollo 16 area, central lunar highlands.
+  Proc. 4th Lunar Sci. Conf. 2115-2122.                       (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+ Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA    Walton J.R., Lakatos S. and Heymann D. (1973)
+ Pub. 1265                                                   Distribution of inert gases in fines from the Cayley-
+                                                          Descartes region. Proc. 4th Lunar Sci. Conf. 2079-2096.
+ Heiken G.H., McKay D.S. and Fruland R.M. (1973b)
+ Apollo 16 soils – grain size analysis and petrography.
+  Proc. 4th Lunar Sci. Conf. 251-266.
+
+ Janghorbani M., Miller M.D., Ma M-S., Chyi L.L. and
+ Ehmann W.D. (1973) Oxygen and other elemental
+ abundance data for Apollo 14, 15, 16 and 17 samples.
+  Proc. 4th Lunar Sci. Conf. 1115-1126.
+--- age block 3; lines 1-9 ---
+References for 62231 and 62241.                 Marvin U.B. (1972) Apollo 16 coarse fines (4-10 mm):
+ Behrmann C.J., Crozaz G., Drozd R., Hohenberg C.,        Sample classification, description and inventory. JSC
+  Ralston C., Walker R. and Yuhas D. (1973b) Cosmic-ray    Catalog.
+ exposure history of North Ray and South Ray material.
+  Proc. 4th Lunar Sci. Conf. 1957-1974.                 Moore C.B. and Lewis C.F. (1975) Total nitrogen
+                                                             contents of Apollo 15, 16 and 17 lunar fines samples.
+ Boynton W.V., Chou C.-L., Robinson K.L., Warren P.H.     Lunar Sci. VI, 569-571.
+ and Wasson J.T. (1976) Lithophiles, siderophiles and
+  volatiles in Apollo 16 soils and rocks. Proc. 7th Lunar      Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+--- treatment block 4; lines 7-19 ---
+Boynton W.V., Chou C.-L., Robinson K.L., Warren P.H.     Lunar Sci. VI, 569-571.
+ and Wasson J.T. (1976) Lithophiles, siderophiles and
+  volatiles in Apollo 16 soils and rocks. Proc. 7th Lunar      Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Sci. Conf. 727-742.                                Handbook of Lunar Soils. Two Parts. JSC 19069.
+                                                            Curator’s Office, Houston
+  Brunfelt A.O., Heier K.S., Nilssen B., Sundvoll B. and
+  Steinnes E. (1973) Geochemistry Apollo 15 and 16         Morris R.V. (1978) The surface exposure (maturity) of
+  materials. Proc. 4th Lunar Sci. Conf. 1209-1218.            lunar soils: Some concepts and Is/FeO compilation. Proc.
+                                                                                 9th Lunar Sci. Conf. 2287-2297.
+  Butler P. (1972) Lunar Sample Information Catalog
+ Apollo 16. Lunar Receiving Laboratory. MSC 03210       Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Curator’s Catalog. pp. 370.                                     regolith. Rev. Geophys. Space Phys. 20, 761-826.
+--- references block 5; lines 1-7 ---
+References for 62231 and 62241.                 Marvin U.B. (1972) Apollo 16 coarse fines (4-10 mm):
+ Behrmann C.J., Crozaz G., Drozd R., Hohenberg C.,        Sample classification, description and inventory. JSC
+  Ralston C., Walker R. and Yuhas D. (1973b) Cosmic-ray    Catalog.
+ exposure history of North Ray and South Ray material.
+  Proc. 4th Lunar Sci. Conf. 1957-1974.                 Moore C.B. and Lewis C.F. (1975) Total nitrogen
+                                                             contents of Apollo 15, 16 and 17 lunar fines samples.
+ Boynton W.V., Chou C.-L., Robinson K.L., Warren P.H.     Lunar Sci. VI, 569-571.

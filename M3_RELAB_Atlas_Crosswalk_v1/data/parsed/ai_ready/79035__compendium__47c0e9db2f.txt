@@ -1,0 +1,477 @@
+DOCUMENT_ID: 79035__compendium__47c0e9db2f
+ATLAS_SAMPLE_IDS: 79035
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/79035.pdf
+SOURCE_PDF_SHA256: 4999a0c271463ea47cb113a30c3ea7a3fcfb78d0db871c51baa941415c7e6bc5
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+79035
+                                        Soil breccia
+                                       2806 grams
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy,treatment ===
+--- mineralogy block 1; lines 1-46 ---
+Figure 3: Photo of additional pieces of 79035,3. NASA S73-15859. Smallest is about 1 c x 2 cm.
+
+                                                          Mineralogical Mode for 79035
+                                                                                  (Simon et al. 1989)
+                                                                       Matrix            58.1 %
+                                                                                       20-90 micron     90-100 micron
+                                                              Mare Basalt       1.1             5
+                                                   KREEP Basalt
+                                                                                Feld. Basalt
+                                                                             Plutonic           0.1                0.1
+                                                                                Granulitic
+                                                                           Breccia            0.7                1.2
+                                                                            Olivine            0.8                0.4
+                                                                     Pyroxene          3.8                1.7
+                                                                              Plagioclase        2.2                0.8
+                                                                Opaques          1.7                0.2
+                                                                          Glass              4.9                2.8
+                                                                            Agglutinate      5                  8.6
+
+
+                                              Petrography
+                                                  Heuer et al. (1974) described 79035 as “a dark, porous,
+                                                           fine-grained breccia containing clasts of ilmenite-rich
+                                                                 basalt, fine-grained vesicular breccias and spheres and
+         Figure 4: Location of 79035 from near trench and     fragments of glass”. Basalt fragments show “moderate
+          drive tube.                                      deformation, indicated by undulatory extinction in
+                                                           plagioclase and abundant twinning in ilmenite”. The
+                                                             fine-grained matrix was examined by HVEM and found
+   Introduction                                                            to “consist of very porous glassy and crystalline
+   79035 is a large friable regolith breccia that was                                                        fragmental material, including angular fragments of
+    probably exposed to moisture after splashdown in the                                                     both homogeneous and highly vesicular glass and
+    Pacific. It broke in several large pieces (figures 1 – 3),                                                          glassy spherules. The matrix glass which cements the
+   which are rounded, yielding a lot of fines.                                                        crystalline and glassy fragments is commonly
+                                                  homogeneous. In some clasts, a high concentration of
+     It was collected near Van Serg Crater (figures 4) near                                                                   fossil particle tracks is preserved, indicating that the
+    the drive tube and trench.  It has an exposure age of                                                      average temperature of the cementing glass was never
+    about 600 m.y.                                                                sufficiently high to anneal these features”.
+
+   79035 has been the source of material for many studies                                                   Housely et al. (1976) showed that 79035 has very high
+    related to the implantation of solar wind into lunar                                                        “ferromagnetic resonance” and that this was correlated
+    regolith particles – particularly ilmenite.                                                       with high agglutinate content with associated reduction
+                                                          of Fe-glass to fine metal particles. This has since been
+                                                             referred to as “high maturity”.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-46 ---
+Figure 3: Photo of additional pieces of 79035,3. NASA S73-15859. Smallest is about 1 c x 2 cm.
+
+                                                          Mineralogical Mode for 79035
+                                                                                  (Simon et al. 1989)
+                                                                       Matrix            58.1 %
+                                                                                       20-90 micron     90-100 micron
+                                                              Mare Basalt       1.1             5
+                                                   KREEP Basalt
+                                                                                Feld. Basalt
+                                                                             Plutonic           0.1                0.1
+                                                                                Granulitic
+                                                                           Breccia            0.7                1.2
+                                                                            Olivine            0.8                0.4
+                                                                     Pyroxene          3.8                1.7
+                                                                              Plagioclase        2.2                0.8
+                                                                Opaques          1.7                0.2
+                                                                          Glass              4.9                2.8
+                                                                            Agglutinate      5                  8.6
+
+
+                                              Petrography
+                                                  Heuer et al. (1974) described 79035 as “a dark, porous,
+                                                           fine-grained breccia containing clasts of ilmenite-rich
+                                                                 basalt, fine-grained vesicular breccias and spheres and
+         Figure 4: Location of 79035 from near trench and     fragments of glass”. Basalt fragments show “moderate
+          drive tube.                                      deformation, indicated by undulatory extinction in
+                                                           plagioclase and abundant twinning in ilmenite”. The
+                                                             fine-grained matrix was examined by HVEM and found
+   Introduction                                                            to “consist of very porous glassy and crystalline
+   79035 is a large friable regolith breccia that was                                                        fragmental material, including angular fragments of
+    probably exposed to moisture after splashdown in the                                                     both homogeneous and highly vesicular glass and
+    Pacific. It broke in several large pieces (figures 1 – 3),                                                          glassy spherules. The matrix glass which cements the
+   which are rounded, yielding a lot of fines.                                                        crystalline and glassy fragments is commonly
+                                                  homogeneous. In some clasts, a high concentration of
+     It was collected near Van Serg Crater (figures 4) near                                                                   fossil particle tracks is preserved, indicating that the
+    the drive tube and trench.  It has an exposure age of                                                      average temperature of the cementing glass was never
+    about 600 m.y.                                                                sufficiently high to anneal these features”.
+
+   79035 has been the source of material for many studies                                                   Housely et al. (1976) showed that 79035 has very high
+    related to the implantation of solar wind into lunar                                                        “ferromagnetic resonance” and that this was correlated
+    regolith particles – particularly ilmenite.                                                       with high agglutinate content with associated reduction
+                                                          of Fe-glass to fine metal particles. This has since been
+                                                             referred to as “high maturity”.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 3; lines 30-42 ---
+79035 is a large friable regolith breccia that was                                                        fragmental material, including angular fragments of
+    probably exposed to moisture after splashdown in the                                                     both homogeneous and highly vesicular glass and
+    Pacific. It broke in several large pieces (figures 1 – 3),                                                          glassy spherules. The matrix glass which cements the
+   which are rounded, yielding a lot of fines.                                                        crystalline and glassy fragments is commonly
+                                                  homogeneous. In some clasts, a high concentration of
+     It was collected near Van Serg Crater (figures 4) near                                                                   fossil particle tracks is preserved, indicating that the
+    the drive tube and trench.  It has an exposure age of                                                      average temperature of the cementing glass was never
+    about 600 m.y.                                                                sufficiently high to anneal these features”.
+
+   79035 has been the source of material for many studies                                                   Housely et al. (1976) showed that 79035 has very high
+    related to the implantation of solar wind into lunar                                                        “ferromagnetic resonance” and that this was correlated
+    regolith particles – particularly ilmenite.                                                       with high agglutinate content with associated reduction
+                                                          of Fe-glass to fine metal particles. This has since been
+--- treatment block 4; lines 37-46 ---
+about 600 m.y.                                                                sufficiently high to anneal these features”.
+
+   79035 has been the source of material for many studies                                                   Housely et al. (1976) showed that 79035 has very high
+    related to the implantation of solar wind into lunar                                                        “ferromagnetic resonance” and that this was correlated
+    regolith particles – particularly ilmenite.                                                       with high agglutinate content with associated reduction
+                                                          of Fe-glass to fine metal particles. This has since been
+                                                             referred to as “high maturity”.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 3-26 ---
+25                                                                           1000
+                                                                              79035
+           20                      Apollo soils
+                                                        breccia                     100
+           15            79035                                                         sample/
+  FeO                                                                                             chondrite
+
+           10                                                                              10
+
+
+            5
+
+                                                                                                 1
+
+            0
+              0       5       10      15      20      25      30      35
+                     Al2O3                                               0.1
+                                                                                                       La Ce   Pr  Nd  Sm Eu  Gd  Tb  Dy  Ho   Er Tm   Yb  Lu
+
+          Figure 6: Composition of 79035 compared with            Figure 7: Normalized rare-earth-element diagram
+            that of lunar soil samples.                                     for 79035.
+--- mineralogy block 2; lines 24-40 ---
+that of lunar soil samples.                                     for 79035.
+
+
+                                            Chemistry
+                                           Wanke et al. (1974), Laul et al. (1974), Miller (1974)   Fruland (1983) and Simon et al. (1990) included 79035
+                                                  and Simon et al. (1990) analyzed 79035, finding high    in their study of regolith breccias (figure 8). It has the
+                                                         Ni, Ir and Au, meteoritic siderophiles, typical of soil.   highest percentage of agglutinate fragments of the
+   various Apollo regolith breccias.
+                                                   According to Becker and Epstein (1981), 79035 has
+                                                128 ppm carbon and 74 ppm nitrogen (figure 9). Frick   Haggerty (1974), Fredriksson et al. (1974), Simon et
+                                                                  et al. (1987) reported 114 ppm N.    al. (1990) and Shearer et al. (1991) analyzed the glass
+    in 79035.
+
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-13 ---
+Figure 5a: Transmitted light photo of thin section of                                                                 Figure 5b: Reflected light photo of thin section of
+         79035.                                                               79035.
+
+           25                                                                           1000
+                                                                              79035
+           20                      Apollo soils
+                                                        breccia                     100
+           15            79035                                                         sample/
+  FeO                                                                                             chondrite
+
+           10                                                                              10
+--- material block 4; lines 18-37 ---
+0
+              0       5       10      15      20      25      30      35
+                     Al2O3                                               0.1
+                                                                                                       La Ce   Pr  Nd  Sm Eu  Gd  Tb  Dy  Ho   Er Tm   Yb  Lu
+
+          Figure 6: Composition of 79035 compared with            Figure 7: Normalized rare-earth-element diagram
+            that of lunar soil samples.                                     for 79035.
+
+
+                                            Chemistry
+                                           Wanke et al. (1974), Laul et al. (1974), Miller (1974)   Fruland (1983) and Simon et al. (1990) included 79035
+                                                  and Simon et al. (1990) analyzed 79035, finding high    in their study of regolith breccias (figure 8). It has the
+                                                         Ni, Ir and Au, meteoritic siderophiles, typical of soil.   highest percentage of agglutinate fragments of the
+   various Apollo regolith breccias.
+                                                   According to Becker and Epstein (1981), 79035 has
+                                                128 ppm carbon and 74 ppm nitrogen (figure 9). Frick   Haggerty (1974), Fredriksson et al. (1974), Simon et
+                                                                  et al. (1987) reported 114 ppm N.    al. (1990) and Shearer et al. (1991) analyzed the glass
+    in 79035.
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 79035.
+               Laul74        Miller74    Wanke74    Morgan74    Garg76     Simon89
+     reference                                                                 163.4 mg
+     weight
+    SiO2 %                 43.4        41.7
+    TiO2       6.5          5.67       8                                       6.58
+    Al2O3     13.5         13.6        12.3                               13
+   FeO       15.2         15.6        16.5                                    15.2
+   MnO      0.196         0.2         0.22                                   0.202
+   MgO      11            11.8        9.91                                     9.8
+   CaO       11.2         10.9        11.2                                     11.4
+   Na2O     0.41         0.42        0.41                                    0.41
+   K2O      0.098                    0.08                                   0.072
+   P2O5                               0.05
+   S %
+    sum
+
+    Sc ppm   46                       56.6                                    49.2
+   V        90                                                       87
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 79035.
+               Laul74        Miller74    Wanke74    Morgan74    Garg76     Simon89
+     reference                                                                 163.4 mg
+     weight
+    SiO2 %                 43.4        41.7
+    TiO2       6.5          5.67       8                                       6.58
+    Al2O3     13.5         13.6        12.3                               13
+   FeO       15.2         15.6        16.5                                    15.2
+   MnO      0.196         0.2         0.22                                   0.202
+--- references block 3; lines 64-74 ---
+Os ppb
+       Ir ppb                                              7.5                        5.5
+     Pt ppb
+    Au ppb    3                         4.5          2.39                       6.7
+    Th ppm   1                                                                  0.9
+   U ppm     0.4                      0.28         0.31                      0.18
+     technique:  (a) INAA, (b)
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 5-17 ---
+Hintenberger et al. (1974, 1975) determined a 21Ne   to lunar soil (figure 10).
+   exposure age for 79035 of 660 ± 50 m.y.
+                                                     Clayton and Thiemens (1980) showed the evolution
+   Other Studies                                       of nitrogen isotopes (figure 11).
+   Hintenberger et al. (1974, 1975) were the first to report
+    that 79035 had very high rare gas content due to  Becker and Pepin (1989) started a long line of rare gas
+   implantation of solar wind. Frick et al. (1987) included   studies of individual ilmenite grains.  Benkert et al.
+   nitrogen and went on to show this in great detail   (1991, 1993), Kerridge et al. (1992, 1993), Wiens et
+                                                                          al. (1992), Heber (2001, 2003), etc. have all used this
+                                               sample to gain an understanding of solar wind
+                                                           implantation.
+
+             Rock
+--- material block 2; lines 1-28 ---
+Figure 8: Comparison of lithologies of Apollo 17 soil breccias (Simon et al. 1990).
+
+
+   Cosmogenic isotopes and exposure ages          including temperature release and direct comparison
+   Hintenberger et al. (1974, 1975) determined a 21Ne   to lunar soil (figure 10).
+   exposure age for 79035 of 660 ± 50 m.y.
+                                                     Clayton and Thiemens (1980) showed the evolution
+   Other Studies                                       of nitrogen isotopes (figure 11).
+   Hintenberger et al. (1974, 1975) were the first to report
+    that 79035 had very high rare gas content due to  Becker and Pepin (1989) started a long line of rare gas
+   implantation of solar wind. Frick et al. (1987) included   studies of individual ilmenite grains.  Benkert et al.
+   nitrogen and went on to show this in great detail   (1991, 1993), Kerridge et al. (1992, 1993), Wiens et
+                                                                          al. (1992), Heber (2001, 2003), etc. have all used this
+                                               sample to gain an understanding of solar wind
+                                                           implantation.
+
+             Rock
+
+            CMB
+
+                   Regolith Breccia                         79035
+                        soil
+
+
+
+
+
+          0                 50               100               150               200
+--- age block 3; lines 1-12 ---
+Figure 8: Comparison of lithologies of Apollo 17 soil breccias (Simon et al. 1990).
+
+
+   Cosmogenic isotopes and exposure ages          including temperature release and direct comparison
+   Hintenberger et al. (1974, 1975) determined a 21Ne   to lunar soil (figure 10).
+   exposure age for 79035 of 660 ± 50 m.y.
+                                                     Clayton and Thiemens (1980) showed the evolution
+   Other Studies                                       of nitrogen isotopes (figure 11).
+   Hintenberger et al. (1974, 1975) were the first to report
+    that 79035 had very high rare gas content due to  Becker and Pepin (1989) started a long line of rare gas
+   implantation of solar wind. Frick et al. (1987) included   studies of individual ilmenite grains.  Benkert et al.
+   nitrogen and went on to show this in great detail   (1991, 1993), Kerridge et al. (1992, 1993), Wiens et
+
+=== PDF PAGE 6; CATEGORIES: material ===
+--- material block 1; lines 9-21 ---
+forgotten, and walked on while the rest of the Command
+                                               Module was unloaded!!
+         Figure 10: Thermal release of nitrogen and rare gases
+         from 79035 (Frick et al. 1987).
+
+   Processing
+    This large friable soil breccia was brought back in the
+   BSLSS which contained other large and tough samples.
+   The large pieces of 79035 (figures 1 – 3) were nicely
+    rounded, without zap pits, and was probably abraded
+    during transit, yielding numerous fines and coarse-fines
+    in the residue (70050-70054) from the BSLSS (see
+    below). The 4 – 10 mm particles from this bag are
+
+=== PDF PAGE 7; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 26-42 ---
+solar wind elemental and isotopic ratios: A comparison of  and breccias (abs). Lunar Sci. V, 245-247. Lunar Planetary
+   two lunar ilmenites of different antiquities.  Geochim.   Institute, Houston.
+   Cosmochim. Acta 53, 1135-1146.
+                                                     Fruland R.M. (1983)  Regolith Breccia Workbook.
+    Benkert J.P., Kerridge J.F., Kim J.S., Kim Y., Marti K., Signer   Curatorial Branch Publication # 66. JSC 19045.
+     P. and Wieler R. (1991) Evolution of isotopic signatures in
+    lunar regolith nitrogen: Noble gases and N in ilmenite grain-  Garg A.N. and Ehmann W.N. (1976a) Zr-Hf fractionation
+    size fractions from regolith breccia 79035 (abs).  Lunar   in chemically defined lunar rock groups. Proc. 7th Lunar
+    Planet. Sci. XXII, 85-86. Lunar Planetary Institute, Houston.   Sci. Conf. 3397-3410.
+
+   Benkert J.P., Baur H., Signer P. and Wieler R. (1993) He,   Haggerty S.E. (1974) Apollo 17 orange glass: Textural and
+   Ne, and Ar from the solar wind and solar energetic particles   morphological characteristics of devitrification.  Proc. 5th
+    in lunar ilmenites and pyroxenes.  J. Geophys. Res. 98,  Lunar Sci. Conf. 193-205.
+   13147-13162.
+                                                      Hashizume K., Claussidon M., Marty B. and Robert F. (2000)
+    Butler P. (1973) Lunar Sample Information Catalog Apollo   Solar wind record on the Moon: Deciphering presolar from
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s   planetary nitrogen. Science 290, 1142-1145.
+--- material block 2; lines 14-39 ---
+,137       TS
+                                 ,180
+                         TS
+
+
+                                                              Frick U., Becker R.H. and Pepin R.O. (1987) Solar wind
+   References for 79035                                                              record in the lunar regolith: nitrogen and noble gases. Proc.
+   Becker R.H. and Epstein S. (1981) Carbon isotopic ratios                                                                         18th  Lunar Planet. Sci. Conf.  87-120.  Lunar Planetary
+    in some low-dl5N lunar breccias. Proc. 12th Lunar Planet.   Institute, Houston
+    Sci. Conf. 289-293.
+                                                             Fredriksson K., Brenner P., Nelen J., Noonan A., Dube A.
+   Becker R.H. and Pepin R.O. (1989) Long-term changes in  and Reid A. (1974) Comparative studies of impact glasses
+    solar wind elemental and isotopic ratios: A comparison of  and breccias (abs). Lunar Sci. V, 245-247. Lunar Planetary
+   two lunar ilmenites of different antiquities.  Geochim.   Institute, Houston.
+   Cosmochim. Acta 53, 1135-1146.
+                                                     Fruland R.M. (1983)  Regolith Breccia Workbook.
+    Benkert J.P., Kerridge J.F., Kim J.S., Kim Y., Marti K., Signer   Curatorial Branch Publication # 66. JSC 19045.
+     P. and Wieler R. (1991) Evolution of isotopic signatures in
+    lunar regolith nitrogen: Noble gases and N in ilmenite grain-  Garg A.N. and Ehmann W.N. (1976a) Zr-Hf fractionation
+    size fractions from regolith breccia 79035 (abs).  Lunar   in chemically defined lunar rock groups. Proc. 7th Lunar
+    Planet. Sci. XXII, 85-86. Lunar Planetary Institute, Houston.   Sci. Conf. 3397-3410.
+
+   Benkert J.P., Baur H., Signer P. and Wieler R. (1993) He,   Haggerty S.E. (1974) Apollo 17 orange glass: Textural and
+   Ne, and Ar from the solar wind and solar energetic particles   morphological characteristics of devitrification.  Proc. 5th
+    in lunar ilmenites and pyroxenes.  J. Geophys. Res. 98,  Lunar Sci. Conf. 193-205.
+   13147-13162.
+--- references block 3; lines 14-26 ---
+,137       TS
+                                 ,180
+                         TS
+
+
+                                                              Frick U., Becker R.H. and Pepin R.O. (1987) Solar wind
+   References for 79035                                                              record in the lunar regolith: nitrogen and noble gases. Proc.
+   Becker R.H. and Epstein S. (1981) Carbon isotopic ratios                                                                         18th  Lunar Planet. Sci. Conf.  87-120.  Lunar Planetary
+    in some low-dl5N lunar breccias. Proc. 12th Lunar Planet.   Institute, Houston
+    Sci. Conf. 289-293.
+                                                             Fredriksson K., Brenner P., Nelen J., Noonan A., Dube A.
+   Becker R.H. and Pepin R.O. (1989) Long-term changes in  and Reid A. (1974) Comparative studies of impact glasses
+    solar wind elemental and isotopic ratios: A comparison of  and breccias (abs). Lunar Sci. V, 245-247. Lunar Planetary
+
+=== PDF PAGE 8; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 13-25 ---
+Apollo 17 regolith breccias: A history of mixing of highland
+    Hintenberger H., Schultz L. and Weber H.W. (1975a) A  and mare regolith. Proc. 20th Lunar Planet. Sci. 219-230.
+    comparison of noble gases in lunar fines and soil breccias:  Lunar Planetary Institute, Houston.
+    Implications for the origin of soil breccias. Proc. 6th Lunar
+     Sci. Conf. 2261-2270.                            Wänke H., Palme H., Baddenhausen H., Dreibus G., Jagoutz
+                                                                       E., Kruse H., Spettel B., Teschke F. and Thacker R. (1974)
+    Hintenberger H., Schultz L. and Weber H.W. (1975b) Rare   Chemistry of Apollo 16 and 17 samples: bulk composition,
+    gases in ilmenite and bulk samples of Apollo 17 soils and   late-stage accumulation and early differentiation of the
+    breccias (abs). Lunar Sci. VI, 370-372. Lunar Planetary  Moon. Proc. 5th Lunar Sci. Conf. 1307-1335.
+     Institute, Houston.
+                                               Wänke H., Palme H., Baddenhausen H., Dreibus G., Jagoutz
+    Housley R.M., Cirlin E.H., Goldberg I.B. and Crowe H.   E., Kruse H., Palme C., Spettel B., Teschke F. and Thacker
+    (1976)  Ferromagnetic resonance studies of lunar core   R. (1975a) New data on the chemistry of lunar samples:
+--- mineralogy block 2; lines 1-26 ---
+Heuer A.H., Christie J.M., Lally J.S. and Nord G.L. (1974)   Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+    Electron petrographic study of some Apollo 17 breccias.   rocks, central valley. Volumes 2 and 3.  Curators Office
+    Proc. 5th Lunar Sci. Conf. 275-286.                     #26088 JSC, Houston.
+
+    Hintenberger H., Weber H.W. and Schultz L. (1974a) Solar,   Shearer C.K., Papike J.J., Galbreath K.C. and Shimizu N.
+    spallenogenic, and radiogenic rare gases in Apollo 17 soils   (1991) Exploring the lunar mantle with secondary ion mass
+    and breccias. Proc. 5th Lunar Sci. Conf. 2005-2022.        spectometry: A comparison of lunar picritic glass beads from
+                                                                 the Apollo 14 and Apollo 17 sites. Earth Planet. Sci. Lett.
+    Hintenberger H., Weber H.W. and Schultz L. (1974b) Solar,   102, 134-147.
+    spallenogenic, and radiogenic rare gases in Apollo 17 soils
+    and breccias (abs). Lunar Sci. V, 334-336. Lunar Planetary  Simon S.B., Papike J.J., Gosselin D.C., Laul J.C., Hughes
+     Institute, Houston                                            S.S. and Schmitt R.A. (1990) Petrology and chemistry of
+                                                         Apollo 17 regolith breccias: A history of mixing of highland
+    Hintenberger H., Schultz L. and Weber H.W. (1975a) A  and mare regolith. Proc. 20th Lunar Planet. Sci. 219-230.
+    comparison of noble gases in lunar fines and soil breccias:  Lunar Planetary Institute, Houston.
+    Implications for the origin of soil breccias. Proc. 6th Lunar
+     Sci. Conf. 2261-2270.                            Wänke H., Palme H., Baddenhausen H., Dreibus G., Jagoutz
+                                                                       E., Kruse H., Spettel B., Teschke F. and Thacker R. (1974)
+    Hintenberger H., Schultz L. and Weber H.W. (1975b) Rare   Chemistry of Apollo 16 and 17 samples: bulk composition,
+    gases in ilmenite and bulk samples of Apollo 17 soils and   late-stage accumulation and early differentiation of the
+    breccias (abs). Lunar Sci. VI, 370-372. Lunar Planetary  Moon. Proc. 5th Lunar Sci. Conf. 1307-1335.
+     Institute, Houston.
+                                               Wänke H., Palme H., Baddenhausen H., Dreibus G., Jagoutz
+    Housley R.M., Cirlin E.H., Goldberg I.B. and Crowe H.   E., Kruse H., Palme C., Spettel B., Teschke F. and Thacker
+    (1976)  Ferromagnetic resonance studies of lunar core   R. (1975a) New data on the chemistry of lunar samples:
+     stratigraphy. Proc. 7th Lunar Sci. Conf. 13-26.            Primary matter in the lunar highlands and the bulk
+--- material block 3; lines 7-55 ---
+and breccias. Proc. 5th Lunar Sci. Conf. 2005-2022.        spectometry: A comparison of lunar picritic glass beads from
+                                                                 the Apollo 14 and Apollo 17 sites. Earth Planet. Sci. Lett.
+    Hintenberger H., Weber H.W. and Schultz L. (1974b) Solar,   102, 134-147.
+    spallenogenic, and radiogenic rare gases in Apollo 17 soils
+    and breccias (abs). Lunar Sci. V, 334-336. Lunar Planetary  Simon S.B., Papike J.J., Gosselin D.C., Laul J.C., Hughes
+     Institute, Houston                                            S.S. and Schmitt R.A. (1990) Petrology and chemistry of
+                                                         Apollo 17 regolith breccias: A history of mixing of highland
+    Hintenberger H., Schultz L. and Weber H.W. (1975a) A  and mare regolith. Proc. 20th Lunar Planet. Sci. 219-230.
+    comparison of noble gases in lunar fines and soil breccias:  Lunar Planetary Institute, Houston.
+    Implications for the origin of soil breccias. Proc. 6th Lunar
+     Sci. Conf. 2261-2270.                            Wänke H., Palme H., Baddenhausen H., Dreibus G., Jagoutz
+                                                                       E., Kruse H., Spettel B., Teschke F. and Thacker R. (1974)
+    Hintenberger H., Schultz L. and Weber H.W. (1975b) Rare   Chemistry of Apollo 16 and 17 samples: bulk composition,
+    gases in ilmenite and bulk samples of Apollo 17 soils and   late-stage accumulation and early differentiation of the
+    breccias (abs). Lunar Sci. VI, 370-372. Lunar Planetary  Moon. Proc. 5th Lunar Sci. Conf. 1307-1335.
+     Institute, Houston.
+                                               Wänke H., Palme H., Baddenhausen H., Dreibus G., Jagoutz
+    Housley R.M., Cirlin E.H., Goldberg I.B. and Crowe H.   E., Kruse H., Palme C., Spettel B., Teschke F. and Thacker
+    (1976)  Ferromagnetic resonance studies of lunar core   R. (1975a) New data on the chemistry of lunar samples:
+     stratigraphy. Proc. 7th Lunar Sci. Conf. 13-26.            Primary matter in the lunar highlands and the bulk
+                                                           composition of the moon. Proc. 6th Lunar Sci. Conf. 1313-
+    Kerridge J.F., Kim J.S., Kim Y. and Marti K. (1992)   1340.
+    Evolution of isotopic signatures in lunar-regolith nitrogen:
+    Noble gases and nitrogen in grain-size fractions from regolith  Wiens R.C., Burnett D.S., Neugebauer M. and Pepin R.O.
+    breccia 79035.  Proc. 22nd  Lunar Planet. Sci. 215-224.   (1992) A comparison of solar wind and estimated solar
+    Lunar Planetary Institute, Houston.                       system xenon abundances: A test for solid/gas fractionation
+                                                                    in the solar nebula. Proc. 22nd Lunar Planet. Sci. 153-159.
+    Kerridge J.F., Kim Y., Kim J. and Marti K. (1993) Nitrogen  Lunar Planetary Institute, Houston.
+     isotopic signatures in agglutinates from breccia 79035 (abs).
+    Lunar Planet. Sci. XXIV, 795-796. Lunar Planetary Institute,   Wieler R., Etique P., Signer P. and Poupean G. (1983)
+    Houston                                              Decrease of the solar flare/solar wind flux ratio in the past
+                                                                 several aeons deduced from solar neon and tracks in lunar
+    Laul J.C., Hill D.W. and Schmitt R.A. (1974d) Chemical   soil plagioclases. Proc. 13th Lunar Planet. Sci. Conf. in J.
+    studies of Apollo 16 and 17 samples. Proc. 5th Lunar Sci.   Geophys. Res. A713 -A724.
+    Conf. 1047-1066.
+                                                           Wieler R., Baur H. and Signer P. (1986) Noble gases from
+   Meyer C. (1973) Apollo 17 Coarse Fines (4-10 mm) Sample   solar energetic particles revealed by closed system step wise
+    Location, Classification and Photo Index. Curator Report.   etching of lunar soil minerals. Geochim. Cosmichim. Acta
+    pp. 182.                                                   50, 1997-2017.
+
+    Miller M.D., Pacer R.A., Ma M.-S., Hawke B.R., Lookhart  Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    G.L. and Ehmann W.D. (1974)  Compositional studies of   Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    the lunar regolith at the Apollo 17 site. Proc. 5th Lunar Sci.   geologic investigation of the Taurus-Littrow Valley: Apollo
+    Conf. 1079-1086.                                   17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+                                                            280.
+   Morgan J.W., Ganapathy R., Higuchi H., Krahenbuhl U. and
+    Anders E (1974a) Lunar basins: Tentative
+    characterization of projectiles, from meteoritic dements in
+    Apollo 17 boulders. Proc. 5th Lunar Sci. Conf. 1703-1736.

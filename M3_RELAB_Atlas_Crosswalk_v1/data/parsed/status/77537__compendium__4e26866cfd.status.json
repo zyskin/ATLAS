@@ -1,0 +1,21 @@
+{
+  "ai_ready": "ai_ready/77537__compendium__4e26866cfd.txt",
+  "ai_ready_sha256": "c084e4c11d5b51527228b955668c789b6cc8aebe99956ee2e3d8efe4ff305f62",
+  "atlas_sample_ids": "77537",
+  "document_id": "77537__compendium__4e26866cfd",
+  "error": "",
+  "evidence_block_count": 4,
+  "json_gz": "json_gz/77537__compendium__4e26866cfd.json.gz",
+  "json_gz_sha256": "89a4285a1f49d4541c5a39a79372b42a1d6fead55a5eccf392144b80be4129a5",
+  "needs_ocr": false,
+  "page_count": 2,
+  "pages_with_extractable_text": 2,
+  "parser_version": "atlas-pdf-preprocessor-1.0",
+  "processed_utc": "2026-10-04T15:03:12.615174+00:00",
+  "relevant_pages": 2,
+  "schema": "lunar-sample-atlas-preprocess-status-1.0",
+  "source_pdf_filename": "77537__compendium__4e26866cfd.zlqkyeyr.pdf",
+  "source_pdf_sha256": "d77259e4995abea1dbf54292d7cba4aec50aa29ead825f9c57507eb1d4bf65d1",
+  "source_url": "https://www.lpi.usra.edu/lunar/samples/atlas/compendium/77537.pdf",
+  "status": "ok"
+}

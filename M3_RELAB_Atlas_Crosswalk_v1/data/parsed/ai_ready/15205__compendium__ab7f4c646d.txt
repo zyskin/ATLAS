@@ -1,0 +1,518 @@
+DOCUMENT_ID: 15205__compendium__ab7f4c646d
+ATLAS_SAMPLE_IDS: 15205
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15205.pdf
+SOURCE_PDF_SHA256: f16df9a2f0d6b15f646256730b0c4489b8d0581d8efa916f5797d18fd2ef6414
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+15205
+                             KREEP-rich Breccia
+                                           337.3 grams
+
+                                  15205
+
+
+             15206
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 1-13 ---
+Figure 3: Two views of the glass-coated surfaces of 15205 (5 out of 6 sides were glass coated).
+         Sample is about 6 cm on a side. S71-42985 and S71-42982.
+
+   Introduction                               Petrography
+    Breccia sample 15205 was collected from the top of a  15205 is said to be a regolith breccia (Fruland 1983,
+    small boulder on the edge of the Hadley Rille near St.  McKay and Wentworth 1983), but it has very low Is/
+   George Crater (figure 1). The boulder is probably  FeO (McKay et al. 1989) and very low C content
+    derived from a fresh, small crater part way down the  (Moore et al.1973).  It is clast rich and matrix poor
+    side of the Rille (Swann et al. 1971, Spudis and Taylor  with little evidence of clast-matrix interaction (figure
+    2009). 15205 is noteworthy in that it contains a high   2). There is a pronounced fabric, but this has not been
+    percentage of KREEP basalt fragments as clasts, but  documented. Dymek et al. (1974) give the mode as
+    also contains fragments of the mafic green glass, and  about 75% clasts (~40% lithic, ~15% glass and ~20%
+   mare basalt found in the Apollo 15 regolith.           mineral fragments). A more detailed mode is given in
+--- mineralogy block 2; lines 1-41 ---
+Figure 3: Two views of the glass-coated surfaces of 15205 (5 out of 6 sides were glass coated).
+         Sample is about 6 cm on a side. S71-42985 and S71-42982.
+
+   Introduction                               Petrography
+    Breccia sample 15205 was collected from the top of a  15205 is said to be a regolith breccia (Fruland 1983,
+    small boulder on the edge of the Hadley Rille near St.  McKay and Wentworth 1983), but it has very low Is/
+   George Crater (figure 1). The boulder is probably  FeO (McKay et al. 1989) and very low C content
+    derived from a fresh, small crater part way down the  (Moore et al.1973).  It is clast rich and matrix poor
+    side of the Rille (Swann et al. 1971, Spudis and Taylor  with little evidence of clast-matrix interaction (figure
+    2009). 15205 is noteworthy in that it contains a high   2). There is a pronounced fabric, but this has not been
+    percentage of KREEP basalt fragments as clasts, but  documented. Dymek et al. (1974) give the mode as
+    also contains fragments of the mafic green glass, and  about 75% clasts (~40% lithic, ~15% glass and ~20%
+   mare basalt found in the Apollo 15 regolith.           mineral fragments). A more detailed mode is given in
+                                                           the table.
+   15205 has not been dated, but it has an exposure age
+    of 169 m.y.  It has a thin coating of vesicular glass on  The thin glass coating on five out of six sides of 15205
+   most surfaces, such that it must have broke free from   is unusual. The glass on one side has delicate spikes
+    the  boulder  along  an  interior  glass  vein.   that suggest that the boulder was seperated from a rock
+    Micormeteorite carters on an exposed surface have  mass while still molten (Wilshire and Moore 1974).
+   been carefully studied.                          The glass on other sides is frothy (figure 3).
+
+                                                 Aluminous KREEP basalt fragments are an important
+                                                 component of 15205 (see section of 15382). They have      Mineralogical Mode for 15205
+                       (Simon et al. 1986)                   a wide range of texture (figure 4), but the pyroxenes
+        Matrix            50.4 %                             follow a common trend (figures 5 and 6).  Clasts of
+                        20-90 micron     90-100 micron        pyroxene-phyric mare basalt are also present (figure
+       Mare Basalt       0.2                2.6                    7).
+     KREEP Basalt     0.5             9
+         Feld. Basalt       0.2                0.3
+        Plutonic           0.2                3.6             Mineralogy
+         Granulitic         0.1                             Pyroxene:  Takeda  et al. (1980) and Dymek et al.
+        Breccia            0.4                0.3                 (1974) determined the pyroxene composition of various
+        Olivine            0.4                0.1
+                                                              basalt clasts (figures 5, 6, 8 and 9).       Pyroxene         15.4               2.4
+        Plagioclase        7.2                1.6
+       Opaques          1.6                                Glass: Dymek et al. (1974) determined the chemical
+        Glass              0.8             2                 composition of numerous glass fragments in 15205
+        Agglutinate        0.1                0.2
+
+Lunar Sample Compendium
+C Meyer 2009
+--- material block 3; lines 1-40 ---
+Figure 3: Two views of the glass-coated surfaces of 15205 (5 out of 6 sides were glass coated).
+         Sample is about 6 cm on a side. S71-42985 and S71-42982.
+
+   Introduction                               Petrography
+    Breccia sample 15205 was collected from the top of a  15205 is said to be a regolith breccia (Fruland 1983,
+    small boulder on the edge of the Hadley Rille near St.  McKay and Wentworth 1983), but it has very low Is/
+   George Crater (figure 1). The boulder is probably  FeO (McKay et al. 1989) and very low C content
+    derived from a fresh, small crater part way down the  (Moore et al.1973).  It is clast rich and matrix poor
+    side of the Rille (Swann et al. 1971, Spudis and Taylor  with little evidence of clast-matrix interaction (figure
+    2009). 15205 is noteworthy in that it contains a high   2). There is a pronounced fabric, but this has not been
+    percentage of KREEP basalt fragments as clasts, but  documented. Dymek et al. (1974) give the mode as
+    also contains fragments of the mafic green glass, and  about 75% clasts (~40% lithic, ~15% glass and ~20%
+   mare basalt found in the Apollo 15 regolith.           mineral fragments). A more detailed mode is given in
+                                                           the table.
+   15205 has not been dated, but it has an exposure age
+    of 169 m.y.  It has a thin coating of vesicular glass on  The thin glass coating on five out of six sides of 15205
+   most surfaces, such that it must have broke free from   is unusual. The glass on one side has delicate spikes
+    the  boulder  along  an  interior  glass  vein.   that suggest that the boulder was seperated from a rock
+    Micormeteorite carters on an exposed surface have  mass while still molten (Wilshire and Moore 1974).
+   been carefully studied.                          The glass on other sides is frothy (figure 3).
+
+                                                 Aluminous KREEP basalt fragments are an important
+                                                 component of 15205 (see section of 15382). They have      Mineralogical Mode for 15205
+                       (Simon et al. 1986)                   a wide range of texture (figure 4), but the pyroxenes
+        Matrix            50.4 %                             follow a common trend (figures 5 and 6).  Clasts of
+                        20-90 micron     90-100 micron        pyroxene-phyric mare basalt are also present (figure
+       Mare Basalt       0.2                2.6                    7).
+     KREEP Basalt     0.5             9
+         Feld. Basalt       0.2                0.3
+        Plutonic           0.2                3.6             Mineralogy
+         Granulitic         0.1                             Pyroxene:  Takeda  et al. (1980) and Dymek et al.
+        Breccia            0.4                0.3                 (1974) determined the pyroxene composition of various
+        Olivine            0.4                0.1
+                                                              basalt clasts (figures 5, 6, 8 and 9).       Pyroxene         15.4               2.4
+        Plagioclase        7.2                1.6
+       Opaques          1.6                                Glass: Dymek et al. (1974) determined the chemical
+        Glass              0.8             2                 composition of numerous glass fragments in 15205
+        Agglutinate        0.1                0.2
+
+Lunar Sample Compendium
+--- age block 4; lines 9-21 ---
+side of the Rille (Swann et al. 1971, Spudis and Taylor  with little evidence of clast-matrix interaction (figure
+    2009). 15205 is noteworthy in that it contains a high   2). There is a pronounced fabric, but this has not been
+    percentage of KREEP basalt fragments as clasts, but  documented. Dymek et al. (1974) give the mode as
+    also contains fragments of the mafic green glass, and  about 75% clasts (~40% lithic, ~15% glass and ~20%
+   mare basalt found in the Apollo 15 regolith.           mineral fragments). A more detailed mode is given in
+                                                           the table.
+   15205 has not been dated, but it has an exposure age
+    of 169 m.y.  It has a thin coating of vesicular glass on  The thin glass coating on five out of six sides of 15205
+   most surfaces, such that it must have broke free from   is unusual. The glass on one side has delicate spikes
+    the  boulder  along  an  interior  glass  vein.   that suggest that the boulder was seperated from a rock
+    Micormeteorite carters on an exposed surface have  mass while still molten (Wilshire and Moore 1974).
+   been carefully studied.                          The glass on other sides is frothy (figure 3).
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-7 ---
+Figure 7: Textures of pyroxene-phyric basalt clasts
+                                                                        in 15205 (Dymek et al. 1974).
+--- mineralogy block 2; lines 17-30 ---
+En                                          Fs
+
+   Fo                                        Fa
+          compiled by C Meyer
+                                                                Figure 8: Pyroxene and olivine in pyroxene-phyric
+         Figure 5: Pyroxene composition of a KREEP basalt                                                                       basalts in 15205 (Dymek et al. 1974).
+           clast in 15205 (Takeda et al. 1980).
+
+                       15205                Di                   Hd
+          Dymek et al
+           1974
+--- mineralogy block 3; lines 34-44 ---
+En                                          Fs
+
+   Fo                                        Fa
+
+          compiled by C Meyer
+         Figure 6: Pyroxene composition of a variety of            Figure 9: Pyroxene and olivine in mare basalt clasts
+       KREEP basalt clasts in 15205 (Dymek et al. 1974).          in 15205 (Dymek et al. 1974).
+
+Lunar Sample Compendium
+C Meyer 2009
+--- material block 4; lines 1-14 ---
+Figure 7: Textures of pyroxene-phyric basalt clasts
+                                                                        in 15205 (Dymek et al. 1974).
+
+
+
+
+
+        Figure 4: Textures of KREEP basalt clasts in 15205
+       (Dymek et al. 1974).
+
+                Di           15205,105      Hd
+            Takeda et al
+            1980
+--- material block 5; lines 18-31 ---
+En                                          Fs
+
+   Fo                                        Fa
+          compiled by C Meyer
+                                                                Figure 8: Pyroxene and olivine in pyroxene-phyric
+         Figure 5: Pyroxene composition of a KREEP basalt                                                                       basalts in 15205 (Dymek et al. 1974).
+           clast in 15205 (Takeda et al. 1980).
+
+                       15205                Di                   Hd
+          Dymek et al
+           1974
+--- material block 6; lines 34-44 ---
+En                                          Fs
+
+   Fo                                        Fa
+
+          compiled by C Meyer
+         Figure 6: Pyroxene composition of a variety of            Figure 9: Pyroxene and olivine in mare basalt clasts
+       KREEP basalt clasts in 15205 (Dymek et al. 1974).          in 15205 (Dymek et al. 1974).
+
+Lunar Sample Compendium
+C Meyer 2009
+
+=== PDF PAGE 4; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 25-40 ---
+Figure 10: Normalized rare-earth-element diagram
+          of 15205 (data from Simon et al, 1986 and McKay et
+           al. 1989).
+
+
+    (figure 11). The mafic green glass is characteristic of                                                                 Figure 11: Chemical composition of glass in 15205
+    the Apollo 15 soil (see section on 15425). However,                                                        (Dymek et al. 1976). Filled triangles are KREEP
+    the most abundant glass is an aluminous glass with         glass, open squares are “green glass” and interme-
+    high trace element content (termed KREEP glass).            diate compositions are glass coatings and mare
+                                                                          glasses.
+    Zircon: Andersen and Hinthorne (1973) used the ion
+    probe to date a zircon in 15205 amd determine its REE
+    pattern.                                   Other Studies
+                                              The rare gas content and isotopic ratio of 15205 is
+   Chemistry                                          reported in McKay et al. (1989).  It has the lowest gas
+--- mineralogy block 2; lines 25-54 ---
+Figure 10: Normalized rare-earth-element diagram
+          of 15205 (data from Simon et al, 1986 and McKay et
+           al. 1989).
+
+
+    (figure 11). The mafic green glass is characteristic of                                                                 Figure 11: Chemical composition of glass in 15205
+    the Apollo 15 soil (see section on 15425). However,                                                        (Dymek et al. 1976). Filled triangles are KREEP
+    the most abundant glass is an aluminous glass with         glass, open squares are “green glass” and interme-
+    high trace element content (termed KREEP glass).            diate compositions are glass coatings and mare
+                                                                          glasses.
+    Zircon: Andersen and Hinthorne (1973) used the ion
+    probe to date a zircon in 15205 amd determine its REE
+    pattern.                                   Other Studies
+                                              The rare gas content and isotopic ratio of 15205 is
+   Chemistry                                          reported in McKay et al. (1989).  It has the lowest gas
+    Radiation counting showed that the bulk sample is very  content of any of the Apollo 15 breccias studied,
+    high in Th (Keith et al. (1972) and  Rancitelli et al.   consistent with its low maturity index. Schaeffer et al.
+    1972). The high Th is accompanied by high trace  (19760 used a laser probe to determined He, ne and ar
+    element content (figure 10).                       on expsoed surfaces. Oxygen isotopes were reported
+                                                by Epstein and taylor (1972).
+   Reed and Jovanovic (1972) determined the halogen
+    content of 15205 and 15206. 15205 only has 22 ppm  A detailed study of solar flare tracks in pyroxenes
+  C (Moore et al. 1973).                                   directly under micrometeorite craters in the glass on
+                                                15205 was conducted by Hartung and Storzer (1974)
+   Radiogenic age dating                          and Zook et al. (1976).
+   Andersen and Hinthorne (1973) used the 207Pb/206Pb
+    ion probe method to date a zircon in 15205 at 4.01 ±  Adams and McCord (1972) and Charette and Adams
+    0.11 b.y.                                           (1977) determined reflectance spectra.
+--- material block 3; lines 26-38 ---
+Figure 10: Normalized rare-earth-element diagram
+          of 15205 (data from Simon et al, 1986 and McKay et
+           al. 1989).
+
+
+    (figure 11). The mafic green glass is characteristic of                                                                 Figure 11: Chemical composition of glass in 15205
+    the Apollo 15 soil (see section on 15425). However,                                                        (Dymek et al. 1976). Filled triangles are KREEP
+    the most abundant glass is an aluminous glass with         glass, open squares are “green glass” and interme-
+    high trace element content (termed KREEP glass).            diate compositions are glass coatings and mare
+                                                                          glasses.
+    Zircon: Andersen and Hinthorne (1973) used the ion
+    probe to date a zircon in 15205 amd determine its REE
+    pattern.                                   Other Studies
+--- age block 4; lines 44-65 ---
+element content (figure 10).                       on expsoed surfaces. Oxygen isotopes were reported
+                                                by Epstein and taylor (1972).
+   Reed and Jovanovic (1972) determined the halogen
+    content of 15205 and 15206. 15205 only has 22 ppm  A detailed study of solar flare tracks in pyroxenes
+  C (Moore et al. 1973).                                   directly under micrometeorite craters in the glass on
+                                                15205 was conducted by Hartung and Storzer (1974)
+   Radiogenic age dating                          and Zook et al. (1976).
+   Andersen and Hinthorne (1973) used the 207Pb/206Pb
+    ion probe method to date a zircon in 15205 at 4.01 ±  Adams and McCord (1972) and Charette and Adams
+    0.11 b.y.                                           (1977) determined reflectance spectra.
+
+   Cosmogenic isotopes and exposure ages         Processing
+    Keith et al. (1972), Rancitelli et al. (1972) and Fruchter  Lunar sample 15205 was the subject of a consortium
+    et al. (1978) determined the cosmic-ray-induced  study led by Wasserburg (but no age was determined
+    activity of 26Al, 22Na, 46Sc, 48V, 54Mn, 56Co and 60Co.   except by ion probe!). Ryder (1985) gives an excellent
+   Drozd et al. (1976) reported a 81Kr expsoure age of  summary.
+   169 m.y., but the sample has had a rather complicated
+   exposure history (see discussion in Ryder 1985).  Two external surfaces , at  right angles to each other,
+    Bhandari (1977) determined the number of solar flare  were removed and slabbed (figures 14, 15 and 16).
+    tracks.                                           There are 52 thin sections.
+--- treatment block 5; lines 36-48 ---
+Zircon: Andersen and Hinthorne (1973) used the ion
+    probe to date a zircon in 15205 amd determine its REE
+    pattern.                                   Other Studies
+                                              The rare gas content and isotopic ratio of 15205 is
+   Chemistry                                          reported in McKay et al. (1989).  It has the lowest gas
+    Radiation counting showed that the bulk sample is very  content of any of the Apollo 15 breccias studied,
+    high in Th (Keith et al. (1972) and  Rancitelli et al.   consistent with its low maturity index. Schaeffer et al.
+    1972). The high Th is accompanied by high trace  (19760 used a laser probe to determined He, ne and ar
+    element content (figure 10).                       on expsoed surfaces. Oxygen isotopes were reported
+                                                by Epstein and taylor (1972).
+   Reed and Jovanovic (1972) determined the halogen
+    content of 15205 and 15206. 15205 only has 22 ppm  A detailed study of solar flare tracks in pyroxenes
+  C (Moore et al. 1973).                                   directly under micrometeorite craters in the glass on
+--- references block 6; lines 46-58 ---
+Reed and Jovanovic (1972) determined the halogen
+    content of 15205 and 15206. 15205 only has 22 ppm  A detailed study of solar flare tracks in pyroxenes
+  C (Moore et al. 1973).                                   directly under micrometeorite craters in the glass on
+                                                15205 was conducted by Hartung and Storzer (1974)
+   Radiogenic age dating                          and Zook et al. (1976).
+   Andersen and Hinthorne (1973) used the 207Pb/206Pb
+    ion probe method to date a zircon in 15205 at 4.01 ±  Adams and McCord (1972) and Charette and Adams
+    0.11 b.y.                                           (1977) determined reflectance spectra.
+
+   Cosmogenic isotopes and exposure ages         Processing
+    Keith et al. (1972), Rancitelli et al. (1972) and Fruchter  Lunar sample 15205 was the subject of a consortium
+    et al. (1978) determined the cosmic-ray-induced  study led by Wasserburg (but no age was determined
+    activity of 26Al, 22Na, 46Sc, 48V, 54Mn, 56Co and 60Co.   except by ion probe!). Ryder (1985) gives an excellent
+
+=== PDF PAGE 6; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 15205.
+
+
+     reference  Keith72 Rancitelli72   Willis72    McKay89   Baedecker73  Simon86    Reed72
+     weight            334 g
+    SiO2 %                         51.03   (c )
+    TiO2                            1.99     (c )                             1.9       (d)
+    Al2O3                          14.92   (c ) 13.2     (d)                14.9      (d)
+   FeO                            11.28   (c ) 13.3     (d)                10.9      (d)
+   MnO                            0.16     (c )                           0.156    (d)
+   MgO                            8.23     (c ) 9.2      (d)                 9.6       (d)
+   CaO                            9.94     (c ) 8.9      (d)                 9.8       (d)
+   Na2O                           0.73     (c ) 0.66     (d)                0.775    (d)
+   K2O       0.53    0.65      (a)  0.53     (c )                            0.52      (d)
+   P2O5                           0.56     (c )
+   S %                             0.08     (c )
+    sum
+
+    Sc ppm                                      28.5     (d)                22.5      (d)
+   V                                                             65        (d)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 15205.
+
+
+     reference  Keith72 Rancitelli72   Willis72    McKay89   Baedecker73  Simon86    Reed72
+     weight            334 g
+    SiO2 %                         51.03   (c )
+    TiO2                            1.99     (c )                             1.9       (d)
+    Al2O3                          14.92   (c ) 13.2     (d)                14.9      (d)
+   FeO                            11.28   (c ) 13.3     (d)                10.9      (d)
+   MnO                            0.16     (c )                           0.156    (d)
+--- references block 3; lines 65-75 ---
+Os ppb
+       Ir ppb                                  <3       (d)  0.14       (b)
+     Pt ppb
+    Au ppb                                 <4       (d)  0.41       (b)
+    Th ppm    12      12.6      (a)             8        (d)                10.4      (d)
+   U ppm     2.9     3.28      (a)               2.2      (d)                 2.8       (d)  3.2
+     technique:  (a) radiation counting, (b) RNAA, (c ) XRF, (d) INAA
+
+
+Lunar Sample Compendium
+C Meyer 2009
+
+=== PDF PAGE 9; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 11-23 ---
+Andersen C.A. and Hinthorne J.R. (1973) 207Pb/206Pb   survey of regolith breccias from the Apollo 15 and 16
+    ages and REE abundances in returned lunar materials by ion   collection (abs). Lunar Planet. Sci. XIV, 481-482. Lunar
+   microprobe mass analysis (abs). Lunar Sci. IV, 37-42. Lunar   Planetary Institute, Houston.
+    Planetary Institute, Houston.
+                                           McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+   Baedecker P.A., Chou C.-L., Grudewicz E.B. and Wasson  Wentworth S.J. and Johnson P. (1989) Apollo 15 regolith
+    J.T. (1974) Volatile and siderophile trace elements in Apollo   breccias: Window to a KREEP regolith. Proc. 19th Lunar
+   15 samples: Geochemical implications and characterization   Sci. Conf. 19-41. Lunar Planetary Institute, Houston.
+    of the long-lived and short-lived extralunar materials. Proc.
+     4th Lunar Sci. Conf. 1177-1195.                      Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+                                                          carbon contents of Apollo 15 and 16 lunar samples. Proc.
+   Bhandari N. (1977) Solar flare exposure ages of lunar rocks    4th Lunar Sci. Conf. 1613-1923.
+   and boulders based on 26A1.  Proc. 8th Lunar Sci. Conf.
+--- mineralogy block 2; lines 1-9 ---
+References for 15205
+   Adams J.B. and McCord T.B. (1972) Optical evidence for   Hartung J.B. and Storzer D. (1974) Lunar microcraters and
+    average pyroxene composition of Apollo 15 samples.  In   their solar flare track record.  Proc. 5th Lunar Sci. Conf.
+   The Apollo 15 Lunar Samples, 10-13. Lunar Planetary   2527-2541.
+    Institute, Houston.
+                                                            Keith J.E., Clark R.S. and Richardson K.A. (1972) Gamma-
+   Allen R.O., Jovanovic S. and Reed G.W. (1973)   ray measurements of Apollo 12, 14 and 15 lunar samples.
+   Geochemistry of primordial Pb, Bi and Zn in Apollo 15   Proc. 3rd Lunar Sci. Conf. 1671-1680.
+    samples. Proc. 4th Lunar Sci. Conf. 1169-1175.
+--- mineralogy block 3; lines 35-47 ---
+Lunar Planetary Institute, Houston.                         Proc. 3rd Lunar Sci. Conf. 1681-1691.
+
+   Drozd R.J., Kennedy B.M., Morgan C.J., Podosek F.A. and  Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+    Taylor G.J.  (1976) The excess fission xenon problem in   volumes). Curatoial Branch Pub. # 72, JSC#20787
+    lunar samples. Proc. 7th Lunar Sci. Conf. 599-623.
+                                                              Schaeffer O.A., Plienger T. and Hartung J.B. (1976) Spatial
+   Dymek R.F., Albee A.L. and Chodos A.A. (1974)  Glass-   distribution of rare gases in lunar breccia 15426 and the
+    coated soil breccia 15205: Selenologic history and petrologic   exposed surface of rock 15205 (abs). Lunar Sci. VII, 770-
+    constraints on the nature of its source region. Proc. 5th Lunar   772.
+    Sci. Conf. 235-260.
+                                                            Schneider E., Storzer D., Hartung J.B., Fechtig H. and Genter
+    Epstein S. and Taylor H.P. (1972) O18/O16, Si30/Si28, C13/C12  W. (1973) Microcraters on Apollo 15 and 16 samples and
+   and D/H studies of Apollo 14 and 15 samples. Proc. 3rd   corresponding cosmic dust fluxes. Proc. 4th Lunar Sci. Conf.
+--- material block 4; lines 5-60 ---
+Institute, Houston.
+                                                            Keith J.E., Clark R.S. and Richardson K.A. (1972) Gamma-
+   Allen R.O., Jovanovic S. and Reed G.W. (1973)   ray measurements of Apollo 12, 14 and 15 lunar samples.
+   Geochemistry of primordial Pb, Bi and Zn in Apollo 15   Proc. 3rd Lunar Sci. Conf. 1671-1680.
+    samples. Proc. 4th Lunar Sci. Conf. 1169-1175.
+                                            McKay D.S. and Wentworth S.J. (1983) A petrographic
+   Andersen C.A. and Hinthorne J.R. (1973) 207Pb/206Pb   survey of regolith breccias from the Apollo 15 and 16
+    ages and REE abundances in returned lunar materials by ion   collection (abs). Lunar Planet. Sci. XIV, 481-482. Lunar
+   microprobe mass analysis (abs). Lunar Sci. IV, 37-42. Lunar   Planetary Institute, Houston.
+    Planetary Institute, Houston.
+                                           McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+   Baedecker P.A., Chou C.-L., Grudewicz E.B. and Wasson  Wentworth S.J. and Johnson P. (1989) Apollo 15 regolith
+    J.T. (1974) Volatile and siderophile trace elements in Apollo   breccias: Window to a KREEP regolith. Proc. 19th Lunar
+   15 samples: Geochemical implications and characterization   Sci. Conf. 19-41. Lunar Planetary Institute, Houston.
+    of the long-lived and short-lived extralunar materials. Proc.
+     4th Lunar Sci. Conf. 1177-1195.                      Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+                                                          carbon contents of Apollo 15 and 16 lunar samples. Proc.
+   Bhandari N. (1977) Solar flare exposure ages of lunar rocks    4th Lunar Sci. Conf. 1613-1923.
+   and boulders based on 26A1.  Proc. 8th Lunar Sci. Conf.
+   3607-3615.                                          Nagle J.S. (1982) Evidence of subcrater lithification and
+                                                              hot ejecta deposition in lunar polymict regolith breccias and
+   Brownlee D.E., Horz F., Vedder J.F., Gault D.E. and Hartung   achondrites (abs). Lunar Planet. Sci. XIII, 568-569.
+    J.B. (1973) Some physical parameters of micrometeoids.
+    Proc. 4th Lunar Sci. Conf. 3197-3212.                    Nagle J.S. (1982) Subcrater lithification of polymict regolith
+                                                                   breccias. Proc. 13th Lunar Planet. Sci. in J. Geophys. Res.
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’   87, A131-A146.
+    Office, MSC 03209
+                                                                    Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+    Charette M.P. and Adams J.B. (1977) Spectral reflectance  (1972)  Lunar surface processes and cosmic ray
+    of lunar highland rocks (abs). Lunar  Sci. VIII, 172-174.   characterization from Apollo 12-15 lunar samples analyses.
+   Lunar Planetary Institute, Houston.                         Proc. 3rd Lunar Sci. Conf. 1681-1691.
+
+   Drozd R.J., Kennedy B.M., Morgan C.J., Podosek F.A. and  Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+    Taylor G.J.  (1976) The excess fission xenon problem in   volumes). Curatoial Branch Pub. # 72, JSC#20787
+    lunar samples. Proc. 7th Lunar Sci. Conf. 599-623.
+                                                              Schaeffer O.A., Plienger T. and Hartung J.B. (1976) Spatial
+   Dymek R.F., Albee A.L. and Chodos A.A. (1974)  Glass-   distribution of rare gases in lunar breccia 15426 and the
+    coated soil breccia 15205: Selenologic history and petrologic   exposed surface of rock 15205 (abs). Lunar Sci. VII, 770-
+    constraints on the nature of its source region. Proc. 5th Lunar   772.
+    Sci. Conf. 235-260.
+                                                            Schneider E., Storzer D., Hartung J.B., Fechtig H. and Genter
+    Epstein S. and Taylor H.P. (1972) O18/O16, Si30/Si28, C13/C12  W. (1973) Microcraters on Apollo 15 and 16 samples and
+   and D/H studies of Apollo 14 and 15 samples. Proc. 3rd   corresponding cosmic dust fluxes. Proc. 4th Lunar Sci. Conf.
+   Lunar Sci. Conf. 1429-1454.                             3277-3290.
+
+    Fruchter J.S., Rancitelli L.A., Evans J.C. and Perkins R.W.  Simon S.B., Papike J.J., Grosselin D.C. and Laul J.C. (1986)
+    (1978) Lunar surface processes and cosmic ray histories   Petrology of the Apollo 15 regolith breccias.  Geochim.
+    over the past several million years. Proc. 9th Lunar Planet.  Cosmochim. Acta 50, 2675-2691.
+    Sci. Conf. 2019-2032.
+                                                             Sutton R.L., Hait M.H., Larson K.B., Swann G.A., Reed V.S.
+   Fruland R.M. (1983)  Regolith Breccia Workbook.                                                      and Schaber G.G. (1972)  Documentation of Apollo 15
+    Curatorial Branch Publication # 66. JSC 19045.                                                            samples. Interagency report: Astrogeology 47. U.S.G.S.
+
+
+Lunar Sample Compendium
+C Meyer 2009
+--- age block 5; lines 27-39 ---
+J.B. (1973) Some physical parameters of micrometeoids.
+    Proc. 4th Lunar Sci. Conf. 3197-3212.                    Nagle J.S. (1982) Subcrater lithification of polymict regolith
+                                                                   breccias. Proc. 13th Lunar Planet. Sci. in J. Geophys. Res.
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’   87, A131-A146.
+    Office, MSC 03209
+                                                                    Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+    Charette M.P. and Adams J.B. (1977) Spectral reflectance  (1972)  Lunar surface processes and cosmic ray
+    of lunar highland rocks (abs). Lunar  Sci. VIII, 172-174.   characterization from Apollo 12-15 lunar samples analyses.
+   Lunar Planetary Institute, Houston.                         Proc. 3rd Lunar Sci. Conf. 1681-1691.
+
+   Drozd R.J., Kennedy B.M., Morgan C.J., Podosek F.A. and  Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+    Taylor G.J.  (1976) The excess fission xenon problem in   volumes). Curatoial Branch Pub. # 72, JSC#20787
+    lunar samples. Proc. 7th Lunar Sci. Conf. 599-623.
+--- age block 6; lines 45-57 ---
+Schneider E., Storzer D., Hartung J.B., Fechtig H. and Genter
+    Epstein S. and Taylor H.P. (1972) O18/O16, Si30/Si28, C13/C12  W. (1973) Microcraters on Apollo 15 and 16 samples and
+   and D/H studies of Apollo 14 and 15 samples. Proc. 3rd   corresponding cosmic dust fluxes. Proc. 4th Lunar Sci. Conf.
+   Lunar Sci. Conf. 1429-1454.                             3277-3290.
+
+    Fruchter J.S., Rancitelli L.A., Evans J.C. and Perkins R.W.  Simon S.B., Papike J.J., Grosselin D.C. and Laul J.C. (1986)
+    (1978) Lunar surface processes and cosmic ray histories   Petrology of the Apollo 15 regolith breccias.  Geochim.
+    over the past several million years. Proc. 9th Lunar Planet.  Cosmochim. Acta 50, 2675-2691.
+    Sci. Conf. 2019-2032.
+                                                             Sutton R.L., Hait M.H., Larson K.B., Swann G.A., Reed V.S.
+   Fruland R.M. (1983)  Regolith Breccia Workbook.                                                      and Schaber G.G. (1972)  Documentation of Apollo 15
+    Curatorial Branch Publication # 66. JSC 19045.                                                            samples. Interagency report: Astrogeology 47. U.S.G.S.
+--- references block 7; lines 1-7 ---
+References for 15205
+   Adams J.B. and McCord T.B. (1972) Optical evidence for   Hartung J.B. and Storzer D. (1974) Lunar microcraters and
+    average pyroxene composition of Apollo 15 samples.  In   their solar flare track record.  Proc. 5th Lunar Sci. Conf.
+   The Apollo 15 Lunar Samples, 10-13. Lunar Planetary   2527-2541.
+    Institute, Houston.
+                                                            Keith J.E., Clark R.S. and Richardson K.A. (1972) Gamma-
+   Allen R.O., Jovanovic S. and Reed G.W. (1973)   ray measurements of Apollo 12, 14 and 15 lunar samples.
+
+=== PDF PAGE 10; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 22-34 ---
+Willis J.P., Erlank A.J., Gurney J.J. and Ahrens L.H. (1972)
+    Geochemical features of Apollo 15 materials. In The Apollo
+    15 Lunar Samples (Chamberlain J.W. and Watkins C., eds.),
+    268-271. The Lunar Science Institute, Houston.
+
+    Wilshire H.G. and Moore H.J. (1974)  Glass-coated lunar
+    rock fragments. J. Geol. 82, 403-417.
+
+   Zook H.A., Hartung J.B. and Storzer D. (1976) Solar flare
+     activity record as derived from lunar microcrater data (abs).
+    Lunar Sci. VII, 968-970. The Lunar Science Institute,
+    Houston.
+--- material block 2; lines 1-8 ---
+Spudis P. and Taylor G.J. (2009) A major KREEP-basalt –
+   Mare basalt unconformity on the Moon (abs#1039). Lunar
+    Planet. Sci. XL, Luanr Planetary Institute, The Woodlands.
+
+   Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+    G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971)
+    Preliminary description of Apollo 15 sample environments.
+    U.S.G.S. Interagency report: 36. pp219 with maps
+--- material block 3; lines 23-35 ---
+Willis J.P., Erlank A.J., Gurney J.J. and Ahrens L.H. (1972)
+    Geochemical features of Apollo 15 materials. In The Apollo
+    15 Lunar Samples (Chamberlain J.W. and Watkins C., eds.),
+    268-271. The Lunar Science Institute, Houston.
+
+    Wilshire H.G. and Moore H.J. (1974)  Glass-coated lunar
+    rock fragments. J. Geol. 82, 403-417.
+
+   Zook H.A., Hartung J.B. and Storzer D. (1976) Solar flare
+     activity record as derived from lunar microcrater data (abs).
+    Lunar Sci. VII, 968-970. The Lunar Science Institute,
+    Houston.

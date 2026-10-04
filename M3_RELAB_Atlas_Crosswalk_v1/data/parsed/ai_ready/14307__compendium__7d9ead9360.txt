@@ -1,0 +1,403 @@
+DOCUMENT_ID: 14307__compendium__7d9ead9360
+ATLAS_SAMPLE_IDS: 14307
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14307.pdf
+SOURCE_PDF_SHA256: 050bef6ad82fd24e3045908cc7e541696890f6f945811725c60697a3a0cea18e
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 16-30 ---
+Figure 2: West end of 14307 is hackly.Cube is 1         Figure 3: East end of 14307. Cube is 1 cm. S71-
+            cm. S71-28488.                                    28479.
+
+   Introduction
+   14307 was picked up at station G near the trench and  one side (Horz 1972).  It contains glass in the matrix,
+   core tubes (figure 4).  Its lunar orientation is known  so it is a regolith breccia.  It also has excess 40Ar so it
+   from the micrometeorite removal of glass splatter on  may be considered an ancient regolith breccia.
+
+
+
+
+                                                                                                             Mineral
+                                                                                                             Clasts
+--- mineralogy block 2; lines 41-52 ---
+14307                                                                                                                                                                                                                            Crystalline-Matrix-Breccias
+
+                                                                                14307
+
+
+                                                                                              Lithic
+                                                                                                                                Glass                                                                               Clasts
+           Figure 4: Traverse map for Apollo 14 with
+            location of 14307.                                      Figure 5: Simonds diagram for Apollo 14 breccias.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-12 ---
+14307
+                                  Regolth Breccia
+                                       155 grams
+
+
+                                                            Clast A
+
+
+
+
+
+                          Figure 1: Photo of 14307. Sample is about 7 cm long. NASA S71-30361.
+--- material block 4; lines 16-47 ---
+Figure 2: West end of 14307 is hackly.Cube is 1         Figure 3: East end of 14307. Cube is 1 cm. S71-
+            cm. S71-28488.                                    28479.
+
+   Introduction
+   14307 was picked up at station G near the trench and  one side (Horz 1972).  It contains glass in the matrix,
+   core tubes (figure 4).  Its lunar orientation is known  so it is a regolith breccia.  It also has excess 40Ar so it
+   from the micrometeorite removal of glass splatter on  may be considered an ancient regolith breccia.
+
+
+
+
+                                                                                                             Mineral
+                                                                                                             Clasts
+                                                                                                Apollo 14
+
+                                                                                  CMB (Fra Mauro)
+
+                                                                                                                                     Regolith breccias
+
+                                                                                                                                           Light matrix breccia
+
+
+
+                      14307                                                                                                                                                                                                                            Crystalline-Matrix-Breccias
+
+                                                                                14307
+
+
+                                                                                              Lithic
+                                                                                                                                Glass                                                                               Clasts
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 4-29 ---
+14307
+
+                                                                                                               11
+
+
+                                                                                                               10
+                                             FeO
+                                                                      wt. %   9
+
+                                                                                                                    8              CMB      VMB
+
+                                                                                                                    7
+
+
+                                                                                                                    6
+
+
+                                                                                                                    5
+                                                                                                                    12     13    14    15     16     17    18     19     20    21    22     23
+                                                                              Al2O3 wt. %
+
+                                                                 Figure 7: Composition of Apollo 14 breccias with
+                                                               14307.
+
+
+                                                                                                1000
+--- mineralogy block 2; lines 54-83 ---
+14307,41 with large clast of impact melt breccia.                                                                            for 14307, compared with KREEP.
+          S71-38802. Field of view is ~1.5 cm.
+
+
+                                           Other Studies
+   Petrography                                  Bogard and Nyquist (1972) found very high 22Ne in
+   14307 is a clast-rich regolith breccia with glass spheres   the dark portion of 14307. Bernatowitz et al. (1977)
+   and agglutinates in the matrix (Fruland 1983). Simonds  and Eugster et al. (2001) also studied trapped,
+     et al. (1977) classified it as a vitric matrix breccias   fissionogenic and cosmogenic noble gases in 14307.
+    with abundant clasts (figure 5). Simon et al. (1989)  There is an excess of 40Ar in the matrix (figure 10).
+   compared 14307 with other Apollo 14 regolith breccias
+   and Delano (1987) studied the numerous glass spheres.
+
+   There are two large clasts (>5 mm). Clast A is exposed
+   on the east end (figure 1 and 11). Clast B is rounded
+   and was found in the slabs made through the center of        Mineralogical Mode for 14307
+    the sample. One of these clasts has a portion that is                         Simonds et       Simon et
+                                                                                                                al 1977               al. 1989
+   mare basalt (figure 9).                                                                       Matrix          65 %            58
+                                                                               Clasts
+   Chemistry                                                            Plagioclase       1.5                4.4
+   The Apollo 14 regolith breccias (vitric matrix breccias)          Mafic          3                  6.1
+                                                                           Breccia         12
+    are slightly more aluminous than the Fra Mauro                                                                          Glass          1                  9.3
+    breccias (crystalline matrix breccias) (figure 7). 14307           Agglutinate     1               2
+    has a high content of REE (figure 8).                               Granulite       9                  1.4
+                                                              Mare basalt      6.5                1.2
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 48-83 ---
+0.1
+                                                                                    La      Pr    Sm    Gd     Dy      Er     Yb                                                                            Ce     Nd     Eu     Tb    Ho    Tm     Lu
+          Figure 6: Photomicrograph of thin section                                                                  Figure 8: Normalized rare-earth-element diagram
+         14307,41 with large clast of impact melt breccia.                                                                            for 14307, compared with KREEP.
+          S71-38802. Field of view is ~1.5 cm.
+
+
+                                           Other Studies
+   Petrography                                  Bogard and Nyquist (1972) found very high 22Ne in
+   14307 is a clast-rich regolith breccia with glass spheres   the dark portion of 14307. Bernatowitz et al. (1977)
+   and agglutinates in the matrix (Fruland 1983). Simonds  and Eugster et al. (2001) also studied trapped,
+     et al. (1977) classified it as a vitric matrix breccias   fissionogenic and cosmogenic noble gases in 14307.
+    with abundant clasts (figure 5). Simon et al. (1989)  There is an excess of 40Ar in the matrix (figure 10).
+   compared 14307 with other Apollo 14 regolith breccias
+   and Delano (1987) studied the numerous glass spheres.
+
+   There are two large clasts (>5 mm). Clast A is exposed
+   on the east end (figure 1 and 11). Clast B is rounded
+   and was found in the slabs made through the center of        Mineralogical Mode for 14307
+    the sample. One of these clasts has a portion that is                         Simonds et       Simon et
+                                                                                                                al 1977               al. 1989
+   mare basalt (figure 9).                                                                       Matrix          65 %            58
+                                                                               Clasts
+   Chemistry                                                            Plagioclase       1.5                4.4
+   The Apollo 14 regolith breccias (vitric matrix breccias)          Mafic          3                  6.1
+                                                                           Breccia         12
+    are slightly more aluminous than the Fra Mauro                                                                          Glass          1                  9.3
+    breccias (crystalline matrix breccias) (figure 7). 14307           Agglutinate     1               2
+    has a high content of REE (figure 8).                               Granulite       9                  1.4
+                                                              Mare basalt      6.5                1.2
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: age,chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 14307.
+
+
+    reference  Hubbard72  Wiesmann76      Simon 89
+    weight               Hubbard72        162 mg
+   SiO2 %    46.9     (b)          matrix
+    TiO2      1.84     (b)  1.75    1.98     (a)  1.93     (c )
+   Al2O3     16.5     (b)                     16.2     (c )
+   FeO       12.3     (b)                     10.4     (c )
+   MnO      0.14     (b)                    0.153    (c )
+   MgO      9.76     (b)  10.9    9.45     (a)  9.7      (c )
+   CaO      10.8     (b)  10.8    10.5     (a)  9.7      (c )
+   Na2O     0.7      (b)  0.9     0.75     (a)  0.82     (c )
+   K2O      0.55     (b)  0.64    0.59     (a)  0.84     (c )
+   P2O5     0.51     (b)
+   S %       0.1      (b)
+   sum
+
+   Sc ppm                                   21.4     (c )
+   V                                    42       (c )
+--- material block 2; lines 1-12 ---
+Table 1. Chemical composition of 14307.
+
+
+    reference  Hubbard72  Wiesmann76      Simon 89
+    weight               Hubbard72        162 mg
+   SiO2 %    46.9     (b)          matrix
+    TiO2      1.84     (b)  1.75    1.98     (a)  1.93     (c )
+   Al2O3     16.5     (b)                     16.2     (c )
+   FeO       12.3     (b)                     10.4     (c )
+   MnO      0.14     (b)                    0.153    (c )
+   MgO      9.76     (b)  10.9    9.45     (a)  9.7      (c )
+   CaO      10.8     (b)  10.8    10.5     (a)  9.7      (c )
+--- age block 3; lines 25-37 ---
+Zn
+   Ga
+   Ge ppb
+   As
+   Se
+   Rb       14       (b) 16     15.3     (a) 28       (c )       Berdot et al. (1972) and Poupeau et al. (1972)
+    Sr        163      (b) 192    166     (a) 130      (c )       determined the cosmic ray tracks and discussed the   Y        188      (b)
+    Zr        842      (b)                   740      (c )         solar wind gas contents of 14307.
+   Nb       53       (b)
+   Mo
+   Ru                                            Processing
+   Rh                                           14307 was picked up at station G, placed in bag 25N
+   Pd ppb                                          and returned in weigh bag 1031. Two slabs were cut   Ag ppb
+--- references block 4; lines 1-10 ---
+Table 1. Chemical composition of 14307.
+
+
+    reference  Hubbard72  Wiesmann76      Simon 89
+    weight               Hubbard72        162 mg
+   SiO2 %    46.9     (b)          matrix
+    TiO2      1.84     (b)  1.75    1.98     (a)  1.93     (c )
+   Al2O3     16.5     (b)                     16.2     (c )
+   FeO       12.3     (b)                     10.4     (c )
+   MnO      0.14     (b)                    0.153    (c )
+--- references block 5; lines 63-72 ---
+Os ppb
+      Ir ppb                                 5        (c )
+    Pt ppb
+   Au ppb                                     5.2      (c )
+   Th ppm   12       (b)                   13       (c )
+   U ppm                 4.9     3.28     (a)  3.5      (c )
+    technique:  (a) IDMS, (b) XRF, (c ) INAA
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 7; CATEGORIES: material ===
+--- material block 1; lines 1-19 ---
+Clast A
+
+
+
+
+
+                        Figure 11: Two slabs cut from 14307. Cube is 1 inch. S71-30381
+
+
+
+
+
+                                                                       Clast A
+
+
+
+
+
+                        Figure 12: Two slabs cut from 14307. Cube is 1 inch. S71-30383
+
+=== PDF PAGE 8; CATEGORIES: material ===
+--- material block 1; lines 1-7 ---
+Clast B
+
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 9; CATEGORIES: age,material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 50-62 ---
+B.M. and Wiesmann H. (1972)  Rb-Sr systematics for   Chen H.-K., Delano J.W. and Lindsley D.H. (1982)
+                                                            chemically defined Apollo 14 breccias.  Proc. 3rd Lunar    Chemistry and phase relations of VLT volcanic glasses from
+                                                                       Sci, Conf. 1515-1530.    Apollo 14 and Apollo 17. Proc. 13th Lunar Planet. Sci.
+    Conf. A171-A181.
+                                                        Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+                                                           (1976a) Lithification of vitric- and elastic-matrix breccias:    Delano J.W. (1987) Apollo 14 regolith breccias: Different
+                                      SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.     glass populations and their potential for charting space/time
+     variations. Proc. 18th Lunar Planet Sci. Conf. 59-65.
+                                                     Poupeau G., Pellas P., Lorin J.C., Chetrit G.C. and Berdot
+                                                                      J.L. (1972) Track analysis of rocks 15058, 15555, 15641    Epstein S. and Taylor H.P. (1972) O18/O16, Si30/Si28, C13/
+                                                       and 14307.  The Apollo 15 Samples. 385-387. LPI     C12 and D/H studies of Apollo 14 and 15 samples. Proc. 3rd
+    Lunar Sci. Conf. 1429-1454.
+--- material block 2; lines 26-61 ---
+G. (1972) Track studies of Apollo 14 rocks and Apollo 14,
+                                                           Eugster O., Terribilini Dario, Polnau E. and Kramers J.    Apollo 15 and Luna 16 soils. Proc. 3rd Lunar Sci. Conf.
+                                                           (2001) The antiquity indicator argon-40/argon-36 for lunar    2867-2881.
+                                                             surface camples calibrated by uranium-235-xenon-136
+                                                                   dating. Meteoritics & Planet. Sci. 36, 1097-1115.    Berdot J.L., Chetrit G.C., Lorin J.C., Pellas P. and Poupeau
+     G. (1972)  Irradiation studies of lunar soils: 15100, Luna
+                                                           Fruland R.M. (1983) Regolith Breccia Workbook. JSC    20 and compacted soil from breccia 14307. The Apollo 15
+                                                    19045    Samples, 333-335. LPI
+
+                                                     Hörz F., Morrison D.A. and Hartung J.B. (1972) The surface    Bernatowitz T., Drozd R.J., Hohenberg C.M., Lugmair G.,
+                                                                  orientation of some Apollo 14 rocks. Modern Geology 3,    Morgan C.J. and Podosek F.A. (1977) The regolith history
+                                                           93-104.     of 14307. Proc. 8th Lunar Sci. Conf. 2763-2783.
+
+                                                  Hubbard N.J., Gast P.W., Rhodes J.M., Bansal B.M.,    Bogard D.D. and Nyquist L.E. (1972) Noble gas studies
+                                                  Wiesmann H. and Church S.E. (1972) Nonmare basalts:    on regolith materials from Apollo 14 and 15.  Proc. 3rd
+                                                                 Part II. Proc. 3rd Lunar Sci. Conf. 1161-1179.    Lunar Sci. Conf. 1797-1819.
+
+                                             LSPET (1971) Preliminary examination of lunar samples    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+                                                      from Apollo 14. Science 173, 681-693.    Samples. Curators Office. JSC 14240
+
+                                                      Lugmair G.W. and Carlson R.W. (1978) The Sm-Nd history    Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14
+                                                               of KREEP. Proc. 9th Lunar Planet. Sci. Conf. 689-704.     breccias: General characteristics and classification. Proc.
+      3rd Lunar Sci. Conf. 645-659.
+                                                          Nyquist L.E., Hubbard N.J., Gast P.W., Church S.E., Bansal
+                                                  B.M. and Wiesmann H. (1972)  Rb-Sr systematics for   Chen H.-K., Delano J.W. and Lindsley D.H. (1982)
+                                                            chemically defined Apollo 14 breccias.  Proc. 3rd Lunar    Chemistry and phase relations of VLT volcanic glasses from
+                                                                       Sci, Conf. 1515-1530.    Apollo 14 and Apollo 17. Proc. 13th Lunar Planet. Sci.
+    Conf. A171-A181.
+                                                        Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+                                                           (1976a) Lithification of vitric- and elastic-matrix breccias:    Delano J.W. (1987) Apollo 14 regolith breccias: Different
+                                      SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.     glass populations and their potential for charting space/time
+     variations. Proc. 18th Lunar Planet Sci. Conf. 59-65.
+                                                     Poupeau G., Pellas P., Lorin J.C., Chetrit G.C. and Berdot
+                                                                      J.L. (1972) Track analysis of rocks 15058, 15555, 15641    Epstein S. and Taylor H.P. (1972) O18/O16, Si30/Si28, C13/
+                                                       and 14307.  The Apollo 15 Samples. 385-387. LPI     C12 and D/H studies of Apollo 14 and 15 samples. Proc. 3rd
+    Lunar Sci. Conf. 1429-1454.
+--- age block 3; lines 24-36 ---
+References for 14307
+    Berdot J.L., Chetrit G.C., Lorin J.C., Pellas P. and Poupeau
+     G. (1972) Track studies of Apollo 14 rocks and Apollo 14,
+                                                           Eugster O., Terribilini Dario, Polnau E. and Kramers J.    Apollo 15 and Luna 16 soils. Proc. 3rd Lunar Sci. Conf.
+                                                           (2001) The antiquity indicator argon-40/argon-36 for lunar    2867-2881.
+                                                             surface camples calibrated by uranium-235-xenon-136
+                                                                   dating. Meteoritics & Planet. Sci. 36, 1097-1115.    Berdot J.L., Chetrit G.C., Lorin J.C., Pellas P. and Poupeau
+     G. (1972)  Irradiation studies of lunar soils: 15100, Luna
+                                                           Fruland R.M. (1983) Regolith Breccia Workbook. JSC    20 and compacted soil from breccia 14307. The Apollo 15
+                                                    19045    Samples, 333-335. LPI
+
+                                                     Hörz F., Morrison D.A. and Hartung J.B. (1972) The surface    Bernatowitz T., Drozd R.J., Hohenberg C.M., Lugmair G.,
+                                                                  orientation of some Apollo 14 rocks. Modern Geology 3,    Morgan C.J. and Podosek F.A. (1977) The regolith history
+--- treatment block 4; lines 25-37 ---
+Berdot J.L., Chetrit G.C., Lorin J.C., Pellas P. and Poupeau
+     G. (1972) Track studies of Apollo 14 rocks and Apollo 14,
+                                                           Eugster O., Terribilini Dario, Polnau E. and Kramers J.    Apollo 15 and Luna 16 soils. Proc. 3rd Lunar Sci. Conf.
+                                                           (2001) The antiquity indicator argon-40/argon-36 for lunar    2867-2881.
+                                                             surface camples calibrated by uranium-235-xenon-136
+                                                                   dating. Meteoritics & Planet. Sci. 36, 1097-1115.    Berdot J.L., Chetrit G.C., Lorin J.C., Pellas P. and Poupeau
+     G. (1972)  Irradiation studies of lunar soils: 15100, Luna
+                                                           Fruland R.M. (1983) Regolith Breccia Workbook. JSC    20 and compacted soil from breccia 14307. The Apollo 15
+                                                    19045    Samples, 333-335. LPI
+
+                                                     Hörz F., Morrison D.A. and Hartung J.B. (1972) The surface    Bernatowitz T., Drozd R.J., Hohenberg C.M., Lugmair G.,
+                                                                  orientation of some Apollo 14 rocks. Modern Geology 3,    Morgan C.J. and Podosek F.A. (1977) The regolith history
+                                                           93-104.     of 14307. Proc. 8th Lunar Sci. Conf. 2763-2783.
+--- references block 5; lines 18-30 ---
+,67                                    ,44            ,49
+                                          ,17
+                                          ,18
+                              TS                                    ,47            ,51
+                                                          TS         TS
+
+    References for 14307
+    Berdot J.L., Chetrit G.C., Lorin J.C., Pellas P. and Poupeau
+     G. (1972) Track studies of Apollo 14 rocks and Apollo 14,
+                                                           Eugster O., Terribilini Dario, Polnau E. and Kramers J.    Apollo 15 and Luna 16 soils. Proc. 3rd Lunar Sci. Conf.
+                                                           (2001) The antiquity indicator argon-40/argon-36 for lunar    2867-2881.
+                                                             surface camples calibrated by uranium-235-xenon-136
+                                                                   dating. Meteoritics & Planet. Sci. 36, 1097-1115.    Berdot J.L., Chetrit G.C., Lorin J.C., Pellas P. and Poupeau
+
+=== PDF PAGE 10; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-9 ---
+Simon S.B., Papike J.J., Shearer C.K., Hughes S.S. and
+    Schmitt R.A. (1989) Petrology of Apollo 14 regolith breccias
+    and ion microprobe studies of glass beads. Proc. 19th Lunar
+    Planet. Sci. Conf. 1-17.
+
+    Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+    Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+     revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+     Sci. Conf. 1869-1893.
+--- material block 2; lines 1-8 ---
+Simon S.B., Papike J.J., Shearer C.K., Hughes S.S. and
+    Schmitt R.A. (1989) Petrology of Apollo 14 regolith breccias
+    and ion microprobe studies of glass beads. Proc. 19th Lunar
+    Planet. Sci. Conf. 1-17.
+
+    Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+    Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+     revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+--- material block 3; lines 32-44 ---
+Tatsumoto M., Hedge C.E., Doe B.R. and Unruh D.M. (1972)
+    U-Th-Pb and Rb-Sr measurements on some Apollo 14 lunar
+    samples. Proc. 3rd Lunar Sci. Conf. 1531-1555.
+
+    von Engelhardt W., Arndt J., Stoffler D. and Schneider H.
+    (1972)  Apollo 14 regolith and fragmental rocks, their
+    compositions and origins by impacts. Proc. 3rd Lunar Sci.
+    Conf. 753-770.
+
+    Warner J.L. (1972) Metamophism of Apollo 14 breccias.
+    Proc. 3rd Lunar Sci. Conf. 623-643.

@@ -1,0 +1,66 @@
+DOCUMENT_ID: 14071__compendium__3cce9bc7f6
+ATLAS_SAMPLE_IDS: 14071
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14071.pdf
+SOURCE_PDF_SHA256: 3d0f21263d7a2de89e9c496690a5d04480ab15bb872d254728d79a548ef3f753
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 1-8 ---
+14071
+                                    Olivine Basalt
+                                           2.16 grams
+--- mineralogy block 2; lines 11-24 ---
+Introduction
+  Sample 14071 was picked up on the flank of Cone Crater (Swann et al. 1971).  It has not been allocated.
+
+  Petrography
+  14071 has homogeneous igneous texture (Wilshire and Jackson 1972; Carlson and Walton 1978).
+  The only thin section (,2) shows a high proportion of mafic minerals. (olivine and high-Ca
+  pyroxene)(figure 2).  It is probably a mare basalt.
+
+
+                                                                 Figure 2: Photomicrographs of thin section
+                                                               14071,2 by C Meyer @100x.
+--- material block 3; lines 1-8 ---
+14071
+                                    Olivine Basalt
+                                           2.16 grams
+--- material block 4; lines 12-35 ---
+Introduction
+  Sample 14071 was picked up on the flank of Cone Crater (Swann et al. 1971).  It has not been allocated.
+
+  Petrography
+  14071 has homogeneous igneous texture (Wilshire and Jackson 1972; Carlson and Walton 1978).
+  The only thin section (,2) shows a high proportion of mafic minerals. (olivine and high-Ca
+  pyroxene)(figure 2).  It is probably a mare basalt.
+
+
+                                                                 Figure 2: Photomicrographs of thin section
+                                                               14071,2 by C Meyer @100x.
+
+
+
+
+
+  References for 14071                             Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+  Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock    M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+  Samples. Curators Office. JSC 14240                       Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+                                                     Geology of the Apollo 14 landing site in the Fra Mauro
+  LSPET (1971) Preliminary examination of lunar samples    Highlands. U.S.G.S. Prof. Paper 880.
+  from Apollo 14. Science 173, 681-693.
+                                                 Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+  Neal C.R. and Kramer G.Y. (2006) The petrogenesis of the    M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,
+--- references block 5; lines 22-34 ---
+14071,2 by C Meyer @100x.
+
+
+
+
+
+  References for 14071                             Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+  Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock    M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+  Samples. Curators Office. JSC 14240                       Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+                                                     Geology of the Apollo 14 landing site in the Fra Mauro
+  LSPET (1971) Preliminary examination of lunar samples    Highlands. U.S.G.S. Prof. Paper 880.
+  from Apollo 14. Science 173, 681-693.
+                                                 Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait

@@ -1,0 +1,173 @@
+DOCUMENT_ID: 15436__compendium__43b039307d
+ATLAS_SAMPLE_IDS: 15436
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15436.pdf
+SOURCE_PDF_SHA256: e5503ff9a2188c1028f7f1597ca7f400f20197e05917850fda2a41d597b1d7b0
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy,treatment ===
+--- mineralogy block 1; lines 17-36 ---
+Petrography
+15436 is a vesicular, fine-grained melt with include         Figure 2: Transmitted and cross-polarized light
+mineral grains and lithic fragments (figure 2).        photomicrographs of thin section 15436,4 @ 50x by
+According to Ryder and Spudis (1987), 15436 has a      C Meyer.
+groundmass with a “granular texture but with many
+lathy plagioclases and tiny ilmenite blades”. Interstitial
+glass is common. Clasts include plagioclases and lithic
+fragments up to 600 microns across.
+
+Chemistry
+Ryder and Spudis (1987) give the only analysis (figure
+). Warren and Wasson (1977) refused to analyze the
+piece of glass that they were issued, because it was not
+representative.
+
+Radiogenic age dating
+Dalrymple and Ryder (1987) tried, but were unable to
+obtain a flat Ar/Ar plateau for 15436.                          Figure 3: Normalized REE diagram for 15436.
+--- material block 2; lines 1-21 ---
+15436
+                                 Impact melt
+                                            3.5 grams
+
+
+
+
+
+      Figure 1: Photo of 15436. Scale is 1 cm. S78-
+      25485.
+
+Introduction
+15436 was a < 1 cm particle sieved from the soil
+collected along with the “pedestal” sample at Spur
+Crater (see 15431).  It is a round black and white rock
+with a chalky white dust covering (figure 1).
+
+Petrography
+15436 is a vesicular, fine-grained melt with include         Figure 2: Transmitted and cross-polarized light
+mineral grains and lithic fragments (figure 2).        photomicrographs of thin section 15436,4 @ 50x by
+According to Ryder and Spudis (1987), 15436 has a      C Meyer.
+--- age block 3; lines 27-38 ---
+Chemistry
+Ryder and Spudis (1987) give the only analysis (figure
+). Warren and Wasson (1977) refused to analyze the
+piece of glass that they were issued, because it was not
+representative.
+
+Radiogenic age dating
+Dalrymple and Ryder (1987) tried, but were unable to
+obtain a flat Ar/Ar plateau for 15436.                          Figure 3: Normalized REE diagram for 15436.
+
+   Lunar Sample Compendium
+  C Meyer 2010
+--- treatment block 4; lines 7-19 ---
+Figure 1: Photo of 15436. Scale is 1 cm. S78-
+      25485.
+
+Introduction
+15436 was a < 1 cm particle sieved from the soil
+collected along with the “pedestal” sample at Spur
+Crater (see 15431).  It is a round black and white rock
+with a chalky white dust covering (figure 1).
+
+Petrography
+15436 is a vesicular, fine-grained melt with include         Figure 2: Transmitted and cross-polarized light
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 15436
+
+
+reference  Ryder87
+weight
+SiO2 %    49.2     (a)
+TiO2      2.41     (a)
+Al2O3     16.7     (a)
+FeO       9.3       (a)
+                                                 C Meyer      15436MnO      0.15     (a)                                                               2010MgO       8.6       (a)                                              3.5 g
+CaO       10.7     (a)
+Na2O     0.775    (a)
+K2O       1.09     (a)                                               ,0           ,1      ,2        ,3       ,6        ,7
+P2O5     0.89     (a)                                          2.5 g     PB    ~0.2 g   0.1 g   0.1 g    0.5 g
+S %
+sum                                                                                            ,4
+                                                                                            ,5
+Sc ppm    17.7     (a)                                             TS
+V
+--- chemistry block 2; lines 39-51 ---
+Cd ppb
+In ppb
+Sn ppb                                            Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+Sb ppb                                                  volumes). Curatoial Branch Pub. # 72, JSC#20787
+Te ppb
+Cs ppm    0.98     (a)
+                                                    Ryder G. and Spudis P. (1987) Chemical composition andBa       740      (a)
+La         80.8     (a)                                        origin of Apollo 15 impact melts. Proc. 17th Lunar Planet.
+Ce       252      (a)                                            Sci. Conf. in J. Geophys. Res. 92, E432-446.
+Pr
+Nd       146      (a)
+                                              Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., UlrichSm        39.7     (a)
+Eu         2.9       (a)                                       G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+--- material block 3; lines 21-33 ---
+Co        20.5     (a)                                References for 15436
+Ni        98        (a)                                        Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+Cu                                                            Office, MSC 03209
+Zn
+Ga
+Ge ppb                                              Dalrymple G.B. and Ryder G. (1993) 40Ar/39Ar age spectra
+As                                                         of Apollo 15 impact melt rocks by laser step-heating and
+Se                                                                 their bearing on the history of lunar basin formation.  J.
+Rb       20        (a)
+Sr                                                   Geophys. Res. 98, 13,085-13,095.
+Y
+Zr        680      (a)                            LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+Nb                                                            description. Science 175, 363-375.
+--- age block 4; lines 20-32 ---
+Cr        1220     (a)
+Co        20.5     (a)                                References for 15436
+Ni        98        (a)                                        Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+Cu                                                            Office, MSC 03209
+Zn
+Ga
+Ge ppb                                              Dalrymple G.B. and Ryder G. (1993) 40Ar/39Ar age spectra
+As                                                         of Apollo 15 impact melt rocks by laser step-heating and
+Se                                                                 their bearing on the history of lunar basin formation.  J.
+Rb       20        (a)
+Sr                                                   Geophys. Res. 98, 13,085-13,095.
+Y
+Zr        680      (a)                            LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+--- references block 5; lines 1-10 ---
+Table 1. Chemical composition of 15436
+
+
+reference  Ryder87
+weight
+SiO2 %    49.2     (a)
+TiO2      2.41     (a)
+Al2O3     16.7     (a)
+FeO       9.3       (a)
+                                                 C Meyer      15436MnO      0.15     (a)                                                               2010MgO       8.6       (a)                                              3.5 g
+--- references block 6; lines 15-27 ---
+S %
+sum                                                                                            ,4
+                                                                                            ,5
+Sc ppm    17.7     (a)                                             TS
+V
+Cr        1220     (a)
+Co        20.5     (a)                                References for 15436
+Ni        98        (a)                                        Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+Cu                                                            Office, MSC 03209
+Zn
+Ga
+Ge ppb                                              Dalrymple G.B. and Ryder G. (1993) 40Ar/39Ar age spectra
+As                                                         of Apollo 15 impact melt rocks by laser step-heating and
+--- references block 7; lines 64-73 ---
+Os ppb
+                                                          5-1-112.Ir ppb
+Pt ppb
+Au ppb                                           Warren P.H. and Wasson J.T. (1978)  Compositional-
+Th ppm    12.3     (a)
+                                                          petrographic investigation of pristine nonmare rocks. Proc.U ppm     3.4       (a)
+technique:  (a) INAA                                                       9th Lunar Planet. Sci. Conf. 185-217.
+
+  Lunar Sample Compendium
+  C Meyer 2010

@@ -1,0 +1,258 @@
+DOCUMENT_ID: 68115__compendium__e7987c418c
+ATLAS_SAMPLE_IDS: 68115
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/68115.pdf
+SOURCE_PDF_SHA256: f93595a6212090b8b7e11756cab613270ba438a6d9ea1327b036685d3189a706
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material ===
+--- material block 1; lines 1-8 ---
+68115
+                              Glassy Polymict Breccia
+                                       1190 grams
+--- age block 2; lines 15-25 ---
+Figure 2: Photo of 68115, top. Cube is 1 cm. S72-37355
+
+   Introduction
+   68115 was chipped from a meter-sized boulder on the
+                                                 68115 has been bombarded by micrometeorites on all   slope of Stone Mountain (figures 4 and 5). This boulder
+                                                            sides that were not freshly broken from the boulder –   could be a “bomb” from South Ray Crater, because
+                                                         but no one appears to have studied the size distribution.   the exposure age is 2 m.y.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-20 ---
+Figure 3: End of 68115,11 showing odd twisted glass structure. S72-37361
+
+
+    In general, 68115 has not been adequately described
+    nor studied scientifically.                            Glass:  Grieve et al. (1974) described and analyzed
+                                                            glass in 68115 (table 2). The rather fantastic, very
+   Petrography                                            vesicular, glass seen in figure 3 does not appear to have
+   68115 is a heterogeneous breccia which is welded  been studied.
+    together by flow-banded glass (Grieve et al. 1974;
+   Ryder and Norman 1980). The sample appears to be  Metal:  Misra and Taylor (1975) found the metallic
+   made up of a wide variety of impact melts, with a   iron grains in 68115 to have Ni and Co contents in the
+    variety of recrystallized textures. They generally  range of meteoritic metal (figure 7). Hunter and Taylor
+    include relict plagioclase clasts.  The generally  (1981) reported minor rust but abundant schreibersite.
+    aluminous composition and frequent large plagioclase  Taylor et al. (1976) performed heating experiments to
+    inclusions indicate that the precursor material was   see if they could homogenize metal composition.
+    ferroan anorthosite (Ryder and Norman 1980).
+                                             Chemistry
+   There appears to be an orange stain on the surface  Taylor et al. (1974), Fruchter et al. (1974), Rancitelli
+    (figure 1). It also has an unusual area of very vesicular   et al. (1973) and Touboul et al. (2000) have analyzed
+    melt on one end (figure 3).                             portions of 68115, but they have not spelled out what
+--- material block 2; lines 2-14 ---
+In general, 68115 has not been adequately described
+    nor studied scientifically.                            Glass:  Grieve et al. (1974) described and analyzed
+                                                            glass in 68115 (table 2). The rather fantastic, very
+   Petrography                                            vesicular, glass seen in figure 3 does not appear to have
+   68115 is a heterogeneous breccia which is welded  been studied.
+    together by flow-banded glass (Grieve et al. 1974;
+   Ryder and Norman 1980). The sample appears to be  Metal:  Misra and Taylor (1975) found the metallic
+   made up of a wide variety of impact melts, with a   iron grains in 68115 to have Ni and Co contents in the
+    variety of recrystallized textures. They generally  range of meteoritic metal (figure 7). Hunter and Taylor
+    include relict plagioclase clasts.  The generally  (1981) reported minor rust but abundant schreibersite.
+    aluminous composition and frequent large plagioclase  Taylor et al. (1976) performed heating experiments to
+
+=== PDF PAGE 4; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-10 ---
+glass matrix breccia
+
+
+                   glass matrix breccia
+
+
+
+
+
+                                                                              recrystalized breccia
+--- material block 2; lines 1-19 ---
+glass matrix breccia
+
+
+                   glass matrix breccia
+
+
+
+
+
+                                                                              recrystalized breccia
+
+
+                  recrystalized breccia
+
+             Figure 6: Thin section photomicrographs of 68115 (from Ryder and Norman 1980). All are 2 mm across.
+
+=== PDF PAGE 5; CATEGORIES: age,chemistry,mineralogy ===
+--- chemistry block 1; lines 20-40 ---
+1980).   Slab A was cut from the middle of 68115, creating end
+   pieces ,11 (64 g) and ,10 (760 grams). There are 8 thin
+    sections.
+
+                                                         Table 2: Composition of glass in 68115.
+                                                                              Grieve 1974                  Taylor 1976
+                                                                  SiO2     44.53    48.23   44.23      (a)
+                                                               TiO2     0.22     1.28     0.1         (a)
+                                                             Al2O3   29.35    17.97   34.43      (a)
+                                                          FeO     3.28     7.59     1.18       (a)
+                                             MnO             0.04     0.04       (a)
+                                              MgO     3.63     11.49   0.86       (a)
+                                                       CaO     17.5     11.41   18.71      (a)
+                                                     Na2O    0.68     0.65     0.47       (a)
+                                                      K2O     0.12     0.5      0.06       (a)
+
+                                                                        Tech: (a) E-Probe
+
+        Figure 7 : Ni and Co in 68115, before and after
+        heating experiments (Taylor et al. 1976).
+--- mineralogy block 2; lines 18-30 ---
+Figure 8: Normalized rare-earth-element
+   Processing                                               diagram for 68115 (from Ryder and Norman
+                                                                     1980).   Slab A was cut from the middle of 68115, creating end
+   pieces ,11 (64 g) and ,10 (760 grams). There are 8 thin
+    sections.
+
+                                                         Table 2: Composition of glass in 68115.
+                                                                              Grieve 1974                  Taylor 1976
+                                                                  SiO2     44.53    48.23   44.23      (a)
+                                                               TiO2     0.22     1.28     0.1         (a)
+                                                             Al2O3   29.35    17.97   34.43      (a)
+                                                          FeO     3.28     7.59     1.18       (a)
+                                             MnO             0.04     0.04       (a)
+--- age block 3; lines 1-17 ---
+Radiogenic age dating
+  None
+
+   Cosmogenic isotopes and exposure ages
+   Drozd et al. (1974) determined exposure ages for 68115
+   of 2.08 m.y. by 81Kr, 1.75 m.y. by 21Ne and 2.18 m.y.
+   by 38Ar techniques. The case for this to represent the
+   age of the cratering event at South Ray crater is made
+   by Eugster (1999).
+
+    Rancitelli et al. (1973) determined the cosmic-ray-
+   induced activity for 22Na = 38 dpm/kg and 26Al = 83
+   dpm/kg.
+
+   Other Studies
+   Bogard and Gibson (1975) studied the release of rare
+   gases and carbon compounds (figure 10).
+
+=== PDF PAGE 6; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 68115.
+
+
+     reference  Taylor 74    Fruchter 74  Wolf79
+     weight                          Ganapathy74
+    SiO2 %    44.8     (a)
+    TiO2      0.34     (a)
+    Al2O3     27.6     (a)  31.6      (b)
+   FeO       5.1      (a)  3.2       (b)
+   MnO
+   MgO      5.79     (a)
+   CaO       15.4     (a)
+   Na2O     0.47     (a)  0.45      (b)
+   K2O       0.06     (a)
+   P2O5
+   S %
+    sum
+
+    Sc ppm   9        (a)  5.2       (b)
+   V        24       (a)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 68115.
+
+
+     reference  Taylor 74    Fruchter 74  Wolf79
+     weight                          Ganapathy74
+    SiO2 %    44.8     (a)
+    TiO2      0.34     (a)
+    Al2O3     27.6     (a)  31.6      (b)
+   FeO       5.1      (a)  3.2       (b)
+   MnO
+--- references block 3; lines 65-75 ---
+Os ppb
+       Ir ppb                              0.04       (c )
+     Pt ppb
+    Au ppb
+    Th ppm    2.66     (a)  1.9       (b)
+   U ppm     0.74     (a)               1.8         (c )
+     technique : (a) SSMS, (b) INAA, (c ) RNAA
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 9; CATEGORIES: age,chemistry,material,references,treatment ===
+--- chemistry block 1; lines 48-60 ---
+Misra K.C. and Taylor L.A. (1975) Characteristics of metal
+    particles in Apollo 16 rocks.  Proc. 6th Lunar Sci. Conf.
+   615-639.
+
+   Pepin R.O., Basford J.R., Dragon J.C., Johnson N.L., Coscio
+   M.R. and Murthy V.R. (1974) Rare gases and trace elements
+    in Apollo 15 drill fines: Depositional chronologies and K-
+   Ar ages and production rates of spallation-produced 3He,
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 13-25 ---
+Institute, Houston.
+    Eugster O. (1999) Chronology of dimict breccias and the
+   age of South Ray crater at the Apollo 16 site.  Meteor. &  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    Planet. Sci. 34, 385-391.                                  rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Fruchter J.S., Kriedelbaugh S.J., Robyn M.A. and Goles G.G.   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    (1974)  Breccia 66055 and related clastic materials from   In Geology of the Apollo 16 area, central lunar highlands.
+    the Descartes region, Apollo 16. Proc. 5th Lunar Sci. Conf.   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   1035-1046.
+                                                             Taylor S.R., Gorton M., Muir P., Nance W., Rudowski R.
+   Ganapathy R., Morgan J.W., Higuchi H., Anders E. and  and Ware N. (1974)  Lunar highland composition (abs).
+   Anderson A.T. (1974) Meteoritic and volatile elements in  Lunar Sci. V, 789-791. Lunar Planetary Institute, Houston.
+   Apollo 16 rocks and in separated phases from 14306. Proc.
+--- age block 3; lines 4-21 ---
+Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   (1973)  Lunar surface and solar process analyses from
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   cosmogenic radionuclide measurements at the Apollo 16 site
+    Catalog. pp. 370.                                               (abs). Lunar Sci. IV, 609-612. Lunar Planetary Institute,
+                                                          Houston.
+   Drozd R.J., Hohenberg C.M., Morgan C.J. and Ralston C.E.
+    (1974) Cosmic-ray exposure history at the Apollo 16 and   Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+    other lunar sites: lunar surface dynamics.  Geochim.   (1973b) Primordial radiouclides in soils and rocks from the
+   Cosmochim. Acta 38, 1625-1642.                         Apollo 16 site(abs). Lunar Sci. IV, 615-617. Lunar Planetary
+                                                                          Institute, Houston.
+    Eugster O. (1999) Chronology of dimict breccias and the
+   age of South Ray crater at the Apollo 16 site.  Meteor. &  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    Planet. Sci. 34, 385-391.                                  rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Fruchter J.S., Kriedelbaugh S.J., Robyn M.A. and Goles G.G.   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    (1974)  Breccia 66055 and related clastic materials from   In Geology of the Apollo 16 area, central lunar highlands.
+    the Descartes region, Apollo 16. Proc. 5th Lunar Sci. Conf.   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   1035-1046.
+--- treatment block 4; lines 19-31 ---
+(1974)  Breccia 66055 and related clastic materials from   In Geology of the Apollo 16 area, central lunar highlands.
+    the Descartes region, Apollo 16. Proc. 5th Lunar Sci. Conf.   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   1035-1046.
+                                                             Taylor S.R., Gorton M., Muir P., Nance W., Rudowski R.
+   Ganapathy R., Morgan J.W., Higuchi H., Anders E. and  and Ware N. (1974)  Lunar highland composition (abs).
+   Anderson A.T. (1974) Meteoritic and volatile elements in  Lunar Sci. V, 789-791. Lunar Planetary Institute, Houston.
+   Apollo 16 rocks and in separated phases from 14306. Proc.
+     5th Lunar Sci. Conf. 1659-1683.                            Taylor L.A., Misra K.C. and Walker B.M. (1976) Subsolidus
+                                                                     reequilibration, grain growth, and compositional changes of
+   Grieve R.A.F., Plant A.G. and Dence M.R. (1974) Lunar   native FeNi metal in lunar rocks. Proc. 7th Lunar Sci. Conf.
+   impact melts and terrestrial analogs: Their characteristics,   837-857.
+    formation and implications for crustal evolution. Proc. 5th
+   Lunar Sci. Conf. 261-273.                              Touboul M., Kleine T., Bourdon B., Palme H. and Wieler R.
+--- references block 5; lines 1-7 ---
+References for 68115                                  22Ne and 38Ar vrs. depth. Proc. 5th Lunar Sci. Conf. 2149-
+   Bogard D. and Gibson E.K. (1975) Volatile gases in breccias   2184.
+   68115 (abs). Lunar Sci. VI 63-65. The Luny Inst.
+                                                                    Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   (1973)  Lunar surface and solar process analyses from
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   cosmogenic radionuclide measurements at the Apollo 16 site
+    Catalog. pp. 370.                                               (abs). Lunar Sci. IV, 609-612. Lunar Planetary Institute,

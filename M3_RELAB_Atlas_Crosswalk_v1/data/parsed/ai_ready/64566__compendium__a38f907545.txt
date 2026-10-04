@@ -1,0 +1,69 @@
+DOCUMENT_ID: 64566__compendium__a38f907545
+ATLAS_SAMPLE_IDS: 64566
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64566.pdf
+SOURCE_PDF_SHA256: c95a848edddb8c2671234715682d8212e30951ef8c1c00b9fdcdfd9c7a19d70d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 3-23 ---
+Figure 1: Shows that 64566 is a complex mix of
+            glass and light colored breccia.                 References for 64566
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   Introduction                                           Catalog. pp. 370.
+   64566 was collected as a rake sample from 64500.
+                                                        Korotev R.L. (1994) Compositional variation in Apollo 16
+   Petrography                                        impact melt breccias and inferences for the geology and
+    It is a complex mix of glass and impact melt.  bombardment history of the central highlands of the Moon.
+                                                      Geochim. Cosmochim. Acta 58, 3931-3969.   Mineralogy has not been reported.
+
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   Chemistry                                                       and chemical description. Science 179, 23-34.
+   McKinley et al. (1983) and Korotev (1994) appear to
+   have analyzed the sample.                          McKinley J.P., Taylor G.J., Keil K., Ma M.-S. and Schmitt
+                                                        R.A. (1984) Apollo 16: Impact sheets, contrasting nature of
+--- material block 2; lines 1-22 ---
+64566 – 14.1 grams
+                                                    Impact Melt Breccia
+
+
+
+
+
+           Figure 1: Shows that 64566 is a complex mix of
+            glass and light colored breccia.                 References for 64566
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   Introduction                                           Catalog. pp. 370.
+   64566 was collected as a rake sample from 64500.
+                                                        Korotev R.L. (1994) Compositional variation in Apollo 16
+   Petrography                                        impact melt breccias and inferences for the geology and
+    It is a complex mix of glass and impact melt.  bombardment history of the central highlands of the Moon.
+                                                      Geochim. Cosmochim. Acta 58, 3931-3969.   Mineralogy has not been reported.
+
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   Chemistry                                                       and chemical description. Science 179, 23-34.
+   McKinley et al. (1983) and Korotev (1994) appear to
+   have analyzed the sample.                          McKinley J.P., Taylor G.J., Keil K., Ma M.-S. and Schmitt
+--- age block 3; lines 18-30 ---
+LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   Chemistry                                                       and chemical description. Science 179, 23-34.
+   McKinley et al. (1983) and Korotev (1994) appear to
+   have analyzed the sample.                          McKinley J.P., Taylor G.J., Keil K., Ma M.-S. and Schmitt
+                                                        R.A. (1984) Apollo 16: Impact sheets, contrasting nature of
+   Radiogenic age dating                                 the Cayley Plains and Descartes Mountains, and geologic
+   none                                                            history. Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys.
+                                                            Res. 89, B513-B524.
+
+   Processing                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   There is only one thin section and I don’t have access   rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+    to it.
+--- references block 4; lines 3-15 ---
+Figure 1: Shows that 64566 is a complex mix of
+            glass and light colored breccia.                 References for 64566
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                               16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   Introduction                                           Catalog. pp. 370.
+   64566 was collected as a rake sample from 64500.
+                                                        Korotev R.L. (1994) Compositional variation in Apollo 16
+   Petrography                                        impact melt breccias and inferences for the geology and

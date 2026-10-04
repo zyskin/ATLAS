@@ -1,0 +1,412 @@
+DOCUMENT_ID: 15241__compendium__485975fcda
+ATLAS_SAMPLE_IDS: 15241,15251
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15241.pdf
+SOURCE_PDF_SHA256: 6fd67e7bf39acd5a0b8efe6c04440af0cdc5acaaea455d576069a4f14e60ddc2
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 7-28 ---
+25
+                                                                             20                      Apollo soils
+
+
+                                                                             15
+                               FeO                 15241
+                                                                             10                15251
+
+
+                                                                                 5
+
+
+                                                                                 0
+                                                                                   0       5       10      15      20      25      30      35
+                                                           Al2O3
+
+                                                              Figure 2: Composition of 15241 and 15251 com-
+                                                             pared with other Apollo soil samples.
+
+
+                                                                                                       200
+--- chemistry block 2; lines 43-64 ---
+20                              Lunar Soils
+
+                                                                                                                  0
+                                                                                                                    0          20          40          60          80         100         120
+
+                                                                                   maturity (Is/FeO)
+
+                                                              Figure 3: Carbon content and maturity of 15241
+                                                        and 15251 (Moore et al. 1973; Morris 1978).
+
+
+        Figure 1: Location of soil samples 15241 and
+       15251 from bottom and rim of approx. 1 m crater at  Petrography
+         station 6 (Apennine Front). AS15-86-11610.
+                                         The maturity index (Is/FeO) for 15241  is 45
+                                                       (submature); and for 15251 is 75 (mature). The average
+ Introduction                                        grain size is 42 microns for 15251 and 103 microns for
+ Sample 15250 was collected from the rim of a 1 meter  15241.  15241 does not have normal grain size
+  crater at station 6, Apollo 15, on the lower slopes of   distribution, with too many coarse particles (figure 5a).
+ the Apennine Front. The lunar surface in the vicinity
+ of the crater had numerous small rocks exposed (figure  Powell (1972) and Ryder and Sherman (1989)
+--- mineralogy block 3; lines 61-73 ---
+Sample 15250 was collected from the rim of a 1 meter  15241.  15241 does not have normal grain size
+  crater at station 6, Apollo 15, on the lower slopes of   distribution, with too many coarse particles (figure 5a).
+ the Apennine Front. The lunar surface in the vicinity
+ of the crater had numerous small rocks exposed (figure  Powell (1972) and Ryder and Sherman (1989)
+ 1) indicating the crater was “fresh”.  15240 was   cataloged the coarse-fine particles.
+  collected from the bottom of the crater and included
+ numerous fragments of soil breccia with glass coating,  Ryder et al. (1987) studied some of the coarse-fine
+ both in the coarse-fines and in the >1cm fraction   particles from 15243, finding 9 KREEP basalt, 20
+  (labeled 15245).                                         regolith breccia, ~13 impact melt rocks and only one
+                                                             cataclastic anorthosite.
+
+
+Lunar Sample Compendium
+--- material block 4; lines 19-31 ---
+0
+                                                                                   0       5       10      15      20      25      30      35
+                                                           Al2O3
+
+                                                              Figure 2: Composition of 15241 and 15251 com-
+                                                             pared with other Apollo soil samples.
+
+
+                                                                                                       200
+
+                                                                                                       180                       15251
+--- material block 5; lines 49-74 ---
+maturity (Is/FeO)
+
+                                                              Figure 3: Carbon content and maturity of 15241
+                                                        and 15251 (Moore et al. 1973; Morris 1978).
+
+
+        Figure 1: Location of soil samples 15241 and
+       15251 from bottom and rim of approx. 1 m crater at  Petrography
+         station 6 (Apennine Front). AS15-86-11610.
+                                         The maturity index (Is/FeO) for 15241  is 45
+                                                       (submature); and for 15251 is 75 (mature). The average
+ Introduction                                        grain size is 42 microns for 15251 and 103 microns for
+ Sample 15250 was collected from the rim of a 1 meter  15241.  15241 does not have normal grain size
+  crater at station 6, Apollo 15, on the lower slopes of   distribution, with too many coarse particles (figure 5a).
+ the Apennine Front. The lunar surface in the vicinity
+ of the crater had numerous small rocks exposed (figure  Powell (1972) and Ryder and Sherman (1989)
+ 1) indicating the crater was “fresh”.  15240 was   cataloged the coarse-fine particles.
+  collected from the bottom of the crater and included
+ numerous fragments of soil breccia with glass coating,  Ryder et al. (1987) studied some of the coarse-fine
+ both in the coarse-fines and in the >1cm fraction   particles from 15243, finding 9 KREEP basalt, 20
+  (labeled 15245).                                         regolith breccia, ~13 impact melt rocks and only one
+                                                             cataclastic anorthosite.
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 6; lines 43-74 ---
+20                              Lunar Soils
+
+                                                                                                                  0
+                                                                                                                    0          20          40          60          80         100         120
+
+                                                                                   maturity (Is/FeO)
+
+                                                              Figure 3: Carbon content and maturity of 15241
+                                                        and 15251 (Moore et al. 1973; Morris 1978).
+
+
+        Figure 1: Location of soil samples 15241 and
+       15251 from bottom and rim of approx. 1 m crater at  Petrography
+         station 6 (Apennine Front). AS15-86-11610.
+                                         The maturity index (Is/FeO) for 15241  is 45
+                                                       (submature); and for 15251 is 75 (mature). The average
+ Introduction                                        grain size is 42 microns for 15251 and 103 microns for
+ Sample 15250 was collected from the rim of a 1 meter  15241.  15241 does not have normal grain size
+  crater at station 6, Apollo 15, on the lower slopes of   distribution, with too many coarse particles (figure 5a).
+ the Apennine Front. The lunar surface in the vicinity
+ of the crater had numerous small rocks exposed (figure  Powell (1972) and Ryder and Sherman (1989)
+ 1) indicating the crater was “fresh”.  15240 was   cataloged the coarse-fine particles.
+  collected from the bottom of the crater and included
+ numerous fragments of soil breccia with glass coating,  Ryder et al. (1987) studied some of the coarse-fine
+ both in the coarse-fines and in the >1cm fraction   particles from 15243, finding 9 KREEP basalt, 20
+  (labeled 15245).                                         regolith breccia, ~13 impact melt rocks and only one
+                                                             cataclastic anorthosite.
+
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material ===
+--- chemistry block 1; lines 13-25 ---
+Figure 4: Normalized rare-earth-element
+                                          Other Studies       diagram for 15241.
+                                                Bogard and Nyquist (1973) determined the rare gas
+                                                       content and isotopic ratios of 15251. Chemistry
+ Palme et al. (1978), Korotev (1987), Cuttitta et al.
+                                               Processing  (1973) and other determined the chemical composition
+                                               15240 and 15250 were returned in a sealed ALSRC  (figures 2 and 4).
+                                                        (#1) and have only been exposed to dry GN2 in the
+                                                         curation cabinets.
+--- material block 2; lines 2-14 ---
+C for 15240 and 15250 respectively (figure ). Reed et
+                                                                        al. (1972) also determined the halogens, Li, Hg Te, Ru
+                                                and Os in 15251.
+
+                                                  Walker and Papike (1981) used chemical mixing model
+                                                      techniques to calculate that 15251 was 30 % KREEP,
+                                               31 % mare basalt and 33 % LKFM.
+
+                                             Radiogenic age dating
+                                        The age of this (young) carter has not been
+                                                  determined.
+
+        Figure 4: Normalized rare-earth-element
+--- material block 3; lines 22-38 ---
+curation cabinets.
+
+
+
+
+
+        Average grain size = 103 microns                       Average grain size = 42 microns
+
+
+
+
+
+       Figure 5a: Grain size distribution for 15240 (Graf          Figure 5b: Grain size distribution for 15250 (Graf
+       1993).                                                    1993).
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 4; lines 4-17 ---
+and Os in 15251.
+
+                                                  Walker and Papike (1981) used chemical mixing model
+                                                      techniques to calculate that 15251 was 30 % KREEP,
+                                               31 % mare basalt and 33 % LKFM.
+
+                                             Radiogenic age dating
+                                        The age of this (young) carter has not been
+                                                  determined.
+
+        Figure 4: Normalized rare-earth-element
+                                          Other Studies       diagram for 15241.
+                                                Bogard and Nyquist (1973) determined the rare gas
+                                                       content and isotopic ratios of 15251. Chemistry
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 15241.      Table 2. Composition of 15251.
+                                         15245
+  reference  Palme78    Korotev87             Brunfelt72        reference   Cuttitta73   Brunfelt72
+  weight                                                         weight
+ SiO2 %    46.7      (a)                                    SiO2 %    47.02   (a)
+  TiO2      1.55         1.55     (a)           1.23    (a)       TiO2       1.49    (a)  1.4      (b)
+ Al2O3     16.5         16.5     (a)           15.8    (a)       Al2O3     16.28   (a) 16.1     (b)
+ FeO      12          12.4     (a)          12      (a)      FeO      12      (a) 11.96   (b)
+ MnO      0.16                              0.17    (a)     MnO       0.16    (a) 0.16     (b)
+ MgO      10.4         10.4     (a)            9.9      (a)     MgO      10.31   (a)
+ CaO      11           11.3     (a)            9.8      (a)     CaO       11.25   (a)  11.9     (b)
+ Na2O     0.48         0.46     (a)           0.46    (a)      Na2O      0.54    (a) 0.46     (b)
+ K2O       0.2                                    K2O       0.22    (a)
+ P2O5      0.22                                     P2O5      0.24    (a)
+ S %       0.074                                   S %
+ sum                                              sum
+
+ Sc ppm    24.7      (a) 25.4     (a)           21.9    (a)      Sc ppm   24      (a) 23       (b)
+ V                                       76      (a)      V        85      (a) 111      (b)
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 15241.      Table 2. Composition of 15251.
+                                         15245
+  reference  Palme78    Korotev87             Brunfelt72        reference   Cuttitta73   Brunfelt72
+  weight                                                         weight
+ SiO2 %    46.7      (a)                                    SiO2 %    47.02   (a)
+  TiO2      1.55         1.55     (a)           1.23    (a)       TiO2       1.49    (a)  1.4      (b)
+ Al2O3     16.5         16.5     (a)           15.8    (a)       Al2O3     16.28   (a) 16.1     (b)
+ FeO      12          12.4     (a)          12      (a)      FeO      12      (a) 11.96   (b)
+ MnO      0.16                              0.17    (a)     MnO       0.16    (a) 0.16     (b)
+--- references block 3; lines 64-73 ---
+Os ppb                                           Os ppb
+   Ir ppb     10        (b) 8.1      (a)                                              Ir ppb                  7.1      (b)
+  Pt ppb                                                           Pt ppb
+ Au ppb    8         (b) 2.7      (a)                       Au ppb                 4.8      (b)
+ Th ppm    3.84      (a) 4.2      (a)           3.98    (a)      Th ppm                3.7      (b)
+ U ppm     0.96      (a) 1.02     (a)           1.02    (a)     U ppm                1.16     (b)
+  technique:  (a) INAA, (b) RNAA                                    technique:  (a)”microchemical”, (b) INAA
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 3. Composition of KREEP.
+  15243    KREEP  Impact Melt
+  reference  Ryder88
+  weight     ,19      ,21
+  SiO2 %
+  TiO2
+  Al2O3
+  FeO       10.3     8.6         (a)
+  MnO
+  MgO
+  CaO       10.4     12.6       (a)
+  Na2O      0.82     0.702      (a)
+  K2O               0.098
+  P2O5                                C Meyer                                 15245  S %                                              15240                                                 2010                                                                              115 g  sum                                                  378 g
+
+  Sc ppm    21.9     18.3       (a)
+  V                                 15240    15241        15242  15243  15244
+  Cr        2240    1100       (a)            67 g     197 g          18.9 g  31.8 g  32.6 g     numerous  Co       21       21.4       (a)                                                                                                                                                   soil breccias
+  Ni                58
+--- material block 2; lines 1-8 ---
+Table 3. Composition of KREEP.
+  15243    KREEP  Impact Melt
+  reference  Ryder88
+  weight     ,19      ,21
+  SiO2 %
+  TiO2
+  Al2O3
+  FeO       10.3     8.6         (a)
+--- material block 3; lines 12-24 ---
+Na2O      0.82     0.702      (a)
+  K2O               0.098
+  P2O5                                C Meyer                                 15245  S %                                              15240                                                 2010                                                                              115 g  sum                                                  378 g
+
+  Sc ppm    21.9     18.3       (a)
+  V                                 15240    15241        15242  15243  15244
+  Cr        2240    1100       (a)            67 g     197 g          18.9 g  31.8 g  32.6 g     numerous  Co       21       21.4       (a)                                                                                                                                                   soil breccias
+  Ni                58
+  Cu                                                ,0       ,13           ,15   ,16   ,17     ,18       ,21  Zn                                                       ,14
+  Ga                                  48 g   100 g       5 g  5 g   5 g     2 g      1 g
+  Ge ppb
+  As                                                            ,28   ,29        ,31    ,32     ,40
+  Se                                                  2 g  2 g       1 g    1 g     0.5 g
+--- references block 4; lines 1-9 ---
+Table 3. Composition of KREEP.
+  15243    KREEP  Impact Melt
+  reference  Ryder88
+  weight     ,19      ,21
+  SiO2 %
+  TiO2
+  Al2O3
+  FeO       10.3     8.6         (a)
+  MnO
+--- references block 5; lines 60-69 ---
+Os ppb
+    Ir ppb
+  Pt ppb
+  Au ppb    < 4     < 6         (a)
+  Th ppm    11.4     1.37       (a)
+  U ppm    3        0.42       (a)
+  technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 11-23 ---
+Sundvoll B. (1972)  Elemental composition of Apollo 15
+  samples. In The Apollo 15 Lunar Samples 195-197. LPI  Powell B.N., Aitken F.K. and Weiblen P.W. (1973)
+                                                                    Classification, distribution and origin of lithic fragments from
+  Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’   the Hadley-Apennine region.  Proc. 4th Lunar Sci. Conf.
+  Office, MSC 03209                                     445-460.
+
+  Cuttitta F., Rose H.J., Annell C.S., Carron M.K., Christian  Reed G.W., Jovanovic S. and Fuchs L. (1972) Trace element
+  R.P., Ligon D.T., Dwornik E.J., Wright T.L. and Greenland   relations between Apollo 14 and 15 and other lunar samples,
+  L.P. (1973) Chemistry of twenty-one igneous rocks and soils  and the implications of a moon-wide Cl-KREE coherence
+  returned by the Apollo 15 mission.  Proc. 4th Lunar Sci.  and Pt-metal coherence. Proc. 3rd Lunar Sci. Conf. 1989-
+  Conf. 1081-1096.                                       2001.
+
+  Epstein S. and Taylor H.P. (1972) O18/O16, Si30/Si28, C13/  Ryder G., Lindstrom M.M. and Willis K. (1988)  The
+--- chemistry block 2; lines 45-57 ---
+Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total  Walker R.J. and Papike J.J. (1981) The Apollo 15 regolith:
+ carbon contents of Apollo 15 and 16 lunar samples. Proc.  Chemical modeling and mare/highland mixing. Proc. 12th
+  4th Lunar Sci. Conf. 1613-1923.                        Lunar Planet. Sci. Conf. 509-517.
+
+ Morris R.V. (1978) The surface exposure (maturity) of lunar
+  soils: Some concepts and Is/FeO compilation.  Proc. 9th
+ Lunar Planet . Sci. Conf. 2287-2298.
+
+ Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+ Handbook of Lunar Soils. JSC 19069
+--- material block 3; lines 1-13 ---
+References for 15241 and 15251                    Palme H., Baddenhausen H., Blum K., Cendales M., Dreibus
+  Best J.B. and Minkin J.A. (1972) Apollo 15 glasses of impact   G., Hofmeister H., Kmse H., Palme C., Spettel B. Vilcsek E.
+  origin. In The Apollo 15 Lunar Samples, 34-39. Lunar  and Wanke H. (1978) New data on lunar samples and
+  Planetary Institute, Houston.                              achondrites and a comparison of the least fractionated
+                                                       samples from the Earth, the moon, and the eucrite parent
+ Bogard D.D. and Nyquist L.E. (1973) 40Ar/36Ar variations   body. Proc. 9th Lunar Planet. Sci. Conf. 25-57.
+  in Apollo 15 and 16 regolith.  Proc. 4th Lunar Sci. Conf.
+ 1975-1986.                                           Powell B.N. (1972)  Apollo 15 Coarse Fines (4-10mm):
+                                                  Sample classification, description and inventory. MSC
+  Brunfelt A.O., Heier K.S., Nilssen B., Steiennes E. and  03228 Curator’s Office JSC
+ Sundvoll B. (1972)  Elemental composition of Apollo 15
+  samples. In The Apollo 15 Lunar Samples 195-197. LPI  Powell B.N., Aitken F.K. and Weiblen P.W. (1973)
+                                                                    Classification, distribution and origin of lithic fragments from
+--- material block 4; lines 21-52 ---
+Conf. 1081-1096.                                       2001.
+
+  Epstein S. and Taylor H.P. (1972) O18/O16, Si30/Si28, C13/  Ryder G., Lindstrom M.M. and Willis K. (1988)  The
+ C12 and D/H studies of Apollo 14 and 15 samples. Proc.   reliability of macroscopic identification of lunar coarse fines
+  3rd Lunar Sci. Conf. 1429-1455.                              particles and the petrogenesis of 2-4 mm particles in
+                                                    Apennine Front sample 15243. Proc. 18th Lunar Planet.
+ Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Sci. Conf. 219-232. Lunar Planetary Institute, Houston.
+ Reference Pub. 1265, March 1993
+                                                     Ryder G. and Sherman S.B. (1989) The Apollo 15 Coarse
+ Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Fines. Curators Office #81, JSC#24035
+
+ Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.  Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+ Space Phys. 13, 567-587.                                   G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+                                                           Preliminary description of Apollo 15 sample environments.
+ Korotev R.L. (1987) Mixing levels, the Apennine Front soil   U.S.G.S. Interagency report: 36. pp219 with maps
+ component, and compositional trends in the Apollo 15 soils.
+  Proc. 17th Lunar Planet. Sci. Conf. E411-431.            Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+                                                       M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+ LSPET (1972a) The Apollo 15 lunar samples: A preliminary   K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+  description. Science 175, 363-375.                          G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+                                                         Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary
+ LSPET (1972b) Preliminary examination of lunar samples.   Geologic Investigation of the Apollo 15 landing site.  In
+ Apollo 15 Preliminary Science Report. NASA SP-289, 6-   Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+ 1—6-28.                                                  5-1-112.
+
+ Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total  Walker R.J. and Papike J.J. (1981) The Apollo 15 regolith:
+ carbon contents of Apollo 15 and 16 lunar samples. Proc.  Chemical modeling and mare/highland mixing. Proc. 12th
+  4th Lunar Sci. Conf. 1613-1923.                        Lunar Planet. Sci. Conf. 509-517.
+
+ Morris R.V. (1978) The surface exposure (maturity) of lunar
+  soils: Some concepts and Is/FeO compilation.  Proc. 9th
+ Lunar Planet . Sci. Conf. 2287-2298.
+--- treatment block 5; lines 44-56 ---
+1—6-28.                                                  5-1-112.
+
+ Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total  Walker R.J. and Papike J.J. (1981) The Apollo 15 regolith:
+ carbon contents of Apollo 15 and 16 lunar samples. Proc.  Chemical modeling and mare/highland mixing. Proc. 12th
+  4th Lunar Sci. Conf. 1613-1923.                        Lunar Planet. Sci. Conf. 509-517.
+
+ Morris R.V. (1978) The surface exposure (maturity) of lunar
+  soils: Some concepts and Is/FeO compilation.  Proc. 9th
+ Lunar Planet . Sci. Conf. 2287-2298.
+
+ Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+ Handbook of Lunar Soils. JSC 19069
+--- references block 6; lines 1-7 ---
+References for 15241 and 15251                    Palme H., Baddenhausen H., Blum K., Cendales M., Dreibus
+  Best J.B. and Minkin J.A. (1972) Apollo 15 glasses of impact   G., Hofmeister H., Kmse H., Palme C., Spettel B. Vilcsek E.
+  origin. In The Apollo 15 Lunar Samples, 34-39. Lunar  and Wanke H. (1978) New data on lunar samples and
+  Planetary Institute, Houston.                              achondrites and a comparison of the least fractionated
+                                                       samples from the Earth, the moon, and the eucrite parent
+ Bogard D.D. and Nyquist L.E. (1973) 40Ar/36Ar variations   body. Proc. 9th Lunar Planet. Sci. Conf. 25-57.
+  in Apollo 15 and 16 regolith.  Proc. 4th Lunar Sci. Conf.
+--- references block 7; lines 22-34 ---
+Epstein S. and Taylor H.P. (1972) O18/O16, Si30/Si28, C13/  Ryder G., Lindstrom M.M. and Willis K. (1988)  The
+ C12 and D/H studies of Apollo 14 and 15 samples. Proc.   reliability of macroscopic identification of lunar coarse fines
+  3rd Lunar Sci. Conf. 1429-1455.                              particles and the petrogenesis of 2-4 mm particles in
+                                                    Apennine Front sample 15243. Proc. 18th Lunar Planet.
+ Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA   Sci. Conf. 219-232. Lunar Planetary Institute, Houston.
+ Reference Pub. 1265, March 1993
+                                                     Ryder G. and Sherman S.B. (1989) The Apollo 15 Coarse
+ Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Fines. Curators Office #81, JSC#24035
+
+ Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.  Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+ Space Phys. 13, 567-587.                                   G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+                                                           Preliminary description of Apollo 15 sample environments.

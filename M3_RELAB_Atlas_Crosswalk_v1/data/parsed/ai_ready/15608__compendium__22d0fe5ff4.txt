@@ -1,0 +1,48 @@
+DOCUMENT_ID: 15608__compendium__22d0fe5ff4
+ATLAS_SAMPLE_IDS: 15608
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15608.pdf
+SOURCE_PDF_SHA256: cd6c22c337d274975507610b1a1112b556fb170513b8cf1b4bffd0b3efc8a6f7
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+15608
+                                              Unusual Basalt
+                                                                 1.2 grams
+
+=== PDF PAGE 4; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 6-28 ---
+deserves some study.                              There are three thin sections of this particle.
+
+   Petrography
+    Ryder (1985) describes this particle as the chilled
+    margin of a lava flow. It consists of numerous skeletal
+    pigeonite mcirophenocrysts in a finer-grained variolitic
+   groundmass of pyroxene, plagioclase and opaque
+    minerals (figure 2 and 3). One edge of the particle is a
+    beautiful example of “comb layering”. Fine parallel
+    crystals of pyroxene project towards the edge.
+    Beautiful radial clusters have formed around nucleation
+    centers
+
+    There are clusters of olivine crystals in the center.
+
+
+
+
+
+          Figure 4: Euhderal olivine with chromite inclusions in 15608. Meyer
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 2; lines 1-10 ---
+Introduction
+   15608 was collected by rake from the Terrace on the  Chemistry
+    rim of Hadley Rille (see section on 15614).  It is a  None reported
+    basalt with unusual texture interpreted as the result of
+    rapid cooling at the edge of a lava flow. Hey, guys, it  Processing
+    deserves some study.                              There are three thin sections of this particle.
+
+   Petrography
+    Ryder (1985) describes this particle as the chilled
+    margin of a lava flow. It consists of numerous skeletal

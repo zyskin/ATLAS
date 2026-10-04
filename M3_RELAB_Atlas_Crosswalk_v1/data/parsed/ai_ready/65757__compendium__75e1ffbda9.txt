@@ -1,0 +1,166 @@
+DOCUMENT_ID: 65757__compendium__75e1ffbda9
+ATLAS_SAMPLE_IDS: 65757,65767
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65757.pdf
+SOURCE_PDF_SHA256: a0686103f8eb9e88e44e8d5f87074e108d5a162031349c6fcee025347f613be8
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 12-45 ---
+En                                          Fs  En                                          Fs
+
+    Fo                                        Fa  Fo                                        Fa
+
+           compiled by C Meyer                                                                       compiled by C Meyer
+
+        Figure 5: Pyroxene composition in 65757 anorthosite       Figure 6: Pyroxene composition in 65767 anorthosite
+         clast (Warner et al. 1976).                                      clast (Warner et al. 1976).
+
+
+   Introduction                                    References for 65757
+   These two glassy objects contain relatively large white   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s    clasts (figures 1 and 2). They were collected as rake
+                                                               Catalog. pp. 370.
+    samples – see section on 65701.
+
+                                                  Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:
+   Petrography                                          a widespread and distinctive lunar rock type. Earth Planet.
+   Dowty et al. (1974), Warner et al. (1976) give brief   Sci. Lett. 24, 15-25.
+    descriptions of anorthosite clasts, including pyroxene
+    diagrams, indicating that the white clasts are ferroan   Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+    anorthosite (see figures). Warren (1994) calls them   Description, classification and inventory of 151 Apollo 16
+     pristine. Plagioclase is An98.                            rake samples from the LM area and station 5.  Curator’s
+                                                               Catalog, JSC.
+   Chemistry                                                        Korotev R.L. (1994) Compositional variation in Apollo 16
+   The analysis of 65757 by Korotev (1994) is very                                                          impact melt breccias and inferences for the geology and
+   KREEPy and must be of glass matrix.   It also has  bombardment history of the central highlands of the Moon.
+    extremely high Ni, Ir and Au. The analyses of the  Geochim. Cosmochim. Acta 58, 3931-3969.
+    anorthosites are by Warner et al. (1976) indicating they
+    are mostly very calcic plagioclase.                    Korotev R.L. (1981)  Compositional trends in Apollo 16
+                                                                            soils. Proc. 12th Lunar Sci. Conf. 577-605.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 2; lines 13-44 ---
+Fo                                        Fa  Fo                                        Fa
+
+           compiled by C Meyer                                                                       compiled by C Meyer
+
+        Figure 5: Pyroxene composition in 65757 anorthosite       Figure 6: Pyroxene composition in 65767 anorthosite
+         clast (Warner et al. 1976).                                      clast (Warner et al. 1976).
+
+
+   Introduction                                    References for 65757
+   These two glassy objects contain relatively large white   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s    clasts (figures 1 and 2). They were collected as rake
+                                                               Catalog. pp. 370.
+    samples – see section on 65701.
+
+                                                  Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:
+   Petrography                                          a widespread and distinctive lunar rock type. Earth Planet.
+   Dowty et al. (1974), Warner et al. (1976) give brief   Sci. Lett. 24, 15-25.
+    descriptions of anorthosite clasts, including pyroxene
+    diagrams, indicating that the white clasts are ferroan   Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+    anorthosite (see figures). Warren (1994) calls them   Description, classification and inventory of 151 Apollo 16
+     pristine. Plagioclase is An98.                            rake samples from the LM area and station 5.  Curator’s
+                                                               Catalog, JSC.
+   Chemistry                                                        Korotev R.L. (1994) Compositional variation in Apollo 16
+   The analysis of 65757 by Korotev (1994) is very                                                          impact melt breccias and inferences for the geology and
+   KREEPy and must be of glass matrix.   It also has  bombardment history of the central highlands of the Moon.
+    extremely high Ni, Ir and Au. The analyses of the  Geochim. Cosmochim. Acta 58, 3931-3969.
+    anorthosites are by Warner et al. (1976) indicating they
+    are mostly very calcic plagioclase.                    Korotev R.L. (1981)  Compositional trends in Apollo 16
+                                                                            soils. Proc. 12th Lunar Sci. Conf. 577-605.
+
+Lunar Sample Compendium
+--- references block 3; lines 16-28 ---
+compiled by C Meyer                                                                       compiled by C Meyer
+
+        Figure 5: Pyroxene composition in 65757 anorthosite       Figure 6: Pyroxene composition in 65767 anorthosite
+         clast (Warner et al. 1976).                                      clast (Warner et al. 1976).
+
+
+   Introduction                                    References for 65757
+   These two glassy objects contain relatively large white   Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s    clasts (figures 1 and 2). They were collected as rake
+                                                               Catalog. pp. 370.
+    samples – see section on 65701.
+
+                                                  Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-30 ---
+Table 2. Chemical composition of 65767   Table 1. Chemical composition of 65757
+                            matrix
+                                                                      reference  Dowty74
+     reference  Dowty74   Korotev87
+                                                                   weight
+     weight     anor.       McKinley
+                                                           SiO2 %    44.5     (a)
+    SiO2 %    44.4    (a)
+                                                              TiO2      0.03     (a)
+    TiO2      0.01    (a)
+                                                           Al2O3    35       (a)
+    Al2O3     35.1    (a)  20.1     (b)
+                                                   FeO       0.41     (a)
+   FeO       0.5     (a)  11.2     (b)
+                                              MnO      0.01     (a)
+   MnO
+                                              MgO      0.3      (a)
+   MgO      0.39    (a)  10.9     (b)
+                                                CaO      19.3     (a)
+   CaO      19.1    (a)  12.2     (b)
+                                                   Na2O     0.44     (a)
+   Na2O     0.42    (a)
+                                                 K2O      0.03     (a)
+   K2O      0.02    (a)
+                                                   P2O5     0.03     (a)
+   P2O5     0.06    (a)
+                                                  S %
+   S %
+                                                     sum
+    sum
+--- material block 2; lines 1-8 ---
+Table 2. Chemical composition of 65767   Table 1. Chemical composition of 65757
+                            matrix
+                                                                      reference  Dowty74
+     reference  Dowty74   Korotev87
+                                                                   weight
+     weight     anor.       McKinley
+                                                           SiO2 %    44.5     (a)
+    SiO2 %    44.4    (a)
+--- material block 3; lines 74-86 ---
+Ta                                                       Sutton R.L. (1981) Documentation of Apollo 16 samples.
+  W ppb                                                      In Geology of the Apollo 16 area, central lunar highlands.
+   Re ppb
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.   Os ppb
+       Ir ppb               65       (b)
+     Pt ppb                                              Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+    Au ppb              52       (b)                         and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+    Th ppm
+                                                       from the LM area and station 5.  Spec. Publ. #13, UNM   U ppm
+     technique:  (a) broad beam e. probe, (b) INAA                      Institute of Meteoritics, Albuquerque. 87 pp.
+
+Lunar Sample Compendium
+C Meyer 2012
+--- references block 4; lines 1-10 ---
+Table 2. Chemical composition of 65767   Table 1. Chemical composition of 65757
+                            matrix
+                                                                      reference  Dowty74
+     reference  Dowty74   Korotev87
+                                                                   weight
+     weight     anor.       McKinley
+                                                           SiO2 %    44.5     (a)
+    SiO2 %    44.4    (a)
+                                                              TiO2      0.03     (a)
+    TiO2      0.01    (a)
+--- references block 5; lines 77-86 ---
+(Ulrich et al. ) U.S.G.S. Prof. Paper 1048.   Os ppb
+       Ir ppb               65       (b)
+     Pt ppb                                              Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+    Au ppb              52       (b)                         and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+    Th ppm
+                                                       from the LM area and station 5.  Spec. Publ. #13, UNM   U ppm
+     technique:  (a) broad beam e. probe, (b) INAA                      Institute of Meteoritics, Albuquerque. 87 pp.
+
+Lunar Sample Compendium
+C Meyer 2012

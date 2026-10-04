@@ -1,0 +1,222 @@
+DOCUMENT_ID: 78587__compendium__1195049bfd
+ATLAS_SAMPLE_IDS: 78587
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/78587.pdf
+SOURCE_PDF_SHA256: 2a2dd8de4842ec7243864ff5e7ca1ca001c79894f4139d6ee3c1bae331b66bae
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+78587
+                                     Ilmenite Basalt
+                                             11.5 grams
+--- mineralogy block 2; lines 11-31 ---
+Introduction
+   78587 is an aphanitic basalt fragment picked up as a  Chemistry
+   rake sample – see section on 78501.                 Warner et al. (1975) reported an analysis (table and
+                                                            figure 4).
+   Petrography
+   According to Warner et al. (1979), 78587 is a fine-  Radiogenic age dating
+   grained type C, high-Ti basalt. It has skeletal ilmenite  None
+   and olivine in an aphanitic groundmass (figure 2).
+   Trace armalcolite and Cr-ulvospinel have also been
+   reported (Warner et al. 1978).
+                                                               Mineralogical Mode
+   The composition of pyroxene is unusual (figure              Warner et al. 1978
+                                                                                 Olivine            8.1 %
+    3).                                                                   Pyroxene         41.8
+                                                                                    Plagioclase       27.6
+                                                                                            Silica             4.8
+                                                                                    Ilmenite          16.7
+                                                                           Metal             0.6
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 3; lines 1-23 ---
+78587
+                                     Ilmenite Basalt
+                                             11.5 grams
+
+
+
+
+
+                     Figure 1: Photo of 78587. Mm ticks on scale. S73-33440
+
+   Introduction
+   78587 is an aphanitic basalt fragment picked up as a  Chemistry
+   rake sample – see section on 78501.                 Warner et al. (1975) reported an analysis (table and
+                                                            figure 4).
+   Petrography
+   According to Warner et al. (1979), 78587 is a fine-  Radiogenic age dating
+   grained type C, high-Ti basalt. It has skeletal ilmenite  None
+   and olivine in an aphanitic groundmass (figure 2).
+   Trace armalcolite and Cr-ulvospinel have also been
+   reported (Warner et al. 1978).
+                                                               Mineralogical Mode
+   The composition of pyroxene is unusual (figure              Warner et al. 1978
+                                                                                 Olivine            8.1 %
+--- age block 4; lines 10-22 ---
+Introduction
+   78587 is an aphanitic basalt fragment picked up as a  Chemistry
+   rake sample – see section on 78501.                 Warner et al. (1975) reported an analysis (table and
+                                                            figure 4).
+   Petrography
+   According to Warner et al. (1979), 78587 is a fine-  Radiogenic age dating
+   grained type C, high-Ti basalt. It has skeletal ilmenite  None
+   and olivine in an aphanitic groundmass (figure 2).
+   Trace armalcolite and Cr-ulvospinel have also been
+   reported (Warner et al. 1978).
+                                                               Mineralogical Mode
+   The composition of pyroxene is unusual (figure              Warner et al. 1978
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 7-36 ---
+En                                          Fs
+
+   Fo                                        Fa
+          compiled by C Meyer
+
+        Figure 3: Composition of olivine and pyroxene
+         phenocrysts in 78587.
+                                                                Figure 4: Normalized rare-earth-element diagram
+                                                                          for 78587.
+   Processing
+   There are 2 thin sections.                                                      Warner R.D., Prinz M. and Keil K. (1975c)  Mineralogy
+                                                       and petrology of mare basalts from Apollo 17 rake samples
+          78587                                       (abs). Lunar Sci. VI, 850-852. Lunar Planetary Institute,
+                                                          Houston.
+            11.5 grams
+                                                      Warner R.D., Warren R.G., Mansker W.L., Berkley J.L. and
+                                                             Keil K. (1976a) Electron microprobe analyses of olivine,
+            ,0      .3    ,4       ,1                      pyroxene and plagioclase from Apollo 17 rake sample mare
+         8 g   PB   2.7 g   0.2 g                        basalts.  Spec. Publ. # 15, UNM Institute of Meteoritics,
+                                                         Albuquerque. 158 pp.
+                       ,6
+                       ,7                                   Warner R.D., Berkley J.L., Mansker W.L., Warren R.G. and
+               TS                                      Keil K. (1976b)  Electron microprobe analyses of spinel,
+                                                            Fe-Ti oxides and metal from Apollo 17 rake sample mare
+                                                                      basalts.  Spec. Publ. #16, UNM Institute of Meteoritics,
+   References for 78587                                 Albuquerque. 114 pp.
+    Butler P. (1973) Lunar Sample Information Catalog Apollo
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s  Warner R.D., Taylor G.J., Conrad G.H., Northrop H.R.,
+    Catalog. pp. 447.                                        Barker S., Keil K., Ma M.-S. and Schmitt R. (1979a) Apollo
+--- mineralogy block 2; lines 46-58 ---
+Petrogenetic relationships among Apollo-17 basalts.  In
+    Papers presented to the Conference on Origins of Mare   Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    Basalts and their Implications for Lunar Evolution (Lunar   Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+   Science Institute, Houston), 179-183.                       geologic investigation of the Taurus-Littrow Valley: Apollo
+                                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+   Warner R.D., Keil K., Prinz M., Laul J.C., Murali A.V. and   280.
+    Schmitt R.A. (1975b) Mineralogy, petrology, and chemistry
+    of mare basalts from Apollo 17 rake samples. Proc. 6th Lunar
+    Sci. Conf. 193-220.
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 3; lines 13-58 ---
+Figure 3: Composition of olivine and pyroxene
+         phenocrysts in 78587.
+                                                                Figure 4: Normalized rare-earth-element diagram
+                                                                          for 78587.
+   Processing
+   There are 2 thin sections.                                                      Warner R.D., Prinz M. and Keil K. (1975c)  Mineralogy
+                                                       and petrology of mare basalts from Apollo 17 rake samples
+          78587                                       (abs). Lunar Sci. VI, 850-852. Lunar Planetary Institute,
+                                                          Houston.
+            11.5 grams
+                                                      Warner R.D., Warren R.G., Mansker W.L., Berkley J.L. and
+                                                             Keil K. (1976a) Electron microprobe analyses of olivine,
+            ,0      .3    ,4       ,1                      pyroxene and plagioclase from Apollo 17 rake sample mare
+         8 g   PB   2.7 g   0.2 g                        basalts.  Spec. Publ. # 15, UNM Institute of Meteoritics,
+                                                         Albuquerque. 158 pp.
+                       ,6
+                       ,7                                   Warner R.D., Berkley J.L., Mansker W.L., Warren R.G. and
+               TS                                      Keil K. (1976b)  Electron microprobe analyses of spinel,
+                                                            Fe-Ti oxides and metal from Apollo 17 rake sample mare
+                                                                      basalts.  Spec. Publ. #16, UNM Institute of Meteoritics,
+   References for 78587                                 Albuquerque. 114 pp.
+    Butler P. (1973) Lunar Sample Information Catalog Apollo
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s  Warner R.D., Taylor G.J., Conrad G.H., Northrop H.R.,
+    Catalog. pp. 447.                                        Barker S., Keil K., Ma M.-S. and Schmitt R. (1979a) Apollo
+                                                    17 high-Ti mare basalts: New bulk compositional data,
+   Keil K., Dowty E. and Prinz M. (1974)  Description,  magma types, and petrogenesis. Proc. 10th Lunar Planet.
+    classification and inventory of 113 Apollo 17 rake samples   Sci. Conf. 225-247.
+   from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.
+                                                    Warner R.D., Taylor G.J., Wentworth S.J., Huss G.R.,
+   Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.  Mansker W.L., Planner H.N., Sayeed U.A. and Keil K.
+    Curator’s Office JSC 26088 pp. 644                      (1979d)  Electron microprobe analyses of glasses from
+                                                         Apollo 17 rake sample breccias and Apollo 17 drill core.
+   Warner R.D., Keil K., Murali A.V. and Schmitt R.A. (1975a)  UNM Spec. Publ. #20, Albuquerque, 20 pp.
+    Petrogenetic relationships among Apollo-17 basalts.  In
+    Papers presented to the Conference on Origins of Mare   Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    Basalts and their Implications for Lunar Evolution (Lunar   Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+   Science Institute, Houston), 179-183.                       geologic investigation of the Taurus-Littrow Valley: Apollo
+                                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+   Warner R.D., Keil K., Prinz M., Laul J.C., Murali A.V. and   280.
+    Schmitt R.A. (1975b) Mineralogy, petrology, and chemistry
+    of mare basalts from Apollo 17 rake samples. Proc. 6th Lunar
+    Sci. Conf. 193-220.
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- references block 4; lines 27-39 ---
+Albuquerque. 158 pp.
+                       ,6
+                       ,7                                   Warner R.D., Berkley J.L., Mansker W.L., Warren R.G. and
+               TS                                      Keil K. (1976b)  Electron microprobe analyses of spinel,
+                                                            Fe-Ti oxides and metal from Apollo 17 rake sample mare
+                                                                      basalts.  Spec. Publ. #16, UNM Institute of Meteoritics,
+   References for 78587                                 Albuquerque. 114 pp.
+    Butler P. (1973) Lunar Sample Information Catalog Apollo
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s  Warner R.D., Taylor G.J., Conrad G.H., Northrop H.R.,
+    Catalog. pp. 447.                                        Barker S., Keil K., Ma M.-S. and Schmitt R. (1979a) Apollo
+                                                    17 high-Ti mare basalts: New bulk compositional data,
+   Keil K., Dowty E. and Prinz M. (1974)  Description,  magma types, and petrogenesis. Proc. 10th Lunar Planet.
+    classification and inventory of 113 Apollo 17 rake samples   Sci. Conf. 225-247.
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 78587
+
+
+     reference Warner78
+     weight    Warner75
+    SiO2 %
+    TiO2      12.2    (a)
+    Al2O3     8.8     (a)
+   FeO      19.4    (a)
+   MnO      0.24    (a)
+   MgO     7       (a)
+   CaO      10.3    (a)
+   Na2O     0.37    (a)
+   K2O      0.05    (a)
+   P2O5
+   S %
+    sum
+
+    Sc ppm   81      (a)
+   V        90      (a)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 78587
+
+
+     reference Warner78
+     weight    Warner75
+    SiO2 %
+    TiO2      12.2    (a)
+    Al2O3     8.8     (a)
+   FeO      19.4    (a)
+   MnO      0.24    (a)
+--- references block 3; lines 65-74 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm
+   U ppm
+     technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2012

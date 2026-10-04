@@ -1,0 +1,174 @@
+DOCUMENT_ID: 70147__compendium__cfaa1c5e3b
+ATLAS_SAMPLE_IDS: 70147
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/70147.pdf
+SOURCE_PDF_SHA256: 038c518f633eb9897f21d6780daf96af4c67b251fb46f2af1b030f6a3b32f7d3
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 23-42 ---
+(1993) is incorrect.                                                                   70147  A17
+                                                                                                12
+
+                                                                                                      A11
+                                                                                                10   Petrography
+   70147 (and 70135) are coarse-grained plagioclase-             8
+    poikilitic rock with blocky ilmenite (figure 2). The  TiO2
+   mineralogy is described in Neal and Taylor (1993).                 6
+
+                                                                                                     4
+   Chemistry                                                                             2                        A15       A12
+   Neal et al. (1990) reported the chemical composition
+    (table 1).  It is a high-Ti basalt (figure 3). The REE             0 0                5                10                15               20
+    pattern is given in figure 4.                                              MgO
+
+   Processing                                                                 Figure 3: Composition of 70147 compared with
+   70147 is a basalt chip from the bag (10E) used to return                                                                           that of Apollo basalts.
+   70135 and is most certainly a chip of same (Butler
+   1973). There is only one thin section.
+--- mineralogy block 2; lines 1-36 ---
+70147
+                                     Ilmenite Basalt
+                                            1.35 grams
+
+
+
+
+
+          Figure 1: These are chips off of 70135, which is a boulder sampled at S73-17974. Cube is 1 cm.
+
+
+                                                  Mineralogical Mode   Introduction
+                                                                           70135   Roedder 70139   70147   70147 is another chip off of Geophone Rock – see
+                                                                      Olivine            2.8      3.8      2.5        - -
+    section on 70135. It is a high-Ti, plagioclase-poikilitic     Pyroxene         46.2     51.6     35.8     48.2
+    basalt with no olivine.                                          Plagioclase        28.4    23       41.6     29.4
+                                                            Opaques          21.9     19.6     18.2    21
+   Geophone Rock is a basalt boulder located about 50      Silica             0.3      0.6      1.9      0.2
+                                                                   Meostasis         0.4      1.4
+   meters south of the ALSEP site.
+                                                            Lunar Basalts
+   Note: The weight listed for 70147 in Neal and Taylor            14
+   (1993) is incorrect.                                                                   70147  A17
+                                                                                                12
+
+                                                                                                      A11
+                                                                                                10   Petrography
+   70147 (and 70135) are coarse-grained plagioclase-             8
+    poikilitic rock with blocky ilmenite (figure 2). The  TiO2
+   mineralogy is described in Neal and Taylor (1993).                 6
+
+                                                                                                     4
+   Chemistry                                                                             2                        A15       A12
+   Neal et al. (1990) reported the chemical composition
+    (table 1).  It is a high-Ti basalt (figure 3). The REE             0 0                5                10                15               20
+    pattern is given in figure 4.                                              MgO
+--- material block 3; lines 1-45 ---
+70147
+                                     Ilmenite Basalt
+                                            1.35 grams
+
+
+
+
+
+          Figure 1: These are chips off of 70135, which is a boulder sampled at S73-17974. Cube is 1 cm.
+
+
+                                                  Mineralogical Mode   Introduction
+                                                                           70135   Roedder 70139   70147   70147 is another chip off of Geophone Rock – see
+                                                                      Olivine            2.8      3.8      2.5        - -
+    section on 70135. It is a high-Ti, plagioclase-poikilitic     Pyroxene         46.2     51.6     35.8     48.2
+    basalt with no olivine.                                          Plagioclase        28.4    23       41.6     29.4
+                                                            Opaques          21.9     19.6     18.2    21
+   Geophone Rock is a basalt boulder located about 50      Silica             0.3      0.6      1.9      0.2
+                                                                   Meostasis         0.4      1.4
+   meters south of the ALSEP site.
+                                                            Lunar Basalts
+   Note: The weight listed for 70147 in Neal and Taylor            14
+   (1993) is incorrect.                                                                   70147  A17
+                                                                                                12
+
+                                                                                                      A11
+                                                                                                10   Petrography
+   70147 (and 70135) are coarse-grained plagioclase-             8
+    poikilitic rock with blocky ilmenite (figure 2). The  TiO2
+   mineralogy is described in Neal and Taylor (1993).                 6
+
+                                                                                                     4
+   Chemistry                                                                             2                        A15       A12
+   Neal et al. (1990) reported the chemical composition
+    (table 1).  It is a high-Ti basalt (figure 3). The REE             0 0                5                10                15               20
+    pattern is given in figure 4.                                              MgO
+
+   Processing                                                                 Figure 3: Composition of 70147 compared with
+   70147 is a basalt chip from the bag (10E) used to return                                                                           that of Apollo basalts.
+   70135 and is most certainly a chip of same (Butler
+   1973). There is only one thin section.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 71047.
+
+
+    reference  Neal90
+    weight
+   SiO2 %
+    TiO2     13       (a)
+   Al2O3     8.4      (a)
+   FeO       17.9     (a)
+   MnO      0.23     (a)
+   MgO      8.8      (a)
+   CaO       9.2      (a)
+   Na2O     0.39     (a)
+   K2O      0.06     (a)
+   P2O5
+   S %
+   sum
+
+   Sc ppm   77       (a)
+   V        131     (a)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 71047.
+
+
+    reference  Neal90
+    weight
+   SiO2 %
+    TiO2     13       (a)
+   Al2O3     8.4      (a)
+   FeO       17.9     (a)
+   MnO      0.23     (a)
+--- references block 3; lines 64-73 ---
+Os ppb
+      Ir ppb
+    Pt ppb                                                                                                                   ,4
+   Au ppb                                                                            TS
+   Th ppm    0.2      (a)
+   U ppm     0.1      (a)
+    technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: age,references ===
+--- age block 1; lines 21-33 ---
+Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+    rocks. Vol. 2 Basalts
+
+    Neal C.R., Taylor L.A., Patchen A.D., Hughes S.S. and
+    Schmitt R.A. (1990a)  The significance of fractional
+    crystallization in the petrogenesis of Apollo 17 Type A and
+   B high-Ti basalts. Geochim. Cosmochim. Acta 54, 1817-
+    1833.
+
+   Wolfe E.W., Lucchitta B.K., Reed V.S., Ulrich G.E. and
+    Sanchez A.G. (1975) Geology of the tarus-Littrow valley
+     floor. Proc. 6th Lunar Sci. Conf. 2463-2482.
+--- references block 2; lines 1-7 ---
+References for 70147
+    Butler P. (1973) Lunar Sample Information Catalog
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+    Curator’s Catalog. pp. 447.
+
+   LSPET (1973)  Apollo 17 lunar samples: Chemical and
+    petrographic description. Science 182, 659-672.

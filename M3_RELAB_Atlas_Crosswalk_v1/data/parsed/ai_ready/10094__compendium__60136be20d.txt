@@ -1,0 +1,209 @@
+DOCUMENT_ID: 10094__compendium__60136be20d
+ATLAS_SAMPLE_IDS: 10094
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10094.pdf
+SOURCE_PDF_SHA256: dd9275ce6002772535ddcc1a3eaeb0b7bc20b96c475c005e029f1680ac359c58
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 12-35 ---
+Introduction                                  Processing
+   10094 is a typical Apollo 11 regolith breccia.  Its outer  Apollo 11 samples were originally described and
+   surface was bombarded with micrometeorites (figures   cataloged in 1969 and “recataloged” by Kramer et al.
+   1 and 2).  It has a high percentage of fine dark matrix,   (1977). There are 4 thin sections.
+   and an abundance of small clsats of mare basalt (figure
+    3).
+                                                      Simon’s Mode for 10094
+   Petrography                                                    S    L
+   Simon et al. (1984) included breccia 10094 in their        Mare Basalt                 8.2      6.2
+   comprehensive study of Apollo 11 regolith breccias –         Highland Component        0.5      0.5
+                                                                          Regolith breccia            3.3    their mode is given in the table. They calculated that
+                                                                           Agglutinate                 5.5      3.3
+     it had about 24 % highland component, but couldn’t         Pyroxene                4
+    directly identify that many clasts of highland rock.             Olivine                     0.5
+                                                                             Plagioclase               4        0.1
+   Chemistry                                                           Ilmenite                    2.6
+                                                                 Orange glass                1.4
+   Rhodes and Blanchard (1981) found that the         Other glass                 3.4
+   composition of 10094 was similar to the other regolith         Matrix                     56.5 %
+   breccias and 10084 (figures 4 and 5).
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-35 ---
+10094
+                                   Regolith Breccia
+                                            30.3 grams
+
+
+
+
+
+                     Figure 1: Lunar breccia 10094 is about 3 cm across. NASA S76-25993.
+
+
+   Introduction                                  Processing
+   10094 is a typical Apollo 11 regolith breccia.  Its outer  Apollo 11 samples were originally described and
+   surface was bombarded with micrometeorites (figures   cataloged in 1969 and “recataloged” by Kramer et al.
+   1 and 2).  It has a high percentage of fine dark matrix,   (1977). There are 4 thin sections.
+   and an abundance of small clsats of mare basalt (figure
+    3).
+                                                      Simon’s Mode for 10094
+   Petrography                                                    S    L
+   Simon et al. (1984) included breccia 10094 in their        Mare Basalt                 8.2      6.2
+   comprehensive study of Apollo 11 regolith breccias –         Highland Component        0.5      0.5
+                                                                          Regolith breccia            3.3    their mode is given in the table. They calculated that
+                                                                           Agglutinate                 5.5      3.3
+     it had about 24 % highland component, but couldn’t         Pyroxene                4
+    directly identify that many clasts of highland rock.             Olivine                     0.5
+                                                                             Plagioclase               4        0.1
+   Chemistry                                                           Ilmenite                    2.6
+                                                                 Orange glass                1.4
+   Rhodes and Blanchard (1981) found that the         Other glass                 3.4
+   composition of 10094 was similar to the other regolith         Matrix                     56.5 %
+   breccias and 10084 (figures 4 and 5).
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 1-22 ---
+25
+                                                                                20                      Apollo soils
+                                                                                           10094              breccia
+
+                                                                                15
+                                 FeO          10084
+
+                                                                                10
+
+
+                                                                                   5
+
+
+                                                                                   0
+                                                                                     0       5       10      15      20      25      30      35
+                                                             Al2O3
+
+
+                                                                Figure 4: Composition of 10094 compared with
+                                                                 Apollo soils.
+--- material block 2; lines 1-9 ---
+25
+                                                                                20                      Apollo soils
+                                                                                           10094              breccia
+
+                                                                                15
+                                 FeO          10084
+
+                                                                                10
+--- material block 3; lines 21-33 ---
+1000
+      Figure 3: Photomicrograph of thin section 10094,6
+      showing dark matrix including mineral and basalt                                        10094
+        clasts. NASA S76-28122. Scale 2.5 mm.                                100
+                                                                                sample/
+                                                                                         chondrite                                                                                                                       10084
+                                                                                                    10
+--- material block 4; lines 41-53 ---
+0.1
+                                                                                   La      Pr    Sm    Gd     Dy      Er     Yb                                                                            Ce    Nd     Eu     Tb    Ho    Tm     Lu
+
+                                                                Figure 5: Normalized rare earth element diagram
+                                                                          for breccia 10094 compared with soil 10084 (data
+                                                              from Wiesmann et al. 1975).
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-18 ---
+Table 1. Chemical composition of 10094.      References for 10094
+                                                         Fruland Ruth M. (1983)  Regolith Breccia Workbook.
+     reference  Rhodes81                                                                 Curatorial Branch Publication # 66. JSC 19045.     weight
+    SiO2 %    41.9     (a)
+    TiO2      7.86     (a)                                   Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,
+    Al2O3     12.84   (a)
+   FeO      16.29   (a)                            Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+   MnO      0.25     (a)                                    abundances by instrumental activation analyses in chips from
+   MgO      8.01     (a)
+   CaO      11.78   (a)                                 27 lunar rocks. Proc. Apollo 11 Lunar Sci. Conf. 1165-1176.
+   Na2O     0.49     (a)
+   K2O      0.19     (a)
+                                                     King E.A. and a cast of thousands (1969) Lunar Sample   P2O5     0.12     (a)
+   S %                                                Information Catalog, Apollo 11.  Lunar Receiving
+    sum                                                       Laboratory, MSC 412 pp
+
+    Sc ppm   63       (b)
+   V        48                                       Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo
+--- mineralogy block 2; lines 18-30 ---
+V        48                                       Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo
+    Cr       2190
+   Co       32                                        11 Lunar Sample Information Catalogue (revised).
+     Ni        201                                              Curator’s Office, JSC 12522
+   Cu
+    Zn       48
+   Ga       8                                           Lofgren G.E. (1971b)  Devitrified glass fragments from
+   Ge ppb                                                         Apollo 11 and Apollo 12 lunar samples.  Proc. 2nd Lunar    As
+    Se                                                                Sci. Conf. 949-955
+   Rb        3.9      (a)
+    Sr        160     (a)
+   Y        112     (a)                            LSPET (1969) Preliminary examination of lunar samples
+     Zr        345     (a)                                  from Apollo 11. Science 165, 1211-1227.
+--- material block 3; lines 1-8 ---
+Table 1. Chemical composition of 10094.      References for 10094
+                                                         Fruland Ruth M. (1983)  Regolith Breccia Workbook.
+     reference  Rhodes81                                                                 Curatorial Branch Publication # 66. JSC 19045.     weight
+    SiO2 %    41.9     (a)
+    TiO2      7.86     (a)                                   Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,
+    Al2O3     12.84   (a)
+   FeO      16.29   (a)                            Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+   MnO      0.25     (a)                                    abundances by instrumental activation analyses in chips from
+--- material block 4; lines 29-41 ---
+Y        112     (a)                            LSPET (1969) Preliminary examination of lunar samples
+     Zr        345     (a)                                  from Apollo 11. Science 165, 1211-1227.
+   Nb       21       (a)
+   Mo
+   Ru                                                   Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+   Rh
+                                                           (1976a) Lithification of vitric- and clastic-matrix breccias:    Pd ppb
+    Ag ppb                                SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+   Cd ppb
+     In ppb
+    Sn ppb                                            Rhodes J.M. and Blanchard D.P. (1981) Apollo 11 breccias
+    Sb ppb                                             and soils: Aluminous mare basalts or multi-component
+    Te ppb
+--- material block 5; lines 51-63 ---
+Dy                                                       Petrology of the Apollo 11 highland component. Proc. 14th
+   Ho                                                Lunar Planet. Sci. Conf. in J. Geophys. Res. 88, B103-138.
+    Er
+   Tm
+    Yb        11.7     (b)                                Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+    Lu        1.79     (b)
+                                                                of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.    Hf         11.6     (b)
+    Ta         1.7      (b)                                      Conf. in J. Geophys. Res. 89, C109-132.
+  W ppb
+   Re ppb
+   Os ppb
+       Ir ppb
+     Pt ppb
+--- references block 6; lines 1-9 ---
+Table 1. Chemical composition of 10094.      References for 10094
+                                                         Fruland Ruth M. (1983)  Regolith Breccia Workbook.
+     reference  Rhodes81                                                                 Curatorial Branch Publication # 66. JSC 19045.     weight
+    SiO2 %    41.9     (a)
+    TiO2      7.86     (a)                                   Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,
+    Al2O3     12.84   (a)
+   FeO      16.29   (a)                            Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+   MnO      0.25     (a)                                    abundances by instrumental activation analyses in chips from
+   MgO      8.01     (a)
+--- references block 7; lines 61-71 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm    2.2      (b)
+   U ppm
+     technique: (a) XRF, (b) INAA
+
+
+Lunar Sample Compendium
+C Meyer 2011

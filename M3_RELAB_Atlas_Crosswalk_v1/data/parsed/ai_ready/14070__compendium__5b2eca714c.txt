@@ -1,0 +1,151 @@
+DOCUMENT_ID: 14070__compendium__5b2eca714c
+ATLAS_SAMPLE_IDS: 14069,14070
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14070.pdf
+SOURCE_PDF_SHA256: b81be2b4b23b308f5376effa09db96a3f06a79bdb17013bc5698eed058745ca4
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-9 ---
+14069 – 24.87 grams
+                        14070 - 36.56 grams
+                                 Crystalline matrix Breccia
+
+
+
+
+
+                       Figure 1: Photo of 14069,0. Scale in cm and mm. S78-28808.
+--- material block 2; lines 19-31 ---
+Figure 2: Photo of 14070. Scale is in cm.
+           S71-22168.
+
+
+
+  Introduction
+  14069 and 14070 are small breccia samples that were           Figure 3: Traverse map for Apollo 14 showing
+   picked up by tongs from between the MET tracks in            location of 14070 on rim of Cone Crater.
+   the boulder field on the rim of Cone Crater (Swann et
+    al. 1971) (figure 3). They are similar, but have different
+   exposure ages.
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,references ===
+--- chemistry block 1; lines 12-24 ---
+of 95 m.y. for 14069 and 30 m.y. for 14070 by the 38Ar   have vesicles, mare basalt clasts and other similarity
+                                                   method.   with 14321 and are most likely pieces of the Fra Mauro
+   Formation (Wilshire and Jackson 1972, Simonds et al.
+                                                Processing   1977).
+                                               These samples were returned, under vacuum, in
+  Chemistry                           ALSRC 1006. There are three thin sections each for
+                                               14069 and 14070.  The chemical composition of 14069 and 14070 have
+   not been determined.
+
+  Radiogenic age dating
+   Stadermann et al. (1991) determined Ar/Ar plateau ages
+   of 3.78 ± 0.02 b.y. for 14069 and 3.71 ± 0.02 b.y. for
+  14070 (figure ).
+--- material block 2; lines 4-18 ---
+Figure 4: Location of 14070 between tracks left by MET. S71-64-9125.
+
+  Petrography
+                                          Cosmogenic isotopes and exposure ages  14069 and 14070 are tan impact melt rocks with fine
+                                                  Stadermann et al. (1991) determined an exposure age   crystalline matrix (Carlson and Kramer 1987). They
+                                                         of 95 m.y. for 14069 and 30 m.y. for 14070 by the 38Ar   have vesicles, mare basalt clasts and other similarity
+                                                   method.   with 14321 and are most likely pieces of the Fra Mauro
+   Formation (Wilshire and Jackson 1972, Simonds et al.
+                                                Processing   1977).
+                                               These samples were returned, under vacuum, in
+  Chemistry                           ALSRC 1006. There are three thin sections each for
+                                               14069 and 14070.  The chemical composition of 14069 and 14070 have
+--- age block 3; lines 5-27 ---
+Figure 4: Location of 14070 between tracks left by MET. S71-64-9125.
+
+  Petrography
+                                          Cosmogenic isotopes and exposure ages  14069 and 14070 are tan impact melt rocks with fine
+                                                  Stadermann et al. (1991) determined an exposure age   crystalline matrix (Carlson and Kramer 1987). They
+                                                         of 95 m.y. for 14069 and 30 m.y. for 14070 by the 38Ar   have vesicles, mare basalt clasts and other similarity
+                                                   method.   with 14321 and are most likely pieces of the Fra Mauro
+   Formation (Wilshire and Jackson 1972, Simonds et al.
+                                                Processing   1977).
+                                               These samples were returned, under vacuum, in
+  Chemistry                           ALSRC 1006. There are three thin sections each for
+                                               14069 and 14070.  The chemical composition of 14069 and 14070 have
+   not been determined.
+
+  Radiogenic age dating
+   Stadermann et al. (1991) determined Ar/Ar plateau ages
+   of 3.78 ± 0.02 b.y. for 14069 and 3.71 ± 0.02 b.y. for
+  14070 (figure ).
+--- references block 4; lines 7-19 ---
+Figure 4: Location of 14070 between tracks left by MET. S71-64-9125.
+
+  Petrography
+                                          Cosmogenic isotopes and exposure ages  14069 and 14070 are tan impact melt rocks with fine
+                                                  Stadermann et al. (1991) determined an exposure age   crystalline matrix (Carlson and Kramer 1987). They
+                                                         of 95 m.y. for 14069 and 30 m.y. for 14070 by the 38Ar   have vesicles, mare basalt clasts and other similarity
+                                                   method.   with 14321 and are most likely pieces of the Fra Mauro
+   Formation (Wilshire and Jackson 1972, Simonds et al.
+                                                Processing   1977).
+                                               These samples were returned, under vacuum, in
+  Chemistry                           ALSRC 1006. There are three thin sections each for
+                                               14069 and 14070.  The chemical composition of 14069 and 14070 have
+   not been determined.
+
+=== PDF PAGE 5; CATEGORIES: age ===
+--- age block 1; lines 1-10 ---
+Figure7 : Ar plateau diagrams for 14069 and 14070 (Stadermann et al. 1991).
+
+
+         Summary of Age Data for 14069, 14070
+                               Ar/Ar
+              14069            3.78 ± 0.02 b.y.
+              14070            3.71 ± 0.02
+              Stadermann et al. 1991
+              Caution : Ar standard ?
+
+=== PDF PAGE 6; CATEGORIES: age,material,references ===
+--- material block 1; lines 1-8 ---
+References for 14069 – 14070.                    Warner J.L. and Duke M.B. (1971) Apollo 14 lunar sample
+   Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock   information catalog. NASA TM X-58062.
+   Samples. Curators Office. JSC 14240
+                                                         Williams R.J. (1972) The lithification of metamorphism of
+   Deutsch A. and Stoffler D. (1987) Rb-Sr analysis of Apollo   lunar breccias. Earth Planet. Sci. Lett. 16, 250-256.
+   16 melt rocks and a new age estimate for the Imbrium basin:
+   Lunar basin chronology and the early heavy bombardment   Wilshire H.G. and Jackson E.D. (1972b)  Petrology and
+   of the moon. Geochim. Cosmochim. Acta 51, 1951-1964.    stratigraphy of the Fra Mauro Formation at the Apollo 14
+--- material block 2; lines 12-28 ---
+LSPET (1971b) Preliminary examination of lunar samples
+   from Apollo 14. In Apollo 14 Preliminary Sci. Rpt. NASA
+   SP-272
+
+   Mitchell J.K., Bromwell L.G., Carrier W.D., Costes N.C.
+   and Scott R.F. (1971) Soil Mechanics Experiment. In Apollo
+   14: Preliminary Science Report NASA SP-272.
+
+   Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+   (1976a) Lithification of vitric- and elastic-matrix breccias:
+  SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+
+   Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+   Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+    revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+    Sci. Conf. 1869-1893.
+--- age block 3; lines 1-12 ---
+References for 14069 – 14070.                    Warner J.L. and Duke M.B. (1971) Apollo 14 lunar sample
+   Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock   information catalog. NASA TM X-58062.
+   Samples. Curators Office. JSC 14240
+                                                         Williams R.J. (1972) The lithification of metamorphism of
+   Deutsch A. and Stoffler D. (1987) Rb-Sr analysis of Apollo   lunar breccias. Earth Planet. Sci. Lett. 16, 250-256.
+   16 melt rocks and a new age estimate for the Imbrium basin:
+   Lunar basin chronology and the early heavy bombardment   Wilshire H.G. and Jackson E.D. (1972b)  Petrology and
+   of the moon. Geochim. Cosmochim. Acta 51, 1951-1964.    stratigraphy of the Fra Mauro Formation at the Apollo 14
+                                                                               site. US Geol. Survey Prof. Paper 785
+  LSPET (1971a) Preliminary examination of lunar samples
+   from Apollo 14. Science 173, 681-693.
+--- references block 4; lines 1-7 ---
+References for 14069 – 14070.                    Warner J.L. and Duke M.B. (1971) Apollo 14 lunar sample
+   Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock   information catalog. NASA TM X-58062.
+   Samples. Curators Office. JSC 14240
+                                                         Williams R.J. (1972) The lithification of metamorphism of
+   Deutsch A. and Stoffler D. (1987) Rb-Sr analysis of Apollo   lunar breccias. Earth Planet. Sci. Lett. 16, 250-256.
+   16 melt rocks and a new age estimate for the Imbrium basin:
+   Lunar basin chronology and the early heavy bombardment   Wilshire H.G. and Jackson E.D. (1972b)  Petrology and

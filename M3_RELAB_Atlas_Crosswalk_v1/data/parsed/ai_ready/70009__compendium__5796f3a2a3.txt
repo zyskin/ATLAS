@@ -1,0 +1,1166 @@
+DOCUMENT_ID: 70009__compendium__5796f3a2a3
+ATLAS_SAMPLE_IDS: 70001,70002,70003,70004,70005,70006,70007,70008,70009
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/70009.pdf
+SOURCE_PDF_SHA256: 786ee72dc93c3c351d451f6c5bec61f30cac8f24a9188114d30794da85cfd677
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-25 ---
+page 1
+
+                           70009 - 70001
+                             Deep Drill Core
+                                        3 meters
+
+
+
+
+
+        Figure 1: There are no photos of the crew taking the Apollo 17 deep drill core, but this photo of the site,
+        with the neutron probe in place, shows the effort that must have been expended to obtain the three (3) meter
+       deep drill core. AS17-134-20505. The ALSEP site is just beyond.
+
+
+           4 22 11 CDR    Man, it didn’t feel like this stuff was this hard. See if I can get it out.  I may be jacking the treadle
+                 down into the surface. Come on baby. I’m going to get this thing out, now that I got it.  I hope this core is
+                        appreciated. Man, I don’t know what it’s in.
+           4 22 15 LMP      I was afraid that would happen – with all this rocks.
+           4 22 15 CDR    Yes, but it didn’t go in that hard.
+           4 22 27 CDR     I’ve got a delicate core in one hand, and I’m trying to get some core caps on the other. You’d be glad
+                         to know it’s full, Bob.
+
+Lunar Sample Compendium
+C Meyer 2007
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 26-38 ---
+the top of the core and ramming it home. However, it      rounding highland areas.
+     is believed that core recovery was ~100% (Duke and
+   Nagle 1976).                                      technique (Taylor et al. 1979, Morris et al. 1979,
+                                              Vaniman et al. 1979, Goswami and Lal 1979). A
+   The Apollo 17 deep drill core is not homogeneous along   synthesis of these models is given in Langevin and
+     its length.  It varies in nuclear track density, maturity,  Nagle (1980) and McKay et al. (1992).
+    agglutinate content, modal mineralogy and in chemical
+    composition. Vaniman et al. (1979) subdivide the drill  Arvidson et al. (1977) make the connection between a
+    string into 5 units A – E (bottom to top), while Taylor   site-wide “event” about 96 m.y. ago and the deposition
+     et al. (1979) subdivide it into 8 units A – H (top to   of the deep drill core as part of a slab at about 100 m.y.
+    bottom). The most obvious feature is a relatively coarse   (Curtis and Wasserburg 1975).  Drozd et al. (1977)
+    layer of immature mare material from about 22 cm to  determined that many of the features at Apollo 17
+    about 71 cm depth (called unit D by Vaniman et al.   (including the Central Cluster) can be dated at 109 ± 4
+--- material block 2; lines 1-56 ---
+Introduction                                                                                    page 2
+   The Apollo 17 deep drill was collected with great
+    difficulty at the ALSEP site near Camelot Crater and
+    within an area of many small craters known as the
+    Central Cluster (figure 2). The drill core is a continuous
+    section of the top of the regolith, 3 meters long, that
+    represents an historic achievement (and much
+    appreciated by the science community).  Drilling the
+    lowest 20 cm was very difficult, because the basal
+    material was very cohesive. Extraction was also very
+     difficult, although for this mission it was facilitated by
+    a specially designed “treadle”. A neutron probe was
+    successfully inserted into the open hole (figure 1). Two
+    surface soils were collected nearby – 70180 and 70160.
+
+   The drill core “string” for Apollo 17 was broken down
+   and returned in three segments (70009, 70008, 70007)
+    (70006, 70005) and (70004, 70003, 70002, 70001) in
+    a special beta-cloth bag. Apparently the plug inserted
+    into the top of the drill did not function, because a void
+    (10 – 12 cm) was found at the junction of 70008 and
+                                                               Figure 2: Location of Apollo 17 Deep Drill, about one
+   70007 (which were not tightly connected) and core                                                                     crater diameter from Camelot, and near numerous
+    material slid along the core.  Indeed, the transcript                                                                      craters in middle of mare surface (from Taylor et al.
+   shows that the crew had difficulty placing the plug in      1979). Note that it is several kilometers from sur-
+    the top of the core and ramming it home. However, it      rounding highland areas.
+     is believed that core recovery was ~100% (Duke and
+   Nagle 1976).                                      technique (Taylor et al. 1979, Morris et al. 1979,
+                                              Vaniman et al. 1979, Goswami and Lal 1979). A
+   The Apollo 17 deep drill core is not homogeneous along   synthesis of these models is given in Langevin and
+     its length.  It varies in nuclear track density, maturity,  Nagle (1980) and McKay et al. (1992).
+    agglutinate content, modal mineralogy and in chemical
+    composition. Vaniman et al. (1979) subdivide the drill  Arvidson et al. (1977) make the connection between a
+    string into 5 units A – E (bottom to top), while Taylor   site-wide “event” about 96 m.y. ago and the deposition
+     et al. (1979) subdivide it into 8 units A – H (top to   of the deep drill core as part of a slab at about 100 m.y.
+    bottom). The most obvious feature is a relatively coarse   (Curtis and Wasserburg 1975).  Drozd et al. (1977)
+    layer of immature mare material from about 22 cm to  determined that many of the features at Apollo 17
+    about 71 cm depth (called unit D by Vaniman et al.   (including the Central Cluster) can be dated at 109 ± 4
+   and unit B by Taylor et al.).  (This confusion can be   m.y. which they associate with the crater Tycho.
+    attributed directly to the editors of the 10th Proceedings;
+    Bogard, Horz and McKay)                            Fruchter et al. (1979) found that the Apollo 17 deep
+                                                                        drill core had lower than expected values of 26Al and
+   As soon as the drill string was returned to Houston, it  53Mn at depth (figures 12 and 13) proving that there
+   was broken down into sections and a small amount  had been a recent crater at this location, which was
+   was extracted from the tops of the bottom six segments   filled in recently with previously irradiated surface
+    to be put in a freezer where they have been kept cold   material.
+     all these years – see essay titled 70001.
+                                                  However, careful nuclear track studies indicate a long
+   Interpretation                               exposure and multiple episodes of deposition
+                                              (Goswami and Lal 1979). A layer at about 240 cm is   The data from the Apollo 17 deep drill core has been
+                                                    found to have a high dose of 15N and 21Ne indicating    studied in detail by numerous investigators, who each
+                                                   an ancient exposure to the sun (Thiemens and Clayton    give it their own interpretation based on their particular
+
+
+Lunar Sample Compendium
+C Meyer 2007
+--- age block 3; lines 32-44 ---
+agglutinate content, modal mineralogy and in chemical
+    composition. Vaniman et al. (1979) subdivide the drill  Arvidson et al. (1977) make the connection between a
+    string into 5 units A – E (bottom to top), while Taylor   site-wide “event” about 96 m.y. ago and the deposition
+     et al. (1979) subdivide it into 8 units A – H (top to   of the deep drill core as part of a slab at about 100 m.y.
+    bottom). The most obvious feature is a relatively coarse   (Curtis and Wasserburg 1975).  Drozd et al. (1977)
+    layer of immature mare material from about 22 cm to  determined that many of the features at Apollo 17
+    about 71 cm depth (called unit D by Vaniman et al.   (including the Central Cluster) can be dated at 109 ± 4
+   and unit B by Taylor et al.).  (This confusion can be   m.y. which they associate with the crater Tycho.
+    attributed directly to the editors of the 10th Proceedings;
+    Bogard, Horz and McKay)                            Fruchter et al. (1979) found that the Apollo 17 deep
+                                                                        drill core had lower than expected values of 26Al and
+   As soon as the drill string was returned to Houston, it  53Mn at depth (figures 12 and 13) proving that there
+   was broken down into sections and a small amount  had been a recent crater at this location, which was
+--- treatment block 4; lines 25-51 ---
+shows that the crew had difficulty placing the plug in      1979). Note that it is several kilometers from sur-
+    the top of the core and ramming it home. However, it      rounding highland areas.
+     is believed that core recovery was ~100% (Duke and
+   Nagle 1976).                                      technique (Taylor et al. 1979, Morris et al. 1979,
+                                              Vaniman et al. 1979, Goswami and Lal 1979). A
+   The Apollo 17 deep drill core is not homogeneous along   synthesis of these models is given in Langevin and
+     its length.  It varies in nuclear track density, maturity,  Nagle (1980) and McKay et al. (1992).
+    agglutinate content, modal mineralogy and in chemical
+    composition. Vaniman et al. (1979) subdivide the drill  Arvidson et al. (1977) make the connection between a
+    string into 5 units A – E (bottom to top), while Taylor   site-wide “event” about 96 m.y. ago and the deposition
+     et al. (1979) subdivide it into 8 units A – H (top to   of the deep drill core as part of a slab at about 100 m.y.
+    bottom). The most obvious feature is a relatively coarse   (Curtis and Wasserburg 1975).  Drozd et al. (1977)
+    layer of immature mare material from about 22 cm to  determined that many of the features at Apollo 17
+    about 71 cm depth (called unit D by Vaniman et al.   (including the Central Cluster) can be dated at 109 ± 4
+   and unit B by Taylor et al.).  (This confusion can be   m.y. which they associate with the crater Tycho.
+    attributed directly to the editors of the 10th Proceedings;
+    Bogard, Horz and McKay)                            Fruchter et al. (1979) found that the Apollo 17 deep
+                                                                        drill core had lower than expected values of 26Al and
+   As soon as the drill string was returned to Houston, it  53Mn at depth (figures 12 and 13) proving that there
+   was broken down into sections and a small amount  had been a recent crater at this location, which was
+   was extracted from the tops of the bottom six segments   filled in recently with previously irradiated surface
+    to be put in a freezer where they have been kept cold   material.
+     all these years – see essay titled 70001.
+                                                  However, careful nuclear track studies indicate a long
+   Interpretation                               exposure and multiple episodes of deposition
+                                              (Goswami and Lal 1979). A layer at about 240 cm is   The data from the Apollo 17 deep drill core has been
+                                                    found to have a high dose of 15N and 21Ne indicating    studied in detail by numerous investigators, who each
+--- references block 5; lines 22-34 ---
+Figure 2: Location of Apollo 17 Deep Drill, about one
+   70007 (which were not tightly connected) and core                                                                     crater diameter from Camelot, and near numerous
+    material slid along the core.  Indeed, the transcript                                                                      craters in middle of mare surface (from Taylor et al.
+   shows that the crew had difficulty placing the plug in      1979). Note that it is several kilometers from sur-
+    the top of the core and ramming it home. However, it      rounding highland areas.
+     is believed that core recovery was ~100% (Duke and
+   Nagle 1976).                                      technique (Taylor et al. 1979, Morris et al. 1979,
+                                              Vaniman et al. 1979, Goswami and Lal 1979). A
+   The Apollo 17 deep drill core is not homogeneous along   synthesis of these models is given in Langevin and
+     its length.  It varies in nuclear track density, maturity,  Nagle (1980) and McKay et al. (1992).
+    agglutinate content, modal mineralogy and in chemical
+    composition. Vaniman et al. (1979) subdivide the drill  Arvidson et al. (1977) make the connection between a
+    string into 5 units A – E (bottom to top), while Taylor   site-wide “event” about 96 m.y. ago and the deposition
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 26-38 ---
+units.  These descriptions were soon superseded by
+   petrographic study of thin sections.                 Near the bottom of the core Vaniman and Papike
+                                                      (1977c) found fragments of very-low Ti (VLT) basalt,
+   Housley et al. (1976) showed that the maturity along  which is otherwise rare at the Apollo 17 site.
+   the length of the deep drill is given by the proportion
+   of agglutinates (figure 3) and the ferromagnetic  The coarse layer near the top (22 to 71 cm) is the least
+   resonance measurement Is/FeO (figure 4). Vaniman  mature Apollo soil (only 6% agglutinate, Taylor et al.
+    et al. (1979) tabulated the modal abundance of  1979) and is made up of coarse fragments and minerals
+   components for different size ranges, concluding that   of ilmenite basalt (Vaniman et al. 1979).
+   the Apollo 17 deep drill core was made up of 5 distinct
+    units (see table). “The upper unit E (0-22 cm depth) is                                                Mineralogical Mode
+   marked by high content of fused soil, brown glass, and                                                        Detailed mineralogical modes based on petrographic
+   mare fragments.  The underlying unit D (22-71 cm                                                           analysis of thin sections were determined by Heiken
+--- mineralogy block 2; lines 1-7 ---
+Summary mode for A17 deep drill according to Vaniman et al. 1979.     page 3
+
+                                                                                             top
+--- mineralogy block 3; lines 10-22 ---
+284 cm   256 cm   224 cm   71 cm
+
+   1980). Everyone agrees that the top 22 cm has been                                                           colorless KREEP glasses with a high-Si, low-alkali
+   gardened by micrometeorite bombardment.                                                      composition unlike the common Apollo 15 or Apollo
+                                                17 KREEP series. The deepest unit, A (256-284 cm
+   Petrography                                          depth), is marked by its relatively higher maturity and
+  A description of 70001 can be found in the Lunar Core  lower yellow/colorless KREEP glass content”. This
+   Catalog (1976) pages 17-32 to 17-36.  It was 5.5 cm   description is an excellent starting point for a discussion
+   long and was dissected top to bottom (0.5 cm at a time).   of the core. However, Taylor et al. (1979) see a different
+   Each unit was sieved into >1mm, 1-0.125 mm and   set of layers, Morris et al. (1979) have found that the
+   <0.125 mm. A bottom portion (70001,5; 3.43 g) was  whole lower part of the drill string is mature to
+   placed in deep freeze! Descriptions of 70009, 70008  submature and Goswami and Lal (1979) have identified
+   and 70007 are given by Duke and Nagle (1976). 70005   various units and events based on careful analysis of
+--- mineralogy block 4; lines 26-48 ---
+units.  These descriptions were soon superseded by
+   petrographic study of thin sections.                 Near the bottom of the core Vaniman and Papike
+                                                      (1977c) found fragments of very-low Ti (VLT) basalt,
+   Housley et al. (1976) showed that the maturity along  which is otherwise rare at the Apollo 17 site.
+   the length of the deep drill is given by the proportion
+   of agglutinates (figure 3) and the ferromagnetic  The coarse layer near the top (22 to 71 cm) is the least
+   resonance measurement Is/FeO (figure 4). Vaniman  mature Apollo soil (only 6% agglutinate, Taylor et al.
+    et al. (1979) tabulated the modal abundance of  1979) and is made up of coarse fragments and minerals
+   components for different size ranges, concluding that   of ilmenite basalt (Vaniman et al. 1979).
+   the Apollo 17 deep drill core was made up of 5 distinct
+    units (see table). “The upper unit E (0-22 cm depth) is                                                Mineralogical Mode
+   marked by high content of fused soil, brown glass, and                                                        Detailed mineralogical modes based on petrographic
+   mare fragments.  The underlying unit D (22-71 cm                                                           analysis of thin sections were determined by Heiken
+   depth) has a low abundance of fused soil (i.e. low                                                  and McKay (1974), Taylor et al. (1977), Vaniman and
+   maturity) and is rich in coarse (>200 micron) mare                                                     Papike (1977b), Taylor et al. (1979) and Vaniman et
+   fragments. A large section of the core, unit C (71-224                                                                          al. (1979). A summary of the mineralogical mode is
+  cm depth), is finer-grained, more mature (richer in                                                      given in Vaniman et al. (1979).
+    agglutinates), more feldspathic and has more highland
+    lithic, mineral and glass fragments than unit D. The                                                         Glass: Warner et al. (1979) reported the composition
+   next underlying unit, B (224-256 cm depth), has yellow/                                                          of glass from the top of the drill core. Vaniman et al.
+
+Lunar Sample Compendium
+C Meyer 2007
+--- material block 5; lines 10-48 ---
+284 cm   256 cm   224 cm   71 cm
+
+   1980). Everyone agrees that the top 22 cm has been                                                           colorless KREEP glasses with a high-Si, low-alkali
+   gardened by micrometeorite bombardment.                                                      composition unlike the common Apollo 15 or Apollo
+                                                17 KREEP series. The deepest unit, A (256-284 cm
+   Petrography                                          depth), is marked by its relatively higher maturity and
+  A description of 70001 can be found in the Lunar Core  lower yellow/colorless KREEP glass content”. This
+   Catalog (1976) pages 17-32 to 17-36.  It was 5.5 cm   description is an excellent starting point for a discussion
+   long and was dissected top to bottom (0.5 cm at a time).   of the core. However, Taylor et al. (1979) see a different
+   Each unit was sieved into >1mm, 1-0.125 mm and   set of layers, Morris et al. (1979) have found that the
+   <0.125 mm. A bottom portion (70001,5; 3.43 g) was  whole lower part of the drill string is mature to
+   placed in deep freeze! Descriptions of 70009, 70008  submature and Goswami and Lal (1979) have identified
+   and 70007 are given by Duke and Nagle (1976). 70005   various units and events based on careful analysis of
+    is described in newsletter #18. During dissection as   nuclear tracks. Thus there is no consensus on where
+   many as 54 lithologic units were identified, but Nagle   the major subdivisions should be, but it is clear that
+   and Waltz (1979) eventually grouped these into 6 major   the core is not well mixed (McKay et al. 1992).
+    units.  These descriptions were soon superseded by
+   petrographic study of thin sections.                 Near the bottom of the core Vaniman and Papike
+                                                      (1977c) found fragments of very-low Ti (VLT) basalt,
+   Housley et al. (1976) showed that the maturity along  which is otherwise rare at the Apollo 17 site.
+   the length of the deep drill is given by the proportion
+   of agglutinates (figure 3) and the ferromagnetic  The coarse layer near the top (22 to 71 cm) is the least
+   resonance measurement Is/FeO (figure 4). Vaniman  mature Apollo soil (only 6% agglutinate, Taylor et al.
+    et al. (1979) tabulated the modal abundance of  1979) and is made up of coarse fragments and minerals
+   components for different size ranges, concluding that   of ilmenite basalt (Vaniman et al. 1979).
+   the Apollo 17 deep drill core was made up of 5 distinct
+    units (see table). “The upper unit E (0-22 cm depth) is                                                Mineralogical Mode
+   marked by high content of fused soil, brown glass, and                                                        Detailed mineralogical modes based on petrographic
+   mare fragments.  The underlying unit D (22-71 cm                                                           analysis of thin sections were determined by Heiken
+   depth) has a low abundance of fused soil (i.e. low                                                  and McKay (1974), Taylor et al. (1977), Vaniman and
+   maturity) and is rich in coarse (>200 micron) mare                                                     Papike (1977b), Taylor et al. (1979) and Vaniman et
+   fragments. A large section of the core, unit C (71-224                                                                          al. (1979). A summary of the mineralogical mode is
+  cm depth), is finer-grained, more mature (richer in                                                      given in Vaniman et al. (1979).
+    agglutinates), more feldspathic and has more highland
+    lithic, mineral and glass fragments than unit D. The                                                         Glass: Warner et al. (1979) reported the composition
+   next underlying unit, B (224-256 cm depth), has yellow/                                                          of glass from the top of the drill core. Vaniman et al.
+
+Lunar Sample Compendium
+C Meyer 2007
+--- treatment block 6; lines 9-48 ---
+256-     224-      71-       22-      0 - 22 cm
+                                          284 cm   256 cm   224 cm   71 cm
+
+   1980). Everyone agrees that the top 22 cm has been                                                           colorless KREEP glasses with a high-Si, low-alkali
+   gardened by micrometeorite bombardment.                                                      composition unlike the common Apollo 15 or Apollo
+                                                17 KREEP series. The deepest unit, A (256-284 cm
+   Petrography                                          depth), is marked by its relatively higher maturity and
+  A description of 70001 can be found in the Lunar Core  lower yellow/colorless KREEP glass content”. This
+   Catalog (1976) pages 17-32 to 17-36.  It was 5.5 cm   description is an excellent starting point for a discussion
+   long and was dissected top to bottom (0.5 cm at a time).   of the core. However, Taylor et al. (1979) see a different
+   Each unit was sieved into >1mm, 1-0.125 mm and   set of layers, Morris et al. (1979) have found that the
+   <0.125 mm. A bottom portion (70001,5; 3.43 g) was  whole lower part of the drill string is mature to
+   placed in deep freeze! Descriptions of 70009, 70008  submature and Goswami and Lal (1979) have identified
+   and 70007 are given by Duke and Nagle (1976). 70005   various units and events based on careful analysis of
+    is described in newsletter #18. During dissection as   nuclear tracks. Thus there is no consensus on where
+   many as 54 lithologic units were identified, but Nagle   the major subdivisions should be, but it is clear that
+   and Waltz (1979) eventually grouped these into 6 major   the core is not well mixed (McKay et al. 1992).
+    units.  These descriptions were soon superseded by
+   petrographic study of thin sections.                 Near the bottom of the core Vaniman and Papike
+                                                      (1977c) found fragments of very-low Ti (VLT) basalt,
+   Housley et al. (1976) showed that the maturity along  which is otherwise rare at the Apollo 17 site.
+   the length of the deep drill is given by the proportion
+   of agglutinates (figure 3) and the ferromagnetic  The coarse layer near the top (22 to 71 cm) is the least
+   resonance measurement Is/FeO (figure 4). Vaniman  mature Apollo soil (only 6% agglutinate, Taylor et al.
+    et al. (1979) tabulated the modal abundance of  1979) and is made up of coarse fragments and minerals
+   components for different size ranges, concluding that   of ilmenite basalt (Vaniman et al. 1979).
+   the Apollo 17 deep drill core was made up of 5 distinct
+    units (see table). “The upper unit E (0-22 cm depth) is                                                Mineralogical Mode
+   marked by high content of fused soil, brown glass, and                                                        Detailed mineralogical modes based on petrographic
+   mare fragments.  The underlying unit D (22-71 cm                                                           analysis of thin sections were determined by Heiken
+   depth) has a low abundance of fused soil (i.e. low                                                  and McKay (1974), Taylor et al. (1977), Vaniman and
+   maturity) and is rich in coarse (>200 micron) mare                                                     Papike (1977b), Taylor et al. (1979) and Vaniman et
+   fragments. A large section of the core, unit C (71-224                                                                          al. (1979). A summary of the mineralogical mode is
+  cm depth), is finer-grained, more mature (richer in                                                      given in Vaniman et al. (1979).
+    agglutinates), more feldspathic and has more highland
+    lithic, mineral and glass fragments than unit D. The                                                         Glass: Warner et al. (1979) reported the composition
+   next underlying unit, B (224-256 cm depth), has yellow/                                                          of glass from the top of the drill core. Vaniman et al.
+
+Lunar Sample Compendium
+C Meyer 2007
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 8-43 ---
+Taylor et al. 1979) and showing the lithologic units identified by Taylor et al. (A - H).
+
+
+
+
+
+   Is/FeO
+
+
+
+
+
+    FeO
+
+
+
+
+
+                                      depth (cm)
+
+        Figure 4: Maturity index (Is/FeO) as a function of depth in Apollo 17 deep drill
+        core (Morris 1979).
+
+    (1979) reported that a lot of siliceous KREEP glass is  elements (especially the fines) at about 240 cm (figures
+    to be found in their unit B (224-256 cm).                8, 9 and 10).
+
+   Chemistry                                Ehmann and Ali (1977) measured the top of the core
+   The chemical composition of the deep drill core has  (70009 – 70007). They and others found there to be
+    only been measured in gross detail (it is a long core).  an abundance of Ti- and Fe-rich basalt in 70008.
+   The main features found so far are a variation in TiO2
+    content with depth (figure 7) and an enrichment in trace  Helmke et al. (1973), Laul et al. (1979) and Vaniman
+                                                                   et al. (1979) each found a trace-element enriched layer
+                                                                   at a depth of about 240 cm. Laul et al. found that the
+
+Lunar Sample Compendium
+C Meyer 2007
+--- mineralogy block 2; lines 1-13 ---
+page 4
+
+
+
+
+
+        Figure 3: Percentage of agglutinate glass in fine fraction of Apollo 17 deep drill (from
+         Taylor et al. 1979) and showing the lithologic units identified by Taylor et al. (A - H).
+--- mineralogy block 3; lines 25-37 ---
+depth (cm)
+
+        Figure 4: Maturity index (Is/FeO) as a function of depth in Apollo 17 deep drill
+        core (Morris 1979).
+
+    (1979) reported that a lot of siliceous KREEP glass is  elements (especially the fines) at about 240 cm (figures
+    to be found in their unit B (224-256 cm).                8, 9 and 10).
+
+   Chemistry                                Ehmann and Ali (1977) measured the top of the core
+   The chemical composition of the deep drill core has  (70009 – 70007). They and others found there to be
+    only been measured in gross detail (it is a long core).  an abundance of Ti- and Fe-rich basalt in 70008.
+   The main features found so far are a variation in TiO2
+--- material block 4; lines 23-42 ---
+depth (cm)
+
+        Figure 4: Maturity index (Is/FeO) as a function of depth in Apollo 17 deep drill
+        core (Morris 1979).
+
+    (1979) reported that a lot of siliceous KREEP glass is  elements (especially the fines) at about 240 cm (figures
+    to be found in their unit B (224-256 cm).                8, 9 and 10).
+
+   Chemistry                                Ehmann and Ali (1977) measured the top of the core
+   The chemical composition of the deep drill core has  (70009 – 70007). They and others found there to be
+    only been measured in gross detail (it is a long core).  an abundance of Ti- and Fe-rich basalt in 70008.
+   The main features found so far are a variation in TiO2
+    content with depth (figure 7) and an enrichment in trace  Helmke et al. (1973), Laul et al. (1979) and Vaniman
+                                                                   et al. (1979) each found a trace-element enriched layer
+                                                                   at a depth of about 240 cm. Laul et al. found that the
+
+Lunar Sample Compendium
+--- treatment block 5; lines 1-13 ---
+page 4
+
+
+
+
+
+        Figure 3: Percentage of agglutinate glass in fine fraction of Apollo 17 deep drill (from
+         Taylor et al. 1979) and showing the lithologic units identified by Taylor et al. (A - H).
+--- treatment block 6; lines 22-34 ---
+depth (cm)
+
+        Figure 4: Maturity index (Is/FeO) as a function of depth in Apollo 17 deep drill
+        core (Morris 1979).
+
+    (1979) reported that a lot of siliceous KREEP glass is  elements (especially the fines) at about 240 cm (figures
+    to be found in their unit B (224-256 cm).                8, 9 and 10).
+
+   Chemistry                                Ehmann and Ali (1977) measured the top of the core
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-23 ---
+25                                                                                          page 5
+           20                      Apollo soils               1000
+
+
+           15
+  FeO                                                                                      100
+           10                                                                   sample/
+                     70009                                                      chondrite
+                     70003                                                                    10
+            5                                                                                           70003 Laul
+                                                                                                      70009 Ehmann
+                                                                                                      70180 Hubbard
+            0                                                                                                 1
+              0       5      10      15      20      25      30      35
+                     Al2O3
+                                                                                                                            0.1
+        Figure 5: Chemical composition of deep drill                        La Ce  Pr Nd Sm Eu Gd Tb Dy Ho  Er Tm Yb Lu
+        samples for Apollo 17 compared with composition
+                                                                Figure 6: Normalized rare-earth-element pattern for          of all lunar soils.
+                                                                Apollo 17 deep drill core compared with nearby
+                                                                     reference soil (70180).
+   trace-element-enriched material (KREEP?) was
+    especially enriched in the finest fraction (figure 10).                                                             (figure 14). Elevated 15N was reported by Thiemens
+--- mineralogy block 2; lines 20-32 ---
+Apollo 17 deep drill core compared with nearby
+                                                                     reference soil (70180).
+   trace-element-enriched material (KREEP?) was
+    especially enriched in the finest fraction (figure 10).                                                             (figure 14). Elevated 15N was reported by Thiemens
+                                                  and Clayton (1980) for about the same region. This
+   Laul et al. (1984) found that Zn was anticorrelated with                                                             indicates a long exposure to the Sun at an ancient time.
+    agglutinate content. Zn was highest in the fine fraction
+    indicating that it was surface correlated (figure 11).                                                   Crozaz et al. (1974), Crozaz and Plachy (1976), Crozaz
+                                                  and Dust (1977), Crozaz and Ross (1979), Goswami
+   Cosmogenic isotopes and exposure ages         and Lal (1977 and 1979) studied nuclear tracks in
+   The irradiation history and depositional history of this   silicates as a function of depth (figures 15 and 16).
+   deep drill core is complicated. The material in the core  This data indicate a complicated exposure of particles
+   with the least, and most ancient, surface exposure is  along the core and is consistent with a long, multi-event
+--- material block 3; lines 14-58 ---
+0       5      10      15      20      25      30      35
+                     Al2O3
+                                                                                                                            0.1
+        Figure 5: Chemical composition of deep drill                        La Ce  Pr Nd Sm Eu Gd Tb Dy Ho  Er Tm Yb Lu
+        samples for Apollo 17 compared with composition
+                                                                Figure 6: Normalized rare-earth-element pattern for          of all lunar soils.
+                                                                Apollo 17 deep drill core compared with nearby
+                                                                     reference soil (70180).
+   trace-element-enriched material (KREEP?) was
+    especially enriched in the finest fraction (figure 10).                                                             (figure 14). Elevated 15N was reported by Thiemens
+                                                  and Clayton (1980) for about the same region. This
+   Laul et al. (1984) found that Zn was anticorrelated with                                                             indicates a long exposure to the Sun at an ancient time.
+    agglutinate content. Zn was highest in the fine fraction
+    indicating that it was surface correlated (figure 11).                                                   Crozaz et al. (1974), Crozaz and Plachy (1976), Crozaz
+                                                  and Dust (1977), Crozaz and Ross (1979), Goswami
+   Cosmogenic isotopes and exposure ages         and Lal (1977 and 1979) studied nuclear tracks in
+   The irradiation history and depositional history of this   silicates as a function of depth (figures 15 and 16).
+   deep drill core is complicated. The material in the core  This data indicate a complicated exposure of particles
+   with the least, and most ancient, surface exposure is  along the core and is consistent with a long, multi-event
+   near the surface (25 to 60 cm deep), and the soil with   deposition of the core.
+   the greatest, and most recent, surface exposure is at a
+   depth of 110 – 170 cm. The top 25 cm is like other  Processing
+    soils at Apollo 17 (Thiemens and Clayton 1980).                                                   Although the core was allowed to sit in the sunlight
+   However, a region around 240 cm has correlated high                                                           (see figure 1 in 70180), and was warmed up for 7 – 10
+    15N, 21Ne, 38Ar and KREEP content.  It needs to be                                                     days during transit to earth, portions were removed and
+   studied in more detail.                                                       placed in a freezer, where they have remained all these
+                                                         years (see section on 70001).
+   Curtis and Wasserburg (1975) studied the neutron
+   fluence of the core using Gd isotopes, consistent with                                                 Continuous sets of thin sections and long epoxy
+   a model where the core was laid down at a single, recent                                                        encapsulated reference cores are available for the entire
+   time (~100 m.y.).  However, in a later paper they                                                                        drill string (eight segments).
+   reported a single particle that has Gd isotopes
+    inconsistent with that model (figure 17).
+
+    Rancitelli et al. (1975) and Fruchter et al. (1976 - 9)
+   reported 22Na and 26Al for the entire Apollo 17 deep
+    drill core. Nishiizumi et al. (1976) reported the activity
+   of 53Mn for samples of 70008 and Fruchter et al. (1979)
+   determined the whole core (figures 12 and 13).
+
+   Other Studies
+   Rare gas contents were reported by Pepin et al. (1975)
+  who found an enrichment of 21Ne and 38Ar at depth
+--- treatment block 4; lines 17-36 ---
+Figure 5: Chemical composition of deep drill                        La Ce  Pr Nd Sm Eu Gd Tb Dy Ho  Er Tm Yb Lu
+        samples for Apollo 17 compared with composition
+                                                                Figure 6: Normalized rare-earth-element pattern for          of all lunar soils.
+                                                                Apollo 17 deep drill core compared with nearby
+                                                                     reference soil (70180).
+   trace-element-enriched material (KREEP?) was
+    especially enriched in the finest fraction (figure 10).                                                             (figure 14). Elevated 15N was reported by Thiemens
+                                                  and Clayton (1980) for about the same region. This
+   Laul et al. (1984) found that Zn was anticorrelated with                                                             indicates a long exposure to the Sun at an ancient time.
+    agglutinate content. Zn was highest in the fine fraction
+    indicating that it was surface correlated (figure 11).                                                   Crozaz et al. (1974), Crozaz and Plachy (1976), Crozaz
+                                                  and Dust (1977), Crozaz and Ross (1979), Goswami
+   Cosmogenic isotopes and exposure ages         and Lal (1977 and 1979) studied nuclear tracks in
+   The irradiation history and depositional history of this   silicates as a function of depth (figures 15 and 16).
+   deep drill core is complicated. The material in the core  This data indicate a complicated exposure of particles
+   with the least, and most ancient, surface exposure is  along the core and is consistent with a long, multi-event
+   near the surface (25 to 60 cm deep), and the soil with   deposition of the core.
+   the greatest, and most recent, surface exposure is at a
+   depth of 110 – 170 cm. The top 25 cm is like other  Processing
+    soils at Apollo 17 (Thiemens and Clayton 1980).                                                   Although the core was allowed to sit in the sunlight
+--- references block 5; lines 15-27 ---
+Al2O3
+                                                                                                                            0.1
+        Figure 5: Chemical composition of deep drill                        La Ce  Pr Nd Sm Eu Gd Tb Dy Ho  Er Tm Yb Lu
+        samples for Apollo 17 compared with composition
+                                                                Figure 6: Normalized rare-earth-element pattern for          of all lunar soils.
+                                                                Apollo 17 deep drill core compared with nearby
+                                                                     reference soil (70180).
+   trace-element-enriched material (KREEP?) was
+    especially enriched in the finest fraction (figure 10).                                                             (figure 14). Elevated 15N was reported by Thiemens
+                                                  and Clayton (1980) for about the same region. This
+   Laul et al. (1984) found that Zn was anticorrelated with                                                             indicates a long exposure to the Sun at an ancient time.
+    agglutinate content. Zn was highest in the fine fraction
+    indicating that it was surface correlated (figure 11).                                                   Crozaz et al. (1974), Crozaz and Plachy (1976), Crozaz
+--- references block 6; lines 37-49 ---
+However, a region around 240 cm has correlated high                                                           (see figure 1 in 70180), and was warmed up for 7 – 10
+    15N, 21Ne, 38Ar and KREEP content.  It needs to be                                                     days during transit to earth, portions were removed and
+   studied in more detail.                                                       placed in a freezer, where they have remained all these
+                                                         years (see section on 70001).
+   Curtis and Wasserburg (1975) studied the neutron
+   fluence of the core using Gd isotopes, consistent with                                                 Continuous sets of thin sections and long epoxy
+   a model where the core was laid down at a single, recent                                                        encapsulated reference cores are available for the entire
+   time (~100 m.y.).  However, in a later paper they                                                                        drill string (eight segments).
+   reported a single particle that has Gd isotopes
+    inconsistent with that model (figure 17).
+
+    Rancitelli et al. (1975) and Fruchter et al. (1976 - 9)
+   reported 22Na and 26Al for the entire Apollo 17 deep
+
+=== PDF PAGE 6; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 1-24 ---
+70009  70008  70007 70006  70005  70004  70003  70002  70001                                               page 6             11
+             10                         Apollo 17 Deep Drill            14
+                              70009 - 70001                Apollo17DeepDrill              9
+                                                                          12  finefraction<20microns
+              8
+                                                        Sm    TiO2  7                                                              10
+
+              6
+                                                                      8
+              5                                        ppm
+              4                                                          6
+
+              3
+                0         50        100        150       200       250       300        4
+                          depth (cm)
+                                                                      2   Th
+
+            Figure 7: Bulk chemical composition of Apollo
+                                                                      0
+           17 deep drill as function of depth (with segments                                                                       0        50       100       150      200       250       300
+             indicated at top). Data from Ehmann and Ali,
+            Laul et al. and Helmke et al. - see tables.                              depth(cm)
+
+              70009  70008  70007 70006  70005  70004  70003  70002  70001         Figure 10: Laul et al. 1979, 1980 found that trace
+--- chemistry block 2; lines 38-50 ---
+0.5                                     ppm 100                     fines
+              0                                                                                 80
+                    0           50         100         150         200         250        300
+                                 depth (cm)                                              60
+
+                                                                                               40
+         Figure 8: Bulk chemical composition of Apollo 17                     bulk
+                                                                                               20
+         deep drill as function of depth (with segments
+          indicated at top). Data from Ehmann and Ali, Laul                0 0           50         100         150         200         250         300
+           et al. and Helmke et al. - see tables.                                          depth (cm)
+                                                                Figure 11: Laul et al. (1979, 1980) found that zinc
+            70009  70008  70007 70006  70005  70004  70003  70002  70001        (Zn) concentration is elevated in the top portion of
+--- chemistry block 3; lines 64-76 ---
+5                        Apollo 17 Deep Drill
+
+            4
+              0         50        100        150       200       250       300
+                         depth (cm)
+
+         Figure 9: Bulk chemical composition of Apollo 17
+        deep drill as function of depth (with segments
+         indicated at top). Data from Ehmann and Ali, Laul et
+           al. and Helmke et al. - see tables.
+
+
+Lunar Sample Compendium
+--- mineralogy block 4; lines 46-58 ---
+deep drill as function of depth (with segments
+          indicated at top). Data from Ehmann and Ali, Laul                0 0           50         100         150         200         250         300
+           et al. and Helmke et al. - see tables.                                          depth (cm)
+                                                                Figure 11: Laul et al. (1979, 1980) found that zinc
+            70009  70008  70007 70006  70005  70004  70003  70002  70001        (Zn) concentration is elevated in the top portion of
+          11                                                             the deep drill core, and anticorrelated with the
+          10                                                            agglutinate content. Notice that it is also enriched in
+                                                                       the fines, indicating surface correlation.
+            9
+
+
+            8
+   Sm
+--- material block 5; lines 45-57 ---
+20
+         deep drill as function of depth (with segments
+          indicated at top). Data from Ehmann and Ali, Laul                0 0           50         100         150         200         250         300
+           et al. and Helmke et al. - see tables.                                          depth (cm)
+                                                                Figure 11: Laul et al. (1979, 1980) found that zinc
+            70009  70008  70007 70006  70005  70004  70003  70002  70001        (Zn) concentration is elevated in the top portion of
+          11                                                             the deep drill core, and anticorrelated with the
+          10                                                            agglutinate content. Notice that it is also enriched in
+                                                                       the fines, indicating surface correlation.
+            9
+
+
+            8
+--- treatment block 6; lines 19-31 ---
+0
+           17 deep drill as function of depth (with segments                                                                       0        50       100       150      200       250       300
+             indicated at top). Data from Ehmann and Ali,
+            Laul et al. and Helmke et al. - see tables.                              depth(cm)
+
+              70009  70008  70007 70006  70005  70004  70003  70002  70001         Figure 10: Laul et al. 1979, 1980 found that trace
+               4.5                                                         elements were enriched in the finest fraction and
+              4   Apollo 17                                                  that this effect was pronounced at ~240 cm depth in
+               3.5  Deep Drill                                                the Apollo 17 deep drill.
+
+              3
+                                                                                        70009  70008  70007 70006  70005  70004  70003  70002  70001    Th
+               2.5                                                                               180    ppm
+
+=== PDF PAGE 7; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 2. Chemical composition of A17 deep drill (representative samples). *            page 7
+             70001   70002   70003  70004  70005  70006  70007   70008  70008  70009  70009
+    reference  Laul + Papike80            Laul et al. 1979                    Laul et al. 1978
+    weight    4 mg    15 mg                                >90     5.89    >90     3.65     top
+   SiO2 %    42.3     42.3     42.6    42.2    42.1    42.1    41.7     39.5    39.9    40.7    40.4     (a)
+    TiO2      5.6      5.8      5.7      5.7      5.4     6.1     6        9.1      9.8      8.5      8.3      (a)
+   Al2O3     13.5    14       14.5    13.7    14.4    13      13.9     11.1    10      11.5    12.1     (a)
+   FeO      16       15.4     15.3    16.7    16      16.3    15.9     18.3    18.3    17.5    17.1     (a)
+   MnO      0.194    0.19     0.184   0.192   0.194   0.2     0.206   0.23    0.24    0.224   0.224   (a)
+   MgO      10.5     10.1    10      10.2     9.9     10.1    10.1     9.6     9      10      10.7     (a)
+   CaO       11.1     11.2     11      10.5     11.8    10.5     11.3     11.2    10.9    10      10.8     (a)
+   Na2O     0.45     0.46     0.44    0.41    0.41    0.43    0.39     0.43     0.4     0.41    0.39     (a)
+   K2O      0.12     0.12     0.14     0.11     0.11    0.11    0.087   0.068   0.078   0.085   0.085   (a)
+   P2O5
+   S %         * note: there are many more analyses in these publication than can be presented here!
+   sum
+    depth (cm) 286     258     220    178    140    108    81      38     28     20     1
+   Sc ppm   47.5    47       43.5    51      48.9    50      49.3     63.6    72.1    60      56.6     (a)
+   V        80      80      80     85     90     90     85      100    100    100    100     (a)
+--- references block 2; lines 1-9 ---
+Table 2. Chemical composition of A17 deep drill (representative samples). *            page 7
+             70001   70002   70003  70004  70005  70006  70007   70008  70008  70009  70009
+    reference  Laul + Papike80            Laul et al. 1979                    Laul et al. 1978
+    weight    4 mg    15 mg                                >90     5.89    >90     3.65     top
+   SiO2 %    42.3     42.3     42.6    42.2    42.1    42.1    41.7     39.5    39.9    40.7    40.4     (a)
+    TiO2      5.6      5.8      5.7      5.7      5.4     6.1     6        9.1      9.8      8.5      8.3      (a)
+   Al2O3     13.5    14       14.5    13.7    14.4    13      13.9     11.1    10      11.5    12.1     (a)
+   FeO      16       15.4     15.3    16.7    16      16.3    15.9     18.3    18.3    17.5    17.1     (a)
+   MnO      0.194    0.19     0.184   0.192   0.194   0.2     0.206   0.23    0.24    0.224   0.224   (a)
+--- references block 3; lines 64-73 ---
+Os ppb
+      Ir ppb     <10     15      13     16     <10    <15            <10    <10    <10    <10     (a)
+    Pt ppb
+   Au ppb    3        4.4      3.5      2.8      5.2     3              2              2      3        (a)
+   Th ppm    1.5      1.4      1.75     1.3      1.3     1.35    0.95     0.6      0.4     0.94    0.95     (a)
+   U ppm     0.5      0.5      0.45     0.4      0.4     0.4                                       0.23     (a)
+    technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2007
+
+=== PDF PAGE 8; CATEGORIES: treatment ===
+--- treatment block 1; lines 19-31 ---
+Figure 14: 15N, 21Ne and 38Ar are all enriched in
+         Apollo 17 deep drill string (Pepin et al. 1975;
+         Thiemens and Clayton 1980). The peak at 400 g/
+        cm2 at the top of segment 70003 indicates an intense
+          solar irradiation at an ancinct time .
+
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 9; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 4. Chemical composition of A17 deep drill.                                          page 9
+             70001    70002    70003    70004    70005    70006       70008   70008   70008  70008
+    reference  Helmke 73                                                         Fruchter75
+    depth     294      253      213      173       133      93      cm 30      40      50     60
+   SiO2 %    42.1      43.4       42.9       42.6       42.6       41.6       (a)
+    TiO2      5.85      5.56       5.44      6          5.8        7.23       (a)
+   Al2O3     14.1      14        13.9       13.7       14.1       13.3       (a)
+   FeO       14.5      14.5       14.5       14.9       14.7       15.2       (a)
+   MnO       0.2       0.199     0.203     0.209     0.207     0.213      (a)
+   MgO      10.3      9.94       10.3       10.1       9.97       9.56       (a)
+   CaO       11.2      10.9      11         11.2       11.2       10.9       (a)
+   Na2O     0.43      0.48       0.46       0.44       0.42       0.46       (a)
+   K2O       0.12      0.227     0.149     0.114      0.118     0.101      (a) 0.116    0.088   0.113   0.088
+   P2O5
+   S %
+   sum
+
+   Sc ppm   47       43       43       46       46       52         (b)
+   V
+--- references block 2; lines 1-9 ---
+Table 4. Chemical composition of A17 deep drill.                                          page 9
+             70001    70002    70003    70004    70005    70006       70008   70008   70008  70008
+    reference  Helmke 73                                                         Fruchter75
+    depth     294      253      213      173       133      93      cm 30      40      50     60
+   SiO2 %    42.1      43.4       42.9       42.6       42.6       41.6       (a)
+    TiO2      5.85      5.56       5.44      6          5.8        7.23       (a)
+   Al2O3     14.1      14        13.9       13.7       14.1       13.3       (a)
+   FeO       14.5      14.5       14.5       14.9       14.7       15.2       (a)
+   MnO       0.2       0.199     0.203     0.209     0.207     0.213      (a)
+--- references block 3; lines 64-73 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm                                                                      0.84     1.16     0.75    0.97
+   U ppm                                                                       0.19     0.27     0.21
+    technique:  (a) AA, (b) INAA
+
+Lunar Sample Compendium
+C Meyer 2007
+
+=== PDF PAGE 10; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-19 ---
+page 10
+
+
+
+
+
+         Figure 15: Track densities in feldspar and pyroxene
+          grains in 80 samples along the length of the Apollo
+        17 deep drill (Goswami and Lal 1979). S stands for
+         slow and R for rapid accretion, SS is for a soil slab
+          deposit. Arrows indicated where material has been         Figure 17: Gd isotopes of an individual particle
+        added in quick succession (nearby cratering event).          violate the neutron flux model of Curtis and
+         Taylor et als measure of agglutinate content and           Wasserburg (1977b).
+           litholgoical subdivision is given for comparison.
+--- material block 2; lines 4-16 ---
+Figure 15: Track densities in feldspar and pyroxene
+          grains in 80 samples along the length of the Apollo
+        17 deep drill (Goswami and Lal 1979). S stands for
+         slow and R for rapid accretion, SS is for a soil slab
+          deposit. Arrows indicated where material has been         Figure 17: Gd isotopes of an individual particle
+        added in quick succession (nearby cratering event).          violate the neutron flux model of Curtis and
+         Taylor et als measure of agglutinate content and           Wasserburg (1977b).
+           litholgoical subdivision is given for comparison.
+
+=== PDF PAGE 11; CATEGORIES: age,chemistry,material,references,treatment ===
+--- chemistry block 1; lines 42-54 ---
+Curtis D.B. and Wasserburg G.J. (1975) Apollo 17 neutron
+    stratigraphy – sedimentation and mixing in the lunar regolith.  Goswami J.N. and Lal D. (1979)  Depositional history of
+   The Moon 13, 185-227.                                     the Apollo 17 deep drill core based on particle track record.
+                                                               Proc. 10th Lunar Planet. Sci. Conf. 1253-1267.
+    Curtis D.B. and Wasserburg G.J.  (1977a)  Transport and
+    erosional processes in the Taurus-Littrow Valley – Inferences  Helmke P.A., Blanchard D.P., Jacobs J.W., Trelander K.M.
+   from neutron fluences in lunar soils.  Proc. 8th Lunar Sci.  and Haskin L.A. (1973) Major and trace element materials
+   Conf. 3045-3057.                                    from the Apollo 17 deep drill core. Trans. Am. Geophys.
+                                                    Union 54, 595.
+    Curtis D.B. and Wasserburg G.J.  (1977b)  Stratigraphic
+    processes in the lunar regolith – additional insights from  Heiken G. and McKay D.S. (1974) Petrography of Apollo
+   neutron fluence measurements on bulk soils and lithic  17 soil. Proc. 5th Lunar Sci. Conf. 843-860.
+    fragments from the deep drill cores.  Proc. 8th Lunar Sci.
+--- material block 2; lines 1-61 ---
+page 11
+   References:
+    Allton J.H. and Waltz S.R. (1980) Depth scales for Apollo  Duke M.B. and Nagle J.S. (1974, 1976) Lunar Core Catalog.
+    15, 16 and 17 drill cores. Proc. 11th Lunar Planet. Sci. Conf.  JSC09252. and various supplements
+   1463-1477.
+                                                     Dragon J.C., Johnson N.L., Pepin R.O., Bates A., Coscio
+   Apollo 17 PET  (1973) The Apollo 17 lunar samples –   M.R., and Murthy V.R. (1975) The Apollo 17 deep drill
+    Petrographic and chemical description. Science 182, 659-   core: A possible depositional model. (abs) LS VI, 196-198.
+    672.
+                                                     Drozd R.J., Hohenberg C.M., Morgan C.J., Podosek F.A.
+   Arvidson R., Drozd R., Guinness E., Hohenberg C., Morgan  and Wroge M.L. (1977)  Cosmic-ray exposure history at
+    C., Morrison R. and Oberbeck V. (1976)  Cosmic ray   Taurus-Littrow. Proc. 8th Lunar Sci. Conf. 3027-3043.
+   exposure ages of Apollo 17 samples and the age of Tycho.
+    Proc. 7th Lunar Sci. Conf. 2819-2832.                 Ehmann W.D and Ali H.Z. (1977) Chemical stratigraphy of
+                                                                 the Apollo 17 deep drill cores 70009-70007. Proc. 8th Lunar
+   Blanchard D.P., Korotev R.L., Brannon J.C., Jacobs J.W.,   Sci. Conf. 3223-3241.
+   Haskin L.A., Reid A.M., Donaldson C. and Brown R.W.
+    (1975) A geochemical and petrographic study of 1-2 mm   Fruchter J.S., Rancitelli L.A. and Perkins R.W.  (1975)
+    fines from Apollo 17. Proc. 6th Lunar Sci. Conf. 2321-2342.   Primordial radionuclide variation in the Apollo 15 and 17
+                                                       deep core samples and in Apollo 17 igneous rocks and
+   Crozaz G., Drozd R., Hohenberg C.M., Morgan C., Ralston   breccias. Proc. 6th Lunar Planet. Sci. Conf. 1399-1405.
+    C., Walker R.M. and Yuhas D.  (1974)  Lunar surface
+   dynamics: Some general conclusions and new results from   Fruchter J.S., Rancitelli L.A. and Perkins R.W.  (1976)
+   Apollo 16 and 17. Proc. 5th Lunar Sci. Conf. 2475-2500.    Recent and long-term mixing of the lunar regolith based on
+                                                 22Na and 26Al measurements in Apollo 15, 16 and 17 deep
+   Crozaz G. and Plachy A.L. (1976) Origin of the Apollo 17    drill stems and drive tubes. Proc. 7th Lunar Planet. Sci. Conf.
+   deep drill coarse-grained layer. Proc. 7th Lunar Planet. Sci.   27-39.
+   Conf. 123-131.
+                                                             Fruchter J.S., Rancitelli L.A. and Perkins R.W.  (1979)
+   Crozaz G. and Dust S. (1977) Irradiation history of lunar   History of the Apollo 17 deep drill string during the past
+    cores and the development of the regolith. Proc. 8th Lunar  few million years. (abs ) LPS X, 408-410.
+    Sci. Conf. 3001-3016.
+                                                              Fruchter J.S., Reeves J.H., Evans J.C. and Perkins R.W.
+   Crozaz G. (1978)  Regolith irradiation stratigraphy at the  (1981)  Studies of lunar regolith dynamics using
+   Apollo 16 and 17 landing sites. Proc. 9th Lunar Planet. Sci.  measurements of cosmogenic radionuclides in lunar rocks,
+   Conf. 1787-1800.                                                soils and cores.  Proc. 12th Lunar Planet. Sci. Conf. 567-
+                                                            575.
+   Crozaz G. and Ross L.M. (1979) Deposition and irradiation
+    of the Apollo 17 deep drill core.  Proc. 10th Lunar Planet.  Goswami J.N. and Lal D. (1974) Cosmic ray irradiation at
+    Sci. Conf. 1229-1241.                                       the Apollo 17 site: Implications to Lunar regolith dynamics.
+                                                               Proc. 5th Lunar Sci. Conf. 2643-2662.
+    Curtis D.B. and Wasserburg G.J. (1975) Apollo 17 neutron
+    stratigraphy – sedimentation and mixing in the lunar regolith.  Goswami J.N. and Lal D. (1979)  Depositional history of
+   The Moon 13, 185-227.                                     the Apollo 17 deep drill core based on particle track record.
+                                                               Proc. 10th Lunar Planet. Sci. Conf. 1253-1267.
+    Curtis D.B. and Wasserburg G.J.  (1977a)  Transport and
+    erosional processes in the Taurus-Littrow Valley – Inferences  Helmke P.A., Blanchard D.P., Jacobs J.W., Trelander K.M.
+   from neutron fluences in lunar soils.  Proc. 8th Lunar Sci.  and Haskin L.A. (1973) Major and trace element materials
+   Conf. 3045-3057.                                    from the Apollo 17 deep drill core. Trans. Am. Geophys.
+                                                    Union 54, 595.
+    Curtis D.B. and Wasserburg G.J.  (1977b)  Stratigraphic
+    processes in the lunar regolith – additional insights from  Heiken G. and McKay D.S. (1974) Petrography of Apollo
+   neutron fluence measurements on bulk soils and lithic  17 soil. Proc. 5th Lunar Sci. Conf. 843-860.
+    fragments from the deep drill cores.  Proc. 8th Lunar Sci.
+   Conf. 3575-3593.                                        Hintenberger H., Schultz L. and Weber H.W.  (1975) A
+                                                        comparison of noble gases in lunar fines and soil breccias:
+                                                               Implications for the origin of soil breccias. Proc. 6th Lunar
+                                                                     Sci. Conf. 2261-2270.
+
+Lunar Sample Compendium
+C Meyer 2007
+--- age block 3; lines 5-19 ---
+1463-1477.
+                                                     Dragon J.C., Johnson N.L., Pepin R.O., Bates A., Coscio
+   Apollo 17 PET  (1973) The Apollo 17 lunar samples –   M.R., and Murthy V.R. (1975) The Apollo 17 deep drill
+    Petrographic and chemical description. Science 182, 659-   core: A possible depositional model. (abs) LS VI, 196-198.
+    672.
+                                                     Drozd R.J., Hohenberg C.M., Morgan C.J., Podosek F.A.
+   Arvidson R., Drozd R., Guinness E., Hohenberg C., Morgan  and Wroge M.L. (1977)  Cosmic-ray exposure history at
+    C., Morrison R. and Oberbeck V. (1976)  Cosmic ray   Taurus-Littrow. Proc. 8th Lunar Sci. Conf. 3027-3043.
+   exposure ages of Apollo 17 samples and the age of Tycho.
+    Proc. 7th Lunar Sci. Conf. 2819-2832.                 Ehmann W.D and Ali H.Z. (1977) Chemical stratigraphy of
+                                                                 the Apollo 17 deep drill cores 70009-70007. Proc. 8th Lunar
+   Blanchard D.P., Korotev R.L., Brannon J.C., Jacobs J.W.,   Sci. Conf. 3223-3241.
+   Haskin L.A., Reid A.M., Donaldson C. and Brown R.W.
+    (1975) A geochemical and petrographic study of 1-2 mm   Fruchter J.S., Rancitelli L.A. and Perkins R.W.  (1975)
+    fines from Apollo 17. Proc. 6th Lunar Sci. Conf. 2321-2342.   Primordial radionuclide variation in the Apollo 15 and 17
+--- age block 4; lines 33-45 ---
+Fruchter J.S., Reeves J.H., Evans J.C. and Perkins R.W.
+   Crozaz G. (1978)  Regolith irradiation stratigraphy at the  (1981)  Studies of lunar regolith dynamics using
+   Apollo 16 and 17 landing sites. Proc. 9th Lunar Planet. Sci.  measurements of cosmogenic radionuclides in lunar rocks,
+   Conf. 1787-1800.                                                soils and cores.  Proc. 12th Lunar Planet. Sci. Conf. 567-
+                                                            575.
+   Crozaz G. and Ross L.M. (1979) Deposition and irradiation
+    of the Apollo 17 deep drill core.  Proc. 10th Lunar Planet.  Goswami J.N. and Lal D. (1974) Cosmic ray irradiation at
+    Sci. Conf. 1229-1241.                                       the Apollo 17 site: Implications to Lunar regolith dynamics.
+                                                               Proc. 5th Lunar Sci. Conf. 2643-2662.
+    Curtis D.B. and Wasserburg G.J. (1975) Apollo 17 neutron
+    stratigraphy – sedimentation and mixing in the lunar regolith.  Goswami J.N. and Lal D. (1979)  Depositional history of
+   The Moon 13, 185-227.                                     the Apollo 17 deep drill core based on particle track record.
+                                                               Proc. 10th Lunar Planet. Sci. Conf. 1253-1267.
+--- treatment block 5; lines 24-45 ---
+Apollo 16 and 17. Proc. 5th Lunar Sci. Conf. 2475-2500.    Recent and long-term mixing of the lunar regolith based on
+                                                 22Na and 26Al measurements in Apollo 15, 16 and 17 deep
+   Crozaz G. and Plachy A.L. (1976) Origin of the Apollo 17    drill stems and drive tubes. Proc. 7th Lunar Planet. Sci. Conf.
+   deep drill coarse-grained layer. Proc. 7th Lunar Planet. Sci.   27-39.
+   Conf. 123-131.
+                                                             Fruchter J.S., Rancitelli L.A. and Perkins R.W.  (1979)
+   Crozaz G. and Dust S. (1977) Irradiation history of lunar   History of the Apollo 17 deep drill string during the past
+    cores and the development of the regolith. Proc. 8th Lunar  few million years. (abs ) LPS X, 408-410.
+    Sci. Conf. 3001-3016.
+                                                              Fruchter J.S., Reeves J.H., Evans J.C. and Perkins R.W.
+   Crozaz G. (1978)  Regolith irradiation stratigraphy at the  (1981)  Studies of lunar regolith dynamics using
+   Apollo 16 and 17 landing sites. Proc. 9th Lunar Planet. Sci.  measurements of cosmogenic radionuclides in lunar rocks,
+   Conf. 1787-1800.                                                soils and cores.  Proc. 12th Lunar Planet. Sci. Conf. 567-
+                                                            575.
+   Crozaz G. and Ross L.M. (1979) Deposition and irradiation
+    of the Apollo 17 deep drill core.  Proc. 10th Lunar Planet.  Goswami J.N. and Lal D. (1974) Cosmic ray irradiation at
+    Sci. Conf. 1229-1241.                                       the Apollo 17 site: Implications to Lunar regolith dynamics.
+                                                               Proc. 5th Lunar Sci. Conf. 2643-2662.
+    Curtis D.B. and Wasserburg G.J. (1975) Apollo 17 neutron
+    stratigraphy – sedimentation and mixing in the lunar regolith.  Goswami J.N. and Lal D. (1979)  Depositional history of
+   The Moon 13, 185-227.                                     the Apollo 17 deep drill core based on particle track record.
+                                                               Proc. 10th Lunar Planet. Sci. Conf. 1253-1267.
+--- references block 6; lines 1-8 ---
+page 11
+   References:
+    Allton J.H. and Waltz S.R. (1980) Depth scales for Apollo  Duke M.B. and Nagle J.S. (1974, 1976) Lunar Core Catalog.
+    15, 16 and 17 drill cores. Proc. 11th Lunar Planet. Sci. Conf.  JSC09252. and various supplements
+   1463-1477.
+                                                     Dragon J.C., Johnson N.L., Pepin R.O., Bates A., Coscio
+   Apollo 17 PET  (1973) The Apollo 17 lunar samples –   M.R., and Murthy V.R. (1975) The Apollo 17 deep drill
+    Petrographic and chemical description. Science 182, 659-   core: A possible depositional model. (abs) LS VI, 196-198.
+
+=== PDF PAGE 12; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 1-11 ---
+Housley R.M., Cirlin E.H., Goldberg I.B. and Crow H.                                              page 12
+    (1976)  Ferromagnetic resonance studies of lunar core
+     stratigraphy. Proc. 7th Lunar Sci. Conf. 13-26.                to the Apollo 17 drill core.  Proc. 15th Lunar Planet. Sci.
+                                                           Conf. C161-C170.
+    Jovanovic S. and Reed G.W. (1973) Volatile trace elements
+    and the characterization of the Cayley Formation and the  LSPET (1973) Preliminary examination of lunar samples.
+    primitive lunar crust. Proc. 4th Lunar Sci. Conf. 1313-1324.   Apollo 17 Preliminary Sci. Report NASA SP-330. 7-1.
+
+    Jovanovic S. and Reed G.W. (1974) Labile and non-labile  McKay D.S., Heiken G., Basu A., Blanford G., Simon S.,
+    element relationships among Apollo 17 samples. Proc. 5th  Reedy R., French B.M. and Papike J.J. (1992) The Lunar
+    Lunar Planet. Sci. Conf. 1685-1702.                           regolith. In Lunar Source Book: a users guide to the moon.
+--- mineralogy block 2; lines 16-42 ---
+drill core. (abs) LPS X, 864-866.
+    Korotev R.L. (1976b) Geochemistry of grain-size fractions
+    of soils from the Taurus-Littrow valley floor. Proc. 7th Lunar  Morris R.V., Lauer H.V. and Gose W.A. (1979b)
+     Sci. Conf. 695-726.                                         Characterization and depositional and evolutionary history
+                                                                of the Apollo 17 deep drill core.  Proc. 10th Lunar Planet.
+    Labotka T.C., Vaniman D.T. and Papike J.J. (1979) The                                                                     Sci. Conf. 1141-1157.
+    Apollo 17 drill core: Comparative modal petrology and phase
+    chemistry of the >20 micron and <20 micron fractions.                                                          Morris R.V. (1978)  In situ reworking (gardening) of the
+    Geophys. Rev. Lett. 6, 503-506.                                                                lunar surface: Evidence from the Apollo cores.  Proc. 9th
+                                                       Lunar Planet. Sci. Conf. 1801-1811.
+    Langevin Y. and Maurette M. (1978)  Plausible depositional
+     histories for the Apollo 15, 16 and 17 drill core tubes. Proc.                                                       Nagle J.S. and Waltz S.R. (1979) Sedimentary petrology of
+      9th Lunar Planet. Sci. Conf. 1765-1786.                      the Apollo 17 deep drill string. (abs) LPS X, 895-897.
+
+    Langevin Y. and Nagle J.S. (1980) The depositional history   Nishiizumi K., Imamura M., Honda M., Russ C.P., Kohl C.P.
+    of the Apollo deep drill core: A reappraisal. Proc. 11th Lunar  and Arnold J.R. (1976) 53Mn in the Apollo 15 and 16 drill
+    Planet Sci. Conf. 1415-1434.                               stems: Evidence for surface missing. Proc. 7th Lunar Sci.
+                                                           Conf. 41-54.
+    Laul J.C., Hill D.W. and Schmitt R.A. (1974)  Chemical
+    studies of Apollo 16 and 17 samples. Proc. 5th Lunar Sci.   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    Conf. 1047-1066.                                           regolith: Chemistry, mineralogy and petrology.  Rev.
+                                                        Geophys. Space Phys. 20, 761-826.
+    Laul J.C. and Papike J.J. (1980a) The lunar regolith:
+    Comparative chemistry of the Apollo sites. Proc. 11th Lunar   Pepin R.O., Dragon J.C., Johnson N.L., Bates A., Coscio
+     Planet. Sci. Conf. 1307-1340.                         M.R. and Murthy V.R. (1975) Rare gases and Ca, Sr and
+                                                Ba in Apollo 17 drill-core fines. Proc. 6th Lunar Sci. Conf.
+    Laul J.C. and Papike J.J. (1980b) The Apollo 17 drill core:   2027-2056.
+--- material block 3; lines 1-60 ---
+Housley R.M., Cirlin E.H., Goldberg I.B. and Crow H.                                              page 12
+    (1976)  Ferromagnetic resonance studies of lunar core
+     stratigraphy. Proc. 7th Lunar Sci. Conf. 13-26.                to the Apollo 17 drill core.  Proc. 15th Lunar Planet. Sci.
+                                                           Conf. C161-C170.
+    Jovanovic S. and Reed G.W. (1973) Volatile trace elements
+    and the characterization of the Cayley Formation and the  LSPET (1973) Preliminary examination of lunar samples.
+    primitive lunar crust. Proc. 4th Lunar Sci. Conf. 1313-1324.   Apollo 17 Preliminary Sci. Report NASA SP-330. 7-1.
+
+    Jovanovic S. and Reed G.W. (1974) Labile and non-labile  McKay D.S., Heiken G., Basu A., Blanford G., Simon S.,
+    element relationships among Apollo 17 samples. Proc. 5th  Reedy R., French B.M. and Papike J.J. (1992) The Lunar
+    Lunar Planet. Sci. Conf. 1685-1702.                           regolith. In Lunar Source Book: a users guide to the moon.
+                                                           285-356.
+    Korotev R.L. (1976a) Rare earths and other elements in
+    two size fractions of soils from the Taurus-Littrow valley  Morris R.V., Lauer H.V. and Gose W.A. (1979a)
+     floor. (abs) LS VII, 457-459.                              Depositional and exposure history of the Apollo 17 deep
+                                                                               drill core. (abs) LPS X, 864-866.
+    Korotev R.L. (1976b) Geochemistry of grain-size fractions
+    of soils from the Taurus-Littrow valley floor. Proc. 7th Lunar  Morris R.V., Lauer H.V. and Gose W.A. (1979b)
+     Sci. Conf. 695-726.                                         Characterization and depositional and evolutionary history
+                                                                of the Apollo 17 deep drill core.  Proc. 10th Lunar Planet.
+    Labotka T.C., Vaniman D.T. and Papike J.J. (1979) The                                                                     Sci. Conf. 1141-1157.
+    Apollo 17 drill core: Comparative modal petrology and phase
+    chemistry of the >20 micron and <20 micron fractions.                                                          Morris R.V. (1978)  In situ reworking (gardening) of the
+    Geophys. Rev. Lett. 6, 503-506.                                                                lunar surface: Evidence from the Apollo cores.  Proc. 9th
+                                                       Lunar Planet. Sci. Conf. 1801-1811.
+    Langevin Y. and Maurette M. (1978)  Plausible depositional
+     histories for the Apollo 15, 16 and 17 drill core tubes. Proc.                                                       Nagle J.S. and Waltz S.R. (1979) Sedimentary petrology of
+      9th Lunar Planet. Sci. Conf. 1765-1786.                      the Apollo 17 deep drill string. (abs) LPS X, 895-897.
+
+    Langevin Y. and Nagle J.S. (1980) The depositional history   Nishiizumi K., Imamura M., Honda M., Russ C.P., Kohl C.P.
+    of the Apollo deep drill core: A reappraisal. Proc. 11th Lunar  and Arnold J.R. (1976) 53Mn in the Apollo 15 and 16 drill
+    Planet Sci. Conf. 1415-1434.                               stems: Evidence for surface missing. Proc. 7th Lunar Sci.
+                                                           Conf. 41-54.
+    Laul J.C., Hill D.W. and Schmitt R.A. (1974)  Chemical
+    studies of Apollo 16 and 17 samples. Proc. 5th Lunar Sci.   Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+    Conf. 1047-1066.                                           regolith: Chemistry, mineralogy and petrology.  Rev.
+                                                        Geophys. Space Phys. 20, 761-826.
+    Laul J.C. and Papike J.J. (1980a) The lunar regolith:
+    Comparative chemistry of the Apollo sites. Proc. 11th Lunar   Pepin R.O., Dragon J.C., Johnson N.L., Bates A., Coscio
+     Planet. Sci. Conf. 1307-1340.                         M.R. and Murthy V.R. (1975) Rare gases and Ca, Sr and
+                                                Ba in Apollo 17 drill-core fines. Proc. 6th Lunar Sci. Conf.
+    Laul J.C. and Papike J.J. (1980b) The Apollo 17 drill core:   2027-2056.
+    Chemistry of size fractions and the nature of the fused soil
+    component. Proc. 11th Lunar Planet. Sci. Conf. 1395-1413.   Philpotts J.A., Schumann S., Kouns C.W., Lum-Staab R.K.L.
+                                                       and Winzer S.R.  (1974)  Origin of Apollo 17 rocks and
+    Laul J.C., Vaniman D.T., Papike J.J. and Simon S.B. (1978)   soils. Proc. 5th Lunar Sci. Conf. 1255-1268.
+    Chemistry and petrology of size fractions of the Apollo 17
+    deep drill core 70009-70006.  Proc. 9th Lunar Planet. Sci.   Rancitelli L.A., Fruchter J.S., Felix W.D., Perkins R.W. and
+    Conf. 2065-2097.                              Wogman N.A. (1975) Cosmogenic isotopic production in
+                                                         Apollo deep-core samples. Proc. 6th Lunar Sci. Conf. 1891-
+    Laul J.C., Lepel E.A., Vaniman D.T. and Papike J.J. (1979)   1899.
+   The Apollo 17 drill core: Chemical systematics of the grain
+     size fractions. Proc. 10th Lunar Planet. Sci. Conf. 1269-1298.  Rhodes J.M., Rodgers K.V., Shih C.-Y., Bansal B.M.,
+                                                          Nyquist L.E., Wiesmann H. and Hubbard N.J. (1974) The
+    Laul J.C., Smith M.R., Papike J.J. and Simon S.B. (1984)   relationships between geology and soil chemistry at the
+    Agglutinates as recorders of regolith evolution: Application   Apollo 17 landing site.  Proc. 5th Lunar Sci. Conf. 1097-
+                                                            1118.
+
+Lunar Sample Compendium
+C Meyer 2007
+
+=== PDF PAGE 13; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-18 ---
+Simon S.B., Papike J.J. and Laul J.C. (1981) The lunar                                               page 13
+    regolith: Comparative studies of the Apollo and Luna sites.
+    Proc. 12th Lunar Planet. Sci. Conf. 371-388.              Vaniman D.T. and Papike J.J. (1977b) The Apollo 17 drill
+                                                                 core: Modal petrology and glass chemistry (70007, 70008,
+    Stoenner R.W., Davis R., Norton E. and Bauer M. (1974)   70009). Proc. 8th Lunar Sci. Conf. 3161-3193.
+    Radioactive rare gases, tritium, hydrogen and helium in the
+   sample return container and in the Apollo 16 and 17 drill  Vaniman D.T. and Papike J.J. (1977c) Very low Ti (VLT)
+    stems. Proc. 5th Lunar Sci. Conf. 2211-2230.                  basalts: A new mare basalt from the Apollo 17 drill core.
+                                                               Proc. 8th Lunar Sci. Conf. 1443-1472.
+    Taylor G.J., Keil K. and Warner R.D. (1977) Petrology of
+   Apollo 17 deep drill core. I: Depositional history based on  Vaniman D.T., Labotka T.C., Papike J.J., Simon S.B. and
+   modal analysis of 70007, 70008 and 70009. Proc. 8th Lunar   Laul J.C. (1979) The Apollo 17 drill core: Petrologic
+    Sci. Conf. 3195-3222.                                   systematics and the identification of a possible Tyco
+                                                        component. Proc. 10th Lunar Planet. Sci. Conf. 1185-1227.
+    Taylor G.J., Wentworth S., Warner R.D. and Keil K. (1978)
+    Agglutinates as recorders of fossil soil compositions. Proc.  Warner R.D., Taylor G.J. and Keil K. (1979) Composition
+     9th Lunar Planet. Sci. Conf. 1959-1968.                      of glasses in Apollo 17 samples and their relation to known
+                                                                lunar rock types. Proc. 10th Lunar Planet. Sci. Conf. 1437-
+--- material block 2; lines 1-37 ---
+Simon S.B., Papike J.J. and Laul J.C. (1981) The lunar                                               page 13
+    regolith: Comparative studies of the Apollo and Luna sites.
+    Proc. 12th Lunar Planet. Sci. Conf. 371-388.              Vaniman D.T. and Papike J.J. (1977b) The Apollo 17 drill
+                                                                 core: Modal petrology and glass chemistry (70007, 70008,
+    Stoenner R.W., Davis R., Norton E. and Bauer M. (1974)   70009). Proc. 8th Lunar Sci. Conf. 3161-3193.
+    Radioactive rare gases, tritium, hydrogen and helium in the
+   sample return container and in the Apollo 16 and 17 drill  Vaniman D.T. and Papike J.J. (1977c) Very low Ti (VLT)
+    stems. Proc. 5th Lunar Sci. Conf. 2211-2230.                  basalts: A new mare basalt from the Apollo 17 drill core.
+                                                               Proc. 8th Lunar Sci. Conf. 1443-1472.
+    Taylor G.J., Keil K. and Warner R.D. (1977) Petrology of
+   Apollo 17 deep drill core. I: Depositional history based on  Vaniman D.T., Labotka T.C., Papike J.J., Simon S.B. and
+   modal analysis of 70007, 70008 and 70009. Proc. 8th Lunar   Laul J.C. (1979) The Apollo 17 drill core: Petrologic
+    Sci. Conf. 3195-3222.                                   systematics and the identification of a possible Tyco
+                                                        component. Proc. 10th Lunar Planet. Sci. Conf. 1185-1227.
+    Taylor G.J., Wentworth S., Warner R.D. and Keil K. (1978)
+    Agglutinates as recorders of fossil soil compositions. Proc.  Warner R.D., Taylor G.J. and Keil K. (1979) Composition
+     9th Lunar Planet. Sci. Conf. 1959-1968.                      of glasses in Apollo 17 samples and their relation to known
+                                                                lunar rock types. Proc. 10th Lunar Planet. Sci. Conf. 1437-
+    Taylor G.J., Warner R.D. and Keil K. (1979) Stratigraphy   1456.
+   and depositional history of the Apollo 17 drill core. Proc.
+    10th Lunar Planet. Sci. Conf. 1159-1184.                  Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                              Scott D.H., Sutton R.L. and Wilshire H.G. (1981) The
+   Thiemens M.H. and Clayton R.N. (1980)  Solar and   geologic investigation of the Taurus-Littrow Valley: Apollo
+   cosmogenic nitrogen in the Apollo 17 deep drill core. Proc.  17 landing site. USGS Prof. Paper 1080
+    11th Lunar Planet. Sci. Conf. 1435-1451.
+                                                      Wolfe E.W., Lucchitta B.K., Reed V.S., Ulrich G.E. and
+   Vaniman D.T. and Papike J.J. (1977a) The Apollo 17 drill  Sanchez A.G. (1975) Geology of the Taurus-Littrow valley
+    core: Characterization of the mineral and lithic component   floor. Proc. 6th Lunar Sci. Conf. 2463-2482.
+    (70007, 70008, 70009).  Proc. 8th Lunar Sci. Conf. 3123-
+   3159.                                          Yokoyama Y., Reyss J-L. and Guichard F. (1975) 22Na –
+                                                     26Al studies of lunar regolith.  Proc. 6th Lunar Sci. Conf.
+                                                         1823-1843.
+
+=== PDF PAGE 14; CATEGORIES: material ===
+--- material block 1; lines 1-13 ---
+page 14
+
+                                      70009,277
+                                    epoxy
+                           approximate
+                                         encapsulated                               lunar surface
+                                   (pressed back in                                         core
+                                    place)
+
+           E1
+
+                                                            3 cm
+
+=== PDF PAGE 19; CATEGORIES: material ===
+--- material block 1; lines 1-11 ---
+page 19
+      70008,264
+     epoxy
+      encapsulated        W1
+      core
+
+                                 25.1 cm
+                                     (from
+                                       Allton and
+                                      Waltz)
+
+=== PDF PAGE 23; CATEGORIES: material ===
+--- material block 1; lines 1-11 ---
+page 23
+                                       70007,157
+                                     epoxy                                61.4 cm
+                                           encapsulated
+                                           core
+
+
+                                                                        62.9 cm
+                                                                                               (a la
+                                                                                      Allton and
+                                                                                    Waltz)
+
+=== PDF PAGE 27; CATEGORIES: material ===
+--- material block 1; lines 1-10 ---
+88.8 cm                                                  page 27                                       70006,
+                                    epoxy
+                                         encapsulated
+                                         core
+                                          (continued)
+                                                                      depth
+                                                                        93.4 cm
+                               89.8 cm                                           (a la Allton
+                                                                            and
+                                                                                   Waltz)
+
+=== PDF PAGE 32; CATEGORIES: material ===
+--- material block 1; lines 2-14 ---
+depth 132.2 cm
+                                           (a la Allton and
+                                      Waltz)
+                  70005,
+                 epoxy
+                    encapsulated
+                    core
+                    (continued)
+
+=== PDF PAGE 36; CATEGORIES: material ===
+--- material block 1; lines 18-30 ---
+depth 172.5 cm
+                                        (a la Allton and Waltz)
+
+                   70004,
+                  epoxy
+                    encapsulated
+                    core
+
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 40; CATEGORIES: material ===
+--- material block 1; lines 17-29 ---
+depth = 211.7 cm
+                                                                                                                  (a la Allton and Waltz)
+
+                                                   70003,
+                                                epoxy
+                                                      encapsulated
+                                                      core
+
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 45; CATEGORIES: material ===
+--- material block 1; lines 4-16 ---
+(a la Allton and
+                             Waltz)
+
+                  70002,
+                 epoxy
+                   encapsulated
+                   core
+
+
+
+
+
+Lunar Sample Compendium

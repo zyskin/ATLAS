@@ -1,0 +1,155 @@
+DOCUMENT_ID: 65357__compendium__27a8be14c7
+ATLAS_SAMPLE_IDS: 65357,65358
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65357.pdf
+SOURCE_PDF_SHA256: c0606e6958edf6f6c6e3ea14af70d9ecda2a840b9daf07d07cc619215d44dd40
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-9 ---
+65357 – 18.8 grams
+                          65358 – 7 grams
+                                 Poikilitic Impact Melt Breccia
+
+
+
+
+
+                        Figure 1: Photo of 65357. Scale in mm. S72-47674
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 11-41 ---
+En                                          Fs  En                                          Fs
+
+    Fo                                        Fa  Fo                                        Fa
+           compiled by C Meyer                                                                       compiled by C Meyer
+
+         Figure 5: Olivine and pyroxene composition in             Figure 6: Olivine and pyroxene composition in
+        65357 (Warner et al. 1976).                           65358 (Warner et al. 1976).
+
+   Introduction
+   65357 and 65358 are coherent impact melt rocks that                                                           Clasts are dominantly anorthite.
+   were collected as part of a rake sample at station 5.
+   65357 is rounded and covered with micrometeorite                                             Chemistry
+    craters (figure 1). It has relatively high Ti and ilmenite                                                           Relatively high K and Zr are reported for these two
+    content. 65358 is also coherent, but it is angular and                                                            rocks.
+   more aluminous. Neither rocklet have been dated.
+                                               Radiogenic age dating
+   Petrography
+                                         None
+    Keil et al. (1972), Warner et al. (1976) and Dowty et
+     al. (1976) provided descriptions and mineral analyses
+                                                 Processing    (figures 3 – 6). Both rock have poikilitic texture with
+                                                    There are three thin sections of each rocklet.    evidence of precursor clastic origin. Oikocrysts of low-
+   Ca pyroxene surround crystals of plagioclase, olivine
+   and augite. Ilmenite and accessory minerals are found
+    inter-oikocryst (figure 7).
+
+   Accessory minerals include metallic Ni-Fe metal,
+    baddelyite and a “K-rich” phase.
+--- material block 2; lines 15-38 ---
+compiled by C Meyer                                                                       compiled by C Meyer
+
+         Figure 5: Olivine and pyroxene composition in             Figure 6: Olivine and pyroxene composition in
+        65357 (Warner et al. 1976).                           65358 (Warner et al. 1976).
+
+   Introduction
+   65357 and 65358 are coherent impact melt rocks that                                                           Clasts are dominantly anorthite.
+   were collected as part of a rake sample at station 5.
+   65357 is rounded and covered with micrometeorite                                             Chemistry
+    craters (figure 1). It has relatively high Ti and ilmenite                                                           Relatively high K and Zr are reported for these two
+    content. 65358 is also coherent, but it is angular and                                                            rocks.
+   more aluminous. Neither rocklet have been dated.
+                                               Radiogenic age dating
+   Petrography
+                                         None
+    Keil et al. (1972), Warner et al. (1976) and Dowty et
+     al. (1976) provided descriptions and mineral analyses
+                                                 Processing    (figures 3 – 6). Both rock have poikilitic texture with
+                                                    There are three thin sections of each rocklet.    evidence of precursor clastic origin. Oikocrysts of low-
+   Ca pyroxene surround crystals of plagioclase, olivine
+   and augite. Ilmenite and accessory minerals are found
+    inter-oikocryst (figure 7).
+
+   Accessory minerals include metallic Ni-Fe metal,
+--- age block 3; lines 20-33 ---
+Introduction
+   65357 and 65358 are coherent impact melt rocks that                                                           Clasts are dominantly anorthite.
+   were collected as part of a rake sample at station 5.
+   65357 is rounded and covered with micrometeorite                                             Chemistry
+    craters (figure 1). It has relatively high Ti and ilmenite                                                           Relatively high K and Zr are reported for these two
+    content. 65358 is also coherent, but it is angular and                                                            rocks.
+   more aluminous. Neither rocklet have been dated.
+                                               Radiogenic age dating
+   Petrography
+                                         None
+    Keil et al. (1972), Warner et al. (1976) and Dowty et
+     al. (1976) provided descriptions and mineral analyses
+                                                 Processing    (figures 3 – 6). Both rock have poikilitic texture with
+                                                    There are three thin sections of each rocklet.    evidence of precursor clastic origin. Oikocrysts of low-
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 65357, 65358
+              537     538
+                                                    References for 65357 and 65358     reference  Warner76
+     weight                                                      Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    SiO2 %    46.4     47         (a)                             16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    TiO2       2.59      0.86       (a)                            Catalog. pp. 370.
+    Al2O3     20.5      22.4       (a)
+   FeO       7.3       6.4        (a)
+   MnO       0.08      0.07       (a)                      Dowty E., Green J.A., Hlava P.F., Keil K., Moore R.B., Nehru
+   MgO      9         8.7        (a)                              C.E., Prinz M. and Warner R.D. (1976) Electron microprobe
+   CaO       12.4      13.3       (a)                            analyses of minerals from Apollo 16 rake samples.  Inst.
+   Na2O      0.64      0.53       (a)
+   K2O       0.43      0.27       (a)                             Meteoritics Spec. Publ. No 14, 141 pp.. Univ. New Mex.
+   P2O5      0.4       0.24       (a)                 ABQ
+   S %
+    sum                                                   Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+     (a) DBA
+                                                                Description, classification and inventory of 151 Apollo 16
+                                                             rake samples from the LM area and station 5.  Curator’s
+--- material block 2; lines 5-25 ---
+SiO2 %    46.4     47         (a)                             16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    TiO2       2.59      0.86       (a)                            Catalog. pp. 370.
+    Al2O3     20.5      22.4       (a)
+   FeO       7.3       6.4        (a)
+   MnO       0.08      0.07       (a)                      Dowty E., Green J.A., Hlava P.F., Keil K., Moore R.B., Nehru
+   MgO      9         8.7        (a)                              C.E., Prinz M. and Warner R.D. (1976) Electron microprobe
+   CaO       12.4      13.3       (a)                            analyses of minerals from Apollo 16 rake samples.  Inst.
+   Na2O      0.64      0.53       (a)
+   K2O       0.43      0.27       (a)                             Meteoritics Spec. Publ. No 14, 141 pp.. Univ. New Mex.
+   P2O5      0.4       0.24       (a)                 ABQ
+   S %
+    sum                                                   Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+     (a) DBA
+                                                                Description, classification and inventory of 151 Apollo 16
+                                                             rake samples from the LM area and station 5.  Curator’s
+                                                               Catalog, JSC.
+
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.
+
+                                             LSPET (1972c) Preliminary examination of lunar samples.
+--- material block 3; lines 31-43 ---
+Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                                In Geology of the Apollo 16 area, central lunar highlands.
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+
+                                                       Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+                                                       and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+                                                       from the LM area and station 5.  Spec. Publ. #13, UNM
+                                                                        Institute of Meteoritics, Albuquerque. 87 pp.
+
+
+                      65357                  65358
+                         18.8 grams              7 grams
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 65357, 65358
+              537     538
+                                                    References for 65357 and 65358     reference  Warner76
+     weight                                                      Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    SiO2 %    46.4     47         (a)                             16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    TiO2       2.59      0.86       (a)                            Catalog. pp. 370.
+    Al2O3     20.5      22.4       (a)
+   FeO       7.3       6.4        (a)
+   MnO       0.08      0.07       (a)                      Dowty E., Green J.A., Hlava P.F., Keil K., Moore R.B., Nehru

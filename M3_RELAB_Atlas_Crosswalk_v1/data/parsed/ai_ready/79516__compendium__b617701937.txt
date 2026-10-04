@@ -1,0 +1,153 @@
+DOCUMENT_ID: 79516__compendium__b617701937
+ATLAS_SAMPLE_IDS: 79516
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/79516.pdf
+SOURCE_PDF_SHA256: ebff30eaaaba2448c2f865b1c83486f3498f93b03679b4301f74f0933c7603c4
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 1-19 ---
+79516
+                               Vitrophyric Ilmenite Basalt
+                                             23.9 grams
+
+
+
+
+
+                     Figure 1: Two side views of 79516. Cube is 1 cm. S73-19752 and 754.
+
+
+                                                           in a very fine-grained matrix of pink pyroxene,
+                                                            plagioclase, ilmenite and opaque glass (figure 3).
+
+                                            Chemistry
+                                             Warner et al. (1979) determined the chemical
+                                                       composition.  It is akin to type B Apollo 17 basalt.
+
+                                                 Processing
+--- mineralogy block 2; lines 33-43 ---
+Petrography
+                                                        Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+   Neal and Taylor (1993) are the only ones to study the
+                                                                 rocks. Vol. 3 Central Valley
+   petrography of 79516. They describe the texture as
+   subophitc to ophitic. However, it has a quench texture                                                     Warner R.D., Taylor G.J., Conrad G.H., Northrop H.R.,
+   with olivine and ilmenite-armaclolite phenocrysts set   Barker S., Keil K., Ma M.-S. and Schmitt R. (1979a) Apollo
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-35 ---
+79516
+                               Vitrophyric Ilmenite Basalt
+                                             23.9 grams
+
+
+
+
+
+                     Figure 1: Two side views of 79516. Cube is 1 cm. S73-19752 and 754.
+
+
+                                                           in a very fine-grained matrix of pink pyroxene,
+                                                            plagioclase, ilmenite and opaque glass (figure 3).
+
+                                            Chemistry
+                                             Warner et al. (1979) determined the chemical
+                                                       composition.  It is akin to type B Apollo 17 basalt.
+
+                                                 Processing
+                                                   There are two thin sections.
+
+
+
+                                                   References for 79516
+                                                             Butler P. (1973) Lunar Sample Information Catalog
+           Figure 2: Map of area around Van serg Crater.     Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+                                                               Curator’s Catalog. pp. 447.
+   Introduction
+   79516 is a small basalt sample collected by raking near  Ma M-S., Schmitt R.A., Warner R.D., Taylor G.J. and Keil
+   Van Serg Crater out in the middle of Taurus-Littrow  K. (1979b) Composition, petrography, and genesis of Apollo
+    Valley.                                           17 high-Ti mare basalts (abs). Lunar Planet. Sci. X, 765-
+                                                            767. Lunar Planetary Institute, Houston.
+   Petrography
+                                                        Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+   Neal and Taylor (1993) are the only ones to study the
+--- references block 4; lines 18-30 ---
+Processing
+                                                   There are two thin sections.
+
+
+
+                                                   References for 79516
+                                                             Butler P. (1973) Lunar Sample Information Catalog
+           Figure 2: Map of area around Van serg Crater.     Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+                                                               Curator’s Catalog. pp. 447.
+   Introduction
+   79516 is a small basalt sample collected by raking near  Ma M-S., Schmitt R.A., Warner R.D., Taylor G.J. and Keil
+   Van Serg Crater out in the middle of Taurus-Littrow  K. (1979b) Composition, petrography, and genesis of Apollo
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-26 ---
+Table 1. Chemical composition of 79516.                     Lunar Basalts
+                                                                                                14
+
+    reference   Warner79                                                               12            79516      A17
+    weight
+                                                                                                      A11
+    SiO2 %                                                                                 10
+    TiO2        12.3      (a)
+    Al2O3       8.4        (a)                                                               8
+   FeO        19.9      (a)                          TiO2
+   MnO        0.25      (a)                                                               6
+   MgO       8          (a)
+   CaO       10        (a)                                                               4
+                                                                                                                     A12
+   Na2O       0.384     (a)
+                                                                                                     2                        A15   K2O        0.045     (a)
+   P2O5
+   S %                                                                                          0 0                5                10                15               20
+   sum
+                                              MgO
+    Sc ppm    87        (a)
+   V          109       (a)                                           Figure 4: Composition of lunar basalts.
+    Cr         2730      (a)
+   Co        22        (a)
+    Ni
+   Cu
+--- material block 2; lines 39-51 ---
+Rh
+   Pd ppb
+   Ag ppb
+   Cd ppb                                                      Figure 5: Normalized rare-earth-element diagram
+     In ppb                                                               for 79516 compared with A and B types of Apollo 17
+   Sn ppb
+                                                                          basalt.   Sb ppb
+    Te ppb
+   Cs ppm
+   Ba
+    La          5.2        (a)                                                      C Meyer  79516   Ce        20        (a)
+                                                                    2011    Pr                                                        23.9 grams
+   Nd        21        (a)
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 79516.                     Lunar Basalts
+                                                                                                14
+
+    reference   Warner79                                                               12            79516      A17
+    weight
+                                                                                                      A11
+    SiO2 %                                                                                 10
+    TiO2        12.3      (a)
+    Al2O3       8.4        (a)                                                               8
+   FeO        19.9      (a)                          TiO2
+--- references block 4; lines 66-75 ---
+Os ppb
+       Ir ppb                                                Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    Pt ppb                                                     Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+   Au ppb                                                   geologic investigation of the Taurus-Littrow Valley: Apollo
+    Th ppm                                            17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+   U ppm
+    technique : (a) INAA                                       280.
+
+Lunar Sample Compendium
+C Meyer 2011

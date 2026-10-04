@@ -1,0 +1,342 @@
+DOCUMENT_ID: 67035__compendium__bb5718d476
+ATLAS_SAMPLE_IDS: 67035
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67035.pdf
+SOURCE_PDF_SHA256: 025d75b600229e2e22b920e5386487fd5263d0b622cfc870fbbe4d8cf0c03e54
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material ===
+--- material block 1; lines 1-8 ---
+67035
+                                  Polymict Breccia
+                                       245 grams
+--- material block 2; lines 23-39 ---
+Introduction
+   67035 was collected at North Ray Crater near the
+   “White Rocks” – see section on 67031. It is extremely
+    friable and much of 67031 - 67034, from same bag,
+   must be part of this rock.  It has been found to contain
+    clasts of pristine highland rock.  There may be
+    additional pristine fragments in the coarse-fines from
+    this bag or within the breccia masses.
+
+  An age of some unspecified component in the breccia
+   was found to be 3.95 b.y.
+                                                                 Figure 2: Thin section of 67035 (from Wilshire).
+
+Lunar Sample Compendium
+C Meyer 2012
+--- age block 3; lines 28-39 ---
+friable and much of 67031 - 67034, from same bag,
+   must be part of this rock.  It has been found to contain
+    clasts of pristine highland rock.  There may be
+    additional pristine fragments in the coarse-fines from
+    this bag or within the breccia masses.
+
+  An age of some unspecified component in the breccia
+   was found to be 3.95 b.y.
+                                                                 Figure 2: Thin section of 67035 (from Wilshire).
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 4; CATEGORIES: material,mineralogy,treatment ===
+--- mineralogy block 1; lines 12-23 ---
+67035 is a polymict white breccia, with abundant clasts
+                                                              (figures 1 and 2). The clasts are easily separated from
+                                                           the chalky matrix.
+
+                                                67035 and its associated samples should be thought of
+                                                      as sort of a envelope containing pristine samples from
+        Figure 9: Processing photo of 67035,36 norite-
+                                                           the highland crust, packaged in a fine white powder.        gabbro clast.
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 2; lines 6-23 ---
+Figure 10: Photomicrograph of thin section ,7 of
+                                                              67035,33 (from Ryder and Norman 1979). Scale
+                                                                about 2 mm across.
+
+                                              Petrography
+                                                 67035 is a polymict white breccia, with abundant clasts
+                                                              (figures 1 and 2). The clasts are easily separated from
+                                                           the chalky matrix.
+
+                                                67035 and its associated samples should be thought of
+                                                      as sort of a envelope containing pristine samples from
+        Figure 9: Processing photo of 67035,36 norite-
+                                                           the highland crust, packaged in a fine white powder.        gabbro clast.
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- treatment block 3; lines 7-19 ---
+Figure 10: Photomicrograph of thin section ,7 of
+                                                              67035,33 (from Ryder and Norman 1979). Scale
+                                                                about 2 mm across.
+
+                                              Petrography
+                                                 67035 is a polymict white breccia, with abundant clasts
+                                                              (figures 1 and 2). The clasts are easily separated from
+                                                           the chalky matrix.
+
+                                                67035 and its associated samples should be thought of
+                                                      as sort of a envelope containing pristine samples from
+        Figure 9: Processing photo of 67035,36 norite-
+                                                           the highland crust, packaged in a fine white powder.        gabbro clast.
+
+=== PDF PAGE 6; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 67035.
+               67031(sic)
+     reference  Laul73     Wiesmann76      Wasson77           Clark73     Lindstrom81  Hertogen77
+     weight                                                                                       matrix   anor.     clast
+    SiO2 %
+    TiO2      0.34     (b)         0.032   (a) 0.28    0.32     (b)             0.43      (b)
+    Al2O3     30.4     (b)                     32.9    26       (b)             28.7      (b)
+   FeO       3.8       (b)                     2.64     3.8       (b)             3.94      (b)
+   MnO      0.049    (b)                     0.04    0.05     (b)
+   MgO      4         (b)         10.5     (a) 2.1      4.8       (b)              4.3        (b)
+   CaO       17.3     (b)                     17.1    15.5     (b)             16.5      (b)
+   Na2O     0.512    (b)                     0.53    0.48     (b)             0.51      (b)
+   K2O       0.05     (b) 0.052   0.023   (a) 0.05    0.045    (b) 0.053   (c )
+   P2O5
+   S %
+    sum
+
+    Sc ppm   7         (b)                      5.2      6.5       (b)             7.13      (b)
+   V        15       (b)                  9      13       (b)
+--- material block 2; lines 1-10 ---
+Table 1. Chemical composition of 67035.
+               67031(sic)
+     reference  Laul73     Wiesmann76      Wasson77           Clark73     Lindstrom81  Hertogen77
+     weight                                                                                       matrix   anor.     clast
+    SiO2 %
+    TiO2      0.34     (b)         0.032   (a) 0.28    0.32     (b)             0.43      (b)
+    Al2O3     30.4     (b)                     32.9    26       (b)             28.7      (b)
+   FeO       3.8       (b)                     2.64     3.8       (b)             3.94      (b)
+   MnO      0.049    (b)                     0.04    0.05     (b)
+   MgO      4         (b)         10.5     (a) 2.1      4.8       (b)              4.3        (b)
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 67035.
+               67031(sic)
+     reference  Laul73     Wiesmann76      Wasson77           Clark73     Lindstrom81  Hertogen77
+     weight                                                                                       matrix   anor.     clast
+    SiO2 %
+    TiO2      0.34     (b)         0.032   (a) 0.28    0.32     (b)             0.43      (b)
+    Al2O3     30.4     (b)                     32.9    26       (b)             28.7      (b)
+   FeO       3.8       (b)                     2.64     3.8       (b)             3.94      (b)
+   MnO      0.049    (b)                     0.04    0.05     (b)
+--- references block 4; lines 64-74 ---
+Os ppb                                                                                 1.57    0.052              (b)
+       Ir ppb                                                                                   1.54    0.045   0.004    (b)
+     Pt ppb
+    Au ppb                                    0.18    1.62     (b)                           0.84    0.03    0.012    (b)
+    Th ppm    0.53     (b)                     0.35     0.5       (b) 0.36    (c ) 0.51      (b)
+   U ppm     <0.3     (b)                     0.06    0.14     (b) 0.117   (c ) 0.15      (b) 0.078   0.006   0.0006  (b)
+     technique:  (a) IDMS, (b) INAA, RNAA, (c ) radiation counting
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 7; CATEGORIES: age,material,mineralogy,treatment ===
+--- mineralogy block 1; lines 3-21 ---
+Ryder and Norman (1979) describe a pristine gabbro
+   fragment (,36, figures 9 and 10).  The clast was
+    originally 1.5 cm round with a distinct crust (figure 1).
+  On breaking it open, it was found to be rather coarse-
+   grained (1 mm), 50% augite (En40Wo30-40) and 50%
+    anorthite. The pyroxene is exsolved.
+
+   Ryder and Norman (1979) also describe a fragment of
+    pristine ferroan anorthosite (,25, figure 12) and give
+   the composition of the pyroxene (figure 14).
+
+   Detailed mineralogy of these fragements, or of this
+                                                               Figure 12: Processing photo of 67035,25 anorthosite    rock, can’t be found in the literature.
+                                                                               clast.
+
+   Chemistry
+   Lindstrom and Salpas (1981) analyzed bulk sample and
+   magnetic fractions, as well as dark and light clasts, from
+--- mineralogy block 2; lines 35-47 ---
+26Al = 126 dpm/kg.
+
+   Processing
+   Apparently, this rock was not processed and numbered
+    in the same logical manner of other lunar samples. I’ve
+    tried to reconstruct the numbering, but  it is not
+   completely satisfactory.                                        Figure 134: Pyroxene composition in 67035
+                                                                     (from Ryder and Norman 1979).
+   There are 16 thin sections of this sample and its clasts
+   – yet no full description has been published!
+
+   See also section on 67031.                      Summary of Age Data for 67035
+                                                                                   Ar/Ar
+--- material block 3; lines 1-44 ---
+Two significant clasts have been identified so far and
+   others are waiting to be plucked from this sample.
+
+   Ryder and Norman (1979) describe a pristine gabbro
+   fragment (,36, figures 9 and 10).  The clast was
+    originally 1.5 cm round with a distinct crust (figure 1).
+  On breaking it open, it was found to be rather coarse-
+   grained (1 mm), 50% augite (En40Wo30-40) and 50%
+    anorthite. The pyroxene is exsolved.
+
+   Ryder and Norman (1979) also describe a fragment of
+    pristine ferroan anorthosite (,25, figure 12) and give
+   the composition of the pyroxene (figure 14).
+
+   Detailed mineralogy of these fragements, or of this
+                                                               Figure 12: Processing photo of 67035,25 anorthosite    rock, can’t be found in the literature.
+                                                                               clast.
+
+   Chemistry
+   Lindstrom and Salpas (1981) analyzed bulk sample and
+   magnetic fractions, as well as dark and light clasts, from
+   67035 (figure 14). Laul and Schmitt (1973), Wasson
+    et al. (1977) and Weismann and Hubbard (1976) also
+   reported self consistent analyses. Hertogen et al. (1977)
+   reported analyses of the matrix and the two “pristine
+    clasts”.
+
+   Radiogenic age dating
+   Schaeffer and Schaeffer (1977) dated 67035 at 3.95 ±
+   0.05 b.y. (figure 15).                                      Figure 13: Photomicrograph of thin section ,10 from
+                                                            67035,25 (from Ryder and Norman 1979).
+   Cosmogenic isotopes and exposure ages
+   Clark and Keith (1973) determined the cosmic-ray-
+   induced activity of 67035 as 22Na = 45 dpm/kg and
+    26Al = 126 dpm/kg.
+
+   Processing
+   Apparently, this rock was not processed and numbered
+    in the same logical manner of other lunar samples. I’ve
+    tried to reconstruct the numbering, but  it is not
+   completely satisfactory.                                        Figure 134: Pyroxene composition in 67035
+                                                                     (from Ryder and Norman 1979).
+   There are 16 thin sections of this sample and its clasts
+   – yet no full description has been published!
+--- age block 4; lines 22-52 ---
+67035 (figure 14). Laul and Schmitt (1973), Wasson
+    et al. (1977) and Weismann and Hubbard (1976) also
+   reported self consistent analyses. Hertogen et al. (1977)
+   reported analyses of the matrix and the two “pristine
+    clasts”.
+
+   Radiogenic age dating
+   Schaeffer and Schaeffer (1977) dated 67035 at 3.95 ±
+   0.05 b.y. (figure 15).                                      Figure 13: Photomicrograph of thin section ,10 from
+                                                            67035,25 (from Ryder and Norman 1979).
+   Cosmogenic isotopes and exposure ages
+   Clark and Keith (1973) determined the cosmic-ray-
+   induced activity of 67035 as 22Na = 45 dpm/kg and
+    26Al = 126 dpm/kg.
+
+   Processing
+   Apparently, this rock was not processed and numbered
+    in the same logical manner of other lunar samples. I’ve
+    tried to reconstruct the numbering, but  it is not
+   completely satisfactory.                                        Figure 134: Pyroxene composition in 67035
+                                                                     (from Ryder and Norman 1979).
+   There are 16 thin sections of this sample and its clasts
+   – yet no full description has been published!
+
+   See also section on 67031.                      Summary of Age Data for 67035
+                                                                                   Ar/Ar
+                                                                         Schaeffer 77      3.95 ± 0.05 b.y.
+--- treatment block 5; lines 15-27 ---
+Detailed mineralogy of these fragements, or of this
+                                                               Figure 12: Processing photo of 67035,25 anorthosite    rock, can’t be found in the literature.
+                                                                               clast.
+
+   Chemistry
+   Lindstrom and Salpas (1981) analyzed bulk sample and
+   magnetic fractions, as well as dark and light clasts, from
+   67035 (figure 14). Laul and Schmitt (1973), Wasson
+    et al. (1977) and Weismann and Hubbard (1976) also
+   reported self consistent analyses. Hertogen et al. (1977)
+   reported analyses of the matrix and the two “pristine
+    clasts”.
+
+=== PDF PAGE 8; CATEGORIES: age,chemistry,references,treatment ===
+--- chemistry block 1; lines 19-31 ---
+Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+                                                                    in Apollo 16 highland rocks: Manifestations of volatile-
+                                                           element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+                                                            259.
+
+                                                          Laul J.C. and Schmitt R.A. (1973b) Chemical composition
+                                                                of Apollo 15, 16, and 17 samples.  Proc. 4th  Lunar Sci.
+                                                            Conf. 1349-1367.
+
+                                                        Lindstrom M.M. and Salpus P.A. (1981)  Geochemical
+                                                                   studies of rocks from North Ray Crater Apollo 16. Proc.
+                                                                          12th Lunar Planet. Sci. Conf. 305-322.
+--- age block 2; lines 6-18 ---
+Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                               Catalog. pp. 370.
+
+                                                            Clark R.S. and Keith J.E. (1973) Determination of natural
+                                                       and cosmic ray induced radionuclides in Apollo 16 lunar
+                                                             samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+
+                                                         Hertogen J., Janssens M.-J., Takahashi H., Palme H. and
+         Figure 14:  Normalized rare-earth-element dia-                                                       Anders E. (1977) Lunar basins and craters: Evidence for
+        gram for bulk 67035, magnetic fractions and clasts                                                                 systematic compositional changes of bombarding population.
+         (Lindstrom and Salpas 1981).                                                             Proc. 8th Lunar Sci. Conf. 17-45.
+--- treatment block 3; lines 11-23 ---
+Clark R.S. and Keith J.E. (1973) Determination of natural
+                                                       and cosmic ray induced radionuclides in Apollo 16 lunar
+                                                             samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+
+                                                         Hertogen J., Janssens M.-J., Takahashi H., Palme H. and
+         Figure 14:  Normalized rare-earth-element dia-                                                       Anders E. (1977) Lunar basins and craters: Evidence for
+        gram for bulk 67035, magnetic fractions and clasts                                                                 systematic compositional changes of bombarding population.
+         (Lindstrom and Salpas 1981).                                                             Proc. 8th Lunar Sci. Conf. 17-45.
+
+                                                         Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+                                                                    in Apollo 16 highland rocks: Manifestations of volatile-
+                                                           element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+                                                            259.
+--- references block 4; lines 1-7 ---
+References for 67035
+                                                         Bersch M.G., Taylor G.J., Keil K. and Norman M.D. (1991)
+                                                          Mineral compositions in pristine lunar highland rocks and
+                                                                 the diversity of highland magmatism. Geophys. Res. Lett.
+                                                                18, 2085-2088.
+
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+
+=== PDF PAGE 9; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 6-18 ---
+,1
+             ,17          ,18                PB
+
+
+                                ,2
+       ,17    ,65    ,13  ,18   ,25    ,27    ,29       ,36     ,40    ,41   ,49    ,56
+      87 g  1 g     82 g  anor. 14 g  7 g       norite  6 g    3.1 g 3.2 g  4.2 g
+                            ,15
+                            ,23
+                    TS
+                                  ,25     ,34     ,35  ,33  ,12  ,74   ,37      ,36    ,32
+                                  0.2 g   0.04 g PB PB  PB PB   0.23 g   0.6 g  PB
+--- material block 2; lines 21-33 ---
+,9                       TS
+                                                         ,33
+                                           TS
+
+
+
+                                                      Warren P.H. (1993) A concise compilation of petrologic    lunar highland rock types at North Ray Crater, Apollo 16.
+                                                             information on possibly pristine nonmare Moon rocks. Am.    Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+                                                            Mineral. 78, 360-376.
+
+    Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+                                                   Wasson J.T., Warren P.H., Kallemeyn G.W., McEwing C.E.,    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                                                                   Mittlefehldt D.W. and Boynton W.V. (1977) SCCRV, a major   Reimold W.U., Wacker K. and Wanke H. (1985)

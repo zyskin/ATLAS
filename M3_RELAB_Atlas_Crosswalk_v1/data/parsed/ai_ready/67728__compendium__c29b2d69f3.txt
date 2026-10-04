@@ -1,0 +1,198 @@
+DOCUMENT_ID: 67728__compendium__c29b2d69f3
+ATLAS_SAMPLE_IDS: 67728,67946
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67728.pdf
+SOURCE_PDF_SHA256: c5e85143fad0b7775172718df67a5297cd3a3dc9fd07520ab513d59d04aa4582
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-9 ---
+67728 – 9.3 grams
+                          67946 – 3.2 grams
+                                    Glass Objects
+
+
+
+
+
+                                                                Figure 2: Photo of 67946 showing two distinct
+--- material block 2; lines 11-20 ---
+mm scale.
+
+
+
+
+
+                 Figure 3: Map of North Ray Crater showing location of rake sample.
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-33 ---
+Figure 5: Ar ages of glass particles from Stoffler
+                                                                                   et al. 1985.
+
+
+
+                                                           inclusions – yes, excess Ar – yes. See also sections on
+                                                67729 and glass objects from station 13.
+
+                                             Chemistry
+                                                    Borchardt et al. (1986) and Stoffler et al. (1985)
+                                                          reported analyses of 67728 and 67946 (table).
+
+                                               Radiogenic age dating
+                                                      Borchardt et al. (1986) reported Ar/Ar plateau ages of
+                                                       2.68 ± 0.04 b.y. for 67728 and ~0.4 b.y. for 67946         Figure 4: Well, it was a glass! This image is 2 mm
+          across.                                              (figure 5).
+
+                                           Cosmogenic isotopes and exposure ages
+   Introduction                                     Borcherdt et al. (1986) determined 38Ar exposure ages
+   67728 and 67946 are glass (?) particles that were   of 49 m.y. for 67728 and 40 m.y. for 67946.
+    collected as rake samples from the rim of North Ray
+    Crater – see section on 67701.  They have the  Processing
+    approximate exposure age of North Ray Crater, but                                                    There are thin sections of each.
+    also have also have much older formation ages.
+
+   Petrography
+   Where are the glass objects associated with the North
+   Ray Crater event? What would they look like (figure
+    4)?  Vesicular – yes, devitrified – yes, full of lithic
+
+
+                                                67946
+                                                           3.2 grams                   67728
+--- material block 2; lines 15-27 ---
+2.68 ± 0.04 b.y. for 67728 and ~0.4 b.y. for 67946         Figure 4: Well, it was a glass! This image is 2 mm
+          across.                                              (figure 5).
+
+                                           Cosmogenic isotopes and exposure ages
+   Introduction                                     Borcherdt et al. (1986) determined 38Ar exposure ages
+   67728 and 67946 are glass (?) particles that were   of 49 m.y. for 67728 and 40 m.y. for 67946.
+    collected as rake samples from the rim of North Ray
+    Crater – see section on 67701.  They have the  Processing
+    approximate exposure age of North Ray Crater, but                                                    There are thin sections of each.
+    also have also have much older formation ages.
+
+   Petrography
+   Where are the glass objects associated with the North
+--- age block 3; lines 7-29 ---
+67729 and glass objects from station 13.
+
+                                             Chemistry
+                                                    Borchardt et al. (1986) and Stoffler et al. (1985)
+                                                          reported analyses of 67728 and 67946 (table).
+
+                                               Radiogenic age dating
+                                                      Borchardt et al. (1986) reported Ar/Ar plateau ages of
+                                                       2.68 ± 0.04 b.y. for 67728 and ~0.4 b.y. for 67946         Figure 4: Well, it was a glass! This image is 2 mm
+          across.                                              (figure 5).
+
+                                           Cosmogenic isotopes and exposure ages
+   Introduction                                     Borcherdt et al. (1986) determined 38Ar exposure ages
+   67728 and 67946 are glass (?) particles that were   of 49 m.y. for 67728 and 40 m.y. for 67946.
+    collected as rake samples from the rim of North Ray
+    Crater – see section on 67701.  They have the  Processing
+    approximate exposure age of North Ray Crater, but                                                    There are thin sections of each.
+    also have also have much older formation ages.
+
+   Petrography
+   Where are the glass objects associated with the North
+   Ray Crater event? What would they look like (figure
+    4)?  Vesicular – yes, devitrified – yes, full of lithic
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 67728.      Table 2. Chemical composition of 67946.
+
+
+     reference  Stoffler85                        duplicate             reference  Borchardt86   Stoffler85
+     weight     Borchardt86                                         weight
+    SiO2 %   44       (a)             43.6     (a)                SiO2 %                44       (b)
+    TiO2      0.42     (a)             0.46     (a) 0.83     (b)       TiO2                     0.39     (b)
+    Al2O3     29.3     (a)             28.5     (a)                Al2O3                   30.1     (b)
+   FeO       3.8      (a)  3.82     (b) 4.2      (a) 3.7      (b)     FeO       3.3         (a) 3.4      (b)
+   MnO      0.03     (a)             0.01     (a)             MnO
+   MgO       4.4      (a)             4.8      (a)             MgO                     3.7      (b)
+   CaO      17       (a)  17.1     (b) 16.7     (a) 16.4     (b)     CaO      16.4        (a) 16.1     (b)
+   Na2O     0.51     (a)  0.54     (b) 0.49     (a) 0.54     (b)     Na2O     0.55        (a) 0.59     (b)
+   K2O       0.07     (a) 0.058    (b) 0.1      (a) 0.059   (b)     K2O      0.06        (a) 0.06     (b)
+   P2O5      0.1      (a)             0.17     (a)              P2O5                    0.05     (b)
+   S %                                            S %
+    sum                                              sum
+
+    Sc ppm               6.66     (b)            6.47     (b)      Sc ppm    5.8         (a)
+   V                                              V
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 67728.      Table 2. Chemical composition of 67946.
+
+
+     reference  Stoffler85                        duplicate             reference  Borchardt86   Stoffler85
+     weight     Borchardt86                                         weight
+    SiO2 %   44       (a)             43.6     (a)                SiO2 %                44       (b)
+    TiO2      0.42     (a)             0.46     (a) 0.83     (b)       TiO2                     0.39     (b)
+    Al2O3     29.3     (a)             28.5     (a)                Al2O3                   30.1     (b)
+   FeO       3.8      (a)  3.82     (b) 4.2      (a) 3.7      (b)     FeO       3.3         (a) 3.4      (b)
+   MnO      0.03     (a)             0.01     (a)             MnO
+--- references block 3; lines 65-75 ---
+Os ppb                                           Os ppb
+       Ir ppb                  5.7      (b)                                                Ir ppb
+     Pt ppb                                                           Pt ppb
+    Au ppb                 3.6      (b)             4.6      (b)      Au ppb    4           (a)
+    Th ppm                0.7      (b)                         Th ppm    0.7         (a)
+   U ppm                 0.2      (b)                    U ppm    0.22        (a)
+     technique: (a) broad beam e probe, (b) INAA                       technique:  (a) INAA, (b) broad beam e probe
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 5; CATEGORIES: age,material,references ===
+--- material block 1; lines 22-40 ---
+In Apollo 16 Preliminary Science Report. NASA SP-315,
+   7-1—7-58.
+
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+   Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+   67515 to 68537:  Sample classification, description and
+    inventory. Curator Catalog, JSC
+
+    Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+     J. and Rehfeldt A. (1981) Distribution and provenance of
+    lunar highland rock types at North Ray Crater, Apollo 16.
+    Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+    Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Reimold W.U., Wacker K. and Wanke H. (1985)
+   Composition and evolution of the lunar crust in the Descartes
+--- age block 2; lines 1-20 ---
+References for 67728 and 67946
+    Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,
+   Wacker K. and Jessberger E.K. (1986)  Composition,
+    structure and age of the Apollo 16 subregolith basement as
+   deduced from the chemistry of post-Imbrium melt bombs.
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,
+   E43-E54.
+
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+   Deutsch A. and Stoffler D. (1987) Rb-Sr-analyses of Apollo
+   16 melt rocks and a new age estimate for the Imbrium basin:
+   Lunar basin chronology and the early heavy bombardment
+    of the moon. Geochim. Cosmochim. Acta 51, 1951-1964.
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   and chemical description. Science 179, 23-34.
+--- references block 3; lines 1-7 ---
+References for 67728 and 67946
+    Borchardt R., Stoffler D., Spettel B., Palme H., Wanke H.,
+   Wacker K. and Jessberger E.K. (1986)  Composition,
+    structure and age of the Apollo 16 subregolith basement as
+   deduced from the chemistry of post-Imbrium melt bombs.
+    Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 90,
+   E43-E54.

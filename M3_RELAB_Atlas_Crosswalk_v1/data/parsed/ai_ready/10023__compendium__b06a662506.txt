@@ -1,0 +1,264 @@
+DOCUMENT_ID: 10023__compendium__b06a662506
+ATLAS_SAMPLE_IDS: 10023
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10023.pdf
+SOURCE_PDF_SHA256: 8b143af004c32066ada05e7041f5a1e81ab829651e785d76fc72ba803f7933f0
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+10023
+                                   Regolith Breccia
+                                        66 grams
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-30 ---
+Figure 3: Photomicrograph of 10023,11 showing fine-grained matrix with orange glass bead and rock frag-
+        ment. Thin section is 2.5 mm across and 30 microns thick. NASA S70-19245.
+
+   Introduction
+   10023 is a coherent regolith breccias with numerous  This is the rock where Strangway et al. (1969)
+    micrometeorite pits on the top, rounded surface (figure   originally reported finding a strong magnetization: “If
+     1).  It was collected as part of the contingency sample   this rock was not magnetized by local fields in the
+   and returned in air with the crew to the lunar receiving   spacecraft or in the lunar receiving laboratory, it must
+    laboratory JSC. It was photographed before collection  have been magnetized on the moon.”
+   on the lunar surface and the lunar orientation is known
+    (see Schmitt et al. 1970).
+
+
+             Mineralogical Mode
+                                  Chao et al. 1971           Simon’s Mode for 10023
+                  Basaltic rock               23.4                                   S    L
+                 Anorthositic rock           0.4                      Mare Basalt                 6.5      14.2
+                Mineral fragments           6.3                         Highland Component      1        0.3
+                Glass-welded aggregate     9.2                           Regolith breccia            5.2      0.6
+                  Devitrified glass            4.9                            Agglutinate                11.9     1.3
+                Heterogeneous glass       3                           Pyroxene                   5.5      1.1
+              Homogeneous glass         2.3                            Olivine                     0.1
+                  Basaltic microbreccia       0.5                            Plagioclase                 2.6
+                 Anorthositec breccia        0.1                            Ilmenite                    1.5
+               Shocked                    0.1                        Orange glass                1.9      0.8
+                Less than 25 microns       22.5                         Other glass               2        0.6
+                Pore space                 27.3                         Matrix                     42.9 %
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-30 ---
+Figure 3: Photomicrograph of 10023,11 showing fine-grained matrix with orange glass bead and rock frag-
+        ment. Thin section is 2.5 mm across and 30 microns thick. NASA S70-19245.
+
+   Introduction
+   10023 is a coherent regolith breccias with numerous  This is the rock where Strangway et al. (1969)
+    micrometeorite pits on the top, rounded surface (figure   originally reported finding a strong magnetization: “If
+     1).  It was collected as part of the contingency sample   this rock was not magnetized by local fields in the
+   and returned in air with the crew to the lunar receiving   spacecraft or in the lunar receiving laboratory, it must
+    laboratory JSC. It was photographed before collection  have been magnetized on the moon.”
+   on the lunar surface and the lunar orientation is known
+    (see Schmitt et al. 1970).
+
+
+             Mineralogical Mode
+                                  Chao et al. 1971           Simon’s Mode for 10023
+                  Basaltic rock               23.4                                   S    L
+                 Anorthositic rock           0.4                      Mare Basalt                 6.5      14.2
+                Mineral fragments           6.3                         Highland Component      1        0.3
+                Glass-welded aggregate     9.2                           Regolith breccia            5.2      0.6
+                  Devitrified glass            4.9                            Agglutinate                11.9     1.3
+                Heterogeneous glass       3                           Pyroxene                   5.5      1.1
+              Homogeneous glass         2.3                            Olivine                     0.1
+                  Basaltic microbreccia       0.5                            Plagioclase                 2.6
+                 Anorthositec breccia        0.1                            Ilmenite                    1.5
+               Shocked                    0.1                        Orange glass                1.9      0.8
+                Less than 25 microns       22.5                         Other glass               2        0.6
+                Pore space                 27.3                         Matrix                     42.9 %
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 1-15 ---
+Petrography                                 References for 10023
+   10023 is a rather typical regolith brecia from Apollo  Chao E.C.T., James O.B., Minkin J.A., Boreman J.A.,
+   11 (figure 2). Chao et al. (1971) reported that it had a  Jackson E.D. and Raleigh C.B. (1970)  Petrology of
+    glass matrix with 27 % pore space (figure 3). The mode  unshocked crystalline rocks and evidence of impact
+   has about 25 % mare basalt.                         metamorphism in Apollo 11 returned lunar samples. Proc.
+                                                           Apollo 11 Lunar Sci. Conf. 287-314.
+   Simon et al. (1984) included breccia 10023 in their
+   comprehensive study of Apollo 11 regolith breccias –                                                  Chao E.C.T., Boreman J.A., Minkin J.A. and James O.B.
+    their mode is given in the table. They calculated that                                                             (1970) Lunar glasses of impact origin: Physical and chemical
+     it had about 19% highland component, but couldn’t
+                                                                    characteristics and geologic implications.  J. Geophy. Res.
+    directly identify that many clasts of highland rock.
+                                                               75, 7445-7479.
+   Quaide and Bunch (1970) determined the size
+    distribution of grains in 10023 (figure 7).
+--- mineralogy block 2; lines 34-43 ---
+(1977). There are 6 thin sections.                    from Apollo 11. Science 165, 1211-1227.
+
+
+
+
+
+          Figure 4: Percentage of glass particles in Apollo 11 soil breccias (Simon et al. 1984).
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-31 ---
+Petrography                                 References for 10023
+   10023 is a rather typical regolith brecia from Apollo  Chao E.C.T., James O.B., Minkin J.A., Boreman J.A.,
+   11 (figure 2). Chao et al. (1971) reported that it had a  Jackson E.D. and Raleigh C.B. (1970)  Petrology of
+    glass matrix with 27 % pore space (figure 3). The mode  unshocked crystalline rocks and evidence of impact
+   has about 25 % mare basalt.                         metamorphism in Apollo 11 returned lunar samples. Proc.
+                                                           Apollo 11 Lunar Sci. Conf. 287-314.
+   Simon et al. (1984) included breccia 10023 in their
+   comprehensive study of Apollo 11 regolith breccias –                                                  Chao E.C.T., Boreman J.A., Minkin J.A. and James O.B.
+    their mode is given in the table. They calculated that                                                             (1970) Lunar glasses of impact origin: Physical and chemical
+     it had about 19% highland component, but couldn’t
+                                                                    characteristics and geologic implications.  J. Geophy. Res.
+    directly identify that many clasts of highland rock.
+                                                               75, 7445-7479.
+   Quaide and Bunch (1970) determined the size
+    distribution of grains in 10023 (figure 7).
+                                                  Chao E.C.T., Boreman J.A. and Desborough G.A. (1971)
+                                                   The petrology of unshocked and shocked Apollo 11 and   Chao et al. (1971) illustrate a cross section thru a
+                                                         Apollo 12 microbreccias.  Proc. Second Lunar Sci. Conf.   micrometeorite crater in 10023.
+                                                          791-816.
+   Chemistry
+   Rhodes and Blanchard (1981) found that the   Funkhauser J.G., Schaeffer O.A., Bogard D.D. and Zahringer
+   composition of 10023 was different from the other    J. (1970) Gas analysis of the lunar surface. Proc. Apollo 11
+    regolith breccias and 10084 (figure 5). The rare earth  Lunar Sci. Conf. 1111-1116.
+   element concentration of this breccia sample is slightly
+   higher than for the soil 10084 (figure 6).              King E.A. and a cast of thousands (1969) Lunar Sample
+                                                      Information Catalog, Apollo 11.  Lunar Receiving
+   Other Studies                                          Laboratory, MSC 412 pp
+   Funkhouser et al. (1970) determined rare gases (figure
+    8).                                               Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo
+                                                       11 Lunar Sample Information Catalogue (revised). Curator’s
+   Processing                                                Office, JSC 12522
+--- material block 4; lines 34-43 ---
+(1977). There are 6 thin sections.                    from Apollo 11. Science 165, 1211-1227.
+
+
+
+
+
+          Figure 4: Percentage of glass particles in Apollo 11 soil breccias (Simon et al. 1984).
+
+Lunar Sample Compendium
+C Meyer 2011
+--- references block 5; lines 1-7 ---
+Petrography                                 References for 10023
+   10023 is a rather typical regolith brecia from Apollo  Chao E.C.T., James O.B., Minkin J.A., Boreman J.A.,
+   11 (figure 2). Chao et al. (1971) reported that it had a  Jackson E.D. and Raleigh C.B. (1970)  Petrology of
+    glass matrix with 27 % pore space (figure 3). The mode  unshocked crystalline rocks and evidence of impact
+   has about 25 % mare basalt.                         metamorphism in Apollo 11 returned lunar samples. Proc.
+                                                           Apollo 11 Lunar Sci. Conf. 287-314.
+   Simon et al. (1984) included breccia 10023 in their
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-21 ---
+Table 1. Chemical composition of 10023.                25
+                                                                                20                      Apollo soils     reference   Wiesmann75   Rhodes81
+                                                                                            10023              breccia     weight     54 mg
+    SiO2 %                    41.4      (b)                                 15
+    TiO2                        8.4       (b)            FeO          10084
+    Al2O3                      11.67     (b)
+   FeO                       16.65     (b)                                 10
+   MnO                       0.22      (b)
+   MgO                       7.76      (b)                                   5
+   CaO                       11.62     (b)
+   Na2O                      0.47      (b)
+                                                                                    0
+   K2O        0.19         (a)  0.2       (b)                                                                                      0       5       10      15      20      25      30      35
+   P2O5                      0.13
+   S %                                                        Al2O3
+    sum
+                                                                 Figure 5: Composition of 10023 compared with that
+    Sc ppm                                                               of Apollo soil samples.
+   V
+    Cr                      2121     (b)                                      1000
+   Co
+--- material block 2; lines 1-9 ---
+Table 1. Chemical composition of 10023.                25
+                                                                                20                      Apollo soils     reference   Wiesmann75   Rhodes81
+                                                                                            10023              breccia     weight     54 mg
+    SiO2 %                    41.4      (b)                                 15
+    TiO2                        8.4       (b)            FeO          10084
+    Al2O3                      11.67     (b)
+   FeO                       16.65     (b)                                 10
+   MnO                       0.22      (b)
+   MgO                       7.76      (b)                                   5
+--- material block 3; lines 12-24 ---
+0
+   K2O        0.19         (a)  0.2       (b)                                                                                      0       5       10      15      20      25      30      35
+   P2O5                      0.13
+   S %                                                        Al2O3
+    sum
+                                                                 Figure 5: Composition of 10023 compared with that
+    Sc ppm                                                               of Apollo soil samples.
+   V
+    Cr                      2121     (b)                                      1000
+   Co
+     Ni
+   Cu                                                                            10023
+    Zn                                                                                         100
+--- material block 4; lines 33-45 ---
+Nb
+   Mo                                                                                                             0.1
+                                                                                   La      Pr    Sm    Gd     Dy      Er     Yb
+   Ru                                                                     Ce    Nd     Eu     Tb    Ho    Tm     Lu
+   Rh
+    Pd ppb                                                     Figure6 : Normalized rare earth element diagram for
+    Ag ppb                                                         breccia 10023 compared with soil 10084 (data from
+   Cd ppb
+                                                        Wiesmann et al. 1975).     In ppb
+    Sn ppb
+    Sb ppb
+    Te ppb
+    Cs ppm
+--- references block 5; lines 1-8 ---
+Table 1. Chemical composition of 10023.                25
+                                                                                20                      Apollo soils     reference   Wiesmann75   Rhodes81
+                                                                                            10023              breccia     weight     54 mg
+    SiO2 %                    41.4      (b)                                 15
+    TiO2                        8.4       (b)            FeO          10084
+    Al2O3                      11.67     (b)
+   FeO                       16.65     (b)                                 10
+   MnO                       0.22      (b)
+--- references block 6; lines 65-75 ---
+Os ppb
+       Ir ppb
+     Pt ppb                                                         Figure 7: Size distribution for 10023 (Quaide and
+    Au ppb                                                  Bunch 1970).
+    Th ppm     2.7          (a)
+   U ppm      0.74         (a)
+     technique:  (a) IDMS, (b) XRF
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: material ===
+--- material block 1; lines 1-10 ---
+0.0012
+
+                        0.001                                              Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+                                                      breccias                  (1976a) Lithification of vitric- and clastic-matrix breccias:
+                       0.0008                                SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+    36Ar
+                       0.0006                         10023
+                                                       Quaide W. and Bunch Ted (1970) Impact metamorphism of
+                       0.0004                   soils                                   lunar surface materials. Proc. Apollo 11 Lunar Sci. Conf.
+                                                           711-729.
+--- material block 2; lines 19-31 ---
+Figure 8: Implanted solar wind in 10023 compared
+        with Apollo 11 soils and breccias (Funkhouser et al.     Schmitt H.H., Lofgren G., Swann G.A. and Simmons G.
+       1070 and Hintenberger et al. 1976). Units STP cc/g.                                                           (1970) The Apollo 11 samples: Introduction. Proc. Apollo
+                                                         11 Lunar Science Conf. 1-54.
+
+                                                  Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+                                                               of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+                                                            Conf. in J. Geophys. Res. 89, C109-132.
+
+                                                        Strangway D.W., Pearce G.W., Gose W.A. and Timme R.W.
+                                                           (1971) Remanent magnetization of lunar samples. Earth
+                                                                Planet. Sci. Lett. 13, 43-52.

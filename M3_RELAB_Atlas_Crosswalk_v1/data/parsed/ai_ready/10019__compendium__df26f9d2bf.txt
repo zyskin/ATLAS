@@ -1,0 +1,461 @@
+DOCUMENT_ID: 10019__compendium__df26f9d2bf
+ATLAS_SAMPLE_IDS: 10019,10066
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10019.pdf
+SOURCE_PDF_SHA256: 50794af830b875c2c5e8ee00a6fa8502c45a97c4537c3c39d1db145f35b25daf
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 8-29 ---
+Figure 1: Photo of 10019,1. Cube is 1 inch and scale is in cm. NASA S76-23354.
+
+
+
+   Introduction
+   Kramer et al. (1077) reported that 10019 and 10066       Simon’s Mode for 10019
+   appeared to be alike and their chemical compositions                        S    L
+   are found to be alike (figure 1 and 2). Fruland (1983)        Mare Basalt                 4.4      10.8
+                                                                    Highland Component        0.6
+   and Simon et al. (1984) included 10019 in the Regolith                                                                          Regolith breccia            5.6     3
+   Breccia Initiative.                                                  Agglutinate               11       1.8
+                                                                   Pyroxene                   4.6      1.4
+   10019 has micrometeorite pits on the top surface (figure          Olivine                     0.5
+                                                                             Plagioclase                 2.2      0.2    1).
+                                                                             Ilmenite                    1.7      0.1
+                                                                 Orange glass                1.2
+   10066 has not been studied.                                    Other glass               3        0.9
+                                                                      Matrix                  47 %
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-29 ---
+10019 – 297 grams
+                          10066 – 60 grams
+                                   Regolith Breccia
+
+
+
+
+
+                Figure 1: Photo of 10019,1. Cube is 1 inch and scale is in cm. NASA S76-23354.
+
+
+
+   Introduction
+   Kramer et al. (1077) reported that 10019 and 10066       Simon’s Mode for 10019
+   appeared to be alike and their chemical compositions                        S    L
+   are found to be alike (figure 1 and 2). Fruland (1983)        Mare Basalt                 4.4      10.8
+                                                                    Highland Component        0.6
+   and Simon et al. (1984) included 10019 in the Regolith                                                                          Regolith breccia            5.6     3
+   Breccia Initiative.                                                  Agglutinate               11       1.8
+                                                                   Pyroxene                   4.6      1.4
+   10019 has micrometeorite pits on the top surface (figure          Olivine                     0.5
+                                                                             Plagioclase                 2.2      0.2    1).
+                                                                             Ilmenite                    1.7      0.1
+                                                                 Orange glass                1.2
+   10066 has not been studied.                                    Other glass               3        0.9
+                                                                      Matrix                  47 %
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 1-36 ---
+Figure 2: Photo of 10066,1. About 4 cm across. NASA S75-3112.
+
+
+
+   Petrography                               Chemistry
+   10019 and 10066 are both glass-matrix regolith  Rhodes and Blanchard (1981) found that the
+    breccias (figure 3 and 4). Phinney et al. (1976) reported  composition of 10019 was similar to the other regolith
+    that 10019 was coherent with 10 % porosity. Phinney   breccias and 10084 (figure 5). The rare earth element
+     et al. termed 10019 a “vitric-matrix” breccia with 35   patterns (figures 6 and 7) are exactly the same as for
+  % glass in matrix and SEM evidence of apparent   the soil. Rose et al. (1970) reported 157 ppm Ni.
+    sintering - especially near glass spheres.
+                                                      Schonfeld and Meyer (1972) calculated that 10019 was
+   Simon et al. (1984) determined the mode for 10019  a mix of mare basalt with ~19 % gabboic anorthosite
+    (see  table). They calculated that it had about 25%  and ~3.5 % KREEP, while Rhodes and Blanchard
+    highland component, but couldn’t directly identify very  (1981) found it was a mix of soil and high-K basalt.
+   many clasts of highland rock.                      However, Simon et al. (1984) could not identify such
+                                                       a high percentage of highland component.
+   As is the case with other Apollo 11 breccias, Keil et al.
+    (1970), Simon et al. (1984) and others have determined  Cosmogenic isotopes and exposure ages
+    the composition of a wide range of glass particles in  The cosmic ray induced activity was reported by
+    10019. Some have the composition of the “orange  LSPET (1969) as 26Al = 98 dpm/kg., 22Na = 47 dpm/
+    glass” 74220, while one particle has the composition   kg., 46Sc = 10 dpm/kg., 54Mn = 27 dpm/kg. and 56Co =
+    of HASP. A subset of the glass composition is different  35 dpm/kg.
+   from the glass found in soil 10084, indicating that
+    Apollo 11 breccias are derived from a different regolith  Other Studies
+    (than 10084).                                                         Kirsten et al. (1970) used a microprobe technique to
+                                                        study the location of 4He in a thin section of 10019.
+    Significant Clasts
+    Keil et al. (1970) described an anorthosite clast in                                                   Bloch et al. (1971) and Neukum et al. (1972) reported
+   10019 and determined the compositions of plagioclase,                                                         the size distribution of micrometeorite craters on
+    olivine and Mg-spinel.                                                     10019.
+
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-35 ---
+Figure 2: Photo of 10066,1. About 4 cm across. NASA S75-3112.
+
+
+
+   Petrography                               Chemistry
+   10019 and 10066 are both glass-matrix regolith  Rhodes and Blanchard (1981) found that the
+    breccias (figure 3 and 4). Phinney et al. (1976) reported  composition of 10019 was similar to the other regolith
+    that 10019 was coherent with 10 % porosity. Phinney   breccias and 10084 (figure 5). The rare earth element
+     et al. termed 10019 a “vitric-matrix” breccia with 35   patterns (figures 6 and 7) are exactly the same as for
+  % glass in matrix and SEM evidence of apparent   the soil. Rose et al. (1970) reported 157 ppm Ni.
+    sintering - especially near glass spheres.
+                                                      Schonfeld and Meyer (1972) calculated that 10019 was
+   Simon et al. (1984) determined the mode for 10019  a mix of mare basalt with ~19 % gabboic anorthosite
+    (see  table). They calculated that it had about 25%  and ~3.5 % KREEP, while Rhodes and Blanchard
+    highland component, but couldn’t directly identify very  (1981) found it was a mix of soil and high-K basalt.
+   many clasts of highland rock.                      However, Simon et al. (1984) could not identify such
+                                                       a high percentage of highland component.
+   As is the case with other Apollo 11 breccias, Keil et al.
+    (1970), Simon et al. (1984) and others have determined  Cosmogenic isotopes and exposure ages
+    the composition of a wide range of glass particles in  The cosmic ray induced activity was reported by
+    10019. Some have the composition of the “orange  LSPET (1969) as 26Al = 98 dpm/kg., 22Na = 47 dpm/
+    glass” 74220, while one particle has the composition   kg., 46Sc = 10 dpm/kg., 54Mn = 27 dpm/kg. and 56Co =
+    of HASP. A subset of the glass composition is different  35 dpm/kg.
+   from the glass found in soil 10084, indicating that
+    Apollo 11 breccias are derived from a different regolith  Other Studies
+    (than 10084).                                                         Kirsten et al. (1970) used a microprobe technique to
+                                                        study the location of 4He in a thin section of 10019.
+    Significant Clasts
+    Keil et al. (1970) described an anorthosite clast in                                                   Bloch et al. (1971) and Neukum et al. (1972) reported
+   10019 and determined the compositions of plagioclase,                                                         the size distribution of micrometeorite craters on
+    olivine and Mg-spinel.                                                     10019.
+
+
+
+Lunar Sample Compendium
+--- age block 3; lines 14-26 ---
+(see  table). They calculated that it had about 25%  and ~3.5 % KREEP, while Rhodes and Blanchard
+    highland component, but couldn’t directly identify very  (1981) found it was a mix of soil and high-K basalt.
+   many clasts of highland rock.                      However, Simon et al. (1984) could not identify such
+                                                       a high percentage of highland component.
+   As is the case with other Apollo 11 breccias, Keil et al.
+    (1970), Simon et al. (1984) and others have determined  Cosmogenic isotopes and exposure ages
+    the composition of a wide range of glass particles in  The cosmic ray induced activity was reported by
+    10019. Some have the composition of the “orange  LSPET (1969) as 26Al = 98 dpm/kg., 22Na = 47 dpm/
+    glass” 74220, while one particle has the composition   kg., 46Sc = 10 dpm/kg., 54Mn = 27 dpm/kg. and 56Co =
+    of HASP. A subset of the glass composition is different  35 dpm/kg.
+   from the glass found in soil 10084, indicating that
+    Apollo 11 breccias are derived from a different regolith  Other Studies
+    (than 10084).                                                         Kirsten et al. (1970) used a microprobe technique to
+--- references block 4; lines 20-32 ---
+the composition of a wide range of glass particles in  The cosmic ray induced activity was reported by
+    10019. Some have the composition of the “orange  LSPET (1969) as 26Al = 98 dpm/kg., 22Na = 47 dpm/
+    glass” 74220, while one particle has the composition   kg., 46Sc = 10 dpm/kg., 54Mn = 27 dpm/kg. and 56Co =
+    of HASP. A subset of the glass composition is different  35 dpm/kg.
+   from the glass found in soil 10084, indicating that
+    Apollo 11 breccias are derived from a different regolith  Other Studies
+    (than 10084).                                                         Kirsten et al. (1970) used a microprobe technique to
+                                                        study the location of 4He in a thin section of 10019.
+    Significant Clasts
+    Keil et al. (1970) described an anorthosite clast in                                                   Bloch et al. (1971) and Neukum et al. (1972) reported
+   10019 and determined the compositions of plagioclase,                                                         the size distribution of micrometeorite craters on
+    olivine and Mg-spinel.                                                     10019.
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-9 ---
+Figure 3: Transmitted light photomicrograph of
+          thin section 10019,2 showing fine matrix with                                                              Figure 4: Photomicrograph of thin section 10066,20.
+        broken orange glass beads and rock clasts. Field of                                              NASA S76-26288.
+        view is 2.5 mm. NASA# S70-19237.
+
+
+
+   Processing                                           C Meyer 10066
+   10019 was one of the rocks in the F-201 at the time of                   2011   40 grams
+--- material block 2; lines 1-9 ---
+Figure 3: Transmitted light photomicrograph of
+          thin section 10019,2 showing fine matrix with                                                              Figure 4: Photomicrograph of thin section 10066,20.
+        broken orange glass beads and rock clasts. Field of                                              NASA S76-26288.
+        view is 2.5 mm. NASA# S70-19237.
+
+
+
+   Processing                                           C Meyer 10066
+   10019 was one of the rocks in the F-201 at the time of                   2011   40 grams
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 10019.
+
+
+     reference Rhodes81  Rose70    Wiesmann75  Wakita70        Goles70      LSPET69  O’Kelley70 Gopalan70
+     weight                         50 mg        532 mg  497 mg                                      Lovering71
+    SiO2 %   41.6     (a) 41.1     (b)                41.1     33.6     (d) 40.4
+    TiO2      7.6       (a) 8.25     (b)                         8.8       (d) 8.2
+    Al2O3     12.6     (a) 13.7     (b)                12.7     13.2     (d) 13
+   FeO      15.78    (a) 15.7     (b)                17.1     16.6     (d) 16.3
+   MnO      0.21     (a) 0.22     (b)                0.22     0.25     (d) 0.19     (d)
+   MgO      7.74     (a) 7.86     (b)                8.8      7.1       (d) 6.3
+   CaO      11.74    (a) 11.9     (b)                        12.5     (d) 12.6
+   Na2O     0.47     (a) 0.93     (b)                0.47     0.46     (d) 0.47     (d)
+   K2O      0.15     (a) 0.14     (b) 0.16       (c ) 0.11     0.13     (e)            0.145   (f) 0.145     (f) 0.17
+   P2O5     0.11     (a)
+   S %
+    sum
+
+    Sc ppm                                    64      64       (d) 60.9     (d)
+   V                                         86      98       (d) 63       (d)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 10019.
+
+
+     reference Rhodes81  Rose70    Wiesmann75  Wakita70        Goles70      LSPET69  O’Kelley70 Gopalan70
+     weight                         50 mg        532 mg  497 mg                                      Lovering71
+    SiO2 %   41.6     (a) 41.1     (b)                41.1     33.6     (d) 40.4
+    TiO2      7.6       (a) 8.25     (b)                         8.8       (d) 8.2
+    Al2O3     12.6     (a) 13.7     (b)                12.7     13.2     (d) 13
+   FeO      15.78    (a) 15.7     (b)                17.1     16.6     (d) 16.3
+   MnO      0.21     (a) 0.22     (b)                0.22     0.25     (d) 0.19     (d)
+--- references block 3; lines 65-75 ---
+Os ppb                                                                                                    7.8
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm                           2.16       (c ) 2.7      3.2       (d)             1.9       (f) 1.9        (f)
+   U ppm                            0.58       (c )                      0.49     (d) 0.43     (f) 0.43       (f)
+     technique:  (a) XRF, (b) semimicro XRF, (c ) IDMS, (d) INAA, (e) RNAA, (f) rad. Counting
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-22 ---
+25
+   Table 2. Chemical composition of 10066.
+                                                                                20                      Apollo soils
+    reference Goles70                                                                      10019              breccia
+    weight
+   SiO2 %   43.2                                                            15
+    TiO2      8.2                        FeO          10084
+   Al2O3     12.2                                                            10
+   FeO      16.5
+   MnO      0.2       (a)
+                                                                                   5
+   MgO      7.6
+   CaO     12
+   Na2O     0.46      (a)                                                      0
+   K2O                                                                            0       5       10      15      20      25      30      35
+   P2O5                                                       Al2O3
+   S %
+   sum                                                                 Figure 5: Composition of 10019 compared with
+   Sc ppm   60.3      (a)                                           Apollo soil samples.
+   V        59        (a)
+    Cr       1910     (a)                                                            1000
+   Co        33.8      (a)
+--- material block 2; lines 1-10 ---
+25
+   Table 2. Chemical composition of 10066.
+                                                                                20                      Apollo soils
+    reference Goles70                                                                      10019              breccia
+    weight
+   SiO2 %   43.2                                                            15
+    TiO2      8.2                        FeO          10084
+   Al2O3     12.2                                                            10
+   FeO      16.5
+   MnO      0.2       (a)
+--- material block 3; lines 13-25 ---
+CaO     12
+   Na2O     0.46      (a)                                                      0
+   K2O                                                                            0       5       10      15      20      25      30      35
+   P2O5                                                       Al2O3
+   S %
+   sum                                                                 Figure 5: Composition of 10019 compared with
+   Sc ppm   60.3      (a)                                           Apollo soil samples.
+   V        59        (a)
+    Cr       1910     (a)                                                            1000
+   Co        33.8      (a)
+    Ni
+                                                                                10019   Cu                                                                                        100
+   Zn                                                                        sample/
+--- material block 4; lines 33-45 ---
+Zr
+   Nb                                                                                                           0.1
+   Mo                                                                            La Ce  Pr Nd Sm Eu Gd Tb Dy Ho  Er Tm Yb Lu
+   Ru
+   Rh
+   Pd ppb                                                      Figure 6: Normalized rare earth element diagram
+   Ag ppb                                                               for breccia 10019 compared with soil 10084 (data
+   Cd ppb
+                                                              from Wiesmann et al. 1970).     In ppb
+   Sn ppb
+   Sb ppb                                                                              1000
+    Te ppb
+   Cs ppm                                                                           10066
+--- material block 5; lines 56-68 ---
+Dy
+   Ho        6.5       (a)
+    Er                                                                                                      0.1    La      Pr    Sm    Gd    Dy      Er     Yb                                                                             Ce     Nd     Eu     Tb    Ho    Tm     Lu
+   Tm
+   Yb        11.8      (a)
+   Lu        1.9       (a)                                         Figure 7: Normalized rare earth element diagram
+    Hf        10.6      (a)                                                for breccia 10066 compared with soil 10084 (data
+    Ta         2.1       (a)
+  W ppb                                                      from Goles et al. 1970).
+   Re ppb
+   Os ppb
+      Ir ppb
+    Pt ppb
+--- references block 6; lines 1-10 ---
+25
+   Table 2. Chemical composition of 10066.
+                                                                                20                      Apollo soils
+    reference Goles70                                                                      10019              breccia
+    weight
+   SiO2 %   43.2                                                            15
+    TiO2      8.2                        FeO          10084
+   Al2O3     12.2                                                            10
+   FeO      16.5
+   MnO      0.2       (a)
+--- references block 7; lines 66-75 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm
+   U ppm    0.56      (a)
+    technique: (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 6; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 14-26 ---
+Activation. Proc. Apollo 11 Lunar Science Conf. 1071-1079.  LSPET (1969) Preliminary examination of lunar samples
+                                                       from Apollo 11. Science 165, 1211-1227.
+    Fruland Ruth M. (1983)  Regolith Breccia Workbook.
+    Curatorial Branch Publication # 66. JSC 19045.         McKay D.S., Greenwood W.R. and Morrison D.A. (1970)
+                                                             Origin of small lunar particles and breccias from the Apollo
+    Ganapathy R., Keays R.R., Laul J.C. and Anders E. (1970)  11 site. Proc. Apollo 11 Lunar Sci. Conf. 673-693.
+    Trace elements in Apollo 11 lunar rocks: Implications for
+    meteorite influx and origin of moon. Proc. Apollo 11 Lunar  Neukum G., Schneider E., Mehl A., Storzer D., Wagner G.A.,
+     Sci. Conf. 1117-1142.                                       Fectig H. and Bloch M.R. (1972) Lunar craters and exposure
+                                                            ages derived from crater statistics and solar flar tracks. Proc.
+    Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,    3rd Lunar Sci. Conf. 2793-2810.
+   Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+    abundances by instrumental activation analyses in chips from   O’Kelley G.D., Eldridge J.S., Schonfeld E. and Bell P.R
+--- mineralogy block 2; lines 1-7 ---
+References for 10019 and 10066                  Lofgren G.E. (1971b)  Devitrified glass fragments from
+    Bloch M.R., Fechtig H., Genter W., Neukum G. and   Apollo 11 and Apollo 12 lunar samples.  Proc. 2nd Lunar
+    Schneider E. (1971)  Meteorite impact craters, crater   Sci. Conf. 949-955
+    simulations, and the meteoroid flux in the early solar system.
+    Proc. Second Lunar Sci. Conf. 2639-2652                Lovering J.F. and Ware N.G. (1970a)  Electron probe
+                                                            microanalyses of minerals and glasses in Apollo 11 lunar
+    Cloud P., Margolis S.V., Moorman M., Barker J.M., Licari   samples. Proc. Apollo 11 Lunar Sci. Conf. 633-654.
+--- mineralogy block 3; lines 27-39 ---
+27 lunar rocks. Proc. Apollo 11 Lunar Sci. Conf. 1165-1176.   (1970)  Primordial radionuclide abundances, solar proton
+                                                       and cosmic ray effects and ages of Apollo 11 lunar samples
+    Gopalan K., Kaushal S., Lee-Hu C. and Wetherill G.W.  by non-destructive gamma-ray spectrometry. Proc. Apollo
+    (1970) Rb-Sr and U, Th-Pb ages of lunar materials. Proc.   11 Lunar Sci. Conf. 1407-1424.
+    Apollo 11 Lunar Sci. Conf. 1195-1206.
+                                                         Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+    Keil K., Bunch T.E. and Prinz M. (1970) Mineralogy and   (1976a) Lithification of vitric- and clastic-matrix breccias:
+    composition of Apollo 11 lunar samples. Proc. Apollo 11  SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+    Lunar Sci. Conf. 561-598.
+                                                     Rhodes J.M. and Blanchard D.P. (1981) Apollo 11 breccias
+    King E.A. and a cast of thousands (1969) Lunar Sample  and soils: Aluminous mare basalts or multi-component
+    Information Catalog, Apollo 11.  Lunar Receiving   mixtures? Proc. 12th Lunar Planet. Sci. Conf. 607-620.
+    Laboratory, MSC 412 pp
+--- material block 4; lines 3-22 ---
+Schneider E. (1971)  Meteorite impact craters, crater   Sci. Conf. 949-955
+    simulations, and the meteoroid flux in the early solar system.
+    Proc. Second Lunar Sci. Conf. 2639-2652                Lovering J.F. and Ware N.G. (1970a)  Electron probe
+                                                            microanalyses of minerals and glasses in Apollo 11 lunar
+    Cloud P., Margolis S.V., Moorman M., Barker J.M., Licari   samples. Proc. Apollo 11 Lunar Sci. Conf. 633-654.
+    G. Kringsley D. and Barnes V.E. (1970) Micromorphology
+    and Surface Characteristics of Lunar Dust and Breccia. Proc.  Lovering J.F. and Hughes T.C. (1971)  Re and Os
+    Apollo 11 Lunar Science Conf. 1793- 1798.                 determinations and meteoritic contamination levels in Apollo
+                                                       11 and Apollo 12 lunar samples. Proc. Second Lunar Sci.
+   Ehmann W.D. and Morgan J.W. (1970) Oxygen, silicon and   Conf. 1331-1335.
+    aluminium in Apollo 11 rocks and fines by 14 MeV Neutron
+    Activation. Proc. Apollo 11 Lunar Science Conf. 1071-1079.  LSPET (1969) Preliminary examination of lunar samples
+                                                       from Apollo 11. Science 165, 1211-1227.
+    Fruland Ruth M. (1983)  Regolith Breccia Workbook.
+    Curatorial Branch Publication # 66. JSC 19045.         McKay D.S., Greenwood W.R. and Morrison D.A. (1970)
+                                                             Origin of small lunar particles and breccias from the Apollo
+    Ganapathy R., Keays R.R., Laul J.C. and Anders E. (1970)  11 site. Proc. Apollo 11 Lunar Sci. Conf. 673-693.
+    Trace elements in Apollo 11 lunar rocks: Implications for
+    meteorite influx and origin of moon. Proc. Apollo 11 Lunar  Neukum G., Schneider E., Mehl A., Storzer D., Wagner G.A.,
+     Sci. Conf. 1117-1142.                                       Fectig H. and Bloch M.R. (1972) Lunar craters and exposure
+--- material block 5; lines 27-39 ---
+27 lunar rocks. Proc. Apollo 11 Lunar Sci. Conf. 1165-1176.   (1970)  Primordial radionuclide abundances, solar proton
+                                                       and cosmic ray effects and ages of Apollo 11 lunar samples
+    Gopalan K., Kaushal S., Lee-Hu C. and Wetherill G.W.  by non-destructive gamma-ray spectrometry. Proc. Apollo
+    (1970) Rb-Sr and U, Th-Pb ages of lunar materials. Proc.   11 Lunar Sci. Conf. 1407-1424.
+    Apollo 11 Lunar Sci. Conf. 1195-1206.
+                                                         Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+    Keil K., Bunch T.E. and Prinz M. (1970) Mineralogy and   (1976a) Lithification of vitric- and clastic-matrix breccias:
+    composition of Apollo 11 lunar samples. Proc. Apollo 11  SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+    Lunar Sci. Conf. 561-598.
+                                                     Rhodes J.M. and Blanchard D.P. (1981) Apollo 11 breccias
+    King E.A. and a cast of thousands (1969) Lunar Sample  and soils: Aluminous mare basalts or multi-component
+    Information Catalog, Apollo 11.  Lunar Receiving   mixtures? Proc. 12th Lunar Planet. Sci. Conf. 607-620.
+    Laboratory, MSC 412 pp
+--- age block 6; lines 22-34 ---
+Sci. Conf. 1117-1142.                                       Fectig H. and Bloch M.R. (1972) Lunar craters and exposure
+                                                            ages derived from crater statistics and solar flar tracks. Proc.
+    Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,    3rd Lunar Sci. Conf. 2793-2810.
+   Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+    abundances by instrumental activation analyses in chips from   O’Kelley G.D., Eldridge J.S., Schonfeld E. and Bell P.R
+    27 lunar rocks. Proc. Apollo 11 Lunar Sci. Conf. 1165-1176.   (1970)  Primordial radionuclide abundances, solar proton
+                                                       and cosmic ray effects and ages of Apollo 11 lunar samples
+    Gopalan K., Kaushal S., Lee-Hu C. and Wetherill G.W.  by non-destructive gamma-ray spectrometry. Proc. Apollo
+    (1970) Rb-Sr and U, Th-Pb ages of lunar materials. Proc.   11 Lunar Sci. Conf. 1407-1424.
+    Apollo 11 Lunar Sci. Conf. 1195-1206.
+                                                         Phinney W.C., McKay D.S., Simonds C.H. and Warner J.L.
+    Keil K., Bunch T.E. and Prinz M. (1970) Mineralogy and   (1976a) Lithification of vitric- and clastic-matrix breccias:
+    composition of Apollo 11 lunar samples. Proc. Apollo 11  SEM photography. Proc. 7th Lunar Sci. Conf. 2469-2492.
+--- references block 7; lines 1-7 ---
+References for 10019 and 10066                  Lofgren G.E. (1971b)  Devitrified glass fragments from
+    Bloch M.R., Fechtig H., Genter W., Neukum G. and   Apollo 11 and Apollo 12 lunar samples.  Proc. 2nd Lunar
+    Schneider E. (1971)  Meteorite impact craters, crater   Sci. Conf. 949-955
+    simulations, and the meteoroid flux in the early solar system.
+    Proc. Second Lunar Sci. Conf. 2639-2652                Lovering J.F. and Ware N.G. (1970a)  Electron probe
+                                                            microanalyses of minerals and glasses in Apollo 11 lunar
+    Cloud P., Margolis S.V., Moorman M., Barker J.M., Licari   samples. Proc. Apollo 11 Lunar Sci. Conf. 633-654.
+--- references block 8; lines 37-49 ---
+King E.A. and a cast of thousands (1969) Lunar Sample  and soils: Aluminous mare basalts or multi-component
+    Information Catalog, Apollo 11.  Lunar Receiving   mixtures? Proc. 12th Lunar Planet. Sci. Conf. 607-620.
+    Laboratory, MSC 412 pp
+                                                     Rose H.J., Cuttitta F., Dwornik E.J., Carron M.K., Christian
+    Kirsten T., Muller O., Steinbrunn F. and Zahringer J. (1970)   R.P., Lindsay J.R., Ligon D.T. and Larson R.R. (1970a)
+    Study of the distribution and variations of rare gases in Lunar  Semimicro chemical and X-ray fluorescence analysis of lunar
+    Material by a microprobe technique. Proc. Apollo 11 lunar   samples. Science 167, 520-521.
+    science Conf. 1331-1344.
+                                                     Rose H.J., Cuttitta F., Dwornik E.J., Carron M.K., Christian
+    Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo   R.P., Lindsay J.R., Ligon D.T. and Larson R.R. (1970b)
+    11 Lunar Sample Information Catalogue (revised).  Semimicro X-ray fluorescence analysis of lunar samples.
+    Curator’s Office, JSC 12522                               Proc. Apollo 11 Luanr Sci. Conf. 1493-1497.
+
+=== PDF PAGE 7; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 8-20 ---
+Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+    of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+    Conf. in J. Geophys. Res. 89, C109-132.
+
+   Wakita H., Schmitt R.A. and Rey P. (1970)  Elemental
+   abundances of major, minor, and trace elements in Apollo
+   11 lunar rocks, soil, and core samples. Proc. Apollo 11 Lunar
+    Sci. Conf. 1685-1717.
+--- material block 2; lines 4-21 ---
+Simon S.B., Papike J.J., Shearer C.K. and Laul J.C. (1983)
+    Petrology of the Apollo 11 highland component. Proc. 14th
+   Lunar Planet. Sci. Conf. in J. Geophys. Res. 88, B103-138.
+
+   Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+    of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+    Conf. in J. Geophys. Res. 89, C109-132.
+
+   Wakita H., Schmitt R.A. and Rey P. (1970)  Elemental
+   abundances of major, minor, and trace elements in Apollo
+   11 lunar rocks, soil, and core samples. Proc. Apollo 11 Lunar
+    Sci. Conf. 1685-1717.

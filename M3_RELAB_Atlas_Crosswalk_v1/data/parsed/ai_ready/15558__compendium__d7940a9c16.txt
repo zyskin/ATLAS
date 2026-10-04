@@ -1,0 +1,296 @@
+DOCUMENT_ID: 15558__compendium__d7940a9c16
+ATLAS_SAMPLE_IDS: 15558
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15558.pdf
+SOURCE_PDF_SHA256: f646e5ca00f97a7942940b403902396fe5b0d70e0a091b4f33aa53d67d175eab
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 18-30 ---
+Petrography
+   Simon et al. (1986) and McKay et al. (1989) reported
+    that 15558 contained clasts of mare and feldspathic
+  KREEP basalt.  It also has agglutinates and a great
+   deal of glass. McKay et al. reported that the maturity
+   index Is/FeO = 21. Thin sections show that it has more
+   matrix than clasts (figure 3).
+
+   Chemistry
+   15558 is Fe-rich (figure 6) and has a REE pattern
+    similar to local soil.
+--- mineralogy block 2; lines 17-29 ---
+fine grained material.
+
+   Petrography
+   Simon et al. (1986) and McKay et al. (1989) reported
+    that 15558 contained clasts of mare and feldspathic
+  KREEP basalt.  It also has agglutinates and a great
+   deal of glass. McKay et al. reported that the maturity
+   index Is/FeO = 21. Thin sections show that it has more
+   matrix than clasts (figure 3).
+
+   Chemistry
+   15558 is Fe-rich (figure 6) and has a REE pattern
+    similar to local soil.
+--- material block 3; lines 1-38 ---
+15558
+                                   Regolith Breccia
+                                       1333 grams
+
+
+
+
+
+                                Figure 1: Photo of 15558. Sample is 3 inches across.
+                                S71-45184.
+
+   Introduction
+   15558 is a large regolith breccia made mostly of mare
+                                               15558    material. The exact collection site is unknown, but
+   probably at Station 9 near the rille (Ryder 1985).  It is
+    similar to 15505 – from same location, but has more
+    fine grained material.
+
+   Petrography
+   Simon et al. (1986) and McKay et al. (1989) reported
+    that 15558 contained clasts of mare and feldspathic
+  KREEP basalt.  It also has agglutinates and a great
+   deal of glass. McKay et al. reported that the maturity
+   index Is/FeO = 21. Thin sections show that it has more
+   matrix than clasts (figure 3).
+
+   Chemistry
+   15558 is Fe-rich (figure 6) and has a REE pattern
+    similar to local soil.
+
+   Moore et al. (1973) reported 110 ppm carbon in 15558,
+   verifying that it is a soil breccia.
+                                                                  Figure 2: Location of 15558 on map of Apollo
+   Cosmogenic isotopes and exposure ages               15 site.
+   Keith et al. (1972) reported cosmic-ray-induced activity
+                                           Other Studies   of 26Al = 84 dpm/kg, 22Na = 36 dpm/kg, 54Mn = 23
+                                              The abundance and isotopic ratios of rare gasses were   dpm/kg, 56Co = 9 dpm/kg and 46Sc = 3 dpm/kg.
+                                                         reported in Bogard and Nyquist (1972) and McKay et
+--- age block 4; lines 29-41 ---
+similar to local soil.
+
+   Moore et al. (1973) reported 110 ppm carbon in 15558,
+   verifying that it is a soil breccia.
+                                                                  Figure 2: Location of 15558 on map of Apollo
+   Cosmogenic isotopes and exposure ages               15 site.
+   Keith et al. (1972) reported cosmic-ray-induced activity
+                                           Other Studies   of 26Al = 84 dpm/kg, 22Na = 36 dpm/kg, 54Mn = 23
+                                              The abundance and isotopic ratios of rare gasses were   dpm/kg, 56Co = 9 dpm/kg and 46Sc = 3 dpm/kg.
+                                                         reported in Bogard and Nyquist (1972) and McKay et
+                                                                  al . (1989).
+--- treatment block 5; lines 17-29 ---
+fine grained material.
+
+   Petrography
+   Simon et al. (1986) and McKay et al. (1989) reported
+    that 15558 contained clasts of mare and feldspathic
+  KREEP basalt.  It also has agglutinates and a great
+   deal of glass. McKay et al. reported that the maturity
+   index Is/FeO = 21. Thin sections show that it has more
+   matrix than clasts (figure 3).
+
+   Chemistry
+   15558 is Fe-rich (figure 6) and has a REE pattern
+    similar to local soil.
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 1-22 ---
+Mineralogical Mode for 15558                     Mineralogical Mode for 15558
+                       (Simon et al. 1986)                                   (McKay et al. 1989)
+        Matrix          54 %                                                     20-500 mciron    500-1000 micron
+                         20-90 micron     90-100 micron          Mare Basalt      1 %              10.5 %
+       Mare Basalt       1.3 %             5.4 %              KREEP basalt     7.9                8.8
+      KREEP Basalt                        0.5                        Plutonic         0                 10.5
+         Feld. Basalt       0.2                0.4                        Breccias         1                 12.3
+        Plutonic           0.2             1                         Olivine          1               0
+         Granulitic         0.4                0.7                      Pyroxene         42.2               8.8
+        Breccia          1                  0.5                        Plagioclase        14.2               5.3
+        Olivine            3.8                1.2                    Opaques          0.3             0
+        Pyroxene         10.8               3.4                       Glass             14.5              40.4
+         Plagioclase        2.7                                          Agglutinates       7.3                1.8
+       Opaques          0.3
+        Glass              6.5                3.4
+        Agglutinate        1.1                1.4
+
+   Processing
+   15558 was split along a penetrating fracture (figures
+    4, 8 and 9) and has not been sawn. There are 7 thin
+    sections.
+--- material block 2; lines 1-16 ---
+Mineralogical Mode for 15558                     Mineralogical Mode for 15558
+                       (Simon et al. 1986)                                   (McKay et al. 1989)
+        Matrix          54 %                                                     20-500 mciron    500-1000 micron
+                         20-90 micron     90-100 micron          Mare Basalt      1 %              10.5 %
+       Mare Basalt       1.3 %             5.4 %              KREEP basalt     7.9                8.8
+      KREEP Basalt                        0.5                        Plutonic         0                 10.5
+         Feld. Basalt       0.2                0.4                        Breccias         1                 12.3
+        Plutonic           0.2             1                         Olivine          1               0
+         Granulitic         0.4                0.7                      Pyroxene         42.2               8.8
+        Breccia          1                  0.5                        Plagioclase        14.2               5.3
+        Olivine            3.8                1.2                    Opaques          0.3             0
+        Pyroxene         10.8               3.4                       Glass             14.5              40.4
+         Plagioclase        2.7                                          Agglutinates       7.3                1.8
+       Opaques          0.3
+        Glass              6.5                3.4
+        Agglutinate        1.1                1.4
+--- material block 3; lines 21-60 ---
+sections.
+
+
+
+   References for 15558
+    Bogard D.D. and Nyquist L.A. (1972) Noble gas studies on
+     regolith materials from Apollo 14 and 15. Proc. 3rd Lunar
+     Sci. Conf. 1797-1819.
+
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    Office, MSC 03209
+
+    Fruland R.M. (1983)  Regolith Breccia Workbook.
+    Curatorial Branch Publication # 66. JSC 19045.
+
+    Keith J.E., Clark R.S. and Richardson K.A. (1972) Gamma-
+    ray measurements of Apollo 12, 14 and 15 lunar samples.
+    Proc. 3rd Lunar Sci. Conf. 1671-1680.
+
+   LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+     description. Science 175, 363-375.
+
+   McKay D.S., Morris R.V. and Wentworth S.J. (1984)
+    Maturity of regolith breccias as revealed by ferromagnetic
+                                                            Figure 3: Plane polarized and cross polarized photomi-
+                                                           crographs of thin section of 15558. Scale is included.
+
+            Rock
+
+           CMB
+
+                 Regolith Breccia                               15558
+
+                     soil
+
+
+
+
+
+         0                 50               100               150               200
+--- treatment block 4; lines 38-50 ---
+Proc. 3rd Lunar Sci. Conf. 1671-1680.
+
+   LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+     description. Science 175, 363-375.
+
+   McKay D.S., Morris R.V. and Wentworth S.J. (1984)
+    Maturity of regolith breccias as revealed by ferromagnetic
+                                                            Figure 3: Plane polarized and cross polarized photomi-
+                                                           crographs of thin section of 15558. Scale is included.
+
+            Rock
+
+           CMB
+--- references block 5; lines 19-31 ---
+15558 was split along a penetrating fracture (figures
+    4, 8 and 9) and has not been sawn. There are 7 thin
+    sections.
+
+
+
+   References for 15558
+    Bogard D.D. and Nyquist L.A. (1972) Noble gas studies on
+     regolith materials from Apollo 14 and 15. Proc. 3rd Lunar
+     Sci. Conf. 1797-1819.
+
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    Office, MSC 03209
+
+=== PDF PAGE 3; CATEGORIES: material ===
+--- material block 1; lines 3-16 ---
+and petrographic indicies (abs). Lunar Planet. Sci. XV, 530-
+    531. Lunar Planetary Institute, Houston.                   Sutton R.L., Hait M.H., Larson K.B., Swann G.A., Reed V.S.
+                                                      and Schaber G.G. (1972)  Documentation of Apollo 15
+   McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,   samples. Interagency report: Astrogeology 47. USGS
+   Wentworth S.J. and Johnson P. (1989) Apollo 15 regolith
+    breccias: Window to a KREEP regolith. Proc. 19th Lunar  Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+    Sci. Conf. 19-41. Lunar Planetary Institute, Houston.        G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971)
+                                                             Preliminary description of Apollo 15 sample environments.
+   Moore C.B., Lewis C.F., and Gibson E.K. (1972) Carbon   U.S.G.S. Interagency report: 36. pp219 with maps
+   and nitrogen in Apollo 15 lunar samples. In The Apollo 15
+   Lunar Samples 316-318. The Lunar Science Institute,  Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+   Houston.                                              M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+--- material block 2; lines 19-31 ---
+carbon contents of Apollo 15 and 16 lunar samples. Proc.   Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary
+     4th Lunar Sci. Conf. 1613-1923.                          Geologic Investigation of the Apollo 15 landing site.  In
+                                                         Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+   Ryder G. (1985)  Catalog of Apollo 15 Rocks (three   5-1-112.
+    volumes). Curatoial Branch Pub. # 72, JSC#20787
+                                                       Wentworth S.J. and McKay D.S. (1984) Density and porosity
+   Simon S.B., Papike J.J., Grosselin D.C. and Laul J.C. (1986)   calculations for Apollo 15 and 16 regolith breccias (abs).
+    Petrology of the Apollo 15 regolith breccias.  Geochim.  Lunar Planet Sci. XV, 906-907. Lunar Planetary Institute,
+   Cosmochim. Acta 50, 2675-2691.                         Houston.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-21 ---
+Table 1. Chemical composition of 15558.                25
+                                                                                20                      Apollo soils     reference  Keith73   LSPET72    Simon86   McKay89
+     weight                                                                       A15 breccias
+    SiO2 %              46.31    (c )                                       15
+    TiO2                 1.89      (c ) 2         (b) 1.89       (b)  FeO       15558
+    Al2O3               12.4      (c ) 12.3     (b) 12.4       (b)
+   FeO                 16.54    (c ) 15.9     (b) 17.7       (b)           10
+   MnO                 0.22      (c ) 0.21     (b) 0.22       (b)
+   MgO                10.51    (c ) 11.5     (b) 10.5       (b)             5
+   CaO                10.81    (c ) 10       (b) 10.4       (b)
+   Na2O                0.42      (c ) 0.45     (b) 0.41       (b)
+                                                                                    0
+   K2O      0.205  (a) 0.19      (c ) 0.21     (b)                                                                                      0       5       10      15      20      25      30      35
+   P2O5                0.21      (c )
+   S %                 0.09      (c )                                     Al2O3
+    sum
+    Sc ppm                           30.7     (b) 34.1       (b)         Figure 6: Composition of 15558 compared with
+   V                             120      (b)                     Apollo soils and Apollo 15 soil breccias.
+    Cr                            3127     (b) 3300      (b)
+   Co                            42       (b) 51.1       (b)
+     Ni                             160      (b) 201        (b)
+--- material block 2; lines 12-24 ---
+0
+   K2O      0.205  (a) 0.19      (c ) 0.21     (b)                                                                                      0       5       10      15      20      25      30      35
+   P2O5                0.21      (c )
+   S %                 0.09      (c )                                     Al2O3
+    sum
+    Sc ppm                           30.7     (b) 34.1       (b)         Figure 6: Composition of 15558 compared with
+   V                             120      (b)                     Apollo soils and Apollo 15 soil breccias.
+    Cr                            3127     (b) 3300      (b)
+   Co                            42       (b) 51.1       (b)
+     Ni                             160      (b) 201        (b)
+   Cu
+    Zn
+   Ga
+--- references block 3; lines 1-8 ---
+Table 1. Chemical composition of 15558.                25
+                                                                                20                      Apollo soils     reference  Keith73   LSPET72    Simon86   McKay89
+     weight                                                                       A15 breccias
+    SiO2 %              46.31    (c )                                       15
+    TiO2                 1.89      (c ) 2         (b) 1.89       (b)  FeO       15558
+    Al2O3               12.4      (c ) 12.3     (b) 12.4       (b)
+   FeO                 16.54    (c ) 15.9     (b) 17.7       (b)           10
+   MnO                 0.22      (c ) 0.21     (b) 0.22       (b)
+--- references block 4; lines 62-72 ---
+Os ppb                                                                             ,5      ,35                          ,17
+       Ir ppb                                    6          (b)                  ,7    PB                   TS
+     Pt ppb
+    Au ppb                                         2.7        (b)
+    Th ppm   3.42    (a) 3.6       (c ) 3.8       (b) 3.5        (b)                ,10     ,37
+   U ppm    1.01    (a)             1         (b) 0.95       (b)            TS    TS
+     technique:  (a) radiation counting, (b) INAA, (c ) XRF
+
+
+Lunar Sample Compendium
+C Meyer 2011

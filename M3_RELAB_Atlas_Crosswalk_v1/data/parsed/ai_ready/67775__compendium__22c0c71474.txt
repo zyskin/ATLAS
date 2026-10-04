@@ -1,0 +1,212 @@
+DOCUMENT_ID: 67775__compendium__22c0c71474
+ATLAS_SAMPLE_IDS: 67775
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67775.pdf
+SOURCE_PDF_SHA256: d8eecd86470c4ce04a62b285a584d948026d5d4f41ed15aede378eec595892b8
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 7-32 ---
+Figure 1: Photo of 67775. Sample is 1 cm wide.  S72-51259
+
+
+                                                 Introduction
+     Table 1. Chemical composition of 67775     67766 is a rake sample collected from the rim of North
+                                             Ray Crater – see section on 67701.  It has a KREEP-
+       reference  Stoffler85            Borchardt                  like rare-earth-element pattern, so it must be from
+       weight                               Reimold85        Imbrium.  It has micrometerorite craters (figure 1).      SiO2 %   46.4     45.4     (a)  44.9
+      TiO2      0.37     0.95     (a)  0.4
+      Al2O3    23.2     20.2     (a)  24.1                 Petrography
+     FeO      5.2      8.3       (a)  5.1
+     MnO      0.06     0.08     (a)  0.06                  Reimold et al. (1985) noted that 67775 was rather
+     MgO      8.8      12.7     (a)  8.1                    unique among Apollo 16 samples in being the only
+     CaO      15.1     11.4     (a)  14.4                   sample with intergranular texture and containing a high     Na2O     0.48     0.5       (a)  0.5
+     K2O      0.32     0.2       (a)  0.3                  amount of mafic mineral clasts (figure 2). Indeed it
+     P2O5     0.1      0.16     (a)  0.13                    has fewer clasts of plagioclase-rich lithic fragments
+     S %
+      Sc ppm   13.5                (b)                      and a low Al2O3 content than other rake samples.
+     Co        63.5                (b)
+       Ni       900                 (b)
+     Rb                                      3.08      (c )             Mineralogical Mode 67775
+       Sr                                  152       (c )                                                                                    Reimold et
+     Ba       252                 (b)
+                                                                                                                               al. 1985     Nd                                    39.46     (c )
+--- mineralogy block 2; lines 18-41 ---
+Al2O3    23.2     20.2     (a)  24.1                 Petrography
+     FeO      5.2      8.3       (a)  5.1
+     MnO      0.06     0.08     (a)  0.06                  Reimold et al. (1985) noted that 67775 was rather
+     MgO      8.8      12.7     (a)  8.1                    unique among Apollo 16 samples in being the only
+     CaO      15.1     11.4     (a)  14.4                   sample with intergranular texture and containing a high     Na2O     0.48     0.5       (a)  0.5
+     K2O      0.32     0.2       (a)  0.3                  amount of mafic mineral clasts (figure 2). Indeed it
+     P2O5     0.1      0.16     (a)  0.13                    has fewer clasts of plagioclase-rich lithic fragments
+     S %
+      Sc ppm   13.5                (b)                      and a low Al2O3 content than other rake samples.
+     Co        63.5                (b)
+       Ni       900                 (b)
+     Rb                                      3.08      (c )             Mineralogical Mode 67775
+       Sr                                  152       (c )                                                                                    Reimold et
+     Ba       252                 (b)
+                                                                                                                               al. 1985     Nd                                    39.46     (c )
+    Sm       13.8                (b)          11.14     (c )                  Plagioclase        53.6 %
+     Yb        8.24                (b)                                     Pyroxene         42.3
+       technique : (a) DBA, (b) INAA, (c ) IDMS                                 Olivine            1.1
+                                                                Opaque         ~3
+                                                                            Mesostasis           -
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 3; lines 1-32 ---
+67775
+                        KREEP Breccia
+                                               6.6 grams
+
+
+
+
+
+                           Figure 1: Photo of 67775. Sample is 1 cm wide.  S72-51259
+
+
+                                                 Introduction
+     Table 1. Chemical composition of 67775     67766 is a rake sample collected from the rim of North
+                                             Ray Crater – see section on 67701.  It has a KREEP-
+       reference  Stoffler85            Borchardt                  like rare-earth-element pattern, so it must be from
+       weight                               Reimold85        Imbrium.  It has micrometerorite craters (figure 1).      SiO2 %   46.4     45.4     (a)  44.9
+      TiO2      0.37     0.95     (a)  0.4
+      Al2O3    23.2     20.2     (a)  24.1                 Petrography
+     FeO      5.2      8.3       (a)  5.1
+     MnO      0.06     0.08     (a)  0.06                  Reimold et al. (1985) noted that 67775 was rather
+     MgO      8.8      12.7     (a)  8.1                    unique among Apollo 16 samples in being the only
+     CaO      15.1     11.4     (a)  14.4                   sample with intergranular texture and containing a high     Na2O     0.48     0.5       (a)  0.5
+     K2O      0.32     0.2       (a)  0.3                  amount of mafic mineral clasts (figure 2). Indeed it
+     P2O5     0.1      0.16     (a)  0.13                    has fewer clasts of plagioclase-rich lithic fragments
+     S %
+      Sc ppm   13.5                (b)                      and a low Al2O3 content than other rake samples.
+     Co        63.5                (b)
+       Ni       900                 (b)
+     Rb                                      3.08      (c )             Mineralogical Mode 67775
+       Sr                                  152       (c )                                                                                    Reimold et
+     Ba       252                 (b)
+                                                                                                                               al. 1985     Nd                                    39.46     (c )
+--- references block 4; lines 9-21 ---
+Figure 1: Photo of 67775. Sample is 1 cm wide.  S72-51259
+
+
+                                                 Introduction
+     Table 1. Chemical composition of 67775     67766 is a rake sample collected from the rim of North
+                                             Ray Crater – see section on 67701.  It has a KREEP-
+       reference  Stoffler85            Borchardt                  like rare-earth-element pattern, so it must be from
+       weight                               Reimold85        Imbrium.  It has micrometerorite craters (figure 1).      SiO2 %   46.4     45.4     (a)  44.9
+      TiO2      0.37     0.95     (a)  0.4
+      Al2O3    23.2     20.2     (a)  24.1                 Petrography
+     FeO      5.2      8.3       (a)  5.1
+     MnO      0.06     0.08     (a)  0.06                  Reimold et al. (1985) noted that 67775 was rather
+     MgO      8.8      12.7     (a)  8.1                    unique among Apollo 16 samples in being the only
+--- references block 5; lines 29-41 ---
+Rb                                      3.08      (c )             Mineralogical Mode 67775
+       Sr                                  152       (c )                                                                                    Reimold et
+     Ba       252                 (b)
+                                                                                                                               al. 1985     Nd                                    39.46     (c )
+    Sm       13.8                (b)          11.14     (c )                  Plagioclase        53.6 %
+     Yb        8.24                (b)                                     Pyroxene         42.3
+       technique : (a) DBA, (b) INAA, (c ) IDMS                                 Olivine            1.1
+                                                                Opaque         ~3
+                                                                            Mesostasis           -
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 22-34 ---
+the mafic minerals in 67775 were typical of KREEP    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    materials (figure 3).                                       Catalog. pp. 370.
+
+                                              LSPET (1973b) The Apollo 16 lunar samples: Petrographic   Chemistry
+                                                        and chemical description. Science 179, 23-34.
+    Stoffler et al. (1985) analyzed two thin sections for
+   major elements finding high Mg/Fe ratio. They also                                              LSPET (1972c) Preliminary examination of lunar samples.
+    determined the rare-earth-element content (figure 4).     In Apollo 16 Preliminary Science Report. NASA SP-315,
+                                                       7-1—7-58.
+   Radiogenic age dating
+   Reimold et al. (1985) reported whole rock data,    Reimold W.U., Nyquist L.E., Bansal B.M., Wooden J.L.,
+                                                           Shih C.-Y., Wiesmann H. and Mackinnnon I.D.R. (1985)    but no age.
+                                                                  Isotope analysis of crystalline impact-melt rocks from Apollo
+--- mineralogy block 2; lines 1-7 ---
+Figure 3: Pyroxene and olivine composition in Apollo
+                                                        16 rake samples from North Ray Crater (Steele and
+                                                              Smith 1973).
+
+
+
+                                                     67775
+--- material block 3; lines 1-8 ---
+Figure 3: Pyroxene and olivine composition in Apollo
+                                                        16 rake samples from North Ray Crater (Steele and
+                                                              Smith 1973).
+
+
+
+                                                     67775
+                                                               6.6 grams
+--- material block 4; lines 26-47 ---
+and chemical description. Science 179, 23-34.
+    Stoffler et al. (1985) analyzed two thin sections for
+   major elements finding high Mg/Fe ratio. They also                                              LSPET (1972c) Preliminary examination of lunar samples.
+    determined the rare-earth-element content (figure 4).     In Apollo 16 Preliminary Science Report. NASA SP-315,
+                                                       7-1—7-58.
+   Radiogenic age dating
+   Reimold et al. (1985) reported whole rock data,    Reimold W.U., Nyquist L.E., Bansal B.M., Wooden J.L.,
+                                                           Shih C.-Y., Wiesmann H. and Mackinnnon I.D.R. (1985)    but no age.
+                                                                  Isotope analysis of crystalline impact-melt rocks from Apollo
+                                                      16 stations 11 and 13. North Ray Crater. Proc. 15th Lunar
+   Processing                                                Planet. Sci. Conf. in J. Geophys. Res. 90, C431-C448.
+   There are two thin section, but not a lot of rock sample
+                                                        Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                              rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+                                                         Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                      67515 to 68537:  Sample classification, description and
+                                                                   inventory. Curator Catalog, JSC
+--- age block 5; lines 25-39 ---
+LSPET (1973b) The Apollo 16 lunar samples: Petrographic   Chemistry
+                                                        and chemical description. Science 179, 23-34.
+    Stoffler et al. (1985) analyzed two thin sections for
+   major elements finding high Mg/Fe ratio. They also                                              LSPET (1972c) Preliminary examination of lunar samples.
+    determined the rare-earth-element content (figure 4).     In Apollo 16 Preliminary Science Report. NASA SP-315,
+                                                       7-1—7-58.
+   Radiogenic age dating
+   Reimold et al. (1985) reported whole rock data,    Reimold W.U., Nyquist L.E., Bansal B.M., Wooden J.L.,
+                                                           Shih C.-Y., Wiesmann H. and Mackinnnon I.D.R. (1985)    but no age.
+                                                                  Isotope analysis of crystalline impact-melt rocks from Apollo
+                                                      16 stations 11 and 13. North Ray Crater. Proc. 15th Lunar
+   Processing                                                Planet. Sci. Conf. in J. Geophys. Res. 90, C431-C448.
+   There are two thin section, but not a lot of rock sample
+                                                        Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                              rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+--- references block 6; lines 14-26 ---
+,1     ,8
+                                                                 TS  TS
+
+         Figure 2: Thin section photomicrograph of 67775.
+
+                                                     References for 67775
+    Steele and Smith (1973) had earlier determined that    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    the mafic minerals in 67775 were typical of KREEP    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    materials (figure 3).                                       Catalog. pp. 370.
+
+                                              LSPET (1973b) The Apollo 16 lunar samples: Petrographic   Chemistry
+                                                        and chemical description. Science 179, 23-34.
+
+=== PDF PAGE 3; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 4-16 ---
+Figure 4: Normalized rare-earth-element diagram for 67775 (Stoffler et al. 1985).
+
+
+    Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    of some Apollo 16 rocks and fines: General petrologic model
+    of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+
+    Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Reimold W.U., Wacker K. and Wanke H. (1985)

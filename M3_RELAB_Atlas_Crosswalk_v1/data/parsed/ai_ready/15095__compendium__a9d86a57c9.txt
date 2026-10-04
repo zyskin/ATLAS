@@ -1,0 +1,60 @@
+DOCUMENT_ID: 15095__compendium__a9d86a57c9
+ATLAS_SAMPLE_IDS: 15095
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15095.pdf
+SOURCE_PDF_SHA256: 7b9814f69fd4eaecf2ce7a4f5d83b5888b760cb600fb88dd5909e4cb20e9bb0d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 1-20 ---
+15095
+                                Glass-covered Breccia
+                                            25.5 grams
+
+
+
+
+
+               Figure 1: Photos of lunar sample 15095 (front and back). NASA S71-42918 and 42920. Sample
+                    is 1 inch across.
+
+   Introduction
+   The astronauts collected a shiny glass object from the
+   surface near a boulder at station 2 (figure 2).  Glass
+   surrounds a breccia sample (figure 1) and has well
+   developed micrometeorite craters. The sample has not
+   been studied.
+--- material block 2; lines 1-21 ---
+15095
+                                Glass-covered Breccia
+                                            25.5 grams
+
+
+
+
+
+               Figure 1: Photos of lunar sample 15095 (front and back). NASA S71-42918 and 42920. Sample
+                    is 1 inch across.
+
+   Introduction
+   The astronauts collected a shiny glass object from the
+   surface near a boulder at station 2 (figure 2).  Glass
+   surrounds a breccia sample (figure 1) and has well
+   developed micrometeorite craters. The sample has not
+   been studied.
+
+
+
+   References for 15095.
+--- references block 3; lines 15-27 ---
+surrounds a breccia sample (figure 1) and has well
+   developed micrometeorite craters. The sample has not
+   been studied.
+
+
+
+   References for 15095.
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    Office, MSC 03209
+
+   LSPET (1972a) The Apollo 15 lunar samples: A preliminary
+    description. Science 175, 363-375.

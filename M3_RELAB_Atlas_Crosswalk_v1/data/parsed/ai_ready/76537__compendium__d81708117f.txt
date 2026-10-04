@@ -1,0 +1,148 @@
+DOCUMENT_ID: 76537__compendium__d81708117f
+ATLAS_SAMPLE_IDS: 76537
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/76537.pdf
+SOURCE_PDF_SHA256: db8dd4e3c18f5e1057ee3ec45627ea8e8d5724153d5e4d450f4c97ca10bfdb4d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 1-8 ---
+76537
+                                     Ilmenite Basalt
+                                            26.5 grams
+--- mineralogy block 2; lines 15-28 ---
+rake sample from the base of the North Massif – see                                                               17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+    section on 76500. It has a rounded surface with a nice                                                              Catalog. pp. 447.
+    large zap pit.
+                                                        Gibson E.K., Usselman T.M. and Morris R.V. (1976a) Sulfur
+   Petrography                                               in the Apollo 17 basalts and their source regions. Proc. 7th
+   This fine-grained basalt has a variolitic texture with  Lunar Sci. Conf. 1491-1505.
+    olivine phenocrysts and long needles of ilmenite (figure
+                                                  Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.    2). Brown pyroxene is intergrown with plagioclase in
+                                                               Curator’s Office JSC 26088 pp. 644    radial clusters.
+
+                                                          Nyquist L.E., Bansal B.M. and Wiesmann H. (1975a) Rb-
+   Chemistry                                            Sr ages and initial 87Sr/86Sr for Apollo 17 basalts and KREEP
+   Rhodes et al. (1976) and Wiesmann and Hubbard   basalt 15386. Proc. 6th Lunar Sci. Conf. 1445-1465.
+   (1976) determined the composition of 76537 and other
+--- material block 3; lines 1-36 ---
+76537
+                                     Ilmenite Basalt
+                                            26.5 grams
+
+
+
+
+
+                           Figure 1: Photo of 76537. Cube is 1 cm. S73-19735
+
+
+   Introduction
+                                                   References for 76537   76537 is a typical Apollo 17 mare basalt collected as a
+                                                               Butler P. (1973) Lunar Sample Information Catalog Apollo
+   rake sample from the base of the North Massif – see                                                               17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+    section on 76500. It has a rounded surface with a nice                                                              Catalog. pp. 447.
+    large zap pit.
+                                                        Gibson E.K., Usselman T.M. and Morris R.V. (1976a) Sulfur
+   Petrography                                               in the Apollo 17 basalts and their source regions. Proc. 7th
+   This fine-grained basalt has a variolitic texture with  Lunar Sci. Conf. 1491-1505.
+    olivine phenocrysts and long needles of ilmenite (figure
+                                                  Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.    2). Brown pyroxene is intergrown with plagioclase in
+                                                               Curator’s Office JSC 26088 pp. 644    radial clusters.
+
+                                                          Nyquist L.E., Bansal B.M. and Wiesmann H. (1975a) Rb-
+   Chemistry                                            Sr ages and initial 87Sr/86Sr for Apollo 17 basalts and KREEP
+   Rhodes et al. (1976) and Wiesmann and Hubbard   basalt 15386. Proc. 6th Lunar Sci. Conf. 1445-1465.
+   (1976) determined the composition of 76537 and other
+   mare basalts (table). Gibson et al. (1976) determined  Phinney W.C., Simonds C.H. and Warner J. (1974)
+   the sulfur content (1870 ppm).                            Description, Classification and Inventory of Apollo 17 Rake
+                                                      Samples from Station 6. Curator’s Catalog, pp. 46.
+   Radiogenic age dating
+   Nyquist et al. (1975) reported the Sr isotopes for                                                        76537
+   the bulk sample.                                                                26.5 grams
+
+   Processing
+--- age block 4; lines 26-38 ---
+Chemistry                                            Sr ages and initial 87Sr/86Sr for Apollo 17 basalts and KREEP
+   Rhodes et al. (1976) and Wiesmann and Hubbard   basalt 15386. Proc. 6th Lunar Sci. Conf. 1445-1465.
+   (1976) determined the composition of 76537 and other
+   mare basalts (table). Gibson et al. (1976) determined  Phinney W.C., Simonds C.H. and Warner J. (1974)
+   the sulfur content (1870 ppm).                            Description, Classification and Inventory of Apollo 17 Rake
+                                                      Samples from Station 6. Curator’s Catalog, pp. 46.
+   Radiogenic age dating
+   Nyquist et al. (1975) reported the Sr isotopes for                                                        76537
+   the bulk sample.                                                                26.5 grams
+
+   Processing
+   There are 2 thin sections of 76537.                                     ,0        ,3    ,1       ,2
+                                                                     21.7 g  PB  1.2 g   3.2 g
+--- references block 5; lines 7-19 ---
+Figure 1: Photo of 76537. Cube is 1 cm. S73-19735
+
+
+   Introduction
+                                                   References for 76537   76537 is a typical Apollo 17 mare basalt collected as a
+                                                               Butler P. (1973) Lunar Sample Information Catalog Apollo
+   rake sample from the base of the North Massif – see                                                               17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+    section on 76500. It has a rounded surface with a nice                                                              Catalog. pp. 447.
+    large zap pit.
+                                                        Gibson E.K., Usselman T.M. and Morris R.V. (1976a) Sulfur
+   Petrography                                               in the Apollo 17 basalts and their source regions. Proc. 7th
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 76537
+
+
+    reference  Rhodes76  Shih75
+    weight
+   SiO2 %    38.25   (a)
+    TiO2      13.05   (a)
+   Al2O3     8.69     (a)
+   FeO       19.6     (a)
+   MnO       0.29     (a)
+   MgO       8.01     (a)
+   CaO       10.67   (a)
+   Na2O      0.4      (a)
+   K2O       0.05     (a) 0.05     (b)
+   P2O5      0.11     (a)
+   S %       0.15     (a)
+   sum
+
+   Sc ppm                83.7     (b)
+   V
+--- material block 2; lines 17-29 ---
+sum
+
+   Sc ppm                83.7     (b)
+   V
+    Cr        2532    (a) 4740    (b)                                Figure 3: Normalized rare-earth-element diagram
+   Co                    20.6     (b)
+                                                                           for 76537 (and soil).    Ni
+   Cu
+   Zn
+   Ga
+   Ge ppb
+   As                                               Rhodes J.M., Hubbard N.J., Wiesmann H., Rodgers K.V.,
+   Se                                            Brannon J.C. and Bansal B.M. (1976a) Chemistry,
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 76537
+
+
+    reference  Rhodes76  Shih75
+    weight
+   SiO2 %    38.25   (a)
+    TiO2      13.05   (a)
+   Al2O3     8.69     (a)
+   FeO       19.6     (a)
+   MnO       0.29     (a)
+--- references block 4; lines 65-74 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm                0.45     (b)
+   U ppm                 0.13     (b)
+    technique:  (a) XRF, (b) INAA
+
+Lunar Sample Compendium
+C Meyer 2012

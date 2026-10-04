@@ -1,0 +1,111 @@
+DOCUMENT_ID: 14309__compendium__2f3e3bce17
+ATLAS_SAMPLE_IDS: 14309
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14309.pdf
+SOURCE_PDF_SHA256: 319e4d8120362ea2b4ba5fc97428b649d67d8566fba43e29bf8edc8c864e9d17
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 8-27 ---
+Figure 1: Two views of 14309. Sample is 5 cm long. Photos copied from Polaroids.
+
+
+   Introduction
+   14309 is a grab sample, collected somewhere along the traverse to Cone Crater (location unknown).  It is a
+   rounded vitric matrix breccia and has not been studied. There are glass-lined impact pits on the surface (figure
+    1).
+
+   Petrography
+   Thin sections show the matrix of 14309 is cemented by vesicular glass (figure 2). Chao et al. (19720 and
+   Simonds et al. (1977) would consider this a glass-matrix regolith breccia.
+
+   Vaniman et al. (1981) found the glass had the composition of medium KREEP.
+
+   Chemistry
+   None
+
+   Processing
+   Sample 14309 was returned in weigh bag 1031 with other grab samples from EVA2.
+--- material block 2; lines 1-25 ---
+14309
+                                   Regolith Breccia
+                                            42.4 grams
+
+
+
+
+
+                  Figure 1: Two views of 14309. Sample is 5 cm long. Photos copied from Polaroids.
+
+
+   Introduction
+   14309 is a grab sample, collected somewhere along the traverse to Cone Crater (location unknown).  It is a
+   rounded vitric matrix breccia and has not been studied. There are glass-lined impact pits on the surface (figure
+    1).
+
+   Petrography
+   Thin sections show the matrix of 14309 is cemented by vesicular glass (figure 2). Chao et al. (19720 and
+   Simonds et al. (1977) would consider this a glass-matrix regolith breccia.
+
+   Vaniman et al. (1981) found the glass had the composition of medium KREEP.
+
+   Chemistry
+   None
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 1-11 ---
+Twedell D., Feight S., Carlson I. and Meyer C. (1978)
+       C Meyer   14309                                Lithologic maps of selected Apollo 14 breccia samples.
+         2011     42.4 grams                           Curators Office. JSC 13842
+
+                                                    Vaniman D.T. (1990)  Glass variants and multiple HASP
+           ,0       ,1    ,5     ,2         ,3        ,6           trends in Apollo 14 regolith breccias.  Proc. 20th Lunar
+        39 g   PB  PB   1.3 g     0.8 g    0.2 g        Planet. Sci. Conf. 209-217.
+
+                        ,4     ,7                               Warner J.L. (1972) Metamophism of Apollo 14 breccias.
+                TS   TS   ,9     ,8                        Proc. 3rd Lunar Sci. Conf. 623-643.
+                    PB    0.3 g
+--- material block 2; lines 1-31 ---
+Twedell D., Feight S., Carlson I. and Meyer C. (1978)
+       C Meyer   14309                                Lithologic maps of selected Apollo 14 breccia samples.
+         2011     42.4 grams                           Curators Office. JSC 13842
+
+                                                    Vaniman D.T. (1990)  Glass variants and multiple HASP
+           ,0       ,1    ,5     ,2         ,3        ,6           trends in Apollo 14 regolith breccias.  Proc. 20th Lunar
+        39 g   PB  PB   1.3 g     0.8 g    0.2 g        Planet. Sci. Conf. 209-217.
+
+                        ,4     ,7                               Warner J.L. (1972) Metamophism of Apollo 14 breccias.
+                TS   TS   ,9     ,8                        Proc. 3rd Lunar Sci. Conf. 623-643.
+                    PB    0.3 g
+                                                          Williams R.J. (1972) The lithification of metamorphism of
+                                 ,10                               lunar breccias. Earth Planet. Sci. Lett. 16, 250-256.
+                        TS
+
+                                                            Wilshire H.G. and Jackson E.D. (1972)  Petrology and   References for 14309
+                                                                  stratigraphy of the Fra Mauro Formation at the Apollo 14    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+                                                                                site. U.S. Geol. Survey Prof. Paper 785.   Samples. Curators Office. JSC 14240
+
+   Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14
+    breccias: General characteristics and classification. Proc.
+     3rd Lunar Sci. Conf. 645-659.
+
+    Jerde E.A., Morris R.V. and Warren P.H. (1990) In quest of
+    lunar regolith breccias of exotic provenance: a uniquely
+    anorthositic sample from the Fra Mauro (Apollo 14)
+    highlands. Earth Planet. Sci. Lett. 98, 90-108.
+
+   LSPET (1971) Preliminary examination of lunar samples
+   from Apollo 14. Science 173, 681-693.
+--- references block 3; lines 10-22 ---
+TS   TS   ,9     ,8                        Proc. 3rd Lunar Sci. Conf. 623-643.
+                    PB    0.3 g
+                                                          Williams R.J. (1972) The lithification of metamorphism of
+                                 ,10                               lunar breccias. Earth Planet. Sci. Lett. 16, 250-256.
+                        TS
+
+                                                            Wilshire H.G. and Jackson E.D. (1972)  Petrology and   References for 14309
+                                                                  stratigraphy of the Fra Mauro Formation at the Apollo 14    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+                                                                                site. U.S. Geol. Survey Prof. Paper 785.   Samples. Curators Office. JSC 14240
+
+   Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14
+    breccias: General characteristics and classification. Proc.
+     3rd Lunar Sci. Conf. 645-659.

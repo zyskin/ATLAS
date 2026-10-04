@@ -1,0 +1,205 @@
+DOCUMENT_ID: 61568__compendium__dc25eb25d4
+ATLAS_SAMPLE_IDS: 61568
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61568.pdf
+SOURCE_PDF_SHA256: 9e24e9ceed3b7ed714cc14693ef429b96bf5abc8c6e69cae61ca663fe5ef27e5
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,treatment ===
+--- material block 1; lines 1-26 ---
+61568
+                               Impact Melt Breccia
+                                            19.3 grams
+
+
+
+
+
+                            Figure 1: Photo of 61568. Scale marked in mm. S72-55350
+
+   Introduction
+   61568 is an impact melt breccia that was collected as a
+   rake sample from near Plum Crater – see section on
+    soil  61500.  It has two distinct textures (basalt and
+    poikilitic), separated by a sharp boundary.
+
+   Petrography
+   Warner et al. (1973) studied the basaltic portion, while
+   Simonds et al. (1973) reported on the poikilitic portion
+    (figure 2). The pyroxenes are typical of basalt (figure
+    3). Gooley et al. (1973) found about 5 % Ni in metallic
+    iron grains. No rust
+
+   Other Studies
+   The magnetic properties of 61568 were reported by        Figure 2: Photomicrograph of 61568,4 showing
+   Pearce and Simonds (1976).                                sharp contact between two different lithologies.
+--- treatment block 2; lines 9-29 ---
+Figure 1: Photo of 61568. Scale marked in mm. S72-55350
+
+   Introduction
+   61568 is an impact melt breccia that was collected as a
+   rake sample from near Plum Crater – see section on
+    soil  61500.  It has two distinct textures (basalt and
+    poikilitic), separated by a sharp boundary.
+
+   Petrography
+   Warner et al. (1973) studied the basaltic portion, while
+   Simonds et al. (1973) reported on the poikilitic portion
+    (figure 2). The pyroxenes are typical of basalt (figure
+    3). Gooley et al. (1973) found about 5 % Ni in metallic
+    iron grains. No rust
+
+   Other Studies
+   The magnetic properties of 61568 were reported by        Figure 2: Photomicrograph of 61568,4 showing
+   Pearce and Simonds (1976).                                sharp contact between two different lithologies.
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 61568.                    Di        61568       Hd
+                                                                                                            Warner et al. 1976
+
+    reference  Ryder82
+    weight
+   SiO2 %    44.8    (a)
+    TiO2
+   Al2O3     27.8    (a)
+   FeO       3.9     (a)
+   MnO
+   MgO       5.1     (a)
+   CaO       15.2    (a)
+                                              En                                          Fs   Na2O     0.51    (a)
+   K2O       0.24
+   P2O5                                           Fo                                        Fa
+   S %                                                                                         compiled by C Meyer
+   sum      4
+                                                                 Figure 3: Olivine and pyroxene composition of
+   Sc ppm    7.7     (a)                                                 basaltic portion of 61568 (Warner et al. 1973).
+   V
+--- mineralogy block 2; lines 12-24 ---
+CaO       15.2    (a)
+                                              En                                          Fs   Na2O     0.51    (a)
+   K2O       0.24
+   P2O5                                           Fo                                        Fa
+   S %                                                                                         compiled by C Meyer
+   sum      4
+                                                                 Figure 3: Olivine and pyroxene composition of
+   Sc ppm    7.7     (a)                                                 basaltic portion of 61568 (Warner et al. 1973).
+   V
+    Cr
+   Co       44      (a)
+    Ni
+   Cu                                                C Meyer   Zn                                               61568                                                              2012   Ga
+--- age block 3; lines 18-30 ---
+Figure 3: Olivine and pyroxene composition of
+   Sc ppm    7.7     (a)                                                 basaltic portion of 61568 (Warner et al. 1973).
+   V
+    Cr
+   Co       44      (a)
+    Ni
+   Cu                                                C Meyer   Zn                                               61568                                                              2012   Ga
+   Ge ppb                                                    19.3 grams
+   As
+   Se
+   Rb
+    Sr                                                   ,0        ,1     ,10
+   Y                                                PB   1 g    Zr                                     17 g
+--- references block 4; lines 1-10 ---
+Table 1. Chemical composition of 61568.                    Di        61568       Hd
+                                                                                                            Warner et al. 1976
+
+    reference  Ryder82
+    weight
+   SiO2 %    44.8    (a)
+    TiO2
+   Al2O3     27.8    (a)
+   FeO       3.9     (a)
+   MnO
+--- references block 5; lines 62-71 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm
+   U ppm
+    technique:  (a) preliminary data
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 4; CATEGORIES: age,material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 17-29 ---
+LSPET (1972c) Preliminary examination of lunar samples.
+    In Apollo 16 Preliminary Science Report. NASA SP-315, 7-
+   1—7-58.
+
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.
+
+    Phinney W. and Lofgren G. (1973) Description, classification
+    and inventory of Apollo 16 rake samples from stations 1, 4
+    and 13. Curators Office.
+--- material block 2; lines 1-13 ---
+References for 61568
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16.  Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+    Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization
+    history of metal particles in Apollo 16 rake samples. Proc.
+      4th Lunar Sci. Conf. 799-810.
+
+    Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+     in Apollo 16 highland rocks: Manifestations of volatile-
+    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    259.
+--- material block 3; lines 21-33 ---
+Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.
+
+    Phinney W. and Lofgren G. (1973) Description, classification
+    and inventory of Apollo 16 rake samples from stations 1, 4
+    and 13. Curators Office.
+
+    Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Ryder G. and Seymour R. (1982) Chemistry of Apollo 16
+--- age block 4; lines 1-12 ---
+References for 61568
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16.  Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+    Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization
+    history of metal particles in Apollo 16 rake samples. Proc.
+      4th Lunar Sci. Conf. 799-810.
+
+    Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+     in Apollo 16 highland rocks: Manifestations of volatile-
+    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+--- treatment block 5; lines 16-28 ---
+and chemical description. Science 179, 23-34.
+
+   LSPET (1972c) Preliminary examination of lunar samples.
+    In Apollo 16 Preliminary Science Report. NASA SP-315, 7-
+   1—7-58.
+
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.
+
+    Phinney W. and Lofgren G. (1973) Description, classification
+    and inventory of Apollo 16 rake samples from stations 1, 4
+    and 13. Curators Office.
+--- references block 6; lines 1-7 ---
+References for 61568
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16.  Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+    Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization
+    history of metal particles in Apollo 16 rake samples. Proc.

@@ -1,0 +1,217 @@
+DOCUMENT_ID: 12007__compendium__898f4bc420
+ATLAS_SAMPLE_IDS: 12007
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/12007.pdf
+SOURCE_PDF_SHA256: 9eb77184a54152c28ec1a45802a3e4e9e6e474d0e7f0c4f00a9268acad993344
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 3-35 ---
+65.2 grams
+
+
+
+
+
+          Figure 1: Freshly-broken, hackly surface of 12007 showing elongate pyroxene crystal. NASA
+          photo# S76-25877. Edge of cube at top is 1 cm.
+
+   Introduction
+   12007 is a coarse-grained pigeonite basalt (figue 1).     Plagioclase:  Baldridge et al. (1979) report
+                                                           plagioclase composition ranging An92-80, with the
+   Petrography                                       average An84.
+   Lunar basalt 12007 is a relatively coarse-grained
+                                                                 Silica: Both tridymite (large laths) and cristobalite   pigeonite basalt (“microgabbro”) with about 15 %
+                                                                         (interstitial) are present.   zoned pyroxene phenocrysts set in ophitic to variolitic
+   groundmass of plagioclase, pyroxene, ilmenite and
+    cristobalite with minor ulvöspinel, troilite, metallic
+    iron, fayalite, tranquillityite, apatite and two immiscible
+    glasses (Baldridge et al. 1979). The groundmass is
+    relatively coarse-grained (~1 mm) in this rock (figure      Mineralogical Mode for 12007
+    2). Pyroxene phenocrysts range up to 3.2 mm in length                        Neal et           Baldridge
+   and are extensively zoned. Ilmenite occurs as irregular                                   al. 1994             et al. 1979
+                                                                         Olivine          0
+    plates about 1 mm in size.                                                                  Pyroxene         48.2              48.2
+                                                                           Plagioclase       39.8              39.8
+   Mineralogy                                                       Ilmenite           2.9             4
+   Pyroxene: The composition of pyroxene in 12007 is       Chromite +Usp    0.6                0.2
+                                                                         mesostasis         0.4                0.1
+   given in Baldridge et al. (1979)(figure 3).                                                                                   “silica”            7.3                7.3
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-29 ---
+12007
+                                     Pigeonite Basalt
+                                            65.2 grams
+
+
+
+
+
+          Figure 1: Freshly-broken, hackly surface of 12007 showing elongate pyroxene crystal. NASA
+          photo# S76-25877. Edge of cube at top is 1 cm.
+
+   Introduction
+   12007 is a coarse-grained pigeonite basalt (figue 1).     Plagioclase:  Baldridge et al. (1979) report
+                                                           plagioclase composition ranging An92-80, with the
+   Petrography                                       average An84.
+   Lunar basalt 12007 is a relatively coarse-grained
+                                                                 Silica: Both tridymite (large laths) and cristobalite   pigeonite basalt (“microgabbro”) with about 15 %
+                                                                         (interstitial) are present.   zoned pyroxene phenocrysts set in ophitic to variolitic
+   groundmass of plagioclase, pyroxene, ilmenite and
+    cristobalite with minor ulvöspinel, troilite, metallic
+    iron, fayalite, tranquillityite, apatite and two immiscible
+    glasses (Baldridge et al. 1979). The groundmass is
+    relatively coarse-grained (~1 mm) in this rock (figure      Mineralogical Mode for 12007
+    2). Pyroxene phenocrysts range up to 3.2 mm in length                        Neal et           Baldridge
+   and are extensively zoned. Ilmenite occurs as irregular                                   al. 1994             et al. 1979
+                                                                         Olivine          0
+    plates about 1 mm in size.                                                                  Pyroxene         48.2              48.2
+                                                                           Plagioclase       39.8              39.8
+   Mineralogy                                                       Ilmenite           2.9             4
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,mineralogy ===
+--- chemistry block 1; lines 8-29 ---
+A11
+                                                                                                     10
+
+
+                                                                                                      8
+                                             TiO2
+                                                                                                      6
+                                                                    12007
+    En                                          Fs              4                                 A12
+                                                                                                      2                        A15
+     Fo                                        Fa
+
+             compiled by C Meyer                                                                        0
+                                                                                                        0                5                10               15               20
+         Figure 3: Pyroxene composition for 12007                                              MgO
+          (adapted from Baldridge et al. 1979).                                                                  Figure 4: Composition of 12007 compared with
+                                                                            that of other lunar basalts.
+--- mineralogy block 2; lines 17-39 ---
+En                                          Fs              4                                 A12
+                                                                                                      2                        A15
+     Fo                                        Fa
+
+             compiled by C Meyer                                                                        0
+                                                                                                        0                5                10               15               20
+         Figure 3: Pyroxene composition for 12007                                              MgO
+          (adapted from Baldridge et al. 1979).                                                                  Figure 4: Composition of 12007 compared with
+                                                                            that of other lunar basalts.
+
+
+
+
+                                                                                                  1000
+                                                                                     12007
+    Fayalite:  Fayalite occurs as intergrowths with
+    cristobalite or high-K glass. The intergrowth with          100
+    cristobalite may be due to breakdown of pyroxferroite
+    (Baldridge et al. 1979).                                                            10
+
+                                                                                 sample/
+    Tranquillityite:  Tranquillityite forms fine-grained,    chondrite
+    acicular aggregates < 1 micron in size.                                      1
+--- age block 3; lines 39-52 ---
+acicular aggregates < 1 micron in size.                                      1
+
+   Chemistry                                                                                           0.1
+                                                                           Ce    Nd     Eu     Tb    Ho    Tm     Lu   Rhodes et al. (1977) determined the chemical              La      Pr    Sm    Gd     Dy      Er     Yb
+    composition (figures 4 and 5).                                                                  Figure 5: Normalized rare-earth-element diagram
+                                                                            for 12007 (data from Rhodes et al. 1977).
+   Radiogenic age dating
+   Not dated.
+                                                             12007
+                                                             65 g
+             List of Photo #s for 12007
+             S69-61788 – 61810      B & W mug
+             S69-63134 – 63157 color mug                                     ,0                                     ,15                                                                                              ,5       ,6         ,8
+             S70-37331 – 37336      B & W                       47 g                        PB
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-18 ---
+Table 1. Chemical composition of 12007.      References for 12007
+                                                            Baldridge W.S., Beaty D.W., Hill S.M.R. and Albee A.L.
+    reference  Rhodes77  Baldridge79  Neal2001                                                            (1979) The petrology of the Apollo 12 pigeonite basalt suite.    weight
+   SiO2 %    46.42   (c ) 48.03    (d)                          Proc. 10th Lunar Planet. Sci. Conf. 141-179.
+    TiO2       3.9      (c ) 3.82      (d)
+   Al2O3     11.28   (c ) 12.13    (d)
+   FeO       19.05   (c ) 17.85    (d)                       James O.B. and Wright T.L. (1972) Apollo 11 and 12 mare
+   MnO      0.28    (c ) 0.22      (d)                              basalts and gabbros: Classification, compositional variations
+   MgO      5.86    (c ) 5.67      (d)
+   CaO       11.52   (c ) 12.07    (d)                        and possible petrogenetic relations.  Geol. Soc. Am. Bull.
+   Na2O     0.32     (a)  0.4       (d)                            83, 2357-2382.
+   K2O       0.08    (c ) 0.04      (d)
+   P2O5      0.1      (c ) 0.08      (d)
+   S %       0.1      (c ) 0.12      (d)                   LSPET (1970) Preliminary examination of lunar samples
+   sum                                                from Apollo 12. Science 167, 1325-1339.
+
+   Sc ppm    52.3     (a)             56       (e)
+   V                              152     (e)              Neal C.R. (2001)   Interior of the moon: The presence of
+--- mineralogy block 2; lines 34-46 ---
+Rh
+                                                                     crustal contamination. Meteoritics 29, 349-361.   Pd ppb
+   Ag ppb
+   Cd ppb                                                Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+     In ppb
+   Sn ppb                                           Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+   Sb ppb                                                mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+    Te ppb
+   Cs ppm                            0.05     (e)               475-540.
+   Ba       91       (b)             90       (e)
+   La                                 8.26     (e)
+                                                    Rhodes J.M., Blanchard D.P., Dungan M.A., Brannon J.C.,   Ce        23.6     (a)              22.7     (e)
+    Pr                                   3.5      (e)              and Rodgers K.V. (1977)  Chemistry of Apollo 12 mare
+--- material block 3; lines 1-9 ---
+Table 1. Chemical composition of 12007.      References for 12007
+                                                            Baldridge W.S., Beaty D.W., Hill S.M.R. and Albee A.L.
+    reference  Rhodes77  Baldridge79  Neal2001                                                            (1979) The petrology of the Apollo 12 pigeonite basalt suite.    weight
+   SiO2 %    46.42   (c ) 48.03    (d)                          Proc. 10th Lunar Planet. Sci. Conf. 141-179.
+    TiO2       3.9      (c ) 3.82      (d)
+   Al2O3     11.28   (c ) 12.13    (d)
+   FeO       19.05   (c ) 17.85    (d)                       James O.B. and Wright T.L. (1972) Apollo 11 and 12 mare
+   MnO      0.28    (c ) 0.22      (d)                              basalts and gabbros: Classification, compositional variations
+   MgO      5.86    (c ) 5.67      (d)
+--- material block 4; lines 19-38 ---
+Cr        1980    (a)             2438    (e)
+   Co       26       (a)              31.6     (e)                garnet in the primitive deep lunar mantle. J. Geophys. Res.
+    Ni                                   4.4      (e)                106, 27865-27885.
+   Cu                             18       (e)
+   Zn                             26       (e)
+   Ga                                3.65     (e)              Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-
+   Ge ppb                                                              G. and Schmitt R.A. (1994a) Basalt generation at the Apollo   As
+   Se                                                12 site, Part 1: New data, classification and re-evaluation.
+   Rb                                 1.75     (e)                Meteoritics 29, 334-348.
+    Sr        142     (c )            135     (e)
+   Y        51      (c )            54       (e)
+    Zr        156     (c )            146     (e)              Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-
+   Nb       10      (c )            10       (e)
+   Mo                                0.51     (e)                G. and Schmitt R.A. (1994b) Basalt generation at the Apollo
+   Ru                                               12 site, Part 2: Source heterogeneity, multiple melts and
+   Rh
+                                                                     crustal contamination. Meteoritics 29, 349-361.   Pd ppb
+   Ag ppb
+   Cd ppb                                                Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+     In ppb
+--- references block 5; lines 1-9 ---
+Table 1. Chemical composition of 12007.      References for 12007
+                                                            Baldridge W.S., Beaty D.W., Hill S.M.R. and Albee A.L.
+    reference  Rhodes77  Baldridge79  Neal2001                                                            (1979) The petrology of the Apollo 12 pigeonite basalt suite.    weight
+   SiO2 %    46.42   (c ) 48.03    (d)                          Proc. 10th Lunar Planet. Sci. Conf. 141-179.
+    TiO2       3.9      (c ) 3.82      (d)
+   Al2O3     11.28   (c ) 12.13    (d)
+   FeO       19.05   (c ) 17.85    (d)                       James O.B. and Wright T.L. (1972) Apollo 11 and 12 mare
+   MnO      0.28    (c ) 0.22      (d)                              basalts and gabbros: Classification, compositional variations
+   MgO      5.86    (c ) 5.67      (d)
+--- references block 6; lines 61-70 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm                             1.2      (e)
+   U ppm                             0.31     (e)
+    technique  (a) INAA, (b) IDMS, (c ) XRF, (d) e probe, (e) ICP-MS
+
+Lunar Sample Compendium
+C Meyer 2011

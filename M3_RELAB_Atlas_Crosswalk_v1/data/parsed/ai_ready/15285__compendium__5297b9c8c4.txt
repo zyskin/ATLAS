@@ -1,0 +1,247 @@
+DOCUMENT_ID: 15285__compendium__5297b9c8c4
+ATLAS_SAMPLE_IDS: 15285
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15285.pdf
+SOURCE_PDF_SHA256: 2ad6a52d79bf2ddc0a45493968aa6cbd1de5eac2d2ba822731b77c0f30b9e78e
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+15285
+                                   Regolith Breccia
+                                           264.2 grams
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 2-25 ---
+25
+           20                      Apollo soils
+                                  A15 breccias
+
+           15
+  FeO           15285
+
+           10
+
+
+             5
+
+
+             0
+               0       5       10      15      20      25      30      35
+                     Al2O3
+           Figure 5: Chemical composition of Apollo soils,
+           Apollo 15 breccias and of 15285.
+                                                                  Figure 6: Noramized rare-earth-element diagram
+                                                                            of 15285.
+   Introduction                                              Petrography
+   Samples 15285 – 15288 (and 15268) were all collected                                             Von Engelhardt et al. (1973) found 15285 to consist of
+   from the rim of a small crater at station 6 and returned                                                                        all components of the soils in a fragmental, perhaps
+--- mineralogy block 2; lines 21-32 ---
+Figure 6: Noramized rare-earth-element diagram
+                                                                            of 15285.
+   Introduction                                              Petrography
+   Samples 15285 – 15288 (and 15268) were all collected                                             Von Engelhardt et al. (1973) found 15285 to consist of
+   from the rim of a small crater at station 6 and returned                                                                        all components of the soils in a fragmental, perhaps
+    in the same bag. They are breccia fragments from the                                                              partly glassy matrix and contains, besides ophitic and
+   same location as 15265 (Swann et al. 1972).                                                                intersertal basalts, plagioclase breccias, troctolites,
+                                                                 noritic fragments, glass and individual mineral grains.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 20-32 ---
+Apollo 15 breccias and of 15285.
+                                                                  Figure 6: Noramized rare-earth-element diagram
+                                                                            of 15285.
+   Introduction                                              Petrography
+   Samples 15285 – 15288 (and 15268) were all collected                                             Von Engelhardt et al. (1973) found 15285 to consist of
+   from the rim of a small crater at station 6 and returned                                                                        all components of the soils in a fragmental, perhaps
+    in the same bag. They are breccia fragments from the                                                              partly glassy matrix and contains, besides ophitic and
+   same location as 15265 (Swann et al. 1972).                                                                intersertal basalts, plagioclase breccias, troctolites,
+                                                                 noritic fragments, glass and individual mineral grains.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 15285.
+
+
+    reference   Taylor73            O’Kelley72  Christian76   Gros76 Hughes73
+    weight        total    black
+   SiO2 %     45.6    46.7     (a)              45.7      (c )
+    TiO2        1.34    1.31     (a)              1.56      (c )
+   Al2O3      15.2    15.7     (a)              16.6      (c )
+   FeO       15      12.9     (a)              12.8      (c )
+   MnO        0.17              (a)              0.18      (c )
+   MgO        11.6    11.4     (a)             11        (c )
+   CaO        10.3    10.8     (a)              10.8      (c )
+   Na2O       0.44    0.38     (a)              0.46      (c )
+   K2O                0.15     (a)  0.19     (b)  0.27      (c )
+   P2O5                                       0.26      (c )
+   S %
+   sum
+
+   Sc ppm    17     19       (a)            24        (d)
+   V          102    98       (a)            68        (d)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 15285.
+
+
+    reference   Taylor73            O’Kelley72  Christian76   Gros76 Hughes73
+    weight        total    black
+   SiO2 %     45.6    46.7     (a)              45.7      (c )
+    TiO2        1.34    1.31     (a)              1.56      (c )
+   Al2O3      15.2    15.7     (a)              16.6      (c )
+   FeO       15      12.9     (a)              12.8      (c )
+   MnO        0.17              (a)              0.18      (c )
+--- references block 3; lines 65-74 ---
+Os ppb                                                     6.7      6.5      (e)
+      Ir ppb                                                      5.2      6.7      (e)
+    Pt ppb
+   Au ppb                                                   2.25     3.1      (e)
+   Th ppm     3.5     4.2      (a)  3.4      (b)
+   U ppm      0.81    1.03     (a)  0.93     (b)               0.98               (e)
+    technique:  (a) SSMS, (b) radiation count., (c ) wet, (d) es, (e) RNAA
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 26-38 ---
+of frothy, vesicular glass and figure 4 shows a seriate
+    grain size distribution.
+
+   Chemistry
+   O’Kelley et al. (1972), Taylor et al. (1973), Christian
+     et al (1976), Gros et al. (1976) and Hughes et al. (1973)
+    reported the chemical composition (figures 5 and 6).
+
+   Processing
+    15285, 15286, 15287, 15288, 15289 and also 15268
+   were returned together in documented bag 192 and may
+   be pieces of the same material.
+--- mineralogy block 2; lines 16-32 ---
+,55
+
+
+                                                                                            ,59
+                                                                 TS
+   They observed a mafic mineral to plagioclase ratio of
+    1:2.
+
+    Figure 1 shows this breccia fragment to have a region
+    of frothy, vesicular glass and figure 4 shows a seriate
+    grain size distribution.
+
+   Chemistry
+   O’Kelley et al. (1972), Taylor et al. (1973), Christian
+     et al (1976), Gros et al. (1976) and Hughes et al. (1973)
+    reported the chemical composition (figures 5 and 6).
+--- material block 3; lines 19-33 ---
+,59
+                                                                 TS
+   They observed a mafic mineral to plagioclase ratio of
+    1:2.
+
+    Figure 1 shows this breccia fragment to have a region
+    of frothy, vesicular glass and figure 4 shows a seriate
+    grain size distribution.
+
+   Chemistry
+   O’Kelley et al. (1972), Taylor et al. (1973), Christian
+     et al (1976), Gros et al. (1976) and Hughes et al. (1973)
+    reported the chemical composition (figures 5 and 6).
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 31-43 ---
+E. (1976) Composition of the projectiles that bombarded
+    the lunar highlands. Proc. 7th Lunar Sci. Conf. 2403-2425.
+                                                Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+                                                         M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+   Hughes T.C., Keays R.R. and Lovering J.F. (1973)
+                                                              K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+    Siderophile and volatile trace elements in Apollo 14, 15 and
+                                                                 G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+   16 rocks and fines: Evidence for extralunar component and
+                                                           Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary
+    Tl-, Au- and Ag-enriched rocks in the ancient lunar crust
+                                                         Geologic Investigation of the Apollo 15 landing site.  In
+    (abs). Lunar Sci. IV, 400-402. Lunar Planetary Institute,
+--- material block 2; lines 1-30 ---
+References for 15285                            Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+    Best J.B. and Minkin J.A. (1972) Apollo 15 glasses of impact   carbon contents of Apollo 15 and 16 lunar samples. Proc.
+    origin. In The Apollo 15 Lunar Samples, 34-39. Lunar    4th Lunar Sci. Conf. 1613-1923.
+    Planetary Institute, Houston.
+                                                        O’Kelley G.D., Eldridge J.S., Northcutt K.J. and Schonfeld
+   Bogard D.D. and Nyquist L.A. (1972) Noble gas studies on   E. (1972c)  Primordial radionuclides and cosmogenic
+    regolith materials from Apollo 14 and 15. Proc. 3rd Lunar   radionuclides in lunar samples from Apollo 15.  Proc. 3rd
+    Sci. Conf. 1797-1819.                                Lunar Sci. Conf. 1659-1670.
+
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’  Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+    Office, MSC 03209                                     volumes). Curatoial Branch Pub. # 72, JSC#20787
+
+    Christian R.P., Berman S., Dwornik E.J., Rose H.J. and  Ryder G. and Sherman S.B. (1989) The Apollo 15 Coarse
+   Schnepfe M.M. (1976) Composition of some Apollo 14, 15   Fines. Curators Office #81, JSC#24035
+   and 16 lunar breccias and two Apollo 15 fines (abs). Lunar
+    Sci. VII, 138-140. Lunar Planetary Institute, Houston.     Simon S.B., Papike J.J., Grosselin D.C. and Laul J.C. (1986)
+                                                            Petrology of the Apollo 15 regolith breccias.  Geochim.
+   von Engelhardt W., Arndt J. and Schneider H. (1973) Apollo  Cosmochim. Acta 50, 2675-2691.
+    15: Evolution of the regolith and origin of glasses. Proc. 4th
+   Lunar Sci. Conf. 239-249.                                                             Sutton R.L., Hait M.H., Larson K.B., Swann G.A., Reed V.S.
+                                                      and Schaber G.G. (1972)  Documentation of Apollo 15
+   Gleadow A.J.W., LeMaitre R.W., Sewell D.K.B. and                                                            samples. Interagency report: Astrogeology 47. USGS
+   Lovering J.F. (1974)  Chemical discrimination of
+    petrographically defined clast groups in Apollo 14 and 15
+                                                 Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+    lunar breccias. Chem. Geology 14, 39-61.
+                                                               G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971)
+                                                             Preliminary description of Apollo 15 sample environments.
+   Gros J., Takahashi H., Hertogen J., Morgan J.W. and Anders
+                                                             U.S.G.S. Interagency report: 36. pp219 with maps
+--- material block 3; lines 49-70 ---
+Taylor S.R., Gorton M., Muir P., Nance W., Rudowski R.
+    description. Science 175, 363-375.
+                                                       and Ware N. (1972b) Composition of the lunar highlands II
+                                                   The Apennine Front.  In The Apollo 15 Lunar Samples,
+   McKay D.S., Morris R.V. and Wentworth S.J. (1984)
+                                                          262-264. Lunar Planetary Institute, Houston.
+    Maturity of regolith breccias as revealed by ferromagnetic
+   and petrographic indicies (abs). Lunar Planet. Sci. XV, 530-
+                                                       Wentworth S.J. and McKay D.S. (1984) Density and porosity
+    531. Lunar Planetary Institute, Houston.
+                                                                  calculations for Apollo 15 and 16 regolith breccias (abs).
+                                                      Lunar Planet Sci. XV, 906-907. Lunar Planetary Institute,
+   McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+                                                          Houston.
+   Wentworth S.J. and Johnson P. (1989) Apollo 15 regolith
+    breccias: Window to a KREEP regolith. Proc. 19th Lunar
+    Sci. Conf. 19-41. Lunar Planetary Institute, Houston.
+
+   Moore C.B., Lewis C.F., and Gibson E.K. (1972) Carbon
+   and nitrogen in Apollo 15 lunar samples. In The Apollo 15
+   Lunar Samples (Chamberlain J.W. and Watkins C., eds.),
+   316-318. The Lunar Science Institute, Houston.
+--- treatment block 4; lines 49-61 ---
+Taylor S.R., Gorton M., Muir P., Nance W., Rudowski R.
+    description. Science 175, 363-375.
+                                                       and Ware N. (1972b) Composition of the lunar highlands II
+                                                   The Apennine Front.  In The Apollo 15 Lunar Samples,
+   McKay D.S., Morris R.V. and Wentworth S.J. (1984)
+                                                          262-264. Lunar Planetary Institute, Houston.
+    Maturity of regolith breccias as revealed by ferromagnetic
+   and petrographic indicies (abs). Lunar Planet. Sci. XV, 530-
+                                                       Wentworth S.J. and McKay D.S. (1984) Density and porosity
+    531. Lunar Planetary Institute, Houston.
+                                                                  calculations for Apollo 15 and 16 regolith breccias (abs).
+                                                      Lunar Planet Sci. XV, 906-907. Lunar Planetary Institute,
+   McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+--- references block 5; lines 1-7 ---
+References for 15285                            Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+    Best J.B. and Minkin J.A. (1972) Apollo 15 glasses of impact   carbon contents of Apollo 15 and 16 lunar samples. Proc.
+    origin. In The Apollo 15 Lunar Samples, 34-39. Lunar    4th Lunar Sci. Conf. 1613-1923.
+    Planetary Institute, Houston.
+                                                        O’Kelley G.D., Eldridge J.S., Northcutt K.J. and Schonfeld
+   Bogard D.D. and Nyquist L.A. (1972) Noble gas studies on   E. (1972c)  Primordial radionuclides and cosmogenic
+    regolith materials from Apollo 14 and 15. Proc. 3rd Lunar   radionuclides in lunar samples from Apollo 15.  Proc. 3rd

@@ -1,0 +1,48 @@
+DOCUMENT_ID: 15297__compendium__cac91e78b5
+ATLAS_SAMPLE_IDS: 15297
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15297.pdf
+SOURCE_PDF_SHA256: 70437dea1e1ef747bdf797b77391fc31d3da8beccf236828285d7ae4e2d350cc
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,references ===
+--- material block 1; lines 1-8 ---
+15297 – 34.9 grams
+                                   Regolith Breccia
+
+    S71-53380                                               S71-53372                                                                                 ,1                            ,7
+--- material block 2; lines 14-38 ---
+Figure 1 a,b,c,d: Fragments of 15279. Cube is 1 cm.
+
+   Introduction
+   15297 is a collection of regolith breccias from the  LSPET (1972b) Preliminary examination of lunar samples.
+                                                         Apollo 15 Preliminary Science Report. NASA SP-289, 6-   residue of sample container bag #3 – which also
+                                                   1—6-28.   contained large breccia samples 15298 and 15299.
+   They have not been studied.                                           McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+                                                     Wentworth S.J. and Johnson P. (1989) Apollo 15 regolith
+   Petrography                                              breccias: Window to a KREEP regolith. Proc. 19th Lunar
+   Note: the classic studies of Apollo 15 regolith breccias   Sci. Conf. 19-41. Lunar Planetary Institute, Houston.
+   by McKay et al. (1989) and Simon et al. (1986) did
+   not include 15297.                                 Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+                                                           volumes). Curatoial Branch Pub. # 72, JSC#20787
+   Processing
+                                                   Simon S.B., Papike J.J., Grosselin D.C. and Laul J.C. (1986)
+   There are no thin sections of 15297.                                                            Petrology of the Apollo 15 regolith breccias.  Geochim.
+                                                     Cosmochim. Acta 50, 2675-2691.
+   References for 15297
+                                                 Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+                                                                G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)    Office, MSC 03209
+                                                             Preliminary description of Apollo 15 sample environments.
+   LSPET (1972a) The Apollo 15 lunar samples: A preliminary   U.S.G.S. Interagency report: 36. pp219 with maps
+--- references block 3; lines 28-40 ---
+not include 15297.                                 Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+                                                           volumes). Curatoial Branch Pub. # 72, JSC#20787
+   Processing
+                                                   Simon S.B., Papike J.J., Grosselin D.C. and Laul J.C. (1986)
+   There are no thin sections of 15297.                                                            Petrology of the Apollo 15 regolith breccias.  Geochim.
+                                                     Cosmochim. Acta 50, 2675-2691.
+   References for 15297
+                                                 Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+                                                                G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)    Office, MSC 03209
+                                                             Preliminary description of Apollo 15 sample environments.
+   LSPET (1972a) The Apollo 15 lunar samples: A preliminary   U.S.G.S. Interagency report: 36. pp219 with maps
+    description. Science 175, 363-375.

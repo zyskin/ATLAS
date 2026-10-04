@@ -1,0 +1,133 @@
+DOCUMENT_ID: 67617__compendium__67cbd8bdcd
+ATLAS_SAMPLE_IDS: 67617
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67617.pdf
+SOURCE_PDF_SHA256: 8285df676bc7bfafd26642d694eb88090090a0238bef1495484d34ccfb2ab236
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 13-28 ---
+67617 is a moderately coherent impact melt breccia
+                                                                that was collected as a rake sample from the rim of
+                                                 North Ray Crater (NRC) – see section on 67601
+                                                             (figures 1 and 2).  It has zap pits on one surface.
+
+                                             Petrography
+                                             67617 has abundant plagioclase clasts held in a
+                                                          recrystallized, now-poikilitic matrix (Ryder and
+                                            Norman 1980). Steele and Smith (1973) analyzed the
+                                                   pyroxene (figure 4) and the plagioclase An90-97.
+
+                                            Chemistry
+                                            None reported
+
+                                              Radiogenic age dating
+                                         Nope
+--- material block 2; lines 1-26 ---
+67617
+                               Impact Melt Breccia
+                                            14.3 grams
+
+
+
+
+
+                                  Figure 1: Photo of 67617. Scale in mm. S72-51243
+
+
+                                                 Introduction
+                                                67617 is a moderately coherent impact melt breccia
+                                                                that was collected as a rake sample from the rim of
+                                                 North Ray Crater (NRC) – see section on 67601
+                                                             (figures 1 and 2).  It has zap pits on one surface.
+
+                                             Petrography
+                                             67617 has abundant plagioclase clasts held in a
+                                                          recrystallized, now-poikilitic matrix (Ryder and
+                                            Norman 1980). Steele and Smith (1973) analyzed the
+                                                   pyroxene (figure 4) and the plagioclase An90-97.
+
+                                            Chemistry
+                                            None reported
+--- age block 3; lines 21-33 ---
+Norman 1980). Steele and Smith (1973) analyzed the
+                                                   pyroxene (figure 4) and the plagioclase An90-97.
+
+                                            Chemistry
+                                            None reported
+
+                                              Radiogenic age dating
+                                         Nope
+          Figure 2: Map of south rim of NRC, A16.
+                                                 Processing
+                                                   There are two thin sections.
+
+Lunar Sample Compendium
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 3-15 ---
+,0       ,2     ,3
+                                                          14 g   PB  PB
+
+                                                                                                   ,1      ,4
+        Figure 4: Pyroxene and olivine composition of                        TS   TS
+       67617 and other Apollo 16 rake samples as per Steele
+       and Smith (1973).
+
+
+   References for 67617
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+--- mineralogy block 2; lines 34-46 ---
+A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Reimold W.U., Wacker K. and Wanke H. (1985)
+   Composition and evolution of the lunar crust in the Descartes
+    highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+    Res. 90, C449-C506.
+
+    Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    of some Apollo 16 rocks and fines: General petrologic model
+    of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+
+    Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    In Geology of the Apollo 16 area, central lunar highlands.
+    (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+--- material block 3; lines 4-16 ---
+,0       ,2     ,3
+                                                          14 g   PB  PB
+
+                                                                                                   ,1      ,4
+        Figure 4: Pyroxene and olivine composition of                        TS   TS
+       67617 and other Apollo 16 rake samples as per Steele
+       and Smith (1973).
+
+
+   References for 67617
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+--- material block 4; lines 23-35 ---
+In Apollo 16 Preliminary Science Report. NASA SP-315,
+   7-1—7-58.
+
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+   Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+   67515 to 68537:  Sample classification, description and
+    inventory. Curator Catalog, JSC
+
+    Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Reimold W.U., Wacker K. and Wanke H. (1985)
+--- references block 5; lines 8-20 ---
+,1      ,4
+        Figure 4: Pyroxene and olivine composition of                        TS   TS
+       67617 and other Apollo 16 rake samples as per Steele
+       and Smith (1973).
+
+
+   References for 67617
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   and chemical description. Science 179, 23-34.

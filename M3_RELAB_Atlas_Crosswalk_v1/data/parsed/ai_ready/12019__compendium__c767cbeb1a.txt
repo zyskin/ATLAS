@@ -1,0 +1,259 @@
+DOCUMENT_ID: 12019__compendium__c767cbeb1a
+ATLAS_SAMPLE_IDS: 12019
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/12019.pdf
+SOURCE_PDF_SHA256: 8a2d4894532bc5202910e8c5e1bbfccde3adcbc4c3e2ac94df438dbd9ecb6c64
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 9-22 ---
+Figure 1: Photo of 12019 showing a few vesicles. Sample is 7 cm across. NASA S70-48839.
+
+
+
+   Introduction                                Petrography
+   12019 is a porphyritic basalt with high proportion of  According to Baldridge et al. (1979), 12019 has a
+   pigeonite phenocrysts and a few vesicles (figures 1, 2   variolitic texture with abundant small pyroxene
+   and 3).  It has one side that is broken and the other  phenocrysts set in a fine-grained groundmass. 12019
+   rounded with micrometeorite craters on the rounded   is unusual in that  it has many small pyroxene
+   surface (figure 8).  It has not been dated.              phenocrysts instead of a few large ones.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-20 ---
+12019
+                                     Pigeonite Basalt
+                                           462.4 grams
+
+
+
+
+
+             Figure 1: Photo of 12019 showing a few vesicles. Sample is 7 cm across. NASA S70-48839.
+
+
+
+   Introduction                                Petrography
+   12019 is a porphyritic basalt with high proportion of  According to Baldridge et al. (1979), 12019 has a
+   pigeonite phenocrysts and a few vesicles (figures 1, 2   variolitic texture with abundant small pyroxene
+   and 3).  It has one side that is broken and the other  phenocrysts set in a fine-grained groundmass. 12019
+   rounded with micrometeorite craters on the rounded   is unusual in that  it has many small pyroxene
+   surface (figure 8).  It has not been dated.              phenocrysts instead of a few large ones.
+--- age block 3; lines 12-22 ---
+Introduction                                Petrography
+   12019 is a porphyritic basalt with high proportion of  According to Baldridge et al. (1979), 12019 has a
+   pigeonite phenocrysts and a few vesicles (figures 1, 2   variolitic texture with abundant small pyroxene
+   and 3).  It has one side that is broken and the other  phenocrysts set in a fine-grained groundmass. 12019
+   rounded with micrometeorite craters on the rounded   is unusual in that  it has many small pyroxene
+   surface (figure 8).  It has not been dated.              phenocrysts instead of a few large ones.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,mineralogy ===
+--- chemistry block 1; lines 27-39 ---
+also reported by Neal et al. (figure 4). One pyroxene
+    reported by Neal et al. is Wo6 (but this can’t be right).  There are 5 thin sections.
+
+    Plagioclase: Plagioclase laths in the groundmass are
+   39 microns wide (Baldridge et al.) and An93-88.            Mineralogical Mode for 12019
+                                                                                   Neal et           Baldridge
+    Ilmenite: Ilmenite in 12019 has MgO = 0.5 %.                                            al. 1994             et al. 1979
+                                                                         Olivine            2.5                2.5
+                                                                  Pyroxene         58.3              58.5
+   Spinel:  Chromite inclusion in pyroxene have                                                                           Plagioclase       31.9              31.9
+    ulvöspinel rims.                                                    Ilmenite           3.7                3.7
+                                                                  Chromite +Usp    0.3                0.3
+    Iron: Metallic iron grains have Co and Ni (figure 5).        mesostasis         0.3                0.1
+--- mineralogy block 2; lines 2-43 ---
+2a in Neal et al. (1994).
+
+
+
+   Neal et al. (1994) show a picture of the texture of 12019
+   and give mineral analyses.  In an appendix to their
+    paper, they describe corroded olivine phenocrysts with
+    chromite inclusions that are very magnesian. Some
+    olivine phenocrysts are cores to pyroxene phenocrysts
+    (<2 mm). Groundmass includes small (0.6 – 0.05 mm)
+    laths of plagioclase, pyroxene, ilmenite with minute
+    anhedral ulvöspinel, troilite and metal.
+
+   Some of the olivine and pyroxene analyses by Neal et        Figure 3: Photomicrographs of thin section 12019,2
+     al. (1994) indicate that they may have uncovered        showing large skeletal olivine. Field of view is 2.2
+                                                    mm. NASA # S70-50026-027.    cognate xenoliths included within the melt.
+
+   Mineralogy
+    Olivine: Baldridge et al. (1979) report olivine Fo65.5.
+   Neal et al. (1994) report olivine cores as magnesian as  Chemistry
+    Fo88 (but this can’t be right).                     The only chemical analysis is the one by Neal et al.
+                                                          (1994).
+   Pyroxene: Baldridge et al. find that pyroxene are 23%
+   low Ca, 22% augite, 34% medium Fe, 20% high Fe,  Radiogenic age dating
+   and 0.7% ferrohedenbergite. Pyroxene analyses were  Note dated.
+    also reported by Neal et al. (figure 4). One pyroxene
+    reported by Neal et al. is Wo6 (but this can’t be right).  There are 5 thin sections.
+
+    Plagioclase: Plagioclase laths in the groundmass are
+   39 microns wide (Baldridge et al.) and An93-88.            Mineralogical Mode for 12019
+                                                                                   Neal et           Baldridge
+    Ilmenite: Ilmenite in 12019 has MgO = 0.5 %.                                            al. 1994             et al. 1979
+                                                                         Olivine            2.5                2.5
+                                                                  Pyroxene         58.3              58.5
+   Spinel:  Chromite inclusion in pyroxene have                                                                           Plagioclase       31.9              31.9
+    ulvöspinel rims.                                                    Ilmenite           3.7                3.7
+                                                                  Chromite +Usp    0.3                0.3
+    Iron: Metallic iron grains have Co and Ni (figure 5).        mesostasis         0.3                0.1
+                                                                                    “silica”            2.8                2.8
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 3; lines 19-32 ---
+Mineralogy
+    Olivine: Baldridge et al. (1979) report olivine Fo65.5.
+   Neal et al. (1994) report olivine cores as magnesian as  Chemistry
+    Fo88 (but this can’t be right).                     The only chemical analysis is the one by Neal et al.
+                                                          (1994).
+   Pyroxene: Baldridge et al. find that pyroxene are 23%
+   low Ca, 22% augite, 34% medium Fe, 20% high Fe,  Radiogenic age dating
+   and 0.7% ferrohedenbergite. Pyroxene analyses were  Note dated.
+    also reported by Neal et al. (figure 4). One pyroxene
+    reported by Neal et al. is Wo6 (but this can’t be right).  There are 5 thin sections.
+
+    Plagioclase: Plagioclase laths in the groundmass are
+   39 microns wide (Baldridge et al.) and An93-88.            Mineralogical Mode for 12019
+                                                                                   Neal et           Baldridge
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 31-53 ---
+A11
+                                                                                                    10
+
+
+                                                                                                     8
+                                            TiO2
+                                                                                                     6
+
+                                                                                                     4               12019
+                                                                                                                     A12
+                                                                                                     2                        A15
+
+
+                                                                                                     0
+                                                                                                       0                5                10               15               20
+                                              MgO
+        Figure 5: Composition of metallic iron grains in
+                                                               Figure 7: Composition of 12019 compared with        Apollo 12 basalts (from Neal et al. 1994).
+                                                                   other lunar basalts.
+--- mineralogy block 2; lines 1-11 ---
+12019                                             1000
+                Di                   Hd
+              Neal et al. 1994                                                                      12019               analyses
+                                                                                                  100
+                   olivine
+
+               Baldridge
+                 et al. 1971
+
+
+                                                                                                   10
+--- mineralogy block 3; lines 17-29 ---
+En       ?                                               Fs
+                         core                               rim
+
+                                                                                                     Pr                                                                        Sm                                                                                      Gd                                                                                                      Dy                                                                                                                                          Er                                                                                                                       Yb   Fo                                        Fa             0.1    La Ce                                                                                   Nd                                                                                            Eu                                                                                                      Tb                                                                                                      Ho                                                                                              Tm                                                                                                                                    Lu
+          compiled by C Meyer
+                                                               Figure 6: New INAA analyses of 12019 by Neal et         Figure 4: Pyroxene and olivine analyses in 12019
+                                                                                   al. 1994.         (adapted from Neal et al. 1994).
+
+                                                            Lunar Basalts
+                                                                                                    14
+
+                                                                                                             A17
+--- material block 4; lines 13-25 ---
+sample/
+                                                                                        chondrite
+
+                                  ?                                                                           1
+
+   En       ?                                               Fs
+                         core                               rim
+
+                                                                                                     Pr                                                                        Sm                                                                                      Gd                                                                                                      Dy                                                                                                                                          Er                                                                                                                       Yb   Fo                                        Fa             0.1    La Ce                                                                                   Nd                                                                                            Eu                                                                                                      Tb                                                                                                      Ho                                                                                              Tm                                                                                                                                    Lu
+          compiled by C Meyer
+                                                               Figure 6: New INAA analyses of 12019 by Neal et         Figure 4: Pyroxene and olivine analyses in 12019
+                                                                                   al. 1994.         (adapted from Neal et al. 1994).
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-18 ---
+Table 1. Chemical composition of 12019.      References for 12019
+                                                            Baldridge W.S., Beaty D.W., Hill S.M.R. and Albee A.L.
+     reference  Neal94                                                            (1979) The petrology of the Apollo 12 pigeonite basalt suite.     weight     .67 g
+    SiO2 %                                                   Proc. 10th Lunar Planet. Sci. Conf. 141-179.
+    TiO2      3         (a)
+    Al2O3     9.6       (a)
+   FeO       20.61    (a)                                 James O.B. and Wright T.L. (1972) Apollo 11 and 12 mare
+   MnO      0.252    (a)                                          basalts and gabbros: Classification, compositional variations
+   MgO       9.2       (a)
+   CaO       9.1       (a)                                  and possible petrogenetic relations.  Geol. Soc. Am. Bull.
+   Na2O     0.253    (a)                                       83, 2357-2382.
+   K2O      0.053    (a)
+   P2O5
+   S %                                       LSPET (1970) Preliminary examination of lunar samples
+    sum                                                from Apollo 12. Science 167, 1325-1339.
+
+    Sc ppm   53        (a)
+   V        177      (a)                                  Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-
+--- material block 2; lines 1-9 ---
+Table 1. Chemical composition of 12019.      References for 12019
+                                                            Baldridge W.S., Beaty D.W., Hill S.M.R. and Albee A.L.
+     reference  Neal94                                                            (1979) The petrology of the Apollo 12 pigeonite basalt suite.     weight     .67 g
+    SiO2 %                                                   Proc. 10th Lunar Planet. Sci. Conf. 141-179.
+    TiO2      3         (a)
+    Al2O3     9.6       (a)
+   FeO       20.61    (a)                                 James O.B. and Wright T.L. (1972) Apollo 11 and 12 mare
+   MnO      0.252    (a)                                          basalts and gabbros: Classification, compositional variations
+   MgO       9.2       (a)
+--- material block 3; lines 14-32 ---
+S %                                       LSPET (1970) Preliminary examination of lunar samples
+    sum                                                from Apollo 12. Science 167, 1325-1339.
+
+    Sc ppm   53        (a)
+   V        177      (a)                                  Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-
+    Cr        3670     (a)
+   Co        41.5      (a)                                      G. and Schmitt R.A. (1994a) Basalt generation at the Apollo
+     Ni        30        (a)                                12 site, Part 1: New data, classification and re-evaluation.
+   Cu
+                                                                Meteoritics 29, 334-348.    Zn
+   Ga
+   Ge ppb                                                        Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-    As
+    Se                                                        G. and Schmitt R.A. (1994b) Basalt generation at the Apollo
+   Rb                                               12 site, Part 2: Source heterogeneity, multiple melts and
+    Sr        130      (a)
+   Y                                                               crustal contamination. Meteoritics 29, 349-361.
+     Zr
+   Nb
+   Mo
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 12019.      References for 12019
+                                                            Baldridge W.S., Beaty D.W., Hill S.M.R. and Albee A.L.
+     reference  Neal94                                                            (1979) The petrology of the Apollo 12 pigeonite basalt suite.     weight     .67 g
+    SiO2 %                                                   Proc. 10th Lunar Planet. Sci. Conf. 141-179.
+    TiO2      3         (a)
+    Al2O3     9.6       (a)
+   FeO       20.61    (a)                                 James O.B. and Wright T.L. (1972) Apollo 11 and 12 mare
+   MnO      0.252    (a)                                          basalts and gabbros: Classification, compositional variations
+   MgO       9.2       (a)
+--- references block 5; lines 62-72 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm    0.79      (a)
+   U ppm
+     technique  (a) INAA
+
+
+Lunar Sample Compendium
+C Meyer 2011

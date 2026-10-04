@@ -1,0 +1,203 @@
+DOCUMENT_ID: 14270__compendium__ae2d18243f
+ATLAS_SAMPLE_IDS: 14270
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14270.pdf
+SOURCE_PDF_SHA256: e51d6ae2ae71c6ff2d86b6f3fb9ecec09bbaabf96d1826dba9ee6dbbf3537b6a
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 15-27 ---
+Figure 2: Location of comprehensive sample at Apollo 14.
+
+
+   Introduction
+   14270 was collected as part of the “comprehensive
+                                                 Anderson et al. (1972) pictured clasts of rhyolite in   sample” taken near the ALSEP station (figure 2).  It
+                                                14270 and found reaction halos around mineral grains   has glass-lined zap pits on all surfaces (Carlson and
+                                                            indicating high temperature.   Walton 1977).  It has been dated at 3.89 b.y., and has
+   an exposure age longer than the samples from Cone
+                                            Chemistry    Crater.
+                                                 Lindstrom et al. (1972) analyzed 5 randomly (?)
+   Petrography                                         selected regions of 14270 (table 1).
+   Phinney et al. (1975) and Simonds et al. (1977) describe
+--- material block 2; lines 1-8 ---
+14270
+                               Impact melt Breccia
+                                           25.59 grams
+--- material block 3; lines 22-34 ---
+indicating high temperature.   Walton 1977).  It has been dated at 3.89 b.y., and has
+   an exposure age longer than the samples from Cone
+                                            Chemistry    Crater.
+                                                 Lindstrom et al. (1972) analyzed 5 randomly (?)
+   Petrography                                         selected regions of 14270 (table 1).
+   Phinney et al. (1975) and Simonds et al. (1977) describe
+                                              Radiogenic age dating   14270 as a crystalline-matrix breccia.  It is coherent,
+                                                    Alexander and Kahl (1972) obtained an age of 3.89 ±   vuggy, and has a seriate grain size distribution.  It is
+                                                       0.05 b.y. by the Ar39-40 plateau technique (figure 4).    relatively clast-free (figure 3).
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 4; lines 16-34 ---
+Introduction
+   14270 was collected as part of the “comprehensive
+                                                 Anderson et al. (1972) pictured clasts of rhyolite in   sample” taken near the ALSEP station (figure 2).  It
+                                                14270 and found reaction halos around mineral grains   has glass-lined zap pits on all surfaces (Carlson and
+                                                            indicating high temperature.   Walton 1977).  It has been dated at 3.89 b.y., and has
+   an exposure age longer than the samples from Cone
+                                            Chemistry    Crater.
+                                                 Lindstrom et al. (1972) analyzed 5 randomly (?)
+   Petrography                                         selected regions of 14270 (table 1).
+   Phinney et al. (1975) and Simonds et al. (1977) describe
+                                              Radiogenic age dating   14270 as a crystalline-matrix breccia.  It is coherent,
+                                                    Alexander and Kahl (1972) obtained an age of 3.89 ±   vuggy, and has a seriate grain size distribution.  It is
+                                                       0.05 b.y. by the Ar39-40 plateau technique (figure 4).    relatively clast-free (figure 3).
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- references block 5; lines 24-34 ---
+Chemistry    Crater.
+                                                 Lindstrom et al. (1972) analyzed 5 randomly (?)
+   Petrography                                         selected regions of 14270 (table 1).
+   Phinney et al. (1975) and Simonds et al. (1977) describe
+                                              Radiogenic age dating   14270 as a crystalline-matrix breccia.  It is coherent,
+                                                    Alexander and Kahl (1972) obtained an age of 3.89 ±   vuggy, and has a seriate grain size distribution.  It is
+                                                       0.05 b.y. by the Ar39-40 plateau technique (figure 4).    relatively clast-free (figure 3).
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: age,references ===
+--- age block 1; lines 1-14 ---
+Figure 3: Photomicrgraphs of a) thin section
+                        14270,10, b) 14270,9, each about 1.2 cm across.
+
+
+
+   Cosmogenic isotopes and exposure ages
+    Alexander and Kahl (1972) determined a cosmic-ray
+    exposure age of 244 m.y. by the 38Ar technique (figure
+     5). This is a great deal longer than that of the samples
+   from Cone Crater.
+
+   Other Studies
+    Hart et al. (1972) determined the density of cosmic-
+    ray tracks.
+--- references block 2; lines 2-14 ---
+14270,10, b) 14270,9, each about 1.2 cm across.
+
+
+
+   Cosmogenic isotopes and exposure ages
+    Alexander and Kahl (1972) determined a cosmic-ray
+    exposure age of 244 m.y. by the 38Ar technique (figure
+     5). This is a great deal longer than that of the samples
+   from Cone Crater.
+
+   Other Studies
+    Hart et al. (1972) determined the density of cosmic-
+    ray tracks.
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 14270.
+
+
+    reference  Lindstrom72
+    weight    540   497   306   168   296
+   SiO2 %
+    TiO2
+   Al2O3
+   FeO      10.4   11.5   11.9   11.6   11.6    (a)
+   MnO
+   MgO
+   CaO
+   Na2O     0.88   0.82   0.73   0.79   0.8     (a)
+   K2O       0.6    0.43           0.4    0.55    (a)
+   P2O5
+   S %
+   sum
+
+   Sc ppm   19.9   26.5   25.8   26.2   26.3    (a)
+   V
+--- age block 2; lines 16-28 ---
+S %
+   sum
+
+   Sc ppm   19.9   26.5   25.8   26.2   26.3    (a)
+   V
+    Cr       1090  1570  1750  1690  1570   (a)
+   Co        32.4   37.3   38.6   36.4   36.8    (a)                  Figure 5: Method used to determine exposure age of
+    Ni                                                     14270 (Alexander and Kahl (1974).
+   Cu
+   Zn
+   Ga
+   Ge ppb
+   As
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 14270.
+
+
+    reference  Lindstrom72
+    weight    540   497   306   168   296
+   SiO2 %
+    TiO2
+   Al2O3
+   FeO      10.4   11.5   11.9   11.6   11.6    (a)
+   MnO
+--- references block 4; lines 16-28 ---
+S %
+   sum
+
+   Sc ppm   19.9   26.5   25.8   26.2   26.3    (a)
+   V
+    Cr       1090  1570  1750  1690  1570   (a)
+   Co        32.4   37.3   38.6   36.4   36.8    (a)                  Figure 5: Method used to determine exposure age of
+    Ni                                                     14270 (Alexander and Kahl (1974).
+   Cu
+   Zn
+   Ga
+   Ge ppb
+   As
+--- references block 5; lines 65-74 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm
+   U ppm    4.4    2.56                             (a)
+    technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: material,references ===
+--- material block 1; lines 19-31 ---
+38.
+    Anderson A.T., Braziunas T.F., Jacoby J. and Smith J.V.
+    (1972) Thermal and mechanical history of breccias 14306,  Swann G.A., Trask N.J., Hait M.H. and Sutton R.L. (1971a)
+    14063, 14270 and 14321. Proc. 3rd Lunar Sci. Conf. 819-   Geologic setting of the Apollo 14 samples.  Science 173,
+    835.                                                   716-719.
+
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock  Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+    Samples. Curators Office. JSC 14240                    M.H., Holt H.E., Larson K.B., Reed V.S.,
+                                                        Schaber G.G., Sutton R.L., Trask N.J., Ulrich G.E. and
+   Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14   Wilshire H.G. (1977) Geology of the Apollo 14 landing site
+    breccias: General characteristics and classification. Proc.   in the Fra Mauro Highlands. U.S.G.S. Prof. Paper 880.
+     3rd Lunar Sci. Conf. 645-659.
+                                                 Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+--- references block 2; lines 10-22 ---
+,10        ,16   ,17    ,18          ,9001
+                               TS       2 g   0.5 g
+
+
+
+
+   References for 14270
+    Alexander E.C. and Kahl S.B. (1974) 40Ar-39Ar studies of   Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of
+    lunar breccias. Proc. 5th Lunar Sci. Conf. 1353-1373.        the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+                                                               38.
+    Anderson A.T., Braziunas T.F., Jacoby J. and Smith J.V.
+    (1972) Thermal and mechanical history of breccias 14306,  Swann G.A., Trask N.J., Hait M.H. and Sutton R.L. (1971a)
+    14063, 14270 and 14321. Proc. 3rd Lunar Sci. Conf. 819-   Geologic setting of the Apollo 14 samples.  Science 173,

@@ -1,0 +1,406 @@
+DOCUMENT_ID: 67461__compendium__8018a3c4a3
+ATLAS_SAMPLE_IDS: 67461
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67461.pdf
+SOURCE_PDF_SHA256: 0fd3ff9ad0bdf73c64e1d6612e59b4f5b9e4d9f25c3bc88fc48058e1434b5c2f
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+67461
+                                           Soil
+                                      370 grams
+
+
+       “B”
+--- material block 2; lines 18-44 ---
+Boulder B was the largest boulder and 67460 was a
+                                                                    well defined “fillet” of that boulder.
+
+
+
+
+                        House Rock
+
+
+
+
+
+   “B”      67460
+
+
+
+       Figure 2: Two views of sample location of soil 67460
+       from “fillet” of white boulder “B” or rim of North
+      Ray Crater. Top view is close-up of fillet AS16-106-
+       17335. Bottom view is telephoto of astronaut on rim
+                                                               Figure 3: Map of Apollo 16 site showing North Ray
+        of North Ray Crater with House Rock and Smoky Mt.
+                                                                      Crater.
+        in background. AS16-106-17336.
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 22-35 ---
+1981). It was chosen as a “reference soil” for the “lunar
+   highland initiative” (Simon et al. 1981) and is not  Chemistry
+   greatly different from other soil samples from North  Compston et al. (1973), Wanke et al. (1973) and Laul
+  Ray Crater.                                     and Papike (1980) found that 67461 was one of the
+                                              most aluminous lunar soils (figure 5).  This is
+  Petrography                                      probably because of aluminum-rich from the adjacent
+   Lunar soil 67461 has a low maturity index Is/FeO = 25   boulder. Wanke et al. (1973) and Boynton et al.
+   and few agglutinates in the 1000-90 micron separate  (1973) determined the trace element content (figure
+  (Simon et al. 1981). The grain size distribution has   6) and found low Ni.
+   not been reported.
+                                                    Laul and Papike (1980) determined the composition
+   Labotka et al. (1980) and Simon et al. (1981) gives the   of different grain size fraction, finding slightly more
+  mode for different grain size separates of 67461. They  REE in the finest fraction.
+   also determined the composition of mineral and glass
+--- mineralogy block 2; lines 1-21 ---
+Mineralogical Mode for 67461
+                                    Simon et        Labotka et
+                                                    al. 1981           al. 1980
+                                     1000-90        90-20 micron    20-10
+                            Agglutinate        8.5 %            15.7               8.2
+                           Breccia          42
+                           Anorthosite      22
+                            Olivine                              3.1                3.8
+                         Pyroxene          0.5                6.6                9.2
+                             Plagioclase       12.2              61.2              62.6
+                       Opaques          1.1                0.3                0.2
+                            Basalt             0.5
+                           Glass              4.2
+                      Mare glass                                              1.2
+                         Highland glass                       5.8             9
+
+
+  Introduction
+  67461 was collected from the “fillet” of boulder “B”  Walker and Papike (1981) studied the formation of
+  on the rim of North Ray Crater, immediately below   agglutinates, finding more Fe and less Al than the
+  where breccia sample 67455 was collected (Sutton  bulk soil.
+--- mineralogy block 3; lines 28-41 ---
+Lunar soil 67461 has a low maturity index Is/FeO = 25   boulder. Wanke et al. (1973) and Boynton et al.
+   and few agglutinates in the 1000-90 micron separate  (1973) determined the trace element content (figure
+  (Simon et al. 1981). The grain size distribution has   6) and found low Ni.
+   not been reported.
+                                                    Laul and Papike (1980) determined the composition
+   Labotka et al. (1980) and Simon et al. (1981) gives the   of different grain size fraction, finding slightly more
+  mode for different grain size separates of 67461. They  REE in the finest fraction.
+   also determined the composition of mineral and glass
+   grains in the different size fractions (figure 4).         Kerridge et al. (1975a) determined 87 ppm carbon
+                                                 and 30 ppm nitrogen for 67461, but Kerridge et al.
+--- material block 4; lines 1-40 ---
+Mineralogical Mode for 67461
+                                    Simon et        Labotka et
+                                                    al. 1981           al. 1980
+                                     1000-90        90-20 micron    20-10
+                            Agglutinate        8.5 %            15.7               8.2
+                           Breccia          42
+                           Anorthosite      22
+                            Olivine                              3.1                3.8
+                         Pyroxene          0.5                6.6                9.2
+                             Plagioclase       12.2              61.2              62.6
+                       Opaques          1.1                0.3                0.2
+                            Basalt             0.5
+                           Glass              4.2
+                      Mare glass                                              1.2
+                         Highland glass                       5.8             9
+
+
+  Introduction
+  67461 was collected from the “fillet” of boulder “B”  Walker and Papike (1981) studied the formation of
+  on the rim of North Ray Crater, immediately below   agglutinates, finding more Fe and less Al than the
+  where breccia sample 67455 was collected (Sutton  bulk soil.
+   1981). It was chosen as a “reference soil” for the “lunar
+   highland initiative” (Simon et al. 1981) and is not  Chemistry
+   greatly different from other soil samples from North  Compston et al. (1973), Wanke et al. (1973) and Laul
+  Ray Crater.                                     and Papike (1980) found that 67461 was one of the
+                                              most aluminous lunar soils (figure 5).  This is
+  Petrography                                      probably because of aluminum-rich from the adjacent
+   Lunar soil 67461 has a low maturity index Is/FeO = 25   boulder. Wanke et al. (1973) and Boynton et al.
+   and few agglutinates in the 1000-90 micron separate  (1973) determined the trace element content (figure
+  (Simon et al. 1981). The grain size distribution has   6) and found low Ni.
+   not been reported.
+                                                    Laul and Papike (1980) determined the composition
+   Labotka et al. (1980) and Simon et al. (1981) gives the   of different grain size fraction, finding slightly more
+  mode for different grain size separates of 67461. They  REE in the finest fraction.
+   also determined the composition of mineral and glass
+   grains in the different size fractions (figure 4).         Kerridge et al. (1975a) determined 87 ppm carbon
+                                                 and 30 ppm nitrogen for 67461, but Kerridge et al.
+--- treatment block 5; lines 22-40 ---
+1981). It was chosen as a “reference soil” for the “lunar
+   highland initiative” (Simon et al. 1981) and is not  Chemistry
+   greatly different from other soil samples from North  Compston et al. (1973), Wanke et al. (1973) and Laul
+  Ray Crater.                                     and Papike (1980) found that 67461 was one of the
+                                              most aluminous lunar soils (figure 5).  This is
+  Petrography                                      probably because of aluminum-rich from the adjacent
+   Lunar soil 67461 has a low maturity index Is/FeO = 25   boulder. Wanke et al. (1973) and Boynton et al.
+   and few agglutinates in the 1000-90 micron separate  (1973) determined the trace element content (figure
+  (Simon et al. 1981). The grain size distribution has   6) and found low Ni.
+   not been reported.
+                                                    Laul and Papike (1980) determined the composition
+   Labotka et al. (1980) and Simon et al. (1981) gives the   of different grain size fraction, finding slightly more
+  mode for different grain size separates of 67461. They  REE in the finest fraction.
+   also determined the composition of mineral and glass
+   grains in the different size fractions (figure 4).         Kerridge et al. (1975a) determined 87 ppm carbon
+                                                 and 30 ppm nitrogen for 67461, but Kerridge et al.
+--- references block 6; lines 16-28 ---
+Introduction
+  67461 was collected from the “fillet” of boulder “B”  Walker and Papike (1981) studied the formation of
+  on the rim of North Ray Crater, immediately below   agglutinates, finding more Fe and less Al than the
+  where breccia sample 67455 was collected (Sutton  bulk soil.
+   1981). It was chosen as a “reference soil” for the “lunar
+   highland initiative” (Simon et al. 1981) and is not  Chemistry
+   greatly different from other soil samples from North  Compston et al. (1973), Wanke et al. (1973) and Laul
+  Ray Crater.                                     and Papike (1980) found that 67461 was one of the
+                                              most aluminous lunar soils (figure 5).  This is
+  Petrography                                      probably because of aluminum-rich from the adjacent
+   Lunar soil 67461 has a low maturity index Is/FeO = 25   boulder. Wanke et al. (1973) and Boynton et al.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 1-47 ---
+25
+         20                      Apollo soils
+
+
+         15
+ FeO
+
+         10
+
+
+           5
+                                                     67461
+
+           0
+             0       5       10      15      20      25      30      35
+                    Al2O3
+                7
+
+
+                6
+                                                               Figure 6: Normalized rare-earth-element diagram
+                5                                                               for 67461.
+                4                                       67461
+  FeO                                                                                              200
+                3
+                                                                                                         180
+
+                2                                                                                          160
+
+                                                                                                         140
+                1     HB (Ridley et al. 1973)
+                 A16 soil                           C       120
+                0                                                                                          100               24         25        26         27        28         29         30         31   ppm                                                                                    67461
+                            Al2O3                                                   80
+                                                                                                           60
+
+        Figure 5: Composition of 67461 compared with                     40
+         that of other Apollo soils.                                                       20              ?                   Lunar Soils
+                                                                                                                    0
+                                                                                                                      0          20          40          60          80         100         120
+  (1975b) reported only 19 ppm nitrogen for bulk 67460                                                                                    maturity (Is/FeO)
+  (figure 7).
+                                                               Figure 7: Carbon content and maturity index for
+                                                        67461 compared with other Apollo soils.
+  Other Studies
+  Behrmann et al. (1973) measured the density of fossil
+  nuclear tracks in grains from 67461 (figure 8).
+--- material block 2; lines 26-38 ---
+180
+
+                2                                                                                          160
+
+                                                                                                         140
+                1     HB (Ridley et al. 1973)
+                 A16 soil                           C       120
+                0                                                                                          100               24         25        26         27        28         29         30         31   ppm                                                                                    67461
+                            Al2O3                                                   80
+                                                                                                           60
+
+        Figure 5: Composition of 67461 compared with                     40
+         that of other Apollo soils.                                                       20              ?                   Lunar Soils
+--- treatment block 3; lines 35-49 ---
+60
+
+        Figure 5: Composition of 67461 compared with                     40
+         that of other Apollo soils.                                                       20              ?                   Lunar Soils
+                                                                                                                    0
+                                                                                                                      0          20          40          60          80         100         120
+  (1975b) reported only 19 ppm nitrogen for bulk 67460                                                                                    maturity (Is/FeO)
+  (figure 7).
+                                                               Figure 7: Carbon content and maturity index for
+                                                        67461 compared with other Apollo soils.
+  Other Studies
+  Behrmann et al. (1973) measured the density of fossil
+  nuclear tracks in grains from 67461 (figure 8).
+
+  Hintenberger and Weber (1973)  determined the rare
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 67461.
+                                             67460       ave. st. 11
+    reference  Laul80     Wanke73  Compston73  Boynton76   Korotev81
+   weight
+   SiO2 %   45        (d) 45.6    (a) 44.77     (b)              45.1
+   TiO2      0.29      (d) 0.33    (a) 0.37       (b)  0.5       (d)  0.41
+   Al2O3     29.2      (d) 30.2    (a) 28.99     (b) 28.34    (d)  28.9
+   FeO       4.2        (d) 4.32    (a) 4.35       (b) 4.24     (d)  4.2
+  MnO      0.055     (d) 0.054  (a) 0.07       (b) 0.057    (d)  0.056
+  MgO       3.9        (d) 3.95    (a) 4.2        (b) 4.14     (d)  4.3
+  CaO       17.6      (d) 16.94  (a) 16.85     (b) 16.66    (d)  16.5
+   Na2O     0.43      (d) 0.43    (a) 0.44       (b) 0.42     (d)  0.48
+  K2O      0.055     (d) 0.046  (a) 0.06       (b) 0.05     (d)  0.065
+   P2O5                  0.06    (a) 0.05       (b)
+   S %                               0.05       (b)
+   sum
+
+   Sc ppm    7.8        (d) 7.1     (a)               7.8       (d)  7.3
+   V        20        (d)                       17       (d)  18
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 67461.
+                                             67460       ave. st. 11
+    reference  Laul80     Wanke73  Compston73  Boynton76   Korotev81
+   weight
+   SiO2 %   45        (d) 45.6    (a) 44.77     (b)              45.1
+   TiO2      0.29      (d) 0.33    (a) 0.37       (b)  0.5       (d)  0.41
+   Al2O3     29.2      (d) 30.2    (a) 28.99     (b) 28.34    (d)  28.9
+   FeO       4.2        (d) 4.32    (a) 4.35       (b) 4.24     (d)  4.2
+  MnO      0.055     (d) 0.054  (a) 0.07       (b) 0.057    (d)  0.056
+--- references block 3; lines 64-73 ---
+Os ppb
+     Ir ppb                                             2.8       (e)
+    Pt ppb
+   Au ppb                  1.5     (a)               1.6       (e)
+   Th ppm    0.83      (d) 0.6     (a)               0.66     (d)  1
+  U ppm                  0.18    (a)               0.2       (d)  0.27
+    technique:  (a) multitech. (b) XRF, (c ) IDMS, (d) INAA, (e) RNAA
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 9-23 ---
+in Apollo 16 soils and rocks.  Proc. 7th Lunar Sci. Conf.
+  727-742.                                              Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+                                                  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Butler P. (1972) Lunar Sample Information Catalog Apollo   Office, Houston
+  16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+  Catalog. pp. 370.                                        Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                        soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  Compston W., Vernon M.J., Chappell B.W. and Freeman R.  Lunar Sci. Conf. 2287-2297.
+  (1973) Rb-Sr model ages and chemical composition of nine
+  Apollo 16 soils (abs). Lunar Sci. IV, 158.               Nunes P.D. (1975) Pb loss from Apollo 17 glassy samples
+                                                     and Apollo 16 revisited. Proc. 6th Lunar Sci. Conf. 1491-
+  Hintenberger H. and Weber H.W. (1973) Trapped rare gases   1499.
+   in lunar fines and breccias. Proc. 4th Lunar Sci. Conf. 2003-
+  2019.                                                 Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+                                                                    regolith. Rev. Geophys. Space Phys. 20, 761-826.
+--- chemistry block 2; lines 29-41 ---
+Kempa M.J. and Papike J.J. (1980) The Apollo 16 regolith:   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+  Comparative petrology of the >20 micron and 20-10 micron   In Geology of the Apollo 16 area, central lunar highlands.
+   soil fractions, lateral transport and differential volatilization.   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+  Proc. 11th Lunar Planet. Sci. Conf. 1635-1661.
+                                                      Walker R.J. and Papike J.J. (1981a) The relationship of the
+  Kerridge J.F., Kaplan I.R., Petrowski C. and Chang S. (1975)   lunar regolith < 10 micron fraction and agglutinates. Part II:
+  Light element geochemistry of Apollo 16 rocks and soils.  Chemical composition of agglutinate glass as a test of the
+  Geochim. Cosmochim. Acta 39, 137-162.               F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+
+  Labotka T.C., Kempa M.J., White C., Papike J.J. and Laul  Wänke H., Baddenhausen H., Dreibus G., Jagoutz E., Kruse
+   J.C. (1980) The lunar regolith: Comparative petrology of   H., Palme H., Spettel B. and Teschke F. (1973) Multielement
+  the Apollo sites. Proc. 11th Lunar Planet. Sci. Conf. 1285-   analysis of Apollo 15, 16 and 17 samples and the bulk
+  1305.                                                  composition of the moon. Proc. 4th Lunar Sci. Conf. 1461-
+--- mineralogy block 3; lines 29-41 ---
+Kempa M.J. and Papike J.J. (1980) The Apollo 16 regolith:   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+  Comparative petrology of the >20 micron and 20-10 micron   In Geology of the Apollo 16 area, central lunar highlands.
+   soil fractions, lateral transport and differential volatilization.   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+  Proc. 11th Lunar Planet. Sci. Conf. 1635-1661.
+                                                      Walker R.J. and Papike J.J. (1981a) The relationship of the
+  Kerridge J.F., Kaplan I.R., Petrowski C. and Chang S. (1975)   lunar regolith < 10 micron fraction and agglutinates. Part II:
+  Light element geochemistry of Apollo 16 rocks and soils.  Chemical composition of agglutinate glass as a test of the
+  Geochim. Cosmochim. Acta 39, 137-162.               F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+
+  Labotka T.C., Kempa M.J., White C., Papike J.J. and Laul  Wänke H., Baddenhausen H., Dreibus G., Jagoutz E., Kruse
+   J.C. (1980) The lunar regolith: Comparative petrology of   H., Palme H., Spettel B. and Teschke F. (1973) Multielement
+  the Apollo sites. Proc. 11th Lunar Planet. Sci. Conf. 1285-   analysis of Apollo 15, 16 and 17 samples and the bulk
+  1305.                                                  composition of the moon. Proc. 4th Lunar Sci. Conf. 1461-
+--- material block 4; lines 17-49 ---
+(1973) Rb-Sr model ages and chemical composition of nine
+  Apollo 16 soils (abs). Lunar Sci. IV, 158.               Nunes P.D. (1975) Pb loss from Apollo 17 glassy samples
+                                                     and Apollo 16 revisited. Proc. 6th Lunar Sci. Conf. 1491-
+  Hintenberger H. and Weber H.W. (1973) Trapped rare gases   1499.
+   in lunar fines and breccias. Proc. 4th Lunar Sci. Conf. 2003-
+  2019.                                                 Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+                                                                    regolith. Rev. Geophys. Space Phys. 20, 761-826.
+  Horz F., Carrier W.D., Young J.W., Duke C.M., Nagle J.S.
+  and Fryxell R. (1972) Apollo 16 special soils. In Apollo  Simon S.B., Papike J.J. and Laul J.C. (1981) The lunar
+  16 Preliminary Science Report NASA SP315 section 7 -   regolith: Comparative studies of the Apollo and Luna sites.
+  25-54.                                                   Proc. 12th Lunar Planet. Sci. Conf. 371-388.
+
+  Kempa M.J. and Papike J.J. (1980) The Apollo 16 regolith:   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+  Comparative petrology of the >20 micron and 20-10 micron   In Geology of the Apollo 16 area, central lunar highlands.
+   soil fractions, lateral transport and differential volatilization.   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+  Proc. 11th Lunar Planet. Sci. Conf. 1635-1661.
+                                                      Walker R.J. and Papike J.J. (1981a) The relationship of the
+  Kerridge J.F., Kaplan I.R., Petrowski C. and Chang S. (1975)   lunar regolith < 10 micron fraction and agglutinates. Part II:
+  Light element geochemistry of Apollo 16 rocks and soils.  Chemical composition of agglutinate glass as a test of the
+  Geochim. Cosmochim. Acta 39, 137-162.               F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+
+  Labotka T.C., Kempa M.J., White C., Papike J.J. and Laul  Wänke H., Baddenhausen H., Dreibus G., Jagoutz E., Kruse
+   J.C. (1980) The lunar regolith: Comparative petrology of   H., Palme H., Spettel B. and Teschke F. (1973) Multielement
+  the Apollo sites. Proc. 11th Lunar Planet. Sci. Conf. 1285-   analysis of Apollo 15, 16 and 17 samples and the bulk
+  1305.                                                  composition of the moon. Proc. 4th Lunar Sci. Conf. 1461-
+                                                         1481.
+  Laul J.C. and Papike J.J. (1980a) The lunar regolith:
+  Comparative chemistry of the Apollo sites. Proc. 11th Lunar
+  Planet. Sci. Conf. 1307-1340.
+
+  LSPET (1973) The Apollo 16 lunar samples: Petrographic
+  and chemical description. Science 179, 23-34.
+--- age block 5; lines 1-9 ---
+References for 67461.
+  Behrmann C.J., Crozaz G., Drozd R., Hohenberg C., Ralston  Marvin U.B. (1972)  Apollo 16 coarse fines (4-10 mm):
+   C., Walker R. and Yuhas D. (1973b) Cosmic-ray exposure  Sample classification, description and inventory. JSC
+   history of North Ray and South Ray material. Proc. 4th Lunar   Catalog.
+   Sci. Conf. 1957-1974.
+                                                Moore C.B. and Lewis C.F. (1975) Total nitrogen contents
+  Boynton W.V., Chou C.-L., Robinson K.L., Warren P.H. and   of Apollo 15, 16 and 17 lunar fines samples. Lunar Sci. VI,
+  Wasson J.T. (1976) Lithophiles, siderophiles and volatiles   569-571.
+   in Apollo 16 soils and rocks.  Proc. 7th Lunar Sci. Conf.
+--- treatment block 6; lines 8-20 ---
+Wasson J.T. (1976) Lithophiles, siderophiles and volatiles   569-571.
+   in Apollo 16 soils and rocks.  Proc. 7th Lunar Sci. Conf.
+  727-742.                                              Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+                                                  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Butler P. (1972) Lunar Sample Information Catalog Apollo   Office, Houston
+  16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+  Catalog. pp. 370.                                        Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                        soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  Compston W., Vernon M.J., Chappell B.W. and Freeman R.  Lunar Sci. Conf. 2287-2297.
+  (1973) Rb-Sr model ages and chemical composition of nine
+  Apollo 16 soils (abs). Lunar Sci. IV, 158.               Nunes P.D. (1975) Pb loss from Apollo 17 glassy samples
+                                                     and Apollo 16 revisited. Proc. 6th Lunar Sci. Conf. 1491-
+  Hintenberger H. and Weber H.W. (1973) Trapped rare gases   1499.
+--- treatment block 7; lines 28-40 ---
+Kempa M.J. and Papike J.J. (1980) The Apollo 16 regolith:   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+  Comparative petrology of the >20 micron and 20-10 micron   In Geology of the Apollo 16 area, central lunar highlands.
+   soil fractions, lateral transport and differential volatilization.   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+  Proc. 11th Lunar Planet. Sci. Conf. 1635-1661.
+                                                      Walker R.J. and Papike J.J. (1981a) The relationship of the
+  Kerridge J.F., Kaplan I.R., Petrowski C. and Chang S. (1975)   lunar regolith < 10 micron fraction and agglutinates. Part II:
+  Light element geochemistry of Apollo 16 rocks and soils.  Chemical composition of agglutinate glass as a test of the
+  Geochim. Cosmochim. Acta 39, 137-162.               F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+
+  Labotka T.C., Kempa M.J., White C., Papike J.J. and Laul  Wänke H., Baddenhausen H., Dreibus G., Jagoutz E., Kruse
+   J.C. (1980) The lunar regolith: Comparative petrology of   H., Palme H., Spettel B. and Teschke F. (1973) Multielement
+  the Apollo sites. Proc. 11th Lunar Planet. Sci. Conf. 1285-   analysis of Apollo 15, 16 and 17 samples and the bulk
+--- references block 8; lines 1-7 ---
+References for 67461.
+  Behrmann C.J., Crozaz G., Drozd R., Hohenberg C., Ralston  Marvin U.B. (1972)  Apollo 16 coarse fines (4-10 mm):
+   C., Walker R. and Yuhas D. (1973b) Cosmic-ray exposure  Sample classification, description and inventory. JSC
+   history of North Ray and South Ray material. Proc. 4th Lunar   Catalog.
+   Sci. Conf. 1957-1974.
+                                                Moore C.B. and Lewis C.F. (1975) Total nitrogen contents
+  Boynton W.V., Chou C.-L., Robinson K.L., Warren P.H. and   of Apollo 15, 16 and 17 lunar fines samples. Lunar Sci. VI,

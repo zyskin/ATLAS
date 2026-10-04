@@ -1,0 +1,93 @@
+DOCUMENT_ID: 63596__compendium__1fb13f6471
+ATLAS_SAMPLE_IDS: 63596
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63596.pdf
+SOURCE_PDF_SHA256: 2c9271f8f71e00b43c2d17e4310afba4d1b6408f7e4c2af26e2a47ca606dcc2f
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 8-21 ---
+Figure 1: Phot of 63596. Sample is 2 cm across. NASA S80-37419.
+
+
+ Introduction                                 References for 63596
+ 63596 is a rake sample with a fine-grained poikilitic    Butler P. (1972) Lunar Sample Information Catalog Apollo
+ texture where pyroxene oikocrysts surround laths of    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                            Catalog. pp. 370. plagioclase.  It is clastic and vesicular (figure 2).
+
+                                                     Korotev R.L. (1996c) On the relationship between the
+ Norman et al. (2006) used the Ar/Ar plateau                                                  Apollo 16 ancient regolith breccias and feldspathic
+ technique to date 63596 (figure 3).                                                          fragmental breccias, and the composition of the prebasin
+                                                                crust in the Central Highlands of the Moon.  Meteor. &
+ There are 3 thin sections.                                 Planet. Sci. 31, 403-412.
+--- material block 2; lines 1-38 ---
+63596
+                            Vesicular Poikilitic Impact Melt
+                                             6.4 grams
+
+
+
+
+
+                          Figure 1: Phot of 63596. Sample is 2 cm across. NASA S80-37419.
+
+
+ Introduction                                 References for 63596
+ 63596 is a rake sample with a fine-grained poikilitic    Butler P. (1972) Lunar Sample Information Catalog Apollo
+ texture where pyroxene oikocrysts surround laths of    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                            Catalog. pp. 370. plagioclase.  It is clastic and vesicular (figure 2).
+
+                                                     Korotev R.L. (1996c) On the relationship between the
+ Norman et al. (2006) used the Ar/Ar plateau                                                  Apollo 16 ancient regolith breccias and feldspathic
+ technique to date 63596 (figure 3).                                                          fragmental breccias, and the composition of the prebasin
+                                                                crust in the Central Highlands of the Moon.  Meteor. &
+ There are 3 thin sections.                                 Planet. Sci. 31, 403-412.
+
+                                           LSPET (1973) The Apollo 16 lunar samples: Petrographic
+                                                     and chemical description. Science 179, 23-34.
+
+                                           LSPET (1972) Preliminary examination of lunar samples.
+                                                      Apollo 16 Preliminary Science Report. NASA SP-315, 7-
+                                                 1—7-58.
+
+                                               Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+                                                        impact events within the lunar catalysm from 40Ar-39Ar ages
+                                                     and compositions of Apollo 16 impact melt rocks. Geochim.
+                                                   Cosmochim. Acta 70, 6032-6049.
+
+                                                     Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                          rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+                                                                     Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+--- references block 3; lines 6-25 ---
+Figure 1: Phot of 63596. Sample is 2 cm across. NASA S80-37419.
+
+
+ Introduction                                 References for 63596
+ 63596 is a rake sample with a fine-grained poikilitic    Butler P. (1972) Lunar Sample Information Catalog Apollo
+ texture where pyroxene oikocrysts surround laths of    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                            Catalog. pp. 370. plagioclase.  It is clastic and vesicular (figure 2).
+
+                                                     Korotev R.L. (1996c) On the relationship between the
+ Norman et al. (2006) used the Ar/Ar plateau                                                  Apollo 16 ancient regolith breccias and feldspathic
+ technique to date 63596 (figure 3).                                                          fragmental breccias, and the composition of the prebasin
+                                                                crust in the Central Highlands of the Moon.  Meteor. &
+ There are 3 thin sections.                                 Planet. Sci. 31, 403-412.
+
+                                           LSPET (1973) The Apollo 16 lunar samples: Petrographic
+                                                     and chemical description. Science 179, 23-34.
+
+=== PDF PAGE 2; CATEGORIES: material ===
+--- material block 1; lines 19-31 ---
+63596,3 by C Meyer @50x.
+
+
+
+
+
+    lunar highland rock types at North Ray Crater, Apollo 16.
+   Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+    Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+   A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Reimold W.U., Wacker K. and Wanke H.  (1985)
+   Composition and evolution of the lunar crust in the Descartes

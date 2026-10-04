@@ -1,0 +1,314 @@
+DOCUMENT_ID: 14276__compendium__95ea98a73a
+ATLAS_SAMPLE_IDS: 14276
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14276.pdf
+SOURCE_PDF_SHA256: 8f82cacb9a1ee704591907cf9818bc3bf699a5cbe70a00c6eb2bd14bbfa8074b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 19-36 ---
+(1972), “lunar sample 14276 was part of a consortium
+                                                   sample with Professor G.J.Wasserburg as consortium
+                                                             leader”.
+
+                                             Petrography
+                                                Bence and Papike (1972) and Gancarz et al. (1972)       Figure 2: Map of Apollo 14 traverse showing
+                                                 found the texture and mineralogy of 14276 to be        location of comprehensive sample.
+                                                               identical to 14310. It is a fine-grained subophitic basalt
+           Mineralogical Mode for 14276              with fine laths of plagioclase interlocking with and
+                    Gancarz et al. 1972                    penetrating pyroxene grains (figures 3 and 4).
+              Olivine               -                          Pyroxene cores are low-Ca orthopyroxene, surrounded
+             Pyroxene        33 %                                                by progressively higher Ca pyroxene (figure 5).
+              Plagioclase       65
+              Ilmenite         2
+              mesostasis
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-32 ---
+14276
+                         KREEP Basalt
+                                           12.75 grams
+
+
+
+
+
+               Figure 1: Photos of all sides of 14276. Sample is 2 cm across. NASA S71-26626 - 9.
+
+
+                                                 Introduction
+                                                14276 is from the “comprehensive sample” taken near
+                                       ALSEP station (see section on 14259).  It is rounded
+                                                on all sides by micrometeorite bombardment (figure
+      14276                                                  1).  It is a feldspathic basalt that is about 3.9 b.y. old.
+
+                                                   According to Clayton et al. (1972) and Brunfeldt et al.
+                                                         (1972), “lunar sample 14276 was part of a consortium
+                                                   sample with Professor G.J.Wasserburg as consortium
+                                                             leader”.
+
+                                             Petrography
+                                                Bence and Papike (1972) and Gancarz et al. (1972)       Figure 2: Map of Apollo 14 traverse showing
+                                                 found the texture and mineralogy of 14276 to be        location of comprehensive sample.
+                                                               identical to 14310. It is a fine-grained subophitic basalt
+           Mineralogical Mode for 14276              with fine laths of plagioclase interlocking with and
+                    Gancarz et al. 1972                    penetrating pyroxene grains (figures 3 and 4).
+              Olivine               -                          Pyroxene cores are low-Ca orthopyroxene, surrounded
+             Pyroxene        33 %                                                by progressively higher Ca pyroxene (figure 5).
+              Plagioclase       65
+              Ilmenite         2
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 38-51 ---
+“comprehensive” suite. Vaniman and Papike (1980)
+   included it in their suite of highland melt rocks.
+
+   Chemistry
+   Rose et al. (1972), Brunfeldt (1972) and Ebihara et al.
+   (1992) analyzed 14076, finding that it is an aluminous
+    basalt with intermediate levels of trace elements and
+   meteoritic siderophiles. The trace element content
+    (figure 8) has the characteristic slope of KREEP. There
+   remains the possibility that Apollo 14 KREEP basalts
+   are recrystallized impact melt rocks and as such are a
+   mixture of components.
+
+   Radiogenic age dating
+--- mineralogy block 2; lines 11-23 ---
+En                                          Fs
+
+   Fo                                        Fa
+          compiled by C Meyer
+
+         Figure 5: Pyroxene composition of 14276.
+                                                                  Figure 7: Rb/Sr “Microchron” (by
+                                                                 Papanastassiou and Wasserburg 1981).
+
+                                             Summary of Age Data for 14276
+                                                                                      Rb/Sr
+                                                                     Wasserburg 1971  3.88 ± 0.01 b.y.
+--- material block 3; lines 30-59 ---
+Figure 6:  Ni and Co in 14276 and 68415 show that                                                   “comprehensive suite”.
+          these melts were made by meteorite impact (Gancarz
+            et al. 1973).
+
+
+   Meyer (1977) and McKay et al. (1979) review the
+   petrology of KREEP basalt. Phinney et al. (1975)
+   discussed the statistics of the samples collected as the
+   “comprehensive” suite. Vaniman and Papike (1980)
+   included it in their suite of highland melt rocks.
+
+   Chemistry
+   Rose et al. (1972), Brunfeldt (1972) and Ebihara et al.
+   (1992) analyzed 14076, finding that it is an aluminous
+    basalt with intermediate levels of trace elements and
+   meteoritic siderophiles. The trace element content
+    (figure 8) has the characteristic slope of KREEP. There
+   remains the possibility that Apollo 14 KREEP basalts
+   are recrystallized impact melt rocks and as such are a
+   mixture of components.
+
+   Radiogenic age dating
+   Papanastassiou and Wasserburg (1971) determined the      Figure 8: Normalized rare-earth-element diagram
+   age of 14276 (figure 7), later revised by Wasserburg       for KREEP basalts and breccia (McKay et al. 1979).
+   and Papanastassiou (1971).
+
+
+
+
+Lunar Sample Compendium
+--- age block 4; lines 15-27 ---
+compiled by C Meyer
+
+         Figure 5: Pyroxene composition of 14276.
+                                                                  Figure 7: Rb/Sr “Microchron” (by
+                                                                 Papanastassiou and Wasserburg 1981).
+
+                                             Summary of Age Data for 14276
+                                                                                      Rb/Sr
+                                                                     Wasserburg 1971  3.88 ± 0.01 b.y.
+--- age block 5; lines 45-59 ---
+meteoritic siderophiles. The trace element content
+    (figure 8) has the characteristic slope of KREEP. There
+   remains the possibility that Apollo 14 KREEP basalts
+   are recrystallized impact melt rocks and as such are a
+   mixture of components.
+
+   Radiogenic age dating
+   Papanastassiou and Wasserburg (1971) determined the      Figure 8: Normalized rare-earth-element diagram
+   age of 14276 (figure 7), later revised by Wasserburg       for KREEP basalts and breccia (McKay et al. 1979).
+   and Papanastassiou (1971).
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 14276.
+
+
+     reference  Ebihara 92  Rose72      Brunfeldt72
+     weight
+    SiO2 %                47.6      (c )
+    TiO2                    1.2       (c ) 1.1        (b)
+    Al2O3                 21.34    (c ) 22.1      (b)
+   FeO                   7.94      (c ) 7.77      (b)
+   MnO                   0.12      (c ) 0.1        (b)
+   MgO                    7.1       (c ) 8.62      (b)
+   CaO                   13.18    (c ) 13.3      (b)
+   Na2O                  0.72      (c ) 0.7        (b)
+   K2O                   0.48      (c ) 0.43      (b)
+   P2O5                   0.4       (c )
+   S %
+    sum
+
+    Sc ppm              20        (c ) 18.2      (b)
+   V                   37        (c ) 25         (b)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 14276.
+
+
+     reference  Ebihara 92  Rose72      Brunfeldt72
+     weight
+    SiO2 %                47.6      (c )
+    TiO2                    1.2       (c ) 1.1        (b)
+    Al2O3                 21.34    (c ) 22.1      (b)
+   FeO                   7.94      (c ) 7.77      (b)
+   MnO                   0.12      (c ) 0.1        (b)
+--- references block 3; lines 65-74 ---
+Os ppb    5.02      (a)
+       Ir ppb      3.53      (a)
+     Pt ppb
+    Au ppb    0.941    (a)               0.3        (b)
+    Th ppm                          8          (b)
+   U ppm     2.51      (a)               2.5        (b)
+     technique:  (a) RNAA, (b) INAA, RNAA, (c ) “microchemical”
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 14-26 ---
+Clayton R.N., Hurd J.M. and Mayeda T.K. (1972) Oxygen   Geologic setting of the Apollo 14 samples.  Science 173,
+    isotopic compositions and oxygen concentrations of Apollo   716-719.
+   14 and Apollo 15 rocks and soils.  Proc. 3rd  Lunar Sci.
+    Conf. 1455-1463.                                 Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E.., Hait
+                                                       M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+   Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)   Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+   Trace elements in 59 mostly highland moon rocks. Proc.  Geology of the Apollo 14 landing site in the Fra Mauro
+   Lunar Planet. Sci. 22, 417-426.                           Highlands. U.S.G.S. Prof. Paper 880.
+
+   von Engelhardt W. (1979)  Ilmenite in the crystallization  Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E.., Hait
+   sequence of lunar rocks. Proc. 10th Lunar Sci. Conf. 677-   M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,
+    694.                                                  Schaber G.G., Schafer J.P., Shepard A.B., Sutton R.L., Trask
+                                                                      N.J., Ulrich G.E., Wilshire H.G. and Wolfe E.W. (1972) 3.
+--- mineralogy block 2; lines 17-41 ---
+Conf. 1455-1463.                                 Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E.., Hait
+                                                       M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+   Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)   Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+   Trace elements in 59 mostly highland moon rocks. Proc.  Geology of the Apollo 14 landing site in the Fra Mauro
+   Lunar Planet. Sci. 22, 417-426.                           Highlands. U.S.G.S. Prof. Paper 880.
+
+   von Engelhardt W. (1979)  Ilmenite in the crystallization  Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E.., Hait
+   sequence of lunar rocks. Proc. 10th Lunar Sci. Conf. 677-   M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,
+    694.                                                  Schaber G.G., Schafer J.P., Shepard A.B., Sutton R.L., Trask
+                                                                      N.J., Ulrich G.E., Wilshire H.G. and Wolfe E.W. (1972) 3.
+   Gancarz A.J., Albee A.L. and Chodos A.A. (1972)   Preliminary Geologic Investigation of the Apollo 14 landing
+   Comparative petrology of Apollo 16 sample 68415 and    site. In Apollo 14 Preliminary Science Rpt. NASA SP-272.
+   Apollo 14 samples 14276 and 14310.  Earth Planet. Sci.   pages 39-85.
+    Lett. 16, 307-330.
+                                                    Vaniman D.T. and Papike J.J. (1978) The lunar highland
+   Hubbard N.J., Gast P.W., Rhodes J.M., Bansal B.M.,   melt-rock suite. Geophys. Res. Lett. 5, 429-432.
+   Wiesmann H. and Church S.E. (1972) Nonmare basalts:
+    Part II. Proc. 3rd Lunar Sci. Conf. 1161-1179.            Vaniman D.T. and Papike J.J. (1980) Lunar highland melt
+                                                                  rocks: Chemistry, petrology and silicate mineralogy. In Proc.
+   LSPET (1971) Preliminary examination of lunar samples   Conf. Lunar Highlands Crust (Papike J.J. and Merrill R.B.,
+   from Apollo 14. Science 173, 681-693.                     eds.) 271-337. Pergamon.  Lunar Planetary Institute,
+                                                          Houston.
+   McKay G.A., Wiesmann H., Bansal B.M. and Shih C.-Y.
+    (1979a) Petrology, chemistry, and chronology of Apollo 14   Wasserburg G.J. and Papanastassiou D.A. (1971) Age of an
+  KREEP basalts. Proc. 10th Lunar Planet. Sci. Conf. 181-   Apollo 15 mare basalt: lunar crust and mantle evolution.
+--- material block 3; lines 1-17 ---
+References for 14276                              16 stations 11 and 13. North Ray Crater. Proc. 15th Lunar
+   Bence A.E. and Papike J.J. (1972) Pyroxenes as recorders   Planet. Sci. Conf. in J. Geophys. Res. 90, C597-C612.
+    of lunar basalt petrogenesis: Chemical trends due to crystal-
+    liquid interaction. Proc. 3rd Lunar Sci. Conf. 431-469.     Rose H.J., Cuttitta F., Annell C.S., Carron M.K., Christian
+                                                                      R.P., Dwornik E.J., Greenland L.P. and Ligon D.T. (1972)
+    Brunfeldt A.O., Heier K.S., Nilssen B., Sundvoll B. and  Compositional data for twenty-one Fra Mauro lunar
+    Steinnes E. (1972)  Distribution of elements between   materials. Proc. 3rd Lunar Sci. Conf. 1215-1229.
+    different phases of Apollo 14 rocks and soils. Proc. 3rd Lunar
+    Sci. Conf. 1133-1147.                                     Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of
+                                                                the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock   38.
+   Samples. Curators Office. JSC 14240
+                                                Swann G.A., Trask N.J., Hait M.H. and Sutton R.L. (1971a)
+   Clayton R.N., Hurd J.M. and Mayeda T.K. (1972) Oxygen   Geologic setting of the Apollo 14 samples.  Science 173,
+    isotopic compositions and oxygen concentrations of Apollo   716-719.
+   14 and Apollo 15 rocks and soils.  Proc. 3rd  Lunar Sci.
+    Conf. 1455-1463.                                 Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E.., Hait
+--- material block 4; lines 26-47 ---
+N.J., Ulrich G.E., Wilshire H.G. and Wolfe E.W. (1972) 3.
+   Gancarz A.J., Albee A.L. and Chodos A.A. (1972)   Preliminary Geologic Investigation of the Apollo 14 landing
+   Comparative petrology of Apollo 16 sample 68415 and    site. In Apollo 14 Preliminary Science Rpt. NASA SP-272.
+   Apollo 14 samples 14276 and 14310.  Earth Planet. Sci.   pages 39-85.
+    Lett. 16, 307-330.
+                                                    Vaniman D.T. and Papike J.J. (1978) The lunar highland
+   Hubbard N.J., Gast P.W., Rhodes J.M., Bansal B.M.,   melt-rock suite. Geophys. Res. Lett. 5, 429-432.
+   Wiesmann H. and Church S.E. (1972) Nonmare basalts:
+    Part II. Proc. 3rd Lunar Sci. Conf. 1161-1179.            Vaniman D.T. and Papike J.J. (1980) Lunar highland melt
+                                                                  rocks: Chemistry, petrology and silicate mineralogy. In Proc.
+   LSPET (1971) Preliminary examination of lunar samples   Conf. Lunar Highlands Crust (Papike J.J. and Merrill R.B.,
+   from Apollo 14. Science 173, 681-693.                     eds.) 271-337. Pergamon.  Lunar Planetary Institute,
+                                                          Houston.
+   McKay G.A., Wiesmann H., Bansal B.M. and Shih C.-Y.
+    (1979a) Petrology, chemistry, and chronology of Apollo 14   Wasserburg G.J. and Papanastassiou D.A. (1971) Age of an
+  KREEP basalts. Proc. 10th Lunar Planet. Sci. Conf. 181-   Apollo 15 mare basalt: lunar crust and mantle evolution.
+    205.                                                  Earth Planet. Sci. Lett. 13, 97-104.
+
+                                                     C Meyer        14276   Papanastassiou D.A. and Wasserburg  G.J. (1981)         2011
+    Microchrons: The 87Rb-87Sr dating of microscopic samples.                    12.75 grams
+    Proc. 12th Lunar Planet. Sci. Conf. 1027-1038.
+--- age block 5; lines 17-29 ---
+Conf. 1455-1463.                                 Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E.., Hait
+                                                       M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+   Ebihara M., Wolf R., Warren P.H. and Anders E. (1992)   Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+   Trace elements in 59 mostly highland moon rocks. Proc.  Geology of the Apollo 14 landing site in the Fra Mauro
+   Lunar Planet. Sci. 22, 417-426.                           Highlands. U.S.G.S. Prof. Paper 880.
+
+   von Engelhardt W. (1979)  Ilmenite in the crystallization  Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E.., Hait
+   sequence of lunar rocks. Proc. 10th Lunar Sci. Conf. 677-   M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,
+    694.                                                  Schaber G.G., Schafer J.P., Shepard A.B., Sutton R.L., Trask
+                                                                      N.J., Ulrich G.E., Wilshire H.G. and Wolfe E.W. (1972) 3.
+   Gancarz A.J., Albee A.L. and Chodos A.A. (1972)   Preliminary Geologic Investigation of the Apollo 14 landing
+   Comparative petrology of Apollo 16 sample 68415 and    site. In Apollo 14 Preliminary Science Rpt. NASA SP-272.
+   Apollo 14 samples 14276 and 14310.  Earth Planet. Sci.   pages 39-85.
+--- age block 6; lines 34-51 ---
+Part II. Proc. 3rd Lunar Sci. Conf. 1161-1179.            Vaniman D.T. and Papike J.J. (1980) Lunar highland melt
+                                                                  rocks: Chemistry, petrology and silicate mineralogy. In Proc.
+   LSPET (1971) Preliminary examination of lunar samples   Conf. Lunar Highlands Crust (Papike J.J. and Merrill R.B.,
+   from Apollo 14. Science 173, 681-693.                     eds.) 271-337. Pergamon.  Lunar Planetary Institute,
+                                                          Houston.
+   McKay G.A., Wiesmann H., Bansal B.M. and Shih C.-Y.
+    (1979a) Petrology, chemistry, and chronology of Apollo 14   Wasserburg G.J. and Papanastassiou D.A. (1971) Age of an
+  KREEP basalts. Proc. 10th Lunar Planet. Sci. Conf. 181-   Apollo 15 mare basalt: lunar crust and mantle evolution.
+    205.                                                  Earth Planet. Sci. Lett. 13, 97-104.
+
+                                                     C Meyer        14276   Papanastassiou D.A. and Wasserburg  G.J. (1981)         2011
+    Microchrons: The 87Rb-87Sr dating of microscopic samples.                    12.75 grams
+    Proc. 12th Lunar Planet. Sci. Conf. 1027-1038.
+
+   Phinney W.C., Simonds C.H. and Warner J. (1975)             ,5     ,7                       ,10
+                                                  PB   0.84 g     ,6          1.36 g   Description, Classification and Inventory of the
+   Comprehensive sample from Apollo 14. Curator’s Catalog,
+    pp. 46.                                                                        ,11
+--- references block 7; lines 1-7 ---
+References for 14276                              16 stations 11 and 13. North Ray Crater. Proc. 15th Lunar
+   Bence A.E. and Papike J.J. (1972) Pyroxenes as recorders   Planet. Sci. Conf. in J. Geophys. Res. 90, C597-C612.
+    of lunar basalt petrogenesis: Chemical trends due to crystal-
+    liquid interaction. Proc. 3rd Lunar Sci. Conf. 431-469.     Rose H.J., Cuttitta F., Annell C.S., Carron M.K., Christian
+                                                                      R.P., Dwornik E.J., Greenland L.P. and Ligon D.T. (1972)
+    Brunfeldt A.O., Heier K.S., Nilssen B., Sundvoll B. and  Compositional data for twenty-one Fra Mauro lunar
+    Steinnes E. (1972)  Distribution of elements between   materials. Proc. 3rd Lunar Sci. Conf. 1215-1229.

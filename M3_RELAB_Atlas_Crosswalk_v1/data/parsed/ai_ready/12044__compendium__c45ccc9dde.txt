@@ -1,0 +1,398 @@
+DOCUMENT_ID: 12044__compendium__c45ccc9dde
+ATLAS_SAMPLE_IDS: 12044
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/12044.pdf
+SOURCE_PDF_SHA256: 33e330037953bde630eb0aaa592554009c6ec11ccca97e806c1a8c6ab6711d13
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-15 ---
+12044
+                                          Soil
+                                      92 grams
+
+
+
+
+
+                           Figure 1: Location of soil sample 12044. AS12-48-7082.
+
+
+
+
+
+                                               12044
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 1-19 ---
+25                                                    Mineralogical Mode
+           20                      Apollo soils                      Frondel et al. 1971                                                                                    Olivine +
+                                12044                                         Pyroxene         61.2 %
+           15                                                                           Plagioclase       14.9
+  FeO                                                               Opaques          10.6
+           10                                                                           Glass, angular     8.6
+                                                                                        Glass, rounded    2.7
+            5                                                                                  Silica             1.9
+
+
+            0
+              0       5       10      15      20      25      30      35
+                     Al2O3                              Mineralogical Mode
+                                                               McKay et al. 1971
+          Figure 3: Composition of 12044 compared with                     Grain size        37-62.5  62.5-125
+            that of other Apollo soil samples.                                       Olivine          6 %     3
+                                                                             Pyroxene        26      23
+                                                                                       Plagioclase       14      13
+                                                                                  Glass           25      17
+--- chemistry block 2; lines 27-39 ---
+The astronauts observed a “double glass bead” on the              Single xtl.        17
+    surface, but it has not been identified as such in the             Glasses          31
+   sample.                                                        Rocks           8
+                                                                              Breccias         12
+                                                                            Spherules         1.6
+   Petrography
+   The maturity index for 12044 is Is/FeO = 57 and the
+   average grain size of 12044 is 45 microns (figure 5) so
+     it is a relatively mature lunar soil. However, McKay
+    et al. (1971) reported only 26 % agglutinates. Frondel
+                                           Other Studies    et al. (1971) also determined the mineral mode, but
+                                                       Hintenberger et al. (1971), Heymann et al. (1972) and   did not specify agglutinates.
+                                                  Pepin et al. (1971) reported rare gas content and
+--- mineralogy block 3; lines 1-47 ---
+25                                                    Mineralogical Mode
+           20                      Apollo soils                      Frondel et al. 1971                                                                                    Olivine +
+                                12044                                         Pyroxene         61.2 %
+           15                                                                           Plagioclase       14.9
+  FeO                                                               Opaques          10.6
+           10                                                                           Glass, angular     8.6
+                                                                                        Glass, rounded    2.7
+            5                                                                                  Silica             1.9
+
+
+            0
+              0       5       10      15      20      25      30      35
+                     Al2O3                              Mineralogical Mode
+                                                               McKay et al. 1971
+          Figure 3: Composition of 12044 compared with                     Grain size        37-62.5  62.5-125
+            that of other Apollo soil samples.                                       Olivine          6 %     3
+                                                                             Pyroxene        26      23
+                                                                                       Plagioclase       14      13
+                                                                                  Glass           25      17
+   Introduction                                                         Aggregates      25      44
+   12044 are fines collected in documented bag 14, which
+    also contained a basalt sample (12043). They were
+                                                        Mineralogical Mode (250-1000 microns)    collected from south rim of Surveyor Crater (figure
+                                                          McKay et al. (1971)
+    2).                                                                        Glazed
+                                                                          Aggregates       26 %
+   The astronauts observed a “double glass bead” on the              Single xtl.        17
+    surface, but it has not been identified as such in the             Glasses          31
+   sample.                                                        Rocks           8
+                                                                              Breccias         12
+                                                                            Spherules         1.6
+   Petrography
+   The maturity index for 12044 is Is/FeO = 57 and the
+   average grain size of 12044 is 45 microns (figure 5) so
+     it is a relatively mature lunar soil. However, McKay
+    et al. (1971) reported only 26 % agglutinates. Frondel
+                                           Other Studies    et al. (1971) also determined the mineral mode, but
+                                                       Hintenberger et al. (1971), Heymann et al. (1972) and   did not specify agglutinates.
+                                                  Pepin et al. (1971) reported rare gas content and
+                                                            isotopic ratios of 12044. Yaniv and Heymann (172)   Marvin (1978) described the coarse particles from the
+                                                          offered an explanation for the apparent excess 40Ar in   Apollo 12 soils, including fragments of a broken glass
+                                                          lunar fines.   bubble – perhaps the one reported by the astronauts.
+
+                                                      Arrhenius et al. (1971) and Crozaz et al. (1971, 1972)   Chemistry
+                                                          studied the frequency of grains with high fossil nuclear   The analysis by Gast and Hubbard (1971) by isotope
+                                                            tracks in 12044 (and all other Apollo 12 soil and core    dilution mass spectrometry agrees with that of Goles
+                                                        samples)(see diagram in 12070).    et al. (1971) done by instrumental neutron activation
+--- material block 4; lines 9-52 ---
+0
+              0       5       10      15      20      25      30      35
+                     Al2O3                              Mineralogical Mode
+                                                               McKay et al. 1971
+          Figure 3: Composition of 12044 compared with                     Grain size        37-62.5  62.5-125
+            that of other Apollo soil samples.                                       Olivine          6 %     3
+                                                                             Pyroxene        26      23
+                                                                                       Plagioclase       14      13
+                                                                                  Glass           25      17
+   Introduction                                                         Aggregates      25      44
+   12044 are fines collected in documented bag 14, which
+    also contained a basalt sample (12043). They were
+                                                        Mineralogical Mode (250-1000 microns)    collected from south rim of Surveyor Crater (figure
+                                                          McKay et al. (1971)
+    2).                                                                        Glazed
+                                                                          Aggregates       26 %
+   The astronauts observed a “double glass bead” on the              Single xtl.        17
+    surface, but it has not been identified as such in the             Glasses          31
+   sample.                                                        Rocks           8
+                                                                              Breccias         12
+                                                                            Spherules         1.6
+   Petrography
+   The maturity index for 12044 is Is/FeO = 57 and the
+   average grain size of 12044 is 45 microns (figure 5) so
+     it is a relatively mature lunar soil. However, McKay
+    et al. (1971) reported only 26 % agglutinates. Frondel
+                                           Other Studies    et al. (1971) also determined the mineral mode, but
+                                                       Hintenberger et al. (1971), Heymann et al. (1972) and   did not specify agglutinates.
+                                                  Pepin et al. (1971) reported rare gas content and
+                                                            isotopic ratios of 12044. Yaniv and Heymann (172)   Marvin (1978) described the coarse particles from the
+                                                          offered an explanation for the apparent excess 40Ar in   Apollo 12 soils, including fragments of a broken glass
+                                                          lunar fines.   bubble – perhaps the one reported by the astronauts.
+
+                                                      Arrhenius et al. (1971) and Crozaz et al. (1971, 1972)   Chemistry
+                                                          studied the frequency of grains with high fossil nuclear   The analysis by Gast and Hubbard (1971) by isotope
+                                                            tracks in 12044 (and all other Apollo 12 soil and core    dilution mass spectrometry agrees with that of Goles
+                                                        samples)(see diagram in 12070).    et al. (1971) done by instrumental neutron activation
+    analysis (figure 6).
+
+   Kerridge et al. (1978) found 150 ppm C and 72 ppm
+   N, which are relatively high (figure 4).
+--- treatment block 5; lines 27-41 ---
+The astronauts observed a “double glass bead” on the              Single xtl.        17
+    surface, but it has not been identified as such in the             Glasses          31
+   sample.                                                        Rocks           8
+                                                                              Breccias         12
+                                                                            Spherules         1.6
+   Petrography
+   The maturity index for 12044 is Is/FeO = 57 and the
+   average grain size of 12044 is 45 microns (figure 5) so
+     it is a relatively mature lunar soil. However, McKay
+    et al. (1971) reported only 26 % agglutinates. Frondel
+                                           Other Studies    et al. (1971) also determined the mineral mode, but
+                                                       Hintenberger et al. (1971), Heymann et al. (1972) and   did not specify agglutinates.
+                                                  Pepin et al. (1971) reported rare gas content and
+                                                            isotopic ratios of 12044. Yaniv and Heymann (172)   Marvin (1978) described the coarse particles from the
+                                                          offered an explanation for the apparent excess 40Ar in   Apollo 12 soils, including fragments of a broken glass
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 16-28 ---
+20                              Lunar Soils
+
+                0
+                  0          20          40          60          80         100         120
+
+                        maturity (Is/FeO)
+
+        Figure 4: Carbon content and maturity index for
+       12044 compared with Apollo soil samples.                  Figure 6: Normalized rare-earth-element
+                                                           diagram for 12044 compared with soils 12033
+                                                         and 12070.
+--- material block 2; lines 19-43 ---
+0
+                  0          20          40          60          80         100         120
+
+                        maturity (Is/FeO)
+
+        Figure 4: Carbon content and maturity index for
+       12044 compared with Apollo soil samples.                  Figure 6: Normalized rare-earth-element
+                                                           diagram for 12044 compared with soils 12033
+                                                         and 12070.
+
+
+
+
+
+                                                         average grain size = 86 microns           average grain size = 45 microns
+
+
+
+
+
+         Figure 5a: Grain size distribution for 12044 (Graf          Figure 5b: Grain size distribution for 12044 (Graf
+         1993, from data by McKay et al. 1971).                    1993, from data by King et al. 1971).
+
+Lunar Sample Compendium
+C Meyer 2011
+--- treatment block 3; lines 16-30 ---
+20                              Lunar Soils
+
+                0
+                  0          20          40          60          80         100         120
+
+                        maturity (Is/FeO)
+
+        Figure 4: Carbon content and maturity index for
+       12044 compared with Apollo soil samples.                  Figure 6: Normalized rare-earth-element
+                                                           diagram for 12044 compared with soils 12033
+                                                         and 12070.
+
+=== PDF PAGE 4; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-29 ---
+References for 12044   Table 1. Chemical composition of 12044.
+             Gast71                                     Anderson A.T. and Smith J.V. (1971) Nature, occurrence
+    reference  Hubard71   Goles71    Frondel71   Kharkar71     and exotic origin of “grey mottled” (Luny Rock) basalts in
+    weight    Wiesmann76          < 0.37 mm   ave.          Apollo 12 soils and breccias. Proc. Second Lunar Sci. Conf.
+   SiO2 %                            46.7     (c )
+    TiO2                   2.67     (b) 3.6      (c ) 4        (b)     431-438.
+   Al2O3                  12.1     (b) 14.6     (c )
+   FeO                   16.75   (b) 14.2     (c ) 15.7    (b)
+   MnO                    0.2      (b) 0.21     (c ) 0.22    (b)     Crozaz G., Walker R. and Woolum D. (1971) Nuclear track
+   MgO                                9.5      (c )                 studies of dynamic surface processes on the moon and the
+   CaO      10           9.8      (b) 10.6     (c ) 12.7    (b)
+                                                           constancy of solar activity. Proc. 2nd Lunar Sci. Conf. 2543-   Na2O     0.48         0.43     (b) 0.43     (c ) 0.45    (b)
+   K2O       0.25     (a)             0.24     (c )               2558.
+   P2O5
+   S %
+   sum                                                 Crozaz G., Drozd R., Hohenberg C.M., Hoyt H.P., Rajan
+                                                                D., Walker R.M. and Yuhas D. (1972b)  Solar flare and
+   Sc ppm                37.9     (b)            41      (b)
+   V                                                              galactic cosmic ray studies of Apollo 14 and 15 samples.
+    Cr                   2590    (b) 1916    (c ) 2410   (b)     Proc. 3rd Lunar Sci. Conf. 2917-2931.
+   Co                     45.5     (b)            42      (b)
+    Ni
+   Cu                                          Ehmann W.D. and Morgan J.W. (1971)  Major element
+   Zn
+                                                         abundances in Apollo 12 rocks and fines by 14 MeV neutron   Ga
+   Ge ppb                                                         activation. Proc. 2nd Lunar Sci. Conf. 1237-1245.
+   As
+   Se
+   Rb        6.08     (a)                              Ehmann W.D., Gillum D.E. and Morgan J.W. (1972) Oxygen
+--- mineralogy block 2; lines 29-41 ---
+Rb        6.08     (a)                              Ehmann W.D., Gillum D.E. and Morgan J.W. (1972) Oxygen
+    Sr        157      (a)                                  and bulk element composition studies of Apollo 14 and other
+   Y
+    Zr                   350     (b)                            lunar rocks and soil. Proc. 3rd Lunar Sci. Conf. 1149-1160.
+   Nb
+   Mo
+                                                           Frondel C., Klein C. and Ito J. (1971) Mineralogical and   Ru
+   Rh                                                     chemical data on Apollo 12 lunar fines. Proc. Second Lunar
+   Pd ppb                                                                       Sci. Conf. 719-726.   Ag ppb
+   Cd ppb
+     In ppb                                                Goles G.G., Duncan A.R., Lindstrom D.J., Martin M.R.,
+   Sn ppb
+   Sb ppb                                              Beyer R.L., Osawa M., Randle K., Meek L.T., Steinborn
+--- material block 3; lines 1-9 ---
+References for 12044   Table 1. Chemical composition of 12044.
+             Gast71                                     Anderson A.T. and Smith J.V. (1971) Nature, occurrence
+    reference  Hubard71   Goles71    Frondel71   Kharkar71     and exotic origin of “grey mottled” (Luny Rock) basalts in
+    weight    Wiesmann76          < 0.37 mm   ave.          Apollo 12 soils and breccias. Proc. Second Lunar Sci. Conf.
+   SiO2 %                            46.7     (c )
+    TiO2                   2.67     (b) 3.6      (c ) 4        (b)     431-438.
+   Al2O3                  12.1     (b) 14.6     (c )
+   FeO                   16.75   (b) 14.2     (c ) 15.7    (b)
+   MnO                    0.2      (b) 0.21     (c ) 0.22    (b)     Crozaz G., Walker R. and Woolum D. (1971) Nuclear track
+--- material block 4; lines 26-55 ---
+Ge ppb                                                         activation. Proc. 2nd Lunar Sci. Conf. 1237-1245.
+   As
+   Se
+   Rb        6.08     (a)                              Ehmann W.D., Gillum D.E. and Morgan J.W. (1972) Oxygen
+    Sr        157      (a)                                  and bulk element composition studies of Apollo 14 and other
+   Y
+    Zr                   350     (b)                            lunar rocks and soil. Proc. 3rd Lunar Sci. Conf. 1149-1160.
+   Nb
+   Mo
+                                                           Frondel C., Klein C. and Ito J. (1971) Mineralogical and   Ru
+   Rh                                                     chemical data on Apollo 12 lunar fines. Proc. Second Lunar
+   Pd ppb                                                                       Sci. Conf. 719-726.   Ag ppb
+   Cd ppb
+     In ppb                                                Goles G.G., Duncan A.R., Lindstrom D.J., Martin M.R.,
+   Sn ppb
+   Sb ppb                                              Beyer R.L., Osawa M., Randle K., Meek L.T., Steinborn
+    Te ppb                                                    T.L. and McKay S.M. (1971)  Analyses of Apollo 12
+   Cs ppm
+   Ba       380      (a)  380     (b)                        specimens: Compositional variations, differentiation
+   La                     33.1     (b)              32.7    (b)     processes, and lunar soil mixing models. Proc. 2nd Lunar
+   Ce        91.6     (a) 94       (b)            71      (b)
+                                                                       Sci. Conf. 1063-1081.    Pr
+   Nd        54.8     (a) 63       (b)
+   Sm        16.7     (a)  16.2     (b)              15.1    (b)     Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+   Eu        1.72     (a)  1.69     (b)              1.82    (b)
+   Gd        19.2     (a)                                    Pub. 1265
+   Tb                     3.79     (b)              3.2     (b)
+   Dy        21.2     (a)                          26.8    (b)
+   Ho                      4.2      (b)                        Heiken G.H. (1974) A catalog of lunar soils. JSC Curator
+    Er         13.3     (a)
+--- age block 5; lines 13-25 ---
+K2O       0.25     (a)             0.24     (c )               2558.
+   P2O5
+   S %
+   sum                                                 Crozaz G., Drozd R., Hohenberg C.M., Hoyt H.P., Rajan
+                                                                D., Walker R.M. and Yuhas D. (1972b)  Solar flare and
+   Sc ppm                37.9     (b)            41      (b)
+   V                                                              galactic cosmic ray studies of Apollo 14 and 15 samples.
+    Cr                   2590    (b) 1916    (c ) 2410   (b)     Proc. 3rd Lunar Sci. Conf. 2917-2931.
+   Co                     45.5     (b)            42      (b)
+    Ni
+   Cu                                          Ehmann W.D. and Morgan J.W. (1971)  Major element
+   Zn
+                                                         abundances in Apollo 12 rocks and fines by 14 MeV neutron   Ga
+--- references block 6; lines 1-9 ---
+References for 12044   Table 1. Chemical composition of 12044.
+             Gast71                                     Anderson A.T. and Smith J.V. (1971) Nature, occurrence
+    reference  Hubard71   Goles71    Frondel71   Kharkar71     and exotic origin of “grey mottled” (Luny Rock) basalts in
+    weight    Wiesmann76          < 0.37 mm   ave.          Apollo 12 soils and breccias. Proc. Second Lunar Sci. Conf.
+   SiO2 %                            46.7     (c )
+    TiO2                   2.67     (b) 3.6      (c ) 4        (b)     431-438.
+   Al2O3                  12.1     (b) 14.6     (c )
+   FeO                   16.75   (b) 14.2     (c ) 15.7    (b)
+   MnO                    0.2      (b) 0.21     (c ) 0.22    (b)     Crozaz G., Walker R. and Woolum D. (1971) Nuclear track
+--- references block 7; lines 63-72 ---
+Os ppb
+      Ir ppb                                                 1857-1863.
+    Pt ppb
+   Au ppb
+   Th ppm                 7.4      (b)
+   U ppm
+    technique:  (a) IDMS, (b) INAA, (c ) wet
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: age,chemistry,material,treatment ===
+--- chemistry block 1; lines 19-35 ---
+,33
+                                   TS
+
+  Hintenberger H., Weber H.W. and Takaoka N. (1971)
+                                                         Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Concentrations and isotopic abundances of the rare gases in
+                                                                       soils: Some concepts and Is/FeO compilation. Proc. 9th
+  lunar matter. Proc. 2nd Lunar Sci. Conf. 1607-1625.
+                                                    Lunar Sci. Conf. 2287-2297.
+
+  Hubbard N.J. and Gast P.W. (1971) Chemical composition
+                                                        Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  and origin of nonmare lunar basalts. Proc. 2nd Lunar Sci.
+                                                  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Conf. 999-1020.
+                                                                Office, Houston.
+--- material block 2; lines 60-72 ---
+results. Proc. 3rd Lunar Sci. Conf. 1251-1268.
+  Sample locations, description and inventory. Curators Office,
+  JSC#14434
+                                                     Warner J. (1970)  Apollo 12 Lunar Sample Information.
+                                      NASA TR R-353. JSC (catalog)
+ McKay D.S., Morrison D.A., Clanton U.S., Ladle G.H. and
+  Lindsay J. (1971) Apollo 12 soil and breccias. Proc. Second
+                                                        Yaniv A. and Heymann D. (1972) Atmospheric Ar40 in lunar
+  Lunar Sci. Conf. 755-774.
+                                                                      fines. Proc. 3rd Lunar Sci. Conf. 1967-1981.
+
+  Morris R.V. (1976) Surface exposure indicies of lunar soils:
+ A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-
+--- age block 3; lines 33-45 ---
+Conf. 999-1020.
+                                                                Office, Houston.
+
+  Hubbard N.J., Meyer C., Gast P.W. and Wiesmann H. (1971)
+                                                        Pepin R.O., Bradley J.G., Dragon J.C. and Nyquist L.E.
+  The composition and derivation of Apollo 12 soils. Earth
+                                                         (1972) K-Ar dating of lunar fines: Apollo 12, Apollo 14
+  Planet. Sci. Lett. 10, 341-350.
+                                                     and Luna 16. Proc. 3rd Lunar Sci. Conf. 1569-1588.
+
+  Kerridge J.F., Kaplan I.R., Kung C.C., Winter D.A.,
+                                                   Shoemaker E.M. and 12 others (1970b)  10. Preliminary
+  Friedman D.L. and DesMarais D.J. (1978) Light element
+--- treatment block 4; lines 17-29 ---
+,33
+                                   TS
+
+  Hintenberger H., Weber H.W. and Takaoka N. (1971)
+                                                         Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Concentrations and isotopic abundances of the rare gases in
+                                                                       soils: Some concepts and Is/FeO compilation. Proc. 9th
+  lunar matter. Proc. 2nd Lunar Sci. Conf. 1607-1625.
+                                                    Lunar Sci. Conf. 2287-2297.
+
+  Hubbard N.J. and Gast P.W. (1971) Chemical composition

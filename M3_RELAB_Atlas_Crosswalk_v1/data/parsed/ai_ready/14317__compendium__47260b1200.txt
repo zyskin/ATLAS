@@ -1,0 +1,78 @@
+DOCUMENT_ID: 14317__compendium__47260b1200
+ATLAS_SAMPLE_IDS: 14317
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14317.pdf
+SOURCE_PDF_SHA256: 9943ad52ca3c0eb509d8a2be2e766a0b767f4116312334ec20980c7696952838
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 17-32 ---
+gray-matrix breccia with a small percentage of light
+    clasts up to 3 mm across.   this sample has not been
+    studied.
+
+   Petrography
+   Carlson and Walton (1978) give the only
+   description of 14317. They reported glass and
+   devitrified glass in the matrix, with numerous fine-
+   grained microbreccia clasts. Most of the mineral                                                                  Figure 2: Location of 14317.
+   fragments are deformed pyroxene.
+
+   Chemistry
+   None
+                                                        C Meyer
+                                                                        2011      14317
+   Processing                                                     16.1 grams
+--- material block 2; lines 1-30 ---
+14317
+                                    Vitric-matrix Breccia
+                                            16.1 grams
+
+
+
+
+
+                   Figure 1: Photos of 14317. Cube is 1 cm. S78-29056 and 057
+
+
+   Introduction
+   14317 was picked up at the “North Boulder Field”
+    (station H) about 100 meters northwest of the LM.  It
+    is a rounded slab with a patina on one side and a few
+   zap pits on all sides (figure 1). The rock is a coherent
+   gray-matrix breccia with a small percentage of light
+    clasts up to 3 mm across.   this sample has not been
+    studied.
+
+   Petrography
+   Carlson and Walton (1978) give the only
+   description of 14317. They reported glass and
+   devitrified glass in the matrix, with numerous fine-
+   grained microbreccia clasts. Most of the mineral                                                                  Figure 2: Location of 14317.
+   fragments are deformed pyroxene.
+
+   Chemistry
+   None
+                                                        C Meyer
+
+=== PDF PAGE 2; CATEGORIES: material,references ===
+--- material block 1; lines 1-10 ---
+Figure 3: Photomicrogaph of thin section 14317,4 by C Meyer. Scale is 2.8 mm across.
+
+   References for 14317                          Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock   M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+    Samples. Curators Office. JSC 14240                     Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+                                                     Geology of the Apollo 14 landing site in the Fra Mauro
+   LSPET (1971a) Preliminary examination of lunar samples   Highlands. U.S.G.S. Prof. Paper 880.
+   from Apollo 14. Science 173, 681-693.
+                                                Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+   LSPET (1971b) Preliminary examination of lunar samples   M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,
+--- references block 2; lines 1-9 ---
+Figure 3: Photomicrogaph of thin section 14317,4 by C Meyer. Scale is 2.8 mm across.
+
+   References for 14317                          Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock   M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+    Samples. Curators Office. JSC 14240                     Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+                                                     Geology of the Apollo 14 landing site in the Fra Mauro
+   LSPET (1971a) Preliminary examination of lunar samples   Highlands. U.S.G.S. Prof. Paper 880.
+   from Apollo 14. Science 173, 681-693.
+                                                Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait

@@ -1,0 +1,229 @@
+DOCUMENT_ID: 72738__compendium__c7f8225786
+ATLAS_SAMPLE_IDS: 72738
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72738.pdf
+SOURCE_PDF_SHA256: c94085e9668fa9d0818ac6c6d9f1ef784a098e1436c6a7789f68692f71d27c2d
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 9-21 ---
+Figure 1: Photo of 72738 showing postion of slabs. S73-33454. Slab is 1 cm wide. Note the
+         minislab isolated the zap pit.
+
+
+Introduction
+                                                              7273872738 is an impact melt breccia with a microsubophitic
+matrix. It has the same chemical composition as other
+Apollo 17 impact melt breccias.
+
+Petrography
+The matrix of 72738 is microsubophitic, with abundant
+plagioclase clasts.  Pyroxenes and olivines range in
+composition (figure 3).
+--- mineralogy block 2; lines 14-26 ---
+7273872738 is an impact melt breccia with a microsubophitic
+matrix. It has the same chemical composition as other
+Apollo 17 impact melt breccias.
+
+Petrography
+The matrix of 72738 is microsubophitic, with abundant
+plagioclase clasts.  Pyroxenes and olivines range in
+composition (figure 3).
+
+Warner et al. (1978) noted a zircon clast in one of the
+thin sections.
+
+Chemistry
+--- material block 3; lines 1-29 ---
+72738
+                             Impact Melt Breccia
+                                         23.8 grams
+
+
+
+
+
+         Figure 1: Photo of 72738 showing postion of slabs. S73-33454. Slab is 1 cm wide. Note the
+         minislab isolated the zap pit.
+
+
+Introduction
+                                                              7273872738 is an impact melt breccia with a microsubophitic
+matrix. It has the same chemical composition as other
+Apollo 17 impact melt breccias.
+
+Petrography
+The matrix of 72738 is microsubophitic, with abundant
+plagioclase clasts.  Pyroxenes and olivines range in
+composition (figure 3).
+
+Warner et al. (1978) noted a zircon clast in one of the
+thin sections.
+
+Chemistry
+Murali et al. (1977) determined the chemical
+composition.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Mineral Mode ( Warner et al. 1977)Table 1. Chemical composition of 72738.
+                                                                                                        Vol. %
+reference  Murali77   Warner77                                     Matrix                     86.9
+weight
+                                                                  Mineral clasts              10.1SiO2 %
+TiO2      1.3      (a) 1.3       (b)                                        Lithic clasts              3
+Al2O3     18.5     (a) 18.5     (b)
+FeO       10.2     (a) 10.2     (b)
+                                                                  Mineral clastsMnO      0.113   (a) 0.11      (b)
+MgO     10       (a) 10        (b)                                                                           Plagioclase              7.1
+CaO       11.3     (a) 11.3      (b)
+Na2O     0.89     (a) 0.89     (b)                                       Olivine/Pyroxene        2.9
+K2O      0.25     (a) 0.25     (b)                                 Opaque                           tr.
+P2O5                                                                             Metal/troilite            9.1
+S %
+                                                                     Other                              tr.sum
+
+Sc ppm   17       (a)                                                     Lithic Clasts
+V        40       (a)
+--- chemistry block 2; lines 39-51 ---
+Cd ppb
+                                             and inventory of 113 Apollo 17 rake samples from stations 1A, 2, 7In ppb
+Sn ppb                                        and 8. Curator’s Catalog, pp. 149.
+Sb ppb
+Te ppb                                         Murali A.V., Ma M.-S., Laul J.C. and Schmitt R.A. (1977a)
+Cs ppm
+                                         Chemical composition of breccias, feldspathic basalt andBa       350     (a)
+La       31       (a)                                  anorthosites from Apollo 15 (15308, 15359, 15382 and 15362),
+Ce       70       (a)                             Apollo 16 (60618 and 65785), Apollo 17 (72434, 72536, 72559,
+Pr                                              72735, 72738, 78526, and 78527) and Luna 20 (22012 and 22013)
+Nd
+                                                           (abs). Lunar Sci. VIII, 700-702. Lunar Planetary Institute, Houston.Sm       12       (a)
+Eu        2.45     (a)
+--- mineralogy block 3; lines 1-18 ---
+Mineral Mode ( Warner et al. 1977)Table 1. Chemical composition of 72738.
+                                                                                                        Vol. %
+reference  Murali77   Warner77                                     Matrix                     86.9
+weight
+                                                                  Mineral clasts              10.1SiO2 %
+TiO2      1.3      (a) 1.3       (b)                                        Lithic clasts              3
+Al2O3     18.5     (a) 18.5     (b)
+FeO       10.2     (a) 10.2     (b)
+                                                                  Mineral clastsMnO      0.113   (a) 0.11      (b)
+MgO     10       (a) 10        (b)                                                                           Plagioclase              7.1
+CaO       11.3     (a) 11.3      (b)
+Na2O     0.89     (a) 0.89     (b)                                       Olivine/Pyroxene        2.9
+K2O      0.25     (a) 0.25     (b)                                 Opaque                           tr.
+P2O5                                                                             Metal/troilite            9.1
+S %
+                                                                     Other                              tr.sum
+
+Sc ppm   17       (a)                                                     Lithic Clasts
+--- mineralogy block 4; lines 22-36 ---
+Ni        220     (a)
+Cu                                                                     Breccia                  0.5
+Zn                                                                  Other                    0.5
+Ga
+Ge ppb
+                                                                      Percent of matrixAs
+Se                                                                           Plagioclase             50.8
+Rb
+Sr                                                                     Olivine/pyroxene        43.9
+Y                                                            Opaque                  2.4
+Zr        380     (a)                                                           Metal/troilite            0.2
+Nb
+                                                                     Other                    2.7Mo
+Ru
+Rh
+--- material block 5; lines 1-9 ---
+Mineral Mode ( Warner et al. 1977)Table 1. Chemical composition of 72738.
+                                                                                                        Vol. %
+reference  Murali77   Warner77                                     Matrix                     86.9
+weight
+                                                                  Mineral clasts              10.1SiO2 %
+TiO2      1.3      (a) 1.3       (b)                                        Lithic clasts              3
+Al2O3     18.5     (a) 18.5     (b)
+FeO       10.2     (a) 10.2     (b)
+                                                                  Mineral clastsMnO      0.113   (a) 0.11      (b)
+--- material block 6; lines 17-29 ---
+Sc ppm   17       (a)                                                     Lithic Clasts
+V        40       (a)
+Cr       1204    (a) 1095     (b)                         ANT                     1.6
+Co       28       (a)                                                                            Devit. Anorthosite       9.4
+Ni        220     (a)
+Cu                                                                     Breccia                  0.5
+Zn                                                                  Other                    0.5
+Ga
+Ge ppb
+                                                                      Percent of matrixAs
+Se                                                                           Plagioclase             50.8
+Rb
+--- material block 7; lines 34-68 ---
+Other                    2.7Mo
+Ru
+Rh
+Pd ppb                                      References for 72738
+Ag ppb                                             Keil K., Dowty E. and Prinz M. (1974) Description, classification
+Cd ppb
+                                             and inventory of 113 Apollo 17 rake samples from stations 1A, 2, 7In ppb
+Sn ppb                                        and 8. Curator’s Catalog, pp. 149.
+Sb ppb
+Te ppb                                         Murali A.V., Ma M.-S., Laul J.C. and Schmitt R.A. (1977a)
+Cs ppm
+                                         Chemical composition of breccias, feldspathic basalt andBa       350     (a)
+La       31       (a)                                  anorthosites from Apollo 15 (15308, 15359, 15382 and 15362),
+Ce       70       (a)                             Apollo 16 (60618 and 65785), Apollo 17 (72434, 72536, 72559,
+Pr                                              72735, 72738, 78526, and 78527) and Luna 20 (22012 and 22013)
+Nd
+                                                           (abs). Lunar Sci. VIII, 700-702. Lunar Planetary Institute, Houston.Sm       12       (a)
+Eu        2.45     (a)
+Gd                                           Ryder G. (1993c)  Catalog of Apollo 17 rocks: Stations 2 and 3.
+Tb        2.7      (a)                                Curators Office JSC#26088.
+Dy       15       (a)
+Ho
+Er                                         Warner R.D., Taylor G.J. and Keil K. (1977b)  Petrology of
+Tm                                                      crystalline matrix breccias from Apollo 17 rake samples. Proc. 8th
+Yb        9.1      (a)                            Lunar Sci. Conf. 1987-2006.
+Lu         1.5      (a)
+Hf        10.5     (a)
+Ta        11       (a)                            Warner R.D., Keil K., Nehru C.E. and Taylor G.J. (1978) Catalogue
+W ppb                                               of Apollo 17 rake samples from Stations la, 2, 7, and 8. Spec. Publ.
+Re ppb                                            #18, UNM Institute of Meteoritics, Albuquerque. 88 pp.
+Os ppb
+Ir ppb     6        (a)
+Pt ppb                                        Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R., Scott
+Au ppb    2        (a)                             D.H., Sutton R.L and Wilshire H.G. (1981)  The geologic
+Th ppm    3.1      (a)                                  investigation of the Taurus-Littrow Valley: Apollo 17 Landing Site.
+--- references block 8; lines 1-9 ---
+Mineral Mode ( Warner et al. 1977)Table 1. Chemical composition of 72738.
+                                                                                                        Vol. %
+reference  Murali77   Warner77                                     Matrix                     86.9
+weight
+                                                                  Mineral clasts              10.1SiO2 %
+TiO2      1.3      (a) 1.3       (b)                                        Lithic clasts              3
+Al2O3     18.5     (a) 18.5     (b)
+FeO       10.2     (a) 10.2     (b)
+                                                                  Mineral clastsMnO      0.113   (a) 0.11      (b)
+--- references block 9; lines 31-43 ---
+Y                                                            Opaque                  2.4
+Zr        380     (a)                                                           Metal/troilite            0.2
+Nb
+                                                                     Other                    2.7Mo
+Ru
+Rh
+Pd ppb                                      References for 72738
+Ag ppb                                             Keil K., Dowty E. and Prinz M. (1974) Description, classification
+Cd ppb
+                                             and inventory of 113 Apollo 17 rake samples from stations 1A, 2, 7In ppb
+Sn ppb                                        and 8. Curator’s Catalog, pp. 149.
+Sb ppb
+Te ppb                                         Murali A.V., Ma M.-S., Laul J.C. and Schmitt R.A. (1977a)
+--- references block 10; lines 64-73 ---
+Os ppb
+Ir ppb     6        (a)
+Pt ppb                                        Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R., Scott
+Au ppb    2        (a)                             D.H., Sutton R.L and Wilshire H.G. (1981)  The geologic
+Th ppm    3.1      (a)                                  investigation of the Taurus-Littrow Valley: Apollo 17 Landing Site.
+U ppm
+                                  US Geol. Survey Prof. Paper, 1080, pp. 280.technique:  (a) INAA, (b) broad beam e. probe
+
+   Lunar Sample Compendium
+  C Meyer 2011

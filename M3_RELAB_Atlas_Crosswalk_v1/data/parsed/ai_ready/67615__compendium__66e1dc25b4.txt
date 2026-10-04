@@ -1,0 +1,189 @@
+DOCUMENT_ID: 67615__compendium__66e1dc25b4
+ATLAS_SAMPLE_IDS: 67615
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67615.pdf
+SOURCE_PDF_SHA256: f28f0a4d3843d27f1eaed88a94063c974fc54434c49271ad67976c1ff358de43
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 10-33 ---
+Introduction
+                                                67615 is a rake sample from inside the rim of North
+                                             Ray Crater (NRC) – see section on 67601. It is unusual
+                                                              in that it has olivine as the main mafic mineral and it
+                                          may have a high proportion of opaque phases (figure
+                                                                  3).  It is rounded and has zap pits on all sides (figure
+                                                                  1).
+
+                                             Petrography
+                                                67615 has abundant clasts of plagioclase with a matrix
+                                                                that is described as micropoikilitic by Steele and Smith
+                                                       (1973) and basaltic by Ryder and Norman (1980)(figure
+                                                               3).  Steele and Smith (1973) determined that the
+                                                        plagioclase was An92-97 and olivine Fo52-64.  67615
+                                                         apparently lacks pyroxene (figure 4).
+
+        Figure 2: Map of south rim of NRC, A16, with       Chemistry
+         location of rake sample 676xx.                          Stoffler et al. (1985) reported analyses (table) and found
+                                                                                      it grouped with “granulitic” breccias (figure 6).
+
+                                              Radiogenic age dating
+--- material block 2; lines 1-36 ---
+67615
+                           Unusual Impact-melt Breccia
+                                               8.8 grams
+
+
+
+
+
+                              Figure 1: Photo of 67615. Sample is about 1 inch long. S72-51058
+
+
+
+                                                 Introduction
+                                                67615 is a rake sample from inside the rim of North
+                                             Ray Crater (NRC) – see section on 67601. It is unusual
+                                                              in that it has olivine as the main mafic mineral and it
+                                          may have a high proportion of opaque phases (figure
+                                                                  3).  It is rounded and has zap pits on all sides (figure
+                                                                  1).
+
+                                             Petrography
+                                                67615 has abundant clasts of plagioclase with a matrix
+                                                                that is described as micropoikilitic by Steele and Smith
+                                                       (1973) and basaltic by Ryder and Norman (1980)(figure
+                                                               3).  Steele and Smith (1973) determined that the
+                                                        plagioclase was An92-97 and olivine Fo52-64.  67615
+                                                         apparently lacks pyroxene (figure 4).
+
+        Figure 2: Map of south rim of NRC, A16, with       Chemistry
+         location of rake sample 676xx.                          Stoffler et al. (1985) reported analyses (table) and found
+                                                                                      it grouped with “granulitic” breccias (figure 6).
+
+                                              Radiogenic age dating
+                                                               Stoffler et al. (1985) reported Ar/Ar data for 67615
+                                                              (figure 5).
+--- age block 3; lines 27-39 ---
+apparently lacks pyroxene (figure 4).
+
+        Figure 2: Map of south rim of NRC, A16, with       Chemistry
+         location of rake sample 676xx.                          Stoffler et al. (1985) reported analyses (table) and found
+                                                                                      it grouped with “granulitic” breccias (figure 6).
+
+                                              Radiogenic age dating
+                                                               Stoffler et al. (1985) reported Ar/Ar data for 67615
+                                                              (figure 5).
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 17-40 ---
+Figure 5: Ar/Ar ages of impact melt samples from
+                                              NRC (Stoffler et al. 1985).
+
+
+
+                                                   Table 1. Chemical composition of 67615
+
+   Processing                                                        referenceweight      Stoffler85
+   There is only one small thin section and more could be       SiO2 %    43.51    (a)
+    learned if there was another.                                 TiO2       0.23     (a)
+                                                               Al2O3     33.33    (a)
+                                                      FeO       2.12     (a)
+                                                 MnO
+                                                 MgO       1.6       (a)
+                                                    CaO       18.17    (a)
+                                                      Na2O      0.58     (a)
+                  67615                       K2O       0.07     (a)
+                      8.8 grams                    P2O5      0.06     (a)
+
+                                                             Sc ppm    7.2       (b)
+                                                       Co        7.28     (b)
+          ,0       ,2    ,1       ,3        ,8      ,11                Ni        35        (b)
+         6.9 g  PB   0.3 g   0.3 g    0.3 g   0.4 g           Cs ppm
+--- mineralogy block 2; lines 1-7 ---
+Figure 4: Composition of olivine in rake samples
+                                                              from NRC, including 67615 (frm Steele and Smith
+                                                                  1973).
+--- material block 3; lines 1-7 ---
+Figure 4: Composition of olivine in rake samples
+                                                              from NRC, including 67615 (frm Steele and Smith
+                                                                  1973).
+--- material block 4; lines 12-24 ---
+67615
+
+
+
+
+
+                                                                  Figure 5: Ar/Ar ages of impact melt samples from
+                                              NRC (Stoffler et al. 1985).
+
+
+
+                                                   Table 1. Chemical composition of 67615
+--- references block 5; lines 38-47 ---
+Co        7.28     (b)
+          ,0       ,2    ,1       ,3        ,8      ,11                Ni        35        (b)
+         6.9 g  PB   0.3 g   0.3 g    0.3 g   0.4 g           Cs ppm
+                                                         Ba       64        (b)
+                                              Sm        1.79     (b)
+                     ,4                                         Yb        1.41     (b)
+              TS                                                     technique:  (a) DBA, (b) INAA
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 8-20 ---
+rim of NRC (Stoffler et al. 1985).
+
+
+   References for 67615
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                                  Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    Catalog. pp. 370.
+                                                                of some Apollo 16 rocks and fines: General petrologic model
+                                                               of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   and chemical description. Science 179, 23-34.
+                                                                      Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+--- material block 2; lines 1-13 ---
+67615
+
+
+
+
+
+                  Figure 6: Normalized rare-earth-element diagram for granulitic-textured rake samples from
+                 rim of NRC (Stoffler et al. 1985).
+
+
+   References for 67615
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+--- material block 3; lines 27-39 ---
+highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+                                                            Res. 90, C449-C506.
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                               In Geology of the Apollo 16 area, central lunar highlands.
+   Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   67515 to 68537:  Sample classification, description and
+    inventory. Curator Catalog, JSC
+
+Lunar Sample Compendium
+C Meyer 2012
+--- references block 4; lines 5-17 ---
+Figure 6: Normalized rare-earth-element diagram for granulitic-textured rake samples from
+                 rim of NRC (Stoffler et al. 1985).
+
+
+   References for 67615
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                                  Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    Catalog. pp. 370.
+                                                                of some Apollo 16 rocks and fines: General petrologic model
+                                                               of the moon. Proc. 4th Lunar Sci. Conf. 519-536.

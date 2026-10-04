@@ -1,0 +1,377 @@
+DOCUMENT_ID: 14072__compendium__1c4802df92
+ATLAS_SAMPLE_IDS: 14072
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14072.pdf
+SOURCE_PDF_SHA256: fae17996df500ec79287aaec2aa314ad345d3febe2f51ba87f34f42b28da7f0b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+14072
+                                     Olivine Basalt
+                                        45 grams
+--- material block 2; lines 1-8 ---
+14072
+                                     Olivine Basalt
+                                        45 grams
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 7-19 ---
+En                                         Fs
+
+                                                Fo                                       Fa
+                                                                                                     compiled by C Meyer
+                                                                 Figure 6: Pyroxene and olivine composition of
+                                                          14072 (McGee et al. 1977).
+--- mineralogy block 2; lines 27-51 ---
+crystallization age of ~ 4.0 b.y. and an exposure age
+                                                           of 21 m.y. (Cone Crater age). 14072, and its companion
+                                                   14053, are highly reduced with unique masses of
+                                                  spongy metallic iron in the mesostasis.
+
+                                              Petrography
+                                                 17072 is a porphyritic basalt with medium-sized olivine
+                                                           phenocrysts, subophitc to ophitic texture and little glass
+                                                              in its residium (Longhi et al. 1972). Olivine appears
+                                                              in 14072 as large, subrounded pheopcrysts (Fo75) up
+           Figure 5: Photo of iron grains in mesostasis, with    to 2 mm across, as inclusions (Fo65) in large pyroxenes
+             crystobilite etc (Longhi et al. 1972).              and as part of the late-stage assemblage (Fo35) with
+                                                                 cristobalite and spongy network of native iron (figure
+        Mineralogical Mode for 14072                     5).
+                          Longhi et       McGee et
+                                      al. 1972              al. 1977
+                                                      El Goresy et al. (1972) studied the opaque mineralogy.          Olivine            2.5 %           2 – 3 %
+         Pyroxene        50              50
+           Plagioclase        38.3            38              Neal and Kramer (2006) claimed that “14072 is unique
+           Ilmenite +                               when compared with the other Apollo 14 basalts”.
+           Chromite-ulvo.   7.7             8                                                  However, it has some similarity with 14053.
+           Cristobalite        1.7             2
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 20-39 ---
+Figure 7: Composition of iron grains in 14072 (El
+                                                             Goresy et al. 1972).
+
+         Figure 4: Photomicrographs of thin section
+         14072,11 by C Meyer @50x.                     Introduction
+                                                 Sample 14072 was picked up on the rim of Cone Crater
+                                               (Swann et al. 1971).  It is a mare basalt with an old
+                                                                crystallization age of ~ 4.0 b.y. and an exposure age
+                                                           of 21 m.y. (Cone Crater age). 14072, and its companion
+                                                   14053, are highly reduced with unique masses of
+                                                  spongy metallic iron in the mesostasis.
+
+                                              Petrography
+                                                 17072 is a porphyritic basalt with medium-sized olivine
+                                                           phenocrysts, subophitc to ophitic texture and little glass
+                                                              in its residium (Longhi et al. 1972). Olivine appears
+                                                              in 14072 as large, subrounded pheopcrysts (Fo75) up
+           Figure 5: Photo of iron grains in mesostasis, with    to 2 mm across, as inclusions (Fo65) in large pyroxenes
+             crystobilite etc (Longhi et al. 1972).              and as part of the late-stage assemblage (Fo35) with
+                                                                 cristobalite and spongy network of native iron (figure
+--- age block 4; lines 21-34 ---
+Goresy et al. 1972).
+
+         Figure 4: Photomicrographs of thin section
+         14072,11 by C Meyer @50x.                     Introduction
+                                                 Sample 14072 was picked up on the rim of Cone Crater
+                                               (Swann et al. 1971).  It is a mare basalt with an old
+                                                                crystallization age of ~ 4.0 b.y. and an exposure age
+                                                           of 21 m.y. (Cone Crater age). 14072, and its companion
+                                                   14053, are highly reduced with unique masses of
+                                                  spongy metallic iron in the mesostasis.
+
+                                              Petrography
+                                                 17072 is a porphyritic basalt with medium-sized olivine
+                                                           phenocrysts, subophitc to ophitic texture and little glass
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 6-28 ---
+A11
+                                                                                                10
+
+
+                                                                                                     8
+        Figure 8: MgO content of ilmenite in 14072        TiO2
+       (ELGoresy et al. 1972).                                                        6
+
+                                                                                                     4
+                                                                                                                     A12
+                                                                                                     2                        A15           14072
+
+
+                                                                                                     0
+                                                                                                       0                5                10                15               20
+                                              MgO
+
+                                                                     Figure 10: Composition of 14072 compared
+                                                                        with other Apollo basalts.
+--- chemistry block 2; lines 43-61 ---
+Pyroxene: McGee et al. (1977) determined the
+                                            Chemistry
+   pyroxene composition (figure 6).
+                                             Helmke et al. (1972), Taylor et al. (1972), Dickenson
+                                                                  et al. (1985, 1989) and Neal (2001) determined the   Metallic iron: Haggerty (1977) found that the metallic
+                                                     chemical composition of 14072 (figures 10 and 11).    iron that is an apparent reduction phenonemen is low
+                                               Hughes et al. (1973) also reported data for siderophile    in Co, while the initial iron grains included in olivine
+                                                  and volatile element concentrations. Note that their   had high Co content (figure 7).
+                                                     data indicate that 14072 is uncontaminated by
+                                                            meteoritic material (unlike 14310). Warner et al. (1980)   Ilmenite: von Engelhardt (1979) noticed that ilmenite
+                                                      noted that the composition of 14072 was somewhat    in 14072 was similar to that in 14053 – a mare basalt.
+                                                                like that of 14053.   ElGoresy et al. (1972) determined that it had 2 % MgO
+    (figure 8). Haggerty (1977) also reported on ilmenite.
+                                              Radiogenic age dating
+                                               Compston et al. (1971) determined a Rb/Sr mineral   Chromite-Ulvospinel: Haggerty (1977) and ElGoresy
+                                                        isochron with age of 3.99 ± 0.09 b.y. (figure 12). York    et al. (1972) studied the “breakdown” and exsolution
+                                                                  et al. (1972) reported an Ar-Ar age of 4.04 ± 0.05 b.y.    in ulvospinel (figure 9).
+                                                              for 14072.
+--- mineralogy block 3; lines 6-18 ---
+A11
+                                                                                                10
+
+
+                                                                                                     8
+        Figure 8: MgO content of ilmenite in 14072        TiO2
+       (ELGoresy et al. 1972).                                                        6
+
+                                                                                                     4
+                                                                                                                     A12
+                                                                                                     2                        A15           14072
+--- mineralogy block 4; lines 33-62 ---
+Walker et al. (1972) determined the phase diagram for
+   a melt with the composition of 14072 (figure 13).
+
+   Mineralogy
+   Olivine: Haggerty (1977) carefully studied the various           Figure 11: Normalized rare-earth-element
+   types of olivine in 14072.  Olivine phenocrysts are          diagram for 14072.
+   found to have symplectite.
+
+   Pyroxene: McGee et al. (1977) determined the
+                                            Chemistry
+   pyroxene composition (figure 6).
+                                             Helmke et al. (1972), Taylor et al. (1972), Dickenson
+                                                                  et al. (1985, 1989) and Neal (2001) determined the   Metallic iron: Haggerty (1977) found that the metallic
+                                                     chemical composition of 14072 (figures 10 and 11).    iron that is an apparent reduction phenonemen is low
+                                               Hughes et al. (1973) also reported data for siderophile    in Co, while the initial iron grains included in olivine
+                                                  and volatile element concentrations. Note that their   had high Co content (figure 7).
+                                                     data indicate that 14072 is uncontaminated by
+                                                            meteoritic material (unlike 14310). Warner et al. (1980)   Ilmenite: von Engelhardt (1979) noticed that ilmenite
+                                                      noted that the composition of 14072 was somewhat    in 14072 was similar to that in 14053 – a mare basalt.
+                                                                like that of 14053.   ElGoresy et al. (1972) determined that it had 2 % MgO
+    (figure 8). Haggerty (1977) also reported on ilmenite.
+                                              Radiogenic age dating
+                                               Compston et al. (1971) determined a Rb/Sr mineral   Chromite-Ulvospinel: Haggerty (1977) and ElGoresy
+                                                        isochron with age of 3.99 ± 0.09 b.y. (figure 12). York    et al. (1972) studied the “breakdown” and exsolution
+                                                                  et al. (1972) reported an Ar-Ar age of 4.04 ± 0.05 b.y.    in ulvospinel (figure 9).
+                                                              for 14072.
+--- material block 5; lines 48-60 ---
+et al. (1985, 1989) and Neal (2001) determined the   Metallic iron: Haggerty (1977) found that the metallic
+                                                     chemical composition of 14072 (figures 10 and 11).    iron that is an apparent reduction phenonemen is low
+                                               Hughes et al. (1973) also reported data for siderophile    in Co, while the initial iron grains included in olivine
+                                                  and volatile element concentrations. Note that their   had high Co content (figure 7).
+                                                     data indicate that 14072 is uncontaminated by
+                                                            meteoritic material (unlike 14310). Warner et al. (1980)   Ilmenite: von Engelhardt (1979) noticed that ilmenite
+                                                      noted that the composition of 14072 was somewhat    in 14072 was similar to that in 14053 – a mare basalt.
+                                                                like that of 14053.   ElGoresy et al. (1972) determined that it had 2 % MgO
+    (figure 8). Haggerty (1977) also reported on ilmenite.
+                                              Radiogenic age dating
+                                               Compston et al. (1971) determined a Rb/Sr mineral   Chromite-Ulvospinel: Haggerty (1977) and ElGoresy
+                                                        isochron with age of 3.99 ± 0.09 b.y. (figure 12). York    et al. (1972) studied the “breakdown” and exsolution
+                                                                  et al. (1972) reported an Ar-Ar age of 4.04 ± 0.05 b.y.    in ulvospinel (figure 9).
+--- age block 6; lines 51-65 ---
+and volatile element concentrations. Note that their   had high Co content (figure 7).
+                                                     data indicate that 14072 is uncontaminated by
+                                                            meteoritic material (unlike 14310). Warner et al. (1980)   Ilmenite: von Engelhardt (1979) noticed that ilmenite
+                                                      noted that the composition of 14072 was somewhat    in 14072 was similar to that in 14053 – a mare basalt.
+                                                                like that of 14053.   ElGoresy et al. (1972) determined that it had 2 % MgO
+    (figure 8). Haggerty (1977) also reported on ilmenite.
+                                              Radiogenic age dating
+                                               Compston et al. (1971) determined a Rb/Sr mineral   Chromite-Ulvospinel: Haggerty (1977) and ElGoresy
+                                                        isochron with age of 3.99 ± 0.09 b.y. (figure 12). York    et al. (1972) studied the “breakdown” and exsolution
+                                                                  et al. (1972) reported an Ar-Ar age of 4.04 ± 0.05 b.y.    in ulvospinel (figure 9).
+                                                              for 14072.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 14072.
+
+
+     reference  Neal2001 Neal 2006 Hubbard72 Taylor72      Dickinson85     Helmke72 Dickinson89     Longhi72   Hughes73
+     weight
+    SiO2 %                       45.2    (c ) 45.15           (c )                                        44.94   (e)
+    TiO2                          2.57    (c ) 2.57            (c ) 2.6       (b)                             2.56    (e)
+    Al2O3                          11.1    (c ) 11.07           (c ) 11.1      (b)                             11.31   (e)
+   FeO                          17.8    (c ) 17.82           (c ) 17.8      (b)            16.5   17.7   (b) 17.07   (e)
+   MnO                          12.2    (c ) 0.27            (c ) 0.27      (b)
+   MgO                                     12.16           (c ) 12.2      (b)                            12.21   (e)
+   CaO                          9.84    (c ) 9.84            (c ) 9.3       (b)           8      8.82   (b) 9.63    (e)
+   Na2O                         0.32    (c ) 0.32            (c ) 0.32      (b)            0.32   0.34   (b) 0.38    (e)
+   K2O                          0.08    (c ) 0.08            (c ) 0.08      (b)                              0.11    (e)
+   P2O5                         0.08    (c ) 0.08            (c )
+   S %                                      0.51            (c )                                                   0.135    (f)
+    sum
+
+    Sc ppm   57.3      51.6    (d)                                           47.1    (b) 51    54     (b)
+   V        117      104     (d)                               (c )
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 14072.
+
+
+     reference  Neal2001 Neal 2006 Hubbard72 Taylor72      Dickinson85     Helmke72 Dickinson89     Longhi72   Hughes73
+     weight
+    SiO2 %                       45.2    (c ) 45.15           (c )                                        44.94   (e)
+    TiO2                          2.57    (c ) 2.57            (c ) 2.6       (b)                             2.56    (e)
+    Al2O3                          11.1    (c ) 11.07           (c ) 11.1      (b)                             11.31   (e)
+   FeO                          17.8    (c ) 17.82           (c ) 17.8      (b)            16.5   17.7   (b) 17.07   (e)
+   MnO                          12.2    (c ) 0.27            (c ) 0.27      (b)
+--- references block 3; lines 65-75 ---
+Os ppb                                                                                                              2.4        (f)
+       Ir ppb                                                                                                           0.15      (f)
+     Pt ppb
+    Au ppb                                                                                                      0.089    (f)
+    Th ppm    1.13      1.02    (d)            0.78    1.04   (a)  0.9       (b)             1.3    1.3    (b)
+   U ppm    0.31      0.29    (d)            0.22    0.29   (a)
+     technique:  (a) spark source ms, (b) INAA, (c ) XRF, (d) ICP-MS, (e) the easy way, (f) the hard way
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: age ===
+--- age block 1; lines 1-18 ---
+Firuge 12: Rb/Sr isochron for 14072 (Compston
+           et al. 1972).
+
+  Summary of Age Data for 14072
+                             Ar/Ar            Rb/Sr
+    York et al. 1972            4.04 ± 0.05 b.y.                       Figure 13: Phase diagram for 14072 (Walker et
+   Compston et al. 1971                         3.99 ± 0.09             al. 1972).
+    Caution: be careful of decay constant and Ar standard.
+
+
+   Cosmogenic isotopes and exposure ages
+   York et al. (1972) determined an 38Ar exposure age of
+   21 m.y.
+
+   Processing
+   14072 was returned in bag 10N in ALSRC 1006. There
+   are 7 thin sections for 14072.
+
+=== PDF PAGE 6; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 42-60 ---
+Haggerty S.E. (1977) Apollo 14: Oxide, metal and olivine  Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+    mineral chemistries in 14072 with a bearing on the temporal   Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+     relationships of subsolidus reduction. Proc. 8th Lunar Sci.   revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+    Conf. 1809-1829.                                                Sci. Conf. 1869-1893.
+
+   Helmke P.A., Haskin L.A., Korotev R.L. and Ziege K.E.   Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of
+    (1972) Rare earths and other trace elements in Apollo 14   the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+    samples. Proc. 3rd Lunar Sci. Conf. 1275-1292.             38.
+
+   Hubbard N.J., Gast P.W., Rhodes J.M., Bansal B.M.,  Swann G.A., Trask N.J., Hait M.H. and Sutton R.L. (1971a)
+   Wiesmann H. and Church S.E. (1972) Nonmare basalts:   Geologic setting of the Apollo 14 samples.  Science 173,
+    Part II. Proc. 3rd Lunar Sci. Conf. 1161-1179.             716-719.
+
+   Hughes T.C., Keays R.R. and Lovering J.F. (1973)  Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+    Siderophile and volatile trace elements in Apollo 14, 15 and   M.H., Holt H.E., Larson K.B., Reed V.S., Schaber G.G.,
+                                                              Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+
+Lunar Sample Compendium
+C Meyer 2011
+--- mineralogy block 2; lines 28-48 ---
+Dickinson T., Taylor G.J., Keil K. and Bild R.W. (1989)   Neal C.R. and Kramer G.Y. (2006) The petrogenesis of the
+   Germanium abundances in lunar basalts: Evidence of mantle   Apollo 14 high-Al mare basalts. Am. Mineralogist 91, 1521-
+    metasomatism. Proc. 19th Lunar Planet. Sci. 189-198. LPI   1535.
+
+    El Goresy A., Taylor L.A. and Ramdohr P. (1972) Fra Mauro   Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+     crystalline rocks: Mineralogy, geochemistry and subsolidus  Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+    reduction of the opaque minerals. Proc. 3rd Lunar Sci. Conf.   mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+    333-349.                                               475-540.
+
+    von Engelhardt W. (1979)  Ilmenite in the crystallization  Ryder G. and Spudis P. (1980) Volcanic rocks in the lunar
+    sequence of lunar rocks. Proc. 10th Lunar Sci. Conf. 677-   highlands.  Proc. Conf. Lunar Highlands Crust 353-375.
+    694.                                                          eds. Papike and Merrill LPI
+
+    Haggerty S.E. (1977) Apollo 14: Oxide, metal and olivine  Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+    mineral chemistries in 14072 with a bearing on the temporal   Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+     relationships of subsolidus reduction. Proc. 8th Lunar Sci.   revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+    Conf. 1809-1829.                                                Sci. Conf. 1869-1893.
+
+   Helmke P.A., Haskin L.A., Korotev R.L. and Ziege K.E.   Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of
+    (1972) Rare earths and other trace elements in Apollo 14   the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+--- material block 3; lines 2-27 ---
+References for 14072                                        Tl-, Au- and Ag-enriched rocks in the ancient lunar crust
+    Arvidson R., Crozaz G., Drozd R.J., Hohenberg C.M. and   (abs). LS IV, 400-402.
+   Morgan C.J. (1975) Cosmic ray exposure ages of features
+    and events at the Apollo landing sites. The Moon 13, 259-  Longhi J., Walker D. and Hays J.F. (1972) Petrology and
+    276.                                                            crystallization history of basalts 14310 and 14072. Proc.
+                                                                                3rd Lunar Sci. Conf. 131-139.
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+    Samples. Curators Office. JSC 14240                     Lovering J.F., Wark D.A., Geadow A.J.W. and Sewell D.K.B.
+                                                           (1972) Uranium and potasium fractionation in pre-Imbrian
+    Clayton R.N., Hurd J.M. and Mayeda T.K. (1972) Oxygen   lunar crstral rocks. Proc. 3rd Lunar Sci. Conf. 281-294.
+    isotopic compositions and oxygen concentrations of Apollo
+    14 and Apollo 15 rocks and soils.  Proc. 3rd  Lunar Sci.  LSPET (1971) Preliminary examination of lunar samples
+    Conf. 1455-1463.                                    from Apollo 14. Science 173, 681-693.
+
+   Compston W. Vernon M.J., Berry H. and Rudoski R. (1971)   Neal C.R. (2001)   Interior of the moon: The presence of
+   The age of the Fra Mauro formation: A radiometric older   garnet in the primitive deep lunar mantle. J. Geophys. Res.
+     limit. Earth Planet. Sci. Lett. 12, 55-58.                   106, 27865-27885.
+
+   Compston W., Vernon M.J., Berry H., Rudowski R., Gray  Neal C.R. (2007)  Mining the literature for new data:
+    C.M., Ware N., Chappell B.W. and Kaye M. (1972) Proc.  Expanding the Apollo 14 high-alumina basalt isotope
+     3rd Lunar Sci. Conf. 1487-1501.                           database (abs). Lunar Planet. Sci. XXXVIII #2398
+
+    Dickinson T., Taylor G.J., Keil K., Schmitt R.A., Hughes   Neal C.R., Shih C-Y., Reese Y., Nyquist L.E. and Kramer
+    S.S. and Smith M.R. (1985)  Apollo 14 aluminous mare   G.Y. (2006) Derivation of Apollo 14 high-Al basalts from
+     basalts and their possible relationship to KREEP. Proc. 15th   distinct source regions at discrete times: New constraints
+    Lunar Planet. Sci. Conf. C365-C374.                          (abs). Lunar Planet. Sci. XXXVII #2003
+--- age block 4; lines 1-23 ---
+16 rocks and fines: Evidence for extralunar component and
+   References for 14072                                        Tl-, Au- and Ag-enriched rocks in the ancient lunar crust
+    Arvidson R., Crozaz G., Drozd R.J., Hohenberg C.M. and   (abs). LS IV, 400-402.
+   Morgan C.J. (1975) Cosmic ray exposure ages of features
+    and events at the Apollo landing sites. The Moon 13, 259-  Longhi J., Walker D. and Hays J.F. (1972) Petrology and
+    276.                                                            crystallization history of basalts 14310 and 14072. Proc.
+                                                                                3rd Lunar Sci. Conf. 131-139.
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+    Samples. Curators Office. JSC 14240                     Lovering J.F., Wark D.A., Geadow A.J.W. and Sewell D.K.B.
+                                                           (1972) Uranium and potasium fractionation in pre-Imbrian
+    Clayton R.N., Hurd J.M. and Mayeda T.K. (1972) Oxygen   lunar crstral rocks. Proc. 3rd Lunar Sci. Conf. 281-294.
+    isotopic compositions and oxygen concentrations of Apollo
+    14 and Apollo 15 rocks and soils.  Proc. 3rd  Lunar Sci.  LSPET (1971) Preliminary examination of lunar samples
+    Conf. 1455-1463.                                    from Apollo 14. Science 173, 681-693.
+
+   Compston W. Vernon M.J., Berry H. and Rudoski R. (1971)   Neal C.R. (2001)   Interior of the moon: The presence of
+   The age of the Fra Mauro formation: A radiometric older   garnet in the primitive deep lunar mantle. J. Geophys. Res.
+     limit. Earth Planet. Sci. Lett. 12, 55-58.                   106, 27865-27885.
+
+   Compston W., Vernon M.J., Berry H., Rudowski R., Gray  Neal C.R. (2007)  Mining the literature for new data:
+    C.M., Ware N., Chappell B.W. and Kaye M. (1972) Proc.  Expanding the Apollo 14 high-alumina basalt isotope
+     3rd Lunar Sci. Conf. 1487-1501.                           database (abs). Lunar Planet. Sci. XXXVIII #2398
+--- age block 5; lines 32-44 ---
+El Goresy A., Taylor L.A. and Ramdohr P. (1972) Fra Mauro   Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+     crystalline rocks: Mineralogy, geochemistry and subsolidus  Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+    reduction of the opaque minerals. Proc. 3rd Lunar Sci. Conf.   mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+    333-349.                                               475-540.
+
+    von Engelhardt W. (1979)  Ilmenite in the crystallization  Ryder G. and Spudis P. (1980) Volcanic rocks in the lunar
+    sequence of lunar rocks. Proc. 10th Lunar Sci. Conf. 677-   highlands.  Proc. Conf. Lunar Highlands Crust 353-375.
+    694.                                                          eds. Papike and Merrill LPI
+
+    Haggerty S.E. (1977) Apollo 14: Oxide, metal and olivine  Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+    mineral chemistries in 14072 with a bearing on the temporal   Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+     relationships of subsolidus reduction. Proc. 8th Lunar Sci.   revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+--- references block 6; lines 1-8 ---
+16 rocks and fines: Evidence for extralunar component and
+   References for 14072                                        Tl-, Au- and Ag-enriched rocks in the ancient lunar crust
+    Arvidson R., Crozaz G., Drozd R.J., Hohenberg C.M. and   (abs). LS IV, 400-402.
+   Morgan C.J. (1975) Cosmic ray exposure ages of features
+    and events at the Apollo landing sites. The Moon 13, 259-  Longhi J., Walker D. and Hays J.F. (1972) Petrology and
+    276.                                                            crystallization history of basalts 14310 and 14072. Proc.
+                                                                                3rd Lunar Sci. Conf. 131-139.
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock

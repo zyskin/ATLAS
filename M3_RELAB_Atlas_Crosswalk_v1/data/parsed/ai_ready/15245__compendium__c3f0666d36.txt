@@ -1,0 +1,271 @@
+DOCUMENT_ID: 15245__compendium__c3f0666d36
+ATLAS_SAMPLE_IDS: 15245
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15245.pdf
+SOURCE_PDF_SHA256: b54f7c5e7632c8c939b49c86595f49752a0c77da417518aa0a4c5b8cd36d11af
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 12-30 ---
+scenery reminded them of Sun Valley, Idaho. This is what it looked like from station 6.
+
+
+   Introduction
+   15245 was collected from the glassy bottom of a small
+    fresh crater (figure 3) – along with soil 15240.  It was
+   apparently picked up as a delicate glass-welded soil
+   breccia (see transcript) which broke up into about 90
+   small fragments (figure 5), the largest of which was
+   only 12 grams (figure 4).
+
+   The Apollo 11 astronauts were to first to remark on the
+   abundance of shiny glass at the bottom of fresh craters,
+   but this sample from Apollo 15 appears to be the best
+   one collected and made available for study.
+--- material block 2; lines 1-8 ---
+15245
+                                   Regolith Breccia
+                                           115.5 grams
+
+                                           Ski Hadley Delta
+--- material block 3; lines 11-25 ---
+Figure 1: The first assect of the Apennine Front was an awesome event. The astronauts remarked that the
+          scenery reminded them of Sun Valley, Idaho. This is what it looked like from station 6.
+
+
+   Introduction
+   15245 was collected from the glassy bottom of a small
+    fresh crater (figure 3) – along with soil 15240.  It was
+   apparently picked up as a delicate glass-welded soil
+   breccia (see transcript) which broke up into about 90
+   small fragments (figure 5), the largest of which was
+   only 12 grams (figure 4).
+
+   The Apollo 11 astronauts were to first to remark on the
+   abundance of shiny glass at the bottom of fresh craters,
+   but this sample from Apollo 15 appears to be the best
+
+=== PDF PAGE 2; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 8-26 ---
+is 50 cm. AS15-86-11614
+
+
+    Transcript
+   CDR    There’s one of those fresh little craters.  Let’s go
+    sample that one.
+   LMP   Got glass in the bottom.
+   CDR   Okay.  I’ll get you a bag. And, it looks to me like
+    the best thing to do – would be to – scoop the side – scoop
+    the center where the glass is. Oh, what a beautiful sight.
+   You know, we’re a long way from the LM. At least we can
+    see it.
+   LMP   And we’re going to sample the glass in the middle
+    of it.
+   CDR    Yes.  Start with the middle, and we’ll pick up the
+    rim, too.
+   LMP     It all felt kind of welded together.
+   CDR   Hey, get me another load.
+   LMP     I hope it stays together for us. Like fragments all
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 5-23 ---
+Figure 5: Photo of particles that make up 15245. Scale and cube are in cm. S71-47912, 47990, 47931, 47938
+
+   Petrography
+  McKay et al. (1989) reported that the maturity      Mineralogical Mode for 15245
+   index for 15245 was Is/FeO = 41. They also                    (McKay et al. 1989)                                                                                   20-500 mciron    500-1000 micron
+   reported a high percentage of agglutinates.                                                           Mare Basalt       1.3 %           0 %
+                                                 KREEP basalt    4                 15.4
+   Chemistry                                                        Plutonic         1               31
+   Brunfelt et al. (1972), Wanke et al. (1976) and McKay        Breccias         6                 23.1
+                                                                         Olivine          1               0
+    et al. (1989) found that the bulk composition of 15245                                                                  Pyroxene         14.7            0
+   was similar to that of the soil (figure 7). Moore et al.        Plagioclase       16.3            0
+   (1973) reported 132 ppm carbon (figure 8).                 Opaques          0.7             0
+                                                                       Glass             13.7              15.4
+                                                                         Agglutinates      22                15.4
+   Other Studies
+   Fabel et al. (1972) reported soft x-ray studies and gave
+--- mineralogy block 2; lines 4-26 ---
+Figure 5: Photo of particles that make up 15245. Scale and cube are in cm. S71-47912, 47990, 47931, 47938
+
+   Petrography
+  McKay et al. (1989) reported that the maturity      Mineralogical Mode for 15245
+   index for 15245 was Is/FeO = 41. They also                    (McKay et al. 1989)                                                                                   20-500 mciron    500-1000 micron
+   reported a high percentage of agglutinates.                                                           Mare Basalt       1.3 %           0 %
+                                                 KREEP basalt    4                 15.4
+   Chemistry                                                        Plutonic         1               31
+   Brunfelt et al. (1972), Wanke et al. (1976) and McKay        Breccias         6                 23.1
+                                                                         Olivine          1               0
+    et al. (1989) found that the bulk composition of 15245                                                                  Pyroxene         14.7            0
+   was similar to that of the soil (figure 7). Moore et al.        Plagioclase       16.3            0
+   (1973) reported 132 ppm carbon (figure 8).                 Opaques          0.7             0
+                                                                       Glass             13.7              15.4
+                                                                         Agglutinates      22                15.4
+   Other Studies
+   Fabel et al. (1972) reported soft x-ray studies and gave
+   an analysis that makes no sense at all.
+
+   Megrue (1973) determined He, Ne and Ar and their
+--- material block 3; lines 6-24 ---
+Figure 5: Photo of particles that make up 15245. Scale and cube are in cm. S71-47912, 47990, 47931, 47938
+
+   Petrography
+  McKay et al. (1989) reported that the maturity      Mineralogical Mode for 15245
+   index for 15245 was Is/FeO = 41. They also                    (McKay et al. 1989)                                                                                   20-500 mciron    500-1000 micron
+   reported a high percentage of agglutinates.                                                           Mare Basalt       1.3 %           0 %
+                                                 KREEP basalt    4                 15.4
+   Chemistry                                                        Plutonic         1               31
+   Brunfelt et al. (1972), Wanke et al. (1976) and McKay        Breccias         6                 23.1
+                                                                         Olivine          1               0
+    et al. (1989) found that the bulk composition of 15245                                                                  Pyroxene         14.7            0
+   was similar to that of the soil (figure 7). Moore et al.        Plagioclase       16.3            0
+   (1973) reported 132 ppm carbon (figure 8).                 Opaques          0.7             0
+                                                                       Glass             13.7              15.4
+                                                                         Agglutinates      22                15.4
+   Other Studies
+   Fabel et al. (1972) reported soft x-ray studies and gave
+   an analysis that makes no sense at all.
+--- treatment block 4; lines 4-16 ---
+Figure 5: Photo of particles that make up 15245. Scale and cube are in cm. S71-47912, 47990, 47931, 47938
+
+   Petrography
+  McKay et al. (1989) reported that the maturity      Mineralogical Mode for 15245
+   index for 15245 was Is/FeO = 41. They also                    (McKay et al. 1989)                                                                                   20-500 mciron    500-1000 micron
+   reported a high percentage of agglutinates.                                                           Mare Basalt       1.3 %           0 %
+                                                 KREEP basalt    4                 15.4
+   Chemistry                                                        Plutonic         1               31
+   Brunfelt et al. (1972), Wanke et al. (1976) and McKay        Breccias         6                 23.1
+                                                                         Olivine          1               0
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-22 ---
+25
+   Table 1. Chemical composition of 15245.
+                                                                                20                      Apollo soils
+     reference  McKay89           Brunfelt72   Wanke 76                                      A15 breccias
+     weight
+    SiO2 %                                    48.4    (b)                  15
+    TiO2      1.45             (a)  1.24              FeO                                  15245
+    Al2O3     16.3             (a) 15.78        17.4    (b)                  10
+   FeO       11.8    11.9    (a) 12         12      (b)
+   MnO      0.16             (a)  0.22         0.16    (b)
+                                                                                    5
+   MgO      10.6             (a) 10           10.8    (b)
+   CaO       10.2    11.4    (a)  9.8          10.8    (b)
+   Na2O     0.47    0.49    (a)  0.46         0.47    (b)                   0
+   K2O                                        0.2      (b)                     0       5       10      15      20      25      30      35
+   P2O5                                                       Al2O3
+   S %
+    sum                                                           Figure 6: Composition of 15245 compared with
+                                                                             that of Apollo soils and Apollo 15 breccias.
+    Sc ppm    22.8    22.6    (a)  21.9      (a) 23.5    (b)
+   V        73               (a) 76        (a) 84      (b)
+    Cr        2160   2180   (a) 3295      (a) 2210    (b)
+--- references block 2; lines 1-10 ---
+25
+   Table 1. Chemical composition of 15245.
+                                                                                20                      Apollo soils
+     reference  McKay89           Brunfelt72   Wanke 76                                      A15 breccias
+     weight
+    SiO2 %                                    48.4    (b)                  15
+    TiO2      1.45             (a)  1.24              FeO                                  15245
+    Al2O3     16.3             (a) 15.78        17.4    (b)                  10
+   FeO       11.8    11.9    (a) 12         12      (b)
+   MnO      0.16             (a)  0.22         0.16    (b)
+--- references block 3; lines 66-75 ---
+Os ppb
+       Ir ppb      8.7     6.7     (a)             8        (b)
+     Pt ppb
+    Au ppb    3.1     2       (a)
+    Th ppm    4.3     4.6     (a)  3.98      (a) 4.6      (b)
+   U ppm     1.13    1.1     (a)  1.02      (a)
+     technique:  (a) INAA, (b) various
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: material ===
+--- material block 1; lines 24-42 ---
+0.06 g                     1.1 g                                                  TS
+
+
+
+
+
+      Rock
+
+     CMB
+
+         Regolith Breccia                                   15245
+
+           soil
+
+
+
+
+
+   0                 50               100               150               200
+
+=== PDF PAGE 6; CATEGORIES: material,references,treatment ===
+--- material block 1; lines 17-39 ---
+Geologic Investigation of the Apollo 15 landing site.  In
+   LSPET (1972b) Preliminary examination of lunar samples.   Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+    Apollo 15 Preliminary Science Report. NASA SP-289, 6-   5-1-112.
+   1—6-28.
+                                               Wänke H., Palme H., Kruse H., Baddenhausen H., Cendales
+   McKay D.S., Morris R.V. and Wentworth S.J. (1984)   M., Dreibus G., Hofmeister H., Jagoutz E., Palme C., Spettel
+    Maturity of regolith breccias as revealed by ferromagnetic   B. and Thacker R. (1976) Chemistry of lunar highland rocks:
+    and petrographic indicies (abs). Lunar Planet. Sci. XV, 530-   a refined evaluation of the composition of the primary matter.
+    531. Lunar Planetary Institute, Houston.                   Proc. 7th Lunar Sci. Conf. 3479-3499.
+
+   McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+    Wentworth S.J. and Johnson P. (1989) Apollo 15 regolith
+     breccias: Window to a KREEP regolith. Proc. 19th Lunar
+     Sci. Conf. 19-41. Lunar Planetary Institute, Houston.
+
+   Megrue G.H. (1973a) Spatial distributions of 40Ar/39Ar ages
+     in lunar breccia 14301.  J. Geophys. Res. 78, 3216-3221.
+
+   Mergue G.H. (1973b) Distribution of gases within Apollo
+    15 samples: Implications for the incorporation of gases
+    within solid bodies of the Solar System.  J. Geophys. Res.
+    78, 4875-4883.
+--- material block 2; lines 44-60 ---
+Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+    carbon contents of Apollo 15 and 16 lunar samples. Proc.
+      4th Lunar Sci. Conf. 1613-1923.
+
+    Nagle J.S. (1982a) Evidence of subcrater lithification and
+    hot ejecta deposition in lunar polymict regolith breccias and
+    achondrites (abs). Lunar Planet. Sci. XIII, 568-569. Lunar
+    Planetary Institute, Houston.
+
+    Nagle J.S. (1982b)  Subcrater lithification of polymict
+     regolith breccias. Proc. 13th Lunar Planet. Sci. Conf. in J.
+    Geophys. Res. 87, A131-A146.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- treatment block 3; lines 17-29 ---
+Geologic Investigation of the Apollo 15 landing site.  In
+   LSPET (1972b) Preliminary examination of lunar samples.   Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+    Apollo 15 Preliminary Science Report. NASA SP-289, 6-   5-1-112.
+   1—6-28.
+                                               Wänke H., Palme H., Kruse H., Baddenhausen H., Cendales
+   McKay D.S., Morris R.V. and Wentworth S.J. (1984)   M., Dreibus G., Hofmeister H., Jagoutz E., Palme C., Spettel
+    Maturity of regolith breccias as revealed by ferromagnetic   B. and Thacker R. (1976) Chemistry of lunar highland rocks:
+    and petrographic indicies (abs). Lunar Planet. Sci. XV, 530-   a refined evaluation of the composition of the primary matter.
+    531. Lunar Planetary Institute, Houston.                   Proc. 7th Lunar Sci. Conf. 3479-3499.
+
+   McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+    Wentworth S.J. and Johnson P. (1989) Apollo 15 regolith
+     breccias: Window to a KREEP regolith. Proc. 19th Lunar
+--- references block 4; lines 1-7 ---
+References for 15245                               Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+    Brunfelt A.O., Heier K.S., Nilssen B., Steiennes E. and   volumes). Curatoial Branch Pub. # 72, JSC#20787
+    Sundvoll B. (1972)  Elemental composition of Apollo 15
+    samples. In The Apollo 15 Lunar Samples (Chamberlain  Ryder G. and Sherman S.B. (1989) The Apollo 15 Coarse
+    and Watkins, eds.), 195-197.  Lunar Science Institute,   Fines. Curators Office #81, JSC#24035
+    Houston.
+                                                 Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich

@@ -1,0 +1,82 @@
+DOCUMENT_ID: 61546__compendium__d4b436e161
+ATLAS_SAMPLE_IDS: 61546
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61546.pdf
+SOURCE_PDF_SHA256: 1f5d86d2138e12dae3b9899676732db3e30f62076188c1da60590d1b4cf71c7b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-22 ---
+61546
+                                Glass Matrix Breccia
+                                           110.7 grams
+
+
+
+
+
+                         Figures 1 a,b: Front and back of 61546. Cube is 1 cm. S72-43422 and 424.
+
+
+
+   Introduction                                Petrography
+   61546 was collected as a rake sample from near Plum  The interior matrix of 61546 is an apahnitc melt that
+   Crater (figure 2) – see section on 61500. It is a vesicular  has partially crystallized. It is probably an impact melt
+   chunk of glass with numerous small white clast. (figure  from a small crater in the regolith. Hunter and Taylor
+   1 a,b). There are micrometeorite craters on one side  (1980) report minor rust.
+    only.
+
+
+
+Lunar Sample Compendium
+--- material block 2; lines 1-22 ---
+61546
+                                Glass Matrix Breccia
+                                           110.7 grams
+
+
+
+
+
+                         Figures 1 a,b: Front and back of 61546. Cube is 1 cm. S72-43422 and 424.
+
+
+
+   Introduction                                Petrography
+   61546 was collected as a rake sample from near Plum  The interior matrix of 61546 is an apahnitc melt that
+   Crater (figure 2) – see section on 61500. It is a vesicular  has partially crystallized. It is probably an impact melt
+   chunk of glass with numerous small white clast. (figure  from a small crater in the regolith. Hunter and Taylor
+   1 a,b). There are micrometeorite craters on one side  (1980) report minor rust.
+    only.
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 2; CATEGORIES: material,references ===
+--- material block 1; lines 17-29 ---
+and chemical description. Science 179, 23-34.
+                                                 C Meyer     61546
+   LSPET (1972c) Preliminary examination of lunar samples.              2012       111 grams
+    In Apollo 16 Preliminary Science Report. NASA SP-315,
+    7-1—7-58.
+                                                       ,0             ,1        ,2    Phinney W. and Lofgren G. (1973) Description, classification
+                                                                         1 g    and inventory of Apollo 16 rake samples from stations 1, 4        109 g     PB
+    and 13. Curators Office.
+                                                                                                     ,4
+                                                                   TS
+
+Lunar Sample Compendium
+C Meyer 2012
+--- references block 2; lines 1-12 ---
+Figure 2: Photomicrograph of thin section of 61546 by C Meyer.
+
+
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   References for 61546                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Catalog. pp. 370.                                                                In Geology of the Apollo 16 area, central lunar highlands.
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+     in Apollo 16 highland rocks: Manifestations of volatile-                                                     Warner J.L., Simonds C.H. and Phinney W.C. (1973b)

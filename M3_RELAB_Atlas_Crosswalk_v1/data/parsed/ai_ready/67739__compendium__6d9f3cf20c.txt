@@ -1,0 +1,128 @@
+DOCUMENT_ID: 67739__compendium__6d9f3cf20c
+ATLAS_SAMPLE_IDS: 67739
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67739.pdf
+SOURCE_PDF_SHA256: 2c48df1146c85d307039fdb61e3e87da1984e3939f1134f5e5aa599447b647f1
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-33 ---
+67739
+                             Glass matrix Impact Breccia
+                                        2 grams
+
+
+
+
+
+         Figure 1: Photo of 67739. Scale in cm/mm. S72-
+        51272
+
+
+                                                               Figure 2: Thin section of 67739 showing glass matrix
+                                                                 with clasts (from Ryder and Norman 1980).
+   Introduction
+   67739 is a rake sample collected from the rim of North
+   Ray Crater – see section on 67701. It is a breccia with
+    glass matrix and rare poikiloblastic impactite fragments
+    (figure 2).
+
+   Petrography
+   67739 was studied by Steele and Smith (1973) who
+   reported mineral analyses (figure 3).  It has a brown
+    color, probably due to glass. It has abundant plagioclase
+    (An98-90) and plagioclase-rich clasts. Mafic minerals
+   and opaques are rare.
+                                                              Figure 3: Composition of pyroxene and olivine in
+                                                                         clasts in 67739 (Steele and Smith 1973).
+   Chemistry
+   None
+                                                   67739
+   Radiogenic age dating                                                    2 grams
+   Not
+--- material block 2; lines 1-24 ---
+67739
+                             Glass matrix Impact Breccia
+                                        2 grams
+
+
+
+
+
+         Figure 1: Photo of 67739. Scale in cm/mm. S72-
+        51272
+
+
+                                                               Figure 2: Thin section of 67739 showing glass matrix
+                                                                 with clasts (from Ryder and Norman 1980).
+   Introduction
+   67739 is a rake sample collected from the rim of North
+   Ray Crater – see section on 67701. It is a breccia with
+    glass matrix and rare poikiloblastic impactite fragments
+    (figure 2).
+
+   Petrography
+   67739 was studied by Steele and Smith (1973) who
+   reported mineral analyses (figure 3).  It has a brown
+    color, probably due to glass. It has abundant plagioclase
+--- age block 3; lines 26-38 ---
+and opaques are rare.
+                                                              Figure 3: Composition of pyroxene and olivine in
+                                                                         clasts in 67739 (Steele and Smith 1973).
+   Chemistry
+   None
+                                                   67739
+   Radiogenic age dating                                                    2 grams
+   Not
+
+   Processing                                                              ,0          ,2     ,3
+   There are two thin sections, from different chips.                     1.9 g    PB  PB
+
+                                                                                                         ,1    ,4
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 14-26 ---
+rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+    67515 to 68537:  Sample classification, description and
+    inventory. Curator Catalog, JSC
+
+    Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    of some Apollo 16 rocks and fines: General petrologic model
+    of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+
+     Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+      J. and Rehfeldt A. (1981) Distribution and provenance of
+    lunar highland rock types at North Ray Crater, Apollo 16.
+--- material block 2; lines 10-32 ---
+In Apollo 16 Preliminary Science Report. NASA SP-315,
+    7-1—7-58.
+
+    Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+    67515 to 68537:  Sample classification, description and
+    inventory. Curator Catalog, JSC
+
+    Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    of some Apollo 16 rocks and fines: General petrologic model
+    of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+
+     Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+      J. and Rehfeldt A. (1981) Distribution and provenance of
+    lunar highland rock types at North Ray Crater, Apollo 16.
+    Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+     Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Reimold W.U., Wacker K. and Wanke H. (1985)
+    Composition and evolution of the lunar crust in the Descartes
+--- references block 3; lines 1-7 ---
+References for 67739
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    Catalog. pp. 370.
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+    and chemical description. Science 179, 23-34.

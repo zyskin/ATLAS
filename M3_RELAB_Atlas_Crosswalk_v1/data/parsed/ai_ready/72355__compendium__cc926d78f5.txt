@@ -1,0 +1,186 @@
+DOCUMENT_ID: 72355__compendium__cc926d78f5
+ATLAS_SAMPLE_IDS: 72355
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72355.pdf
+SOURCE_PDF_SHA256: 28562c09cd1ba816ee76381a7af09d807d0da3bbb79de0116c27503792d781e8
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+72355
+                               Impact melt Breccia
+                                           367.4 grams
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 8-20 ---
+En                                          Fs
+
+                                                 Fo                                        Fa
+
+                                                                                                     compiled by C Meyer
+                                                                Figure 5: Pyroxene and olivine composition of
+         Figure 3: Thin section 72355,4 showing clasts.                                                          72355 (from Dymek et al. 1976).
+        About 2 cm across.                                                     1000
+
+                                                                         72355
+--- mineralogy block 2; lines 41-68 ---
+Figure 6: Normalized rare-earth-element diagram
+                                                                          for 72355.
+
+        Figure 4: Thin section photomicrograph of 72355
+        matrix. Field of view is 1.5 mm.
+
+   Introduction                                  Pink Spinel: Pink spinel grains are Mg- and Al-rich
+   72355 was collected from the side of boulder #2 at   in the center and zone to more Cr-rich at the edge.
+    station 2 on the landslide off of the South massif (figure
+     1). It proved to be the same material as 72395 and the  Pyroxene: The composition of pyroxene is depicted
+    other samples of this boulder (i.e. impact melt breccia).   in figure 5.
+    (see transcript for this boulder under 72335)
+                                                           Plagioclase: Plagioclase in 72315 often has undulatory
+   Petrography                                          extinction, and is sometimes feathery (maskelynite
+   Dymek et al. (1976) and Ryder (1993) found tha the   devitrification).  Large grains have overgrowth rims
+    texture and mineralogy of this sample was the same as  with olivine “necklaces”.  Plagioclase ranges in
+    for 72315 and 72395. The exterior surface has a thick  composition from Or0.2Ab2An98 to about Or3Ab22An75
+    patina, with prominent zap pits (figure 2). The interior  (Dymek et al. 1976).
+    (figure 7) reveals about 5 % vugs and void space. There
+    are no prominant lithic clasts.                         Ilmenite: Ilmenite in 72355 is evenly dispersed in the
+                                                           matrix, has a seive-like texture and is Mg-rich.
+   Mineralogy
+    Olivine: The compositon of olivine grains is tightly   Metallic Iron:  Metallic iron is meteoritic in origin
+   grouped at Fo70±2.                                      (see figure 7 in section on 72395).
+
+
+Lunar Sample Compendium
+C Meyer 2008
+--- material block 3; lines 39-67 ---
+La Ce   Pr Nd  Sm  Eu  Gd  Tb  Dy Ho  Er  Tm  Yb  Lu
+
+                                                                 Figure 6: Normalized rare-earth-element diagram
+                                                                          for 72355.
+
+        Figure 4: Thin section photomicrograph of 72355
+        matrix. Field of view is 1.5 mm.
+
+   Introduction                                  Pink Spinel: Pink spinel grains are Mg- and Al-rich
+   72355 was collected from the side of boulder #2 at   in the center and zone to more Cr-rich at the edge.
+    station 2 on the landslide off of the South massif (figure
+     1). It proved to be the same material as 72395 and the  Pyroxene: The composition of pyroxene is depicted
+    other samples of this boulder (i.e. impact melt breccia).   in figure 5.
+    (see transcript for this boulder under 72335)
+                                                           Plagioclase: Plagioclase in 72315 often has undulatory
+   Petrography                                          extinction, and is sometimes feathery (maskelynite
+   Dymek et al. (1976) and Ryder (1993) found tha the   devitrification).  Large grains have overgrowth rims
+    texture and mineralogy of this sample was the same as  with olivine “necklaces”.  Plagioclase ranges in
+    for 72315 and 72395. The exterior surface has a thick  composition from Or0.2Ab2An98 to about Or3Ab22An75
+    patina, with prominent zap pits (figure 2). The interior  (Dymek et al. 1976).
+    (figure 7) reveals about 5 % vugs and void space. There
+    are no prominant lithic clasts.                         Ilmenite: Ilmenite in 72355 is evenly dispersed in the
+                                                           matrix, has a seive-like texture and is Mg-rich.
+   Mineralogy
+    Olivine: The compositon of olivine grains is tightly   Metallic Iron:  Metallic iron is meteoritic in origin
+   grouped at Fo70±2.                                      (see figure 7 in section on 72395).
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry ===
+--- chemistry block 1; lines 1-10 ---
+Figure 7: Photo of freshly broken surface of 72355. Cube is 1 cm. S73-17273.
+
+   Chemistry
+   The chemical composition of 72355 is found to be
+    identical to that of other samples of this boulder (see
+   73215).
+
+   Radiogenic age dating
+   The age of 72355 is ~ 3.9 b.y. as measured for 72395.
+   Tera et al. (1974) determined a Rb-Sr model age of
+--- age block 2; lines 2-20 ---
+Chemistry
+   The chemical composition of 72355 is found to be
+    identical to that of other samples of this boulder (see
+   73215).
+
+   Radiogenic age dating
+   The age of 72355 is ~ 3.9 b.y. as measured for 72395.
+   Tera et al. (1974) determined a Rb-Sr model age of
+   4.38 b.y.
+
+   Cosmogenic isotopes and exposure ages
+   Keith et al. (1974) determined the cosmic-ray-induced
+    activity of 26Al = 84 dpm/kg., 22Na = 87 dpm/kg, 54Mn
+   = 66 dpm/kg, 56Co = 58 dpm/kg and 48V = 12 dpm/kg.
+
+                                                               Figure 8: Processing photo of 72355.
+   Processing
+   Boulder 2 was a “Wasserburg consortium”.  Ryder
+
+=== PDF PAGE 4; CATEGORIES: age,chemistry,references ===
+--- chemistry block 1; lines 1-32 ---
+Table 1. Chemical composition of 72355.       References for 72355
+                                                       Albee A.L., Chodos A.A., Dymek R.F., Gancarz A.J. and
+     reference   Laul74       Keith74      Tera 74             Goldman D.S. (1974b)  Preliminary investigation of
+     weight                                                  Boulders 2 and 3, Apollo 17, Station 2: Petrology and Rb-Sr
+    SiO2 %
+                                                    model ages.(abs).  Lunar Sci. V, 6-8.  Lunar Planetary    TiO2        1.6       (a)
+    Al2O3      18.8      (a)                                           Institute, Houston.
+   FeO         8.7       (a)
+   MnO        0.114     (a)                                    Butler P. (1973) Lunar Sample Information Catalog
+   MgO       12        (a)
+                                                       Apollo 17.  Lunar Receiving Laboratory. MSC 03211   CaO        11.1      (a)
+   Na2O       0.7       (a)                                     Curator’s Catalog. pp. 447.
+   K2O        0.33      (a)  0.305    (b) 0.38     (c )
+   P2O5                                       Dymek R.F., Albee A.L. and Chodos A.A. (1976a) Petrology
+   S %
+                                                       and origin of Boulders #2 and #3, Apollo 17 Station 2. Proc.    sum
+                                                                                    7th Lunar Sci. Conf. 2335-2378.
+    Sc ppm    16        (a)
+   V          50        (a)                               Keith  J.E., Clark R.S. and Bennett L.J. (1974a)
+    Cr         1320     (a)
+                                                     Determination of natural and cosmic ray induced   Co        34        (a)
+     Ni         310       (a)                                     radionuclides in Apollo 17 lunar samples. Proc. 5th Lunar
+   Cu                                                              Sci. Conf. 2121-2138.
+    Zn          2.4       (a)
+   Ga
+                                                          Laul J.C. and Schmitt R.A. (1974a) Chemical composition   Ge ppb
+    As                                                         of boulder-2 rocks and soils, Apollo 17, Station 2.  Earth
+    Se        75        (a)                                       Planet. Sci. Lett. 23, 206-219.
+   Rb        8         (a)              8.65     (c )
+    Sr         157       (a)             165      (c )
+                                                          Laul J.C., Hill D.W. and Schmitt R.A. (1974)  Chemical   Y
+     Zr         500       (a)                                       studies of Apollo 16 and 17 samples. Proc. 5th Lunar Sci.
+--- age block 2; lines 15-27 ---
+S %
+                                                       and origin of Boulders #2 and #3, Apollo 17 Station 2. Proc.    sum
+                                                                                    7th Lunar Sci. Conf. 2335-2378.
+    Sc ppm    16        (a)
+   V          50        (a)                               Keith  J.E., Clark R.S. and Bennett L.J. (1974a)
+    Cr         1320     (a)
+                                                     Determination of natural and cosmic ray induced   Co        34        (a)
+     Ni         310       (a)                                     radionuclides in Apollo 17 lunar samples. Proc. 5th Lunar
+   Cu                                                              Sci. Conf. 2121-2138.
+    Zn          2.4       (a)
+   Ga
+                                                          Laul J.C. and Schmitt R.A. (1974a) Chemical composition   Ge ppb
+    As                                                         of boulder-2 rocks and soils, Apollo 17, Station 2.  Earth
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 72355.       References for 72355
+                                                       Albee A.L., Chodos A.A., Dymek R.F., Gancarz A.J. and
+     reference   Laul74       Keith74      Tera 74             Goldman D.S. (1974b)  Preliminary investigation of
+     weight                                                  Boulders 2 and 3, Apollo 17, Station 2: Petrology and Rb-Sr
+    SiO2 %
+                                                    model ages.(abs).  Lunar Sci. V, 6-8.  Lunar Planetary    TiO2        1.6       (a)
+    Al2O3      18.8      (a)                                           Institute, Houston.
+   FeO         8.7       (a)
+   MnO        0.114     (a)                                    Butler P. (1973) Lunar Sample Information Catalog
+--- references block 4; lines 64-74 ---
+Os ppb                                                  280.
+       Ir ppb       7.3       (a)
+     Pt ppb
+    Au ppb      4.9       (a)
+    Th ppm     6.1       (a)  5.3       (b)
+   U ppm     2         (a)  1.39      (b)
+     technique:  (a) INAA, RNAA, (b) radiaion counting, (c ) IDMS
+
+
+Lunar Sample Compendium
+C Meyer 2008

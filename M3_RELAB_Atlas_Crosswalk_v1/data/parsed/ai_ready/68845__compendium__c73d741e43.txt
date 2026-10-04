@@ -1,0 +1,90 @@
+DOCUMENT_ID: 68845__compendium__c73d741e43
+ATLAS_SAMPLE_IDS: 68845,68846,68847
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/68845.pdf
+SOURCE_PDF_SHA256: c1e0aa988f93d84b98b385ed56da5d2b9c9e608f4c7d9d845d8046d1e5c53f3e
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,references,treatment ===
+--- material block 1; lines 10-22 ---
+Figure 2: Photo of 68846. About 1 cm
+          Figure 1: Photo of 68845. 2.2 cm long
+
+                                                   References for 68845, 46, 47
+   Introduction                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   68845 and its companions were sieved from a large   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    soil collected at station 8, Apollo 16 – see section on   Catalog. pp. 370.
+   68840. They are coherent, grey, aphanitic rocks. Thin
+    sections are not available at this time.              LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.
+   Chemistry
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   The composition of these particles is reported as and
+--- treatment block 2; lines 9-21 ---
+Figure 2: Photo of 68846. About 1 cm
+          Figure 1: Photo of 68845. 2.2 cm long
+
+                                                   References for 68845, 46, 47
+   Introduction                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   68845 and its companions were sieved from a large   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    soil collected at station 8, Apollo 16 – see section on   Catalog. pp. 370.
+   68840. They are coherent, grey, aphanitic rocks. Thin
+    sections are not available at this time.              LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.
+   Chemistry
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+--- references block 3; lines 7-19 ---
+Figure 2: Photo of 68846. About 1 cm
+          Figure 1: Photo of 68845. 2.2 cm long
+
+                                                   References for 68845, 46, 47
+   Introduction                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   68845 and its companions were sieved from a large   16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+    soil collected at station 8, Apollo 16 – see section on   Catalog. pp. 370.
+   68840. They are coherent, grey, aphanitic rocks. Thin
+    sections are not available at this time.              LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.
+
+=== PDF PAGE 2; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 68845.
+
+
+     reference  Korotev94
+     weight   M
+    SiO2 %
+    TiO2
+    Al2O3
+   FeO       2.9      (a)
+   MnO
+   MgO
+   CaO      17.1     (a)
+   Na2O     0.533    (a)
+   K2O
+   P2O5
+   S %
+    sum
+
+    Sc ppm    5.4      (a)
+   V
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 68845.
+
+
+     reference  Korotev94
+     weight   M
+    SiO2 %
+    TiO2
+    Al2O3
+   FeO       2.9      (a)
+   MnO
+--- references block 3; lines 65-74 ---
+Os ppb
+       Ir ppb     2        (a)
+     Pt ppb
+    Au ppb    1         (a)
+    Th ppm    0.37     (a)
+   U ppm     0.11     (a)
+     technique:  (a) mysterious avarage
+
+Lunar Sample Compendium
+C Meyer 2012

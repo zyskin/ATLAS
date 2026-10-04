@@ -1,0 +1,317 @@
+DOCUMENT_ID: 65701__compendium__cf49be60b2
+ATLAS_SAMPLE_IDS: 65710
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65701.pdf
+SOURCE_PDF_SHA256: b4c99e056476ea6d39fedb1e371a1a1eb2be81897bda7cdb4a7e90a3c7d367f0
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-9 ---
+65701 – 271 grams
+                        65710 – 91 grams
+                                  Soil and rake residue
+
+
+
+
+
+                       65700
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 1-39 ---
+25                                                                                          200
+          20                      Apollo soils                   180160                                          65701
+
+                                                                                                          140
+          15                                 C       120  FeO                                                                                            100                                           ppm
+          10                                                                                           80
+
+                                                 65701                         60
+            5                                                                                           40
+
+                                                                                                            20                              Lunar Soils
+            0                                                                                                   0
+              0       5       10      15      20      25      30      35                   0          20          40          60          80         100         120
+                     Al2O3                                              maturity (Is/FeO)
+                                                                  Figure 5: Carbon content and maturity index for
+          Figure 4: Composition of 65701 compared with
+                                                           65701 compared with other soils.
+           that of all Apollo soils.
+
+
+  Introduction
+   Station 5 was at the base of Stone Mountain on the
+                                          Cosmogenic isotopes and exposure ages   Cayley Plain (figure 2).  Soil samples 65501, 65601
+                                                   Wrigley (1973) determined the cosmic-ray-induced   and 65701 were all taken from a small crater (figure
+                                                               activity of 26Al = 131 dpm/kg and 22Na = 56 dpm/kg .   3).
+                                                  Walton et al. (1973) determined a Ne exposure age of
+                                                200 m.y.  Petrography
+  The maturity index for 65701 is very high Is/FeO =                                           Other Studies  106 (highest ever) and the average grain size is small
+                                                Walton et al. (1973) and Hintenberger and Weber   (58 microns).  The mineral mode and agglutinate
+                                                     (1973) determined the rare gas content and isotopic   content of 65701 have not been reported.
+                                                                ratios for 65701.
+  Chemistry
+  The bulk composition of 65701 is typical of Apollo 16
+   soil (table 1 and figures 4 and 6). The meteoritic
+   siderophile content is high.
+
+  Moore et al. (1973) determined 190 ppm carbon for
+  65701 (figure 5). Moore et al. also studied the carbon
+   content of various size fractions of 65701. Kerridge et
+--- mineralogy block 2; lines 23-35 ---
+Cosmogenic isotopes and exposure ages   Cayley Plain (figure 2).  Soil samples 65501, 65601
+                                                   Wrigley (1973) determined the cosmic-ray-induced   and 65701 were all taken from a small crater (figure
+                                                               activity of 26Al = 131 dpm/kg and 22Na = 56 dpm/kg .   3).
+                                                  Walton et al. (1973) determined a Ne exposure age of
+                                                200 m.y.  Petrography
+  The maturity index for 65701 is very high Is/FeO =                                           Other Studies  106 (highest ever) and the average grain size is small
+                                                Walton et al. (1973) and Hintenberger and Weber   (58 microns).  The mineral mode and agglutinate
+                                                     (1973) determined the rare gas content and isotopic   content of 65701 have not been reported.
+                                                                ratios for 65701.
+  Chemistry
+  The bulk composition of 65701 is typical of Apollo 16
+   soil (table 1 and figures 4 and 6). The meteoritic
+   siderophile content is high.
+--- material block 3; lines 17-40 ---
+65701 compared with other soils.
+           that of all Apollo soils.
+
+
+  Introduction
+   Station 5 was at the base of Stone Mountain on the
+                                          Cosmogenic isotopes and exposure ages   Cayley Plain (figure 2).  Soil samples 65501, 65601
+                                                   Wrigley (1973) determined the cosmic-ray-induced   and 65701 were all taken from a small crater (figure
+                                                               activity of 26Al = 131 dpm/kg and 22Na = 56 dpm/kg .   3).
+                                                  Walton et al. (1973) determined a Ne exposure age of
+                                                200 m.y.  Petrography
+  The maturity index for 65701 is very high Is/FeO =                                           Other Studies  106 (highest ever) and the average grain size is small
+                                                Walton et al. (1973) and Hintenberger and Weber   (58 microns).  The mineral mode and agglutinate
+                                                     (1973) determined the rare gas content and isotopic   content of 65701 have not been reported.
+                                                                ratios for 65701.
+  Chemistry
+  The bulk composition of 65701 is typical of Apollo 16
+   soil (table 1 and figures 4 and 6). The meteoritic
+   siderophile content is high.
+
+  Moore et al. (1973) determined 190 ppm carbon for
+  65701 (figure 5). Moore et al. also studied the carbon
+   content of various size fractions of 65701. Kerridge et
+    al. (1975) reported 118 ppm nitrogen.
+--- age block 4; lines 18-32 ---
+that of all Apollo soils.
+
+
+  Introduction
+   Station 5 was at the base of Stone Mountain on the
+                                          Cosmogenic isotopes and exposure ages   Cayley Plain (figure 2).  Soil samples 65501, 65601
+                                                   Wrigley (1973) determined the cosmic-ray-induced   and 65701 were all taken from a small crater (figure
+                                                               activity of 26Al = 131 dpm/kg and 22Na = 56 dpm/kg .   3).
+                                                  Walton et al. (1973) determined a Ne exposure age of
+                                                200 m.y.  Petrography
+  The maturity index for 65701 is very high Is/FeO =                                           Other Studies  106 (highest ever) and the average grain size is small
+                                                Walton et al. (1973) and Hintenberger and Weber   (58 microns).  The mineral mode and agglutinate
+                                                     (1973) determined the rare gas content and isotopic   content of 65701 have not been reported.
+                                                                ratios for 65701.
+  Chemistry
+--- treatment block 5; lines 8-34 ---
+65701                         60
+            5                                                                                           40
+
+                                                                                                            20                              Lunar Soils
+            0                                                                                                   0
+              0       5       10      15      20      25      30      35                   0          20          40          60          80         100         120
+                     Al2O3                                              maturity (Is/FeO)
+                                                                  Figure 5: Carbon content and maturity index for
+          Figure 4: Composition of 65701 compared with
+                                                           65701 compared with other soils.
+           that of all Apollo soils.
+
+
+  Introduction
+   Station 5 was at the base of Stone Mountain on the
+                                          Cosmogenic isotopes and exposure ages   Cayley Plain (figure 2).  Soil samples 65501, 65601
+                                                   Wrigley (1973) determined the cosmic-ray-induced   and 65701 were all taken from a small crater (figure
+                                                               activity of 26Al = 131 dpm/kg and 22Na = 56 dpm/kg .   3).
+                                                  Walton et al. (1973) determined a Ne exposure age of
+                                                200 m.y.  Petrography
+  The maturity index for 65701 is very high Is/FeO =                                           Other Studies  106 (highest ever) and the average grain size is small
+                                                Walton et al. (1973) and Hintenberger and Weber   (58 microns).  The mineral mode and agglutinate
+                                                     (1973) determined the rare gas content and isotopic   content of 65701 have not been reported.
+                                                                ratios for 65701.
+  Chemistry
+  The bulk composition of 65701 is typical of Apollo 16
+   soil (table 1 and figures 4 and 6). The meteoritic
+
+=== PDF PAGE 3; CATEGORIES: material ===
+--- material block 1; lines 1-20 ---
+average grain size = 58 microns
+
+
+
+
+
+                                                                 Figure 8: Cd as a surface feature on grains from
+                                                          65701 (Cirlin and Housley 1981).
+
+
+
+
+
+        Figure 7: Grain size distribution of 65701
+        (Graf 1993, from data by Butler et al.).
+
+
+
+                               65715 - 31.4 g - bx.   65755
+      C Meyer    65710       same bag                               65716 - 14.3 g       65756
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 65701.
+                                                                                                    ave. st. 5
+    reference  LSPET72  Compston73  Taylor73   Wrigley73  Wanke73  Haskin73    Boynton76  Korotev81
+   weight
+   SiO2 %    45.03   (a) 44.95      (a) 44.7    (b)             45.1    (c ) 45.4                     45.3
+   TiO2      0.64    (a) 0.65       (a) 0.65    (b)                         0.7                      0.65
+   Al2O3     26.47   (a) 26.22      (a) 26.3    (b)             26.6    (c ) 28.2                     26.2
+   FeO       5.87    (a) 5.85       (a) 5.68    (b)             5.84    (c ) 5.53                     5.85
+  MnO      0.08    (a) 0.08       (a)                        0.07    (c ) 0.074                   0.075
+  MgO      6.02    (a) 6.34       (a) 6.19    (b)              6.1     (c ) 6.02                     6.25
+  CaO      15.29   (a) 15.39      (a) 15      (b)             15.1    (c ) 12.8                  15
+   Na2O     0.41    (a) 0.45       (a) 0.43    (b)             0.44    (c ) 0.48                     0.45
+  K2O       0.12    (a) 0.12       (a) 0.25    (b) 0.12    (d)  0.12    (c ) 0.138                   0.134
+   P2O5      0.13    (a) 0.11       (a)
+   S %       0.09    (a) 0.06       (a)
+   sum
+
+   Sc ppm                          11      (b)            9       (c ) 10.11    (c )             10.1
+   V                              30      (b)                                           25
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 65701.
+                                                                                                    ave. st. 5
+    reference  LSPET72  Compston73  Taylor73   Wrigley73  Wanke73  Haskin73    Boynton76  Korotev81
+   weight
+   SiO2 %    45.03   (a) 44.95      (a) 44.7    (b)             45.1    (c ) 45.4                     45.3
+   TiO2      0.64    (a) 0.65       (a) 0.65    (b)                         0.7                      0.65
+   Al2O3     26.47   (a) 26.22      (a) 26.3    (b)             26.6    (c ) 28.2                     26.2
+   FeO       5.87    (a) 5.85       (a) 5.68    (b)             5.84    (c ) 5.53                     5.85
+  MnO      0.08    (a) 0.08       (a)                        0.07    (c ) 0.074                   0.075
+--- references block 3; lines 64-73 ---
+Os ppb
+     Ir ppb                                              19      (c )              9.2       (e)
+    Pt ppb
+   Au ppb                                                   13.5    (c )              9.4       (e)
+   Th ppm    1.9      (a)               2.4     (b) 2.31    (d)                                        2.2
+  U ppm                             0.63    (b) 0.57    (d)                                      0.67
+    technique:  (a) XRF, (b) SSMS, (c ) INAA, (d) radiation count. (e) RNAA, (f) IDMS
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 8-29 ---
+Proc. 4th Lunar Sci. Conf. 267-278.
+                                                        Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Cirlin E.H. and Housley R.M. (1981)  Distribution and  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  evolution of Zn, Cd, and Pb in Apollo 16 regolith samples   Office, Houston
+  and the average U-Pb ages of the parent rocks. Proc. 12th
+  Lunar Planet. Sci. Conf. 529-540.                         Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                       soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  Compston W., Vernon M.J., Chappell B.W. and Freeman R.  Lunar Sci. Conf. 2287-2297.
+  (1973) Rb-Sr model ages and chemical composition of nine
+  Apollo 16 soils (abs). Lunar Sci. IV, 158.                 Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+                                                                    regolith. Rev. Geophys. Space Phys. 20, 761-826.
+  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+  Pub. 1265                                               Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                             In Geology of the Apollo 16 area, central lunar highlands.
+  Haskin L.A., Helmke P.A., Blanchard D.P., Jacobs J.W. and   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+  Telunder K. (1973) Major and trace element abundances in
+  samples from the lunar highlands. Proc. 4th Lunar Sci. Conf.   Taylor S.R., Gorton M.P., Muir P., Nance W.B., Rudowski
+  1275-1296.                                           R. and Ware N. (1973a)  Composition of the Descartes
+                                                               region, lunar highlands.  Geochim. Cosmochim Acta 37,
+  Hintenberger H. and Weber H.W. (1973) Trapped rare gases   2665-2683.
+  in lunar fines and breccias. Proc. 4th Lunar Sci. Conf. 2003-
+  2019.                                                Walton J.R., Lakatos S. and Heymann D. (1973) Distribution
+--- mineralogy block 2; lines 1-13 ---
+References for 65701.                          Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+  Butler P. (1972) Lunar Sample Information Catalog Apollo   carbon contents of Apollo 15 and 16 lunar samples. Proc.
+  16. Lunar Receiving Laboratory. MSC 03210 Curator’s    4th Lunar Sci. Conf. 1613-1923.
+  Catalog. pp. 370.
+                                                Moore C.B. and Lewis C.F. (1975) Total nitrogen contents
+  Butler J.C., Greene G.M. and King E.A. (1973) Grain size   of Apollo 15, 16 and 17 lunar fines samples. Lunar Sci. VI,
+  frequency distribution and modal analysis of Apollo 16 fines.   569-571.
+  Proc. 4th Lunar Sci. Conf. 267-278.
+                                                        Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Cirlin E.H. and Housley R.M. (1981)  Distribution and  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  evolution of Zn, Cd, and Pb in Apollo 16 regolith samples   Office, Houston
+  and the average U-Pb ages of the parent rocks. Proc. 12th
+  Lunar Planet. Sci. Conf. 529-540.                         Morris R.V. (1978) The surface exposure (maturity) of lunar
+--- material block 3; lines 1-47 ---
+References for 65701.                          Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+  Butler P. (1972) Lunar Sample Information Catalog Apollo   carbon contents of Apollo 15 and 16 lunar samples. Proc.
+  16. Lunar Receiving Laboratory. MSC 03210 Curator’s    4th Lunar Sci. Conf. 1613-1923.
+  Catalog. pp. 370.
+                                                Moore C.B. and Lewis C.F. (1975) Total nitrogen contents
+  Butler J.C., Greene G.M. and King E.A. (1973) Grain size   of Apollo 15, 16 and 17 lunar fines samples. Lunar Sci. VI,
+  frequency distribution and modal analysis of Apollo 16 fines.   569-571.
+  Proc. 4th Lunar Sci. Conf. 267-278.
+                                                        Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Cirlin E.H. and Housley R.M. (1981)  Distribution and  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  evolution of Zn, Cd, and Pb in Apollo 16 regolith samples   Office, Houston
+  and the average U-Pb ages of the parent rocks. Proc. 12th
+  Lunar Planet. Sci. Conf. 529-540.                         Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                       soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  Compston W., Vernon M.J., Chappell B.W. and Freeman R.  Lunar Sci. Conf. 2287-2297.
+  (1973) Rb-Sr model ages and chemical composition of nine
+  Apollo 16 soils (abs). Lunar Sci. IV, 158.                 Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+                                                                    regolith. Rev. Geophys. Space Phys. 20, 761-826.
+  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+  Pub. 1265                                               Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                             In Geology of the Apollo 16 area, central lunar highlands.
+  Haskin L.A., Helmke P.A., Blanchard D.P., Jacobs J.W. and   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+  Telunder K. (1973) Major and trace element abundances in
+  samples from the lunar highlands. Proc. 4th Lunar Sci. Conf.   Taylor S.R., Gorton M.P., Muir P., Nance W.B., Rudowski
+  1275-1296.                                           R. and Ware N. (1973a)  Composition of the Descartes
+                                                               region, lunar highlands.  Geochim. Cosmochim Acta 37,
+  Hintenberger H. and Weber H.W. (1973) Trapped rare gases   2665-2683.
+  in lunar fines and breccias. Proc. 4th Lunar Sci. Conf. 2003-
+  2019.                                                Walton J.R., Lakatos S. and Heymann D. (1973) Distribution
+                                                             of inert gases in fines from the Cayley-Descartes region.
+  Heiken G.H., McKay D.S. and Fruland R.M. (1973b) Apollo   Proc. 4th Lunar Sci. Conf. 2079-2096.
+  16 soils – grain size analysis and petrography.  Proc. 4th
+  Lunar Sci. Conf. 251-266.                         Wänke H., Baddenhausen H., Dreibus G., Jagoutz E., Kruse
+                                                                H., Palme H., Spettel B. and Teschke F. (1973) Multielement
+ Housley R.M., Cirlin E.H. and Grant R.W. (1973)   analysis of Apollo 15, 16 and 17 samples and the bulk
+  Characterization of fines from the Apollo 16 site. Proc. 4th   composition of the moon. Proc. 4th Lunar Sci. Conf. 1461-
+  Lunar Sci. Conf. 2729-2735.                            1481.
+
+  Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)  Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+  Description, classification and inventory of 151 Apollo 16  and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+  rake samples from the LM area and station 5.  Curator’s  from the LM area and station 5.  Spec. Publ. #13, UNM
+  Catalog, JSC.                                                     Institute of Meteoritics, Albuquerque. 87 pp.
+
+ LSPET (1973) The Apollo 16 lunar samples: Petrographic  Wlotzka F., Spettel B. and Wanke H. (1973) On the
+  and chemical description. Science 179, 23-34.              composition of metal from Apollo 16 fines and the meteoritic
+                                                      component. Proc. 4th Lunar Sci. Conf. 1483-1491.
+ LSPET (1972) Preliminary examination of lunar samples.
+--- treatment block 4; lines 7-19 ---
+frequency distribution and modal analysis of Apollo 16 fines.   569-571.
+  Proc. 4th Lunar Sci. Conf. 267-278.
+                                                        Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Cirlin E.H. and Housley R.M. (1981)  Distribution and  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  evolution of Zn, Cd, and Pb in Apollo 16 regolith samples   Office, Houston
+  and the average U-Pb ages of the parent rocks. Proc. 12th
+  Lunar Planet. Sci. Conf. 529-540.                         Morris R.V. (1978) The surface exposure (maturity) of lunar
+                                                                       soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  Compston W., Vernon M.J., Chappell B.W. and Freeman R.  Lunar Sci. Conf. 2287-2297.
+  (1973) Rb-Sr model ages and chemical composition of nine
+  Apollo 16 soils (abs). Lunar Sci. IV, 158.                 Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+                                                                    regolith. Rev. Geophys. Space Phys. 20, 761-826.
+  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+--- references block 5; lines 1-7 ---
+References for 65701.                          Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total
+  Butler P. (1972) Lunar Sample Information Catalog Apollo   carbon contents of Apollo 15 and 16 lunar samples. Proc.
+  16. Lunar Receiving Laboratory. MSC 03210 Curator’s    4th Lunar Sci. Conf. 1613-1923.
+  Catalog. pp. 370.
+                                                Moore C.B. and Lewis C.F. (1975) Total nitrogen contents
+  Butler J.C., Greene G.M. and King E.A. (1973) Grain size   of Apollo 15, 16 and 17 lunar fines samples. Lunar Sci. VI,
+  frequency distribution and modal analysis of Apollo 16 fines.   569-571.

@@ -1,0 +1,144 @@
+DOCUMENT_ID: 77538__compendium__832613575e
+ATLAS_SAMPLE_IDS: 77538
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/77538.pdf
+SOURCE_PDF_SHA256: e137424f73f207757d6d1cd840bb5554d9ab60828300b8f61f5d5ff270772f91
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 7-29 ---
+Figure 1: Photo of 77538. Edge of 1 cm cube at
+            bottom. NASA S73-19065.
+                                             Mineralogy
+                                                          Olivine: Olivine is minor, but Fe-rich
+
+   Introduction                                     Pyroxene: Some pyroxene is very iron rich (figure 4).
+   77538 is a trace-element-rich breccia sample.  It is a
+   fragmental breccia with a light-colored matrix (figure   Plagioclase: Most plagioclase is An85-98, but some is
+   2)  It has patina and zap pits on all sides.               An62.
+
+   Petrography                                     Significant Clasts:
+   Warner et al. (1977, 1978) reported that the olivine   Granite clasts with intergrwon K-spar and silica are
+   and some of the pyroxene in 77538 were Fe-rich (figure   present (figure 3).
+    4).
+                                            Chemistry
+   Taylor et al. (1980) reported granite clasts and  Laul and Schmitt (1975) reported the composition in
+   suggested an origin by silicate-liquid immisibility.     an abstract to the LPSC (table 1, figure 5). They found
+                                                                  this sample had high Fe/Mg ratio and was very Zr –
+                                                                  rich.
+--- material block 2; lines 1-24 ---
+corrected
+
+                                               77538
+                                               Unusual Fragmental Breccia
+                                                                      47.2 grams
+
+
+
+
+
+            Figure 1: Photo of 77538. Edge of 1 cm cube at
+            bottom. NASA S73-19065.
+                                             Mineralogy
+                                                          Olivine: Olivine is minor, but Fe-rich
+
+   Introduction                                     Pyroxene: Some pyroxene is very iron rich (figure 4).
+   77538 is a trace-element-rich breccia sample.  It is a
+   fragmental breccia with a light-colored matrix (figure   Plagioclase: Most plagioclase is An85-98, but some is
+   2)  It has patina and zap pits on all sides.               An62.
+
+   Petrography                                     Significant Clasts:
+   Warner et al. (1977, 1978) reported that the olivine   Granite clasts with intergrwon K-spar and silica are
+   and some of the pyroxene in 77538 were Fe-rich (figure   present (figure 3).
+    4).
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 4-16 ---
+Figure 2: Photomicrographs of thin section
+         77538,17 by C.Meyer.                                     Figure 4: Pyroxene, olivine and plagioclase
+                                                             diagram for 77538 (from Warner et al. 1978).
+
+
+
+                                                                                           1000
+                                                                           77538
+--- material block 2; lines 1-8 ---
+Figure 3: Thin section photomicrograph of “gran-
+                                                                           ite” clast in 77538 (from Warner et al. 1978). Field
+                                                                           of view about 2 mm.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+References for 77538   Table 1. Chemical composition of 77538.
+                                                             Butler P. (1973) Lunar Sample Information Catalog
+                                                      Apollo 17.  Lunar Receiving Laboratory. MSC 03211    reference  Warner 77 Laul 75    Warner 78
+    weight                                                     Curator’s Catalog. pp. 447.
+   SiO2 %                          50.3    74       (b)
+    TiO2      1.2      (a) 1.2     (a) 2.82     0.54     (b)         Laul J.C. and Schmitt R.A. (1975c) Chemical composition
+   Al2O3     14.5    (a) 14.5    (a) 0.96     12.5     (b)
+                                                               of Apollo 17 samples: Boulder breccias (2), rake breccias   FeO       10.6    (a) 10.6    (a) 31.3     2.21     (b)
+   MnO      0.15    (a) 0.15    (a)                                  (8), and others (abs).  Lunar Sci. VI, 489-491.  Lunar
+   MgO     5        (a) 5        (a) 4.3      0.8      (b)          Planetary Institute, Houston
+   CaO      10.3    (a) 10.3    (a) 9.8      1.86     (b)
+   Na2O     0.75    (a) 0.75    (a) 0.12     0.9      (b)
+                                                  Meyer C. (1994) Catalog of Apollo 17 rocks. Vol. 4 North   K2O      1.04    (a) 1.04    (a) 0.29     7.6      (b)
+   P2O5                           0.28     0.07     (b)         Massif
+   S %
+   sum                                                  Muehlberger et al. (1973) Documentation and environment
+                                                                of the Apollo 17 samples: A preliminary report. Astrogeology   Sc ppm             22      (a)
+   V                  40      (a)                         71 322 pp superceeded by Astrogeolgy 73 (1975) and by
+    Cr       1642    (a) 1642   (a) 1163               (b)         Wolfe et al. (1981)
+--- material block 2; lines 2-14 ---
+Butler P. (1973) Lunar Sample Information Catalog
+                                                      Apollo 17.  Lunar Receiving Laboratory. MSC 03211    reference  Warner 77 Laul 75    Warner 78
+    weight                                                     Curator’s Catalog. pp. 447.
+   SiO2 %                          50.3    74       (b)
+    TiO2      1.2      (a) 1.2     (a) 2.82     0.54     (b)         Laul J.C. and Schmitt R.A. (1975c) Chemical composition
+   Al2O3     14.5    (a) 14.5    (a) 0.96     12.5     (b)
+                                                               of Apollo 17 samples: Boulder breccias (2), rake breccias   FeO       10.6    (a) 10.6    (a) 31.3     2.21     (b)
+   MnO      0.15    (a) 0.15    (a)                                  (8), and others (abs).  Lunar Sci. VI, 489-491.  Lunar
+   MgO     5        (a) 5        (a) 4.3      0.8      (b)          Planetary Institute, Houston
+   CaO      10.3    (a) 10.3    (a) 9.8      1.86     (b)
+   Na2O     0.75    (a) 0.75    (a) 0.12     0.9      (b)
+                                                  Meyer C. (1994) Catalog of Apollo 17 rocks. Vol. 4 North   K2O      1.04    (a) 1.04    (a) 0.29     7.6      (b)
+   P2O5                           0.28     0.07     (b)         Massif
+--- material block 3; lines 31-49 ---
+Zr                 730     (a)
+                                                  Pergamon Press. 339-352.  Lunar Planetary Institute,   Nb
+   Mo                                                    Houston.
+   Ru
+   Rh
+                                                      Warner R.D., Keil K., Nehru C.E. and Taylor G.J. (1978a)   Pd ppb
+   Ag ppb                                                 Catalogue of Apollo 17 rake samples from Stations la, 2, 7,
+   Cd ppb                                             and 8. Spec. Publ. #18, UNM Institute of Meteoritics,
+     In ppb                                                 Albuquerque. 88 pp.
+   Sn ppb
+   Sb ppb
+    Te ppb                                              Warner R.D., Taylor G.J., Mansker W.L. and Keil K. (1978b)
+   Cs ppm                                                    Clast assemblages of possible deep-seated (77517) and
+   Ba                 700     (a)
+                                                            immiscible melt (77538) origins in Apollo 17 breccias. Proc.   La                 59      (a)
+   Ce                 150     (a)                                       9th Lunar Planet. Sci. Conf. 941-958.
+    Pr
+   Nd                 90      (a)                         Warner R.D., Taylor G.J. and Keil K. (1978d)  Clasts in
+   Sm                  25.1    (a)
+--- references block 4; lines 1-9 ---
+References for 77538   Table 1. Chemical composition of 77538.
+                                                             Butler P. (1973) Lunar Sample Information Catalog
+                                                      Apollo 17.  Lunar Receiving Laboratory. MSC 03211    reference  Warner 77 Laul 75    Warner 78
+    weight                                                     Curator’s Catalog. pp. 447.
+   SiO2 %                          50.3    74       (b)
+    TiO2      1.2      (a) 1.2     (a) 2.82     0.54     (b)         Laul J.C. and Schmitt R.A. (1975c) Chemical composition
+   Al2O3     14.5    (a) 14.5    (a) 0.96     12.5     (b)
+                                                               of Apollo 17 samples: Boulder breccias (2), rake breccias   FeO       10.6    (a) 10.6    (a) 31.3     2.21     (b)
+   MnO      0.15    (a) 0.15    (a)                                  (8), and others (abs).  Lunar Sci. VI, 489-491.  Lunar
+--- references block 5; lines 63-72 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm             16      (a)
+   U ppm                4.2     (a)
+    technique:  (a) INAA, (b) broad beam electron probe,
+
+Lunar Sample Compendium
+C Meyer 2012

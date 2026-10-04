@@ -1,0 +1,321 @@
+DOCUMENT_ID: 10049__compendium__7a8fcb6f01
+ATLAS_SAMPLE_IDS: 10049
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10049.pdf
+SOURCE_PDF_SHA256: dd9184a9ad62474be2176c5cf10aad829735a87873da75893f17443208c8c1eb
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+10049
+                                 Ilmenite Basalt (high K)
+                                       193 grams
+--- material block 2; lines 1-8 ---
+10049
+                                 Ilmenite Basalt (high K)
+                                       193 grams
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 35-47 ---
+Ilmenite: Beaty and Albee (1978) and Cameron (1970)
+                                                         gives the composition of ilmenite, while Stewart et al.
+                                                      (1970) reported the cell dimensions.
+
+                                             Chemistry
+                                               The chemical composition of 10049 is typical of the
+       Figure 2: Photomicrographs of thin section 10049,32                                                      high K, Apollo 11 basalts (figures 4 and 5). Kaplan et
+        (top: plane-polarized, middle: crossed Nicols, bottom:
+        reflected light). Scale is 0.68 mm. NASA S79-270887,
+      88 and 89.
+                                                       Mineralogical Mode for 10049
+                                                                                    Beaty and      McGee et
+--- mineralogy block 2; lines 9-58 ---
+En                                          Fs
+
+                                                  Fo                                        Fa
+
+                                                                                                     compiled by C Meyer
+
+                                                                 Figure 3: Pyroxene composition of 10049.
+
+                                              Petrography
+                                                      Schmitt et al. (1970) termed 10049 as a “very-fine-
+                                                           grained, vesicular to vuggy, granular basalt.” McGee
+                                                                    et al. (1977) describe 10049 as a fine-grained intersertal
+                                                           basalt which consists of a network of intergrown
+                                                         crystals of anhedral pyroxene (0.02-0.08 mm),
+                                                            plagioclase (0.03-1.1 mm), ilmenite (0.01-0.1 mm) and
+                                                              rare olivine (0.04 mm). A few small round vesicles
+                                                             (0.1-0.3 mm) are seen in thin sections.  Mesostasis
+                                                           includes glass, troilite with metallic iron blebs and other
+                                                           minerals.
+
+                                             Mineralogy
+                                                   Pyroxene:  Beaty and Albee (1978) determined the
+                                                      composition of pyroxene (figure 3).
+
+                                                        Plagioclase:  Stewart et al. (1970) determined the
+                                                            crystallographic data for plagioclase (An73) in 10049.
+
+                                                           Ilmenite: Beaty and Albee (1978) and Cameron (1970)
+                                                         gives the composition of ilmenite, while Stewart et al.
+                                                      (1970) reported the cell dimensions.
+
+                                             Chemistry
+                                               The chemical composition of 10049 is typical of the
+       Figure 2: Photomicrographs of thin section 10049,32                                                      high K, Apollo 11 basalts (figures 4 and 5). Kaplan et
+        (top: plane-polarized, middle: crossed Nicols, bottom:
+        reflected light). Scale is 0.68 mm. NASA S79-270887,
+      88 and 89.
+                                                       Mineralogical Mode for 10049
+                                                                                    Beaty and      McGee et
+   Introduction                                                                  Albee 1978         al. 1977
+   Lunar sample 10049 is a high-K ilmenite basalt with a            Olivine
+                                                                       Pyroxene         51.03           47
+    fine-grained intersertal texture (figure 1).  It has an                                                                                Plagioclase       24.47           18
+    age of about 3.5 b.y. with exposure to cosmic rays for             Ilmenite          14.12           16 - 17
+   ~20 m.y.                                                               mesostasis       8               18
+                                                                                               silica             1.38
+                                                                                                   troilite            0.72            1
+                                                                         phosphate         0.27
+
+Lunar Sample Compendium
+--- material block 3; lines 13-27 ---
+compiled by C Meyer
+
+                                                                 Figure 3: Pyroxene composition of 10049.
+
+                                              Petrography
+                                                      Schmitt et al. (1970) termed 10049 as a “very-fine-
+                                                           grained, vesicular to vuggy, granular basalt.” McGee
+                                                                    et al. (1977) describe 10049 as a fine-grained intersertal
+                                                           basalt which consists of a network of intergrown
+                                                         crystals of anhedral pyroxene (0.02-0.08 mm),
+                                                            plagioclase (0.03-1.1 mm), ilmenite (0.01-0.1 mm) and
+                                                              rare olivine (0.04 mm). A few small round vesicles
+                                                             (0.1-0.3 mm) are seen in thin sections.  Mesostasis
+                                                           includes glass, troilite with metallic iron blebs and other
+                                                           minerals.
+--- material block 4; lines 43-55 ---
+(top: plane-polarized, middle: crossed Nicols, bottom:
+        reflected light). Scale is 0.68 mm. NASA S79-270887,
+      88 and 89.
+                                                       Mineralogical Mode for 10049
+                                                                                    Beaty and      McGee et
+   Introduction                                                                  Albee 1978         al. 1977
+   Lunar sample 10049 is a high-K ilmenite basalt with a            Olivine
+                                                                       Pyroxene         51.03           47
+    fine-grained intersertal texture (figure 1).  It has an                                                                                Plagioclase       24.47           18
+    age of about 3.5 b.y. with exposure to cosmic rays for             Ilmenite          14.12           16 - 17
+   ~20 m.y.                                                               mesostasis       8               18
+                                                                                               silica             1.38
+                                                                                                   troilite            0.72            1
+--- age block 5; lines 46-58 ---
+Mineralogical Mode for 10049
+                                                                                    Beaty and      McGee et
+   Introduction                                                                  Albee 1978         al. 1977
+   Lunar sample 10049 is a high-K ilmenite basalt with a            Olivine
+                                                                       Pyroxene         51.03           47
+    fine-grained intersertal texture (figure 1).  It has an                                                                                Plagioclase       24.47           18
+    age of about 3.5 b.y. with exposure to cosmic rays for             Ilmenite          14.12           16 - 17
+   ~20 m.y.                                                               mesostasis       8               18
+                                                                                               silica             1.38
+                                                                                                   troilite            0.72            1
+                                                                         phosphate         0.27
+
+Lunar Sample Compendium
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material ===
+--- chemistry block 1; lines 4-27 ---
+A11                                           sample/
+              10                                                                         chondrite                                   10020 low K
+                                               10049
+                                                                                                   10
+               8
+   TiO2
+               6
+
+                                                                                                             1
+               4
+                                              A12
+               2                        A15
+                                                                                                                    0.1
+                                                                                   La      Pr    Sm    Gd     Dy      Er     Yb
+               0                                                                 Ce     Nd     Eu     Tb    Ho    Tm     Lu
+                 0                5                10               15               20
+                MgO                          Figure 5: Normalized rare-earth-element composi-
+                                                                         tion for high-K basalt 10049 (the line) compared with
+        Figure 4: Composition of 10049 compared with that                                                                         that of low-K basalt 10020 (the dots) (data from
+         of other Apollo lunar samples.                                                       Wiesmann et al. 1975).
+
+    al. (1970) reported 63 and 77 ppm carbon and 2200
+  ppm sulfur in 10049. Moore et al. (1970) reported 70          List of Photo #s for 10049
+--- material block 2; lines 16-29 ---
+2                        A15
+                                                                                                                    0.1
+                                                                                   La      Pr    Sm    Gd     Dy      Er     Yb
+               0                                                                 Ce     Nd     Eu     Tb    Ho    Tm     Lu
+                 0                5                10               15               20
+                MgO                          Figure 5: Normalized rare-earth-element composi-
+                                                                         tion for high-K basalt 10049 (the line) compared with
+        Figure 4: Composition of 10049 compared with that                                                                         that of low-K basalt 10020 (the dots) (data from
+         of other Apollo lunar samples.                                                       Wiesmann et al. 1975).
+
+    al. (1970) reported 63 and 77 ppm carbon and 2200
+  ppm sulfur in 10049. Moore et al. (1970) reported 70          List of Photo #s for 10049
+   ± 8 ppm carbon and 166 ± 4 ppm nitrogen in 10049.           S69-45684 – 717      B&W mug
+                                                                   S69-47337 – 9
+--- age block 3; lines 24-37 ---
+of other Apollo lunar samples.                                                       Wiesmann et al. 1975).
+
+    al. (1970) reported 63 and 77 ppm carbon and 2200
+  ppm sulfur in 10049. Moore et al. (1970) reported 70          List of Photo #s for 10049
+   ± 8 ppm carbon and 166 ± 4 ppm nitrogen in 10049.           S69-45684 – 717      B&W mug
+                                                                   S69-47337 – 9
+                                                                  S69-57241   Radiogenic age dating                                                                  S69-59273             TS B&W
+   Geiss et al. (1977) reported an age of ~3.45 ± 0.04 b.y.          S69-59283
+   from an intermediate plateau for Ar release (figure 6).          S69-59347
+                                                                  S69-59352
+   Cosmogenic isotopes and exposure ages                  S69-59413
+                                                                  S69-59854
+   Hintenberger et al. (1971) and Guggisberg et al. (1979)                                                                   S70-17980 – 1          TS color
+   determined 37Ar/38Ar exposure ages of 36 m.y. and 21          S70-48995 – 9000
+--- age block 4; lines 53-64 ---
+Processing
+   Apollo 11 samples were originally described and
+   cataloged in 1969 and “re-cataloged” by Kramer et al.
+   (1977). There are 10 thin sections.
+
+
+                                                                Figure 6: Ar release pattern for 10049 from      Summary of Age Data for 10049
+                                                              Guggisberg et al. (1979).                                   Ar/Ar
+          Geiss et al. 1977            (3.45 ± 0.04 b.y.)
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 10049.
+
+
+     reference  Gast70         Wiesmann75     Rose70   Wanke71    Kharkar71  Beaty78    Neal2001
+     weight
+    SiO2 %                                   41      (c ) 42.8      (d)             41.56    (e)
+    TiO2                                            11.3    (c ) 8          (d)  11.2      (d) 11.51    (e)
+    Al2O3                                           9.5     (c ) 8.5        (d)              7.95     (e)
+   FeO                                           18.7   (c ) 18.1      (d)  17.6      (d) 19.21    (e)
+   MnO                                          0.25   (c ) 0.21      (d)  0.22      (d) 0.24     (e)
+   MgO                                          7.03   (c ) 7.3        (d)              7.54     (e)
+   CaO                                        11      (c ) 8.81      (d)  10.8      (d) 10.93    (e)
+   Na2O     0.54            (a) 0.54            (a)  0.71   (c ) 0.48      (d)  0.51      (d) 0.47     (e)
+   K2O       0.33   0.35   (b) 0.33   0.35    (b)  0.36   (c ) 0.27      (d)              0.31     (e)
+   P2O5                                                                              0.15     (e)
+   S %                                                                               0.38     (e)
+    sum
+
+    Sc ppm                                                   80.9      (d) 86        (d)             75.4        (f)
+   V                                                                                              40.5        (f)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 10049.
+
+
+     reference  Gast70         Wiesmann75     Rose70   Wanke71    Kharkar71  Beaty78    Neal2001
+     weight
+    SiO2 %                                   41      (c ) 42.8      (d)             41.56    (e)
+    TiO2                                            11.3    (c ) 8          (d)  11.2      (d) 11.51    (e)
+    Al2O3                                           9.5     (c ) 8.5        (d)              7.95     (e)
+   FeO                                           18.7   (c ) 18.1      (d)  17.6      (d) 19.21    (e)
+   MnO                                          0.25   (c ) 0.21      (d)  0.22      (d) 0.24     (e)
+--- references block 3; lines 65-75 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb                                                     1.1        (d)
+    Th ppm                                                   4.03      (d)                          3.78        (f)
+   U ppm                                                  0.814     (d)                          0.91        (f)
+     technique: (a) AA, (b) IDMS, (c ) semimicro XRF, (d) INAA, RNAA, (e) elec. Probe, (f) ICP-MS
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 1-7 ---
+Figure 7: Reflected light photo of whole thin section of 10049 showing ilmenite distribution. Length about 2 cm.
+     NASA S69-59273.
+
+=== PDF PAGE 6; CATEGORIES: references ===
+--- references block 1; lines 8-20 ---
+,0              ,11       ,22          ,73       ,83         ,84        ,85
+        109 g       PB       4.4 g                 20.5 g      2.9 g      2.1 g
+
+                              ,21       ,74        ,998         ,99
+        ,1                   ,29       1.6 g      12.4 g      4 g                              ,32        1.2 g                              ,39
+                              ,40
+         ,2                   ,41                          References for 10049
+        5.5 g               ,93
+                              ,94                               Beaty D.W. and Albee A.L. (1978) Comparative petrology
+                              ,65                              and possible genetic relations among the Apollo 11 basalts.
+                      TS
+                                                             Proc. 9th Lunar Planet. Sci. Conf. 359-463.
+
+=== PDF PAGE 7; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 12-24 ---
+Fuller Mike and Weiss Ben J. (2009) The paleomagnetic
+    record of the Apollo samples (abs#1192). Lunar Planet.  Moore C.B., Gibson E.K., Larimer J.W., Lewis C.F. and
+    Sci. XL, Lunar Planetary Institute, The Woodlands.         Nichiporuk W. (1970) Total carbon and nitrogen abundances
+                                                                    in Apollo 11 lunar samples. Proc. Apollo 11 Lunar Sci. Conf.
+   Gast P.W., Hubbard N.J. and Wiesmann H. (1970b)   1375-1382.
+   Chemical composition and peterogenesis of basalts from
+    Tranquillity Base. Proc. Apollo 11 Lunar Sci. Conf. 1143-   Neal C.R. (2001)   Interior of the moon: The presence of
+   1163.                                                      garnet in the primitive deep lunar mantle. J. Geophys. Res.
+                                                            106, 27865-27885.
+    Geiss J., Eberhardt P., Grogler N., Guggisbert S., Maurer P.
+   and Stettler A. (1977) Absolute time scale of lunar mare  Ponnamperuma C. (1972)  Lunar organic analysis:
+    formation and filling. Phil. Trans. Roy. Soc. London A285,   Implications for chemical evolution. Space Life Sci. 3, 493-
+--- chemistry block 2; lines 40-52 ---
+Kaplan I.R., Smith J.W. and Ruth E. (1970) Carbon and                                                            Sutton R.L. and Schaber G.G. (1971) Lunar locations and
+    sulfur concentration and isotopic composition in Apollo 11                                                                  orientations of rock samples from Apollo missions 11 and
+    lunar samples. Proc. Apollo 11 Lunar Sci. Conf. 1317-1329.                                                               12. Proc. 2nd Lunar Sci. Conf. 17-26.
+
+   Kharkar D.P. and Turekian K.K. (1970) Neutron activation                                               Wänke H., Rieder R., Baddenhausen H., Spettler B., Teschke
+    analysis of milligram quantities of Apollo 11 lunar rocks                                                                                 F., Quijano-Rico M. and Balacescu A. (1970) Major and
+   and soil. Proc. Apollo 11 Lunar Sci. Conf. 1659-1664.                                                                   trace elements in lunar material. Proc. Apollo 11 Lunar Sci.
+                                                            Conf. 1719-1727.
+   Kharkar D.P. and Turekian K.K. (1971) Analyses of Apollo
+   11 and Apollo 12 rocks and soils by neutron activation. Proc.                                                  Wiesmann H. and Hubbard N.J. (1975) A compilation of
+    2nd Lunar Sci. Conf. 1301-1305.                                                                the Lunar Sample Data Generated by the Gast, Nyquist and
+                                                     Hubbard Lunar Sample PI-Ships. Unpublished. JSC
+--- mineralogy block 3; lines 31-44 ---
+1-39.
+                                                           Schmitt H.H., Lofgren G., Swann G.A. and Simmons G.
+   Hintenberger H., Weber H.W. and Takaoka N. (1971)   (1970) The Apollo 11 samples: Introduction. Proc. Apollo
+    Concentrations and isotopic abundances of the rare gases in   11 Lunar Science Conf. 1-54.
+    lunar matter. Proc. 2nd Lunar Sci. Conf. 1607-1625.
+                                                            Stewart D.B., Appleman D.E., Huebner J.S. and Clark J.R.
+   James O.B. and Jackson E.D. (1970) Petrology of the Apollo                                                           (1970) Crystqllography of some lunar plagioclase. Science
+   11 ilmenite basalts. J. Geophys. Res. 75, 5793-5824.                                                            167, 634-635.
+
+   Kaplan I.R., Smith J.W. and Ruth E. (1970) Carbon and                                                            Sutton R.L. and Schaber G.G. (1971) Lunar locations and
+    sulfur concentration and isotopic composition in Apollo 11                                                                  orientations of rock samples from Apollo missions 11 and
+    lunar samples. Proc. Apollo 11 Lunar Sci. Conf. 1317-1329.                                                               12. Proc. 2nd Lunar Sci. Conf. 17-26.
+
+   Kharkar D.P. and Turekian K.K. (1970) Neutron activation                                               Wänke H., Rieder R., Baddenhausen H., Spettler B., Teschke
+--- material block 4; lines 35-52 ---
+lunar matter. Proc. 2nd Lunar Sci. Conf. 1607-1625.
+                                                            Stewart D.B., Appleman D.E., Huebner J.S. and Clark J.R.
+   James O.B. and Jackson E.D. (1970) Petrology of the Apollo                                                           (1970) Crystqllography of some lunar plagioclase. Science
+   11 ilmenite basalts. J. Geophys. Res. 75, 5793-5824.                                                            167, 634-635.
+
+   Kaplan I.R., Smith J.W. and Ruth E. (1970) Carbon and                                                            Sutton R.L. and Schaber G.G. (1971) Lunar locations and
+    sulfur concentration and isotopic composition in Apollo 11                                                                  orientations of rock samples from Apollo missions 11 and
+    lunar samples. Proc. Apollo 11 Lunar Sci. Conf. 1317-1329.                                                               12. Proc. 2nd Lunar Sci. Conf. 17-26.
+
+   Kharkar D.P. and Turekian K.K. (1970) Neutron activation                                               Wänke H., Rieder R., Baddenhausen H., Spettler B., Teschke
+    analysis of milligram quantities of Apollo 11 lunar rocks                                                                                 F., Quijano-Rico M. and Balacescu A. (1970) Major and
+   and soil. Proc. Apollo 11 Lunar Sci. Conf. 1659-1664.                                                                   trace elements in lunar material. Proc. Apollo 11 Lunar Sci.
+                                                            Conf. 1719-1727.
+   Kharkar D.P. and Turekian K.K. (1971) Analyses of Apollo
+   11 and Apollo 12 rocks and soils by neutron activation. Proc.                                                  Wiesmann H. and Hubbard N.J. (1975) A compilation of
+    2nd Lunar Sci. Conf. 1301-1305.                                                                the Lunar Sample Data Generated by the Gast, Nyquist and
+                                                     Hubbard Lunar Sample PI-Ships. Unpublished. JSC

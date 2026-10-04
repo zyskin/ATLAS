@@ -1,0 +1,233 @@
+DOCUMENT_ID: 14320__compendium__d499cc09bd
+ATLAS_SAMPLE_IDS: 14320
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14320.pdf
+SOURCE_PDF_SHA256: 94540f2d7bf0371751d56fa8104085706288510bafcc5ae4b28cb8620107f334
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 11-23 ---
+Introduction
+   14317 was picked up at the “North Boulder Field”
+    (station H) about 100 meters northwest of the LM
+   (Swann et al. 1977)(figure 2).  It is a slabby, angular
+   rock (figure 1). One side appears fresher than the rest
+   but sides have about the same density of glass-lined
+    pits. Several irregular fractures occur at odd angles to
+   the long axis. The rock is a coherent breccia with a
+   moderate percentage of clasts. Most of the clasts are
+    dark.
+
+   Petrography
+--- material block 2; lines 1-35 ---
+14320
+                                 Crystalline matrix Breccia
+                                            64.9 grams
+
+
+
+
+
+         Figure 1: Two views of 14320 showing heavily cratered surfaces and white clasts. NASA S71-29196 and
+         29195. Sample is 6 cm across.
+
+   Introduction
+   14317 was picked up at the “North Boulder Field”
+    (station H) about 100 meters northwest of the LM
+   (Swann et al. 1977)(figure 2).  It is a slabby, angular
+   rock (figure 1). One side appears fresher than the rest
+   but sides have about the same density of glass-lined
+    pits. Several irregular fractures occur at odd angles to
+   the long axis. The rock is a coherent breccia with a
+   moderate percentage of clasts. Most of the clasts are
+    dark.
+
+   Petrography
+   Chao et al. (1972), von Engelhardt et al. (1972), Stoffler
+    et al. (1976) have reported petrographic analysis of          Figure 2: Map of Apollo 14 traverse with location
+   14320 that would do as well for 14321.                            of 14320.
+
+   Simonds et al. (1977) note that 14320 contains as much
+   as 4 % mare basalt clasts. Hunter and Taylor (1983)
+   determined the mineral composition of two clasts.     Processing
+                                                14320 was returned in weigh bag 1038 and first opened
+   Chemistry                                             in Crew Reception Area, before entering NNPL for
+   Christian et al. (1972) reported a composition typical   description. There are 8 thin sections.
+   of Apollo 14 CMB.
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 4-29 ---
+11
+
+
+                                                                                                               10
+                                             FeO
+                                                                      wt. %   9                           14320
+
+                                                                                                                    8              CMB      VMB
+
+                                                                                                                    7
+
+
+                                                                                                                    6
+
+
+                                                                                                                    5
+                                                                                                                    12     13    14    15     16     17    18     19     20    21    22     23
+                                                                              Al2O3 wt. %
+
+                                                                   Figure 4: Composition of Apollo 14 breccias with
+                                                                 14320.
+
+                                                                                                             Mineral
+                                                                                                               Clasts
+--- chemistry block 2; lines 36-62 ---
+Light matrix breccia
+
+        Figure 3: Thin section photomicrograph of 14320,5.
+        Sample is 1 cm. NASA S71-43159.
+
+                                                                                              14320                                                                                                                                                                                                                              Crystalline-Matrix-Breccias
+     Table 1. Chemical composition of 14320.
+
+
+        reference  Christian76
+        weight                                                                            Lithic
+       SiO2 %    47.78     (a)                                            Clasts                                                    Glass
+       TiO2      2.05      (a)
+       Al2O3     17.11     (a)                                       Figure 5: Simonds diagram for Apollo 14 breccias.
+      FeO       10.04     (a)
+     MnO      0.14      (a)
+     MgO      10.46     (a)
+     CaO       9.96      (a)
+      Na2O     0.82      (a)
+                                                C Meyer
+      K2O       0.79      (a)                                                               2011     14320
+      P2O5     0.65      (a)
+      S %                                                 64.9 grams
+      sum
+
+                                                        ,0            ,1    ,2        ,3     ,16
+                                                57.5 g    PB   0.7 g    1 g   1.1 g
+--- mineralogy block 3; lines 41-53 ---
+14320                                                                                                                                                                                                                              Crystalline-Matrix-Breccias
+     Table 1. Chemical composition of 14320.
+
+
+        reference  Christian76
+        weight                                                                            Lithic
+       SiO2 %    47.78     (a)                                            Clasts                                                    Glass
+       TiO2      2.05      (a)
+       Al2O3     17.11     (a)                                       Figure 5: Simonds diagram for Apollo 14 breccias.
+      FeO       10.04     (a)
+     MnO      0.14      (a)
+     MgO      10.46     (a)
+     CaO       9.96      (a)
+--- material block 4; lines 28-47 ---
+Mineral
+                                                                                                               Clasts
+                                                                                                 Apollo 14
+
+                                                                                  CMB (Fra Mauro)
+
+                                                                                                                                    Regolith breccias
+
+                                                                                                                                            Light matrix breccia
+
+        Figure 3: Thin section photomicrograph of 14320,5.
+        Sample is 1 cm. NASA S71-43159.
+
+                                                                                              14320                                                                                                                                                                                                                              Crystalline-Matrix-Breccias
+     Table 1. Chemical composition of 14320.
+
+
+        reference  Christian76
+        weight                                                                            Lithic
+       SiO2 %    47.78     (a)                                            Clasts                                                    Glass
+--- references block 5; lines 39-51 ---
+Sample is 1 cm. NASA S71-43159.
+
+                                                                                              14320                                                                                                                                                                                                                              Crystalline-Matrix-Breccias
+     Table 1. Chemical composition of 14320.
+
+
+        reference  Christian76
+        weight                                                                            Lithic
+       SiO2 %    47.78     (a)                                            Clasts                                                    Glass
+       TiO2      2.05      (a)
+       Al2O3     17.11     (a)                                       Figure 5: Simonds diagram for Apollo 14 breccias.
+      FeO       10.04     (a)
+     MnO      0.14      (a)
+
+=== PDF PAGE 4; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 22-34 ---
+Res. 88, A591-A602.
+
+   LSPET (1971) Preliminary examination of lunar samples
+    from Apollo 14. Science 173, 681-693.
+
+   Roedder E. and Weiblen P.W. (1972)  Occurrence of
+    chromian, hercynitic spinel “pleonaste” in Apollo 14 samples
+    and its petrologic implications. Earth Planet. Sci. Lett. 15,
+    376-402.
+
+    Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+    Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+     revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+--- mineralogy block 2; lines 37-49 ---
+Stoffler D., Knoll H-D., Reimold W. and Schulien S. (1976)
+    Grain size statistics, composition and provenance of
+    fragmental particles in some Apollo 14 breccias. Proc. 7th
+    Lunar Sci. Conf. 1965-1985.
+
+     Stöffler D. and Knoll H-D. (1977) Composition and origin
+    of plagioclase, pyroxene and olivine clasts of lunar breccias
+    14006, 14063, 14066, 14311, 14320 and 14321. Proc. 8th
+    Lunar Sci. Conf. 1849-1867.
+
+    Sutton R.L., Hait M.H. and Swann G.A. (1972) Geology of
+    the Apollo 14 landing site. Proc. 3rd Lunar Sci. Conf. 27-
+    38.
+--- material block 3; lines 1-21 ---
+References for 14320                                   Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock  Geology of the Apollo 14 landing site in the Fra Mauro
+    Samples. Curators Office. JSC 14240                     Highlands. U.S.G.S. Prof. Paper 880.
+
+   Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14  Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+    breccias: General characteristics and classification. Proc.   M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,
+     3rd Lunar Sci. Conf. 645-659.                            Schaber G.G., Schafer J.P., Shepard A.B., Sutton R.L., Trask
+                                                                       N.J., Ulrich G.E., Wilshire H.G. and Wolfe E.W. (1972) 3.
+    Christian R.P., Berman S., Dwornik E.J., Rose H.J. and   Preliminary Geologic Investigation of the Apollo 14 landing
+    Schnepfe M.M. (1976) Composition of some Apollo 14, 15    site. In Apollo 14 Preliminary Science Rpt. NASA SP-272.
+    and 16 lunar breccias and two Apollo 15 fines (abs). Lunar   pages 39-85.
+     Sci. VII, 138-140.
+                                                       Warner J.L. (1972) Metamophism of Apollo 14 breccias.
+    von Engelhardt W., Arndt J., Stoffler D. and Schneider H.   Proc. 3rd Lunar Sci. Conf. 623-643.
+    (1972)  Apollo 14 regolith and fragmental rocks, their
+    compositions and origins by impacts. Proc. 3rd Lunar Sci.   Williams R.J. (1972) The lithification of metamorphism of
+    Conf. 753-770.                                             lunar breccias. Earth Planet. Sci. Lett. 16, 250-256.
+
+    Hunter R.H. and Taylor L.A. (1983) The magma ocean from   Wilshire H.G. and Jackson E.D. (1972)  Petrology and
+    the Fra Mauro shoreline: An overview of the Apollo 14   stratigraphy of the Fra Mauro Formation at the Apollo 14
+     crust.  Proc. 13th Lunar Planet. Sci. Conf. in J. Geophys.    site. U.S. Geol. Survey Prof. Paper 785.
+--- material block 4; lines 32-44 ---
+Simonds C.H., Phinney W.C., Warner J.L., McGee P.E.,
+    Geeslin J., Brown R.W. and Rhodes J.M. (1977) Apollo 14
+     revisited, or breccias aren’t so bad after all. Proc. 8th Lunar
+     Sci. Conf. 1869-1893.
+
+     Stoffler D., Knoll H-D., Reimold W. and Schulien S. (1976)
+    Grain size statistics, composition and provenance of
+    fragmental particles in some Apollo 14 breccias. Proc. 7th
+    Lunar Sci. Conf. 1965-1985.
+
+     Stöffler D. and Knoll H-D. (1977) Composition and origin
+    of plagioclase, pyroxene and olivine clasts of lunar breccias
+    14006, 14063, 14066, 14311, 14320 and 14321. Proc. 8th
+--- references block 5; lines 1-7 ---
+References for 14320                                   Sutton R.L., Trask N.J., Ulrich G.E. and Wilshire H.G. (1977)
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock  Geology of the Apollo 14 landing site in the Fra Mauro
+    Samples. Curators Office. JSC 14240                     Highlands. U.S.G.S. Prof. Paper 880.
+
+   Chao E.C.T., Minkin J.A. and Best J.B. (1972) Apollo 14  Swann G.A., Bailey N.G., Batson R.M., Eggleton R.E., Hait
+    breccias: General characteristics and classification. Proc.   M.H., Holt H.E., Larson K.B., McEwen M.C., Mitchell E.D.,
+     3rd Lunar Sci. Conf. 645-659.                            Schaber G.G., Schafer J.P., Shepard A.B., Sutton R.L., Trask

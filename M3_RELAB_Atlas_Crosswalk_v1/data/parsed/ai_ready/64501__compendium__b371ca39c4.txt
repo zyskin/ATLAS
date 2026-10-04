@@ -1,0 +1,793 @@
+DOCUMENT_ID: 64501__compendium__b371ca39c4
+ATLAS_SAMPLE_IDS: 64501,64530
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64501.pdf
+SOURCE_PDF_SHA256: 4beef1181579b341285608ee62e5da3f3b7d97728dd5a5bebbd2fd452390a789
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 24-43 ---
+Figure 1: Blocky sample area in double crater near
+                                                                                25
+      rim of Cinco a. Region of rake sample and soil sample
+      64500. AS16-110-17948.                                                                                20                      Apollo soils
+
+   Introduction                                                         15                                FeO
+   Sample 64500 was collected from a blocky area high          10
+   up on the slope of Stone Mountain, and as such should                                                    64500
+   primarily contain material from the Descartes           5
+   Formation.  It is a large sample from a loose regolith
+   on the rim of a 15 meter crater. It included 11 walnut-           0
+   sized samples (64505 - 64525) and an additional rake             0       5      10      15      20      25      30      35
+                                                             Al2O3   sample (64530) collected from the same location
+   yielded 30 additional rocks (64535 - 64589). A double         Figure 3: Composition of 64501 compared with
+                                                                 Apollo soil samples.   drive tube 64002/1 and a trench sample 64420 were
+    collected nearby.                                                                1000
+
+   Note that some of the rocks from Stone Mountain were
+    dilithologic breccias (e.g. 64535, 64475) and that 64501            100
+--- material block 2; lines 1-8 ---
+64501 and 64530
+                                    Soil and bag residue
+                                    893 and 103 grams
+
+
+
+
+                                                                           double
+--- material block 3; lines 11-45 ---
+64002/1
+                                                                                     Cinco a
+                                                                                                     crater
+                                                      64420
+                                                                  64500                                                                 trench
+                                                                  and
+                                                               Rake
+
+
+                                                                   40 m
+
+                                                                Figure 2: Location of samples at station 4, Apollo
+                                                                     16, on Stone Mountain, Apollo 16.
+
+      Figure 1: Blocky sample area in double crater near
+                                                                                25
+      rim of Cinco a. Region of rake sample and soil sample
+      64500. AS16-110-17948.                                                                                20                      Apollo soils
+
+   Introduction                                                         15                                FeO
+   Sample 64500 was collected from a blocky area high          10
+   up on the slope of Stone Mountain, and as such should                                                    64500
+   primarily contain material from the Descartes           5
+   Formation.  It is a large sample from a loose regolith
+   on the rim of a 15 meter crater. It included 11 walnut-           0
+   sized samples (64505 - 64525) and an additional rake             0       5      10      15      20      25      30      35
+                                                             Al2O3   sample (64530) collected from the same location
+   yielded 30 additional rocks (64535 - 64589). A double         Figure 3: Composition of 64501 compared with
+                                                                 Apollo soil samples.   drive tube 64002/1 and a trench sample 64420 were
+    collected nearby.                                                                1000
+
+   Note that some of the rocks from Stone Mountain were
+    dilithologic breccias (e.g. 64535, 64475) and that 64501            100
+   has a very similar composition.                                   sample/chondrite
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 15-27 ---
+Petrography                               Mineralogy
+   64500 was considered one of the reference soils by the  Mineral compositions were determined by Kempa and
+   Highland Initiative (Lobatka et al. 1980, Simon et al.  Papike (1980) and Labotka et al. (1980) with about half
+    1981, Papike et al. 1982). Morris (1978) reported that  the pyroxene showing mare composition (figure 6).
+   64500 was a mature soil with index Is/FeO = 61. Heiken  Bell and Mao (1973) studied the iron in plagioclase.
+    et al. (1973) found 51% agglutinates in the 90-150
+   micron size range, while Houck (1982) determined an
+    average of ~ 29 % agglutinate overall.  Butler et al.
+    (1973), Heiken et al. (1973) and Graf (1993) reported
+    the grain size analysis (figure 5). The average grain
+    size is about 110 microns.
+--- mineralogy block 2; lines 1-44 ---
+Modal content of soil 64501.              Modal content 64501 (90-150 micron).
+            From Papike et al. 1982                                      Heiken73      Houck82
+                              1000-90 microns                   Agglutinates     51.6            29.2
+                 Agglutinates             29.1                      Basalt              -                     -
+               Dark matrix breccias    13.9                     Breccia        21              26.1
+              Mare basalt              0.3                       Anorthosite     3             1
+                 Feldspathic basalt        1.6                       Norite           0.3
+                 Breccia                  2.1                        Plagioclase     20            33
+                 Anorthosite            5                      Pyroxene        0.6              2.5
+                    Poikilitic                 8.3                       Olivine                           0.3
+                 Plagioclase              32.1                       Ilmenite                          0.4
+               Pyroxene              1                        Glass other     3                6.8
+                Glass other               6.7
+
+
+
+   Petrography                               Mineralogy
+   64500 was considered one of the reference soils by the  Mineral compositions were determined by Kempa and
+   Highland Initiative (Lobatka et al. 1980, Simon et al.  Papike (1980) and Labotka et al. (1980) with about half
+    1981, Papike et al. 1982). Morris (1978) reported that  the pyroxene showing mare composition (figure 6).
+   64500 was a mature soil with index Is/FeO = 61. Heiken  Bell and Mao (1973) studied the iron in plagioclase.
+    et al. (1973) found 51% agglutinates in the 90-150
+   micron size range, while Houck (1982) determined an
+    average of ~ 29 % agglutinate overall.  Butler et al.
+    (1973), Heiken et al. (1973) and Graf (1993) reported
+    the grain size analysis (figure 5). The average grain
+    size is about 110 microns.
+
+    Glass (1976) studied the glass particles in 64501 and
+   found 5% were mare component, and a few were
+    granitic in composition. However, he did not report a
+   group called ‘highland basalt’, as did Ridley et al.
+    (1973) for 60501. Delano (1975), Delano et al. (1981,
+   2007) and Kempa and Papike (1980) analyzed a large
+   number of glass particles from 64501.  Walker and
+    Papike (1981) and Basu and McKay (1985) studied
+    the formation of agglutinates, while See et al. (1986)                                                       average grain size = 101 microns
+    studied the glass splashes on rocks (and presumably
+     soil fragments).
+
+   Phinney and Lofgren (1973) described rake samples,
+    while Marvin (1972) described the 4 - 10 mm coarse
+    fine particles.
+--- material block 3; lines 1-57 ---
+Modal content of soil 64501.              Modal content 64501 (90-150 micron).
+            From Papike et al. 1982                                      Heiken73      Houck82
+                              1000-90 microns                   Agglutinates     51.6            29.2
+                 Agglutinates             29.1                      Basalt              -                     -
+               Dark matrix breccias    13.9                     Breccia        21              26.1
+              Mare basalt              0.3                       Anorthosite     3             1
+                 Feldspathic basalt        1.6                       Norite           0.3
+                 Breccia                  2.1                        Plagioclase     20            33
+                 Anorthosite            5                      Pyroxene        0.6              2.5
+                    Poikilitic                 8.3                       Olivine                           0.3
+                 Plagioclase              32.1                       Ilmenite                          0.4
+               Pyroxene              1                        Glass other     3                6.8
+                Glass other               6.7
+
+
+
+   Petrography                               Mineralogy
+   64500 was considered one of the reference soils by the  Mineral compositions were determined by Kempa and
+   Highland Initiative (Lobatka et al. 1980, Simon et al.  Papike (1980) and Labotka et al. (1980) with about half
+    1981, Papike et al. 1982). Morris (1978) reported that  the pyroxene showing mare composition (figure 6).
+   64500 was a mature soil with index Is/FeO = 61. Heiken  Bell and Mao (1973) studied the iron in plagioclase.
+    et al. (1973) found 51% agglutinates in the 90-150
+   micron size range, while Houck (1982) determined an
+    average of ~ 29 % agglutinate overall.  Butler et al.
+    (1973), Heiken et al. (1973) and Graf (1993) reported
+    the grain size analysis (figure 5). The average grain
+    size is about 110 microns.
+
+    Glass (1976) studied the glass particles in 64501 and
+   found 5% were mare component, and a few were
+    granitic in composition. However, he did not report a
+   group called ‘highland basalt’, as did Ridley et al.
+    (1973) for 60501. Delano (1975), Delano et al. (1981,
+   2007) and Kempa and Papike (1980) analyzed a large
+   number of glass particles from 64501.  Walker and
+    Papike (1981) and Basu and McKay (1985) studied
+    the formation of agglutinates, while See et al. (1986)                                                       average grain size = 101 microns
+    studied the glass splashes on rocks (and presumably
+     soil fragments).
+
+   Phinney and Lofgren (1973) described rake samples,
+    while Marvin (1972) described the 4 - 10 mm coarse
+    fine particles.
+
+   Devine et al. (1982) and Korotev (1981) discuss two
+    different models for the derivation of the fine fraction
+    (differential fracturing and mixing, respectively).
+
+
+
+
+
+                                                                Figure 5a: Grain size distribution for 64500 (Graf
+                                                                1991, data by Heiken et al.)
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 4; lines 15-27 ---
+Petrography                               Mineralogy
+   64500 was considered one of the reference soils by the  Mineral compositions were determined by Kempa and
+   Highland Initiative (Lobatka et al. 1980, Simon et al.  Papike (1980) and Labotka et al. (1980) with about half
+    1981, Papike et al. 1982). Morris (1978) reported that  the pyroxene showing mare composition (figure 6).
+   64500 was a mature soil with index Is/FeO = 61. Heiken  Bell and Mao (1973) studied the iron in plagioclase.
+    et al. (1973) found 51% agglutinates in the 90-150
+   micron size range, while Houck (1982) determined an
+    average of ~ 29 % agglutinate overall.  Butler et al.
+    (1973), Heiken et al. (1973) and Graf (1993) reported
+    the grain size analysis (figure 5). The average grain
+    size is about 110 microns.
+--- treatment block 5; lines 40-52 ---
+Phinney and Lofgren (1973) described rake samples,
+    while Marvin (1972) described the 4 - 10 mm coarse
+    fine particles.
+
+   Devine et al. (1982) and Korotev (1981) discuss two
+    different models for the derivation of the fine fraction
+    (differential fracturing and mixing, respectively).
+--- references block 6; lines 12-24 ---
+Pyroxene              1                        Glass other     3                6.8
+                Glass other               6.7
+
+
+
+   Petrography                               Mineralogy
+   64500 was considered one of the reference soils by the  Mineral compositions were determined by Kempa and
+   Highland Initiative (Lobatka et al. 1980, Simon et al.  Papike (1980) and Labotka et al. (1980) with about half
+    1981, Papike et al. 1982). Morris (1978) reported that  the pyroxene showing mare composition (figure 6).
+   64500 was a mature soil with index Is/FeO = 61. Heiken  Bell and Mao (1973) studied the iron in plagioclase.
+    et al. (1973) found 51% agglutinates in the 90-150
+   micron size range, while Houck (1982) determined an
+    average of ~ 29 % agglutinate overall.  Butler et al.
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 1-11 ---
+Figure 6: Composition of pyroxene and olivine grains in two different size fractions of 64501 (Labotka et
+              al. 1980).
+
+   Chemistry                                            the halogen content. Clark and Keith (1973) and Nunes
+   The chemical composition of 64501 (table 1) is similar   et al. (1973) reported K, U and Th.
+    to that of the nearby trench soil (64420) and the double
+   drive tube 64002. Finkelman et al. (1975) and Laul  Chemical analyses for rake samples from this location
+   and Papike (1980) analyzed bulk soil and several grain   are tabulated in table 4. Korotev (1981) discussed the
+    size separates. Cirlin and Housley (1981) determined   close chemical comparison of 64501 with that of
+  Cd and Zn and Jovanovic and Reed (1973) reported   dilithologic anorthositic breccias 64474 and 64548.
+--- mineralogy block 2; lines 1-7 ---
+Figure 6: Composition of pyroxene and olivine grains in two different size fractions of 64501 (Labotka et
+              al. 1980).
+
+   Chemistry                                            the halogen content. Clark and Keith (1973) and Nunes
+   The chemical composition of 64501 (table 1) is similar   et al. (1973) reported K, U and Th.
+    to that of the nearby trench soil (64420) and the double
+   drive tube 64002. Finkelman et al. (1975) and Laul  Chemical analyses for rake samples from this location
+--- material block 3; lines 1-42 ---
+Figure 6: Composition of pyroxene and olivine grains in two different size fractions of 64501 (Labotka et
+              al. 1980).
+
+   Chemistry                                            the halogen content. Clark and Keith (1973) and Nunes
+   The chemical composition of 64501 (table 1) is similar   et al. (1973) reported K, U and Th.
+    to that of the nearby trench soil (64420) and the double
+   drive tube 64002. Finkelman et al. (1975) and Laul  Chemical analyses for rake samples from this location
+   and Papike (1980) analyzed bulk soil and several grain   are tabulated in table 4. Korotev (1981) discussed the
+    size separates. Cirlin and Housley (1981) determined   close chemical comparison of 64501 with that of
+  Cd and Zn and Jovanovic and Reed (1973) reported   dilithologic anorthositic breccias 64474 and 64548.
+
+                                                     Muller (1973) determined 96 ppm nitrogen, but there
+                                                           are no values for carbon for 64501.
+
+                                              Radiogenic age dating
+                                                          Jessberger et al. (1977) have produced Ar/Ar ages for
+                                                        rake samples from 64535 and 64536.
+
+                                           Cosmogenic isotopes and exposure ages
+                                                      Clark and Keith (1973) determined the cosmic-ray-
+                                                     induced activity of 26Al = 160 dpm/kg., 22Na = 44 dpm/
+                                                                kg., 54Mn = 6 dpm/kg. and 46Sc = 2.2 dpm/kg. Kirsten
+                                                                  et al. (1973) reported a Ne exposure age of 210 m.y.
+        Average grain size = 110 mcirons
+                                                          Jessberger et al. (1977) determined the exposure age
+                                                          of some of the rake samples from this soil. In particular,
+                                                64535 was found to be 1.9 m.y. old, consistent with
+                                                        excavation by South Ray Crater (see section on 64535).
+
+                                           Other Studies
+                                                         Kirsten et al. (1973) reported the rare gas content and
+                                                            isotopic ratios.
+
+                                                 Rees and Thode (1975) determined the concentration
+                                                  and isotopic ratio of sulfur.
+
+
+         Figure 5b: Grain size distribution for 64500 (Graf
+         1991, data by Butler et al.)
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 4; lines 9-31 ---
+size separates. Cirlin and Housley (1981) determined   close chemical comparison of 64501 with that of
+  Cd and Zn and Jovanovic and Reed (1973) reported   dilithologic anorthositic breccias 64474 and 64548.
+
+                                                     Muller (1973) determined 96 ppm nitrogen, but there
+                                                           are no values for carbon for 64501.
+
+                                              Radiogenic age dating
+                                                          Jessberger et al. (1977) have produced Ar/Ar ages for
+                                                        rake samples from 64535 and 64536.
+
+                                           Cosmogenic isotopes and exposure ages
+                                                      Clark and Keith (1973) determined the cosmic-ray-
+                                                     induced activity of 26Al = 160 dpm/kg., 22Na = 44 dpm/
+                                                                kg., 54Mn = 6 dpm/kg. and 46Sc = 2.2 dpm/kg. Kirsten
+                                                                  et al. (1973) reported a Ne exposure age of 210 m.y.
+        Average grain size = 110 mcirons
+                                                          Jessberger et al. (1977) determined the exposure age
+                                                          of some of the rake samples from this soil. In particular,
+                                                64535 was found to be 1.9 m.y. old, consistent with
+                                                        excavation by South Ray Crater (see section on 64535).
+
+                                           Other Studies
+                                                         Kirsten et al. (1973) reported the rare gas content and
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 64501.
+
+
+     reference  Korotev81        Finkelman75             Laul80     Krahenbuhl73 Haskin73    Morrison73   Muller75 Korotev91
+     weight   C     F         90-1000  30-90 <30um
+    SiO2 %                                               45.3    (a)                45.2
+    TiO2                                                  0.37    (a)                0.53        0.57      (b)
+    Al2O3                                                27.7    (a)                27.4        26.8      (b) 28.1
+   FeO      3.75   4.54    (a) 3.8       4.7    4.4    (a) 4.2     (a)                4.16        4.25      (b) 4.36     4.14     (a)
+   MnO                                                0.056   (a)               0.057       0.057     (b)
+   MgO                                                    4.9     (a)                4.27        6.35      (b) 5.64
+   CaO                                                  17.2    (a)                16.6        19.17     (b) 15.7     16       (a)
+   Na2O     0.484  0.483   (a)                           0.44    (a)                0.47        0.48      (b) 0.48     0.45     (a)
+   K2O                                                    0.1     (a)                0.111        0.111     (b)  0.11
+   P2O5                                                                                       0.14      (b)
+   S %                                                                                      0.045     (b)
+    sum
+
+    Sc ppm   7      7.9     (a) 6.7       8.2    7.9    (a) 8        (a)                10.4      (a) 7.17      (b)           7.48     (a)
+   V                                              20      (a)                         10        (b)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 64501.
+
+
+     reference  Korotev81        Finkelman75             Laul80     Krahenbuhl73 Haskin73    Morrison73   Muller75 Korotev91
+     weight   C     F         90-1000  30-90 <30um
+    SiO2 %                                               45.3    (a)                45.2
+    TiO2                                                  0.37    (a)                0.53        0.57      (b)
+    Al2O3                                                27.7    (a)                27.4        26.8      (b) 28.1
+   FeO      3.75   4.54    (a) 3.8       4.7    4.4    (a) 4.2     (a)                4.16        4.25      (b) 4.36     4.14     (a)
+   MnO                                                0.056   (a)               0.057       0.057     (b)
+--- references block 3; lines 65-75 ---
+Os ppb
+       Ir ppb                                                              11.8        (c )                                     8.8       (a)
+     Pt ppb
+    Au ppb                                                           13.8       (c )                                    13.9     (a)
+    Th ppm   1.7    2.1     (a) 2       2     2      (a) 1.85    (a)                             2.6                   1.76     (a)
+   U ppm                                                  0.4     (a) 0.58       (c )             0.54      (b) 0.43     0.54     (a)
+     technique:  (a) INAA, (b) multiple, (c ) RNAA
+
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: material ===
+--- material block 1; lines 12-37 ---
+allocations  ,2     ,8
+                                                48 g  46 g
+
+
+              Table 2: Walnut Samples from 64500 (DB396)
+                          weight  Ryder’s term
+               64505  5.392   breccia
+               64506  5.079   impact melt
+               64507  4.474   breccia
+               64508  4.168   breccia
+               64509  3.15     breccia
+               64515  3.761   impact melt
+               64516  2.929    cataclastic anorthosite
+               64517  1.546   breccia
+               64518  1.49    impact melt
+               64519  1.124    cataclastic anorthosite
+               64525  1.1      cataclastic anorthosite
+                         these are > 10 mm
+               64504  24 g    4 to 10 mm peanuts
+                       see also table 3 for rake samples, same location
+
+
+
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 6; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-9 ---
+Table 3: Rake Samples from 64530 (DB395)
+                  weight  Ryder’s term                                      ref
+         64535  256.6   anorthosite and glass                       Jessberger, Morris, See
+         64536  177.5   anorthosite and breccia
+         64537  124.3    cataclastic anorthosite and impact melt      McKinley 1984
+         64538  30.03   breccia
+         64539  17.76   breccia
+         64545  14.09   breccia
+         64546  12.8     cataclastic anorthosite and impact melt      McKinley 1984
+--- material block 2; lines 1-37 ---
+Table 3: Rake Samples from 64530 (DB395)
+                  weight  Ryder’s term                                      ref
+         64535  256.6   anorthosite and glass                       Jessberger, Morris, See
+         64536  177.5   anorthosite and breccia
+         64537  124.3    cataclastic anorthosite and impact melt      McKinley 1984
+         64538  30.03   breccia
+         64539  17.76   breccia
+         64545  14.09   breccia
+         64546  12.8     cataclastic anorthosite and impact melt      McKinley 1984
+         64547  10.9     breccia
+         64548  8.49     breccia
+         64549  6.47     breccia
+         64555  5.29     breccia
+         64556  5.15     breccia
+         64557  4.79     breccia
+         64558  3.13     breccia
+         64559  21.8    impact melt                              McKinley 1984
+         64565  14.73   impact melt                              McKinley 1984
+         64566  14.13   impact melt
+         64567  13.86   impact melt
+         64568  9.78      poikilitic impact melt
+         64569  14.32    poikilitic impact melt
+         64575  6.84      poikilitic impact melt
+         64576  6.92     basaltic impact melt
+         64577  5.69     breccia
+         64578  6       impact melt
+         64579  4.8     impact melt
+         64585  4.7     impact melt
+         64586  3.3     impact melt
+         64587  7.2      breccia
+         64588  2.55     breccia
+         64589  4.04     cataclastic anorthosite
+
+         64530  102.8   residue
+                see also table 2 for walnuts, peanuts
+
+=== PDF PAGE 7; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 4. Chemical composition of rake samples.
+             64535  64537      64546      64548   64559   64559     64565      64567     64569   64569   64585
+    reference         McKinley84 McKinley84 Floran76         McKinley84 McKinley84           Wasson77
+    weight                                 Ryder 80                                                      Floran76
+   SiO2 %   see                            45.28                                                        46.37
+    TiO2      sample 0.8       (a) 0.5       (a) 0.43               0.9      (a) 0.8       (a)             1.03     0.94
+   Al2O3             20.2     (a) 27.7      (a) 27.67             20.7     (a) 21.3      (a)             22.48    20.81
+   FeO               9.5       (a) 4.6       (a) 4.47               9.4      (a) 8.3       (a)              8.5      7.6
+   MnO              0.083    (a) 0.056    (a)                  0.085    (a) 0.084    (a)              0.1
+   MgO              11.1     (a) 5.1       (a) 5.67              11.6     (a) 10.8      (a)             12.4     11.25
+   CaO            12       (a) 16.7      (a) 15.79             12.1     (a) 12.5      (a)             11.7     12.35
+   Na2O              0.5       (a) 0.46      (a) 0.464            0.506    (a) 0.53      (a)             0.504    0.52
+   K2O              0.18     (a) 0.07      (a) 0.13              0.19     (a) 0.16      (a)              0.2      0.22
+   P2O5
+   S %
+   sum
+
+   Sc ppm            11.3     (a) 7.2       (a) 6.78              11.3     (a) 10.7      (a)             13.3
+   V               29       (a) 19        (a)                 32       (a) 27        (a)           40
+--- material block 2; lines 1-7 ---
+Table 4. Chemical composition of rake samples.
+             64535  64537      64546      64548   64559   64559     64565      64567     64569   64569   64585
+    reference         McKinley84 McKinley84 Floran76         McKinley84 McKinley84           Wasson77
+    weight                                 Ryder 80                                                      Floran76
+   SiO2 %   see                            45.28                                                        46.37
+    TiO2      sample 0.8       (a) 0.5       (a) 0.43               0.9      (a) 0.8       (a)             1.03     0.94
+   Al2O3             20.2     (a) 27.7      (a) 27.67             20.7     (a) 21.3      (a)             22.48    20.81
+--- references block 3; lines 1-9 ---
+Table 4. Chemical composition of rake samples.
+             64535  64537      64546      64548   64559   64559     64565      64567     64569   64569   64585
+    reference         McKinley84 McKinley84 Floran76         McKinley84 McKinley84           Wasson77
+    weight                                 Ryder 80                                                      Floran76
+   SiO2 %   see                            45.28                                                        46.37
+    TiO2      sample 0.8       (a) 0.5       (a) 0.43               0.9      (a) 0.8       (a)             1.03     0.94
+   Al2O3             20.2     (a) 27.7      (a) 27.67             20.7     (a) 21.3      (a)             22.48    20.81
+   FeO               9.5       (a) 4.6       (a) 4.47               9.4      (a) 8.3       (a)              8.5      7.6
+   MnO              0.083    (a) 0.056    (a)                  0.085    (a) 0.084    (a)              0.1
+--- references block 4; lines 64-73 ---
+Os ppb
+      Ir ppb           43       (a) 11        (a)                 42       (a) 25        (a)           19
+    Pt ppb
+   Au ppb          38       (a) 9         (a)                 36       (a) 25        (a)           20
+   Th ppm            4.5       (a) 1.2       (a)                    4.3      (a) 4.1       (a)            4
+   U ppm             1.1       (a) 0.3       (a)                    1.2      (a) 1.2       (a)              1.1
+    technique: (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 8; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 1-18 ---
+References 64500
+    Basu A. and McKay D.S. (1985) Chemical variability and  Fruland R.M. (1983)  Regolith Breccia Workbook.
+    origin of agglutinate glass. Proc. 16th Lunar Planet. Sci.   Curatorial Branch Publication # 66. JSC 19045.
+    Conf. D87-94.
+                                                            Glass B.P. (1976b) Major element compositions of glasses
+    Bell P.M., and Mao H.K. (1973) An analytical study of iron  from Apollo 11, 16 and 17 soil samples.  Proc. 7th Lunar
+     in plagioclase from Apollo 16 soils 64501, 64502, 64802,   Sci. Conf. 679-693.
+    rock 66095 and Apollo 15 rock 15475 (abs). Lunar Sci. IV,
+    Lunar Sci. Institute, Houston.                            Graf J.C. (1993) Lunar Soils Grain Size Catalog. JSC
+
+    Butler P. (1972) Lunar Sample Information Catalog Apollo   Haskin L.A., Helmke P.A., Blanchard D.P., Jacobs J.W. and
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   Telunder K. (1973) Major and trace element abundances in
+    Catalog. pp. 370.                                       samples from the lunar highlands. Proc. 4th Lunar Sci. Conf.
+                                                         1275-1296.
+    Butler J.C., Greene G.M. and King E.A. (1973) Grain size
+    frequency distribution and modal analysis of Apollo 16 fines.  Heiken G.H., McKay D.S. and Fruland R.M. (1973b) Apollo
+    Proc. 4th Lunar Sci. Conf. 267-278.                     16 soils – grain size analysis and petrography. Proc. 4th Lunar
+                                                                     Sci. Conf. 251-266.
+--- chemistry block 2; lines 23-35 ---
+Clark R.S. and Keith J.E. (1973) Determination of natural   Jessberger E.K., Dominik B., Kirsten T. and Staudacher T.
+    and cosmic ray induced radionuclides in Apollo 16 lunar   (1977a) New 40Ar-39Ar ages of Apollo 16 breccias and
+    samples. Proc. 4th Lunar Sci. Conf. 2105-2113.            4.42 AE old anorthosites (abs). Lunar Sci. VIII, 511-513.
+                                                       Lunar Planetary Institute, Houston
+    Delano J.W. (1975)  Petrology of the Apollo 16 mare
+    component: Mare Nectaris. Proc. 6th Lunar Sci. Conf. 15-   Jovanovic S. and Reed G.W. (1973b) Volatile trace elements
+    47.                                                 and the characterization of the Cayley formation and the
+                                                                 primitive lunar crust. Proc. 4th Lunar Sci. Conf. 1313-1324.
+    Delano J.W., Lindsley D.H. and Rudowski R. (1981) Glasses
+    of impact origin from Apollo 11, 12, 15 and 16: Evidence  Kempa M.J., Papike J.J. and White C. (1980) The Apollo
+     for fractional vaporization and mare/highland mixing. Proc.  16 regolith: A petrographically-constrained chemical mixing
+     12th Lunar Planet. Sci. Conf. 339-370.                    model. Proc. 11th Lunar Planet. Sci. Conf. 1341-1355.
+--- mineralogy block 3; lines 1-22 ---
+References 64500
+    Basu A. and McKay D.S. (1985) Chemical variability and  Fruland R.M. (1983)  Regolith Breccia Workbook.
+    origin of agglutinate glass. Proc. 16th Lunar Planet. Sci.   Curatorial Branch Publication # 66. JSC 19045.
+    Conf. D87-94.
+                                                            Glass B.P. (1976b) Major element compositions of glasses
+    Bell P.M., and Mao H.K. (1973) An analytical study of iron  from Apollo 11, 16 and 17 soil samples.  Proc. 7th Lunar
+     in plagioclase from Apollo 16 soils 64501, 64502, 64802,   Sci. Conf. 679-693.
+    rock 66095 and Apollo 15 rock 15475 (abs). Lunar Sci. IV,
+    Lunar Sci. Institute, Houston.                            Graf J.C. (1993) Lunar Soils Grain Size Catalog. JSC
+
+    Butler P. (1972) Lunar Sample Information Catalog Apollo   Haskin L.A., Helmke P.A., Blanchard D.P., Jacobs J.W. and
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   Telunder K. (1973) Major and trace element abundances in
+    Catalog. pp. 370.                                       samples from the lunar highlands. Proc. 4th Lunar Sci. Conf.
+                                                         1275-1296.
+    Butler J.C., Greene G.M. and King E.A. (1973) Grain size
+    frequency distribution and modal analysis of Apollo 16 fines.  Heiken G.H., McKay D.S. and Fruland R.M. (1973b) Apollo
+    Proc. 4th Lunar Sci. Conf. 267-278.                     16 soils – grain size analysis and petrography. Proc. 4th Lunar
+                                                                     Sci. Conf. 251-266.
+    Cirlin E.H. and Housley R.M. (1981)  Distribution and
+    evolution of Zn, Cd and Pb in Apollo 16 regolith samples  Houck K.J. (1982) Petrologic variations in Apollo 16 surface
+    and the average U-Pb ages of the parent rocks. Proc. 12th   soils.  Proc. 13th Lunar Planet. Sci. Conf. in J. Geophys.
+    Lunar Planet. Sci. Conf. 529-540.                         Res. 87, A197-A209.
+--- material block 4; lines 1-60 ---
+References 64500
+    Basu A. and McKay D.S. (1985) Chemical variability and  Fruland R.M. (1983)  Regolith Breccia Workbook.
+    origin of agglutinate glass. Proc. 16th Lunar Planet. Sci.   Curatorial Branch Publication # 66. JSC 19045.
+    Conf. D87-94.
+                                                            Glass B.P. (1976b) Major element compositions of glasses
+    Bell P.M., and Mao H.K. (1973) An analytical study of iron  from Apollo 11, 16 and 17 soil samples.  Proc. 7th Lunar
+     in plagioclase from Apollo 16 soils 64501, 64502, 64802,   Sci. Conf. 679-693.
+    rock 66095 and Apollo 15 rock 15475 (abs). Lunar Sci. IV,
+    Lunar Sci. Institute, Houston.                            Graf J.C. (1993) Lunar Soils Grain Size Catalog. JSC
+
+    Butler P. (1972) Lunar Sample Information Catalog Apollo   Haskin L.A., Helmke P.A., Blanchard D.P., Jacobs J.W. and
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   Telunder K. (1973) Major and trace element abundances in
+    Catalog. pp. 370.                                       samples from the lunar highlands. Proc. 4th Lunar Sci. Conf.
+                                                         1275-1296.
+    Butler J.C., Greene G.M. and King E.A. (1973) Grain size
+    frequency distribution and modal analysis of Apollo 16 fines.  Heiken G.H., McKay D.S. and Fruland R.M. (1973b) Apollo
+    Proc. 4th Lunar Sci. Conf. 267-278.                     16 soils – grain size analysis and petrography. Proc. 4th Lunar
+                                                                     Sci. Conf. 251-266.
+    Cirlin E.H. and Housley R.M. (1981)  Distribution and
+    evolution of Zn, Cd and Pb in Apollo 16 regolith samples  Houck K.J. (1982) Petrologic variations in Apollo 16 surface
+    and the average U-Pb ages of the parent rocks. Proc. 12th   soils.  Proc. 13th Lunar Planet. Sci. Conf. in J. Geophys.
+    Lunar Planet. Sci. Conf. 529-540.                         Res. 87, A197-A209.
+
+    Clark R.S. and Keith J.E. (1973) Determination of natural   Jessberger E.K., Dominik B., Kirsten T. and Staudacher T.
+    and cosmic ray induced radionuclides in Apollo 16 lunar   (1977a) New 40Ar-39Ar ages of Apollo 16 breccias and
+    samples. Proc. 4th Lunar Sci. Conf. 2105-2113.            4.42 AE old anorthosites (abs). Lunar Sci. VIII, 511-513.
+                                                       Lunar Planetary Institute, Houston
+    Delano J.W. (1975)  Petrology of the Apollo 16 mare
+    component: Mare Nectaris. Proc. 6th Lunar Sci. Conf. 15-   Jovanovic S. and Reed G.W. (1973b) Volatile trace elements
+    47.                                                 and the characterization of the Cayley formation and the
+                                                                 primitive lunar crust. Proc. 4th Lunar Sci. Conf. 1313-1324.
+    Delano J.W., Lindsley D.H. and Rudowski R. (1981) Glasses
+    of impact origin from Apollo 11, 12, 15 and 16: Evidence  Kempa M.J., Papike J.J. and White C. (1980) The Apollo
+     for fractional vaporization and mare/highland mixing. Proc.  16 regolith: A petrographically-constrained chemical mixing
+     12th Lunar Planet. Sci. Conf. 339-370.                    model. Proc. 11th Lunar Planet. Sci. Conf. 1341-1355.
+
+    Delano J.W., Zellner N.E.B., Barra F., Olson E., Swindle  Kempa M.J. and Papike J.J. (1980) The Apollo 16 regolith:
+    T.D., Tibbetts N.J. and Whittet D.C.B. (2007) An integrated   Comparative petrology of the >20 micron and 20-10 micron
+    approach to understanding Apollo 16 impact glasses:   soil fractions, Lateral transport and differential volatilization.
+    Chemistry, isotopes and shape.                              Proc. 11th Lunar Planet. Sci. Conf. 1635-1661.
+    Meteorit. & Planet. Sci. 42, 993-1004.
+                                                               Kirsten T., Horn P. and Kiko J. (1973) 39Ar/40Ar dating
+    Devine J.M., McKay D.S. and Papike J.J. (1982)  Lunar  and rare gas analysis of Apollo 16 rocks and soils. Proc. 4th
+     regolith: Petrology of the <10 micron fraction. Proc. 13th  Lunar Sci. Conf. 1757-1784.
+    Lunar Planet. Sci. Conf. A260-A268.
+                                                          Korotev R.L (1981) Compositional trends in Apollo 16 soils.
+    Finkelman R.B., Baedecker P.A., Christian R.P., Berman S.,   Proc. 12th Lunar Sci. Conf. 577-605.
+    Schnepfe M.M. and Rose H.J. (1975)  Trace-element
+    chemistry and reducing capacity of size fractions from the   Korotev R.L. (1997) Some things we can infer about the
+    Apollo 16 regolith. Proc. 6th Lunar Sci. Conf. 1385-1398.  Moon from the composition of the Apollo 16 regolith.
+                                                                Meteoritics & Planet. Sci. 32, 447-478.
+    Floran R.J., Phinney W.C., Blanchard D.P., Warner J.L.,
+    Simonds C.H., Brown R.W., Brannon J.C. and Korotev R.L.  Korotev R.L. (1991)  Geochemical stratigraphy of two
+    (1976) A comparison between geochemistry and petrology   regolith cores from the Central Highlands of the Moon. Proc.
+    of Apollo 16 – terrestrial impact melt analogs (abs). Lunar   21st  Lunar Planet. Sci. Conf. 229-289.  Lunar Planetary
+     Sci. VII, 263-265. Lunar Sci. Inst. Houston                    Institute, Houston
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 5; lines 19-31 ---
+Cirlin E.H. and Housley R.M. (1981)  Distribution and
+    evolution of Zn, Cd and Pb in Apollo 16 regolith samples  Houck K.J. (1982) Petrologic variations in Apollo 16 surface
+    and the average U-Pb ages of the parent rocks. Proc. 12th   soils.  Proc. 13th Lunar Planet. Sci. Conf. in J. Geophys.
+    Lunar Planet. Sci. Conf. 529-540.                         Res. 87, A197-A209.
+
+    Clark R.S. and Keith J.E. (1973) Determination of natural   Jessberger E.K., Dominik B., Kirsten T. and Staudacher T.
+    and cosmic ray induced radionuclides in Apollo 16 lunar   (1977a) New 40Ar-39Ar ages of Apollo 16 breccias and
+    samples. Proc. 4th Lunar Sci. Conf. 2105-2113.            4.42 AE old anorthosites (abs). Lunar Sci. VIII, 511-513.
+                                                       Lunar Planetary Institute, Houston
+    Delano J.W. (1975)  Petrology of the Apollo 16 mare
+    component: Mare Nectaris. Proc. 6th Lunar Sci. Conf. 15-   Jovanovic S. and Reed G.W. (1973b) Volatile trace elements
+    47.                                                 and the characterization of the Cayley formation and the
+                                                                 primitive lunar crust. Proc. 4th Lunar Sci. Conf. 1313-1324.
+--- age block 6; lines 36-48 ---
+Delano J.W., Zellner N.E.B., Barra F., Olson E., Swindle  Kempa M.J. and Papike J.J. (1980) The Apollo 16 regolith:
+    T.D., Tibbetts N.J. and Whittet D.C.B. (2007) An integrated   Comparative petrology of the >20 micron and 20-10 micron
+    approach to understanding Apollo 16 impact glasses:   soil fractions, Lateral transport and differential volatilization.
+    Chemistry, isotopes and shape.                              Proc. 11th Lunar Planet. Sci. Conf. 1635-1661.
+    Meteorit. & Planet. Sci. 42, 993-1004.
+                                                               Kirsten T., Horn P. and Kiko J. (1973) 39Ar/40Ar dating
+    Devine J.M., McKay D.S. and Papike J.J. (1982)  Lunar  and rare gas analysis of Apollo 16 rocks and soils. Proc. 4th
+     regolith: Petrology of the <10 micron fraction. Proc. 13th  Lunar Sci. Conf. 1757-1784.
+    Lunar Planet. Sci. Conf. A260-A268.
+                                                          Korotev R.L (1981) Compositional trends in Apollo 16 soils.
+    Finkelman R.B., Baedecker P.A., Christian R.P., Berman S.,   Proc. 12th Lunar Sci. Conf. 577-605.
+    Schnepfe M.M. and Rose H.J. (1975)  Trace-element
+--- treatment block 7; lines 38-50 ---
+T.D., Tibbetts N.J. and Whittet D.C.B. (2007) An integrated   Comparative petrology of the >20 micron and 20-10 micron
+    approach to understanding Apollo 16 impact glasses:   soil fractions, Lateral transport and differential volatilization.
+    Chemistry, isotopes and shape.                              Proc. 11th Lunar Planet. Sci. Conf. 1635-1661.
+    Meteorit. & Planet. Sci. 42, 993-1004.
+                                                               Kirsten T., Horn P. and Kiko J. (1973) 39Ar/40Ar dating
+    Devine J.M., McKay D.S. and Papike J.J. (1982)  Lunar  and rare gas analysis of Apollo 16 rocks and soils. Proc. 4th
+     regolith: Petrology of the <10 micron fraction. Proc. 13th  Lunar Sci. Conf. 1757-1784.
+    Lunar Planet. Sci. Conf. A260-A268.
+                                                          Korotev R.L (1981) Compositional trends in Apollo 16 soils.
+    Finkelman R.B., Baedecker P.A., Christian R.P., Berman S.,   Proc. 12th Lunar Sci. Conf. 577-605.
+    Schnepfe M.M. and Rose H.J. (1975)  Trace-element
+    chemistry and reducing capacity of size fractions from the   Korotev R.L. (1997) Some things we can infer about the
+    Apollo 16 regolith. Proc. 6th Lunar Sci. Conf. 1385-1398.  Moon from the composition of the Apollo 16 regolith.
+--- references block 8; lines 1-7 ---
+References 64500
+    Basu A. and McKay D.S. (1985) Chemical variability and  Fruland R.M. (1983)  Regolith Breccia Workbook.
+    origin of agglutinate glass. Proc. 16th Lunar Planet. Sci.   Curatorial Branch Publication # 66. JSC 19045.
+    Conf. D87-94.
+                                                            Glass B.P. (1976b) Major element compositions of glasses
+    Bell P.M., and Mao H.K. (1973) An analytical study of iron  from Apollo 11, 16 and 17 soil samples.  Proc. 7th Lunar
+     in plagioclase from Apollo 16 soils 64501, 64502, 64802,   Sci. Conf. 679-693.
+
+=== PDF PAGE 9; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 39-60 ---
+E3-E20.
+   Morris R.V. (1976) Surface exposure indicies of lunar soils:
+  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    335.                                                       In Geology of the Apollo 16 area, central lunar highlands.
+                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   Morris R.V. (1978) The surface exposure (maturity) of lunar
+     soils: Some concepts and Is/FeO compilation. Proc. 9th Lunar   Taylor S.R., Gorton M.P., Muir P., Nance W., Rudowski R.
+    Sci. Conf. 2287-2297.                                 and Ware N. (1974) Lunar highlands composition (abs).
+                                                       Lunar Sci. V, 789-791.
+   Morrison G.H., Nadkarni R.A., Jaworski J., Botto R.I. and
+   Roth J.R. (1973)  Elemental abundances of Apollo 16  Walker R.J. and Papike J.J. (1981a) The relationship of the
+    samples. Proc. 4th Lunar Sci. Conf. 1399-1405.             lunar regolith < 10 micron fraction and agglutinates. Part II:
+                                                       Chemical composition of agglutinate glass as a test of the
+   Muller O. (1973) Chemically bound nitrogen contents of  F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+   Apollo 16 and Apollo 15 lunar fines. Proc. 4th Lunar Sci.
+   Conf. 1625-1634.                                  Wasson J.T., Warren P.H., Kallemeyn G.W., McEwing C.E.,
+                                                                   Mittlefehldt D.W. and Boynton W.V. (1977) SCCRV, a major
+   Muller O. (1975)  Lithophile trace and major elements in  component of highlands rocks. Proc. 8th Lunar Sci. Conf.
+   Apollo 16 and 17 lunar samples. Proc. 6th Lunar Sci. Conf.   2237-2252.
+
+Lunar Sample Compendium
+C Meyer 2010
+--- mineralogy block 2; lines 3-20 ---
+(64001/2). Proc. 15th Lunar Planet. Sci. Conf. C143-160.   Nunes P.D., Tatsumoto M., Knight R.J., Unruh D.M. and
+                                               Doe B.R. (1973b) U-Th-Pb systematics of some Apollo 16
+   Labotka T.C., Kempa M.J., White C., Papike J.J. and Laul   lunar samples. Proc. 4th Lunar Sci. Conf. 1797-1822.
+    J.C. (1980) The lunar regolith: Comparative petrology of
+    the Apollo sites. Proc. 11th Lunar Planet. Sci. Conf. 1285-   Papike J.J., Simon S.B., White C. and Laul J.C. (1981) The
+   1305.                                                         relationship of the lunar regolith <10 micron fraction and
+                                                                   agglutinates. Part I: A model for agglutinate formation and
+   Laul J.C. and Papike J.J. (1980)  The lunar regolith:  some indirect supportive evidence. Proc. 12th Lunar Planet.
+   Comparative chemistry of the Apollo sites. Proc. 11th Lunar   Sci. Lett. 409-420.
+    Planet. Sci. Conf. 1307-1340.
+                                                          Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+   LSPET (1973) The Apollo 16 lunar samples: Petrographic   regolith: Chemistry, Mineralogy and Petrology.  Rev.
+   and chemical description. Science 179, 23-34.             Geophys. Space Phys. 20, 761-826.
+
+   LSPET (1972) Preliminary examination of lunar samples.   Phinney W. and Lofgren G. (1973) Description, classification
+   Apollo 16 Preliminary Science Report. NASA SP-315, 7-  and inventory of Apollo 16 rake samples from stations 1, 4
+   1—7-58.                                            and 13. Curators Office.
+--- mineralogy block 3; lines 45-57 ---
+soils: Some concepts and Is/FeO compilation. Proc. 9th Lunar   Taylor S.R., Gorton M.P., Muir P., Nance W., Rudowski R.
+    Sci. Conf. 2287-2297.                                 and Ware N. (1974) Lunar highlands composition (abs).
+                                                       Lunar Sci. V, 789-791.
+   Morrison G.H., Nadkarni R.A., Jaworski J., Botto R.I. and
+   Roth J.R. (1973)  Elemental abundances of Apollo 16  Walker R.J. and Papike J.J. (1981a) The relationship of the
+    samples. Proc. 4th Lunar Sci. Conf. 1399-1405.             lunar regolith < 10 micron fraction and agglutinates. Part II:
+                                                       Chemical composition of agglutinate glass as a test of the
+   Muller O. (1973) Chemically bound nitrogen contents of  F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+   Apollo 16 and Apollo 15 lunar fines. Proc. 4th Lunar Sci.
+   Conf. 1625-1634.                                  Wasson J.T., Warren P.H., Kallemeyn G.W., McEwing C.E.,
+                                                                   Mittlefehldt D.W. and Boynton W.V. (1977) SCCRV, a major
+   Muller O. (1975)  Lithophile trace and major elements in  component of highlands rocks. Proc. 8th Lunar Sci. Conf.
+   Apollo 16 and 17 lunar samples. Proc. 6th Lunar Sci. Conf.   2237-2252.
+--- material block 4; lines 1-24 ---
+Korotev R.L., Morris R.V. and Lauer H.V. (1984)   1303-1312.
+    Stratigraphy and geochemistry of the Stone Mountain Core
+    (64001/2). Proc. 15th Lunar Planet. Sci. Conf. C143-160.   Nunes P.D., Tatsumoto M., Knight R.J., Unruh D.M. and
+                                               Doe B.R. (1973b) U-Th-Pb systematics of some Apollo 16
+   Labotka T.C., Kempa M.J., White C., Papike J.J. and Laul   lunar samples. Proc. 4th Lunar Sci. Conf. 1797-1822.
+    J.C. (1980) The lunar regolith: Comparative petrology of
+    the Apollo sites. Proc. 11th Lunar Planet. Sci. Conf. 1285-   Papike J.J., Simon S.B., White C. and Laul J.C. (1981) The
+   1305.                                                         relationship of the lunar regolith <10 micron fraction and
+                                                                   agglutinates. Part I: A model for agglutinate formation and
+   Laul J.C. and Papike J.J. (1980)  The lunar regolith:  some indirect supportive evidence. Proc. 12th Lunar Planet.
+   Comparative chemistry of the Apollo sites. Proc. 11th Lunar   Sci. Lett. 409-420.
+    Planet. Sci. Conf. 1307-1340.
+                                                          Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+   LSPET (1973) The Apollo 16 lunar samples: Petrographic   regolith: Chemistry, Mineralogy and Petrology.  Rev.
+   and chemical description. Science 179, 23-34.             Geophys. Space Phys. 20, 761-826.
+
+   LSPET (1972) Preliminary examination of lunar samples.   Phinney W. and Lofgren G. (1973) Description, classification
+   Apollo 16 Preliminary Science Report. NASA SP-315, 7-  and inventory of Apollo 16 rake samples from stations 1, 4
+   1—7-58.                                            and 13. Curators Office.
+
+   Marvin U.B. (1972)  Apollo 16 coarse fines (4-10 mm):  Rees C.E. and Thode H.G. (1974a) Sulfur concentrations
+   Sample classification, description and inventory. JSC  and isotope ratios in Apollo 16 and 17 samples. Proc. 5th
+    Catalog.                                             Lunar Sci. Conf. 1963-1973.
+--- material block 5; lines 27-39 ---
+the Cayley Plains and Descartes Mountains, and geologic
+    history. Proc. 14th Lunar Planet. Sci. Conf., in J. Geophys.  Sanchez A.G. (1981)  Geology of Stone Mountain. In
+    Res. 89, B513-B524.                                 Geology of Apollo 16 (eds. Ulrich et al. ) U.S.G.S. Prof.
+                                                          Paper 1048
+    Miller M.D., Pacer R.A., Ma M.-S., Hawke B.R., Lookhart
+    G.L. and Ehmann W.D. (1974)  Compositional studies of  Simon S.B., Papike J.J. and Laul J.C. (1981) The lunar
+    the lunar regolith at the Apollo 17 site. Proc. 5th Lunar Sci.   regolith: Comparative studies of the Apollo and Luna sites.
+   Conf. 1079-1086.                                          Proc. 12th Lunar Planet. Sci. Conf. 371-388.
+
+   Morris R.V., Score R., Dardano C. and Heiken G. (1983)  See T.H., Horz F. and Morris R.V. (1986) Apollo 16 impact-
+   Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s   melt splashes: Petrography and major-element composition.
+    Office, Houston                                            Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 91,
+                                                        E3-E20.
+--- material block 6; lines 44-56 ---
+Morris R.V. (1978) The surface exposure (maturity) of lunar
+     soils: Some concepts and Is/FeO compilation. Proc. 9th Lunar   Taylor S.R., Gorton M.P., Muir P., Nance W., Rudowski R.
+    Sci. Conf. 2287-2297.                                 and Ware N. (1974) Lunar highlands composition (abs).
+                                                       Lunar Sci. V, 789-791.
+   Morrison G.H., Nadkarni R.A., Jaworski J., Botto R.I. and
+   Roth J.R. (1973)  Elemental abundances of Apollo 16  Walker R.J. and Papike J.J. (1981a) The relationship of the
+    samples. Proc. 4th Lunar Sci. Conf. 1399-1405.             lunar regolith < 10 micron fraction and agglutinates. Part II:
+                                                       Chemical composition of agglutinate glass as a test of the
+   Muller O. (1973) Chemically bound nitrogen contents of  F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+   Apollo 16 and Apollo 15 lunar fines. Proc. 4th Lunar Sci.
+   Conf. 1625-1634.                                  Wasson J.T., Warren P.H., Kallemeyn G.W., McEwing C.E.,
+                                                                   Mittlefehldt D.W. and Boynton W.V. (1977) SCCRV, a major
+   Muller O. (1975)  Lithophile trace and major elements in  component of highlands rocks. Proc. 8th Lunar Sci. Conf.
+--- treatment block 7; lines 2-14 ---
+Stratigraphy and geochemistry of the Stone Mountain Core
+    (64001/2). Proc. 15th Lunar Planet. Sci. Conf. C143-160.   Nunes P.D., Tatsumoto M., Knight R.J., Unruh D.M. and
+                                               Doe B.R. (1973b) U-Th-Pb systematics of some Apollo 16
+   Labotka T.C., Kempa M.J., White C., Papike J.J. and Laul   lunar samples. Proc. 4th Lunar Sci. Conf. 1797-1822.
+    J.C. (1980) The lunar regolith: Comparative petrology of
+    the Apollo sites. Proc. 11th Lunar Planet. Sci. Conf. 1285-   Papike J.J., Simon S.B., White C. and Laul J.C. (1981) The
+   1305.                                                         relationship of the lunar regolith <10 micron fraction and
+                                                                   agglutinates. Part I: A model for agglutinate formation and
+   Laul J.C. and Papike J.J. (1980)  The lunar regolith:  some indirect supportive evidence. Proc. 12th Lunar Planet.
+   Comparative chemistry of the Apollo sites. Proc. 11th Lunar   Sci. Lett. 409-420.
+    Planet. Sci. Conf. 1307-1340.
+                                                          Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+   LSPET (1973) The Apollo 16 lunar samples: Petrographic   regolith: Chemistry, Mineralogy and Petrology.  Rev.
+--- treatment block 8; lines 38-56 ---
+Office, Houston                                            Proc. 17th Lunar Planet. Sci. Conf. in J. Geophys. Res. 91,
+                                                        E3-E20.
+   Morris R.V. (1976) Surface exposure indicies of lunar soils:
+  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    335.                                                       In Geology of the Apollo 16 area, central lunar highlands.
+                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   Morris R.V. (1978) The surface exposure (maturity) of lunar
+     soils: Some concepts and Is/FeO compilation. Proc. 9th Lunar   Taylor S.R., Gorton M.P., Muir P., Nance W., Rudowski R.
+    Sci. Conf. 2287-2297.                                 and Ware N. (1974) Lunar highlands composition (abs).
+                                                       Lunar Sci. V, 789-791.
+   Morrison G.H., Nadkarni R.A., Jaworski J., Botto R.I. and
+   Roth J.R. (1973)  Elemental abundances of Apollo 16  Walker R.J. and Papike J.J. (1981a) The relationship of the
+    samples. Proc. 4th Lunar Sci. Conf. 1399-1405.             lunar regolith < 10 micron fraction and agglutinates. Part II:
+                                                       Chemical composition of agglutinate glass as a test of the
+   Muller O. (1973) Chemically bound nitrogen contents of  F3 model. Proc. 12th Lunar Planet. Sci. Conf. 421-432.
+   Apollo 16 and Apollo 15 lunar fines. Proc. 4th Lunar Sci.
+   Conf. 1625-1634.                                  Wasson J.T., Warren P.H., Kallemeyn G.W., McEwing C.E.,
+                                                                   Mittlefehldt D.W. and Boynton W.V. (1977) SCCRV, a major
+   Muller O. (1975)  Lithophile trace and major elements in  component of highlands rocks. Proc. 8th Lunar Sci. Conf.

@@ -1,0 +1,351 @@
+DOCUMENT_ID: 65901__compendium__065c90c3b4
+ATLAS_SAMPLE_IDS: 65901,65920
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65901.pdf
+SOURCE_PDF_SHA256: bfe8d84cea1e833c28267f21c769467ea74cf6a491ca67b9fde9128b9b3dc550
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 6-23 ---
+Figure 1: Close-up photo of area where 65900 and 65910 were collected. AS16-107-17509.
+
+
+                                                    Mineralogical Mode
+                                                          From Butler et al. 1973
+                                                                          Olivine            0.7 %
+                                                                   Pyroxene          1.8
+                                                                            Plagioclase       10.9
+                                                                        Glass             19.7
+                                                            Rock Fragments   33.5
+                                                               Welded Fragments 44.4
+
+
+                        65901
+                        65920
+--- material block 2; lines 1-8 ---
+65901 and 65920
+                                   Soil and rake residue
+                                   662 and 12 grams
+--- material block 3; lines 12-24 ---
+Mineralogical Mode
+                                                          From Butler et al. 1973
+                                                                          Olivine            0.7 %
+                                                                   Pyroxene          1.8
+                                                                            Plagioclase       10.9
+                                                                        Glass             19.7
+                                                            Rock Fragments   33.5
+                                                               Welded Fragments 44.4
+
+
+                        65901
+                        65920
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 1-32 ---
+25                                                                                          200
+         20                      Apollo soils                   180160                                                                                                                 65901
+                                                                                                         140
+         15                                 C       120 FeO                                                                                            100                                           ppm
+         10                                                                                           80
+                                                65901                          60
+
+           5                                                                                           40
+
+                                                                                                          20                              Lunar Soils
+           0                                                                                                   0
+             0       5       10      15      20      25      30      35                   0          20          40          60          80         100         120
+                    Al2O3                                              maturity (Is/FeO)
+
+       Figure 3: Composition of 65901 compared with all        Figure 4: Carbon content and maturity index for
+       Appollo soils.                                         65901.
+
+  Introduction
+  Station 5 was at a small carter on the base of Stone
+  Mountain (figures 1 and 2). 65900 is a sub-surface
+  sample from 5 – 15 cm deep on the inside wall of the
+  small crater. 65920 is the residue from a rake sample
+   at the same location.
+
+  Petrography
+  65901 is a very mature soil (Is/FeO = 99).  It has an
+  average grain size of 85 microns (figure 6). Butler et
+   al. (1973) reported a high percentage of glass.
+
+  Chemistry
+                                                                Figure 5: Normalized rare-earth-element diagram  The composition of 65901 was reported by Laul and
+                                                                          for 65901.  Schmitt (1973) and is similar to the other soils from
+--- mineralogy block 2; lines 22-34 ---
+small crater. 65920 is the residue from a rake sample
+   at the same location.
+
+  Petrography
+  65901 is a very mature soil (Is/FeO = 99).  It has an
+  average grain size of 85 microns (figure 6). Butler et
+   al. (1973) reported a high percentage of glass.
+
+  Chemistry
+                                                                Figure 5: Normalized rare-earth-element diagram  The composition of 65901 was reported by Laul and
+                                                                          for 65901.  Schmitt (1973) and is similar to the other soils from
+  station 5 (and for most of the Cayley Plain, for that
+  matter).
+--- material block 3; lines 16-33 ---
+Appollo soils.                                         65901.
+
+  Introduction
+  Station 5 was at a small carter on the base of Stone
+  Mountain (figures 1 and 2). 65900 is a sub-surface
+  sample from 5 – 15 cm deep on the inside wall of the
+  small crater. 65920 is the residue from a rake sample
+   at the same location.
+
+  Petrography
+  65901 is a very mature soil (Is/FeO = 99).  It has an
+  average grain size of 85 microns (figure 6). Butler et
+   al. (1973) reported a high percentage of glass.
+
+  Chemistry
+                                                                Figure 5: Normalized rare-earth-element diagram  The composition of 65901 was reported by Laul and
+                                                                          for 65901.  Schmitt (1973) and is similar to the other soils from
+  station 5 (and for most of the Cayley Plain, for that
+--- age block 4; lines 36-54 ---
+Moore et al. (1973) determined 170 ppm carbon for
+  65901 (figure 4).  Kerridge et al. (1975) and Moore
+  and Lewis (1975) reported 116 ppm and 115 ppm
+  nitrogen for 65901.
+
+  Cosmogenic isotopes and exposure ages
+  Eldridge et al. (1973) determined the cosmic-ray-
+  induced activity of 26Al = 109 dpm/kg and 22Na = 32
+  dpm/kg.  Clark and Keith (1973) determined the
+  cosmic-ray-induced activity of 26Al = 124 dpm/kg, 22Na
+  = 42 dpm/kg, 54Mn = 30 dpm/kg, 56Co = 9 and 46Sc =
+  <7 dpm/kg.  Walton et al. (1973) determined a Ne
+  exposure age of 210 m.y.
+
+  Other Studies
+  Walton et al. (1973) determined the rare gas content
+  and isotopic ratios for 65901.
+--- treatment block 5; lines 7-32 ---
+5                                                                                           40
+
+                                                                                                          20                              Lunar Soils
+           0                                                                                                   0
+             0       5       10      15      20      25      30      35                   0          20          40          60          80         100         120
+                    Al2O3                                              maturity (Is/FeO)
+
+       Figure 3: Composition of 65901 compared with all        Figure 4: Carbon content and maturity index for
+       Appollo soils.                                         65901.
+
+  Introduction
+  Station 5 was at a small carter on the base of Stone
+  Mountain (figures 1 and 2). 65900 is a sub-surface
+  sample from 5 – 15 cm deep on the inside wall of the
+  small crater. 65920 is the residue from a rake sample
+   at the same location.
+
+  Petrography
+  65901 is a very mature soil (Is/FeO = 99).  It has an
+  average grain size of 85 microns (figure 6). Butler et
+   al. (1973) reported a high percentage of glass.
+
+  Chemistry
+                                                                Figure 5: Normalized rare-earth-element diagram  The composition of 65901 was reported by Laul and
+                                                                          for 65901.  Schmitt (1973) and is similar to the other soils from
+
+=== PDF PAGE 3; CATEGORIES: material ===
+--- material block 1; lines 1-13 ---
+average grain size = 85 microns
+
+
+
+
+
+          Figure 6: Grain size distribution of 65900 (Graf
+          1993, from data by Butler et al.)
+
+
+
+                                            same bag    C Meyer                                      65905 - 12 g - bx.                   65900
+     2010                                        65906 - 6.6 g                   662 grams
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 65901.
+                                                               ave. st. 5
+   reference  Clark73     Eldridge73  Laul73                 Korotev81
+   weight
+  SiO2 %                                                   45.3
+  TiO2                              0.61     (b)              0.65
+  Al2O3                            26.5     (b)              26.2
+  FeO                                5.8      (b)              5.85
+  MnO                              0.07     (b)             0.075
+  MgO                               6.2      (b)              6.25
+  CaO                          15       (b)            15
+  Na2O                             0.47     (b)              0.45
+  K2O      0.13      (a) 0.12     (a) 0.11     (b)             0.134
+  P2O5
+  S %
+  sum
+
+  Sc ppm                          11       (b)              10.1
+  V                             25       (b)            25
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 65901.
+                                                               ave. st. 5
+   reference  Clark73     Eldridge73  Laul73                 Korotev81
+   weight
+  SiO2 %                                                   45.3
+  TiO2                              0.61     (b)              0.65
+  Al2O3                            26.5     (b)              26.2
+  FeO                                5.8      (b)              5.85
+  MnO                              0.07     (b)             0.075
+--- references block 3; lines 64-73 ---
+Os ppb
+    Ir ppb                          15       (b)
+   Pt ppb
+  Au ppb                         9        (b)
+  Th ppm    2.7       (a) 2.21     (a) 2.5      (b)              2.2
+  U ppm    0.62      (a) 0.6      (a) 0.8      (b)              0.67
+   technique:  (a) radiation count. (b) INAA
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: age,chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 4-16 ---
+Catalog. pp. 370.
+                                                         Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Butler J.C., Greene G.M. and King E.A. (1973) Grain size  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  frequency distribution and modal analysis of Apollo 16 fines.   Office, Houston
+  Proc. 4th Lunar Sci. Conf. 267-278.
+                                                         Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Clark R.S. and Keith J.E. (1973) Determination of natural   soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  and cosmic ray induced radionuclides in Apollo 16 lunar  Lunar Sci. Conf. 2287-2297.
+  samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+                                                         Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1973)   regolith. Rev. Geophys. Space Phys. 20, 761-826.
+  Radionuclide concentrations in Apollo 16 lunar samples
+  determined by nondestructive gamma-ray spectrometry.   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+--- chemistry block 2; lines 25-41 ---
+Pub. 1265
+
+  Heiken G.H., McKay D.S. and Fruland R.M. (1973b) Apollo
+  16 soils – grain size analysis and petrography.  Proc. 4th
+  Lunar Sci. Conf. 251-266.
+
+  Laul J.C. and Schmitt R.A. (1973b) Chemical composition
+  of Apollo 15, 16, and 17 samples.  Proc. 4th  Lunar Sci.
+  Conf. 1349-1367.
+
+  Laul J.C. and Schmitt R.A. (1973a) Chemical composition
+  of Luna 20 rocks and soil and Apollo 16 soils. Geochim.
+  Cosmochim. Acta 37, 927-942.
+
+  LSPET (1973) The Apollo 16 lunar samples: Petrographic
+  and chemical description. Science 179, 23-34.
+--- mineralogy block 3; lines 1-27 ---
+References for 65901.                          Moore C.B. and Lewis C.F. (1975) Total nitrogen contents
+  Butler P. (1972) Lunar Sample Information Catalog Apollo   of Apollo 15, 16 and 17 lunar fines samples. Lunar Sci. VI,
+  16. Lunar Receiving Laboratory. MSC 03210 Curator’s   569-571.
+  Catalog. pp. 370.
+                                                         Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Butler J.C., Greene G.M. and King E.A. (1973) Grain size  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  frequency distribution and modal analysis of Apollo 16 fines.   Office, Houston
+  Proc. 4th Lunar Sci. Conf. 267-278.
+                                                         Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Clark R.S. and Keith J.E. (1973) Determination of natural   soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  and cosmic ray induced radionuclides in Apollo 16 lunar  Lunar Sci. Conf. 2287-2297.
+  samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+                                                         Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1973)   regolith. Rev. Geophys. Space Phys. 20, 761-826.
+  Radionuclide concentrations in Apollo 16 lunar samples
+  determined by nondestructive gamma-ray spectrometry.   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+  Proc. 4th Lunar Sci. Conf. 2115-2122.                      In Geology of the Apollo 16 area, central lunar highlands.
+                                                              (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+  von Engelhardt W., Hurrle H. and Luft E. (1976)
+  Microimpact-induced changes of textural parameters and   Walton J.R., Lakatos S. and Heymann D. (1973) Distribution
+  modal composition of the lunar regolith. Proc. 7th Lunar   of inert gases in fines from the Cayley-Descartes region.
+   Sci. Conf. 373-392.                                       Proc. 4th Lunar Sci. Conf. 2079-2096.
+
+  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+  Pub. 1265
+
+  Heiken G.H., McKay D.S. and Fruland R.M. (1973b) Apollo
+--- material block 4; lines 1-42 ---
+References for 65901.                          Moore C.B. and Lewis C.F. (1975) Total nitrogen contents
+  Butler P. (1972) Lunar Sample Information Catalog Apollo   of Apollo 15, 16 and 17 lunar fines samples. Lunar Sci. VI,
+  16. Lunar Receiving Laboratory. MSC 03210 Curator’s   569-571.
+  Catalog. pp. 370.
+                                                         Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Butler J.C., Greene G.M. and King E.A. (1973) Grain size  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  frequency distribution and modal analysis of Apollo 16 fines.   Office, Houston
+  Proc. 4th Lunar Sci. Conf. 267-278.
+                                                         Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Clark R.S. and Keith J.E. (1973) Determination of natural   soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  and cosmic ray induced radionuclides in Apollo 16 lunar  Lunar Sci. Conf. 2287-2297.
+  samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+                                                         Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1973)   regolith. Rev. Geophys. Space Phys. 20, 761-826.
+  Radionuclide concentrations in Apollo 16 lunar samples
+  determined by nondestructive gamma-ray spectrometry.   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+  Proc. 4th Lunar Sci. Conf. 2115-2122.                      In Geology of the Apollo 16 area, central lunar highlands.
+                                                              (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+  von Engelhardt W., Hurrle H. and Luft E. (1976)
+  Microimpact-induced changes of textural parameters and   Walton J.R., Lakatos S. and Heymann D. (1973) Distribution
+  modal composition of the lunar regolith. Proc. 7th Lunar   of inert gases in fines from the Cayley-Descartes region.
+   Sci. Conf. 373-392.                                       Proc. 4th Lunar Sci. Conf. 2079-2096.
+
+  Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+  Pub. 1265
+
+  Heiken G.H., McKay D.S. and Fruland R.M. (1973b) Apollo
+  16 soils – grain size analysis and petrography.  Proc. 4th
+  Lunar Sci. Conf. 251-266.
+
+  Laul J.C. and Schmitt R.A. (1973b) Chemical composition
+  of Apollo 15, 16, and 17 samples.  Proc. 4th  Lunar Sci.
+  Conf. 1349-1367.
+
+  Laul J.C. and Schmitt R.A. (1973a) Chemical composition
+  of Luna 20 rocks and soil and Apollo 16 soils. Geochim.
+  Cosmochim. Acta 37, 927-942.
+
+  LSPET (1973) The Apollo 16 lunar samples: Petrographic
+  and chemical description. Science 179, 23-34.
+
+  LSPET (1972) Preliminary examination of lunar samples.
+--- age block 5; lines 5-17 ---
+Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Butler J.C., Greene G.M. and King E.A. (1973) Grain size  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  frequency distribution and modal analysis of Apollo 16 fines.   Office, Houston
+  Proc. 4th Lunar Sci. Conf. 267-278.
+                                                         Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Clark R.S. and Keith J.E. (1973) Determination of natural   soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  and cosmic ray induced radionuclides in Apollo 16 lunar  Lunar Sci. Conf. 2287-2297.
+  samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+                                                         Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1973)   regolith. Rev. Geophys. Space Phys. 20, 761-826.
+  Radionuclide concentrations in Apollo 16 lunar samples
+  determined by nondestructive gamma-ray spectrometry.   Sutton R.L. (1981) Documentation of Apollo 16 samples.
+  Proc. 4th Lunar Sci. Conf. 2115-2122.                      In Geology of the Apollo 16 area, central lunar highlands.
+--- treatment block 6; lines 3-15 ---
+16. Lunar Receiving Laboratory. MSC 03210 Curator’s   569-571.
+  Catalog. pp. 370.
+                                                         Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Butler J.C., Greene G.M. and King E.A. (1973) Grain size  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  frequency distribution and modal analysis of Apollo 16 fines.   Office, Houston
+  Proc. 4th Lunar Sci. Conf. 267-278.
+                                                         Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Clark R.S. and Keith J.E. (1973) Determination of natural   soils: Some concepts and Is/FeO compilation.  Proc. 9th
+  and cosmic ray induced radionuclides in Apollo 16 lunar  Lunar Sci. Conf. 2287-2297.
+  samples. Proc. 4th Lunar Sci. Conf. 2105-2113.
+                                                         Papike J.J., Simon S.B. and Laul J.C. (1982) The lunar
+  Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1973)   regolith. Rev. Geophys. Space Phys. 20, 761-826.
+  Radionuclide concentrations in Apollo 16 lunar samples
+--- references block 7; lines 1-7 ---
+References for 65901.                          Moore C.B. and Lewis C.F. (1975) Total nitrogen contents
+  Butler P. (1972) Lunar Sample Information Catalog Apollo   of Apollo 15, 16 and 17 lunar fines samples. Lunar Sci. VI,
+  16. Lunar Receiving Laboratory. MSC 03210 Curator’s   569-571.
+  Catalog. pp. 370.
+                                                         Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Butler J.C., Greene G.M. and King E.A. (1973) Grain size  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  frequency distribution and modal analysis of Apollo 16 fines.   Office, Houston

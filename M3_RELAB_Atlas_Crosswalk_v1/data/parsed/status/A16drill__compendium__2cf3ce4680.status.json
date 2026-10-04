@@ -1,0 +1,21 @@
+{
+  "ai_ready": "ai_ready/A16drill__compendium__2cf3ce4680.txt",
+  "ai_ready_sha256": "ffb12c4aac5c5de5d0da01739364da8be4990e9b35a3c4dff2bc0ff04e6a50ed",
+  "atlas_sample_ids": "60001,60002,60003,60004,60005,60006,60007",
+  "document_id": "A16drill__compendium__2cf3ce4680",
+  "error": "",
+  "evidence_block_count": 50,
+  "json_gz": "json_gz/A16drill__compendium__2cf3ce4680.json.gz",
+  "json_gz_sha256": "7571c43bc4bf3b3f8f36b632a3739e90df0519a001d34afbe16ce42d990a5580",
+  "needs_ocr": false,
+  "page_count": 28,
+  "pages_with_extractable_text": 28,
+  "parser_version": "atlas-pdf-preprocessor-1.0",
+  "processed_utc": "2026-10-04T15:04:09.169147+00:00",
+  "relevant_pages": 11,
+  "schema": "lunar-sample-atlas-preprocess-status-1.0",
+  "source_pdf_filename": "A16drill__compendium__2cf3ce4680.vnhlv86k.pdf",
+  "source_pdf_sha256": "dd5fc8798a9df60359740c1334cd3bf2bd44d1b31c437338678e5f82cab9eae3",
+  "source_url": "https://www.lpi.usra.edu/lunar/samples/atlas/compendium/A16drill.pdf",
+  "status": "ok"
+}

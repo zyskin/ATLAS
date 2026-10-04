@@ -1,0 +1,162 @@
+DOCUMENT_ID: 63598__compendium__7195e64d1d
+ATLAS_SAMPLE_IDS: 63597,63598
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63598.pdf
+SOURCE_PDF_SHA256: 65acef5017c188b4cc0fe3d6bc8ccecbb16257c26dd5223a945d459363dd2719
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy,treatment ===
+--- mineralogy block 1; lines 3-22 ---
+Vesicular Impact Melt
+
+   Introduction
+   63597 and 63598 are extremely porous poikilitic impact
+   melt breccias from station 13 on the flank of North
+   Ray Crater – see section on 63501. They are similar in
+   mineralogy and chemistry to the other poikilitic impact
+    melts, except for the extreme vesicularity (figure 1 and
+    2).
+
+   Petrography
+   Mafic pyroxene oikocrysts enclose numerous
+   fragments of plagioclase and some lithic fragments
+    (yes, these are breccias). Pyroxene compositions were
+   determined by Warner et al. (1973). Hunter and Taylor
+   (1981) reported rust in 63598, but not in 63597.
+
+   Chemistry                                                  Figure 1: Photo of 63598. Samoe is 3 cm. S80-
+   Floran et al. (1973) and McKinley et al. (1983) reported        34089.
+   the composition of 63598 and Stoffler et al. (1985)
+--- material block 2; lines 1-9 ---
+63597 - 5.7 grams
+                         63598 - 12.7 grams
+                                  Vesicular Impact Melt
+
+   Introduction
+   63597 and 63598 are extremely porous poikilitic impact
+   melt breccias from station 13 on the flank of North
+   Ray Crater – see section on 63501. They are similar in
+   mineralogy and chemistry to the other poikilitic impact
+--- treatment block 3; lines 22-34 ---
+the composition of 63598 and Stoffler et al. (1985)
+   reported analyses of 63597. According to Ryder and
+   Norman (1980), Ni is high.
+
+   Other Studies
+   For some unknown reason, Pearce and Simonds (1974)
+   studied the magnetic properties.
+
+   Processing
+   There are 2 thin section of 63597 and 3 thin sections
+   of 63598.
+
+=== PDF PAGE 2; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 20-44 ---
+Figure 3: Photomicrograph of thin section
+           63598,4. Width of field is 1.5 mm. From Ryder
+          and Norman 1980.
+                                                                  Figure 5: REE pattern from unpublised data.
+
+   Table 1. Chemical composition of 63597       Table 2. Chemical composition of 63598
+
+     reference   Stoffler86                                            reference  Floran76   McKinley83
+     weight                                                         weight
+    SiO2 %    45.5    (a)                                     SiO2 %   47       (a) 46.8      (a)
+    TiO2       0.45    (a)                                      TiO2       0.93     (a) 0.92      (a)
+    Al2O3     27.4    (a)                                     Al2O3     22.54   (a) 22.4      (a)
+   FeO       3.6      (a)                                FeO       7.14     (a) 7.1       (a)
+   MnO       0.04    (a)                             MnO
+   MgO       5.2      (a)                             MgO       8.12     (a) 8.07      (a)
+   CaO       17.1    (a)                              CaO       13.29   (a) 13.2      (a)
+   Na2O      0.3      (a)                               Na2O      0.57     (a) 0.57      (a)
+   K2O       0.1      (a)                               K2O       0.31     (a) 0.31      (a)
+   P2O5      0.12    (a)                                P2O5
+   S %                                            S %
+    sum                                              sum
+     (a) broad beam e probe                                                 (a) fused bead e probe
+
+                    63597                  63598
+--- mineralogy block 2; lines 8-20 ---
+En                                          Fs
+
+                                                  Fo                                        Fa
+                                                                                                     compiled by C Meyer
+
+                                                                   Figure 4: Pyoxene and olivine composition of
+                                                            63598 (from Warner et al. 1973).
+--- references block 3; lines 22-34 ---
+63598,4. Width of field is 1.5 mm. From Ryder
+          and Norman 1980.
+                                                                  Figure 5: REE pattern from unpublised data.
+
+   Table 1. Chemical composition of 63597       Table 2. Chemical composition of 63598
+
+     reference   Stoffler86                                            reference  Floran76   McKinley83
+     weight                                                         weight
+    SiO2 %    45.5    (a)                                     SiO2 %   47       (a) 46.8      (a)
+    TiO2       0.45    (a)                                      TiO2       0.93     (a) 0.92      (a)
+    Al2O3     27.4    (a)                                     Al2O3     22.54   (a) 22.4      (a)
+   FeO       3.6      (a)                                FeO       7.14     (a) 7.1       (a)
+   MnO       0.04    (a)                             MnO
+
+=== PDF PAGE 3; CATEGORIES: material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 28-40 ---
+Res. 89, B513-B524.
+
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.
+
+   Phinney W. and Lofgren G. (1973) Description, classification
+   and inventory of Apollo 16 rake samples from stations 1, 4
+   and 13. Curators Office.
+--- material block 2; lines 3-15 ---
+16. Lunar Receiving Laboratory. MSC 03210 Curator’s   Proc. 4th Lunar Sci. Conf. 481-504.
+    Catalog. pp. 370.
+
+    Floran R.J., Phinney W.C., Blanchard D.P., Warner J.L.,
+   Simonds C.H., Brown R.W., Brannon J.C. and Korotev R.L.
+    (1976) A comparison between geochemistry and petrology
+    of Apollo 16 – terrestrial impact melt analogs (abs). Lunar
+    Sci. VII, 263-265. Lunar Science Institute, Houston.
+
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+    in Apollo 16 highland rocks: Manifestations of volatile-
+   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    259.
+--- material block 3; lines 32-44 ---
+Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.
+
+   Phinney W. and Lofgren G. (1973) Description, classification
+   and inventory of Apollo 16 rake samples from stations 1, 4
+   and 13. Curators Office.
+
+   Simonds C.H., Warner J.L. and Phinney W.C. (1973)
+    Petrology of Apollo 16 poikilitic rocks.  Proc. 4th Lunar
+    Sci. Conf. 613-632.
+--- treatment block 4; lines 27-39 ---
+history. Proc. 14th Lunar Planet. Sci. Conf. in J. Geophys.
+    Res. 89, B513-B524.
+
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.
+
+   Phinney W. and Lofgren G. (1973) Description, classification
+   and inventory of Apollo 16 rake samples from stations 1, 4
+   and 13. Curators Office.
+--- references block 5; lines 1-7 ---
+References for 63597 and 63598                    Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   Apollo 16 rocks: Classification and petrogenetic model.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   Proc. 4th Lunar Sci. Conf. 481-504.
+    Catalog. pp. 370.
+
+    Floran R.J., Phinney W.C., Blanchard D.P., Warner J.L.,
+   Simonds C.H., Brown R.W., Brannon J.C. and Korotev R.L.

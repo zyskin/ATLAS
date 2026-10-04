@@ -1,0 +1,162 @@
+DOCUMENT_ID: 67766__compendium__3dba1b66a9
+ATLAS_SAMPLE_IDS: 67766
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67766.pdf
+SOURCE_PDF_SHA256: a07158f407e69cfce668fdfed8efeb4cf0b54ef89c5d068bf785786f03a7d22b
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 9-37 ---
+Figure 1: Photo of 67766. Sample is 1.5 cm long. S72-51257
+
+
+   Introduction
+   67766 is a rake sample collected from the rim of North
+   Ray Crater – see section on 67701.  It is a coherent,
+    plagioclase-rich breccia with a granular matrix. It has
+   a measured age of 3.82 b.y.
+
+   Petrography
+   Steele and Smith (1973) noted that their section of
+   67766 had olivine (figure 3), but no pyroxene, while
+    Stoffler et al. (1985) found pyroxene but no olivine.
+   However, they do agree that 67766 is a “recrystallized
+   breccia” (figure 2).
+
+   Chemistry
+   None
+
+   Radiogenic age dating
+    Stoffler et al. (1985) dated this small rock at about 3.82
+   – 3.83 b.y. by Ar/Ar (figure 4). They noted an older
+   age for the included plagioclase grains.
+
+   Processing
+   There is only one thin section.                              Figure 2: Photomicrograph of thin section of
+                                                         67766 (from Ryder and Norman 1980).
+--- material block 2; lines 1-35 ---
+67766
+                                  Polymict Breccia
+                                               5.5 grams
+
+
+
+
+
+                              Figure 1: Photo of 67766. Sample is 1.5 cm long. S72-51257
+
+
+   Introduction
+   67766 is a rake sample collected from the rim of North
+   Ray Crater – see section on 67701.  It is a coherent,
+    plagioclase-rich breccia with a granular matrix. It has
+   a measured age of 3.82 b.y.
+
+   Petrography
+   Steele and Smith (1973) noted that their section of
+   67766 had olivine (figure 3), but no pyroxene, while
+    Stoffler et al. (1985) found pyroxene but no olivine.
+   However, they do agree that 67766 is a “recrystallized
+   breccia” (figure 2).
+
+   Chemistry
+   None
+
+   Radiogenic age dating
+    Stoffler et al. (1985) dated this small rock at about 3.82
+   – 3.83 b.y. by Ar/Ar (figure 4). They noted an older
+   age for the included plagioclase grains.
+
+   Processing
+   There is only one thin section.                              Figure 2: Photomicrograph of thin section of
+                                                         67766 (from Ryder and Norman 1980).
+--- age block 3; lines 10-37 ---
+Introduction
+   67766 is a rake sample collected from the rim of North
+   Ray Crater – see section on 67701.  It is a coherent,
+    plagioclase-rich breccia with a granular matrix. It has
+   a measured age of 3.82 b.y.
+
+   Petrography
+   Steele and Smith (1973) noted that their section of
+   67766 had olivine (figure 3), but no pyroxene, while
+    Stoffler et al. (1985) found pyroxene but no olivine.
+   However, they do agree that 67766 is a “recrystallized
+   breccia” (figure 2).
+
+   Chemistry
+   None
+
+   Radiogenic age dating
+    Stoffler et al. (1985) dated this small rock at about 3.82
+   – 3.83 b.y. by Ar/Ar (figure 4). They noted an older
+   age for the included plagioclase grains.
+
+   Processing
+   There is only one thin section.                              Figure 2: Photomicrograph of thin section of
+                                                         67766 (from Ryder and Norman 1980).
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 1-21 ---
+67766
+
+
+
+
+
+        Figure 3: Olivine composition of 67766 (no pyroxene
+         found!). Diagram from Steele and Smith 1973.
+
+
+          Mineralogical Mode 67766
+                         Stoffler et al. 1985
+                                                                Figure 4: Ar/Ar ages of Apollo 16 samples (from              Plagioclase        90.5 %
+                                                                               Stoffler et al. 1985). They have two ages ‘cause            Pyroxene        9
+           Opaques          0.6                                     plagioclase clasts are older!
+
+
+   References for 67766
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo                 67766
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                    5.5 grams
+    Catalog. pp. 370.
+--- mineralogy block 2; lines 32-44 ---
+rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+    67515 to 68537:  Sample classification, description and
+    inventory. Curator Catalog, JSC
+
+    Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    of some Apollo 16 rocks and fines: General petrologic model
+    of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+
+     Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Reimold W.U., Wacker K. and Wanke H. (1985)
+--- material block 3; lines 28-40 ---
+In Apollo 16 Preliminary Science Report. NASA SP-315,
+    7-1—7-58.
+
+    Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Smith J.V. and Steele I.M. (1972c) Apollo 16 rake samples
+    67515 to 68537:  Sample classification, description and
+    inventory. Curator Catalog, JSC
+
+    Steele I.M. and Smith J.V. (1973) Mineralogy and petrology
+    of some Apollo 16 rocks and fines: General petrologic model
+    of the moon. Proc. 4th Lunar Sci. Conf. 519-536.
+--- references block 4; lines 12-24 ---
+Stoffler et al. 1985
+                                                                Figure 4: Ar/Ar ages of Apollo 16 samples (from              Plagioclase        90.5 %
+                                                                               Stoffler et al. 1985). They have two ages ‘cause            Pyroxene        9
+           Opaques          0.6                                     plagioclase clasts are older!
+
+
+   References for 67766
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo                 67766
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                    5.5 grams
+    Catalog. pp. 370.
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic                ,0         ,2     ,3
+                                                                           4.9 g    PB    0.2 g    and chemical description. Science 179, 23-34.

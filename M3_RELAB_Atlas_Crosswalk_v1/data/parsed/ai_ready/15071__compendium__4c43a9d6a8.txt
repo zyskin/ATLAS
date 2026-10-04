@@ -1,0 +1,405 @@
+DOCUMENT_ID: 15071__compendium__4c43a9d6a8
+ATLAS_SAMPLE_IDS: 15071,15081
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15071.pdf
+SOURCE_PDF_SHA256: c1cc80f08eee944d237be1b1dcbf4dfc815eabdb2ed9a59c8cd2cd17041ebca6
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 6-29 ---
+25
+                                                                              20                      Apollo soils
+
+                                                                                   15071
+                                                                              15
+                                FeO
+
+                                                                              10
+
+
+                                                                                  5
+
+
+                                                                                  0
+                                                                                    0       5       10      15      20      25      30      35
+        Figure 1: Map of station 1, Apollo 15, on rim of
+                                                            Al2O3       Elbow Crater, showing locations of 15070 and
+        15080.                                                Figure 2: Composition of 15070 (and 15080)
+                                                        compared with that of other Apollo soil samples.
+
+
+                                                                                                         200
+--- chemistry block 2; lines 37-58 ---
+of the mare surface with the Apennine Front. These               60
+  soils were collected and returned with rock samples.                40
+
+                                                                                                          20                              Lunar Soils
+
+                                                                                                                    0  Petrography
+  The maturity index (Is/FeO) is 52 for 15070 and 68 for                   0          20          40          60          80         100         120                                                                                    maturity (Is/FeO)
+  15080 (Morris et al. 1978).  15071 has 39 %
+  agglutinates (Basu et al. 1981) and the average grain        Figure 3: Carbon content and maturity index for
+                                                        15070 and 15080 (Moore et al. 1973; Morris 1978).  size for 15071 is 87 microns (figure 5). 15081 has 58
+ % agglutinates (Carr and Meyer 1974).
+
+                                           Chemistry
+                                             Duncan et al. (1975), Fruchter et al. (1973), Wanke et
+                                                                         al. (1973, 1975), Korotev (1987) and others determined
+    Modal content of soils 15071 and 15081.                                                          the chemical composition of these soils (tables 1 and
+    From Basu et al. 1981 and Carr and Meyer 1974.                                                            2; figures 2 and 4).
+                          15071         15081
+      Agglutinates           39.2%          58.1
+                                            Moore et al. (1973) reported 110 ppm carbon for 15071      Basalt                    5.6              5.9
+    KREEP basalt            1.3                      and 115 ppm for 15080 (figure 3). DesMarais et al.
+     Breccia                  7.5              1.6         (1973) reported only 87 ppm C for 15080.
+--- mineralogy block 3; lines 46-67 ---
+15070 and 15080 (Moore et al. 1973; Morris 1978).  size for 15071 is 87 microns (figure 5). 15081 has 58
+ % agglutinates (Carr and Meyer 1974).
+
+                                           Chemistry
+                                             Duncan et al. (1975), Fruchter et al. (1973), Wanke et
+                                                                         al. (1973, 1975), Korotev (1987) and others determined
+    Modal content of soils 15071 and 15081.                                                          the chemical composition of these soils (tables 1 and
+    From Basu et al. 1981 and Carr and Meyer 1974.                                                            2; figures 2 and 4).
+                          15071         15081
+      Agglutinates           39.2%          58.1
+                                            Moore et al. (1973) reported 110 ppm carbon for 15071      Basalt                    5.6              5.9
+    KREEP basalt            1.3                      and 115 ppm for 15080 (figure 3). DesMarais et al.
+     Breccia                  7.5              1.6         (1973) reported only 87 ppm C for 15080.
+     Anorthosite              1.1
+      Plagioclase               9.2              7.5        Walker and Papaike (1981) calculated that 15071 and
+     Pyroxene                23.9           16        15081 had 8 % and 15 % KREEP, respectively.
+     Olivine                  1.9              1.2
+      Ilmenite                  0.8              0.6
+     Glass other               6.5              9.1
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 4; lines 1-8 ---
+15071 and 15081
+                                           Soil
+                                    157.7 and 185.3 grams
+
+
+
+                                                                              25
+                                                                              20                      Apollo soils
+--- material block 5; lines 19-44 ---
+0
+                                                                                    0       5       10      15      20      25      30      35
+        Figure 1: Map of station 1, Apollo 15, on rim of
+                                                            Al2O3       Elbow Crater, showing locations of 15070 and
+        15080.                                                Figure 2: Composition of 15070 (and 15080)
+                                                        compared with that of other Apollo soil samples.
+
+
+                                                                                                         200
+
+                                                                                                         180  Introduction
+  15070 and 15080 were collected from the ejecta blanket              160
+  of Elbow Crater (figure 1). 15070 was about 20 meters              140
+                                                                                                         120                15070       15080
+  from the rim and 15080 was about 60 meters. Elbow  C
+                                           ppm  100
+  crater is at the turn in Hadley Rille and at the boundary               80
+  of the mare surface with the Apennine Front. These               60
+  soils were collected and returned with rock samples.                40
+
+                                                                                                          20                              Lunar Soils
+
+                                                                                                                    0  Petrography
+  The maturity index (Is/FeO) is 52 for 15070 and 68 for                   0          20          40          60          80         100         120                                                                                    maturity (Is/FeO)
+  15080 (Morris et al. 1978).  15071 has 39 %
+--- material block 6; lines 50-64 ---
+Duncan et al. (1975), Fruchter et al. (1973), Wanke et
+                                                                         al. (1973, 1975), Korotev (1987) and others determined
+    Modal content of soils 15071 and 15081.                                                          the chemical composition of these soils (tables 1 and
+    From Basu et al. 1981 and Carr and Meyer 1974.                                                            2; figures 2 and 4).
+                          15071         15081
+      Agglutinates           39.2%          58.1
+                                            Moore et al. (1973) reported 110 ppm carbon for 15071      Basalt                    5.6              5.9
+    KREEP basalt            1.3                      and 115 ppm for 15080 (figure 3). DesMarais et al.
+     Breccia                  7.5              1.6         (1973) reported only 87 ppm C for 15080.
+     Anorthosite              1.1
+      Plagioclase               9.2              7.5        Walker and Papaike (1981) calculated that 15071 and
+     Pyroxene                23.9           16        15081 had 8 % and 15 % KREEP, respectively.
+     Olivine                  1.9              1.2
+      Ilmenite                  0.8              0.6
+     Glass other               6.5              9.1
+--- treatment block 7; lines 37-51 ---
+of the mare surface with the Apennine Front. These               60
+  soils were collected and returned with rock samples.                40
+
+                                                                                                          20                              Lunar Soils
+
+                                                                                                                    0  Petrography
+  The maturity index (Is/FeO) is 52 for 15070 and 68 for                   0          20          40          60          80         100         120                                                                                    maturity (Is/FeO)
+  15080 (Morris et al. 1978).  15071 has 39 %
+  agglutinates (Basu et al. 1981) and the average grain        Figure 3: Carbon content and maturity index for
+                                                        15070 and 15080 (Moore et al. 1973; Morris 1978).  size for 15071 is 87 microns (figure 5). 15081 has 58
+ % agglutinates (Carr and Meyer 1974).
+
+                                           Chemistry
+                                             Duncan et al. (1975), Fruchter et al. (1973), Wanke et
+                                                                         al. (1973, 1975), Korotev (1987) and others determined
+
+=== PDF PAGE 2; CATEGORIES: age,material,references ===
+--- material block 1; lines 15-31 ---
+for 15071 (data from Korotev 1987).
+
+
+
+
+
+                                                                  Average grain size = 56 microns            Average grain size = 87 microns
+
+
+
+
+
+       Figure5 : Grain size analysis of 15070 (Graf 1993).         Figure 6: Grain size analysis of 15086 (clod)
+                                                                disagravated by “freeze thaw” technique (Graf
+                                                                 1993).
+Lunar Sample Compendium
+C Meyer 2010
+--- age block 2; lines 1-7 ---
+Radiogenic age dating
+                                                  Tatsumoto et al. (1972), Silver (1972) and Compston
+                                                                 et al. (1972) determined the isotopic composition of
+                                             Pb and Sr.
+
+                                                Processing
+                                               15070 and 15080 were returned in a sealed ALSRC
+--- references block 3; lines 22-31 ---
+Figure5 : Grain size analysis of 15070 (Graf 1993).         Figure 6: Grain size analysis of 15086 (clod)
+                                                                disagravated by “freeze thaw” technique (Graf
+                                                                 1993).
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 15071.
+
+
+   reference  Duncan75  Fruchter73  Ganapathy73  Korotev87  Chou75      Tatsumoto72
+   weight                        Morgan72
+  SiO2 %   46.95   (a)
+  TiO2      1.6      (a) 1.63     (b)                1.6      (b)
+  Al2O3     12.7     (a) 12.3     (b)                12.7     (b) 13        (b)
+  FeO      16.29   (a) 16.6     (b)                16.8     (b) 15.5      (b)
+  MnO      0.22     (a)                                        0.22      (b)
+  MgO      10.75   (a)                            10.8     (b)
+  CaO      10.49   (a)                             9.8      (b) 9.8       (b)
+  Na2O     0.33     (a) 0.33     (b)                0.35     (b) 0.36      (b)
+  K2O      0.092   (a)                                                     0.12       (d)
+  P2O5     0.13     (a)                                       0.12      (b)
+  S %       0.07     (a)
+  sum
+
+  Sc ppm             35       (b)                35.6     (b) 32.5      (b)
+  V                                   (b)                         150       (b)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 15071.
+
+
+   reference  Duncan75  Fruchter73  Ganapathy73  Korotev87  Chou75      Tatsumoto72
+   weight                        Morgan72
+  SiO2 %   46.95   (a)
+  TiO2      1.6      (a) 1.63     (b)                1.6      (b)
+  Al2O3     12.7     (a) 12.3     (b)                12.7     (b) 13        (b)
+  FeO      16.29   (a) 16.6     (b)                16.8     (b) 15.5      (b)
+  MnO      0.22     (a)                                        0.22      (b)
+--- references block 3; lines 65-74 ---
+Os ppb                                            (c )
+    Ir ppb                              5.6         (c )  6.4      (b) 5.6       (c )
+   Pt ppb
+  Au ppb                           1.99       (c )  1.5      (b) 2.4       (c )
+  Th ppm               5.7       (b)                1.8      (b) 2.6       (b)  2.456      (d)
+  U ppm                                          0.52     (b)               0.68       (d)
+   technique:  (a) XRF, (b) INAA, (c ) RNAA, (d) IDMS
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 2. Chemical composition of 15081.
+
+
+   reference  Wanke75   Fruchter1973 Ganapathy73  Duncan75  Baedecker73 Tatsumoto72
+   weight    Wanke73              Morgan72
+   SiO2 %    46.8     (a)                             46.5     (b)
+   TiO2      1.58     (a) 1.62       (a)               1.58     (b)
+   Al2O3     13.7     (a) 13.04      (a)               13.6     (b)
+  FeO       15.3     (a) 15.8       (a)               15.28    (b)
+  MnO       0.2      (a)                              0.2       (b)
+  MgO      10.6     (a)                            10.86    (b)
+  CaO       10.7     (a)                            10.66    (b)
+  Na2O     0.38     (a) 0.36       (a)               0.34     (b)
+  K2O       0.14     (a)                             0.13     (b)               0.14        (d)
+  P2O5      0.15     (a)                             0.16     (b)
+  S %       0.05     (a)                            0.079    (b)
+  sum
+
+   Sc ppm    31.7     (a) 32         (a)
+  V
+--- references block 2; lines 1-10 ---
+Table 2. Chemical composition of 15081.
+
+
+   reference  Wanke75   Fruchter1973 Ganapathy73  Duncan75  Baedecker73 Tatsumoto72
+   weight    Wanke73              Morgan72
+   SiO2 %    46.8     (a)                             46.5     (b)
+   TiO2      1.58     (a) 1.62       (a)               1.58     (b)
+   Al2O3     13.7     (a) 13.04      (a)               13.6     (b)
+  FeO       15.3     (a) 15.8       (a)               15.28    (b)
+  MnO       0.2      (a)                              0.2       (b)
+--- references block 3; lines 65-74 ---
+Os ppb
+     Ir ppb     8        (a)               7.1        (c )              6.8        (c )
+   Pt ppb
+  Au ppb                               2.3        (c )              2.3        (c )
+   Th ppm    2.58     (a) 6.4        (a)                                        2.924      (d)
+  U ppm                                                                  0.7854     (d)
+   technique:  (a) INAA (mostly), (b) XRF, (c ) RNAA, (d) IDMS
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 45-57 ---
+Carr M.H. and Meyer C.E. (1974) The regolith at the Apollo   (1973) Apollo 15 clastic materials and their relationship to
+  15 site and its stratigraphic implications. Geochim.   local geologic features. Proc. 4th Lunar Sci. Conf. 1227-
+  Cosmochim. Acta 38, 1183-1197.                         1237.
+
+  Chou C.-L., Boynton W.V., Sundberg L.L. and Wasson J.T.  Ganapathy R., Morgan J.W., Krahenbuhl U. and Anders E.
+  (1975)  Volatiles on the surface of Apollo 15 green glass   (1973) Ancient meteoritic components in lunar highland
+  and trace-element distributions among Apollo 15 soils. Proc.   rocks: Clues from trace elements in Apollo 15 and 16
+   6th Lunar Sci. Conf. 1701-1727.                           samples. Proc. 4th Lunar Sci. Conf. 1239-1261.
+
+  Compston W., de Laeter J.R. and Vernon M.J. (1972)   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+  Strontium isotope geochemistry of Apollo 15 basalts.  In   Reference Pub. 1265, March 1993
+
+Lunar Sample Compendium
+--- mineralogy block 2; lines 44-56 ---
+Fruchter J.S., Stoeser J.W., Lindstrom M.M. and Goles G.G.
+  Carr M.H. and Meyer C.E. (1974) The regolith at the Apollo   (1973) Apollo 15 clastic materials and their relationship to
+  15 site and its stratigraphic implications. Geochim.   local geologic features. Proc. 4th Lunar Sci. Conf. 1227-
+  Cosmochim. Acta 38, 1183-1197.                         1237.
+
+  Chou C.-L., Boynton W.V., Sundberg L.L. and Wasson J.T.  Ganapathy R., Morgan J.W., Krahenbuhl U. and Anders E.
+  (1975)  Volatiles on the surface of Apollo 15 green glass   (1973) Ancient meteoritic components in lunar highland
+  and trace-element distributions among Apollo 15 soils. Proc.   rocks: Clues from trace elements in Apollo 15 and 16
+   6th Lunar Sci. Conf. 1701-1727.                           samples. Proc. 4th Lunar Sci. Conf. 1239-1261.
+
+  Compston W., de Laeter J.R. and Vernon M.J. (1972)   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+  Strontium isotope geochemistry of Apollo 15 basalts.  In   Reference Pub. 1265, March 1993
+--- material block 3; lines 32-58 ---
+References for 15070 and 15080                  The Apollo 15 Lunar Samples (Chamberlain and Watkins
+  Basu A. and McKay D.S. (1979)  Petrography and     , eds.), 347-351. Lunar Science Institute, Houston.
+  provenance of Apollo 15 soils. Proc. 10th Lunar Sci. Conf.
+  1413-1424.                                       Des Marais D.J., Hayes J.M. and Meinschein W.G. (1973a)
+                                                   The distribution in lunar soils of carbon released by pyrolysis.
+  Basu A., McKay D.S., Griffiths S.A. and Nace G-A. (1981)   Proc. 4th Lunar Sci. Conf. 1543-1558.
+  Regolith maturation on the earth and the moon with an
+  example from Apollo 15. Proc. 12th Lunar Planet. Sci. Conf.  Duncan A.R., Sher M.K., Abraham Y.C., Erlank A.J., Willis
+  433-449.                                                         J.P. and Ahrens L.H. (1975c)  Interpretation of the
+                                                            compositional variability of Apollo 15 soils. Proc. 6th Lunar
+  Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’   Sci. Conf. 2309-2320.
+   Office, MSC 03209
+                                                             Fruchter J.S., Stoeser J.W., Lindstrom M.M. and Goles G.G.
+  Carr M.H. and Meyer C.E. (1974) The regolith at the Apollo   (1973) Apollo 15 clastic materials and their relationship to
+  15 site and its stratigraphic implications. Geochim.   local geologic features. Proc. 4th Lunar Sci. Conf. 1227-
+  Cosmochim. Acta 38, 1183-1197.                         1237.
+
+  Chou C.-L., Boynton W.V., Sundberg L.L. and Wasson J.T.  Ganapathy R., Morgan J.W., Krahenbuhl U. and Anders E.
+  (1975)  Volatiles on the surface of Apollo 15 green glass   (1973) Ancient meteoritic components in lunar highland
+  and trace-element distributions among Apollo 15 soils. Proc.   rocks: Clues from trace elements in Apollo 15 and 16
+   6th Lunar Sci. Conf. 1701-1727.                           samples. Proc. 4th Lunar Sci. Conf. 1239-1261.
+
+  Compston W., de Laeter J.R. and Vernon M.J. (1972)   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+  Strontium isotope geochemistry of Apollo 15 basalts.  In   Reference Pub. 1265, March 1993
+
+Lunar Sample Compendium
+C Meyer 2010
+--- references block 4; lines 26-38 ---
+,20    ,22    ,23     ,31    ,32    ,33
+                                       2 g   1 g    1 g    1 g   1 g    1 g
+
+
+
+  References for 15070 and 15080                  The Apollo 15 Lunar Samples (Chamberlain and Watkins
+  Basu A. and McKay D.S. (1979)  Petrography and     , eds.), 347-351. Lunar Science Institute, Houston.
+  provenance of Apollo 15 soils. Proc. 10th Lunar Sci. Conf.
+  1413-1424.                                       Des Marais D.J., Hayes J.M. and Meinschein W.G. (1973a)
+                                                   The distribution in lunar soils of carbon released by pyrolysis.
+  Basu A., McKay D.S., Griffiths S.A. and Nace G-A. (1981)   Proc. 4th Lunar Sci. Conf. 1543-1558.
+  Regolith maturation on the earth and the moon with an
+--- references block 5; lines 49-58 ---
+Chou C.-L., Boynton W.V., Sundberg L.L. and Wasson J.T.  Ganapathy R., Morgan J.W., Krahenbuhl U. and Anders E.
+  (1975)  Volatiles on the surface of Apollo 15 green glass   (1973) Ancient meteoritic components in lunar highland
+  and trace-element distributions among Apollo 15 soils. Proc.   rocks: Clues from trace elements in Apollo 15 and 16
+   6th Lunar Sci. Conf. 1701-1727.                           samples. Proc. 4th Lunar Sci. Conf. 1239-1261.
+
+  Compston W., de Laeter J.R. and Vernon M.J. (1972)   Graf J.C. (1993) Lunar Soils Grain Size Catalog. NASA
+  Strontium isotope geochemistry of Apollo 15 basalts.  In   Reference Pub. 1265, March 1993
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 6; CATEGORIES: chemistry,material,treatment ===
+--- chemistry block 1; lines 25-42 ---
+Chemical modeling and mare/highland mixing. Proc. 12th
+  Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total  Lunar Planet. Sci. Conf. 509-517.
+   carbon contents of Apollo 15 and 16 lunar samples. Proc.
+    4th Lunar Sci. Conf. 1613-1923.                     Wänke H., Palme H., Baddenhausen H., Dreibus G., Jagoutz
+                                                                      E., Kruse H., Palme C., Spettel B., Teschke F. and Thacker
+  Morgan J.W., Krahenbuhl U., Ganapathy R. and Anders E.   R. (1975a) New data on the chemistry of lunar samples:
+   (1972a) Trace elements in Apollo 15 samples: Implications  Primary matter in the lunar highlands and the bulk
+   for meteorite influx and volatile depletion on the moon. Proc.   composition of the moon. Proc. 6th Lunar Sci. Conf. 1313-
+    3rd Lunar Sci. Conf. 1361-1376.                          1340.
+
+   Morris R.V. (1978) The surface exposure (maturity) of lunar
+   soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Sci. Conf. 2287-2297.
+
+   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Handbook of Lunar Soils. JSC 19069
+
+   Powell B.N. (1972)  Apollo 15 Coarse Fines (4-10mm):
+--- material block 2; lines 9-30 ---
+Sci. Conf. 1737-1751.
+                                                Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+   Keith J.E., Clark R.S. and Richardson K.A. (1972) Gamma-   M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+   ray measurements of Apollo 12, 14 and 15 lunar samples.   K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+   Proc. 3rd Lunar Sci. Conf. 1671-1680.                       G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+                                                           Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary
+   Korotev R.L. (1987) Mixing levels, the Apennine Front soil   Geologic Investigation of the Apollo 15 landing site.  In
+   component, and compositional trends in the Apollo 15 soils.   Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+   Proc. 17th Lunar Planet. Sci. Conf. E411-431.               5-1-112.
+
+  LSPET (1972a) The Apollo 15 lunar samples: A preliminary   Tatsumoto M., Hedge C.E., Knight R.J., Unruh D.M. and
+   description. Science 175, 363-375.                   Doe Bruce R. (1972b) U-Th-Pb, Rb-Sr and K measurements
+                                                    on some Apollo 15 and Apollo 16 samples. In The Apollo
+  LSPET (1972b) Preliminary examination of lunar samples.  15 Lunar Samples, 391-395.
+   Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+  1—6-28.                                            Walker R.J. and Papike J.J. (1981c) The Apollo 15 regolith:
+                                                      Chemical modeling and mare/highland mixing. Proc. 12th
+  Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total  Lunar Planet. Sci. Conf. 509-517.
+   carbon contents of Apollo 15 and 16 lunar samples. Proc.
+    4th Lunar Sci. Conf. 1613-1923.                     Wänke H., Palme H., Baddenhausen H., Dreibus G., Jagoutz
+                                                                      E., Kruse H., Palme C., Spettel B., Teschke F. and Thacker
+  Morgan J.W., Krahenbuhl U., Ganapathy R. and Anders E.   R. (1975a) New data on the chemistry of lunar samples:
+--- treatment block 3; lines 29-41 ---
+E., Kruse H., Palme C., Spettel B., Teschke F. and Thacker
+  Morgan J.W., Krahenbuhl U., Ganapathy R. and Anders E.   R. (1975a) New data on the chemistry of lunar samples:
+   (1972a) Trace elements in Apollo 15 samples: Implications  Primary matter in the lunar highlands and the bulk
+   for meteorite influx and volatile depletion on the moon. Proc.   composition of the moon. Proc. 6th Lunar Sci. Conf. 1313-
+    3rd Lunar Sci. Conf. 1361-1376.                          1340.
+
+   Morris R.V. (1978) The surface exposure (maturity) of lunar
+   soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Sci. Conf. 2287-2297.
+
+   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+  Handbook of Lunar Soils. JSC 19069

@@ -1,0 +1,229 @@
+DOCUMENT_ID: 63535__compendium__50baef9a11
+ATLAS_SAMPLE_IDS: 63535,63536,63537
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63535.pdf
+SOURCE_PDF_SHA256: b8ce87249fd015ec15868d7a86bccc10f3a6e833a41047cc10d62dff01fa6e37
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 17-29 ---
+Introduction
+                                             Petrography   Rake sample 63520 was collected beside Shadow Rock
+                                                   Although the texture of 63535, 63536 and 63537 could    (but not in the shadow) at Station 13 near North Ray
+                                                   be termed “basaltic”, there are numerous small relic   Crater – see section on 63501. It included a number of
+                                                                 clasts that are incorporated in the matrix (figure 3).   small fragments of Impact Melt Rock – some with fine-
+                                                Thus it is an impact melt rock. Plagioclase laths are   grained basaltic texture (see Warner et al. 1973).
+                                                up to 100 microns long. Pyroxene compositions are
+                                                      given in figure 4.
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- material block 2; lines 1-10 ---
+63535 – 6.8 grams
+                           63536 – 1 gram
+                          63537 – 4.8 grams
+                                    Basaltic Impact Melt
+
+
+
+
+
+                           Figure 1: Photo of 63535. Scale in mm. S72-55391
+--- material block 3; lines 13-29 ---
+Figure 2: Photos of both sides of 63537. Sample is about 2 cm long. S80-37420 and S80-37417
+
+   Introduction
+                                             Petrography   Rake sample 63520 was collected beside Shadow Rock
+                                                   Although the texture of 63535, 63536 and 63537 could    (but not in the shadow) at Station 13 near North Ray
+                                                   be termed “basaltic”, there are numerous small relic   Crater – see section on 63501. It included a number of
+                                                                 clasts that are incorporated in the matrix (figure 3).   small fragments of Impact Melt Rock – some with fine-
+                                                Thus it is an impact melt rock. Plagioclase laths are   grained basaltic texture (see Warner et al. 1973).
+                                                up to 100 microns long. Pyroxene compositions are
+                                                      given in figure 4.
+
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,mineralogy,references,treatment ===
+--- chemistry block 1; lines 17-41 ---
+Radiogenic age dating
+                                                                 Figure 4: Composition of olivine and pyroxene in
+   Norman et al. (2006) published an Ar/Ar plateau                                                           63535 (Warner et al. 1973).
+   diagram for 63537 (figure 6).
+
+   Other Studies                                    Table 1. Chemical composition of 63535
+    Pearce and Simonds (1974) determined the magnetic
+    properties.                                                          reference   Stoffler85
+                                                                         weight
+                                                                SiO2 %    44.4     (a)
+                                                                   TiO2       0.67     (a)
+                                                                Al2O3     22.4     (a)
+                                                       FeO       6.3       (a)
+                                                  MnO       0.06     (a)
+                                                  MgO       12.2     (a)
+                                                    CaO      13        (a)
+                                                      Na2O      0.45     (a)
+                                                     K2O       0.22     (a)
+                                                        P2O5      0.15     (a)
+                                                      S %
+                                                         sum
+                                                                                       (a) broad beam e. probe
+
+Lunar Sample Compendium
+--- mineralogy block 2; lines 13-25 ---
+Chemistry                                  En                                          Fs
+    Stoffler et al. (1985) reported an analysis. Also look
+     at the paper by Korotev (1994).                     Fo                                        Fa
+                                                                                                     compiled by C Meyer
+
+   Radiogenic age dating
+                                                                 Figure 4: Composition of olivine and pyroxene in
+   Norman et al. (2006) published an Ar/Ar plateau                                                           63535 (Warner et al. 1973).
+   diagram for 63537 (figure 6).
+
+   Other Studies                                    Table 1. Chemical composition of 63535
+    Pearce and Simonds (1974) determined the magnetic
+    properties.                                                          reference   Stoffler85
+--- age block 3; lines 12-24 ---
+Chemistry                                  En                                          Fs
+    Stoffler et al. (1985) reported an analysis. Also look
+     at the paper by Korotev (1994).                     Fo                                        Fa
+                                                                                                     compiled by C Meyer
+
+   Radiogenic age dating
+                                                                 Figure 4: Composition of olivine and pyroxene in
+   Norman et al. (2006) published an Ar/Ar plateau                                                           63535 (Warner et al. 1973).
+   diagram for 63537 (figure 6).
+
+   Other Studies                                    Table 1. Chemical composition of 63535
+    Pearce and Simonds (1974) determined the magnetic
+--- treatment block 4; lines 18-30 ---
+Radiogenic age dating
+                                                                 Figure 4: Composition of olivine and pyroxene in
+   Norman et al. (2006) published an Ar/Ar plateau                                                           63535 (Warner et al. 1973).
+   diagram for 63537 (figure 6).
+
+   Other Studies                                    Table 1. Chemical composition of 63535
+    Pearce and Simonds (1974) determined the magnetic
+    properties.                                                          reference   Stoffler85
+                                                                         weight
+                                                                SiO2 %    44.4     (a)
+                                                                   TiO2       0.67     (a)
+                                                                Al2O3     22.4     (a)
+                                                       FeO       6.3       (a)
+--- references block 5; lines 19-31 ---
+Figure 4: Composition of olivine and pyroxene in
+   Norman et al. (2006) published an Ar/Ar plateau                                                           63535 (Warner et al. 1973).
+   diagram for 63537 (figure 6).
+
+   Other Studies                                    Table 1. Chemical composition of 63535
+    Pearce and Simonds (1974) determined the magnetic
+    properties.                                                          reference   Stoffler85
+                                                                         weight
+                                                                SiO2 %    44.4     (a)
+                                                                   TiO2       0.67     (a)
+                                                                Al2O3     22.4     (a)
+                                                       FeO       6.3       (a)
+                                                  MnO       0.06     (a)
+
+=== PDF PAGE 7; CATEGORIES: age,material,mineralogy,references,treatment ===
+--- mineralogy block 1; lines 27-39 ---
+Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+   impact events within the lunar cataclysm from 40Ar-39Ar ages
+   and compositions of Apollo 16 impact melt rocks. Geochim.
+   Cosmochim. Acta 70, 6032-6049.
+
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.
+
+   Phinney W. and Lofgren G. (1973) Description, classification
+   and inventory of Apollo 16 rake samples from stations 1, 4
+   and 13. Curators Office.
+--- material block 2; lines 1-51 ---
+References for 63535 and 63537                      Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   In Geology of the Apollo 16 area, central lunar highlands.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Catalog. pp. 370.
+                                                     Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+   Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization   Apollo 16 rocks: Classification and petrogenetic model.
+    history of metal particles in Apollo 16 rake samples. Proc.   Proc. 4th Lunar Sci. Conf. 481-504.
+     4th Lunar Sci. Conf. 799-810.
+
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+    in Apollo 16 highland rocks: Manifestations of volatile-
+   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    259.
+
+   Korotev R.L. (1994) Compositional variation in Apollo 16
+   impact melt breccias and inferences for the geology and
+   bombardment history of the central highlands of the Moon.
+   Geochim. Cosmochim. Acta 58, 3931-3969.
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   and chemical description. Science 179, 23-34.
+
+   LSPET (1972c) Preliminary examination of lunar samples.
+    In Apollo 16 Preliminary Science Report. NASA SP-315,
+   7-1—7-58.
+
+   Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+   impact events within the lunar cataclysm from 40Ar-39Ar ages
+   and compositions of Apollo 16 impact melt rocks. Geochim.
+   Cosmochim. Acta 70, 6032-6049.
+
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.
+
+   Phinney W. and Lofgren G. (1973) Description, classification
+   and inventory of Apollo 16 rake samples from stations 1, 4
+   and 13. Curators Office.
+
+   Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+    rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+    Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+     J. and Rehfeldt A. (1981) Distribution and provenance of
+    lunar highland rock types at North Ray Crater, Apollo 16.
+    Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+
+    Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+   Reimold W.U., Wacker K. and Wanke H. (1985)
+   Composition and evolution of the lunar crust in the Descartes
+--- age block 3; lines 1-12 ---
+References for 63535 and 63537                      Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   In Geology of the Apollo 16 area, central lunar highlands.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Catalog. pp. 370.
+                                                     Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+   Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization   Apollo 16 rocks: Classification and petrogenetic model.
+    history of metal particles in Apollo 16 rake samples. Proc.   Proc. 4th Lunar Sci. Conf. 481-504.
+     4th Lunar Sci. Conf. 799-810.
+
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+    in Apollo 16 highland rocks: Manifestations of volatile-
+   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+--- treatment block 4; lines 26-38 ---
+Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+   impact events within the lunar cataclysm from 40Ar-39Ar ages
+   and compositions of Apollo 16 impact melt rocks. Geochim.
+   Cosmochim. Acta 70, 6032-6049.
+
+    Pearce G.W. and Simonds C.H. (1974) Magnetic properties
+    of Apollo 16 samples and implications for their mode of
+    formation. J. Geophys. Res. 79, 2953-2959.
+
+   Phinney W. and Lofgren G. (1973) Description, classification
+   and inventory of Apollo 16 rake samples from stations 1, 4
+   and 13. Curators Office.
+--- references block 5; lines 1-7 ---
+References for 63535 and 63537                      Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo   In Geology of the Apollo 16 area, central lunar highlands.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s   (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+    Catalog. pp. 370.
+                                                     Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+   Gooley R.C., Brett R. and Warner J.L. (1973) Crystallization   Apollo 16 rocks: Classification and petrogenetic model.
+    history of metal particles in Apollo 16 rake samples. Proc.   Proc. 4th Lunar Sci. Conf. 481-504.

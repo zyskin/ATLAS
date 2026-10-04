@@ -1,0 +1,136 @@
+DOCUMENT_ID: 63529__compendium__7f33600564
+ATLAS_SAMPLE_IDS: 63529,63557
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63529.pdf
+SOURCE_PDF_SHA256: f301da21adc82c55d743220fc565475990e82ee14157be656d41a4bf26d7ebf8
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 16-28 ---
+grained impact melt breccias.
+
+                                             Petrography
+                                                   Phinney and Lofgren (1972) and Norman and Ryder
+                                                      (1980) describe these fragments as medium dark grey,
+                                                           fine-grained impact melt. Warner et al. (1973) called
+                                                them “meta-norite”.  In thin section they look a lot
+                                                                like 63525. They have a similar clastic texture with a
+                                                     dense microcrystalline matrix (figure 2).
+
+                                            Chemistry
+         Figure 2: Thin section photomicrograph of 63529     Stoffler et al. (1985) reported the composition of
+         (from Ryder and Norman 1980).                 63529.  Floran  et  al. (1976) and Blanchard
+--- material block 2; lines 1-30 ---
+63529 – 23.5 grams
+                          63557 – 7.5 grams
+                               Impact Melt Breccia
+
+
+
+
+
+                                  Figure 1: Photo of 63529. Cube is 1 cm. S92-44046
+
+                                                 Introduction
+                                              The rake sample from station 13 was collected near
+                                             Shadow Rock; the material may be from North Ray
+                                                          Crater – see section on 63501. 63529 and 63557, along
+                                                      with 63525 etc. are dark, homogeneous, coherent fine-
+                                                        grained impact melt breccias.
+
+                                             Petrography
+                                                   Phinney and Lofgren (1972) and Norman and Ryder
+                                                      (1980) describe these fragments as medium dark grey,
+                                                           fine-grained impact melt. Warner et al. (1973) called
+                                                them “meta-norite”.  In thin section they look a lot
+                                                                like 63525. They have a similar clastic texture with a
+                                                     dense microcrystalline matrix (figure 2).
+
+                                            Chemistry
+         Figure 2: Thin section photomicrograph of 63529     Stoffler et al. (1985) reported the composition of
+         (from Ryder and Norman 1980).                 63529.  Floran  et  al. (1976) and Blanchard
+                                                        (unpublished) provide preliminary analyses of 63557
+                                                              (figure 3).
+--- age block 3; lines 26-38 ---
+Chemistry
+         Figure 2: Thin section photomicrograph of 63529     Stoffler et al. (1985) reported the composition of
+         (from Ryder and Norman 1980).                 63529.  Floran  et  al. (1976) and Blanchard
+                                                        (unpublished) provide preliminary analyses of 63557
+                                                              (figure 3).
+
+                                              Radiogenic age dating
+                                             none
+
+                                                 Processing
+                                                    There are two thin sections of 63529 and one for 63557.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 63557
+             63529      63557
+    reference  Stoffler85   Floran76
+    weight               Ryder80
+   SiO2 %    45.6     (b) 44.74    (a)
+    TiO2      0.24     (b) 0.38      (a)
+   Al2O3     31.4     (b) 29.84    (a)
+   FeO       2.57     (b) 3.5       (a)
+   MnO      0.02     (b)
+   MgO      2.38     (b) 3.2       (a)
+   CaO       17.2     (b) 17        (a)
+   Na2O     0.46     (b) 0.62      (a)
+   K2O       0.04     (b) 0.08      (a)
+   P2O5     0.05     (b)
+   S %
+   sum
+
+   Sc ppm                6.2       (a)                               Figure 3: Normalized rare-earth-element diagram   V
+    Cr                                                                      for 63537 (unpublished data by Blanchard ).
+--- material block 2; lines 38-64 ---
+Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   References for 63529 and 63557                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                                                                       Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+    Catalog. pp. 370.                                                                                  J. and Rehfeldt A. (1981) Distribution and provenance of
+                                                                lunar highland rock types at North Ray Crater, Apollo 16.
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite                                                             Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+    in Apollo 16 highland rocks: Manifestations of volatile-
+   element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-                                                                      Stöffler D., Bischoff A., Borchardt R., Burghele A., Deutsch
+    259.                                                               A., Jessberger E.K., Ostertag R., Palme H., Spettel B.,
+                                                Reimold W.U., Wacker K. and Wanke H. (1985)
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic                                                         Composition and evolution of the lunar crust in the Descartes
+   and chemical description. Science 179, 23-34.                                                                 highlands. Proc. 15th Lunar Planet. Sci. Conf. in J. Geophys.
+                                                            Res. 90, C449-C506.
+   LSPET (1972c) Preliminary examination of lunar samples.
+    In Apollo 16 Preliminary Science Report. NASA SP-315,                                                            Sutton R.L. (1981) Documentation of Apollo 16 samples.
+   7-1—7-58.                                                               In Geology of the Apollo 16 area, central lunar highlands.
+                                                               (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   Phinney W. and Lofgren G. (1973) Description, classification
+   and inventory of Apollo 16 rake samples from stations 1, 4                                                     Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+   and 13. Curators Office.                                                        Apollo 16 rocks: Classification and petrogenetic model.
+                                                             Proc. 4th Lunar Sci. Conf. 481-504.
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 63557
+             63529      63557
+    reference  Stoffler85   Floran76
+    weight               Ryder80
+   SiO2 %    45.6     (b) 44.74    (a)
+    TiO2      0.24     (b) 0.38      (a)
+   Al2O3     31.4     (b) 29.84    (a)
+   FeO       2.57     (b) 3.5       (a)
+   MnO      0.02     (b)
+--- references block 4; lines 34-46 ---
+,6
+                         ,7
+                TS
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   References for 63529 and 63557                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s                                                                       Stöffler D., Ostertag R., Reimold W.U., Borchardt R., Malley
+    Catalog. pp. 370.                                                                                  J. and Rehfeldt A. (1981) Distribution and provenance of
+                                                                lunar highland rock types at North Ray Crater, Apollo 16.
+   Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite                                                             Proc. 12th Lunar Planet. Sci. Conf. 185-207.
+    in Apollo 16 highland rocks: Manifestations of volatile-

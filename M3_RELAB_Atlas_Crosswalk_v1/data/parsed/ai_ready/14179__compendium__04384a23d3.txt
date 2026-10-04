@@ -1,0 +1,168 @@
+DOCUMENT_ID: 14179__compendium__04384a23d3
+ATLAS_SAMPLE_IDS: 14179
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14179.pdf
+SOURCE_PDF_SHA256: f117cc68e356bcfdfda3cc75143ebbf7ced7213e79191c95df1bc8c4c3c5442c
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+14179
+              Breccia with clasts
+                      3.03 grams
+
+
+                                                                 Figure 1: Photo of 14179. Sample is 1.8 cm
+                                                                        long. S71-26890.
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 5-27 ---
+Introduction
+  14179 was either collected as a grab sample from the comprehensive sample area (Sutton et al. 1971) or it is a
+   piece broken off of large breccias samples 14303 or 14305 returned in the same bag (Phinney et al. 1975). Two
+   clasts from 14179 have been studied.
+
+  Petrography
+  Although Warren and others reported 14179 as a troctolite or other, it appears that most of 14179 is a crystalline
+   matrix breccia (figures 1 and 2). Figure 3 shows an “anorthosite” clast while figure 4 shows a clast of “troctolitic
+   granulite”. Warren et al. explain that their troctolite clast (60% plagioclase, 40% olivine) may be related to a
+   similar clast from 14303. Plagioclase is An94 and olivine is Fo87.
+
+  Chemistry
+  Warren et al. (1981) give an analysis of the troctolite clast (table 1), along with a lot of discussion.
+
+  Radiogenic age dating
+  Stadermann et al. (1991) (figure 5) determined an Ar/Ar plateau age of 3.97 ± 0.01 b.y. for a granulite clast –
+   possibly the troctolite clast of Warren et al.
+
+  Cosmogenic isotopes and exposure ages
+  Stadermann et al. (1991) determined a cosmic-ray exposure age of 35 m.y. by the 38Ar method.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 6-27 ---
+14179 was either collected as a grab sample from the comprehensive sample area (Sutton et al. 1971) or it is a
+   piece broken off of large breccias samples 14303 or 14305 returned in the same bag (Phinney et al. 1975). Two
+   clasts from 14179 have been studied.
+
+  Petrography
+  Although Warren and others reported 14179 as a troctolite or other, it appears that most of 14179 is a crystalline
+   matrix breccia (figures 1 and 2). Figure 3 shows an “anorthosite” clast while figure 4 shows a clast of “troctolitic
+   granulite”. Warren et al. explain that their troctolite clast (60% plagioclase, 40% olivine) may be related to a
+   similar clast from 14303. Plagioclase is An94 and olivine is Fo87.
+
+  Chemistry
+  Warren et al. (1981) give an analysis of the troctolite clast (table 1), along with a lot of discussion.
+
+  Radiogenic age dating
+  Stadermann et al. (1991) (figure 5) determined an Ar/Ar plateau age of 3.97 ± 0.01 b.y. for a granulite clast –
+   possibly the troctolite clast of Warren et al.
+
+  Cosmogenic isotopes and exposure ages
+  Stadermann et al. (1991) determined a cosmic-ray exposure age of 35 m.y. by the 38Ar method.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 3; lines 13-27 ---
+granulite”. Warren et al. explain that their troctolite clast (60% plagioclase, 40% olivine) may be related to a
+   similar clast from 14303. Plagioclase is An94 and olivine is Fo87.
+
+  Chemistry
+  Warren et al. (1981) give an analysis of the troctolite clast (table 1), along with a lot of discussion.
+
+  Radiogenic age dating
+  Stadermann et al. (1991) (figure 5) determined an Ar/Ar plateau age of 3.97 ± 0.01 b.y. for a granulite clast –
+   possibly the troctolite clast of Warren et al.
+
+  Cosmogenic isotopes and exposure ages
+  Stadermann et al. (1991) determined a cosmic-ray exposure age of 35 m.y. by the 38Ar method.
+
+Lunar Sample Compendium
+C Meyer 2011
+--- references block 4; lines 18-27 ---
+Radiogenic age dating
+  Stadermann et al. (1991) (figure 5) determined an Ar/Ar plateau age of 3.97 ± 0.01 b.y. for a granulite clast –
+   possibly the troctolite clast of Warren et al.
+
+  Cosmogenic isotopes and exposure ages
+  Stadermann et al. (1991) determined a cosmic-ray exposure age of 35 m.y. by the 38Ar method.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 14179.
+
+
+   reference  Warren81
+   weight
+   SiO2 %    42.6     (a)
+   TiO2       0.28     (a)
+   Al2O3     22.9     (a)
+  FeO       4.44     (a)
+  MnO       0.05     (a)
+  MgO      16       (a)
+  CaO       12.5     (a)
+  Na2O      0.38     (a)
+  K2O       0.08     (a)
+  P2O5
+  S %
+   sum
+
+   Sc ppm    4.23     (a)
+  V
+--- material block 2; lines 23-35 ---
+Ni        66       (a)
+   Cu
+   Zn         0.94     (a)
+  Ga
+  Ge ppb    16       (a)
+   As
+   Se                                                            Figure 5: Ar plateau diagram for granulite clast in
+   Rb                                                      14179 (Stadermann et al. 1991).
+   Sr
+  Y
+   Zr        310      (a)
+   Nb
+  Mo
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 14179.
+
+
+   reference  Warren81
+   weight
+   SiO2 %    42.6     (a)
+   TiO2       0.28     (a)
+   Al2O3     22.9     (a)
+  FeO       4.44     (a)
+  MnO       0.05     (a)
+--- references block 4; lines 64-73 ---
+Os ppb
+     Ir ppb      0.14     (a)
+   Pt ppb
+   Au ppb    0.22     (a)
+   Th ppm    3.7      (a)
+  U ppm     0.78     (a)
+   technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: material,references ===
+--- material block 1; lines 1-8 ---
+References for 14179
+   Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+   Samples. Curators Office. JSC 14240
+
+   Hunter R.H. and Taylor L.A. (1983) The magma ocean from
+   the Fra Mauro shoreline: An overview of the Apollo 14
+   crust. Proc. 13th Lunar Planet. Sci. Conf. in J. Geophys.
+   Res. 88, A591-A602.
+--- references block 2; lines 1-7 ---
+References for 14179
+   Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+   Samples. Curators Office. JSC 14240
+
+   Hunter R.H. and Taylor L.A. (1983) The magma ocean from
+   the Fra Mauro shoreline: An overview of the Apollo 14
+   crust. Proc. 13th Lunar Planet. Sci. Conf. in J. Geophys.

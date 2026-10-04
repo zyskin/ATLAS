@@ -1,0 +1,285 @@
+DOCUMENT_ID: 71155__compendium__f4b49e67c1
+ATLAS_SAMPLE_IDS: 71155
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71155.pdf
+SOURCE_PDF_SHA256: 051f664833e148189ea9c76c03156d9970b0416f43d589457319e1c00b74d664
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-8 ---
+71155
+                                     Ilmenite Basalt
+                                           26.15 grams
+
+
+
+                     71055
+--- mineralogy block 2; lines 26-44 ---
+(figure 3). One side is freshly broken and the other
+                                            shows  the  usual  signs  of  space  exposure
+                                                          (micrometeorites).
+
+                                             Petrography
+                                                 71155 has a granular texture with medium grain size,
+                                                        contains olivine, and has less ilmenite than 71135.
+                                            Brown et al. (1975) reported the mineral mode for
+        Figure 2: Map of station 1, Apollo 17 - south of LM.   71155, but composition diagrams for olivine and
+                                                   pyroxene have not been reported.  Neal and Taylor
+                                                      (1993) briefly described the samples.
+
+                                                   ElGoresy and Ramdohr (1977) studied the Fe,Ti,Cr-
+                                                            spinel (figure 4). Brown et al. (1975) reported a Zr-
+                                                              rich mineral in 71155 (table 2).
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-8 ---
+71155
+                                     Ilmenite Basalt
+                                           26.15 grams
+
+
+
+                     71055
+--- material block 4; lines 17-37 ---
+Figure 1: Astronaut photo of boulders sampled at station 1, Apollo 17. AS-136-20741.
+
+
+                                                 Introduction
+                                              The astronauts chipped this fragment off of a 0.5 meter
+                                                       boulder at station 1 (figures 1 and 2).  It has a texture
+                                                            quite different from 71135 and it is also more vesicular
+                                                             (figure 3). One side is freshly broken and the other
+                                            shows  the  usual  signs  of  space  exposure
+                                                          (micrometeorites).
+
+                                             Petrography
+                                                 71155 has a granular texture with medium grain size,
+                                                        contains olivine, and has less ilmenite than 71135.
+                                            Brown et al. (1975) reported the mineral mode for
+        Figure 2: Map of station 1, Apollo 17 - south of LM.   71155, but composition diagrams for olivine and
+                                                   pyroxene have not been reported.  Neal and Taylor
+                                                      (1993) briefly described the samples.
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,mineralogy ===
+--- chemistry block 1; lines 3-15 ---
+Mineralogical Mode
+                                                                                   Olivine            6.1
+   Chemistry                                                                           Pyroxene         49.3
+   Keith et al. (1974), Fruchter et. al. (1975) and Warner                  Plagioclase        23.3
+    et al. (1979) determined the chemical composition               Opaques          18.4
+    (figures 6 and 7).                                                                   Silica             2.9
+                                                                                Meostasis
+
+   Radiogenic age dating
+   None
+--- mineralogy block 2; lines 1-14 ---
+Figure 3: Photo of freshly broken side of 71155. S73-15860. Cube is 1 cm.
+
+
+
+                                                           Mineralogical Mode
+                                                                                   Olivine            6.1
+   Chemistry                                                                           Pyroxene         49.3
+   Keith et al. (1974), Fruchter et. al. (1975) and Warner                  Plagioclase        23.3
+    et al. (1979) determined the chemical composition               Opaques          18.4
+    (figures 6 and 7).                                                                   Silica             2.9
+                                                                                Meostasis
+
+   Radiogenic age dating
+   None
+--- mineralogy block 3; lines 21-33 ---
+cosmic ray induced activity of 22Na = 112 dpm/kg, 26Al
+   = 105 dpm/kg, 46Sc = 80 dpm/kg, 54Mn = 227 dpm/kg
+   and 56Co = 310 dpm/kg.
+
+   Processing
+   There are 4 thin sections.                                  Figure 4: The only mineral study for 71155 (chrome
+                                                                            spinel).
+
+
+
+
+
+Lunar Sample Compendium
+--- age block 4; lines 7-27 ---
+Chemistry                                                                           Pyroxene         49.3
+   Keith et al. (1974), Fruchter et. al. (1975) and Warner                  Plagioclase        23.3
+    et al. (1979) determined the chemical composition               Opaques          18.4
+    (figures 6 and 7).                                                                   Silica             2.9
+                                                                                Meostasis
+
+   Radiogenic age dating
+   None
+
+   Cosmogenic isotopes and exposure ages
+   Keith et al. (1974) determined the cosmic-ray-induced
+    activity of 22Na = 119 dpm/kg, 26Al = 105 dpm/kg, 46Sc
+   = 81 dpm/kg, 54Mn = 160 dpm/kg and 56Co = 310 dpm/
+    kg. while Rancitelli et al. (1974) also determined the
+   cosmic ray induced activity of 22Na = 112 dpm/kg, 26Al
+   = 105 dpm/kg, 46Sc = 80 dpm/kg, 54Mn = 227 dpm/kg
+   and 56Co = 310 dpm/kg.
+
+   Processing
+   There are 4 thin sections.                                  Figure 4: The only mineral study for 71155 (chrome
+                                                                            spinel).
+
+=== PDF PAGE 5; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-24 ---
+Table 1. Chemical composition of 71155.                      Lunar Basalts
+                                                                                                14
+    reference  Warner79   Keith74     Fruchter75   Rancitelli74                                       A17
+    weight                                                                                   12
+   SiO2 %                                                                                          A11
+    TiO2      10.1    (a)                                                               10                        71155
+   Al2O3     9.2      (a)
+                                                                                                     8
+   FeO       19.1    (a)                            TiO2
+   MnO      0.25    (a)                                                                   6
+   MgO      8        (a)
+   CaO       10.8    (a)                                                                   4
+   Na2O     0.353   (a)                                                                                         A12
+   K2O      0.048   (a) 0.048   (b) 0.054    (b)  0.054     (b)               2                        A15
+   P2O5
+   S %                                                                                          0
+   sum                                                                                            0                5                10                15               20
+                                              MgO
+   Sc ppm   81      (a)
+   V         118     (a)                                               Figure 6: Composition of 71155 compared with
+    Cr        3339    (a)                                                  other Apollo basalts.
+   Co       23      (a)
+    Ni
+   Cu
+--- chemistry block 2; lines 60-75 ---
+TS
+   Lu        0.97    (a)
+    Hf         6.3      (a)                                          Table 2: Zr-rich mineral 71155
+    Ta         1.3      (a)
+                                                                    (Brown et al. 1975)
+  W ppb
+                                                                    TiO2      5.86   Re ppb
+   Os ppb                                                      FeO      2.78
+      Ir ppb                                            MgO      0.12
+    Pt ppb                                                    CaO      0.79
+   Au ppb                                                               Zr02      85.1
+   Th ppm               0.31     (b) 0.29     (b)  0.29      (b)           Y2O3     1.74
+   U ppm                0.118    (b) 0.13     (b)  0.13      (b)                                                         NbO5     0.2
+    technique:  (a) INAA, (b ) radiation count.
+                                                               HfO2     0.81
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 71155.                      Lunar Basalts
+                                                                                                14
+    reference  Warner79   Keith74     Fruchter75   Rancitelli74                                       A17
+    weight                                                                                   12
+   SiO2 %                                                                                          A11
+    TiO2      10.1    (a)                                                               10                        71155
+   Al2O3     9.2      (a)
+                                                                                                     8
+   FeO       19.1    (a)                            TiO2
+--- references block 4; lines 67-77 ---
+Os ppb                                                      FeO      2.78
+      Ir ppb                                            MgO      0.12
+    Pt ppb                                                    CaO      0.79
+   Au ppb                                                               Zr02      85.1
+   Th ppm               0.31     (b) 0.29     (b)  0.29      (b)           Y2O3     1.74
+   U ppm                0.118    (b) 0.13     (b)  0.13      (b)                                                         NbO5     0.2
+    technique:  (a) INAA, (b ) radiation count.
+                                                               HfO2     0.81
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 6; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 18-30 ---
+Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1975a)  Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+    Primordial and cosmogenic radionuclides in Descartes and   mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+   Taurus-Littrow materials: extension of studies by   475-540.
+    nondestructive x-my spectrometry. Proc. 6th Lunar Sci. Conf.
+    1407-1418.                                                    Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+                                                     (1974a)   Solar  flare and  lunar  surface  process
+    El Goresy A. and Ramdohr P. (1977a) Apollo 17 TiO2-rich   characterization at the Apollo 17 site. Proc. 5th Lunar Sci.
+     basalts: Reverse spinel zoning as evidence for the subsolidus   Conf. 2185-2203.
+    equilibration of the spinel-ilmenite assemblage. Proc. 8th
+   Lunar Sci. Conf. 1611-1624.                           Warner R.D., Taylor G.J., Conrad G.H., Northrop H.R.,
+                                                           Barker S., Keil K., Ma M.-S. and Schmitt R. (1979a) Apollo
+    Fruchter J.S., Rancitelli L.A. and Perkins R.W. (1975)  17 high-Ti mare basalts: New bulk compositional data,
+    Primordial radionuclide variations in the Apollo 15 and 17  magma types, and petrogenesis. Proc. 10th Lunar Planet.
+--- mineralogy block 2; lines 1-9 ---
+References for 71155                         LSPET (1973) Preliminary Examination of lunar samples.
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and   Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   7-46.
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.
+                                                        Muehlberger et al. (1973) Documentation and environment
+    Butler P. (1973) Lunar Sample Information Catalog   of the Apollo 17 samples: A preliminary report. Astrogeology
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211  71 322 pp superceeded by Astrogeolgy 73 (1975) and by
+    Curator’s Catalog. pp. 447.                             Wolfe et al. (1981)
+--- mineralogy block 3; lines 13-32 ---
+Eldridge J.S., O’Kelly G.D. and Northcutt K.J. (1974a)   Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+    Primordial radioelement concentrations in rocks and soils   rocks. Vol. 2 Basalts
+   from Taurus-Littrow. Proc. 5th Lunar Sci. Conf. 1025-1033.
+                                                         Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+    Eldridge J.S., O’Kelley G.D. and Northcutt K.J. (1975a)  Rhodes J.M. (1976)  Mare basalts: Crystal chemistry,
+    Primordial and cosmogenic radionuclides in Descartes and   mineralogy and petrology. Rev. Geophys. Space Phys. 14,
+   Taurus-Littrow materials: extension of studies by   475-540.
+    nondestructive x-my spectrometry. Proc. 6th Lunar Sci. Conf.
+    1407-1418.                                                    Rancitelli L.A., Perkins R.W., Felix W.D. and Wogman N.A.
+                                                     (1974a)   Solar  flare and  lunar  surface  process
+    El Goresy A. and Ramdohr P. (1977a) Apollo 17 TiO2-rich   characterization at the Apollo 17 site. Proc. 5th Lunar Sci.
+     basalts: Reverse spinel zoning as evidence for the subsolidus   Conf. 2185-2203.
+    equilibration of the spinel-ilmenite assemblage. Proc. 8th
+   Lunar Sci. Conf. 1611-1624.                           Warner R.D., Taylor G.J., Conrad G.H., Northrop H.R.,
+                                                           Barker S., Keil K., Ma M.-S. and Schmitt R. (1979a) Apollo
+    Fruchter J.S., Rancitelli L.A. and Perkins R.W. (1975)  17 high-Ti mare basalts: New bulk compositional data,
+    Primordial radionuclide variations in the Apollo 15 and 17  magma types, and petrogenesis. Proc. 10th Lunar Planet.
+   deep core samples and in Apollo 17 igneous rocks and   Sci. Conf. 225-247.
+    breccias. Proc. 6th Lunar Sci. Conf. 1399-1406.
+--- material block 4; lines 25-37 ---
+basalts: Reverse spinel zoning as evidence for the subsolidus   Conf. 2185-2203.
+    equilibration of the spinel-ilmenite assemblage. Proc. 8th
+   Lunar Sci. Conf. 1611-1624.                           Warner R.D., Taylor G.J., Conrad G.H., Northrop H.R.,
+                                                           Barker S., Keil K., Ma M.-S. and Schmitt R. (1979a) Apollo
+    Fruchter J.S., Rancitelli L.A. and Perkins R.W. (1975)  17 high-Ti mare basalts: New bulk compositional data,
+    Primordial radionuclide variations in the Apollo 15 and 17  magma types, and petrogenesis. Proc. 10th Lunar Planet.
+   deep core samples and in Apollo 17 igneous rocks and   Sci. Conf. 225-247.
+    breccias. Proc. 6th Lunar Sci. Conf. 1399-1406.
+                                                        Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+   Keith  J.E., Clark R.S. and Bennett L.J. (1974a)   Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+   Determination of natural and cosmic ray induced   geologic investigation of the Taurus-Littrow Valley: Apollo
+    radionuclides in Apollo 17 lunar samples. Proc. 5th Lunar  17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+     Sci. Conf. 2121-2138.                                    280.
+--- age block 5; lines 5-17 ---
+Muehlberger et al. (1973) Documentation and environment
+    Butler P. (1973) Lunar Sample Information Catalog   of the Apollo 17 samples: A preliminary report. Astrogeology
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211  71 322 pp superceeded by Astrogeolgy 73 (1975) and by
+    Curator’s Catalog. pp. 447.                             Wolfe et al. (1981)
+
+   Drozd R.J., Hohenberg C.M., Morgan C.J., Podosek F.A.   Muehlberger W.R. and many others (1973)  Preliminary
+   and Wroge M.L. (1977)  Cosmic-ray exposure history at   Geological Investigation of the Apollo 17 Landing Site. In
+    Taurus-Littrow. Proc. 8th Lunar Sci. Conf. 3027-3043.     Apollo 17 Preliminary Science Report. NASA SP-330.
+
+    Eldridge J.S., O’Kelly G.D. and Northcutt K.J. (1974a)   Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+    Primordial radioelement concentrations in rocks and soils   rocks. Vol. 2 Basalts
+   from Taurus-Littrow. Proc. 5th Lunar Sci. Conf. 1025-1033.
+                                                         Papike J.J., Hodges F.N., Bence A.E., Cameron M. and
+--- age block 6; lines 29-41 ---
+Fruchter J.S., Rancitelli L.A. and Perkins R.W. (1975)  17 high-Ti mare basalts: New bulk compositional data,
+    Primordial radionuclide variations in the Apollo 15 and 17  magma types, and petrogenesis. Proc. 10th Lunar Planet.
+   deep core samples and in Apollo 17 igneous rocks and   Sci. Conf. 225-247.
+    breccias. Proc. 6th Lunar Sci. Conf. 1399-1406.
+                                                        Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+   Keith  J.E., Clark R.S. and Bennett L.J. (1974a)   Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+   Determination of natural and cosmic ray induced   geologic investigation of the Taurus-Littrow Valley: Apollo
+    radionuclides in Apollo 17 lunar samples. Proc. 5th Lunar  17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+     Sci. Conf. 2121-2138.                                    280.
+
+   LSPET (1973)  Apollo 17 lunar samples: Chemical and
+    petrographic description. Science 182, 659-672.
+--- references block 7; lines 1-7 ---
+References for 71155                         LSPET (1973) Preliminary Examination of lunar samples.
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and   Apollo 17 Preliminary Science Rpt. NASA SP-330. 7-1 –
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo   7-46.
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.
+                                                        Muehlberger et al. (1973) Documentation and environment
+    Butler P. (1973) Lunar Sample Information Catalog   of the Apollo 17 samples: A preliminary report. Astrogeology
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211  71 322 pp superceeded by Astrogeolgy 73 (1975) and by

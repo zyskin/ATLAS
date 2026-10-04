@@ -1,0 +1,185 @@
+DOCUMENT_ID: 70315__compendium__e90ce30783
+ATLAS_SAMPLE_IDS: 70315
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/70315.pdf
+SOURCE_PDF_SHA256: 1ea8028eeab7bbe1f31e13ce36eb01e25ea25daff612720faf8c5bfdc727ddb6
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 1-28 ---
+70315
+                                     Ilmenite Basalt
+                                           148.6 grams
+
+
+
+
+
+                      Figure 1: Photo of 70315. NASA S73-15453. Cube is 1 cm.
+
+   Introduction
+                                                         Mineralogical Mode of 70315   70315 is a coarse-grained, vesicular basalt that has been
+                                                                        Brown et   rounded on all sides by micrometeorite bombardment                                                                                                                         al. 1975
+    (figure 1).  It has not been well studied and no age is         Olivine            0.7
+    available.                                                     Pyroxene         50.6
+                                                                            Plagioclase       22
+   Petrography                                             Opaques          25.5
+                                                                                   Silica             0.6
+   Neal and Taylor (1993) give the only description of        Meostasis         0.6
+   70315, although a mineral mode is found in Brown et
+    al. (1975). Large pyroxene grains poikilitically enclose
+   plagioclase and ilmenite (figure 2).                 Apollo 17 basalts (figure 5).  Thus  it remains
+                                                            “unclassified”.
+   Chemistry
+   Warner et al. (1979) classified 70315 as type U (for  Radiogenic age dating
+    unclassified!). Neal (2001) found that 70315 had low  Note: Apollo 17 mare basalts are generally considered
+  Rb content, but had a REE pattern similar to other  3.72 ± 0.04 b.y. old (see Paces et al. 1991).
+--- material block 2; lines 1-18 ---
+70315
+                                     Ilmenite Basalt
+                                           148.6 grams
+
+
+
+
+
+                      Figure 1: Photo of 70315. NASA S73-15453. Cube is 1 cm.
+
+   Introduction
+                                                         Mineralogical Mode of 70315   70315 is a coarse-grained, vesicular basalt that has been
+                                                                        Brown et   rounded on all sides by micrometeorite bombardment                                                                                                                         al. 1975
+    (figure 1).  It has not been well studied and no age is         Olivine            0.7
+    available.                                                     Pyroxene         50.6
+                                                                            Plagioclase       22
+   Petrography                                             Opaques          25.5
+                                                                                   Silica             0.6
+--- age block 3; lines 8-31 ---
+Figure 1: Photo of 70315. NASA S73-15453. Cube is 1 cm.
+
+   Introduction
+                                                         Mineralogical Mode of 70315   70315 is a coarse-grained, vesicular basalt that has been
+                                                                        Brown et   rounded on all sides by micrometeorite bombardment                                                                                                                         al. 1975
+    (figure 1).  It has not been well studied and no age is         Olivine            0.7
+    available.                                                     Pyroxene         50.6
+                                                                            Plagioclase       22
+   Petrography                                             Opaques          25.5
+                                                                                   Silica             0.6
+   Neal and Taylor (1993) give the only description of        Meostasis         0.6
+   70315, although a mineral mode is found in Brown et
+    al. (1975). Large pyroxene grains poikilitically enclose
+   plagioclase and ilmenite (figure 2).                 Apollo 17 basalts (figure 5).  Thus  it remains
+                                                            “unclassified”.
+   Chemistry
+   Warner et al. (1979) classified 70315 as type U (for  Radiogenic age dating
+    unclassified!). Neal (2001) found that 70315 had low  Note: Apollo 17 mare basalts are generally considered
+  Rb content, but had a REE pattern similar to other  3.72 ± 0.04 b.y. old (see Paces et al. 1991).
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-26 ---
+Table 1. Chemical composition of 70315.                     Lunar Basalts
+                                                                                                 14
+                                                                                                         70315
+     reference  Eldridge75  Warner79   Neal2001   Garg76                     12                         A17
+     weight
+                                                                                                       A11
+    SiO2 %                                                                                 10
+    TiO2                  13.1     (b)
+    Al2O3                 9.3      (b)                                                  8
+   FeO                  17.9     (b)                    TiO2
+   MnO                  0.24     (b)                                                  6
+   MgO                10       (b)
+   CaO                  10.2     (b)                                                  4
+                                                                                                                     A12
+   Na2O                 0.387    (b)
+                                                                                                      2                        A15   K2O      0.048   (a) 0.039    (b)
+   P2O5
+   S %                                                                                          0 0                5                10                15               20
+    sum
+                                              MgO
+    Sc ppm             81       (b) 79      (c )
+   V                   148      (b) 146     (c )                      Figure 3: Composition of 70315 compared with
+    Cr                  3742    (b) 2790    (c )
+   Co                 20       (b) 24      (c )                        other Apollo basalts.
+     Ni                                2.22    (c )
+   Cu                                49.5    (c )                              300
+--- chemistry block 2; lines 38-50 ---
+group C
+   Ru
+   Rh                                                                                         0
+    Pd ppb                                                                                      5             7             9            11            13            15
+    Ag ppb                                                                        Sm ppm
+   Cd ppb
+                                                                 Figure 4: Trace element diagram used to classify     In ppb
+    Sn ppb                                                        Apollo 17 basalts.
+    Sb ppb
+    Te ppb
+    Cs ppm
+    Ba                            54      (c )
+    La                     3.2      (b) 3.78    (c )
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 70315.                     Lunar Basalts
+                                                                                                 14
+                                                                                                         70315
+     reference  Eldridge75  Warner79   Neal2001   Garg76                     12                         A17
+     weight
+                                                                                                       A11
+    SiO2 %                                                                                 10
+    TiO2                  13.1     (b)
+    Al2O3                 9.3      (b)                                                  8
+   FeO                  17.9     (b)                    TiO2
+--- references block 4; lines 67-76 ---
+Re ppb
+   Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm   0.27     (a)             0.23    (c )             Processing   U ppm    0.1      (a)             0.07    (c )
+     technique:  (a) radiation counting, (b ) INAA, (c ) ICP-MS        There are 4 thin sections.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: material,mineralogy,references ===
+--- mineralogy block 1; lines 19-31 ---
+Muehlberger et al. (1973) Documentation and environment   References for 70315
+                                                                of the Apollo 17 samples: A preliminary report. Astrogeology
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and
+                                                     71 322 pp superceeded by Astrogeolgy 73 (1975) and by
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo
+                                                      Wolfe et al. (1981)
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.
+
+                                                        Muehlberger W.R. and many others (1973)  Preliminary
+    Butler P. (1973) Lunar Sample Information Catalog
+                                                            Geological Investigation of the Apollo 17 Landing Site. In
+--- material block 2; lines 43-55 ---
+Neal C.R. and Taylor L.A. (1993)  Catalog of Apollo 17
+   1407-1418.
+                                                                 rocks. Vol. 2 Basalts
+
+   Garg A.N. and Ehmann W.N. (1976a) Zr-Hf fractionation
+                                                     Warner R.D., Taylor G.J., Conrad G.H., Northrop H.R.,
+    in chemically defined lunar rock groups. Proc. 7th Lunar
+                                                          Barker S., Keil K., Ma M.-S. and Schmitt R. (1979a) Apollo
+    Sci. Conf. 3397-3410.
+                                                    17 high-Ti mare basalts: New bulk compositional data,
+                                             magma types, and petrogenesis. Proc. 10th Lunar Planet.
+   Lofgren G.E. and Lofgren E.M. (1981) Catalog of Lunar
+                                                                       Sci. Conf. 225-247.
+--- references block 3; lines 15-27 ---
+TS
+
+
+
+
+
+                                                        Muehlberger et al. (1973) Documentation and environment   References for 70315
+                                                                of the Apollo 17 samples: A preliminary report. Astrogeology
+   Brown G.M., Peckett A., Emeleus C.H., Phillips R. and
+                                                     71 322 pp superceeded by Astrogeolgy 73 (1975) and by
+    Pinsent R.H. (1975a) Petrology and mineralogy of Apollo
+                                                      Wolfe et al. (1981)
+   17 mare basalts. Proc. 6th Lunar Sci. Conf. 1-13.

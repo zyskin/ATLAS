@@ -1,0 +1,180 @@
+DOCUMENT_ID: 14168__compendium__f7b9e9729d
+ATLAS_SAMPLE_IDS: 14168
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14168.pdf
+SOURCE_PDF_SHA256: cb70e99a077280db36564486b95dac53c799b77ef6bdd6391b88561d0e09abba
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 3-15 ---
+0.94 grams
+
+
+
+
+
+                                                                 Figure 2: Composition of pyroxene in 14168,33
+                                                              (Warner et al. 1990).
+
+           Figure 1: Thin section of 14168,33 (Warner
+                                            Chemistry              et al. 1980).
+                                                   14168,33 has low Ti, high Al, high K and a slightly
+   Introduction                                  bow-shaped REE pattern.
+--- mineralogy block 2; lines 26-38 ---
+et al. (1986) at about 3.9 b.y.
+
+   Petrography
+   Warner et al. (1980) described 14168,33 as a high-K
+   mare basalt with abundant small grains of K-feldspar
+    (figure 1). Pyroxenes are typical of mare basalt (figure
+    2). Accessory minerals include olivine, chromite, metal
+   and troilite.
+
+
+
+
+        C Meyer
+--- material block 3; lines 1-8 ---
+14168,33
+                                Coarse-grained Basalt
+                                            0.94 grams
+--- material block 4; lines 13-51 ---
+Chemistry              et al. 1980).
+                                                   14168,33 has low Ti, high Al, high K and a slightly
+   Introduction                                  bow-shaped REE pattern.
+   14168 is a collection of coarse-fines (4-10 mm) from
+   the bag (1027) that held the football-sized rocks  Radiogenic age dating
+   (14303-14305) and smaller rocks apparently derived  Shih et al. (1986) determined the age of this
+   from the breakup of the larger samples (14169-14188).  fragment (figure 3).
+  A small amount of soil was also placed in this bag
+   (14165).  Most of the coarse-fine particles were
+   probably derived from these breccia samples.
+
+   One of the particles (,33) was found to be a rare basalt
+   (Kramer and Twedell 1977). It has been dated by Shih
+    et al. (1986) at about 3.9 b.y.
+
+   Petrography
+   Warner et al. (1980) described 14168,33 as a high-K
+   mare basalt with abundant small grains of K-feldspar
+    (figure 1). Pyroxenes are typical of mare basalt (figure
+    2). Accessory minerals include olivine, chromite, metal
+   and troilite.
+
+
+
+
+        C Meyer
+          2011       14168                       comprehensive
+                   43.9 g     same bag        sample14304,14305and
+
+
+    ,32                         ,34               ,33         basalts
+    21.7 g
+       bx.                                                          Figure :3 Rb/Sr isochron for VHK basalt 14168,39
+                                                                    (Shih et al. 1986).
+           ,33      ,38     ,39
+           0.34 g   0.2 g   0.35 g                               Summary of Age Data for 14168,39
+                                Nyquist                                    Rb/Sr          Ar/Ar        Sm/Nd
+                          ,41
+                  TS                             Shih et al. 1986  3.82 ± 0.12 b.y.  3.85 ± 0.05 b.y.   3.91 ± 0.16 b.y.
+--- age block 5; lines 11-31 ---
+Figure 1: Thin section of 14168,33 (Warner
+                                            Chemistry              et al. 1980).
+                                                   14168,33 has low Ti, high Al, high K and a slightly
+   Introduction                                  bow-shaped REE pattern.
+   14168 is a collection of coarse-fines (4-10 mm) from
+   the bag (1027) that held the football-sized rocks  Radiogenic age dating
+   (14303-14305) and smaller rocks apparently derived  Shih et al. (1986) determined the age of this
+   from the breakup of the larger samples (14169-14188).  fragment (figure 3).
+  A small amount of soil was also placed in this bag
+   (14165).  Most of the coarse-fine particles were
+   probably derived from these breccia samples.
+
+   One of the particles (,33) was found to be a rare basalt
+   (Kramer and Twedell 1977). It has been dated by Shih
+    et al. (1986) at about 3.9 b.y.
+
+   Petrography
+   Warner et al. (1980) described 14168,33 as a high-K
+   mare basalt with abundant small grains of K-feldspar
+    (figure 1). Pyroxenes are typical of mare basalt (figure
+--- age block 6; lines 42-54 ---
+,32                         ,34               ,33         basalts
+    21.7 g
+       bx.                                                          Figure :3 Rb/Sr isochron for VHK basalt 14168,39
+                                                                    (Shih et al. 1986).
+           ,33      ,38     ,39
+           0.34 g   0.2 g   0.35 g                               Summary of Age Data for 14168,39
+                                Nyquist                                    Rb/Sr          Ar/Ar        Sm/Nd
+                          ,41
+                  TS                             Shih et al. 1986  3.82 ± 0.12 b.y.  3.85 ± 0.05 b.y.   3.91 ± 0.16 b.y.
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 14168,33.    References for 14168
+                                                           Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+     reference  Warner80   Shervais90                         Samples. Curators Office. JSC 14240
+     weight    mare clast  Shih 86
+    SiO2 %               47.8
+                                                    Kramer F.E. and Twedell D.B. (1977)  Apollo 14 coarse    TiO2      1.7      (a)  1.7
+    Al2O3     12.4     (a)  12.4                                     fines (4-10 mm) sample location and classification. JSC
+   FeO       15.5     (a)  15.5                            12922
+   MnO      0.215   (a)  etc
+   MgO      11       (a)
+                                             LSPET (1971) Preliminary examination of lunar samples   CaO       9.9      (a)
+   Na2O     0.366   (a)                                  from Apollo 14. Science 173, 681-693.
+   K2O      0.57     (a)
+   P2O5                                                     Shervais J.W., Taylor L.A., Laul J.C., Shih C.-Y. and Nyquist
+   S %
+                                                       L.E. (1985)  Very high potassium (VHK) basalt:    sum
+                                                           Complications in lunar mare petrogenesis. Proc. 16th Lunar
+    Sc ppm   52       (a)                                        Planet. Sci. Conf. in J. Geophys. Res. 90, D3-D18.
+   V        139     (a)
+--- material block 2; lines 1-22 ---
+Table 1. Chemical composition of 14168,33.    References for 14168
+                                                           Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+     reference  Warner80   Shervais90                         Samples. Curators Office. JSC 14240
+     weight    mare clast  Shih 86
+    SiO2 %               47.8
+                                                    Kramer F.E. and Twedell D.B. (1977)  Apollo 14 coarse    TiO2      1.7      (a)  1.7
+    Al2O3     12.4     (a)  12.4                                     fines (4-10 mm) sample location and classification. JSC
+   FeO       15.5     (a)  15.5                            12922
+   MnO      0.215   (a)  etc
+   MgO      11       (a)
+                                             LSPET (1971) Preliminary examination of lunar samples   CaO       9.9      (a)
+   Na2O     0.366   (a)                                  from Apollo 14. Science 173, 681-693.
+   K2O      0.57     (a)
+   P2O5                                                     Shervais J.W., Taylor L.A., Laul J.C., Shih C.-Y. and Nyquist
+   S %
+                                                       L.E. (1985)  Very high potassium (VHK) basalt:    sum
+                                                           Complications in lunar mare petrogenesis. Proc. 16th Lunar
+    Sc ppm   52       (a)                                        Planet. Sci. Conf. in J. Geophys. Res. 90, D3-D18.
+   V        139     (a)
+    Cr       3722    (a)
+                                                       Shih C-Y., Nyquist L.E., Bogard D.D./, Bansal B.M.,   Co       31       (a)
+     Ni        40       (a)                               Wiesmann H., Johnson P., Shervais J.W. and Taylor L.A.
+--- references block 3; lines 1-9 ---
+Table 1. Chemical composition of 14168,33.    References for 14168
+                                                           Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock
+     reference  Warner80   Shervais90                         Samples. Curators Office. JSC 14240
+     weight    mare clast  Shih 86
+    SiO2 %               47.8
+                                                    Kramer F.E. and Twedell D.B. (1977)  Apollo 14 coarse    TiO2      1.7      (a)  1.7
+    Al2O3     12.4     (a)  12.4                                     fines (4-10 mm) sample location and classification. JSC
+   FeO       15.5     (a)  15.5                            12922
+   MnO      0.215   (a)  etc
+--- references block 4; lines 64-74 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm    0.7      (a)
+   U ppm
+     technique:  (a) INAA, (b) IDMS
+
+
+Lunar Sample Compendium
+C Meyer 2011

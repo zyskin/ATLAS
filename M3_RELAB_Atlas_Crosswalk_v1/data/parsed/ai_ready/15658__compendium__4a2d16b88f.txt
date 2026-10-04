@@ -1,0 +1,206 @@
+DOCUMENT_ID: 15658__compendium__4a2d16b88f
+ATLAS_SAMPLE_IDS: 15658
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15658.pdf
+SOURCE_PDF_SHA256: 260c14da8667575aac6740acd067699910592f0ba65badf6f5c36c7bd6792329
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 13-31 ---
+14
+  Introduction                                                                     12                         A17
+  15658 is a rake sample collected from the Terrace at                              A11
+  Hadley Rille (station 9a, Apollo 15).  It is typical of            10
+
+                                                                                                   8  most of the other rake samples from this location (see
+                                            TiO2   section on 15614).                                                                   6
+
+  Petrography                                                                         4                        15658 A12
+  Ryder (1985) provides the only description: “15658 is             2                        A15
+  a medium-grained, olivine-bearing basalt (figure 2).             0
+  Pigeonites range from 1 to 2 mm long and are twinned               0                5                10                15               20
+  and zoned. Most plagioclases for stubby crystals up                MgO
+   to about 1 mm, some of which are hollow. Some radial        Figure 3: Composition compared with other Apollo
+  growth of plagioclase and pyroxene is present. Olivine         basalts.
+  forms scattered anhedral phenocrysts, and smaller
+  grains are present, many as inclusions in pigeonite.
+   Cristobalite, fayalite, and a range of opaque phases are
+   present.” No mode is given.
+--- mineralogy block 2; lines 1-8 ---
+15658
+                              Olivine-normative Basalt
+                                            11.6 grams
+--- mineralogy block 3; lines 17-37 ---
+8  most of the other rake samples from this location (see
+                                            TiO2   section on 15614).                                                                   6
+
+  Petrography                                                                         4                        15658 A12
+  Ryder (1985) provides the only description: “15658 is             2                        A15
+  a medium-grained, olivine-bearing basalt (figure 2).             0
+  Pigeonites range from 1 to 2 mm long and are twinned               0                5                10                15               20
+  and zoned. Most plagioclases for stubby crystals up                MgO
+   to about 1 mm, some of which are hollow. Some radial        Figure 3: Composition compared with other Apollo
+  growth of plagioclase and pyroxene is present. Olivine         basalts.
+  forms scattered anhedral phenocrysts, and smaller
+  grains are present, many as inclusions in pigeonite.
+   Cristobalite, fayalite, and a range of opaque phases are
+   present.” No mode is given.
+
+  Chemistry
+  Helmke et al. (1973) and Chappell et al. (1973) reported
+  analyses of 15658. It is essentially the same as that of
+  15555.
+--- material block 4; lines 1-29 ---
+15658
+                              Olivine-normative Basalt
+                                            11.6 grams
+
+
+
+
+
+                             Figure 1: Photo of 15658. Scale is 1 cm. S71-49534.
+
+
+                                                           Lunar Basalts
+                                                                                               14
+  Introduction                                                                     12                         A17
+  15658 is a rake sample collected from the Terrace at                              A11
+  Hadley Rille (station 9a, Apollo 15).  It is typical of            10
+
+                                                                                                   8  most of the other rake samples from this location (see
+                                            TiO2   section on 15614).                                                                   6
+
+  Petrography                                                                         4                        15658 A12
+  Ryder (1985) provides the only description: “15658 is             2                        A15
+  a medium-grained, olivine-bearing basalt (figure 2).             0
+  Pigeonites range from 1 to 2 mm long and are twinned               0                5                10                15               20
+  and zoned. Most plagioclases for stubby crystals up                MgO
+   to about 1 mm, some of which are hollow. Some radial        Figure 3: Composition compared with other Apollo
+  growth of plagioclase and pyroxene is present. Olivine         basalts.
+  forms scattered anhedral phenocrysts, and smaller
+  grains are present, many as inclusions in pigeonite.
+--- material block 5; lines 38-50 ---
+Other Studies
+  Gose et al. (1972) and Pearce et al. (1978) determined
+   the magnetic properties.
+
+  Processing
+  There are only 2 thin sections of 15658.                                                                Figure 4: Normalized rare-earth-element diagram
+                                                                         for 15658 compared with soil 15601.
+
+
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- treatment block 6; lines 34-46 ---
+Helmke et al. (1973) and Chappell et al. (1973) reported
+  analyses of 15658. It is essentially the same as that of
+  15555.
+
+  Other Studies
+  Gose et al. (1972) and Pearce et al. (1978) determined
+   the magnetic properties.
+
+  Processing
+  There are only 2 thin sections of 15658.                                                                Figure 4: Normalized rare-earth-element diagram
+                                                                         for 15658 compared with soil 15601.
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,references,treatment ===
+--- chemistry block 1; lines 12-24 ---
+Gose W.A., Pearce G.W., Strangway D.W. and Carnes J.  Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+   (1972) Magnetism of Apollo 15 samples. In The Apollo   volumes). Curatoial Branch Pub. # 72, JSC#20787
+   15 Lunar Samples, 415-417.
+                                                Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+   Helmke P.A., Blanchard D.P., Haskin L.A., Telander K.,   G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+   Weiss C. and Jacobs J.W. (1973) Major and trace elements   Preliminary description of Apollo 15 sample environments.
+    in igneous rocks from Apollo 15. The Moon 8, 129-148.     U.S.G.S. Interagency report: 36. pp219 with maps
+
+   Lofgren G.E., Donaldson C.H. and Usselman T.M. (1975)  Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+   Geology, petrology and crystallization of Apollo 15 quartz-   M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+   normative basalts. Proc. 6th Lunar Sci. Conf. 79-99.        K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+                                                                 G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+--- age block 2; lines 16-28 ---
+Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+   Helmke P.A., Blanchard D.P., Haskin L.A., Telander K.,   G.E., Wolfe E.W., Reed V.S. and Sutton R.L. (1971b)
+   Weiss C. and Jacobs J.W. (1973) Major and trace elements   Preliminary description of Apollo 15 sample environments.
+    in igneous rocks from Apollo 15. The Moon 8, 129-148.     U.S.G.S. Interagency report: 36. pp219 with maps
+
+   Lofgren G.E., Donaldson C.H. and Usselman T.M. (1975)  Swann G.A., Bailey N.G., Batson R.M., Freeman V.L., Hait
+   Geology, petrology and crystallization of Apollo 15 quartz-   M.H., Head J.W., Holt H.E., Howard K.A., Irwin J.B., Larson
+   normative basalts. Proc. 6th Lunar Sci. Conf. 79-99.        K.B., Muehlberger W.R., Reed V.S., Rennilson J.J., Schaber
+                                                                 G.G., Scott D.R., Silver L.T., Sutton R.L., Ulrich G.E.,
+  LSPET (1972a) The Apollo 15 lunar samples: A preliminary   Wilshire H.G. and Wolfe E.W.  (1972)  5. Preliminary
+    description. Science 175, 363-375.                       Geologic Investigation of the Apollo 15 landing site.  In
+                                                        Apollo 15 Preliminary Science Rpt. NASA SP-289. pages
+                                                              5-1-112.
+--- treatment block 3; lines 4-16 ---
+References for 15658                         LSPET (1972b) Preliminary examination of lunar samples.
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’   Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+    Office, MSC 03209                                1—6-28.
+
+   Chappell B.W. and Green D.H. (1973)  Chemical   Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+   compositions and petrogenetic relationships in Apollo 15   Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+   mare basalts. Earth Planet. Sci. Lett. 18, 237-246.              4th Lunar Sci. Conf. 3045-3076.
+
+   Gose W.A., Pearce G.W., Strangway D.W. and Carnes J.  Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+   (1972) Magnetism of Apollo 15 samples. In The Apollo   volumes). Curatoial Branch Pub. # 72, JSC#20787
+   15 Lunar Samples, 415-417.
+                                                Swann G.A., Hait M.H., Schaber G.C., Freeman V.L., Ulrich
+--- references block 4; lines 1-11 ---
+Figure 2a: Photomicrographs of thin section             Figure 2b: Photomicrographs of thin section
+        15658,15 by C Meyer @ 50x.                           15658,110 by C Meyer @ 50x.
+
+
+   References for 15658                         LSPET (1972b) Preliminary examination of lunar samples.
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’   Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+    Office, MSC 03209                                1—6-28.
+
+   Chappell B.W. and Green D.H. (1973)  Chemical   Pearce G.W., Gose W.A. and Strangway D.W.  (1973)
+   compositions and petrogenetic relationships in Apollo 15   Magnetic studies on Apollo 15 and 16 lunar samples. Proc.
+   mare basalts. Earth Planet. Sci. Lett. 18, 237-246.              4th Lunar Sci. Conf. 3045-3076.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 15658.
+
+
+   reference Helmke73   Chappel73
+   weight
+  SiO2 %   46.5     (a)  45.09    (c )
+   TiO2      2.69     (a)  2.5       (c )
+  Al2O3     9.11     (a)  9.02      (c )
+  FeO      22.5     (a)  22.59    (c )
+  MnO      0.28     (a)  0.31      (c )
+  MgO     10       (a)  9.73      (c )
+  CaO     10       (a)  10.11     (c )
+  Na2O     0.257   (a)  0.28      (c )
+  K2O      0.049   (a)  0.04      (c )
+  P2O5                 0.07      (c )
+  S %                   0.05      (c )
+  sum
+
+  Sc ppm   47       (b)
+  V
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 15658.
+
+
+   reference Helmke73   Chappel73
+   weight
+  SiO2 %   46.5     (a)  45.09    (c )
+   TiO2      2.69     (a)  2.5       (c )
+  Al2O3     9.11     (a)  9.02      (c )
+  FeO      22.5     (a)  22.59    (c )
+  MnO      0.28     (a)  0.31      (c )
+--- references block 3; lines 65-74 ---
+Os ppb
+     Ir ppb
+   Pt ppb
+  Au ppb
+  Th ppm
+  U ppm
+   technique:  (a) AA, (b) INAA, (c ) XRF
+
+Lunar Sample Compendium
+C Meyer 2010

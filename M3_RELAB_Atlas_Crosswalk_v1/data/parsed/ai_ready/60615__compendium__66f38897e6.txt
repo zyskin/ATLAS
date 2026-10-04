@@ -1,0 +1,172 @@
+DOCUMENT_ID: 60615__compendium__66f38897e6
+ATLAS_SAMPLE_IDS: 60615
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60615.pdf
+SOURCE_PDF_SHA256: 02405fc26479a7e3894bb6ed812282dd60e867569afa0d6afc60a7fa9d24db77
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 13-27 ---
+Lunar Module.  It is a basaltic impact melt with one
+large vesicle (figure 1).
+
+Petrography
+Dowty et al. (1974) and Warner et al. (1973) give
+the only description of 60615. The texture is mostly
+intergranular with olivine and pyroxene confined
+to intersticies between fine plagioclase laths (figure
+2). Xenocrysts of plagioclase account for 4% of
+the rock (Ryder and Norman 1980).
+
+Chemistry
+Laul and Schmitt (1973) give an analysis indicating
+that 60615 is highly aluminous, with high Mg/Fe ratio
+and with significant content of meteoritic siderophiles.
+--- material block 2; lines 1-28 ---
+60615
+                                 Basaltic Impact Melt
+                                        32.97 grams
+
+
+
+
+
+           Figure 1: Photo of 60615. Scale in mm. S73-20502.
+
+Introduction
+60615 is a rake sample collected from an area near the
+Lunar Module.  It is a basaltic impact melt with one
+large vesicle (figure 1).
+
+Petrography
+Dowty et al. (1974) and Warner et al. (1973) give
+the only description of 60615. The texture is mostly
+intergranular with olivine and pyroxene confined
+to intersticies between fine plagioclase laths (figure
+2). Xenocrysts of plagioclase account for 4% of
+the rock (Ryder and Norman 1980).
+
+Chemistry
+Laul and Schmitt (1973) give an analysis indicating
+that 60615 is highly aluminous, with high Mg/Fe ratio
+and with significant content of meteoritic siderophiles.
+--- age block 3; lines 23-36 ---
+Chemistry
+Laul and Schmitt (1973) give an analysis indicating
+that 60615 is highly aluminous, with high Mg/Fe ratio
+and with significant content of meteoritic siderophiles.
+
+Radiogenic age dating
+There are no age data for 60615.
+
+Processing
+There is only 1 thin section.
+
+
+   Lunar Sample Compendium
+
+=== PDF PAGE 2; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 9-21 ---
+En                                          Fs
+
+                                             Fo                                        Fa
+                                                                                          compiled by C Meyer
+
+                                                          Figure 3: Pyroxene and olivine composition of
+                                                    60615 (Dowty et al. 1974; Warner et al. 1973).
+   Figure 2: Thin section photomicrograph of 60615
+  (Warner et al. 1973).
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-18 ---
+Table 1. Chemical composition of 60615.
+
+reference  Laul73     Dowty 74                       References for 60615weight               Warner 76
+SiO2 %               44.9                                  Butler P. (1972) Lunar Sample Information Catalog Apollo
+TiO2      0.54    (a)  0.49       (b)                          16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+Al2O3     21.5    (a)  22.1                                  Catalog. pp. 370.
+FeO       5.8      (a)  4.7
+MnO      0.071   (a)  0.05
+MgO      14      (a)  14.2                          Dowty E., Keil K. and Prinz M. (1974a) Igneous rocks from
+CaO       12.1    (a)  12.8                               Apollo 16 rake samples. Proc. 5th Lunar Sci. Conf. 431-
+Na2O     0.386   (a)  0.45                                445.
+K2O       0.12    (a)  0.14
+P2O5                 0.09
+S %                                                  Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+sum                                                           in Apollo 16 highland rocks: Manifestations of volatile-
+                                                       element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+Sc ppm   9        (a)
+                                                        259.V        30      (a)
+--- material block 2; lines 4-27 ---
+SiO2 %               44.9                                  Butler P. (1972) Lunar Sample Information Catalog Apollo
+TiO2      0.54    (a)  0.49       (b)                          16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+Al2O3     21.5    (a)  22.1                                  Catalog. pp. 370.
+FeO       5.8      (a)  4.7
+MnO      0.071   (a)  0.05
+MgO      14      (a)  14.2                          Dowty E., Keil K. and Prinz M. (1974a) Igneous rocks from
+CaO       12.1    (a)  12.8                               Apollo 16 rake samples. Proc. 5th Lunar Sci. Conf. 431-
+Na2O     0.386   (a)  0.45                                445.
+K2O       0.12    (a)  0.14
+P2O5                 0.09
+S %                                                  Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+sum                                                           in Apollo 16 highland rocks: Manifestations of volatile-
+                                                       element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+Sc ppm   9        (a)
+                                                        259.V        30      (a)
+Cr        985     (a)  752
+Co       32      (a)                                   Korotev R.L. (1996c) On the relationship between the
+Ni        490     (a)                                 Apollo 16 ancient regolith breccias and feldspathic
+Cu
+                                                         fragmental breccias, and the composition of the prebasinZn
+Ga                                                            crust in the Central Highlands of the Moon.  Meteor. &
+Ge ppb                                                      Planet. Sci. 31, 403-412.
+As
+Se
+--- material block 3; lines 37-49 ---
+Ag ppb
+                                                     Apollo 16 Preliminary Science Report. NASA SP-315, 7-Cd ppb
+In ppb                                            1—7-58.
+Sn ppb
+Sb ppb                                                Phinney W. and Lofgren G. (1973) Description, classification
+Te ppb
+                                                   and inventory of Apollo 16 rake samples from stations 1, 4Cs ppm
+Ba       140     (a)                                  and 13.  Curators Office. JSC
+La        16.9    (a)
+Ce       44      (a)                                  Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+Pr
+                                                         rocks (3 vol.). Curator’s Office pub. #52, JSC #16904Nd       28      (a)
+Sm        7.6      (a)
+--- material block 4; lines 55-67 ---
+Er                                                Warner J.L., Simonds C.H. and Phinney W.C. (1973b)
+Tm                                                  Apollo 16 rocks: Classification and petrogenetic model.
+Yb         5.3      (a)
+                                                         Proc. 4th Lunar Sci. Conf. 481-504.Lu        0.77    (a)
+Hf        5        (a)
+Ta         0.65    (a)                                  Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+W ppb                                              and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+Re ppb
+                                                   from the LM area and station 5.  Spec. Publ. #13, UNMOs ppb
+Ir ppb     9        (a)                                             Institute of Meteoritics, Albuquerque. 87 pp.
+Pt ppb
+Au ppb    8        (a)
+Th ppm    2.7      (a)
+--- references block 5; lines 1-9 ---
+Table 1. Chemical composition of 60615.
+
+reference  Laul73     Dowty 74                       References for 60615weight               Warner 76
+SiO2 %               44.9                                  Butler P. (1972) Lunar Sample Information Catalog Apollo
+TiO2      0.54    (a)  0.49       (b)                          16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+Al2O3     21.5    (a)  22.1                                  Catalog. pp. 370.
+FeO       5.8      (a)  4.7
+MnO      0.071   (a)  0.05
+MgO      14      (a)  14.2                          Dowty E., Keil K. and Prinz M. (1974a) Igneous rocks from
+--- references block 6; lines 63-72 ---
+from the LM area and station 5.  Spec. Publ. #13, UNMOs ppb
+Ir ppb     9        (a)                                             Institute of Meteoritics, Albuquerque. 87 pp.
+Pt ppb
+Au ppb    8        (a)
+Th ppm    2.7      (a)
+U ppm     0.8      (a)
+technique:  (a) INAA, (b) elec probe
+
+   Lunar Sample Compendium
+  C Meyer 2010

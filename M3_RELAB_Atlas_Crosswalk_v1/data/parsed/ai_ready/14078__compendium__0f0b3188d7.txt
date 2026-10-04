@@ -1,0 +1,238 @@
+DOCUMENT_ID: 14078__compendium__0f0b3188d7
+ATLAS_SAMPLE_IDS: 14074,14077,14078,14079
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/14078.pdf
+SOURCE_PDF_SHA256: 2f6a86f5a57e867d14da9ee9c995446e23430d8cd34a49cbbf1f58558962c5ed
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 24-39 ---
+Figure 4: Two views of 14078. Sample is about 3 cm long. NASA S71-26048 and 26046.
+
+
+   Introduction                                Petrography
+   14074, 14077, 14078 and 14079 are feldspathic basalts  14074,  14077, 14078  and 14079  are  each
+   from bottom of trench at station G (see section on   holocrystalline subophitic basalts with an abundance
+   14149). They are similar to 14073 from the same   of lath-shaped plagioclase crystals (figures 5 - 8). Of
+    location. 14310 was collected from the surface at the   these, only 14078 has been studied in detail (McKay
+   same station. Of these, 14078 has been shown to be a   et al. 1978).  Figure 9 gives the composition of
+   trace-element-rich basalt otherwise known as KREEP  pyroxene.
+    basalt (Meyer 1977). The smaller samples have not
+   been analyzed.                                The metallic iron in 14078 has high Ni, Co (figure 10).
+
+
+
+Lunar Sample Compendium
+--- material block 2; lines 1-11 ---
+14074 – 5.2 grams
+                         14077 – 2.77 grams
+                          14078 - 8.3 grams
+                         14079 – 3.17 grams
+                   KREEP Basalt
+
+
+
+
+
+             Figure 1: Photos of side and end of 14074. Sample is 3 cm long. NASA S71-26057 and 26054.
+--- material block 3; lines 27-40 ---
+Introduction                                Petrography
+   14074, 14077, 14078 and 14079 are feldspathic basalts  14074,  14077, 14078  and 14079  are  each
+   from bottom of trench at station G (see section on   holocrystalline subophitic basalts with an abundance
+   14149). They are similar to 14073 from the same   of lath-shaped plagioclase crystals (figures 5 - 8). Of
+    location. 14310 was collected from the surface at the   these, only 14078 has been studied in detail (McKay
+   same station. Of these, 14078 has been shown to be a   et al. 1978).  Figure 9 gives the composition of
+   trace-element-rich basalt otherwise known as KREEP  pyroxene.
+    basalt (Meyer 1977). The smaller samples have not
+   been analyzed.                                The metallic iron in 14078 has high Ni, Co (figure 10).
+
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: age,mineralogy ===
+--- mineralogy block 1; lines 19-29 ---
+Cosmogenic isotopes and exposure ages
+   The 38Ar cosmic-ray exposure age is 107 m.y. for 14074
+   and 97 m.y. for 14079 (Stadermann et al. 1991). Other
+   samples from the bottom of this trench also have long
+   exposure history.
+
+                                                              Figure 9: Composition of pyroxene and olivine in
+                                                        14078 (McKay et al. 1978).
+
+Lunar Sample Compendium
+C Meyer 2011
+--- age block 2; lines 5-26 ---
+Chemistry
+  McKay et al. (1978) determined the chemical
+   composition (figures 11, 12).
+
+   Radiogenic age dating
+   Stadermann et al. (1991) obtained Ar/Ar plateau ages
+   of 3.78 ± 0.02 b.y for both 14074 and 14079 (figure
+    13). The Rb-Sr mineral isochron age for 14078 is 3.89
+   ± 0.02 b.y. (McKay et al. 1978) (figure 14).  If this
+   difference in age is real, then these samples are
+    unrelated.
+
+   Cosmogenic isotopes and exposure ages
+   The 38Ar cosmic-ray exposure age is 107 m.y. for 14074
+   and 97 m.y. for 14079 (Stadermann et al. 1991). Other
+   samples from the bottom of this trench also have long
+   exposure history.
+
+                                                              Figure 9: Composition of pyroxene and olivine in
+                                                        14078 (McKay et al. 1978).
+
+=== PDF PAGE 4; CATEGORIES: mineralogy ===
+--- mineralogy block 1; lines 3-20 ---
+polarizers).
+
+
+
+
+
+            Mineralogical Mode of 14078
+                  McKay et al. 1978
+               Olivine                     6.5 %
+              Pyroxene                  25.5
+                Plagioclase                64.4
+                                                                  Figure 10: Ni and Co content of metallic iron in                Ilmenite                    0.5
+                                                           14078 (McKay et al. 1978).               Meostasis                   2.3
+              Phosphate                         tr
+              Metal                               tr
+
+=== PDF PAGE 7; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 14078.
+
+
+    reference  McKay78
+    weight
+   SiO2 %    47.3      (a)
+    TiO2       1.34
+   Al2O3     20.3
+   FeO       8.78
+   MnO       0.11
+   MgO       7.42
+   CaO       12.7
+   Na2O      0.75
+   K2O       0.51
+   P2O5      0.47
+   S %
+   sum
+
+   Sc ppm
+   V
+--- material block 2; lines 21-33 ---
+Cr
+   Co
+    Ni
+   Cu
+   Zn
+   Ga                                                           Figure 11: Normalized rare-earth-element diagram
+   Ge ppb                                                               for KREEP basalts and breccia (McKay et al. 1979).
+   As
+   Se
+   Rb        13.73    (b)
+    Sr         187.8    (b)
+   Y
+    Zr
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 14078.
+
+
+    reference  McKay78
+    weight
+   SiO2 %    47.3      (a)
+    TiO2       1.34
+   Al2O3     20.3
+   FeO       8.78
+   MnO       0.11
+--- references block 4; lines 64-73 ---
+Os ppb
+      Ir ppb
+    Pt ppb
+   Au ppb
+   Th ppm
+   U ppm
+    technique:  (a) fused bead e-probe, (b) IDMS
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 8; CATEGORIES: age ===
+--- age block 1; lines 1-7 ---
+Summary of Age Data
+                                      Ar/Ar   Rb/Sr
+    14074   Stadermann et al. 1991      3.78 ± 0.02 b.y.
+    14079                              3.78 ± 0.02
+    14078  McKay et al. 1978                   3.89 ± 0.02 b.y.
+    Caution: Uncorrected
+
+=== PDF PAGE 9; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 12-30 ---
+McKay G.A., Wiesmann H., Bansal B.M. and Shih C.-Y.
+    (1979a) Petrology, chemistry, and chronology of Apollo 14
+  KREEP basalts. Proc. 10th Lunar Planet. Sci. Conf. 181-
+    205.                                                  C Meyer  14077
+                                                                 2011    2.77 grams
+   Meyer C. (1977) Petrology, mineralogy and chemistry of
+  KREEP basalt. Physics and Chemistry of the Earth 10, 239-
+    260. (Ahrens and Runcorn , eds)
+                                                           ,0         ,1     ,4     ,3   Neal C.R. and Kramer G.Y. (2006) The petrogenesis of the                                                      PB  PB   0.2 g   Apollo 14 high-Al mare basalts. Am. Mineralogist 91, 1521-          2.3 g
+   1535.
+                                                                                      ,2     ,5
+   von Engelhardt W. (1979)  Ilmenite in the crystallization                                                        TS  TS
+   sequence of lunar rocks. Proc. 10th Lunar Sci. Conf. 677-
+    694.
+
+   Reimold W.U., Nyquist L.E., Bansal B.M., Wooden J.L.,
+                                                 C Meyer
+   Shih C.-Y., Wiesmann H. and Mackinnnon I.D.R. (1985)    2011
+--- material block 2; lines 1-8 ---
+References for 14078                                Schaber G.G., Schafer J.P., Shepard A.B., Sutton R.L., Trask
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock   N.J., Ulrich G.E., Wilshire H.G. and Wolfe E.W. (1972) 3.
+   Samples. Curators Office. JSC 14240                      Preliminary Geologic Investigation of the Apollo 14 landing
+                                                                                site. In Apollo 14 Preliminary Science Rpt. NASA SP-272.
+   LSPET (1971) Preliminary examination of lunar samples   pages 39-85.
+   from Apollo 14. Science 173, 681-693.
+                                                            Wilshire H.G. and Jackson E.D. (1972)  Petrology and
+   McKay G.A., Wiesmann H., Nyquist L.E., Wooden J.L. and   stratigraphy of the Fra Mauro Formation at the Apollo 14
+--- material block 3; lines 13-25 ---
+McKay G.A., Wiesmann H., Bansal B.M. and Shih C.-Y.
+    (1979a) Petrology, chemistry, and chronology of Apollo 14
+  KREEP basalts. Proc. 10th Lunar Planet. Sci. Conf. 181-
+    205.                                                  C Meyer  14077
+                                                                 2011    2.77 grams
+   Meyer C. (1977) Petrology, mineralogy and chemistry of
+  KREEP basalt. Physics and Chemistry of the Earth 10, 239-
+    260. (Ahrens and Runcorn , eds)
+                                                           ,0         ,1     ,4     ,3   Neal C.R. and Kramer G.Y. (2006) The petrogenesis of the                                                      PB  PB   0.2 g   Apollo 14 high-Al mare basalts. Am. Mineralogist 91, 1521-          2.3 g
+   1535.
+                                                                                      ,2     ,5
+   von Engelhardt W. (1979)  Ilmenite in the crystallization                                                        TS  TS
+   sequence of lunar rocks. Proc. 10th Lunar Sci. Conf. 677-
+--- age block 4; lines 18-30 ---
+Meyer C. (1977) Petrology, mineralogy and chemistry of
+  KREEP basalt. Physics and Chemistry of the Earth 10, 239-
+    260. (Ahrens and Runcorn , eds)
+                                                           ,0         ,1     ,4     ,3   Neal C.R. and Kramer G.Y. (2006) The petrogenesis of the                                                      PB  PB   0.2 g   Apollo 14 high-Al mare basalts. Am. Mineralogist 91, 1521-          2.3 g
+   1535.
+                                                                                      ,2     ,5
+   von Engelhardt W. (1979)  Ilmenite in the crystallization                                                        TS  TS
+   sequence of lunar rocks. Proc. 10th Lunar Sci. Conf. 677-
+    694.
+
+   Reimold W.U., Nyquist L.E., Bansal B.M., Wooden J.L.,
+                                                 C Meyer
+   Shih C.-Y., Wiesmann H. and Mackinnnon I.D.R. (1985)    2011
+--- references block 5; lines 1-7 ---
+References for 14078                                Schaber G.G., Schafer J.P., Shepard A.B., Sutton R.L., Trask
+    Carlson I.C. and Walton W.J.A. (1978) Apollo 14 Rock   N.J., Ulrich G.E., Wilshire H.G. and Wolfe E.W. (1972) 3.
+   Samples. Curators Office. JSC 14240                      Preliminary Geologic Investigation of the Apollo 14 landing
+                                                                                site. In Apollo 14 Preliminary Science Rpt. NASA SP-272.
+   LSPET (1971) Preliminary examination of lunar samples   pages 39-85.
+   from Apollo 14. Science 173, 681-693.
+                                                            Wilshire H.G. and Jackson E.D. (1972)  Petrology and

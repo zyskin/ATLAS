@@ -1,0 +1,114 @@
+DOCUMENT_ID: 67605__compendium__e7de1b54fb
+ATLAS_SAMPLE_IDS: 67605
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67605.pdf
+SOURCE_PDF_SHA256: 5449bc6cca1beafcca18d0f46b940276e93e58475cdd93bfebc7d26cb72ac97e
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-23 ---
+67605
+                                  Polymict Breccia
+                                            44.5 grams
+
+
+
+
+
+                                                                     Figure 1 b: Figure showing
+           Figure 1 a: Photo of 67605 showing white                                                                   zap pits. S72-41581
+             clast. S72-41583. Cube is 1 cm.
+
+
+
+
+
+                 Figure 1 c: White clast
+                                                                      Figure 1 d: Rounding caused by mi-                  again. S72-41580
+                                                                          crometeorite bombardment. S72-41582
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 10-22 ---
+Boulder samples (67455 etc) – but it is about the size,
+    shape and color of a golf ball.
+
+   Petrography
+   Ryder and Norman (1980) have provided the only
+    description: “67605 is a fragmental breccia with many
+    plagioclase and plagioclase-rich breccia clasts, as well
+                                                                Figure 3: Normalized rare-earth-element diagram
+    as opaque aphanitic impact melt debris which gives
+                                                                          for 67605 (from Ryder and Norman).
+   some area of the thin section a dark aspect” (figure 2).
+   The also describe a small clast of mare basalt in this
+                                               67605    rock! Mineral chemistry is not available.
+--- material block 2; lines 2-28 ---
+light. Width of field is 2 mm. From Ryder and Norman 1980.
+
+
+
+   Introduction
+   67605 is a relatively large friable, white particle picked
+    out of the soil sample from the rim of North Ray Crater
+   – see section on 67601.   It is similar to the White
+    Boulder samples (67455 etc) – but it is about the size,
+    shape and color of a golf ball.
+
+   Petrography
+   Ryder and Norman (1980) have provided the only
+    description: “67605 is a fragmental breccia with many
+    plagioclase and plagioclase-rich breccia clasts, as well
+                                                                Figure 3: Normalized rare-earth-element diagram
+    as opaque aphanitic impact melt debris which gives
+                                                                          for 67605 (from Ryder and Norman).
+   some area of the thin section a dark aspect” (figure 2).
+   The also describe a small clast of mare basalt in this
+                                               67605    rock! Mineral chemistry is not available.
+                                                      44.5 grams
+   Chemistry
+   Warren and Wasson (1978) provided the Curator with
+                                                                     ,0      ,2    ,3    ,4    ,1   two analyses (table, figure 3). The sample has trace
+                                                    38 g  PB PB  4 g   1.1 g    Ni, Ir and Au.
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 67605       References for 67605
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+     reference  Warren78                                         16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+     weight                                                     Catalog. pp. 370.
+    SiO2 %    45.8     44.9      (a)
+    TiO2      0.18     0.18      (a)
+    Al2O3    30       29.9      (a)                           Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   FeO       2.58     2.57      (a)                                in Apollo 16 highland rocks: Manifestations of volatile-
+   MnO      0.036    0.038    (a)                            element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+   MgO      3.96     3.91      (a)
+                                                            259.   CaO      16.8     16.9      (a)
+   Na2O     0.48     0.5       (a)
+   K2O      0.051    0.055    (a)                      LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+   P2O5                                               and chemical description. Science 179, 23-34.
+   S %
+    sum
+                                             LSPET (1972c) Preliminary examination of lunar samples.
+    Sc ppm    5.2      4.4       (a)                              In Apollo 16 Preliminary Science Report. NASA SP-315,
+   V                                                 7-1—7-58.
+--- references block 2; lines 1-9 ---
+Table 1. Chemical composition of 67605       References for 67605
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+     reference  Warren78                                         16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+     weight                                                     Catalog. pp. 370.
+    SiO2 %    45.8     44.9      (a)
+    TiO2      0.18     0.18      (a)
+    Al2O3    30       29.9      (a)                           Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite
+   FeO       2.58     2.57      (a)                                in Apollo 16 highland rocks: Manifestations of volatile-
+   MnO      0.036    0.038    (a)                            element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+--- references block 3; lines 64-74 ---
+Os ppb
+       Ir ppb     3.4      3.8       (a)
+     Pt ppb
+    Au ppb             0.6       (a)
+    Th ppm    0.31     0.4       (a)
+   U ppm    0.15     0.14      (a)
+     technique  (a) INAA
+
+
+Lunar Sample Compendium
+C Meyer 2011

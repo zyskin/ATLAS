@@ -1,0 +1,289 @@
+DOCUMENT_ID: 12031__compendium__edf46ac609
+ATLAS_SAMPLE_IDS: 12031
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/12031.pdf
+SOURCE_PDF_SHA256: 45b83985971c1fba8dd6968376723ac90db232ff82cca0b44c37cc738ec8cd54
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 10-21 ---
+Introduction                                             Petrography
+   This interesting rock is not well studied, nor                                                    Beaty et al. (1979) describe 12031 as a “coarse-grained
+   characterized.   It has a remarkably coarse-grained                                                    (~2 mm), equigranular rock with a variable texture.
+   mesostasis, thus allowing accurate analysis of minor                                       On the thin section they studied, graphic intergrowths
+   minerals (not accomplished).  It has been dated at 3.2                                                          of pyroxene and plagioclase on one side give way to a
+    b.y.                                               more granular, gabbroic texture on the other side (figure
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 2; lines 1-20 ---
+12031
+                                     Pigeonite Basalt
+                                       185 grams
+
+
+
+
+
+                Figure 1: Photo of 12031. NASA #S69-63652.
+
+
+   Introduction                                             Petrography
+   This interesting rock is not well studied, nor                                                    Beaty et al. (1979) describe 12031 as a “coarse-grained
+   characterized.   It has a remarkably coarse-grained                                                    (~2 mm), equigranular rock with a variable texture.
+   mesostasis, thus allowing accurate analysis of minor                                       On the thin section they studied, graphic intergrowths
+   minerals (not accomplished).  It has been dated at 3.2                                                          of pyroxene and plagioclase on one side give way to a
+    b.y.                                               more granular, gabbroic texture on the other side (figure
+
+
+Lunar Sample Compendium
+--- age block 3; lines 10-21 ---
+Introduction                                             Petrography
+   This interesting rock is not well studied, nor                                                    Beaty et al. (1979) describe 12031 as a “coarse-grained
+   characterized.   It has a remarkably coarse-grained                                                    (~2 mm), equigranular rock with a variable texture.
+   mesostasis, thus allowing accurate analysis of minor                                       On the thin section they studied, graphic intergrowths
+   minerals (not accomplished).  It has been dated at 3.2                                                          of pyroxene and plagioclase on one side give way to a
+    b.y.                                               more granular, gabbroic texture on the other side (figure
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 23-40 ---
+Mesostasis phases are remarkably coarse-grained.                                                         Plagioclase: Beaty et al. (1979) found a wide range
+    Troilite is associated with phosphate at the junction of                                                          of plagioclase composition An98-48, with significant Or
+   pyroxene and pyroxferroite.  At the junction,                                                         content and silica deficiency. However, the average
+    pyroxferroite breaks down to fayalite, cristobalite and                                                           plagioclase composition is An90.6.
+    Fe-rich pyroxene in wormy intergrowths.
+                                                          Ilmenite: Ilmenite is low MgO.
+   Although Beaty et al. grouped 12031 with 12038
+    (feldspathic basalt), on the basis of Sr isotopic analysis,                                                        Tridymite: Tridymite laths are up to 1 mm in length.
+    Nyquist et al. (1981) showed convincingly that 12031
+   was instead a pigeonite basalt. Neal et al. (1994) found                                             Chemistry
+    that it grouped instead with the ilmenite basalts.                                               The chemical composition was determined by Rhodes
+                                                                   et al. (1977) and Nyquist et al. (1977 and 1979).
+   Mineralogy
+    Olivine: Minor fayalite.                                               Radiogenic age dating
+                                                    Nyquist et al. (1979) determined a Rb-Sr mineral
+   Pyroxene: Figure 7 shows large pyroxene crystals up                                                        isochron of 3.23 ± 0.07 b.y. (figure 6).
+    to 3 cm long radiating outward from a common point.
+--- mineralogy block 2; lines 1-51 ---
+Figure 2: Two different textures of 12031 (from Beaty et al. 1977). Scale about 1.5 mm.
+
+                                                                      12031
+           Mineralogical Mode of 12031                            Di                   Hd
+                              Beaty et          Neal et                    Beaty et al. 1979
+                                           al. 1979              al. 1994
+              Olivine               - -                     - -
+             Pyroxene         49.2              49.2
+               Plagioclase       40.2              40.2
+               Ilmenite          3.77               3.9
+             Chromite         0.05               0.1
+                “silica”            4.9                4.9
+              mesostasis        0.36               0.9
+                                              En                                          Fs
+
+                                                 Fo                                        Fa    2).  Elongated and externally skeletal ilmenite,
+    tridymite laths and interstitial cristobalite constitute the        compiled by C Meyer
+                                                                 Figure 3: Pyroxene composition for 12031     rest of the rock. Magnesian olivine and Cr-spinel are
+                                                                  (adapted from Beaty et al. 1979).    absent and pyroxenes are neither lath-shaped nor
+    porphritic.  Plagioclase occurs as large, anhedral,
+    poikilitic grains with prominent and complicated                                                   Pyroxferroite:  Beaty  et  al. (1979) reported
+    twinning.”                                                           pyroxferroite up to 3 mm.
+
+    Mesostasis phases are remarkably coarse-grained.                                                         Plagioclase: Beaty et al. (1979) found a wide range
+    Troilite is associated with phosphate at the junction of                                                          of plagioclase composition An98-48, with significant Or
+   pyroxene and pyroxferroite.  At the junction,                                                         content and silica deficiency. However, the average
+    pyroxferroite breaks down to fayalite, cristobalite and                                                           plagioclase composition is An90.6.
+    Fe-rich pyroxene in wormy intergrowths.
+                                                          Ilmenite: Ilmenite is low MgO.
+   Although Beaty et al. grouped 12031 with 12038
+    (feldspathic basalt), on the basis of Sr isotopic analysis,                                                        Tridymite: Tridymite laths are up to 1 mm in length.
+    Nyquist et al. (1981) showed convincingly that 12031
+   was instead a pigeonite basalt. Neal et al. (1994) found                                             Chemistry
+    that it grouped instead with the ilmenite basalts.                                               The chemical composition was determined by Rhodes
+                                                                   et al. (1977) and Nyquist et al. (1977 and 1979).
+   Mineralogy
+    Olivine: Minor fayalite.                                               Radiogenic age dating
+                                                    Nyquist et al. (1979) determined a Rb-Sr mineral
+   Pyroxene: Figure 7 shows large pyroxene crystals up                                                        isochron of 3.23 ± 0.07 b.y. (figure 6).
+    to 3 cm long radiating outward from a common point.
+    Beaty et al. (1979) show a scatter diagram for pyroxene
+                                                 Processing
+   with many points  at ferroheddenbergite and
+                                               12031 was not sawn. When chipped, it crumbled
+    “discontinuous” pyroxferroite.  Complete pyroxene
+                                                              (figure 7). There are 8 thin sections.
+    analyses are replotted in figure 3.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 12-39 ---
+“silica”            4.9                4.9
+              mesostasis        0.36               0.9
+                                              En                                          Fs
+
+                                                 Fo                                        Fa    2).  Elongated and externally skeletal ilmenite,
+    tridymite laths and interstitial cristobalite constitute the        compiled by C Meyer
+                                                                 Figure 3: Pyroxene composition for 12031     rest of the rock. Magnesian olivine and Cr-spinel are
+                                                                  (adapted from Beaty et al. 1979).    absent and pyroxenes are neither lath-shaped nor
+    porphritic.  Plagioclase occurs as large, anhedral,
+    poikilitic grains with prominent and complicated                                                   Pyroxferroite:  Beaty  et  al. (1979) reported
+    twinning.”                                                           pyroxferroite up to 3 mm.
+
+    Mesostasis phases are remarkably coarse-grained.                                                         Plagioclase: Beaty et al. (1979) found a wide range
+    Troilite is associated with phosphate at the junction of                                                          of plagioclase composition An98-48, with significant Or
+   pyroxene and pyroxferroite.  At the junction,                                                         content and silica deficiency. However, the average
+    pyroxferroite breaks down to fayalite, cristobalite and                                                           plagioclase composition is An90.6.
+    Fe-rich pyroxene in wormy intergrowths.
+                                                          Ilmenite: Ilmenite is low MgO.
+   Although Beaty et al. grouped 12031 with 12038
+    (feldspathic basalt), on the basis of Sr isotopic analysis,                                                        Tridymite: Tridymite laths are up to 1 mm in length.
+    Nyquist et al. (1981) showed convincingly that 12031
+   was instead a pigeonite basalt. Neal et al. (1994) found                                             Chemistry
+    that it grouped instead with the ilmenite basalts.                                               The chemical composition was determined by Rhodes
+                                                                   et al. (1977) and Nyquist et al. (1977 and 1979).
+   Mineralogy
+    Olivine: Minor fayalite.                                               Radiogenic age dating
+                                                    Nyquist et al. (1979) determined a Rb-Sr mineral
+   Pyroxene: Figure 7 shows large pyroxene crystals up                                                        isochron of 3.23 ± 0.07 b.y. (figure 6).
+--- age block 4; lines 31-43 ---
+(feldspathic basalt), on the basis of Sr isotopic analysis,                                                        Tridymite: Tridymite laths are up to 1 mm in length.
+    Nyquist et al. (1981) showed convincingly that 12031
+   was instead a pigeonite basalt. Neal et al. (1994) found                                             Chemistry
+    that it grouped instead with the ilmenite basalts.                                               The chemical composition was determined by Rhodes
+                                                                   et al. (1977) and Nyquist et al. (1977 and 1979).
+   Mineralogy
+    Olivine: Minor fayalite.                                               Radiogenic age dating
+                                                    Nyquist et al. (1979) determined a Rb-Sr mineral
+   Pyroxene: Figure 7 shows large pyroxene crystals up                                                        isochron of 3.23 ± 0.07 b.y. (figure 6).
+    to 3 cm long radiating outward from a common point.
+    Beaty et al. (1979) show a scatter diagram for pyroxene
+                                                 Processing
+   with many points  at ferroheddenbergite and
+
+=== PDF PAGE 3; CATEGORIES: age,chemistry,material ===
+--- chemistry block 1; lines 33-55 ---
+A11
+              10
+
+
+               8
+   TiO2
+               6
+
+               4        12031
+                                              A12
+               2                        A15
+
+
+               0
+                 0                5                10               15               20
+                MgO
+
+           Figure 5: Composition of 12031 compared with
+             that of other lunar basalts.
+--- material block 2; lines 20-35 ---
+0.1
+                La      Pr    Sm    Gd     Dy      Er     Yb                 Ce     Nd     Eu     Tb    Ho    Tm     Lu
+
+          Figure 4: Normalized rare-earth-element composi-
+            tion diagram for basalt 12031 (data from
+
+
+                   Lunar Basalts                            Figure 6: Rb-Sr mineral isochron for basalt
+              14                                                     12031 (from Nyquist et al. 1979).
+                                      A17
+              12
+
+                                A11
+              10
+--- age block 3; lines 61-73 ---
+S70-24366
+
+
+
+
+
+                                           Summary of Age Data for 12031
+                                                                                   Ar/Ar            Rb/Sr
+                                                                     Nyquist et al. 1979                   3.23 ± 0.07 b.y.
+                                                                  Caution: Change in Rb decay constant.
+
+
+Lunar Sample Compendium
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 12031.
+
+
+     reference Rhodes77  Nyquist77  Nyquist79   Neal2001
+     weight
+    SiO2 %   46.97   (c )
+    TiO2      2.88    (c )
+    Al2O3    12.63   (c )
+   FeO      16.78   (c )
+   MnO      0.26    (c )
+   MgO      7.13    (c )
+   CaO      12.25   (c )
+   Na2O     0.33     (a)
+   K2O      0.05    (c ) 0.05    (b) 0.0554   (b)
+   P2O5     0.05    (c )
+   S %      0.05    (c )
+    sum
+
+    Sc ppm   48.9     (a)                         49.5      (d)
+   V                                       128       (d)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 12031.
+
+
+     reference Rhodes77  Nyquist77  Nyquist79   Neal2001
+     weight
+    SiO2 %   46.97   (c )
+    TiO2      2.88    (c )
+    Al2O3    12.63   (c )
+   FeO      16.78   (c )
+   MnO      0.26    (c )
+--- references block 3; lines 65-74 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm                                      0.82      (d)
+   U ppm                                       0.22      (d)
+     technique  (a) INAA, (b) IDMS, (c ) XRF, (d) ICP-MS
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: material,references ===
+--- material block 1; lines 27-44 ---
+Neal C.R. (2001)   Interior of the moon: The presence of  Rhodes J.M., Blanchard D.P., Dungan M.A., Brannon J.C.,
+    garnet in the primitive deep lunar mantle. J. Geophys. Res.  and Rodgers K.V. (1977)  Chemistry of Apollo 12 mare
+    106, 27865-27885.                                             basalts: Magma types and fractionation processes. Proc. 8th
+                                                      Lunar Sci. Conf. 1305-1338.
+   Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-
+    G. and Schmitt R.A. (1994a) Basalt generation at the Apollo
+   12 site, Part 1: New data, classification and re-evaluation.
+    Meteoritics 29, 334-348.
+
+   Neal C.R., Hacker M.D., Snyder G.A., Taylor L.A., Liu Y.-
+    G. and Schmitt R.A. (1994b) Basalt generation at the Apollo
+   12 site, Part 2: Source heterogeneity, multiple melts and
+    crustal contamination. Meteoritics 29, 349-361.
+--- references block 2; lines 13-25 ---
+Figure 7: 12031,0 after subdivision. NASA S70-18937.
+                  Sample is 5 - 6 cm across.
+
+
+   References for 12031                               Nyquist L.E., Bansal B.M., Wooden J. and Wiesmann H.
+   Beaty D.W., Hill S.M.R., Albee A.L. and Baldridge W.S.   (1977) Sr-isotopic constraints on the peterogenesis of Apollo
+   (1979b) Apollo 12 feldspathic basalts 12031, 12038, and  12 mare basalts. Proc. 8th Lunar Sci. Conf. 1383-1415.
+   12072: Petrology, comparison and interpretations. Proc. 10th
+   Lunar Sci. Conf. 115-139.                               Nyquist L.E., Shih C.-Y., Wooden J.L., Bansal B.M. and
+                                                 Wiesmann H. (1979) The Sr and Nd isotopic record of
+   LSPET (1970) Preliminary examination of lunar samples  Apollo 12 basalts: Implications for lunar geochemical

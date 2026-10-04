@@ -1,0 +1,443 @@
+DOCUMENT_ID: 15401__compendium__62ee8cef7f
+ATLAS_SAMPLE_IDS: 15401
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15401.pdf
+SOURCE_PDF_SHA256: d91c6d155ed03c2fafa83194e9b08a4b043cb05074e1dbdb277d9f7d5a05e0b9
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 21-41 ---
+Introduction                                                         25
+  Station 6a was the highest point reached on the
+                                                                               20                      Apollo soils  Apennine Front (figure 1). A “soil sample” (15400-
+  15404) was collected from a “saddle” on the top of a                    15401
+  small boulder (15405 is a nearby piece of that boulder).          15                                FeO
+  As such, it is not a typical soil.
+                                                                               10
+
+  Petrography                                                            5
+  15401 is very immature (Is/FeO = 5.6) (Morris 1978)
+  and it has an unusual grain size distribution weight           0
+  towards large particles (figure 5). The average grain             0       5       10      15      20      25      30      35
+                                                            Al2O3   size distribution of 15401 is 89 microns.
+
+                                                               Figure 2: Composition of 15401 compared with  The coarse fines (4-10 mm) were cataloged by Powell
+                                                                  other Apollo soils.
+  (1972) and partially studied by Ryder and Sherman
+--- material block 2; lines 1-8 ---
+15401
+                                           Soil
+                                          152.7 grams
+
+                                              Ski Hadley Delta
+--- material block 3; lines 19-39 ---
+Figure 1: Location of samples 15401 and 15405 from top of boulder at station 6a at
+                   the base of the Apennine Front. AS15-90-12187.
+
+
+  Introduction                                                         25
+  Station 6a was the highest point reached on the
+                                                                               20                      Apollo soils  Apennine Front (figure 1). A “soil sample” (15400-
+  15404) was collected from a “saddle” on the top of a                    15401
+  small boulder (15405 is a nearby piece of that boulder).          15                                FeO
+  As such, it is not a typical soil.
+                                                                               10
+
+  Petrography                                                            5
+  15401 is very immature (Is/FeO = 5.6) (Morris 1978)
+  and it has an unusual grain size distribution weight           0
+  towards large particles (figure 5). The average grain             0       5       10      15      20      25      30      35
+                                                            Al2O3   size distribution of 15401 is 89 microns.
+
+                                                               Figure 2: Composition of 15401 compared with  The coarse fines (4-10 mm) were cataloged by Powell
+                                                                  other Apollo soils.
+  (1972) and partially studied by Ryder and Sherman
+
+=== PDF PAGE 2; CATEGORIES: age,chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 15-40 ---
+40
+              20    15401                      Lunar Soils
+
+                 0
+                   0          20          40          60          80         100         120
+
+                         maturity (Is/FeO)
+
+      Figure 3: Carbon content and maturity of 15401            Figure 4: Normalized rare-earth-element diagram
+      compared with other Apollo soils.                              for 15401 (Korotev 1987) and 15404,3 (Helmke et al.
+                                                                 1973).
+
+  (1989). KREEP particle (15404,3) is partly glass
+  (Helmke et al. 1973) while 15404,5 is a KREEP basalt.
+
+  Chemistry
+  Keith et al. (1972), Korotev (1987), Taylor et al. (1973),
+  Ganapathy et al. (1973) and Masuda et al. (1972)
+  determined the chemical composition of 15401 (table
+  1 and figures 2 and 4). The trace element content is
+  dominated by the KREEP component (figure 4).
+
+  Moore et al. (1973) reported only 29 ppm carbon and
+  DesMarais et al. (1973) found only 21 ppm C,
+   consistent with the very low maturity (figure 3).              Average grain size = 89 microns
+--- mineralogy block 2; lines 21-33 ---
+maturity (Is/FeO)
+
+      Figure 3: Carbon content and maturity of 15401            Figure 4: Normalized rare-earth-element diagram
+      compared with other Apollo soils.                              for 15401 (Korotev 1987) and 15404,3 (Helmke et al.
+                                                                 1973).
+
+  (1989). KREEP particle (15404,3) is partly glass
+  (Helmke et al. 1973) while 15404,5 is a KREEP basalt.
+
+  Chemistry
+  Keith et al. (1972), Korotev (1987), Taylor et al. (1973),
+  Ganapathy et al. (1973) and Masuda et al. (1972)
+  determined the chemical composition of 15401 (table
+--- mineralogy block 3; lines 45-62 ---
+Other Studies
+  Lipschutz et al. (1973) determined the abundance and
+   isotopic ratio of vanadium.
+
+  Hart et al. (1972) determined the density of solar flare
+   tracks in green glass beads and amber shards (figure
+   6).
+                                                               Figure 5: Grain size distribution for 15400 (Graf
+                                                                 1993).
+  Stone et al. (1982) studied 10 green glass beads and
+   several other glass particles from 15401.
+                                                Processing
+  Jordan et al. (1974) determined the concentration and  15400 was returned in a sample collection bag (#6)
+   isotopic ratio of the rare gasses in 15401.              placed in ALSRC#2 (which did not seal).
+--- material block 4; lines 22-59 ---
+Figure 3: Carbon content and maturity of 15401            Figure 4: Normalized rare-earth-element diagram
+      compared with other Apollo soils.                              for 15401 (Korotev 1987) and 15404,3 (Helmke et al.
+                                                                 1973).
+
+  (1989). KREEP particle (15404,3) is partly glass
+  (Helmke et al. 1973) while 15404,5 is a KREEP basalt.
+
+  Chemistry
+  Keith et al. (1972), Korotev (1987), Taylor et al. (1973),
+  Ganapathy et al. (1973) and Masuda et al. (1972)
+  determined the chemical composition of 15401 (table
+  1 and figures 2 and 4). The trace element content is
+  dominated by the KREEP component (figure 4).
+
+  Moore et al. (1973) reported only 29 ppm carbon and
+  DesMarais et al. (1973) found only 21 ppm C,
+   consistent with the very low maturity (figure 3).              Average grain size = 89 microns
+
+  Cosmogenic isotopes and exposure ages
+  Keith et al. (1972) determined the cosmic-ray-induced
+   activity as 22Na = 58 dpm/kg, 26Al = 73 dpm/kg, 54Mn
+  = 29 dpm/kg, 56Co = 12 dpm/kg and 46Sc = 4.1 dpm/kg.
+
+  Other Studies
+  Lipschutz et al. (1973) determined the abundance and
+   isotopic ratio of vanadium.
+
+  Hart et al. (1972) determined the density of solar flare
+   tracks in green glass beads and amber shards (figure
+   6).
+                                                               Figure 5: Grain size distribution for 15400 (Graf
+                                                                 1993).
+  Stone et al. (1982) studied 10 green glass beads and
+   several other glass particles from 15401.
+                                                Processing
+  Jordan et al. (1974) determined the concentration and  15400 was returned in a sample collection bag (#6)
+   isotopic ratio of the rare gasses in 15401.              placed in ALSRC#2 (which did not seal).
+--- age block 5; lines 36-48 ---
+Moore et al. (1973) reported only 29 ppm carbon and
+  DesMarais et al. (1973) found only 21 ppm C,
+   consistent with the very low maturity (figure 3).              Average grain size = 89 microns
+
+  Cosmogenic isotopes and exposure ages
+  Keith et al. (1972) determined the cosmic-ray-induced
+   activity as 22Na = 58 dpm/kg, 26Al = 73 dpm/kg, 54Mn
+  = 29 dpm/kg, 56Co = 12 dpm/kg and 46Sc = 4.1 dpm/kg.
+
+  Other Studies
+  Lipschutz et al. (1973) determined the abundance and
+   isotopic ratio of vanadium.
+--- treatment block 6; lines 15-29 ---
+40
+              20    15401                      Lunar Soils
+
+                 0
+                   0          20          40          60          80         100         120
+
+                         maturity (Is/FeO)
+
+      Figure 3: Carbon content and maturity of 15401            Figure 4: Normalized rare-earth-element diagram
+      compared with other Apollo soils.                              for 15401 (Korotev 1987) and 15404,3 (Helmke et al.
+                                                                 1973).
+
+  (1989). KREEP particle (15404,3) is partly glass
+  (Helmke et al. 1973) while 15404,5 is a KREEP basalt.
+--- treatment block 7; lines 33-45 ---
+determined the chemical composition of 15401 (table
+  1 and figures 2 and 4). The trace element content is
+  dominated by the KREEP component (figure 4).
+
+  Moore et al. (1973) reported only 29 ppm carbon and
+  DesMarais et al. (1973) found only 21 ppm C,
+   consistent with the very low maturity (figure 3).              Average grain size = 89 microns
+
+  Cosmogenic isotopes and exposure ages
+  Keith et al. (1972) determined the cosmic-ray-induced
+   activity as 22Na = 58 dpm/kg, 26Al = 73 dpm/kg, 54Mn
+  = 29 dpm/kg, 56Co = 12 dpm/kg and 46Sc = 4.1 dpm/kg.
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+Table 1. Chemical composition of 15401.
+            86 g                                                                 15404,3     15404,5     Green Glass
+   reference  Keith72     Korotev87  Taylor73    Ganapathy73     Masuda72        Helmke73   Ryder93     Taylor73
+   weight                                                        KREEP    KREEP basalt
+   SiO2 %                                                                                glass        52.2        (f)  45.3        (b)
+   TiO2                   1.08    (a)                                                                1.78        (f)  0.4         (b)
+  Al2O3                  12.1    (a)                                                               15.5        (f)  7.52        (b)
+  FeO                   16.3    (a)                                                                  9.7         (f)  20          (b)
+  MnO                   0.22    (a)                                                                0.14        (f)  0.22        (b)
+  MgO                   14.8    (a)                                                              10.95      (f)  17.1        (b)
+  CaO                    8.3     (a)                                                                9.27        (f)  8.43        (b)
+  Na2O                  0.35    (a)                                                                0.66        (f)  0.13        (b)
+  K2O      0.172    (c )                                                                          0.48        (f)  0.06        (b)
+  P2O5                                                                                           0.31        (f)
+  S %
+  sum
+
+  Sc ppm                29.8    (a) 14        (b)                                       32.2      (a) 19.6      (a) 30          (b)
+  V                   125     (a) 102      (b)                                                         160        (b)
+--- mineralogy block 2; lines 1-11 ---
+Table 1. Chemical composition of 15401.
+            86 g                                                                 15404,3     15404,5     Green Glass
+   reference  Keith72     Korotev87  Taylor73    Ganapathy73     Masuda72        Helmke73   Ryder93     Taylor73
+   weight                                                        KREEP    KREEP basalt
+   SiO2 %                                                                                glass        52.2        (f)  45.3        (b)
+   TiO2                   1.08    (a)                                                                1.78        (f)  0.4         (b)
+  Al2O3                  12.1    (a)                                                               15.5        (f)  7.52        (b)
+  FeO                   16.3    (a)                                                                  9.7         (f)  20          (b)
+  MnO                   0.22    (a)                                                                0.14        (f)  0.22        (b)
+  MgO                   14.8    (a)                                                              10.95      (f)  17.1        (b)
+  CaO                    8.3     (a)                                                                9.27        (f)  8.43        (b)
+--- material block 3; lines 1-10 ---
+Table 1. Chemical composition of 15401.
+            86 g                                                                 15404,3     15404,5     Green Glass
+   reference  Keith72     Korotev87  Taylor73    Ganapathy73     Masuda72        Helmke73   Ryder93     Taylor73
+   weight                                                        KREEP    KREEP basalt
+   SiO2 %                                                                                glass        52.2        (f)  45.3        (b)
+   TiO2                   1.08    (a)                                                                1.78        (f)  0.4         (b)
+  Al2O3                  12.1    (a)                                                               15.5        (f)  7.52        (b)
+  FeO                   16.3    (a)                                                                  9.7         (f)  20          (b)
+  MnO                   0.22    (a)                                                                0.14        (f)  0.22        (b)
+  MgO                   14.8    (a)                                                              10.95      (f)  17.1        (b)
+--- references block 4; lines 1-9 ---
+Table 1. Chemical composition of 15401.
+            86 g                                                                 15404,3     15404,5     Green Glass
+   reference  Keith72     Korotev87  Taylor73    Ganapathy73     Masuda72        Helmke73   Ryder93     Taylor73
+   weight                                                        KREEP    KREEP basalt
+   SiO2 %                                                                                glass        52.2        (f)  45.3        (b)
+   TiO2                   1.08    (a)                                                                1.78        (f)  0.4         (b)
+  Al2O3                  12.1    (a)                                                               15.5        (f)  7.52        (b)
+  FeO                   16.3    (a)                                                                  9.7         (f)  20          (b)
+  MnO                   0.22    (a)                                                                0.14        (f)  0.22        (b)
+--- references block 5; lines 64-73 ---
+Os ppb
+     Ir ppb               <3      (a)              2.3     1.94    (e)
+   Pt ppb
+  Au ppb               25      (a)             0.99    1.06    (e)
+  Th ppm    3.4       (c ) 1.11    (a) 2.93      (b)                                                   9.21      (a) 0.21        (b)
+  U ppm     0.9       (c ) 0.31    (a) 0.74      (b) 0.91    0.92    (e)                                 2.33      (a)
+   technique:  (a) INAA, (b) SSMS, (c ) radiation counting, (d) IDMS, (e) RNAA, (f) fused-bead e-probe
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 35-47 ---
+Des Marais D.J., Hayes J.M. and Meinschein W.G. (1973a)
+  The distribution in lunar soils of carbon released by pyrolysis.   Jordan J.I., Heyman D. and Lakatos S. (1974)  Inert-gas
+   Proc. 4th Lunar Sci. Conf. 1543-1558.                       patterns in regolith at Apollo 15 landing site.  Geochim.
+                                                    Cosmochim. Acta 38, 65-78.
+  Ganapathy R., Morgan J.W., Krahenbuhl U. and Anders E.
+   (1973) Ancient meteoritic components in lunar highland   Keith J.E., Clark R.S. and Richardson K.A. (1972) Gamma-
+   rocks: Clues from trace elements in Apollo 15 and 16   ray measurements of Apollo 12, 14 and 15 lunar samples.
+   samples. Proc. 4th Lunar Sci. Conf. 1239-1261.            Proc. 3rd Lunar Sci. Conf. 1671-1680.
+
+  Graf .C. (1993) Lunar Soils Grain Size Catalog. NASA   Korotev R.L. (1987) Mixing levels, the Apennine Front soil
+  Reference Pub. 1265, March 1993                       component, and compositional trends in the Apollo 15 soils.
+                                                            Proc. 17th Lunar Planet. Sci. Conf. E411-431.
+   Hart H.R., Comstock G.M. and Fleischer R.L. (1972) The
+--- chemistry block 2; lines 51-62 ---
+Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Proc. 4th Lunar Sci. Conf. 1369-1378.
+
+  Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.  LSPET (1972)  Apollo 15 Lunar samples – preliminary
+  Space Phys. 13, 567-587.                                     description. Science 175, 363-375.
+
+  Helmke P.A., Blanchard D.P., Haskin L.A., Telander K.,  Masuda A., Nakamura N., Kurasawa H. and Tanaka T. (1972)
+  Weiss C. and Jacobs J.W. (1973) Major and trace elements   Precise determination of rare-earth elements in the Apollo
+   in igneous rocks from Apollo 15. The Moon 8, 129-148.    14 and 15 samples. Proc. 3rd Lunar Sci. Conf. 1307-1313.
+
+
+Lunar Sample Compendium
+C Meyer 2010
+--- material block 3; lines 1-9 ---
+C                                 Meyer     15400                   15405                               2010
+                       153 g                    513 g
+                                      reserve        < 1 mm                 1 - 2 mm   2 - 4 mm     4 - 10 mm       breccia
+
+                      15400      15401           15402   15403  15404
+                          47.5 g       86.4 g             4.8 g    6.1 g    7.9 g
+
+
+                                     ,1                  ,3     ,4     ,5
+--- material block 4; lines 25-50 ---
+15. MSC 03209
+                                                               Figure 6: Track density in particles from 15401
+  Cadenhead D.A., Brown M.G., Rice D.K. and Stetter J.R.        (Hart et al. 1972).
+   (1977) Some surface area and porosity characterizations of
+   lunar soils. Proc. 8th Lunar Sci. Conf. 1291-1303.
+
+   Carr M.H. and Meyer C.E. (1974) The regolith at the Apollo   Holland P.T., Simoneit B.R., Wszolek P.C. and Burlingame
+  15 site and its stratigraphic implications. Geochim.   A.L. (1972a) Compounds of carbon and other volatile
+  Cosmochim. Acta 38, 1183-1197.                         elements in Apollo 14 and 15 samples. Proc. 3rd Lunar Sci.
+                                                           Conf. 2131-2147.
+  Des Marais D.J., Hayes J.M. and Meinschein W.G. (1973a)
+  The distribution in lunar soils of carbon released by pyrolysis.   Jordan J.I., Heyman D. and Lakatos S. (1974)  Inert-gas
+   Proc. 4th Lunar Sci. Conf. 1543-1558.                       patterns in regolith at Apollo 15 landing site.  Geochim.
+                                                    Cosmochim. Acta 38, 65-78.
+  Ganapathy R., Morgan J.W., Krahenbuhl U. and Anders E.
+   (1973) Ancient meteoritic components in lunar highland   Keith J.E., Clark R.S. and Richardson K.A. (1972) Gamma-
+   rocks: Clues from trace elements in Apollo 15 and 16   ray measurements of Apollo 12, 14 and 15 lunar samples.
+   samples. Proc. 4th Lunar Sci. Conf. 1239-1261.            Proc. 3rd Lunar Sci. Conf. 1671-1680.
+
+  Graf .C. (1993) Lunar Soils Grain Size Catalog. NASA   Korotev R.L. (1987) Mixing levels, the Apennine Front soil
+  Reference Pub. 1265, March 1993                       component, and compositional trends in the Apollo 15 soils.
+                                                            Proc. 17th Lunar Planet. Sci. Conf. E411-431.
+   Hart H.R., Comstock G.M. and Fleischer R.L. (1972) The
+   particle track record of Fra Mauro.  Proc. 3rd Lunar Sci.   Lipschutz M.E., Balsiger H., Rey P., Pelly I.Z. and Mendia
+   Conf. 2831-2844.                               M.D. (1973)  Vanadium isotopic composition and
+                                                           ferromagnesian element contents of three Apollo 15 samples.
+--- references block 5; lines 13-25 ---
+,20    ,21     ,22    ,23
+                                            2.1 g   2.1 g   2.1 g  2.1 g
+
+
+
+
+  References for 15401
+  Basu A. and McKay D.S. (1979)  Petrography and
+  provenance of Apollo 15 soils. Proc. 10th Lunar Sci. Conf.
+  1413-1424.
+
+   Butler (1972) Lunar Sample Information Catalog: Apollo
+   15. MSC 03209
+--- references block 6; lines 39-51 ---
+Ganapathy R., Morgan J.W., Krahenbuhl U. and Anders E.
+   (1973) Ancient meteoritic components in lunar highland   Keith J.E., Clark R.S. and Richardson K.A. (1972) Gamma-
+   rocks: Clues from trace elements in Apollo 15 and 16   ray measurements of Apollo 12, 14 and 15 lunar samples.
+   samples. Proc. 4th Lunar Sci. Conf. 1239-1261.            Proc. 3rd Lunar Sci. Conf. 1671-1680.
+
+  Graf .C. (1993) Lunar Soils Grain Size Catalog. NASA   Korotev R.L. (1987) Mixing levels, the Apennine Front soil
+  Reference Pub. 1265, March 1993                       component, and compositional trends in the Apollo 15 soils.
+                                                            Proc. 17th Lunar Planet. Sci. Conf. E411-431.
+   Hart H.R., Comstock G.M. and Fleischer R.L. (1972) The
+   particle track record of Fra Mauro.  Proc. 3rd Lunar Sci.   Lipschutz M.E., Balsiger H., Rey P., Pelly I.Z. and Mendia
+   Conf. 2831-2844.                               M.D. (1973)  Vanadium isotopic composition and
+                                                           ferromagnesian element contents of three Apollo 15 samples.
+  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Proc. 4th Lunar Sci. Conf. 1369-1378.
+
+=== PDF PAGE 5; CATEGORIES: chemistry,material,mineralogy,references,treatment ===
+--- chemistry block 1; lines 16-28 ---
+Morris R.V. (1976) Surface exposure indicies of lunar soils:
+  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-
+   335.
+
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+   soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Planet . Sci. Conf. 2287-2298.
+
+  Morris R.V. (1980) Origins and size distribution of metallic
+   iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+   Sci. Conf. 1697-1712.
+--- mineralogy block 2; lines 1-13 ---
+McKay D.S., Clanton U.S. and Ladle G. (1973) Scanning  The Apennine Front.  In The Apollo 15 Lunar Samples,
+   electron microscope study of Apollo 15 green glass. Proc.   262-264.
+    4th Lunar Sci. Conf. 225-238.
+                                                            Taylor S.R., Gorton M.P., Muir P., Nance W., Rudowski R.
+  Meyer C., McKay D.S., Anderson D.H. and Butler P. (1975)  and Ware N. (1973b)  Lunar highlands composition:
+  The source of sublimates on the Apollo 15 green and Apollo  Apennine Front. Proc. 4th Lunar Sci. Conf. 1445-1459.
+  17 orange glass samples. Proc. 6th Lunar Sci. Conf. 1673-
+  1699.                                               Walker R.J. and Papike J.J. (1981) The Apollo 15 regolith:
+                                                      Chemical modeling and mare/highland mixing. Proc. 12th
+  Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total  Lunar Planet. Sci. Conf. 509-517.
+  carbon contents of Apollo 15 and 16 lunar samples. Proc.
+    4th Lunar Sci. Conf. 1613-1923.
+--- mineralogy block 3; lines 32-44 ---
+Ryder G. and Sherman S.B. (1989) The Apollo 15 Coarse
+   Fines. Curators Office #81, JSC#24035
+
+   Stone C.D., Taylor L.A., McKay D.S. and Morris R.V. (1982)
+  Ferromagnetic resonance intensity: A rapid method for
+   determining lunar glass bead origin. Proc. 13th Lunar Planet.
+   Sci. Conf. in J. Geophys. Res. 87, A182-A196.
+
+  Swann G.A, Hait M.H., Schaber G.G., Freeman V.L., Ulrich
+   G.E., Wolfe E.W., Reed V.S. and Sutton R.L.  (1971)
+   Preliminary description of Apollo 15 sample environments.
+   U.S.G.S. Interagency report : 36.
+--- material block 4; lines 2-14 ---
+electron microscope study of Apollo 15 green glass. Proc.   262-264.
+    4th Lunar Sci. Conf. 225-238.
+                                                            Taylor S.R., Gorton M.P., Muir P., Nance W., Rudowski R.
+  Meyer C., McKay D.S., Anderson D.H. and Butler P. (1975)  and Ware N. (1973b)  Lunar highlands composition:
+  The source of sublimates on the Apollo 15 green and Apollo  Apennine Front. Proc. 4th Lunar Sci. Conf. 1445-1459.
+  17 orange glass samples. Proc. 6th Lunar Sci. Conf. 1673-
+  1699.                                               Walker R.J. and Papike J.J. (1981) The Apollo 15 regolith:
+                                                      Chemical modeling and mare/highland mixing. Proc. 12th
+  Moore C.B., Lewis C.F. and Gibson E.K. (1973)  Total  Lunar Planet. Sci. Conf. 509-517.
+  carbon contents of Apollo 15 and 16 lunar samples. Proc.
+    4th Lunar Sci. Conf. 1613-1923.
+
+  Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+--- material block 5; lines 20-32 ---
+Morris R.V. (1978) The surface exposure (maturity) of lunar
+   soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Planet . Sci. Conf. 2287-2298.
+
+  Morris R.V. (1980) Origins and size distribution of metallic
+   iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+   Sci. Conf. 1697-1712.
+
+  Powell B.N. (1972)  Apollo 15 Coarse Fines (4-10mm):
+  Sample classification, description and inventory. MSC
+  03228 Curator’s Office JSC
+--- treatment block 6; lines 15-27 ---
+Handbook of Lunar Soils. JSC 19069
+
+  Morris R.V. (1976) Surface exposure indicies of lunar soils:
+  A comparative FMR study. Proc. 7th Lunar Sci. Conf. 315-
+   335.
+
+  Morris R.V. (1978) The surface exposure (maturity) of lunar
+   soils: Some concepts and Is/FeO compilation. Proc. 9th
+  Lunar Planet . Sci. Conf. 2287-2298.
+
+  Morris R.V. (1980) Origins and size distribution of metallic
+   iron particles in the lunar regolith. Proc. 11th Lunar Planet.
+   Sci. Conf. 1697-1712.
+--- references block 7; lines 31-43 ---
+03228 Curator’s Office JSC
+
+  Ryder G. and Sherman S.B. (1989) The Apollo 15 Coarse
+   Fines. Curators Office #81, JSC#24035
+
+   Stone C.D., Taylor L.A., McKay D.S. and Morris R.V. (1982)
+  Ferromagnetic resonance intensity: A rapid method for
+   determining lunar glass bead origin. Proc. 13th Lunar Planet.
+   Sci. Conf. in J. Geophys. Res. 87, A182-A196.
+
+  Swann G.A, Hait M.H., Schaber G.G., Freeman V.L., Ulrich
+   G.E., Wolfe E.W., Reed V.S. and Sutton R.L.  (1971)
+   Preliminary description of Apollo 15 sample environments.

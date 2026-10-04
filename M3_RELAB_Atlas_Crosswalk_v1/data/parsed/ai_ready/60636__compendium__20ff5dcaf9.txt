@@ -1,0 +1,167 @@
+DOCUMENT_ID: 60636__compendium__20ff5dcaf9
+ATLAS_SAMPLE_IDS: 60636
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60636.pdf
+SOURCE_PDF_SHA256: 0d6ce7e7c7666d4c53a2642665dc788d807542978cd29cf2b4c19043b975a76a
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,chemistry,material,mineralogy ===
+--- chemistry block 1; lines 7-19 ---
+Figure 1: Photo of 60636. Scale in cm.mm. S73-20496
+
+   Introduction
+   This rake sample was collected near the LM.  It has  Radiogenic age dating
+   one of the highest contents of trace elements in the                                                      Tera et al. (1974) determined the age of 60636 by U-
+   Apollo 16 collection.  It has been dated at 3.94 b.y.                                                Th-Pb to be about 3.94 b.y.
+
+   Petrography                                                 Processing
+   60636 is a clast-rich impact melt. It has many vugs.  There is only one thin section and it may not be
+   Warner et al. (1976) appear to have described one   representative.
+   of the plagioclase-rich clasts. A more complete
+--- mineralogy block 2; lines 13-25 ---
+one of the highest contents of trace elements in the                                                      Tera et al. (1974) determined the age of 60636 by U-
+   Apollo 16 collection.  It has been dated at 3.94 b.y.                                                Th-Pb to be about 3.94 b.y.
+
+   Petrography                                                 Processing
+   60636 is a clast-rich impact melt. It has many vugs.  There is only one thin section and it may not be
+   Warner et al. (1976) appear to have described one   representative.
+   of the plagioclase-rich clasts. A more complete
+   description, based on additional thin sections, is
+   required.
+
+   Compositional variation of Apollo 16 impact-melt
+   rocks is discussed by Korotev (1994).
+--- material block 3; lines 1-23 ---
+60636
+                        KREEP Breccia
+                                            35.7 grams
+
+
+
+
+
+                         Figure 1: Photo of 60636. Scale in cm.mm. S73-20496
+
+   Introduction
+   This rake sample was collected near the LM.  It has  Radiogenic age dating
+   one of the highest contents of trace elements in the                                                      Tera et al. (1974) determined the age of 60636 by U-
+   Apollo 16 collection.  It has been dated at 3.94 b.y.                                                Th-Pb to be about 3.94 b.y.
+
+   Petrography                                                 Processing
+   60636 is a clast-rich impact melt. It has many vugs.  There is only one thin section and it may not be
+   Warner et al. (1976) appear to have described one   representative.
+   of the plagioclase-rich clasts. A more complete
+   description, based on additional thin sections, is
+   required.
+
+   Compositional variation of Apollo 16 impact-melt
+--- age block 4; lines 6-20 ---
+Figure 1: Photo of 60636. Scale in cm.mm. S73-20496
+
+   Introduction
+   This rake sample was collected near the LM.  It has  Radiogenic age dating
+   one of the highest contents of trace elements in the                                                      Tera et al. (1974) determined the age of 60636 by U-
+   Apollo 16 collection.  It has been dated at 3.94 b.y.                                                Th-Pb to be about 3.94 b.y.
+
+   Petrography                                                 Processing
+   60636 is a clast-rich impact melt. It has many vugs.  There is only one thin section and it may not be
+   Warner et al. (1976) appear to have described one   representative.
+   of the plagioclase-rich clasts. A more complete
+   description, based on additional thin sections, is
+
+=== PDF PAGE 3; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 60636
+
+
+                                                                     reference  Laul 73    Warner76
+                                                                   weight
+                                                           SiO2 %              48       (b)
+                                                             TiO2       1.1      (a)  0.93     (b)
+                                                           Al2O3     20.3     (a)  24.2     (b)
+                                                   FeO       9.2      (a)  6.2      (b)
+                                              MnO       0.112   (a)  0.07     (b)
+                                              MgO      10       (a)  6.1      (b)
+                                                CaO       11.3     (a)  13.9     (b)
+                                                  Na2O      0.567   (a)  0.79     (b)
+                                                 K2O       0.4      (a)  0.73     (b)
+                                                   P2O5                  0.4      (b)
+                                                  S %
+                                                    sum
+
+                                                        Sc ppm    15       (a)
+                                                  V         35       (a)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 60636
+
+
+                                                                     reference  Laul 73    Warner76
+                                                                   weight
+                                                           SiO2 %              48       (b)
+                                                             TiO2       1.1      (a)  0.93     (b)
+                                                           Al2O3     20.3     (a)  24.2     (b)
+                                                   FeO       9.2      (a)  6.2      (b)
+                                              MnO       0.112   (a)  0.07     (b)
+--- references block 3; lines 63-72 ---
+Os ppb
+                                                                                                           Ir ppb
+                                                                     Pt ppb
+                                                      Au ppb
+                                                        Th ppm    5.2      (a)
+                                              U ppm     1.6      (a)
+                                                                      technique:  (a) INAA, (b) broad beam e probe
+
+Lunar Sample Compendium
+C Meyer 2012
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 15-27 ---
+Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                                In Geology of the Apollo 16 area, central lunar highlands.    Korotev R.L. (1994) Compositional variation in Apollo 16
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.    impact melt breccias and inferences for the geology and
+    bombardment history of the central highlands of the Moon.
+                                                            Tera F., Papanastassiou D.A. and Wasserburg G.J. (1974)    Geochim. Cosmochim. Acta 58, 3931-3969.
+                                                                 Isotopic evidence for a terminal lunar cataclysm.  Earth
+                                                                 Planet. Sci. Lett. 22, 1-21.    Laul J.C. and Schmitt R.A. (1973b) Chemical composition
+    of Apollo 15, 16, and 17 samples.  Proc. 4th  Lunar Sci.
+                                                       Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.    Conf. 1349-1367.
+                                                       and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+                                                       from the LM area and station 5.  Spec. Publ. #13, UNM   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                                        Institute of Meteoritics, Albuquerque. 87 pp.    and chemical description. Science 179, 23-34.
+--- material block 2; lines 7-30 ---
+Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                             LSPET (1972c) Preliminary examination of lunar samples.    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                                In Apollo 16 Preliminary Science Report. NASA SP-315,    Catalog. pp. 370.
+                                                      7-1—7-58.
+    Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16    Description, classification and inventory of 151 Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904    rake samples from the LM area and station 5.  Curator’s
+    Catalog, JSC.
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                                In Geology of the Apollo 16 area, central lunar highlands.    Korotev R.L. (1994) Compositional variation in Apollo 16
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.    impact melt breccias and inferences for the geology and
+    bombardment history of the central highlands of the Moon.
+                                                            Tera F., Papanastassiou D.A. and Wasserburg G.J. (1974)    Geochim. Cosmochim. Acta 58, 3931-3969.
+                                                                 Isotopic evidence for a terminal lunar cataclysm.  Earth
+                                                                 Planet. Sci. Lett. 22, 1-21.    Laul J.C. and Schmitt R.A. (1973b) Chemical composition
+    of Apollo 15, 16, and 17 samples.  Proc. 4th  Lunar Sci.
+                                                       Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.    Conf. 1349-1367.
+                                                       and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+                                                       from the LM area and station 5.  Spec. Publ. #13, UNM   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                                        Institute of Meteoritics, Albuquerque. 87 pp.    and chemical description. Science 179, 23-34.
+
+
+Lunar Sample Compendium
+C Meyer 2012
+--- references block 3; lines 1-12 ---
+Figure 4: Processing photo of 60636. Scale in mm. S73-20486
+
+
+
+
+   References for 60636
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                             LSPET (1972c) Preliminary examination of lunar samples.    16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                                In Apollo 16 Preliminary Science Report. NASA SP-315,    Catalog. pp. 370.
+                                                      7-1—7-58.
+    Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16    Description, classification and inventory of 151 Apollo 16

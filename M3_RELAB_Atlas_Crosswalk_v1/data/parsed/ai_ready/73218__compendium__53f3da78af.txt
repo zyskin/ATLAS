@@ -1,0 +1,62 @@
+DOCUMENT_ID: 73218__compendium__53f3da78af
+ATLAS_SAMPLE_IDS: 73218
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/73218.pdf
+SOURCE_PDF_SHA256: 9c2e5301915bc803b774677a396544e55e3b2dc16245f580567c871e7a713d62
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+73218
+                               Impact Melt Breccia
+                                            39.7 grams
+--- material block 2; lines 16-28 ---
+Figure 3: Map of station 3, Apollo 17.
+
+                                                 Introduction
+                                                73218 is a coherent impact melt rock similar to 73216
+                                                  and 73275 from the same location.
+
+                                                  Schneider and Horz (1974) determined the size
+                                                              distribution of micrometeorite craters.
+        Figure 2: Location of 73218 at station 3, Apollo 17.
+        AS17-138-21160
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-13 ---
+Figure 4a: Photomicrographs of thin section               Figure 4b: Photomicrographs of thin section
+          73218,26 by C Meyer @50x.                            73218,27 by C Meyer @50x.
+
+
+   Petrography
+   Ryder (1993) gives the only description. He recognized                C Meyer                                                                                  2011     73218    that it was an impact melt rock, because the fine grained
+    matrix has needles of plagioclase that formed from a                    39.7 g
+    melt. However, before it was a melt it was a breccias,
+    because there are relict small clasts of anorthosites and                                                                      ,0        ,7     ,8       ,9       ,10
+    anorthositic breccias (figure 4 a, b).                                 PB   0.5 g   0.5 g   2 g                                                     36 g
+
+   Chemistry                                                                                     ,26     ,29                                                                                                                  0.2 g
+   None, but probably feldspathic.                                                            ,27
+--- material block 2; lines 1-13 ---
+Figure 4a: Photomicrographs of thin section               Figure 4b: Photomicrographs of thin section
+          73218,26 by C Meyer @50x.                            73218,27 by C Meyer @50x.
+
+
+   Petrography
+   Ryder (1993) gives the only description. He recognized                C Meyer                                                                                  2011     73218    that it was an impact melt rock, because the fine grained
+    matrix has needles of plagioclase that formed from a                    39.7 g
+    melt. However, before it was a melt it was a breccias,
+    because there are relict small clasts of anorthosites and                                                                      ,0        ,7     ,8       ,9       ,10
+    anorthositic breccias (figure 4 a, b).                                 PB   0.5 g   0.5 g   2 g                                                     36 g
+
+   Chemistry                                                                                     ,26     ,29                                                                                                                  0.2 g
+   None, but probably feldspathic.                                                            ,27
+
+=== PDF PAGE 3; CATEGORIES: references ===
+--- references block 1; lines 1-7 ---
+References for 73218
+    Butler P. (1973) Lunar Sample Information Catalog Apollo
+    17. Lunar Receiving Laboratory. MSC 03211 Curator’s
+    Catalog. pp. 447.
+
+   Hartung J.B., Horz F., Aitken F.K., Gault D.E. and Brownlee
+   D.E. (1973) The development of microcrater populations

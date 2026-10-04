@@ -1,0 +1,204 @@
+DOCUMENT_ID: 78231__compendium__1c1ab5e2e3
+ATLAS_SAMPLE_IDS: 78231,78250
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/78231.pdf
+SOURCE_PDF_SHA256: 67606c47935f7ce8d6a3a01fdf958dc0c9bed39440de849e482a357d467cd6a5
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 15-27 ---
+78230 and 78250 are soil samples collected when
+  pieces of the norite boulder (78235 – 78255) fell on
+   the regolith. These samples were returned in the same
+  bags with, and may contain pieces of, the norite.
+
+  Petrography
+  The maturity index of 78231 is Is/FeO = 81 (highly
+  mature).                                                                Figure 2: Map of station 8, Apollo 17.
+
+  Meyer (1973) cataloged the coarse fines and Meyer
+  (1994) summarized the research on the boulder samples
+  (78235 and 78255).
+--- mineralogy block 2; lines 10-24 ---
+78231
+
+  Introduction
+  78230 and 78250 are soil samples collected when
+  pieces of the norite boulder (78235 – 78255) fell on
+   the regolith. These samples were returned in the same
+  bags with, and may contain pieces of, the norite.
+
+  Petrography
+  The maturity index of 78231 is Is/FeO = 81 (highly
+  mature).                                                                Figure 2: Map of station 8, Apollo 17.
+
+  Meyer (1973) cataloged the coarse fines and Meyer
+--- material block 3; lines 1-38 ---
+78231 and 78250
+                                           Soil
+                                   210 and 50.6 grams
+
+
+
+
+
+               Figure 1: Map of Apollo 17 site showing location of coarse-fine particles (Meyer 1973). S73-24071.
+
+
+                                                                                          78231
+
+  Introduction
+  78230 and 78250 are soil samples collected when
+  pieces of the norite boulder (78235 – 78255) fell on
+   the regolith. These samples were returned in the same
+  bags with, and may contain pieces of, the norite.
+
+  Petrography
+  The maturity index of 78231 is Is/FeO = 81 (highly
+  mature).                                                                Figure 2: Map of station 8, Apollo 17.
+
+  Meyer (1973) cataloged the coarse fines and Meyer
+  (1994) summarized the research on the boulder samples
+  (78235 and 78255).
+
+  Chemistry
+  All of the station 8 soil samples have similar chemical
+  composition (see Korotev and Kremser 1992). This is
+  evidence that these “bag residues” may indeed be good
+   soil samples.
+
+
+
+
+
+Lunar Sample Compendium
+--- treatment block 4; lines 15-28 ---
+78230 and 78250 are soil samples collected when
+  pieces of the norite boulder (78235 – 78255) fell on
+   the regolith. These samples were returned in the same
+  bags with, and may contain pieces of, the norite.
+
+  Petrography
+  The maturity index of 78231 is Is/FeO = 81 (highly
+  mature).                                                                Figure 2: Map of station 8, Apollo 17.
+
+  Meyer (1973) cataloged the coarse fines and Meyer
+  (1994) summarized the research on the boulder samples
+  (78235 and 78255).
+
+  Chemistry
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-23 ---
+25
+   Table 1. Composition of 78231 and 78250.
+             78231      78250                                            20                      Apollo soils
+    reference  Korotev92   Korotev92
+    weight
+    SiO2                                                                      15     %                           FeO            78231    TiO2
+    Al2O3                                                                     10
+   FeO      12       (a)  12.5     (a)
+   MnO
+                                                                                    5
+   MgO
+   CaO
+   Na2O     0.377   (a)  0.375    (a)                                         0
+   K2O                                                                            0       5       10      15      20      25      30      35
+   P2O5                                                       Al2O3
+   S %
+   sum                                                           Figure 3: FeO content for 78231 compared with
+                                                                  composition of other Apollo soil samples.
+    Sc ppm   34.9     (a)  37.1     (a)
+   V
+    Cr       2300    (a) 2410    (a)
+   Co        35.5     (a)  38.2     (a)
+    Ni        260      (a)  180      (a)
+--- material block 2; lines 12-24 ---
+CaO
+   Na2O     0.377   (a)  0.375    (a)                                         0
+   K2O                                                                            0       5       10      15      20      25      30      35
+   P2O5                                                       Al2O3
+   S %
+   sum                                                           Figure 3: FeO content for 78231 compared with
+                                                                  composition of other Apollo soil samples.
+    Sc ppm   34.9     (a)  37.1     (a)
+   V
+    Cr       2300    (a) 2410    (a)
+   Co        35.5     (a)  38.2     (a)
+    Ni        260      (a)  180      (a)
+   Cu
+--- references block 3; lines 1-10 ---
+25
+   Table 1. Composition of 78231 and 78250.
+             78231      78250                                            20                      Apollo soils
+    reference  Korotev92   Korotev92
+    weight
+    SiO2                                                                      15     %                           FeO            78231    TiO2
+    Al2O3                                                                     10
+   FeO      12       (a)  12.5     (a)
+   MnO
+                                                                                    5
+--- references block 4; lines 65-74 ---
+Os ppb
+       Ir ppb     9.5      (a)  9.5      (a)
+    Pt ppb
+   Au ppb    2.8      (a)  4        (a)
+    Th ppm    1.37     (a)  1.46     (a)
+   U ppm     0.3      (a)  0.35     (a)
+     technique:  (a) INAA
+
+Lunar Sample Compendium
+C Meyer 2010
+
+=== PDF PAGE 3; CATEGORIES: chemistry,mineralogy,references,treatment ===
+--- chemistry block 1; lines 32-44 ---
+Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+                                                  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   Office, Houston
+  Space Phys. 13, 567-587.
+                                                          Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Korotev R.L. and Kremser D. (1992)  Compositional   soils: Some concepts and Is/FeO compilation. Proc. 9th
+   variations in Apollo 17 soils and their relationships to the  Lunar Sci. Conf. 2287-2297.
+  geology of the Taurus-Littrow site. Proc. 22nd Lunar Planet.
+   Sci. Conf. 275-301.                                    Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                             Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+  LSPET (1973a) Apollo 17 lunar samples : Chemical and   geologic investigation of the Taurus-Littrow Valley: Apollo
+   petrographic description. Science 182, 659-690.          17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+--- mineralogy block 2; lines 1-10 ---
+same bag         78235 - 199 g    C Meyer
+      2010             78230                          78236 - 93 g
+                   210 grams                                                  78237 - 57 g                  < 1 mm
+                                                                   norite
+
+   78230    78231             78232  78233  78234
+   83 g     123 g                 2.7 g   1.4 g   0.7 g
+    reserve                                                        4 - 10 mm
+
+             ,0      ,1       ,2      ,3
+--- treatment block 3; lines 31-43 ---
+Catalog. pp. 447.                                          Curator’s Office JSC 26088 pp. 644
+
+  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+                                                  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s
+  Heiken G.H. (1975) Petrology of lunar soils. Rev. Geophys.   Office, Houston
+  Space Phys. 13, 567-587.
+                                                          Morris R.V. (1978) The surface exposure (maturity) of lunar
+  Korotev R.L. and Kremser D. (1992)  Compositional   soils: Some concepts and Is/FeO compilation. Proc. 9th
+   variations in Apollo 17 soils and their relationships to the  Lunar Sci. Conf. 2287-2297.
+  geology of the Taurus-Littrow site. Proc. 22nd Lunar Planet.
+   Sci. Conf. 275-301.                                    Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+                                                             Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+  LSPET (1973a) Apollo 17 lunar samples : Chemical and   geologic investigation of the Taurus-Littrow Valley: Apollo
+--- references block 4; lines 22-34 ---
+reserve
+
+
+
+
+
+  References for 78250
+   Butler P. (1973) Lunar Sample Information Catalog Apollo
+   17. Lunar Receiving Laboratory. MSC 03211 Curator’s  Meyer C. (1994) Catalog of Apollo 17 rocks: Volume 4.
+   Catalog. pp. 447.                                          Curator’s Office JSC 26088 pp. 644
+
+  Heiken G.H. (1974) A catalog of lunar soils. JSC Curator   Morris R.V., Score R., Dardano C. and Heiken G. (1983)
+                                                  Handbook of Lunar Soils. Two Parts. JSC 19069. Curator’s

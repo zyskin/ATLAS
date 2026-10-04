@@ -1,0 +1,283 @@
+DOCUMENT_ID: 10073__compendium__a385b10da7
+ATLAS_SAMPLE_IDS: 10073
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10073.pdf
+SOURCE_PDF_SHA256: 016c3bed6bbaff71bf0825b069922276d8917427d2e960742f9d3e7823f74085
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material ===
+--- material block 1; lines 1-8 ---
+10073
+                                   Regolith Breccia
+                                           124.5 grams
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-7 ---
+Figure 2: Photomicrographs of thin section of 10073 showing large glass sphere (left side).
+        NASA S70-48989-990. Scale is 2.5 mm. Image on right is with crossed-Nicols.
+
+
+   Introduction
+   10073 is a friable, porous fragmental soil breccia, rather
+    typical of Apollo 11 regolith breccias. Broken pieces
+--- mineralogy block 2; lines 16-45 ---
+described Apollo 11 breccias.  Quaide and Bunch
+    (1970) determined the size distribution of grains in
+   10073 (figure 6).  Sclar (1970) found a surprisingly
+                                                               Figure 3: Reflected light image of matrix of 10073.
+    small amount of shocked material. Simon et al. (1984)                                                              S76-25831. Scale unknown.
+    included breccia 10073 in their comprehensive study
+    of Apollo 11 regolith breccias – their mode is given in
+    the table. They calculated that it had about 25 %                                                    found it was a mix of soil and high-K basalt. However,
+    highland component, but couldn’t directly identify that                                              Simon et al. (1984) could not identify such a high
+   many clasts of highland rock.                                                        percentage of highland component.
+
+   10073 contains glass spheres and lithic fragments set
+    in a fine matrix (figures 2 and 3). Many of the
+    fragments are mare basalt and minerals derived from
+   mare basalt.                                         Simon’s Mode for 10073
+                                                                 S    L
+   Chemistry                                              Mare Basalt                 3.4      13.5
+    Annell and Heltz (1970), Gast et al.(1970) , Goles et         Highland Component        0.3
+                                                                          Regolith breccia            2.4      2.8
+     al. (1970) and Rhodes and Blanchard (1981) analyzed                                                                           Agglutinate                 5.9      1.2
+   10073 (table 1). It has a composition similar to Apollo         Pyroxene                5        0.4
+   11 soil (figures 4 and 5).                                          Olivine                     0.1
+                                                                             Plagioclase                 2.7      0.4
+                                                                             Ilmenite                    1.4    Schonfeld and Meyer (1972) calculated that 10073 was
+                                                                 Orange glass                2.3      1.9
+    a mix of mare basalt with ~21 % gabboic anorthosite         Other glass               2        0.4
+   and ~1 % KREEP, while Rhodes and Blanchard (1981)         Matrix                     53.9 %
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-45 ---
+Figure 2: Photomicrographs of thin section of 10073 showing large glass sphere (left side).
+        NASA S70-48989-990. Scale is 2.5 mm. Image on right is with crossed-Nicols.
+
+
+   Introduction
+   10073 is a friable, porous fragmental soil breccia, rather
+    typical of Apollo 11 regolith breccias. Broken pieces
+   soon developed rounded corners (figure 1) and
+    considerable fine material (figure 8).
+
+    Fruland (1983) selected 10073 as one of the type
+    samples for regolith breccias.
+
+   Petrography
+   Dence et al. (1970) and McKay and Morrison (1971)
+    described Apollo 11 breccias.  Quaide and Bunch
+    (1970) determined the size distribution of grains in
+   10073 (figure 6).  Sclar (1970) found a surprisingly
+                                                               Figure 3: Reflected light image of matrix of 10073.
+    small amount of shocked material. Simon et al. (1984)                                                              S76-25831. Scale unknown.
+    included breccia 10073 in their comprehensive study
+    of Apollo 11 regolith breccias – their mode is given in
+    the table. They calculated that it had about 25 %                                                    found it was a mix of soil and high-K basalt. However,
+    highland component, but couldn’t directly identify that                                              Simon et al. (1984) could not identify such a high
+   many clasts of highland rock.                                                        percentage of highland component.
+
+   10073 contains glass spheres and lithic fragments set
+    in a fine matrix (figures 2 and 3). Many of the
+    fragments are mare basalt and minerals derived from
+   mare basalt.                                         Simon’s Mode for 10073
+                                                                 S    L
+   Chemistry                                              Mare Basalt                 3.4      13.5
+    Annell and Heltz (1970), Gast et al.(1970) , Goles et         Highland Component        0.3
+                                                                          Regolith breccia            2.4      2.8
+     al. (1970) and Rhodes and Blanchard (1981) analyzed                                                                           Agglutinate                 5.9      1.2
+   10073 (table 1). It has a composition similar to Apollo         Pyroxene                5        0.4
+   11 soil (figures 4 and 5).                                          Olivine                     0.1
+                                                                             Plagioclase                 2.7      0.4
+                                                                             Ilmenite                    1.4    Schonfeld and Meyer (1972) calculated that 10073 was
+                                                                 Orange glass                2.3      1.9
+    a mix of mare basalt with ~21 % gabboic anorthosite         Other glass               2        0.4
+   and ~1 % KREEP, while Rhodes and Blanchard (1981)         Matrix                     53.9 %
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material ===
+--- chemistry block 1; lines 1-22 ---
+25                                                                                1000
+           20                      Apollo soils                                        10073
+                                                        breccia                        100
+                                10073
+           15                                                                   sample/
+  FeO          10084                                                       chondrite
+                                                                                                    10
+           10
+
+
+            5                                                                                             1
+
+
+            0
+              0       5       10      15      20      25      30      35              0.1
+                                                                             Ce    Nd     Eu     Tb    Ho    Tm     Lu                     Al2O3                                        La      Pr    Sm    Gd     Dy      Er     Yb
+         Figure 4: Composition of 10073 compared with all          Figure 5: Normalized rare earth element diagram
+         Apollo soils.                                                    for breccia 10073 compared with soil 10084 (data
+                                                               from Wiesmann et al. 1975).
+
+   Other Studies
+   Gibson and Johnson (1971) reported that 10073 had
+--- material block 2; lines 1-9 ---
+25                                                                                1000
+           20                      Apollo soils                                        10073
+                                                        breccia                        100
+                                10073
+           15                                                                   sample/
+  FeO          10084                                                       chondrite
+                                                                                                    10
+           10
+--- material block 3; lines 12-29 ---
+0
+              0       5       10      15      20      25      30      35              0.1
+                                                                             Ce    Nd     Eu     Tb    Ho    Tm     Lu                     Al2O3                                        La      Pr    Sm    Gd     Dy      Er     Yb
+         Figure 4: Composition of 10073 compared with all          Figure 5: Normalized rare earth element diagram
+         Apollo soils.                                                    for breccia 10073 compared with soil 10084 (data
+                                                               from Wiesmann et al. 1975).
+
+   Other Studies
+   Gibson and Johnson (1971) reported that 10073 had
+   the same outgassing profile as the Apollo 11 soil, but
+    that the H/He ratio was less.
+
+   Processing
+   Apollo 11 samples were originally described and
+   cataloged in 1969 and “recataloged” by Kramer et al.
+   (1977). There are 10 thin sections.  It was returned in
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 10073.
+
+
+     reference Rhodes81  Wiesmann75         Goles70      Annell70
+     weight               Gast70
+    SiO2 %   41.6      (a)                       43.8
+    TiO2      7.76      (a)                        8.2
+    Al2O3    12.96    (a)                       14.2
+   FeO      15.8      (a)                       16.2
+   MnO      0.22      (a)                        0.2        (c ) 0.24      (e)
+   MgO      7.87      (a)                        7.8
+   CaO      11.96    (a)                       12.5
+   Na2O     0.45      (a) 0.47                  0.43       (c )
+   K2O      0.13      (a) 0.14     0.13    (b)
+   P2O5     0.12      (a)
+   S %
+    sum
+
+    Sc ppm                                 62         (c ) 21        (e)
+   V                                      82         (c ) 66        (e)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 10073.
+
+
+     reference Rhodes81  Wiesmann75         Goles70      Annell70
+     weight               Gast70
+    SiO2 %   41.6      (a)                       43.8
+    TiO2      7.76      (a)                        8.2
+    Al2O3    12.96    (a)                       14.2
+   FeO      15.8      (a)                       16.2
+   MnO      0.22      (a)                        0.2        (c ) 0.24      (e)
+--- references block 3; lines 65-75 ---
+Os ppb
+       Ir ppb
+     Pt ppb
+    Au ppb
+    Th ppm                         1.85    (b)
+   U ppm                           0.5      (b)  0.45       (c )
+     technique: (a) XRF, (b) IDMS, (c ) INAA, (d) emission spec.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+
+=== PDF PAGE 5; CATEGORIES: chemistry,mineralogy,references ===
+--- chemistry block 1; lines 1-11 ---
+Figure 8: More splits derived from 10073. Scale is in cm. S76-22590
+
+                                                   C Meyer      10073   References for 10073                                       2011
+                                                                                                        partial  124.5 grams   Annell C.S. and Helz A.W. (1970) Emission spectrographic
+    determination of trace elements in lunar samples from Apollo
+
+                                                                                                                 ,20    11. Proc. Apollo 11 Lunar Sci. Conf. 991-994.                       ,1      PB   ,12   ,24  ?
+                                                               58.4 g        11 g PB        0.3 g
+   Chao E.C.T., James O.B., Minkin J.A., Boreman J.A.,
+   Jackson E.D. and Raleigh C.B. (1970)  Petrology of                        ,26          ,31
+                                                            ,52     ,53                  ,32    ,59
+--- mineralogy block 2; lines 23-35 ---
+Chao E.C.T., Boreman J.A. and Desborough G.A. (1971)
+                                                      Fredriksson K., Nelen J. and melson W.G. (1970)   The petrology of unshocked and shocked Apollo 11 and
+                                                           Petrography and origin of lunar breccias and glasses. Proc.   Apollo 12 microbreccias.  Proc. Second Lunar Sci. Conf.
+                                                           Apollo 11 Lunar Science Conf. 419-432.   791-816.
+
+                                                        Funkhauser J.G., Jessberger E., Muller O. and Zahringer J.   Dence M.R., Douglas J.A.V., Plant A.G. and Traill R.J. (1970)
+                                                           (1971) Active and inert gasses in Apollo 12 and 11 samples    Petology, mineralogy and deformation of Apollo 11 samples.
+                                                                released by crushing at room temperature and heating at low    Proc. Apollo 11 Lunar Science Conf. 315-340.
+                                                              temperature. Proc. 2nd Lunar Sci. Conf. 1381-1396.
+--- references block 3; lines 1-9 ---
+Figure 8: More splits derived from 10073. Scale is in cm. S76-22590
+
+                                                   C Meyer      10073   References for 10073                                       2011
+                                                                                                        partial  124.5 grams   Annell C.S. and Helz A.W. (1970) Emission spectrographic
+    determination of trace elements in lunar samples from Apollo
+
+                                                                                                                 ,20    11. Proc. Apollo 11 Lunar Sci. Conf. 991-994.                       ,1      PB   ,12   ,24  ?
+                                                               58.4 g        11 g PB        0.3 g
+   Chao E.C.T., James O.B., Minkin J.A., Boreman J.A.,
+
+=== PDF PAGE 6; CATEGORIES: chemistry,material,mineralogy ===
+--- chemistry block 1; lines 1-16 ---
+Fruland Ruth M. (1983)  Regolith Breccia Workbook.   Schmitt H.H., Lofgren G., Swann G.A. and Simmons G.
+    Curatorial Branch Publication # 66. JSC 19045.            (1970) The Apollo 11 samples: Introduction. Proc. Apollo
+                                                         11 Lunar Science Conf. 1-54.
+    Ganapathy R., Keays R.R., Laul J.C. and Anders E. (1970)
+    Trace elements in Apollo 11 lunar rocks: Implications for   Sclar C.B. (1970) Shock metamorphism of lunar rocks and
+    meteorite influx and origin of moon. Proc. Apollo 11 Lunar   fines from tranquillity base. Proc. Apollo 11 Lunar Sci. Conf.
+     Sci. Conf. 1117-1142.                                   849-864.
+
+    Gast P.W., Hubbard N.J. and Wiesmann H. (1970b)   Sclar C.B. (1971)  Shock induced features of Apollo 12
+    Chemical composition and peterogenesis of basalts from   microbreccias. Proc. Second Lunar Sci. Conf. 817-832.
+    Tranquillity Base. Proc. Apollo 11 Lunar Sci. Conf. 1143-
+    1163.                                           Simon S.B., Papike J.J., Shearer C.K. and Laul J.C. (1983)
+                                                             Petrology of the Apollo 11 highland component. Proc. 14th
+    Gibson E.K. and Johnson S.M. (1971) Thermal analysis-  Lunar Planet. Sci. Conf. in J. Geophys. Res. 88, B103-138.
+    inorganic gas release studies of lunar samples.  Proc. 2nd
+    Lunar Sci. Conf. 1351-1366.                         Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+--- mineralogy block 2; lines 25-37 ---
+Laboratory, MSC 412 pp
+
+    Kramer F.E., Twedell D.B. and Walton W.J.A. (1977) Apollo
+    11 Lunar Sample Information Catalogue (revised).
+    Curator’s Office, JSC 12522
+
+    Lofgren G.E. (1971b)  Devitrified glass fragments from
+    Apollo 11 and Apollo 12 lunar samples.  Proc. 2nd Lunar
+     Sci. Conf. 949-955
+
+   LSPET (1969) Preliminary examination of lunar samples
+    from Apollo 11. Science 165, 1211-1227.
+--- material block 3; lines 1-7 ---
+Fruland Ruth M. (1983)  Regolith Breccia Workbook.   Schmitt H.H., Lofgren G., Swann G.A. and Simmons G.
+    Curatorial Branch Publication # 66. JSC 19045.            (1970) The Apollo 11 samples: Introduction. Proc. Apollo
+                                                         11 Lunar Science Conf. 1-54.
+    Ganapathy R., Keays R.R., Laul J.C. and Anders E. (1970)
+    Trace elements in Apollo 11 lunar rocks: Implications for   Sclar C.B. (1970) Shock metamorphism of lunar rocks and
+    meteorite influx and origin of moon. Proc. Apollo 11 Lunar   fines from tranquillity base. Proc. Apollo 11 Lunar Sci. Conf.
+     Sci. Conf. 1117-1142.                                   849-864.
+--- material block 4; lines 11-23 ---
+Tranquillity Base. Proc. Apollo 11 Lunar Sci. Conf. 1143-
+    1163.                                           Simon S.B., Papike J.J., Shearer C.K. and Laul J.C. (1983)
+                                                             Petrology of the Apollo 11 highland component. Proc. 14th
+    Gibson E.K. and Johnson S.M. (1971) Thermal analysis-  Lunar Planet. Sci. Conf. in J. Geophys. Res. 88, B103-138.
+    inorganic gas release studies of lunar samples.  Proc. 2nd
+    Lunar Sci. Conf. 1351-1366.                         Simon S.B., Papike J.J. and Shearer C.K. (1984) Petrology
+                                                                of Apollo 11 regolith breccias. Proc. 15th Lunar Planet. Sci.
+    Goles G., Randle K., Osawa M., Schmitt R.A., Wakita H.,   Conf. in J. Geophys. Res. 89, C109-132.
+   Ehmann W.D. and Morgan J.W.  (1970)  Elemental
+    abundances by instrumental activation analyses in chips from
+    27 lunar rocks. Proc. Apollo 11 Lunar Sci. Conf. 1165-1176.
+
+    King E.A. and a cast of thousands (1969) Lunar Sample

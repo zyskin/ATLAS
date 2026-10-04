@@ -1,0 +1,77 @@
+DOCUMENT_ID: 70018__compendium__d134a294b8
+ATLAS_SAMPLE_IDS: 70018
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/70018.pdf
+SOURCE_PDF_SHA256: ea1da578cb6e65e36424d2bef3a7092f9dbe1ae6a89d88ca0cc6bf2fc7bc4304
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 8-31 ---
+Figure 1: Photo of 70018. S73-16148. Cube is 1 cm
+
+
+   Introduction
+   Sample 70018 was collected near the Lunar Module,
+   probably from one of the glass-bottom craters
+   mentioned by the astronauts (Wolf et al. 1980). It was
+   brought back as a “loose rock” in SCB1. There are
+   probably more pieces of it in the residue of this bag
+   (71010).
+
+     It has not been studied.
+
+   Petrography
+   The photos of 70018 show that it is a coherent regolith
+   breccias with white clasts in a black matrix.  It has a
+    thin glass coating whish is reported to have a few zap
+    pits (Butler 1973).
+
+  A one large while clast outcrops on the T1 surface
+    (figure 1).
+--- material block 2; lines 1-34 ---
+70018
+                                   Regolith Breccia
+                                            51.9 grams
+
+
+
+
+
+                           Figure 1: Photo of 70018. S73-16148. Cube is 1 cm
+
+
+   Introduction
+   Sample 70018 was collected near the Lunar Module,
+   probably from one of the glass-bottom craters
+   mentioned by the astronauts (Wolf et al. 1980). It was
+   brought back as a “loose rock” in SCB1. There are
+   probably more pieces of it in the residue of this bag
+   (71010).
+
+     It has not been studied.
+
+   Petrography
+   The photos of 70018 show that it is a coherent regolith
+   breccias with white clasts in a black matrix.  It has a
+    thin glass coating whish is reported to have a few zap
+    pits (Butler 1973).
+
+  A one large while clast outcrops on the T1 surface
+    (figure 1).
+
+
+                                                               Figure 2: Another view of 70018. S73-15329
+
+=== PDF PAGE 2; CATEGORIES: references ===
+--- references block 1; lines 8-20 ---
+,10
+                                            TS
+
+
+
+                                                    References for 70018
+   Chemistry                                                             Butler P. (1973) Lunar Sample Information Catalog
+   None reported, although it has been allocated to Randy                                                       Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+    Korotev.                                                  Curator’s Catalog. pp. 447.
+
+   Processing                                         Muehlberger et al. (1973) Documentation and environment
+   There is only 1 thin section for 70018.                   of the Apollo 17 samples: A preliminary report. Astrogeology

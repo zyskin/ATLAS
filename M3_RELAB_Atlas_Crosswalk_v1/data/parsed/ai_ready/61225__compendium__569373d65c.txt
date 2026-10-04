@@ -1,0 +1,116 @@
+DOCUMENT_ID: 61225__compendium__569373d65c
+ATLAS_SAMPLE_IDS: 61225
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61225.pdf
+SOURCE_PDF_SHA256: 5d794f2ca5df11c211c911d64d6d5cec67788d433eee2d9aab6d27431d0bdd68
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,references ===
+--- material block 1; lines 1-35 ---
+61225
+                               Impact melt Breccia
+                                            3.52 grams
+
+
+
+
+
+                          Figure 1: Photo of 61225. Sample is 2 cm across. S72-41306.
+
+
+   Introduction                            Summary of Age Data for 61225
+   61225 is a small chip of white material from the                                Ar/Ar
+                                                        Norman et al. 2006         3.88 ± 0.03 b.y
+   mysterious white soil collected from the trench at Plum                                                                                                 3.91 ± 0.02
+   Crater (see section on 61221). It has been dated at 3.9
+    b.y. by the Ar/Ar technique.
+
+   Petrography
+   Norman and Ryder (1980) give a very brief description
+   of this particle. It was covered with chalky-white dust
+   on most sides. However, it appeared igneous to them.
+
+   Marvin (1972) cataloged 4 – 10 mm coarse-fine
+    particles from 61224 (and 61244) and Marvin and
+   Mosie (1980) created a catalog of 1 - 4 mm coarse-
+    fines from 61222-23 (but not 61242-43). In this process
+   they noted a number of white particles, some of which
+  may be additional pieces of impact melt similar to
+   61225.
+
+   Chemistry                                           C Meyer  61225                   61224
+   None                                                2012                             many                                                  3.52 grams             more
+                                                                                                              chips
+   Radiogenic age dating
+--- age block 2; lines 6-22 ---
+Figure 1: Photo of 61225. Sample is 2 cm across. S72-41306.
+
+
+   Introduction                            Summary of Age Data for 61225
+   61225 is a small chip of white material from the                                Ar/Ar
+                                                        Norman et al. 2006         3.88 ± 0.03 b.y
+   mysterious white soil collected from the trench at Plum                                                                                                 3.91 ± 0.02
+   Crater (see section on 61221). It has been dated at 3.9
+    b.y. by the Ar/Ar technique.
+
+   Petrography
+   Norman and Ryder (1980) give a very brief description
+   of this particle. It was covered with chalky-white dust
+   on most sides. However, it appeared igneous to them.
+--- age block 3; lines 29-41 ---
+may be additional pieces of impact melt similar to
+   61225.
+
+   Chemistry                                           C Meyer  61225                   61224
+   None                                                2012                             many                                                  3.52 grams             more
+                                                                                                              chips
+   Radiogenic age dating
+   Norman et al. (2006) obtained two dates for chips of       ,0        ,3    ,1     ,7
+   61225 (figure 2).                                   PB  0.1 g  0.52 g                                              2.3 g
+
+                                                                                          ,5
+                                                        TS
+--- references block 4; lines 11-23 ---
+Introduction                            Summary of Age Data for 61225
+   61225 is a small chip of white material from the                                Ar/Ar
+                                                        Norman et al. 2006         3.88 ± 0.03 b.y
+   mysterious white soil collected from the trench at Plum                                                                                                 3.91 ± 0.02
+   Crater (see section on 61221). It has been dated at 3.9
+    b.y. by the Ar/Ar technique.
+
+   Petrography
+   Norman and Ryder (1980) give a very brief description
+   of this particle. It was covered with chalky-white dust
+   on most sides. However, it appeared igneous to them.
+
+=== PDF PAGE 2; CATEGORIES: material,references ===
+--- material block 1; lines 10-28 ---
+and chemical description. Science 179, 23-34.
+
+                                                      Marvin U.B. (1972)  Apollo 16 coarse fines (4-10 mm):
+                                                     Sample classification, description and inventory. Curators
+                                                                        office, JSC.
+
+                                                      Marvin U.B. and Mosie A.B. (1980) Apollo 16 soil catalog
+                                                         61220: Classification and description of 1-4 mm fines. JSC
+                                                             Curator Pub #53.
+
+                                                 Norman M.D., Duncan R.A. and Huard J.J. (2006) Identifing
+                                                           impact events within the lunar cataclysm from 40Ar-39Ar ages
+                                                        and compositions of Apollo 16 impact melt rocks. Geochim.
+                                                     Cosmochim. Acta 70, 6032-6049.
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+                                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+--- references block 2; lines 1-10 ---
+Figure 2: Ar/Ar plateau diagrams for 61225 (Norman et al. 2006).
+
+
+                                                    References for 61225
+                                                                Butler P. (1972a) Lunar Sample Information Catalog Apollo
+                                                                16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+                                                               Catalog. pp. 370.
+
+                                             LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+                                                       and chemical description. Science 179, 23-34.

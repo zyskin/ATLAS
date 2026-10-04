@@ -1,0 +1,243 @@
+DOCUMENT_ID: 15025__compendium__1f7933f49f
+ATLAS_SAMPLE_IDS: 15025
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15025.pdf
+SOURCE_PDF_SHA256: e98023cb8bc620af2d390efa75197a26efcde5954def9617dd8d4d80effae305
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: chemistry,material,mineralogy,treatment ===
+--- chemistry block 1; lines 14-33 ---
+Introduction
+   15025 was included in the collection of the contingency
+   sample for Apollo 15.  It is a typical soil breccia.
+
+   Petrography
+  McKay et al. (1989) reported that the maturity
+   index for 15025 was Is/FeO = 30.  It has clasts of
+   mare basalt and KREEP basalt, as well as abundant
+   glass.
+
+   See also soil sample 15020.
+
+   Chemistry
+   15025 has higher trace element content than Apollo
+   15 soils (figure 5).  Best and Minkin (1972) studied
+   the composition of glass in 15025.
+
+
+       Mineralogical Mode for 15025
+                     (McKay et al. 1989)                      Figure 2: Map of Apollo 15 site with location of 15025.
+--- mineralogy block 2; lines 16-47 ---
+sample for Apollo 15.  It is a typical soil breccia.
+
+   Petrography
+  McKay et al. (1989) reported that the maturity
+   index for 15025 was Is/FeO = 30.  It has clasts of
+   mare basalt and KREEP basalt, as well as abundant
+   glass.
+
+   See also soil sample 15020.
+
+   Chemistry
+   15025 has higher trace element content than Apollo
+   15 soils (figure 5).  Best and Minkin (1972) studied
+   the composition of glass in 15025.
+
+
+       Mineralogical Mode for 15025
+                     (McKay et al. 1989)                      Figure 2: Map of Apollo 15 site with location of 15025.
+                         20-500 micron    500-1000 micron
+       Mare Basalt       2.8 %           0 %
+      KREEP basalt     5.1               67.7           Other Studies
+         Plutonic           0.6             0
+         Breccias           2.2                2.4              Rare gas contents and isotopic ratios were reported in
+         Olivine          1               0            McKay et al. (1989).
+        Pyroxene         31.6            0
+         Plagioclase       13.6            0
+        Opaques          0.6             0
+         Glass             14.8              29.9
+         Agglutinates      11.7            0
+
+Lunar Sample Compendium
+C Meyer 2011
+--- material block 3; lines 1-42 ---
+15025
+                                   Regolith Breccia
+                                            77.3 grams
+
+
+
+
+
+                                                                  Figure 1b: Photo of 15025. S71-43655
+         Figure 1a: Photo of 15025. Sample is 4 cm
+          across. S71-44871
+
+
+   Introduction
+   15025 was included in the collection of the contingency
+   sample for Apollo 15.  It is a typical soil breccia.
+
+   Petrography
+  McKay et al. (1989) reported that the maturity
+   index for 15025 was Is/FeO = 30.  It has clasts of
+   mare basalt and KREEP basalt, as well as abundant
+   glass.
+
+   See also soil sample 15020.
+
+   Chemistry
+   15025 has higher trace element content than Apollo
+   15 soils (figure 5).  Best and Minkin (1972) studied
+   the composition of glass in 15025.
+
+
+       Mineralogical Mode for 15025
+                     (McKay et al. 1989)                      Figure 2: Map of Apollo 15 site with location of 15025.
+                         20-500 micron    500-1000 micron
+       Mare Basalt       2.8 %           0 %
+      KREEP basalt     5.1               67.7           Other Studies
+         Plutonic           0.6             0
+         Breccias           2.2                2.4              Rare gas contents and isotopic ratios were reported in
+         Olivine          1               0            McKay et al. (1989).
+        Pyroxene         31.6            0
+         Plagioclase       13.6            0
+        Opaques          0.6             0
+--- treatment block 4; lines 13-25 ---
+Introduction
+   15025 was included in the collection of the contingency
+   sample for Apollo 15.  It is a typical soil breccia.
+
+   Petrography
+  McKay et al. (1989) reported that the maturity
+   index for 15025 was Is/FeO = 30.  It has clasts of
+   mare basalt and KREEP basalt, as well as abundant
+   glass.
+
+   See also soil sample 15020.
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,references,treatment ===
+--- chemistry block 1; lines 2-24 ---
+25
+            C                 Meyer  15025               2011                                                                                20                      Apollo soils
+                   77.3 grams                                              A15 breccias
+
+                                                                                15
+                                 FeO          15025
+           ,0          ,1        ,7       ,8      ,13                  10
+                PB     1 g    3 g    1 g        70 g
+
+                                                                                    5
+                               ,3
+
+
+                                                                                    0
+                               ,6                                                      0       5       10      15      20      25      30      35
+                     TS                                          Al2O3
+
+                                                                Figure 4: Composition of Apollo soils, Apollo 15
+                                                                    breccias and 15025.
+   References for 15025
+    Best J.B. and Minkin J.A. (1972) Apollo 15 glasses of impact
+     origin. In The Apollo 15 Lunar Samples, 34-39. Lunar  LSPET (1972b) Preliminary examination of lunar samples.
+--- material block 2; lines 23-35 ---
+Best J.B. and Minkin J.A. (1972) Apollo 15 glasses of impact
+     origin. In The Apollo 15 Lunar Samples, 34-39. Lunar  LSPET (1972b) Preliminary examination of lunar samples.
+    Planetary Institute, Houston.                             Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+                                                    1—6-28.
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    Office, MSC 03209                           McKay D.S., Morris R.V. and Wentworth S.J. (1984)
+                                                            Maturity of regolith breccias as revealed by ferromagnetic
+   LSPET (1972a) The Apollo 15 lunar samples: A preliminary  and petrographic indicies (abs). Lunar Planet. Sci. XV, 530-
+     description. Science 175, 363-375.                        531. Lunar Planetary Institute, Houston.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- treatment block 3; lines 23-35 ---
+Best J.B. and Minkin J.A. (1972) Apollo 15 glasses of impact
+     origin. In The Apollo 15 Lunar Samples, 34-39. Lunar  LSPET (1972b) Preliminary examination of lunar samples.
+    Planetary Institute, Houston.                             Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+                                                    1—6-28.
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    Office, MSC 03209                           McKay D.S., Morris R.V. and Wentworth S.J. (1984)
+                                                            Maturity of regolith breccias as revealed by ferromagnetic
+   LSPET (1972a) The Apollo 15 lunar samples: A preliminary  and petrographic indicies (abs). Lunar Planet. Sci. XV, 530-
+     description. Science 175, 363-375.                        531. Lunar Planetary Institute, Houston.
+
+
+Lunar Sample Compendium
+C Meyer 2011
+--- references block 4; lines 16-28 ---
+0
+                               ,6                                                      0       5       10      15      20      25      30      35
+                     TS                                          Al2O3
+
+                                                                Figure 4: Composition of Apollo soils, Apollo 15
+                                                                    breccias and 15025.
+   References for 15025
+    Best J.B. and Minkin J.A. (1972) Apollo 15 glasses of impact
+     origin. In The Apollo 15 Lunar Samples, 34-39. Lunar  LSPET (1972b) Preliminary examination of lunar samples.
+    Planetary Institute, Houston.                             Apollo 15 Preliminary Science Report. NASA SP-289, 6-
+                                                    1—6-28.
+    Butler P. (1971) Lunar Sample Catalog, Apollo 15. Curators’
+    Office, MSC 03209                           McKay D.S., Morris R.V. and Wentworth S.J. (1984)
+
+=== PDF PAGE 3; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 15025.
+
+
+    reference  McKay89  Wanke77
+    weight
+   SiO2 %              48.15     (b)
+    TiO2      1.83    (a)  1.84      (b)
+   Al2O3     12.4    (a)  12.11     (b)
+   FeO       15.9    (a) 15.22     (b)
+   MnO       0.2     (a)  0.2       (b)
+   MgO       9.8     (a)  9.86      (b)
+   CaO       10.3    (a) 10.42     (b)
+   Na2O      0.5     (a)  0.5       (b)
+   K2O
+   P2O5
+   S %
+   sum
+   Sc ppm    31.2    (a)  31.6      (b)                              Figure 5: Normalized rare-earth-element diagram
+   V         110    (a) 108       (b)                            comparing 15025 with A15 soils.
+    Cr        2940   (a) 2950     (b)
+--- material block 2; lines 20-33 ---
+Cr        2940   (a) 2950     (b)
+   Co        50.4    (a)  41.5      (b)
+    Ni        200    (a) 210       (b)
+   Cu                   19.8      (b)
+   Zn                 10        (b)                   McKay D.S., Bogard D.D., Morris R.V., Korotev R.L.,
+   Ga                   3.92      (b)
+   Ge ppb             360       (b)                        Wentworth S.J. and Johnson P. (1989) Apollo 15 regolith
+   As                 39        (b)                             breccias: Window to a KREEP regolith. Proc. 19th Lunar
+   Se                 230       (b)                                Sci. Conf. 19-41. Lunar Planetary Institute, Houston.
+   Rb                   6.27      (b)
+    Sr        138    (a) 139       (b)
+   Y                   115       (b)                       Ryder G. (1985)  Catalog of Apollo 15 Rocks (three
+    Zr        460    (a) 472       (b)                          volumes). Curatoial Branch Pub. # 72, JSC#20787
+   Nb                 35        (b)
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 15025.
+
+
+    reference  McKay89  Wanke77
+    weight
+   SiO2 %              48.15     (b)
+    TiO2      1.83    (a)  1.84      (b)
+   Al2O3     12.4    (a)  12.11     (b)
+   FeO       15.9    (a) 15.22     (b)
+   MnO       0.2     (a)  0.2       (b)
+--- references block 4; lines 64-73 ---
+Os ppb
+      Ir ppb      6.1     (a) 5         (b)
+    Pt ppb
+   Au ppb    2.7     (a)  2.1       (b)
+   Th ppm    5.1     (a)  4.9       (b)
+   U ppm     1.41    (a)  1.43      (b)
+    technique:  (a) INAA, 9b) various
+
+Lunar Sample Compendium
+C Meyer 2011

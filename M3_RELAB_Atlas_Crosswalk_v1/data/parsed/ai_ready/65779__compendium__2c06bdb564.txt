@@ -1,0 +1,177 @@
+DOCUMENT_ID: 65779__compendium__2c06bdb564
+ATLAS_SAMPLE_IDS: 65779
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65779.pdf
+SOURCE_PDF_SHA256: 5fc0557f982071152cd7100e9b2d3cc81e06ff393463c701939a77425a5ebb0a
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 10-33 ---
+Introduction
+   65779 is a rake sample from station 5 near Stone  There is rust around iron grains (Ryder and Norman
+   Mountain – see section on 65701. It is relatively similar  1980 and Hunter and Taylor 1981).
+    to 65777 and 65778, but it has a texture described as
+    basaltic, rather than poikilitic.  It contains clasts of  Compositional variation of Apollo 16 impact-melt
+    plagioclase, so it was a breccia before it crystallized.   rocks is discussed by Korotev (1994).
+
+   Petrography                               Chemistry
+   Dowty et al. (1974) and Warner et al. (1976) describe  65779 is trace-element-rich (table).
+   65779 as follows: “The melt part of this rock contains
+   plagioclase needles about 0.05 mm long. Olivine and
+   some pyroxene subophitically enclose plagioclase, and
+                                                C Meyer    65779    there is abundant dark mesostasis. About 8% distinct           2012
+                                                                 12.7 grams   plagioclase relicts are present, with perhaps a few very
+   small olivine relicts.  Plagioclase is An95, olivine is
+   Fo78 and pyroxene seems to be limited to magnesian          ,0          ,1      ,90.2 g   ,100.3 g   ,120.2 g
+   pigeonite (figure ). Accessories are ilmenite, Cr-Zr-        11 g    PB
+  REE armalcolite, metallic nickel-iron, troilite and
+                                                                                                              ,4
+    schreibersite.”                                                        TS
+--- material block 2; lines 1-26 ---
+65779
+                               Impact melt Breccia
+                                            12.7 grams
+
+
+
+
+
+                              Figure 1: Photo of 65779. Scale marked in mm. S72-48819
+
+   Introduction
+   65779 is a rake sample from station 5 near Stone  There is rust around iron grains (Ryder and Norman
+   Mountain – see section on 65701. It is relatively similar  1980 and Hunter and Taylor 1981).
+    to 65777 and 65778, but it has a texture described as
+    basaltic, rather than poikilitic.  It contains clasts of  Compositional variation of Apollo 16 impact-melt
+    plagioclase, so it was a breccia before it crystallized.   rocks is discussed by Korotev (1994).
+
+   Petrography                               Chemistry
+   Dowty et al. (1974) and Warner et al. (1976) describe  65779 is trace-element-rich (table).
+   65779 as follows: “The melt part of this rock contains
+   plagioclase needles about 0.05 mm long. Olivine and
+   some pyroxene subophitically enclose plagioclase, and
+                                                C Meyer    65779    there is abundant dark mesostasis. About 8% distinct           2012
+                                                                 12.7 grams   plagioclase relicts are present, with perhaps a few very
+   small olivine relicts.  Plagioclase is An95, olivine is
+   Fo78 and pyroxene seems to be limited to magnesian          ,0          ,1      ,90.2 g   ,100.3 g   ,120.2 g
+
+=== PDF PAGE 2; CATEGORIES: age,material,mineralogy,references ===
+--- mineralogy block 1; lines 8-20 ---
+En                                          Fs
+
+                                                  Fo                                        Fa
+
+                                                                                                     compiled by C Meyer
+
+                                                                  Figure 3: Pyroxene and olivine in 65779 (Warner
+                                                                                  et al. 1976).
+         Figure 2: Thin section photomicrograph of 65779
+         (Warner et al.1976 ).
+
+                                             LSPET (1972c) Preliminary examination of lunar samples.
+   Radiogenic age dating                                In Apollo 16 Preliminary Science Report. NASA SP-315,
+--- material block 2; lines 26-56 ---
+There is only one thin section.
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                                In Geology of the Apollo 16 area, central lunar highlands.
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   References for 65779
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo  Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s  and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+    Catalog. pp. 370.                                     from the LM area and station 5.  Spec. Publ. #13, UNM
+                                                                        Institute of Meteoritics, Albuquerque. 87 pp.
+   Dowty E., Keil K. and Prinz M. (1974a) Igneous rocks from
+    Apollo 16 rake samples. Proc. 5th Lunar Sci. Conf. 431-  Wasson J.T., Warren P.H., Kallemeyn G.W., McEwing C.E.,
+    445.                                                           Mittlefehldt D.W. and Boynton W.V. (1977) SCCRV, a major
+                                                      component of highlands rocks. Proc. 8th Lunar Sci. Conf.
+    Hunter R.H. and Taylor L.A. (1981) Rust and schreibersite   2237-2252.
+     in Apollo 16 highland rocks: Manifestations of volatile-
+    element mobility. Proc. 12th Lunar Planet. Sci. Conf. 253-
+    259.
+
+    Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+    Description, classification and inventory of 151 Apollo 16
+    rake samples from the LM area and station 5.  Curator’s
+    Catalog, JSC.
+
+    Korotev R.L. (1994) Compositional variation in Apollo 16
+    impact melt breccias and inferences for the geology and
+    bombardment history of the central highlands of the Moon.
+    Geochim. Cosmochim. Acta 58, 3931-3969.
+
+   LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+    and chemical description. Science 179, 23-34.
+--- age block 3; lines 14-28 ---
+Figure 3: Pyroxene and olivine in 65779 (Warner
+                                                                                  et al. 1976).
+         Figure 2: Thin section photomicrograph of 65779
+         (Warner et al.1976 ).
+
+                                             LSPET (1972c) Preliminary examination of lunar samples.
+   Radiogenic age dating                                In Apollo 16 Preliminary Science Report. NASA SP-315,
+                                                      7-1—7-58.
+   Not dated
+
+                                                       Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Processing                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   There is only one thin section.
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                                In Geology of the Apollo 16 area, central lunar highlands.
+--- references block 4; lines 24-36 ---
+Ryder G. and Norman M.D. (1980) Catalog of Apollo 16
+   Processing                                             rocks (3 vol.). Curator’s Office pub. #52, JSC #16904
+   There is only one thin section.
+                                                             Sutton R.L. (1981) Documentation of Apollo 16 samples.
+                                                                In Geology of the Apollo 16 area, central lunar highlands.
+                                                                (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   References for 65779
+    Butler P. (1972a) Lunar Sample Information Catalog Apollo  Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+    16. Lunar Receiving Laboratory. MSC 03210 Curator’s  and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+    Catalog. pp. 370.                                     from the LM area and station 5.  Spec. Publ. #13, UNM
+                                                                        Institute of Meteoritics, Albuquerque. 87 pp.
+   Dowty E., Keil K. and Prinz M. (1974a) Igneous rocks from
+    Apollo 16 rake samples. Proc. 5th Lunar Sci. Conf. 431-  Wasson J.T., Warren P.H., Kallemeyn G.W., McEwing C.E.,
+
+=== PDF PAGE 4; CATEGORIES: chemistry,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 65779.
+
+
+     reference  Dowty74    Wasson77
+     weight
+    SiO2 %    45.6     (a)
+    TiO2       0.77     (a)  0.95      (b)
+    Al2O3     22.8     (a)  23.6      (b)
+   FeO       6.1       (a)  8.3       (b)
+   MnO       0.06     (a)  0.088    (b)
+   MgO       10.1     (a)  9.95      (b)
+   CaO       13.3     (a)  12.7      (b)
+   Na2O      0.58     (a)  0.5       (b)
+   K2O       0.27     (a)  0.2       (b)
+   P2O5      0.19     (a)
+   S %
+    sum
+
+    Sc ppm
+   V                    38        (b)
+--- references block 2; lines 1-10 ---
+Table 1. Chemical composition of 65779.
+
+
+     reference  Dowty74    Wasson77
+     weight
+    SiO2 %    45.6     (a)
+    TiO2       0.77     (a)  0.95      (b)
+    Al2O3     22.8     (a)  23.6      (b)
+   FeO       6.1       (a)  8.3       (b)
+   MnO       0.06     (a)  0.088    (b)
+--- references block 3; lines 65-74 ---
+Os ppb
+       Ir ppb                26        (b)
+     Pt ppb
+    Au ppb               24        (b)
+    Th ppm                 4.3       (b)
+   U ppm                  1.3       (b)
+     technique:  (a) e. probe, (b) INAA, RNAA
+
+Lunar Sample Compendium
+C Meyer 2012

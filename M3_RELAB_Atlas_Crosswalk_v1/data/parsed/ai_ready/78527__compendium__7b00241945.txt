@@ -1,0 +1,354 @@
+DOCUMENT_ID: 78527__compendium__7b00241945
+ATLAS_SAMPLE_IDS: 78527
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/78527.pdf
+SOURCE_PDF_SHA256: 76d93d6a42acb6d54432fe75bb961858e0423f22337a520e10efe81308b71a71
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: age,material,mineralogy ===
+--- mineralogy block 1; lines 3-23 ---
+5.16 grams
+
+
+
+
+
+        Figure 1: Photo of 78527 showing shocked norite. NASA S73-21026. Scale in mm. Note the zap pit. (the bright
+        spot in the middle is an artifiact)
+
+                                             Petrography
+   Introduction                                 Nehru et al. (1978) and Warner et al. (1978) describe
+   Rake sample 78527 has the mineralogy of a norite, but  rake sample 78527 as a recrystallized norite with
+   Cushing et al. (1993, 1999) and Dalrymple and Ryder  approximately equal amounts of orthopyroxene and
+   (1996) refer to this samples as a “granulite” and found   plagioclase.  Minor phases include olivine, augite,
+    that it had an old age (4.146 b.y.).                      armalcolite, ilmenite, rutile, chromite, baddeleyite,
+                                                               zirconolite, zircon, K-feldspar, metal and troilite.
+
+
+
+Lunar Sample Compendium
+C Meyer 2008
+--- material block 2; lines 1-20 ---
+78527
+                                 Granulitic Noritic Breccia
+                                            5.16 grams
+
+
+
+
+
+        Figure 1: Photo of 78527 showing shocked norite. NASA S73-21026. Scale in mm. Note the zap pit. (the bright
+        spot in the middle is an artifiact)
+
+                                             Petrography
+   Introduction                                 Nehru et al. (1978) and Warner et al. (1978) describe
+   Rake sample 78527 has the mineralogy of a norite, but  rake sample 78527 as a recrystallized norite with
+   Cushing et al. (1993, 1999) and Dalrymple and Ryder  approximately equal amounts of orthopyroxene and
+   (1996) refer to this samples as a “granulite” and found   plagioclase.  Minor phases include olivine, augite,
+    that it had an old age (4.146 b.y.).                      armalcolite, ilmenite, rutile, chromite, baddeleyite,
+                                                               zirconolite, zircon, K-feldspar, metal and troilite.
+--- age block 3; lines 11-23 ---
+Petrography
+   Introduction                                 Nehru et al. (1978) and Warner et al. (1978) describe
+   Rake sample 78527 has the mineralogy of a norite, but  rake sample 78527 as a recrystallized norite with
+   Cushing et al. (1993, 1999) and Dalrymple and Ryder  approximately equal amounts of orthopyroxene and
+   (1996) refer to this samples as a “granulite” and found   plagioclase.  Minor phases include olivine, augite,
+    that it had an old age (4.146 b.y.).                      armalcolite, ilmenite, rutile, chromite, baddeleyite,
+                                                               zirconolite, zircon, K-feldspar, metal and troilite.
+
+
+
+Lunar Sample Compendium
+C Meyer 2008
+
+=== PDF PAGE 2; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 1-37 ---
+Figure 2: Photomicrographs of thin section of 78527, a) overall texture showing large,
+            subrounded plagioclase in finer-grained matrix. Field of view is 2.4 mm. b) polygonized olivine
+             grain 0.9 mm, c) matrix 0.45 mm. d) matrix 0.45 mm. From Nehru et al. 1978.
+
+                                                                       78527                                                                         Di                   Hd
+   The rock consists of large seriate, subangular           Warner
+    plagioclase (up to 2 mm) and orthopyroxene (up to 0.8              et al. 1978
+   mm) crystals in a fine-grained recrystallized matrix
+    (figure 2). Minor olivine occurs as large polygonized
+    grains.  Cushing et al. (1999) determined the
+    “equilibrium temperature” of 78527 from pyroxene
+    composition as 1061 deg. C.
+
+                                                En                                          Fs
+   Mineralogy
+    Olivine: The olivine in 78527 is Fo77 (Nehru et al.   Fo                                        Fa
+    1978).                                                                                     compiled by C Meyer
+                                                                 Figure 3: Pyroxene and olivine composition of
+                                                          78527 (data replotted from Warner et al. 1978,   Pyroxene: Warner et al. (1978) illustrate the pyroxene
+                                                          Nehru et al. 1978).    compositions in 78527 (figure 3). Cushing et al. (1999)
+    precisely determined the composition of pyroxene pairs
+    to get a temperature.
+                                                 Opaques: The composition of ilmenite, armalcolite
+    Plagioclase: Plagioclase in 78527 is An93-94 (Nehru et  and chromite are given in Warner et al. (1978).
+     al. 1978).
+                                                         Metallic iron: Metal grains in 78527 are all high in Ni
+                                                  (25-53%) and Co (1.9-2.2%).
+         Mineralogical Mode for 78527
+                          Warner et al. 1978
+           Olivine            1.9 %
+          Pyroxene         45.6
+            Plagioclase       52.2
+         Opaque           0.1
+           Other             0.2
+
+Lunar Sample Compendium
+C Meyer 2008
+--- material block 2; lines 1-14 ---
+Figure 2: Photomicrographs of thin section of 78527, a) overall texture showing large,
+            subrounded plagioclase in finer-grained matrix. Field of view is 2.4 mm. b) polygonized olivine
+             grain 0.9 mm, c) matrix 0.45 mm. d) matrix 0.45 mm. From Nehru et al. 1978.
+
+                                                                       78527                                                                         Di                   Hd
+   The rock consists of large seriate, subangular           Warner
+    plagioclase (up to 2 mm) and orthopyroxene (up to 0.8              et al. 1978
+   mm) crystals in a fine-grained recrystallized matrix
+    (figure 2). Minor olivine occurs as large polygonized
+    grains.  Cushing et al. (1999) determined the
+    “equilibrium temperature” of 78527 from pyroxene
+    composition as 1061 deg. C.
+
+                                                En                                          Fs
+
+=== PDF PAGE 3; CATEGORIES: age,mineralogy ===
+--- mineralogy block 1; lines 1-30 ---
+An in plagioclase
+             75       80        85       90       95
+
+
+       78527                                     troctolites
+                                                              90
+
+
+
+                              mg-suite
+                                                   norites                 80                                                                 En
+                                                                 in
+                                                                                                                                                                                                  low-Ca                                gabbro-                           70
+                                    norites                                                                                                                             pyroxene       Figure 6: Ar/Ar release pattern for 78527 (from
+                                                            ferroan-        60         Dalrymple and Ryder 1996).
+                                                          anorthosite
+
+
+
+                                                              50
+                                           Summary of Age Data for 78527
+                                                                                            Ar/Ar
+        Figure 4: Plagioclase/pyroxene composition for             Dalrymple and Ryder 1996  4.146 ± 0.017 b.y.
+        78527 norite (Nehru et al. 1978).
+
+           1000
+--- age block 2; lines 15-42 ---
+ferroan-        60         Dalrymple and Ryder 1996).
+                                                          anorthosite
+
+
+
+                                                              50
+                                           Summary of Age Data for 78527
+                                                                                            Ar/Ar
+        Figure 4: Plagioclase/pyroxene composition for             Dalrymple and Ryder 1996  4.146 ± 0.017 b.y.
+        78527 norite (Nehru et al. 1978).
+
+           1000
+
+
+
+
+
+            100
+
+     sample/
+     chondrite                                       Radiogenic age dating
+             10                   78527                                                  Dalrymple and Ryder (1996) dated 78527 as 4.146 b.y.
+                                                by the Argon 39/40 release plateau (figure 6).
+
+               1
+                                                 Processing
+                                              Meyer (1994) reviewed what is known about 78527.
+               0.1
+
+=== PDF PAGE 4; CATEGORIES: chemistry,material,references ===
+--- chemistry block 1; lines 1-20 ---
+Table 1. Chemical composition of 78527.
+
+
+     reference  Laul 75  Murali 77     Warren83    Dalrymple96
+     weight    Nehru 78               clast?
+    SiO2 %   49.2                  45.5      (b) 48         (b)
+    TiO2      0.6      0.38       (a)  0.37      (b)  0.5        (a)
+    Al2O3     16.8     13.3       (a)  14.9      (b) 14.4       (a)
+   FeO       7.4      8.3        (a)  9.9       (b)  9.2        (a)
+   MnO      0.09     0.087     (a)  0.12      (b) 0.13       (a)
+   MgO     15      14         (a)  19.75     (b) 18.9       (a)
+   CaO      9.2      7.8        (a)  8.12      (b)  8.1        (a)
+   Na2O     0.42     0.36          0.35      (a) 0.37
+   K2O      0.065    0.054         0.07      (b) 0.09
+   P2O5
+   S %
+    sum
+
+    Sc ppm   9.4     8          (a)  9.4       (a) 12.2       (a)
+   V
+--- material block 2; lines 1-11 ---
+Table 1. Chemical composition of 78527.
+
+
+     reference  Laul 75  Murali 77     Warren83    Dalrymple96
+     weight    Nehru 78               clast?
+    SiO2 %   49.2                  45.5      (b) 48         (b)
+    TiO2      0.6      0.38       (a)  0.37      (b)  0.5        (a)
+    Al2O3     16.8     13.3       (a)  14.9      (b) 14.4       (a)
+   FeO       7.4      8.3        (a)  9.9       (b)  9.2        (a)
+   MnO      0.09     0.087     (a)  0.12      (b) 0.13       (a)
+   MgO     15      14         (a)  19.75     (b) 18.9       (a)
+--- references block 3; lines 1-10 ---
+Table 1. Chemical composition of 78527.
+
+
+     reference  Laul 75  Murali 77     Warren83    Dalrymple96
+     weight    Nehru 78               clast?
+    SiO2 %   49.2                  45.5      (b) 48         (b)
+    TiO2      0.6      0.38       (a)  0.37      (b)  0.5        (a)
+    Al2O3     16.8     13.3       (a)  14.9      (b) 14.4       (a)
+   FeO       7.4      8.3        (a)  9.9       (b)  9.2        (a)
+   MnO      0.09     0.087     (a)  0.12      (b) 0.13       (a)
+--- references block 4; lines 65-75 ---
+Os ppb
+       Ir ppb            6          (a)  2.8       (c ) 9.1        (a)
+     Pt ppb
+    Au ppb                          0.23      (c ) 2          (a)
+    Th ppm   1.4      0.7        (a)  1.6       (a)  1.7        (a)
+   U ppm                           0.29      (a) 0.35       (a)
+     technique:  (a) INAA, (b) fused bead emp, (c ) RNAA
+
+
+Lunar Sample Compendium
+C Meyer 2008
+
+=== PDF PAGE 5; CATEGORIES: age,chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 27-39 ---
+Warren P.H. (1993) A concise compilation of petrologic
+    classification and inventory of 113 Apollo 17 rake samples
+                                                             information on possibly pristine nonmare Moon rocks. Am.
+   from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.
+                                                             Mineral. 78, 360-376.
+
+   Laul J.C. and Schmitt R.A. (1975c) Chemical composition
+                                                       Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    of Apollo 17 samples: Boulder breccias (2), rake breccias
+                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    (8), and others.  Lunar Planet. Sci. VI, 489-491.  Lunar
+                                                             geologic investigation of the Taurus-Littrow Valley: Apollo
+    Planetary Institute, Houston.
+--- chemistry block 2; lines 54-66 ---
+Muehlberger W.R. and many others (1973)  Preliminary
+    Geological Investigation of the Apollo 17 Landing Site. In
+   Apollo 17 Preliminary Science Report. NASA SP-330.
+
+   Murali A.V., Ma M.-S., Laul J.C. and Schmitt R.A. (1977a)
+   Chemical composition of breccias, feldspathic basalt and
+    anorthosites from Apollo 15 (15308, 15359, 15382, and
+    15362), Apollo 16 (60618 and 65785), Apollo 17 (72434,
+   72536, 72559, 72735, 72738, 78526, and 78527) and Luna
+
+
+Lunar Sample Compendium
+--- mineralogy block 3; lines 1-17 ---
+References for 78527                              20 (22012 and 22013) (abs). Lunar Sci. VIII, 700-702. Lunar
+    Butler P. (1973) Lunar Sample Information Catalog   Planetary Institute, Houston.
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+    Curator’s Catalog. pp. 447                            Nehru C.E., Warner R.D., Keil K. and Taylor G.J. (1978)
+                                                 Metamorphism of brecciated ANT rocks: Anorthositic
+   Cushing J.A., Taylor G.J., Norman M.D. and Keil K. (1993a)   troctolite 72559 and norite 78527. Proc. 9th Lunar Planet.
+   The granulite suite: Impact melts and metamorphic breccias   Sci. Conf. 773-788.
+    of the early lunar crust (abs). Lunar Planet. Sci. XXIV, 369-
+    370. Lunar Planet. Institute, Houston                    Warner R.D., Keil K., Taylor G.J. and Nehru C.E. (1978c)
+                                                             Petrology of recrystallized ANT rocks from Apollo 17 rake
+   Cushing J.A., Taylor G.J., Norman M.D. and Keil K. (1993b)   samples: 72558 (anorthositic troctolite) and 78527 (norite)
+    Refining the granulite suite.  In Workshop on Geology of   (abs). Lunar Planet. Sci. IX, 1220-1222. Lunar Planetary
+    the Apollo 17 Landing Site. LPI Tech. Rpt. 92-09.4-5. Lunar   Institute, Houston
+    Planet. Institute, Houston
+                                                      Warner R.D., Keil K., Nehru C.E. and Taylor G.J. (1978)
+   Cushing J.A., Taylor G.J., Norman M.D. and Keil K. (1999)   Catalogue of Apollo 17 rake samples from Stations la, 2, 7,
+   The granulitic impactite suite: Impact melts and metamorphic  and 8. Spec. Publ. #18, UNM Institute of Meteoritics,
+--- material block 4; lines 4-41 ---
+Curator’s Catalog. pp. 447                            Nehru C.E., Warner R.D., Keil K. and Taylor G.J. (1978)
+                                                 Metamorphism of brecciated ANT rocks: Anorthositic
+   Cushing J.A., Taylor G.J., Norman M.D. and Keil K. (1993a)   troctolite 72559 and norite 78527. Proc. 9th Lunar Planet.
+   The granulite suite: Impact melts and metamorphic breccias   Sci. Conf. 773-788.
+    of the early lunar crust (abs). Lunar Planet. Sci. XXIV, 369-
+    370. Lunar Planet. Institute, Houston                    Warner R.D., Keil K., Taylor G.J. and Nehru C.E. (1978c)
+                                                             Petrology of recrystallized ANT rocks from Apollo 17 rake
+   Cushing J.A., Taylor G.J., Norman M.D. and Keil K. (1993b)   samples: 72558 (anorthositic troctolite) and 78527 (norite)
+    Refining the granulite suite.  In Workshop on Geology of   (abs). Lunar Planet. Sci. IX, 1220-1222. Lunar Planetary
+    the Apollo 17 Landing Site. LPI Tech. Rpt. 92-09.4-5. Lunar   Institute, Houston
+    Planet. Institute, Houston
+                                                      Warner R.D., Keil K., Nehru C.E. and Taylor G.J. (1978)
+   Cushing J.A., Taylor G.J., Norman M.D. and Keil K. (1999)   Catalogue of Apollo 17 rake samples from Stations la, 2, 7,
+   The granulitic impactite suite: Impact melts and metamorphic  and 8. Spec. Publ. #18, UNM Institute of Meteoritics,
+    breccias of the early lunar crust. Meteoritics & Planet. Sci.   Albuquerque. 88 pp.
+    34, 185-195.
+                                                      Warren P.H., Taylor G.J., Keil K., Kaltemeyn G.W., Rosener
+   Dalrymple G.B. and Ryder G. (1996) Argon-40/argon-39                                                                   P.S. and Wasson J.T. (1983c)  Sixth foray for pristine
+   age spectra of Apollo 17 highlands breccia samples by laser                                                    nonmare rocks and an assessment of the diversity of lunar
+    step heating and the age of the Serenitatis basin.  J. Geophys.                                                                   anorthosites.  Proc. 13th  Lunar Planet. Sci. Conf.  , in J.
+    Res. 101, 26069-26084.                                                       Geophys. Res. 88, A615-A630.
+
+   Keil K., Dowty E. and Prinz M. (1974)  Description,
+                                                      Warren P.H. (1993) A concise compilation of petrologic
+    classification and inventory of 113 Apollo 17 rake samples
+                                                             information on possibly pristine nonmare Moon rocks. Am.
+   from stations 1A, 2, 7 and 8. Curator’s Catalog, pp. 149.
+                                                             Mineral. 78, 360-376.
+
+   Laul J.C. and Schmitt R.A. (1975c) Chemical composition
+                                                       Wolfe E.W., Bailey N.G., Lucchitta B.K., Muehlberger W.R.,
+    of Apollo 17 samples: Boulder breccias (2), rake breccias
+                                                              Scott D.H., Sutton R.L and Wilshire H.G. (1981)  The
+    (8), and others.  Lunar Planet. Sci. VI, 489-491.  Lunar
+                                                             geologic investigation of the Taurus-Littrow Valley: Apollo
+    Planetary Institute, Houston.
+                                                     17 Landing Site. US Geol. Survey Prof. Paper, 1080, pp.
+                                                            280.
+--- material block 5; lines 54-66 ---
+Muehlberger W.R. and many others (1973)  Preliminary
+    Geological Investigation of the Apollo 17 Landing Site. In
+   Apollo 17 Preliminary Science Report. NASA SP-330.
+
+   Murali A.V., Ma M.-S., Laul J.C. and Schmitt R.A. (1977a)
+   Chemical composition of breccias, feldspathic basalt and
+    anorthosites from Apollo 15 (15308, 15359, 15382, and
+    15362), Apollo 16 (60618 and 65785), Apollo 17 (72434,
+   72536, 72559, 72735, 72738, 78526, and 78527) and Luna
+
+
+Lunar Sample Compendium
+--- age block 6; lines 16-29 ---
+Cushing J.A., Taylor G.J., Norman M.D. and Keil K. (1999)   Catalogue of Apollo 17 rake samples from Stations la, 2, 7,
+   The granulitic impactite suite: Impact melts and metamorphic  and 8. Spec. Publ. #18, UNM Institute of Meteoritics,
+    breccias of the early lunar crust. Meteoritics & Planet. Sci.   Albuquerque. 88 pp.
+    34, 185-195.
+                                                      Warren P.H., Taylor G.J., Keil K., Kaltemeyn G.W., Rosener
+   Dalrymple G.B. and Ryder G. (1996) Argon-40/argon-39                                                                   P.S. and Wasson J.T. (1983c)  Sixth foray for pristine
+   age spectra of Apollo 17 highlands breccia samples by laser                                                    nonmare rocks and an assessment of the diversity of lunar
+    step heating and the age of the Serenitatis basin.  J. Geophys.                                                                   anorthosites.  Proc. 13th  Lunar Planet. Sci. Conf.  , in J.
+    Res. 101, 26069-26084.                                                       Geophys. Res. 88, A615-A630.
+
+   Keil K., Dowty E. and Prinz M. (1974)  Description,
+                                                      Warren P.H. (1993) A concise compilation of petrologic
+    classification and inventory of 113 Apollo 17 rake samples
+                                                             information on possibly pristine nonmare Moon rocks. Am.
+--- references block 7; lines 1-7 ---
+References for 78527                              20 (22012 and 22013) (abs). Lunar Sci. VIII, 700-702. Lunar
+    Butler P. (1973) Lunar Sample Information Catalog   Planetary Institute, Houston.
+   Apollo 17.  Lunar Receiving Laboratory. MSC 03211
+    Curator’s Catalog. pp. 447                            Nehru C.E., Warner R.D., Keil K. and Taylor G.J. (1978)
+                                                 Metamorphism of brecciated ANT rocks: Anorthositic
+   Cushing J.A., Taylor G.J., Norman M.D. and Keil K. (1993a)   troctolite 72559 and norite 78527. Proc. 9th Lunar Planet.
+   The granulite suite: Impact melts and metamorphic breccias   Sci. Conf. 773-788.

@@ -1,0 +1,167 @@
+DOCUMENT_ID: 60629__compendium__a41c9763e9
+ATLAS_SAMPLE_IDS: 60629
+SOURCE_URL: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60629.pdf
+SOURCE_PDF_SHA256: 87da4408f8b235a28fd1751701d4d5efb0b0a3f5600c5ef32dac4bbaa6bc6851
+PARSER: atlas-pdf-preprocessor-1.0
+
+=== PDF PAGE 1; CATEGORIES: material,mineralogy ===
+--- mineralogy block 1; lines 3-35 ---
+4.9 grams
+
+
+
+
+
+                            Figure 1: Photo of 60629 showing black glass attached to
+                               anorthosite. Scale marked in mm. S73-20484
+
+
+   Introduction
+   60629 was found as a rake sample from the regolith
+   near the LM.
+
+   Petrography
+   Dowty et al. (1974) and Warner et al. (1976) reported
+    that 60629 was an anorthosite with attached black glass.
+   The anorthosite has a cataclastic texture (figure 2). The
+   pyroxenes in 60629 indicate that this sample is ferroan
+    anorthosite (figure 3).
+
+   The black glass attached to 60629 was analyzed by
+   See et al. (1986) and Morris et al. (1986).
+
+
+                                                            Figure 2: Phot of thin section 60629,2 showing shocked
+          C Meyer   60629                                                                 plagioclase with trapped melt inc. by C Meyer 2 mm
+             2012      4.92 grams
+
+                                            Chemistry
+                 ,0           ,1      ,4                    The composition of the anorthositic part of 60629 was
+               4.5 g     PB   PB                       determined by Dowty et al. (1974) and See et al. (1986).
+--- material block 2; lines 8-20 ---
+Figure 1: Photo of 60629 showing black glass attached to
+                               anorthosite. Scale marked in mm. S73-20484
+
+
+   Introduction
+   60629 was found as a rake sample from the regolith
+   near the LM.
+
+   Petrography
+   Dowty et al. (1974) and Warner et al. (1976) reported
+    that 60629 was an anorthosite with attached black glass.
+   The anorthosite has a cataclastic texture (figure 2). The
+
+=== PDF PAGE 2; CATEGORIES: chemistry,material,mineralogy,references ===
+--- chemistry block 1; lines 1-19 ---
+60629   Table 1. Chemical composition of 60629                    Di                   Hd
+                            glass    interior     glass                           Dowty et al. 1974
+     reference Dowty74   See 86 See 86    Morris86
+     weight
+    SiO2 %   44.6     (a) 45.54   43.94  (b)
+    TiO2      0.01     (a) 0.3     0.03    (b)
+    Al2O3     35.1     (a) 28.4    33.5    (b)
+   FeO      0.36     (a) 4.24    1.63    (b)  6.28    (c )
+   MnO                  0.05             (b)
+   MgO      0.26     (a) 5.18    1.76    (b)
+   CaO      19.2     (a) 16.28   18.51  (b)                En                                          Fs
+   Na2O     0.41     (a) 0.63    0.36    (b)  0.58    (c )
+   K2O      0.02     (a) 0.08    0.03    (b)
+   P2O5     0.03     (a)                               Fo                                        Fa
+   S %                                                                                         compiled by C Meyer
+    sum
+
+    Sc ppm                                  6.15    (c )               Figure 3: Composition of pyroxene and olivine in
+   V                                                     60629 (Warner et al. 1976).
+--- mineralogy block 2; lines 1-8 ---
+60629   Table 1. Chemical composition of 60629                    Di                   Hd
+                            glass    interior     glass                           Dowty et al. 1974
+     reference Dowty74   See 86 See 86    Morris86
+     weight
+    SiO2 %   44.6     (a) 45.54   43.94  (b)
+    TiO2      0.01     (a) 0.3     0.03    (b)
+    Al2O3     35.1     (a) 28.4    33.5    (b)
+   FeO      0.36     (a) 4.24    1.63    (b)  6.28    (c )
+--- mineralogy block 3; lines 12-24 ---
+Na2O     0.41     (a) 0.63    0.36    (b)  0.58    (c )
+   K2O      0.02     (a) 0.08    0.03    (b)
+   P2O5     0.03     (a)                               Fo                                        Fa
+   S %                                                                                         compiled by C Meyer
+    sum
+
+    Sc ppm                                  6.15    (c )               Figure 3: Composition of pyroxene and olivine in
+   V                                                     60629 (Warner et al. 1976).
+    Cr                                  776     (c )
+   Co                                  66      (c )
+     Ni                                  1321    (c )         References for 60629
+   Cu
+    Zn                                                          Butler P. (1972a) Lunar Sample Information Catalog Apollo
+--- material block 4; lines 24-42 ---
+Zn                                                          Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   Ga                                                         16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   Ge ppb                                                    Catalog. pp. 370.
+    As
+    Se
+   Rb                                            Dowty E., Prinz M. and Keil K. (1974b) Ferroan anorthosite:
+    Sr                                                      a widespread and distinctive lunar rock type. Earth Planet.
+   Y                                                                 Sci. Lett. 24, 15-25.
+     Zr
+   Nb
+   Mo                                                    Keil K., Dowty E., Prinz M. and Bunch T.E. (1972)
+   Ru                                                          Description, classification and inventory of 151 Apollo 16
+   Rh                                                       rake samples from the LM area and station 5.  Curator’s
+    Pd ppb                                                     Catalog, JSC.
+    Ag ppb
+   Cd ppb
+     In ppb                                      LSPET (1973b) The Apollo 16 lunar samples: Petrographic
+    Sn ppb                                              and chemical description. Science 179, 23-34.
+    Sb ppb
+--- material block 5; lines 60-72 ---
+Hf                                       3.21    (c )          Sutton R.L. (1981) Documentation of Apollo 16 samples.
+    Ta                                       0.35    (c )           In Geology of the Apollo 16 area, central lunar highlands.
+  W ppb                                                      (Ulrich et al. ) U.S.G.S. Prof. Paper 1048.
+   Re ppb
+   Os ppb
+       Ir ppb                                               Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+     Pt ppb                                              and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+    Au ppb                                              from the LM area and station 5.  Spec. Publ. #13, UNM
+    Th ppm                                  2.34    (c )
+   U ppm                                   0.52    (c )            Institute of Meteoritics, Albuquerque. 87 pp.
+     technique:  (a) Broad beam e. probe, (b) e probe, (c ) INAA
+
+Lunar Sample Compendium
+--- references block 6; lines 1-9 ---
+60629   Table 1. Chemical composition of 60629                    Di                   Hd
+                            glass    interior     glass                           Dowty et al. 1974
+     reference Dowty74   See 86 See 86    Morris86
+     weight
+    SiO2 %   44.6     (a) 45.54   43.94  (b)
+    TiO2      0.01     (a) 0.3     0.03    (b)
+    Al2O3     35.1     (a) 28.4    33.5    (b)
+   FeO      0.36     (a) 4.24    1.63    (b)  6.28    (c )
+   MnO                  0.05             (b)
+--- references block 7; lines 16-28 ---
+sum
+
+    Sc ppm                                  6.15    (c )               Figure 3: Composition of pyroxene and olivine in
+   V                                                     60629 (Warner et al. 1976).
+    Cr                                  776     (c )
+   Co                                  66      (c )
+     Ni                                  1321    (c )         References for 60629
+   Cu
+    Zn                                                          Butler P. (1972a) Lunar Sample Information Catalog Apollo
+   Ga                                                         16. Lunar Receiving Laboratory. MSC 03210 Curator’s
+   Ge ppb                                                    Catalog. pp. 370.
+    As
+    Se
+--- references block 8; lines 64-73 ---
+Os ppb
+       Ir ppb                                               Warner R.D., Dowty E., Prinz M., Conrad G.H., Nehru C.E.
+     Pt ppb                                              and Keil K. (1976c)  Catalog of Apollo 16 rake samples
+    Au ppb                                              from the LM area and station 5.  Spec. Publ. #13, UNM
+    Th ppm                                  2.34    (c )
+   U ppm                                   0.52    (c )            Institute of Meteoritics, Albuquerque. 87 pp.
+     technique:  (a) Broad beam e. probe, (b) e probe, (c ) INAA
+
+Lunar Sample Compendium
+C Meyer 2012
