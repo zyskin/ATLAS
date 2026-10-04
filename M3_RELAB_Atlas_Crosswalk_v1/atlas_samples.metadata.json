@@ -1,0 +1,8 @@
+{
+  "schema": "lpi-lunar-sample-atlas-index-1.0",
+  "created_utc": "2026-10-03T04:29:09.107660+00:00",
+  "source": "https://www.lpi.usra.edu/lunar/samples/atlas/index.cfm",
+  "source_sha256": "6e51e55d81de8686f1c5e8ba843523e3c67755dfd875b48d695d08f73d42ab82",
+  "record_count": 2697,
+  "output_csv": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/atlas_samples.csv"
+}

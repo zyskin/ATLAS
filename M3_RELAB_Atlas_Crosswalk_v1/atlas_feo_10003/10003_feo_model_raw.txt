@@ -1,0 +1,45 @@
+{
+  "sample_id": "10003",
+  "feo_measurements": [
+    {
+      "value_wt_percent": 19.8,
+      "source_reference": "Gast70",
+      "analytical_method": "XRF",
+      "pdf_page": 6,
+      "evidence_quote": "FeO 19.8 (c )",
+      "table_alignment_uncertain": false,
+      "notes": null
+    },
+    {
+      "value_wt_percent": 19.8,
+      "source_reference": "Wiesmann75",
+      "analytical_method": "semi micro XRF",
+      "pdf_page": 6,
+      "evidence_quote": "19.8 (d)",
+      "table_alignment_uncertain": false,
+      "notes": null
+    },
+    {
+      "value_wt_percent": 19.7,
+      "source_reference": "Compston70",
+      "analytical_method": "INAA",
+      "pdf_page": 6,
+      "evidence_quote": "19.7 (e)",
+      "table_alignment_uncertain": false,
+      "notes": null
+    },
+    {
+      "value_wt_percent": 20.51,
+      "source_reference": "Rose70",
+      "analytical_method": "XRF",
+      "pdf_page": 6,
+      "evidence_quote": "20.51 (c )",
+      "table_alignment_uncertain": false,
+      "notes": null
+    }
+  ],
+  "no_numeric_feo_pages": [
+    7
+  ],
+  "warnings": []
+}

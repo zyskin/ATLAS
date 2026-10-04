@@ -1,0 +1,13 @@
+{
+  "schema": "relab-atlas-crosswalk-summary-1.0",
+  "created_utc": "2026-10-03T20:54:40.401973+00:00",
+  "atlas_csv": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/atlas_samples.csv",
+  "relab_source": "/media/maxim/Elements/grants/2024/INSRU/pgdal/cartApollo2026",
+  "measurement_count": 1437,
+  "match_counts": {
+    "exact": 316,
+    "parent": 1050,
+    "unmatched": 71
+  },
+  "warnings": []
+}

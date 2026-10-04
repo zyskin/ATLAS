@@ -1,0 +1,25 @@
+# Place this file inside M3_RELAB_Atlas_Crosswalk_v1 as .gitignore.
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environments and local work
+.venv/
+venv/
+work/
+logs/
+*.part
+
+# Source PDFs and optional HTML caches are reproducible from the inventories.
+atlas_pdfs/
+atlas_detail_cache/
+*.pdf
+
+# Models never belong in this repository.
+*.gguf
+
+# Slurm logs
+slurm-*.out
+slurm-*.err

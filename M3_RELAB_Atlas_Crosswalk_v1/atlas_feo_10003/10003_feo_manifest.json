@@ -1,0 +1,23 @@
+{
+  "schema": "atlas-feo-local-ai-1.0",
+  "sample_id": "10003",
+  "source": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/atlas_feo_10003/10003.pdf",
+  "local_pdf_sha256": "461b62a8c9b8d85d2ba7716d20107fc80e7afaed477e29e58f9e723c1160f7de",
+  "pdf": {
+    "pdf_pages": 10,
+    "pages_with_extractable_text": 10,
+    "candidate_blocks": 2
+  },
+  "evidence_file": "10003_feo_evidence.txt",
+  "evidence_characters": 633,
+  "ai_called": true,
+  "api_url": "http://127.0.0.1:8080/v1/chat/completions",
+  "model_request_name": "local-qwen",
+  "temperature": 0.0,
+  "thinking_requested": false,
+  "result_file": "10003_feo_extraction.json",
+  "raw_model_response_file": "10003_feo_model_raw.txt",
+  "model_reasoning_file": null,
+  "model_usage": {},
+  "validation_warnings": []
+}

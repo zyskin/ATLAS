@@ -1,0 +1,54 @@
+{
+  "sample_id": "10003",
+  "feo_measurements": [
+    {
+      "value_wt_percent": 19.8,
+      "source_reference": "Gast70",
+      "analytical_method": "XRF",
+      "pdf_page": 6,
+      "evidence_quote": "FeO 19.8 (c )",
+      "table_alignment_uncertain": false,
+      "notes": null
+    },
+    {
+      "value_wt_percent": 19.8,
+      "source_reference": "Wiesmann75",
+      "analytical_method": "semi micro XRF",
+      "pdf_page": 6,
+      "evidence_quote": "19.8 (d)",
+      "table_alignment_uncertain": false,
+      "notes": null
+    },
+    {
+      "value_wt_percent": 19.7,
+      "source_reference": "Compston70",
+      "analytical_method": "INAA",
+      "pdf_page": 6,
+      "evidence_quote": "19.7 (e)",
+      "table_alignment_uncertain": false,
+      "notes": null
+    },
+    {
+      "value_wt_percent": 20.51,
+      "source_reference": "Rose70",
+      "analytical_method": "XRF",
+      "pdf_page": 6,
+      "evidence_quote": "20.51 (c )",
+      "table_alignment_uncertain": false,
+      "notes": null
+    }
+  ],
+  "no_numeric_feo_pages": [
+    7
+  ],
+  "warnings": [],
+  "pipeline_validation_warnings": [],
+  "provenance": {
+    "source_pdf": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/atlas_feo_10003/10003.pdf",
+    "source_pdf_sha256": "461b62a8c9b8d85d2ba7716d20107fc80e7afaed477e29e58f9e723c1160f7de",
+    "evidence_file": "10003_feo_evidence.txt",
+    "raw_model_response_file": "10003_feo_model_raw.txt",
+    "model_usage": {},
+    "temperature": 0.0
+  }
+}

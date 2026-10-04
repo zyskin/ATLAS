@@ -1,0 +1,43 @@
+Our table ID: 1
+Apollo parent ID: 10003
+Child/subsample: 173
+RELAB measurement ID: c1ls21
+RELAB specimen ID: LS-CMP-021
+======================================
+
+FeO content
+-----------
+Unknown: no FeO association was found in the extracted RELAB chemistry.
+
+Sample and material information
+-------------------------------
+RELAB specimen name: 10,003,173
+Description: high-Ti mare basalt
+Collection location: Apollo 11 site, Moon
+Specimen type: Returned Lunar Sample
+Material origin: Natural
+Material type: Rock
+Material subtypes: Nonparticulate|Chip
+Atlas sample type: rock
+Atlas lithology: basalt
+
+Substantial comments
+--------------------
+RELAB specimen: 10,003,173; RELAB description: high-Ti mare basalt; Collection: Apollo 11 site, Moon; Specimen type: Returned Lunar Sample; Material origin: Natural; Material type: Rock; Material subtypes: Nonparticulate|Chip; Atlas type: rock; Atlas lithology: basalt; Atlas description: Medium-grained subophitic basalt composed of clinopyroxene, two generations of plagioclase, ilmenite with subordinate cristobalite and mesostasis.; Parent source: atlas_sample_id
+
+Measurement information
+-----------------------
+Instrument: RELAB Bidirectional Spectrometer
+Measurement segments: 1
+Incidence angle: 30 degrees
+Emission angle: 0 degrees
+Phase angle: 30 degrees
+Native fields: Wavelength|Reflectance
+Spectral points: 461
+Wavelength range: 300 to 2600 nm
+Non-increasing wavelength transitions: 0
+Uncertainty: not supplied
+
+Atlas sources
+-------------
+https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2011&sample=10003

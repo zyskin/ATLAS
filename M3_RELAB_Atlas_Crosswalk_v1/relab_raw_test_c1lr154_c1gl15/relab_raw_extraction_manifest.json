@@ -1,0 +1,27 @@
+{
+  "schema": "relab-raw-extraction-manifest-1.0",
+  "created_utc": "2026-10-03T23:52:02.427730+00:00",
+  "purpose": "native-grid extraction only; no interpolation, resampling, smoothing, or normalization",
+  "relab_dir": "/media/maxim/Elements/grants/2024/INSRU/pgdal/cartApollo2026",
+  "output_dir": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/relab_raw_test_c1lr154_c1gl15",
+  "measurement_id_filter": [
+    "c1gl15",
+    "c1lr154"
+  ],
+  "chemistry_scope": "referenced_by_selected_measurements",
+  "hash_inputs": true,
+  "measurement_count": 2,
+  "spectral_point_count": 691,
+  "native_field_count_distribution": {
+    "2": 1,
+    "3": 1
+  },
+  "chemistry_record_count": 1,
+  "warnings": [],
+  "errors": [],
+  "outputs": {
+    "index": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/relab_raw_test_c1lr154_c1gl15/relab_spectrum_index.csv",
+    "points": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/relab_raw_test_c1lr154_c1gl15/relab_spectral_points.csv",
+    "chemistry": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/relab_raw_test_c1lr154_c1gl15/relab_chemistry.csv"
+  }
+}

@@ -1,0 +1,366 @@
+ATLAS / RELAB GITHUB AND STREAMED-PDF TACC WORKFLOW
+==================================================
+
+This version obeys four rules:
+
+1. The two existing local directories are used in place. They are not copied
+   into another local Git working directory.
+2. Git is allowed to track only these two directories:
+
+     cartApollo2026
+     M3_RELAB_Atlas_Crosswalk_v1
+
+3. The PDF pipeline, inventories and extracted outputs live inside the existing
+   M3_RELAB_Atlas_Crosswalk_v1 directory (called $ATLAS below).
+4. Each Atlas PDF is downloaded into temporary storage, parsed, and deleted.
+   Source URLs and SHA-256 hashes remain in the output for traceability.
+
+
+1. DEFINE THE EXISTING DIRECTORIES
+==================================
+
+  PGDAL=/media/maxim/Elements/grants/2024/INSRU/pgdal
+  RELAB="$PGDAL/cartApollo2026"
+  ATLAS="$PGDAL/M3_RELAB_Atlas_Crosswalk_v1"
+
+  test -d "$RELAB" && echo "RELAB found: $RELAB"
+  test -d "$ATLAS" && echo "ATLAS found: $ATLAS"
+
+
+2. CHECK THAT PGDAL IS NOT CONTROLLED BY ANOTHER GIT REPOSITORY
+===============================================================
+
+Run BEFORE `git init`:
+
+  git -C "$PGDAL" rev-parse --show-toplevel
+  find "$PGDAL" -maxdepth 2 -type d -name .git -print
+
+Desired result:
+
+* The first command says this is not a Git repository.
+* The second command prints nothing.
+
+If either command identifies an existing repository, STOP. Do not initialize or
+add anything until its scope is understood.
+
+Also check the remote. At the time this guide was prepared it returned no Git
+references, consistent with an empty repository:
+
+  git ls-remote --symref https://github.com/zyskin/ATLAS.git HEAD
+
+If it now prints an existing branch/commit, STOP and inspect it before creating
+an unrelated history.
+
+
+3. MAKE PGDAL THE WORKING TREE, BUT ALLOW ONLY THE TWO DIRECTORIES
+=================================================================
+
+  cd "$PGDAL"
+  git init -b main
+  git remote add origin https://github.com/zyskin/ATLAS.git
+
+Open the local-only Git exclusion file:
+
+  xdg-open "$PGDAL/.git/info/exclude"
+
+If `xdg-open` does not work, use:
+
+  nano "$PGDAL/.git/info/exclude"
+
+Put this text at the END of that file:
+
+  *
+  !cartApollo2026/
+  !cartApollo2026/**
+  !M3_RELAB_Atlas_Crosswalk_v1/
+  !M3_RELAB_Atlas_Crosswalk_v1/**
+
+  cartApollo2026/**/__pycache__/
+  M3_RELAB_Atlas_Crosswalk_v1/**/__pycache__/
+  **/*.py[cod]
+  **/.pytest_cache/
+  **/.DS_Store
+  M3_RELAB_Atlas_Crosswalk_v1/work/
+  M3_RELAB_Atlas_Crosswalk_v1/**/*.pdf
+  M3_RELAB_Atlas_Crosswalk_v1/**/*.gguf
+  M3_RELAB_Atlas_Crosswalk_v1/**/slurm-*.out
+  M3_RELAB_Atlas_Crosswalk_v1/**/slurm-*.err
+
+`.git/info/exclude` is local Git configuration and is not committed. The Git
+metadata directory `$PGDAL/.git` is also not uploaded as repository content.
+
+Unpack the supplied pipeline DIRECTLY inside the existing Atlas directory:
+
+  cd "$ATLAS"
+  unzip /PATH/TO/atlas_github_tacc_pipeline.zip
+
+This creates:
+
+  $ATLAS/atlas_github_tacc_pipeline
+
+Do not create `ATLAS_git`, `groundtruth`, or another duplicate local tree.
+
+
+4. INSPECT AND COMMIT ONLY THE TWO DIRECTORIES
+==============================================
+
+Return to the Git root:
+
+  cd "$PGDAL"
+
+Check large files and possible credentials:
+
+  find "$RELAB" "$ATLAS" -type f -size +95M -printf '%s  %p\n' | sort -n
+  rg -n 'github_pat_|ghp_|BEGIN (RSA |OPENSSH )?PRIVATE KEY' \
+    "$RELAB" "$ATLAS" || true
+
+Do not commit a GitHub token, private key, Qwen model, source PDF, environment,
+cache, `__pycache__`, or Slurm log. GitHub rejects an ordinary Git object of
+100 MiB or more. If a generated table exceeds 95 MiB, decide whether it should
+be gzip-compressed in place before adding it.
+
+Stage only the two named directories:
+
+  git add -- cartApollo2026 M3_RELAB_Atlas_Crosswalk_v1
+
+This audit command MUST print nothing:
+
+  git diff --cached --name-only | \
+    awk '$0 !~ /^(cartApollo2026|M3_RELAB_Atlas_Crosswalk_v1)\//'
+
+Then inspect exactly what will be published:
+
+  git status --short
+  git diff --cached --stat
+
+If anything unwanted appears, do not commit. Correct the exclusions first.
+
+Configure your identity if needed:
+
+  git config --global user.name "Maxim Zyskin"
+  git config --global user.email "YOUR_GITHUB_EMAIL"
+
+Commit and push:
+
+  git commit -m "Add RELAB and Lunar Sample Atlas ground-truth data"
+  git config --local credential.helper 'cache --timeout=3600'
+  git push -u origin main
+
+For HTTPS GitHub authentication:
+
+* Username prompt: enter your GitHub username.
+* Password prompt: paste your GitHub TOKEN, not the normal account password.
+
+Do not place the token in the remote URL or a script.
+
+For later commits, continue to stage explicit paths only. Never run `git add .`
+from `$PGDAL`.
+
+
+5. DISCOVER PDF URLS WITHOUT RETAINING DETAIL-PAGE HTML
+=======================================================
+
+This visits each Atlas detail page sequentially and writes only the final URL
+inventory. It does not keep the HTML pages because `--cache-dir` is omitted.
+
+  PIPE="$ATLAS/atlas_github_tacc_pipeline"
+  mkdir -p "$ATLAS/data" "$ATLAS/work"
+
+First test ten rows:
+
+  python "$PIPE/code/atlas_pdf_inventory.py" discover \
+    --atlas-csv "$ATLAS/atlas_samples.csv" \
+    --output-csv "$ATLAS/work/atlas_pdf_inventory_test.csv" \
+    --limit 10
+
+Then process the full index:
+
+  python "$PIPE/code/atlas_pdf_inventory.py" discover \
+    --atlas-csv "$ATLAS/atlas_samples.csv" \
+    --output-csv "$ATLAS/data/atlas_pdf_inventory.csv" \
+    --delay 0.5
+
+The final lines report the actual number of PDF links and unique PDF URLs.
+Commit the inventory and pipeline:
+
+  cd "$PGDAL"
+  git add -- M3_RELAB_Atlas_Crosswalk_v1/data/atlas_pdf_inventory.csv \
+             M3_RELAB_Atlas_Crosswalk_v1/atlas_github_tacc_pipeline
+  git diff --cached --stat
+  git commit -m "Add Atlas PDF inventory and preprocessing pipeline"
+  git push origin main
+
+
+6. CLONE THE TWO-DIRECTORY REPOSITORY ON TACC
+=============================================
+
+TACC necessarily has its own remote working copy. This is not another local
+copy on the Ubuntu workstation.
+
+  ssh YOUR_TACC_USERNAME@ls6.tacc.utexas.edu
+  /usr/local/etc/taccinfo
+
+The compute credits are restored. Set PROJECT to the active allocation name
+shown by `taccinfo`:
+
+  PROJECT=YOUR_ACTIVE_PROJECT
+
+Clone the public repository under Scratch:
+
+  cd "$SCRATCH"
+  git clone https://github.com/zyskin/ATLAS.git ATLAS_repo
+
+  TACC_REPO="$SCRATCH/ATLAS_repo"
+  TACC_ATLAS="$TACC_REPO/M3_RELAB_Atlas_Crosswalk_v1"
+  TACC_PIPE="$TACC_ATLAS/atlas_github_tacc_pipeline"
+  TACC_WORK="$SCRATCH/ATLAS_work"
+
+
+7. CREATE THE SMALL TACC PYTHON ENVIRONMENT
+===========================================
+
+Request a development node:
+
+  idev -A "$PROJECT" -p development -N 1 -n 1 -t 00:30:00
+
+On the allocated compute node:
+
+  module load python3/3.9.7
+  python3 -m venv "$SCRATCH/venvs/atlas-pdf"
+  source "$SCRATCH/venvs/atlas-pdf/bin/activate"
+  python -m pip install --upgrade pip
+  python -m pip install -r "$TACC_PIPE/requirements-atlas-pdf.txt"
+
+Run all three offline tests:
+
+  python "$TACC_PIPE/tests/test_atlas_pdf_inventory.py"
+  python "$TACC_PIPE/tests/test_preprocess_atlas_pdf.py"
+  python "$TACC_PIPE/tests/test_fetch_preprocess_atlas_pdf.py"
+
+All must print `PASS`. Then leave the development node:
+
+  exit
+
+
+8. MAKE URL TASKS: NO STORED PDF COLLECTION
+===========================================
+
+  mkdir -p "$TACC_WORK/logs"
+
+  python "$TACC_PIPE/code/atlas_pdf_inventory.py" url-tasks \
+    --inventory-csv "$TACC_ATLAS/data/atlas_pdf_inventory.csv" \
+    --output-tasks "$TACC_WORK/atlas_pdf_url_tasks.tsv" \
+    --kinds all
+
+  TASKS="$TACC_WORK/atlas_pdf_url_tasks.tsv"
+  N=$(wc -l < "$TASKS")
+  echo "Unique PDF tasks: $N"
+  head -n 2 "$TASKS"
+
+
+9. TEST ONE LIVE TACC TASK, THEN RUN THE ARRAY
+=============================================
+
+Each task downloads one PDF to the compute node's `$TMPDIR`, parses it, and
+deletes it even if parsing fails. No PDF directory is created.
+
+  OUT="$TACC_ATLAS/data/atlas_preprocessed"
+  VENV="$SCRATCH/venvs/atlas-pdf"
+  mkdir -p "$OUT"
+  cd "$TACC_WORK/logs"
+
+First test one URL, including outbound network access from a compute node:
+
+  sbatch -A "$PROJECT" --array=1-1 \
+    --output="$TACC_WORK/logs/slurm-atlas-%A_%a.out" \
+    --error="$TACC_WORK/logs/slurm-atlas-%A_%a.err" \
+    "$TACC_PIPE/hpc/slurm_fetch_preprocess_atlas.sbatch" \
+    "$TASKS" "$OUT" "$TACC_PIPE" "$VENV"
+
+After it finishes, inspect its short log and confirm one status file was
+created. If TACC compute nodes block the LPI website, the status will say
+`download_error`; stop instead of submitting the full array.
+
+When the first task succeeds:
+
+  sbatch -A "$PROJECT" --array=1-"$N"%64 \
+    --output="$TACC_WORK/logs/slurm-atlas-%A_%a.out" \
+    --error="$TACC_WORK/logs/slurm-atlas-%A_%a.err" \
+    "$TACC_PIPE/hpc/slurm_fetch_preprocess_atlas.sbatch" \
+    "$TASKS" "$OUT" "$TACC_PIPE" "$VENV"
+
+`%64` means at most 64 separate one-PDF jobs run simultaneously. Use `%1` if
+you literally want only one PDF processed at any moment.
+
+Monitor:
+
+  squeue -u "$USER"
+  find "$OUT/status" -name '*.status.json' | wc -l
+
+
+10. SUMMARIZE, PUSH FROM TACC, THEN PULL LOCALLY
+================================================
+
+After the array finishes:
+
+  source "$VENV/bin/activate"
+  python "$TACC_PIPE/code/summarize_atlas_preprocessing.py" \
+    --output-dir "$OUT" \
+    --index-csv "$OUT/atlas_preprocess_index.csv" \
+    --summary-json "$OUT/atlas_preprocess_summary.json"
+
+The output inside `$TACC_ATLAS/data/atlas_preprocessed` contains:
+
+* `ai_ready/*.txt`: compact evidence with source, hash and PDF page numbers.
+* `json_gz/*.json.gz`: full text plus word coordinates on relevant pages.
+* `status/*.status.json`: success/error/OCR flags and hashes.
+* batch index and summary files.
+
+Commit ONLY the Atlas output directory:
+
+  cd "$TACC_REPO"
+  git pull --ff-only origin main
+  git add -- M3_RELAB_Atlas_Crosswalk_v1/data/atlas_preprocessed
+  git diff --cached --name-only | \
+    awk '$0 !~ /^M3_RELAB_Atlas_Crosswalk_v1\//'
+  git diff --cached --stat
+  git commit -m "Add traceable Atlas PDF preprocessing output"
+  git config --local credential.helper 'cache --timeout=3600'
+  git push origin main
+
+At the GitHub prompts, enter the username and use the token as the password.
+
+Back on the Ubuntu workstation, the existing local `$ATLAS` directory receives
+the output directly through Git:
+
+  cd "$PGDAL"
+  git pull --ff-only origin main
+
+No second local Atlas or RELAB directory is created.
+
+
+11. SHOULD THE SOURCE PDFs BE KEPT?
+===================================
+
+The default here is NOT to keep them. This is reasonable because:
+
+* the PDFs are relatively small and their URLs are recorded;
+* the output records the exact downloaded SHA-256;
+* complete extracted text is retained, with word coordinates on relevant pages;
+* failed jobs can download the corresponding PDF again.
+
+Reasons one might keep an archival PDF are:
+
+* the website or URL may eventually disappear;
+* the file at a URL might be replaced;
+* later work may need figures, scanned tables, page images or OCR that the
+  present text extraction did not preserve.
+
+The pipeline protects against silent replacement: if a rerun downloads bytes
+whose SHA-256 differs from the previously recorded value, it stops with
+`source_hash_changed` unless explicitly overridden.
+
+A practical compromise is therefore: delete successful text-readable PDFs, as
+this workflow does, and manually retain only unusual PDFs that need OCR, visual
+inspection or repeated debugging. A `needs_ocr` flag identifies empty scanned
+documents that need such a second pass.
