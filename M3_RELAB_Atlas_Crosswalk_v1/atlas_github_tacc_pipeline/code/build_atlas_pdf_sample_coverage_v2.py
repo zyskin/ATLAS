@@ -122,10 +122,19 @@ def read_csv(path: Path) -> tuple[list[dict[str, str]], list[str]]:
 
 
 def atlas_id_tokens(text: str) -> Iterable[str]:
-    """Yield five-digit IDs, including forms such as 15,041."""
-    pattern = re.compile(r"(?<!\d)(?:(\d{5})|(\d{2}),(\d{3}))(?!\d)")
+    """Yield Atlas IDs, including 10072A and comma forms such as 15,041."""
+    pattern = re.compile(
+        r"(?<![A-Za-z0-9])"
+        r"(?:(\d{5}[A-Za-z]+)|(\d{5})|(\d{2}),(\d{3})([A-Za-z]+)?)"
+        r"(?![A-Za-z0-9])"
+    )
     for match in pattern.finditer(text):
-        yield match.group(1) or f"{match.group(2)}{match.group(3)}"
+        if match.group(1):
+            yield match.group(1)
+        elif match.group(2):
+            yield match.group(2)
+        else:
+            yield f"{match.group(3)}{match.group(4)}{match.group(5) or ''}"
 
 
 def document_kind(url: str) -> str:
@@ -339,7 +348,10 @@ def main(argv: list[str] | None = None) -> int:
         atlas_by_id: dict[str, dict[str, str]] = {}
         for row_number, row in enumerate(atlas_rows, 2):
             sample_id = clean(row.get("atlas_sample_id"))
-            if not re.fullmatch(r"\d{5}", sample_id):
+            # The Atlas contains ordinary five-digit sample numbers and a
+            # small number of explicitly indexed letter-suffixed records,
+            # currently including 10072A and 10072D.
+            if not re.fullmatch(r"\d{5}[A-Za-z]*", sample_id):
                 raise ValueError(f"Invalid Atlas sample ID {sample_id!r} at CSV row {row_number}")
             atlas_by_id.setdefault(sample_id, row)
         known_ids = set(atlas_by_id)
