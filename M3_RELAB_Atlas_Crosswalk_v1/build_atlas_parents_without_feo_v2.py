@@ -26,6 +26,7 @@ import argparse
 import csv
 import json
 import math
+import re
 import sys
 from collections import defaultdict
 from pathlib import Path
@@ -122,6 +123,21 @@ def parse_parent(value: object, source: str) -> int:
     return parent
 
 
+def parse_pdf_parents(value: object, source: str) -> list[int]:
+    """Read one or several comma-joined Atlas sample IDs from Stage 2.
+
+    Multi-sample PDF documents cannot identify which listed sample owns a table
+    cell without further inspection.  Callers therefore force such rows into a
+    review-only category.
+    """
+    text = clean(value)
+    parents = [int(item) for item in re.findall(r"(?<!\d)\d{5}(?!\d)", text)]
+    parents = list(dict.fromkeys(parents))
+    if not parents:
+        raise ValueError(f"Invalid Atlas sample ID {text!r} in {source}")
+    return parents
+
+
 def parse_float(value: object, source: str) -> float:
     text = clean(value)
     try:
@@ -213,24 +229,30 @@ def classify_pdf_rows(
     }
 
     for row_number, row in enumerate(pdf_rows, 2):
-        parent = parse_parent(row.get("atlas_sample_id", ""), f"PDF FeO row {row_number}")
-        if parent not in grouped:
-            continue
+        parents = parse_pdf_parents(
+            row.get("atlas_sample_id", ""), f"PDF FeO row {row_number}"
+        )
         # Validate the numeric value even though the output retains value_text.
         parse_float(row.get("value_wt_percent", ""), f"PDF FeO row {row_number}")
         scope = clean(row.get("sample_scope", "")).casefold()
         needs_review = clean(row.get("needs_review", "")).casefold() in {
             "yes", "true", "1"
         }
-        if scope == "bulk_or_whole_sample":
-            key = "review_bulk" if needs_review else "accepted_bulk"
-        elif scope == "mineral_phase":
-            key = "mineral_phase"
-        else:
-            # Unspecified scope can be a parent value, but it cannot be accepted
-            # until the table context is reviewed.
-            key = "review_unspecified"
-        grouped[parent][key].append(row)
+        multiple_parents = len(parents) > 1
+        for parent in parents:
+            if parent not in grouped:
+                continue
+            if scope == "bulk_or_whole_sample":
+                # Even an otherwise accepted row is ambiguous when its source
+                # document names more than one Atlas sample.
+                key = "review_bulk" if needs_review or multiple_parents else "accepted_bulk"
+            elif scope == "mineral_phase":
+                key = "mineral_phase"
+            else:
+                # Unspecified scope can be a parent value, but it cannot be accepted
+                # until the table context is reviewed.
+                key = "review_unspecified"
+            grouped[parent][key].append(row)
     return grouped
 
 
