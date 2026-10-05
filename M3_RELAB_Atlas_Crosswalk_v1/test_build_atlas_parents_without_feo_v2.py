@@ -32,6 +32,19 @@ class ParentsWithoutFeOV2Tests(unittest.TestCase):
         self.assertEqual(by_parent[10005]["pdf_feo_mineral_phase_not_parent_wt_percent"], "5.0")
         self.assertEqual([row["apollo_parent_id"] for row in no_rows], [10005, 10009])
 
+    def test_multi_sample_pdf_id_is_review_only(self):
+        baseline = {10019: {"r19"}, 10066: {"r66"}}
+        pdf = [{
+            "measurement_id": "31", "document_id": "multi", "atlas_sample_id": "10019,10066",
+            "pdf_page": "2", "value_wt_percent": "14.2", "value_text": "14.2",
+            "sample_scope": "bulk_or_whole_sample", "needs_review": "no",
+        }]
+        grouped = v2.classify_pdf_rows(pdf, baseline)
+        self.assertFalse(grouped[10019]["accepted_bulk"])
+        self.assertFalse(grouped[10066]["accepted_bulk"])
+        self.assertEqual(len(grouped[10019]["review_bulk"]), 1)
+        self.assertEqual(len(grouped[10066]["review_bulk"]), 1)
+
 
 if __name__ == "__main__":
     unittest.main()
