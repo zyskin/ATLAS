@@ -27,6 +27,7 @@ class CoverageTests(unittest.TestCase):
                         {"atlas_sample_id": "15040", "mission": "Apollo 15", "detail_url": "b"},
                         {"atlas_sample_id": "15041", "mission": "Apollo 15", "detail_url": "c"},
                         {"atlas_sample_id": "15042", "mission": "Apollo 15", "detail_url": "d"},
+                        {"atlas_sample_id": "10072A", "mission": "Apollo 11", "detail_url": "e"},
                     ]
                 )
             parsed = root / "parsed" / "json_gz"
@@ -50,7 +51,10 @@ class CoverageTests(unittest.TestCase):
                     },
                     {
                         "page_number": 9,
-                        "text": "Processing and allocation\n15040 parent soil\n15041 split for analysis",
+                        "text": (
+                            "Processing and allocation\n15040 parent soil\n"
+                            "15041 split for analysis\n10072A is separately indexed"
+                        ),
                         "chemistry_layout": {"feo_rows": []},
                     },
                 ],
@@ -81,6 +85,8 @@ class CoverageTests(unittest.TestCase):
             self.assertEqual(row_15041["association_needs_review"], "yes")
             self.assertEqual(row_15041["document_has_feo_rows"], "yes")
             self.assertEqual(row_15041["document_feo_pages"], "8")
+            row_10072a = next(row for row in rows if row["atlas_sample_id"] == "10072A")
+            self.assertEqual(row_10072a["association_source"], "pdf_text_indirect")
             with (output / "atlas_samples_without_pdf_coverage.csv").open(
                 newline="", encoding="utf-8"
             ) as handle:
