@@ -1,0 +1,31 @@
+{
+  "counts": {
+    "atlas_parents_with_relab": 124,
+    "baseline_parents_without_relab_feo": 89,
+    "parents_with_any_relab_feo": 35,
+    "parents_without_relab_or_parent_level_pdf_feo": 21,
+    "pdf_status_counts": {
+      "accepted_pdf_bulk_feo": 4,
+      "accepted_pdf_bulk_feo_plus_review_candidates": 18,
+      "no_parent_level_pdf_feo_candidate": 21,
+      "review_only_pdf_parent_feo_candidates": 46
+    },
+    "v2_rows": 89
+  },
+  "definitions": {
+    "accepted_pdf_bulk_feo": "sample_scope=bulk_or_whole_sample and needs_review=no",
+    "mineral_phase": "reported separately and never counted as parent/whole-sample FeO",
+    "no_feo_in_relab_or_atlas_pdfs": "no RELAB FeO and no accepted or review-only parent-level PDF FeO candidate",
+    "review_pdf_parent_candidate": "bulk/whole-sample row marked for review, or sample scope unspecified"
+  },
+  "inputs": {
+    "atlas_feo_table": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/relab_raw_native_2026-10-04/atlas_relab_feo_table.csv",
+    "pdf_feo_table": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/structured_v1/atlas_feo_measurements.csv"
+  },
+  "outputs": {
+    "all_baseline_parents": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/structured_v1/atlas_parents_without_relab_feo_with_pdf_feo_v2.csv",
+    "no_feo_in_relab_or_atlas_pdfs": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/structured_v1/atlas_parents_without_feo_in_relab_or_atlas_pdfs.csv"
+  },
+  "program": "atlas-parents-without-feo-v2-1.0",
+  "schema": "atlas-parents-without-feo-v2-summary-1.0"
+}

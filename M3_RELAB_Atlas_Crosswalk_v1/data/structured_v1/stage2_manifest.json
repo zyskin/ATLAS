@@ -1,0 +1,41 @@
+{
+  "created_utc": "2026-10-04T16:22:33.175812+00:00",
+  "document_count": 706,
+  "errors": [],
+  "feo_measurement_count": 3959,
+  "feo_review_count": 3047,
+  "input_json_gz_count": 706,
+  "narrative_page_count": 3368,
+  "notes": [
+    "Blank or absent FeO cells are not converted to zero.",
+    "Only coordinate-recovered numeric FeO cells appear in atlas_feo_measurements.csv.",
+    "Rows marked needs_review=yes must not be treated as final ground truth.",
+    "Narrative pages exclude pages beginning at an explicit References/Bibliography heading."
+  ],
+  "outputs": {
+    "atlas_documents.csv": {
+      "bytes": 156308,
+      "sha256": "6e8d367bbc9bc0ccde3e7fe4f41a44cfc150ed16cdd4a99243ff505e4932e817"
+    },
+    "atlas_feo_measurements.csv": {
+      "bytes": 1492111,
+      "sha256": "fe41524904e898852b8dc8e3e2997300eb06c20fb8ff3a865e9893eaed39892e"
+    },
+    "atlas_narrative_pages.jsonl": {
+      "bytes": 11462173,
+      "sha256": "f32fac3b6a52c29c28473bc3aaeff5d4047ffb5b54168e7639dbd9ad9607d714"
+    },
+    "atlas_review_queue.csv": {
+      "bytes": 1076947,
+      "sha256": "8b331f598fef8e6bd7a53a8b8d8e868834af4de46742351a65f12c46986a9cfd"
+    },
+    "atlas_samples_enriched.csv": {
+      "bytes": 671994,
+      "sha256": "06810cb36b2c7ebf3bf1bd03991b3c1a61247334c7f2d0d31d690275c7d1b05d"
+    }
+  },
+  "program": "atlas-stage2-0.1.0",
+  "python": "3.12.14",
+  "review_queue_count": 3281,
+  "schema": "atlas-stage2-manifest-1.0"
+}
