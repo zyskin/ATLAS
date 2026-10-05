@@ -1,0 +1,43 @@
+{
+  "counts": {
+    "atlas_sample_count": 2697,
+    "direct_associations": 1066,
+    "distinct_indirect_sample_ids": 1812,
+    "errors": 0,
+    "indirect_associations": 4826,
+    "indirect_snippets": 6467,
+    "sample_document_associations": 5892,
+    "samples_without_parsed_pdf_coverage": 669,
+    "warnings": 0
+  },
+  "created_utc": "2026-10-05T23:32:39.721116+00:00",
+  "errors": [],
+  "inputs": {
+    "atlas_csv": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/atlas_samples.csv",
+    "parsed_json_dir": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/parsed/json_gz",
+    "parsed_pdf_count": 706
+  },
+  "interpretation_rules": [
+    "An indirect association means only that a known Atlas sample ID occurs in the PDF text.",
+    "Every indirect association requires review.",
+    "A FeO row elsewhere in the same document is not automatically assigned to an indirectly mentioned sample.",
+    "Table-column ownership and parent/child transfer must be established separately."
+  ],
+  "outputs": {
+    "atlas_indirect_pdf_snippets.csv": {
+      "bytes": 3415025,
+      "sha256": "a2de8b622239d60adaef175e949f70da851e9847075103802e366f4bd8a9d6a7"
+    },
+    "atlas_pdf_sample_coverage_combined.csv": {
+      "bytes": 2192932,
+      "sha256": "0e55c9b12324c7793db6529ca987e526a789f51e0667d47a42fe2c5d438731bb"
+    },
+    "atlas_samples_without_pdf_coverage.csv": {
+      "bytes": 147048,
+      "sha256": "518d39d379fff8ddf6bdd50635de7cbce1c0b35c27d0e22ed651a3ff4e6d2182"
+    }
+  },
+  "program": "atlas-pdf-sample-coverage-v2-1.0",
+  "schema": "atlas-pdf-sample-coverage-v2-summary-1.0",
+  "warnings": []
+}
