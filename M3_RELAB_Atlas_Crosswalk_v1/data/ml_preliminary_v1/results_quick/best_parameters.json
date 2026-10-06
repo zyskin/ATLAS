@@ -1,0 +1,170 @@
+{
+  "final": {
+    "ridge": {
+      "model__alpha": 10.0
+    },
+    "pls": {
+      "model__n_components": 4
+    },
+    "svr_rbf": {
+      "model__C": 10.0,
+      "model__epsilon": 0.5,
+      "model__gamma": "scale"
+    },
+    "extra_trees": {
+      "model__max_features": 1.0,
+      "model__min_samples_leaf": 1,
+      "model__n_estimators": 300
+    }
+  },
+  "outer_folds": {
+    "ridge": [
+      {
+        "fold": 1,
+        "parameters": {
+          "model__alpha": 10.0
+        }
+      },
+      {
+        "fold": 2,
+        "parameters": {
+          "model__alpha": 1.0
+        }
+      },
+      {
+        "fold": 3,
+        "parameters": {
+          "model__alpha": 0.1
+        }
+      },
+      {
+        "fold": 4,
+        "parameters": {
+          "model__alpha": 1.0
+        }
+      },
+      {
+        "fold": 5,
+        "parameters": {
+          "model__alpha": 1.0
+        }
+      }
+    ],
+    "pls": [
+      {
+        "fold": 1,
+        "parameters": {
+          "model__n_components": 2
+        }
+      },
+      {
+        "fold": 2,
+        "parameters": {
+          "model__n_components": 4
+        }
+      },
+      {
+        "fold": 3,
+        "parameters": {
+          "model__n_components": 8
+        }
+      },
+      {
+        "fold": 4,
+        "parameters": {
+          "model__n_components": 4
+        }
+      },
+      {
+        "fold": 5,
+        "parameters": {
+          "model__n_components": 4
+        }
+      }
+    ],
+    "svr_rbf": [
+      {
+        "fold": 1,
+        "parameters": {
+          "model__C": 10.0,
+          "model__epsilon": 0.5,
+          "model__gamma": "scale"
+        }
+      },
+      {
+        "fold": 2,
+        "parameters": {
+          "model__C": 10.0,
+          "model__epsilon": 0.5,
+          "model__gamma": "scale"
+        }
+      },
+      {
+        "fold": 3,
+        "parameters": {
+          "model__C": 10.0,
+          "model__epsilon": 0.5,
+          "model__gamma": "scale"
+        }
+      },
+      {
+        "fold": 4,
+        "parameters": {
+          "model__C": 10.0,
+          "model__epsilon": 0.5,
+          "model__gamma": "scale"
+        }
+      },
+      {
+        "fold": 5,
+        "parameters": {
+          "model__C": 10.0,
+          "model__epsilon": 0.5,
+          "model__gamma": "scale"
+        }
+      }
+    ],
+    "extra_trees": [
+      {
+        "fold": 1,
+        "parameters": {
+          "model__max_features": 0.5,
+          "model__min_samples_leaf": 1,
+          "model__n_estimators": 300
+        }
+      },
+      {
+        "fold": 2,
+        "parameters": {
+          "model__max_features": 0.5,
+          "model__min_samples_leaf": 1,
+          "model__n_estimators": 300
+        }
+      },
+      {
+        "fold": 3,
+        "parameters": {
+          "model__max_features": 0.5,
+          "model__min_samples_leaf": 3,
+          "model__n_estimators": 300
+        }
+      },
+      {
+        "fold": 4,
+        "parameters": {
+          "model__max_features": 0.5,
+          "model__min_samples_leaf": 1,
+          "model__n_estimators": 300
+        }
+      },
+      {
+        "fold": 5,
+        "parameters": {
+          "model__max_features": 1.0,
+          "model__min_samples_leaf": 1,
+          "model__n_estimators": 300
+        }
+      }
+    ]
+  }
+}

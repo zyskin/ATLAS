@@ -1,0 +1,5 @@
+apollo_parent_id,value_wt_percent,include,source_kind,scope,source_id,source_url,reference,note
+72435,8.7,yes,atlas_pdf_manually_reviewed,bulk_or_whole_sample,72435_table2_LSPET73,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72435.pdf,LSPET 1973,"Table 2, page 6; XRF method code (b)"
+72435,10.4,yes,atlas_pdf_manually_reviewed,bulk_or_whole_sample,72435_table2_Murali77,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72435.pdf,Murali et al. 1977,"Table 2, page 6; INAA method code (c)"
+72435,8.01,yes,atlas_pdf_manually_reviewed,bulk_or_whole_sample,72435_table2_Dymek76_calculated,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72435.pdf,Dymek et al. 1976,"Table 2, page 6; calculated composition"
+72435,8.48,yes,atlas_pdf_manually_reviewed,bulk_or_whole_sample,72435_table2_Dymek76_measured,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72435.pdf,Dymek et al. 1976,"Table 2, page 6; measured by electron probe; separate column from calculated value"
