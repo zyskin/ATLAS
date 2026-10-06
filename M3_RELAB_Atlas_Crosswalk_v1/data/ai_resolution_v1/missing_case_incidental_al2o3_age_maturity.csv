@@ -1,0 +1,34 @@
+apollo_parent_id,property,values,units_or_scale,scope,source_url,source_locator,needs_review,note
+15041,maturity,66,Is/FeO,20-45 um fraction,https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JE003982,Table 1,no,
+15411,Al2O3,"15.1;15.08;15.5",wt.%,soil 15411,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15410.pdf,PDF page 3 Table 1,no,
+15411,maturity,43,Is/FeO,soil 15411,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/15410.pdf,PDF page 1,no,Submature.
+60051,Al2O3,28.5,wt.%,sample 60051,https://adsabs.harvard.edu/full/1973LPI.....4..505M,Simkin et al. 1973 Table 1,no,Compendium independently reproduces 28.5 among additional determinations.
+60501,Al2O3,"26.84;26.45;25.54;25.5;26.6;26.4;26.71;27.4",wt.%,documented fine split 60501,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60500.pdf,PDF page 3 Table 1,no,
+60501,maturity,80,Is/FeO,parent soil 60500 context,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60500.pdf,PDF page 1,no,Mature soil; parent/fine-split nomenclature retained.
+61141,Al2O3,"26.4;26.5",wt.%,soil fraction 61141,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61181.pdf,PDF page 5 Table 1,no,
+61141,maturity,76,Is/FeO,20-45 um fraction,https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JE003982,Table 1,no,
+61161,Al2O3,26.3,wt.%,soil split 61161,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61181.pdf,PDF page 5 Table 2,no,
+61241,Al2O3,"27.15;25.89;26.6;27.35",wt.%,soil split 61241,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61221.pdf,PDF page 9 Table 2,no,
+61501,Al2O3,"26.5;27.2;26.07;26.83;26.83;26.78",wt.%,documented fine split 61501,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61500.pdf,PDF page 4 Table 1,no,
+61501,maturity,53,Is/FeO,parent soil 61500 context,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61500.pdf,PDF page 1,no,Submature; parent/fine-split nomenclature retained.
+61501,surface_irradiation_age,24,Ma,parent soil 61500 context,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/61500.pdf,PDF page 3,no,This is a suntan/exposure age and not a rock-formation age.
+63341,Al2O3,29,wt.%,documented fine split 63341,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63320.pdf,PDF page 9 Table 2,no,
+63341,maturity,54,Is/FeO,parent soil 63340/fine split 63341,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63320.pdf,PDF page 2,no,Submature.
+63341,cosmic_ray_exposure_age,290,Ma,shadowed soil listed as 63241 in text,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63320.pdf,PDF page 3,yes,The printed sample number may be a typographical error for 63341; do not use until checked against Eberhardt et al. 1976.
+63501,Al2O3,"27.72;27.71;27.78;27.8;27.6;28;27.6;28.4",wt.%,soil split 63501,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63501.pdf,PDF pages 5-6 Tables 1a-1b,no,
+63501,maturity,46,Is/FeO,parent soil 63500/fine split 63501,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63501.pdf,PDF page 2,no,Submature.
+63501,particle_exposure_age,40-150,Ma,particles from 63503,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63501.pdf,PDF page 3,no,Component/particle scope; not bulk 63501.
+63501,surface_irradiation_age,greater than 100,Ma,soil context,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/63501.pdf,PDF page 3,no,Suntan exposure age; not formation age.
+64421,Al2O3,"27.6;27.8;27.4;27.62;27.82;27.63",wt.%,soil split 64421,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64420.pdf,PDF page 4 Table 1,no,
+64421,maturity,83,Is/FeO,parent soil 64420/fine split 64421,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64420.pdf,PDF page 1,no,Mature soil.
+64421,neon_exposure_age,210,Ma,soil context,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64420.pdf,PDF page 2,no,Cosmic-ray exposure age; not formation age.
+65315,Al2O3,"glass:25.7;25.56|anorthosite:34.87;34.86",wt.%,phase-specific,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65315.pdf,PDF page 6 Table 1,no,Do not collapse glass and anorthosite values.
+65315,cosmic_ray_exposure_age,1.3-1.8,Ma,whole-rock exposure history,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65315.pdf,PDF pages 2 and 4,no,Compendium also contains an apparent b.y. typographical inconsistency for one 81Kr statement; broad consensus range retained.
+67511,Al2O3,28.6,wt.%,soil split 67511,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67481.pdf,PDF page 5 Table 2,no,
+67711,Al2O3,"30.27;29.4",wt.%,sample 67711,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67701.pdf,PDF page 6 Table 2,no,The 29.4 value is independently present in Simkin et al. 1973.
+69921,Al2O3,"26.2;26;26.3",wt.%,soil split 69921,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/69921.pdf,PDF page 5 Table 1,no,
+69921,maturity,90,Is/FeO,soil split 69921,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/69921.pdf,PDF page 2,no,Very mature soil.
+69941,Al2O3,"24.2;26.3;26.4",wt.%,soil split 69941,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/69921.pdf,PDF page 6 Table 2,no,
+69941,maturity,85,Is/FeO,soil split 69941,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/69921.pdf,PDF page 2,no,Very mature soil.
+72321,Al2O3,"20.57;21.4;21.1",wt.%,soil 72320/fine split 72321,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72320.pdf,PDF page 4 Table 1,no,The final Al2O3 value 18.6 belongs to the Boulder 2 average and is excluded.
+72321,maturity,73,Is/FeO,parent soil 72320/fine split 72321,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72320.pdf,PDF page 2,no,Mature soil.
