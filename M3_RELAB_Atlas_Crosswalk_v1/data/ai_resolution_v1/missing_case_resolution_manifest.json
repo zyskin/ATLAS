@@ -1,0 +1,30 @@
+{
+  "schema": "atlas-feo-missing-case-resolution-checkpoint-1.0",
+  "created_utc": "2026-10-06T00:57:20Z",
+  "priority_order": [
+    "complete all existing review_only_pdf_parent_feo_candidates adjudications",
+    "then investigate the separate no-accepted-source queue"
+  ],
+  "prerequisite_checkpoint": "review_resolution_manifest.json",
+  "input_queue": "M3_RELAB_Atlas_Crosswalk_v1/data/structured_v1/atlas_parents_without_feo_in_relab_or_atlas_pdfs.csv",
+  "counts": {
+    "input_cases": 21,
+    "resolved_with_sample_or_documented_fraction_feo": 16,
+    "remaining_without_usable_parent_or_matched_fraction_feo": 5,
+    "remaining_case_ids": [60215, 65315, 67729, 69003, 69004]
+  },
+  "rules": [
+    "Resolve the existing review-candidate queue before spending effort on cases with no accepted source.",
+    "Preserve every published FeO determination; do not average values.",
+    "Accept a value only when the source identifies the exact sample or a documented fraction/split that can be linked to it.",
+    "Do not promote mineral, glass-coating, clast, or other component values to parent-bulk ground truth.",
+    "If a table combines soil and boulder/component columns, exclude values explicitly assigned to the other material.",
+    "Google/AI summaries are discovery leads only and are not accepted without primary-source verification.",
+    "Record incidental Al2O3, age, and maturity only when encountered during FeO verification; do not broaden the search solely to find them."
+  ],
+  "outputs": [
+    "missing_case_resolutions.csv",
+    "missing_case_remaining.csv",
+    "missing_case_incidental_al2o3_age_maturity.csv"
+  ]
+}
