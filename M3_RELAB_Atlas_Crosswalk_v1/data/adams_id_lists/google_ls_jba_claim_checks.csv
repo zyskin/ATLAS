@@ -1,0 +1,12 @@
+google_claim,checked_exact_identifier,claimed_sample,verified_sample,status,evidence_source,comment
+"LS-JBA-006 group -> 10084",LS-JBA-006-P1/CLS052,10084,10084,partly_verified,"Bhatt 2012 Appendix B Table B.1","Only this exact suffix/CLS pair is verified"
+"LS-JBA-036 group -> 12042",LS-JBA-036-P2/CLS476,12042,12042,partly_verified,"Bhatt 2012 Appendix B Table B.1","Only this exact suffix/CLS pair is verified"
+"LS-JBA-060 group -> 12070",LS-JBA-060-P1/CLS531,12070,12070,partly_verified,"Bhatt 2012 Appendix B Table B.1","Only this exact suffix/CLS pair is verified"
+"LS-JBA-070..076 -> 14163",LS-JBA-070-P/CLS237,14163,14003,contradicted,"Bhatt 2012 Appendix B Table B.1","Range does not identify one Apollo sample"
+"LS-JBA-070..076 -> 14163",LS-JBA-076-P1/CLS271,14163,14141,contradicted,"Bhatt 2012 Appendix B Table B.1","Range does not identify one Apollo sample"
+"LS-JBA-081..086 -> 14259",LS-JBA-081-P/CLS391,14259,14148,contradicted,"Bhatt 2012 Appendix B Table B.1","14259 is LS-JBA-091-P4/CLS036 in this source"
+"LS-JBA-088..092 -> 14310",LS-JBA-088-P/CLS174,14310,14163,contradicted,"Bhatt 2012 Appendix B Table B.1","Range contains multiple Apollo samples"
+"LS-JBA-088..092 -> 14310",LS-JBA-091-P4/CLS036,14310,14259,contradicted,"Bhatt 2012 Appendix B Table B.1","Range contains multiple Apollo samples"
+"LS-JBA-115..125 -> 15058",LS-JBA-116-P2/CLS254,15058,15231,contradicted,"Bhatt 2012 Appendix B Table B.1","Range contains multiple Apollo samples"
+"LS-JBA-126..130 -> 15555",LS-JBA-130-P/CLS086,15555,15601,contradicted,"Bhatt 2012 Appendix B Table B.1","Range contains multiple Apollo samples"
+"LS-JBA-140..145 -> 15601",LS-JBA-141-M/CLS221,15601,"Luna 24 sample 24077",contradicted,"Bhatt 2012 Appendix B Table B.1","Claim even assigns the wrong mission/body"

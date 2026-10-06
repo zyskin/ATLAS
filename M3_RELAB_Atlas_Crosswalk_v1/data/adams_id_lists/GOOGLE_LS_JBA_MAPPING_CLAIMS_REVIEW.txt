@@ -1,0 +1,125 @@
+GOOGLE LS-JBA MAPPING CLAIMS: VERIFICATION NOTE
+Date checked: 2026-10-06
+
+PROVENANCE AND STATUS
+---------------------
+The proposed group-to-Apollo mapping was supplied by the user from a Google AI
+answer.  It is preserved here as a search lead only.  It must not be imported
+as ground-truth data.
+
+MAIN FINDING
+------------
+The answer contains a few correct-looking examples, but its central rule is
+wrong: an LS-JBA numeric range does not generally translate to one Apollo
+sample.  Exact specimen IDs (including suffix) and, preferably, the associated
+CLS measurement ID must be matched to an explicit catalog or literature row.
+
+CHECKED EXAMPLES
+----------------
+
+1. Google claim: LS-JBA-006 and all listed suffixes -> Apollo 10084.
+   Result: PARTLY VERIFIED.
+   Explicit source row found:
+       LS-JBA-006-P1 / CLS052 -> Apollo 10084
+   This verifies that exact specimen/measurement pair only.  It does not, by
+   itself, prove that every -M, -N, and -P suffix belongs to 10084.
+
+2. Google claim: LS-JBA-036 group -> Apollo 12042.
+   Result: PARTLY VERIFIED.
+   Explicit source row found:
+       LS-JBA-036-P2 / CLS476 -> Apollo 12042
+
+3. Google claim: LS-JBA-060 group -> Apollo 12070.
+   Result: PARTLY VERIFIED.
+   Explicit source row found:
+       LS-JBA-060-P1 / CLS531 -> Apollo 12070
+
+4. Google claim: LS-JBA-070 through LS-JBA-076 -> Apollo 14163.
+   Result: CONTRADICTED.
+   Explicit source rows include:
+       LS-JBA-070-P  / CLS237 -> Apollo 14003
+       LS-JBA-076-P1 / CLS271 -> Apollo 14141
+   Apollo 14163 is instead explicitly paired with LS-JBA-088-P / CLS174.
+
+5. Google claim: LS-JBA-081 through LS-JBA-086 -> Apollo 14259.
+   Result: CONTRADICTED.
+   Example:
+       LS-JBA-081-P / CLS391 -> Apollo 14148
+   Apollo 14259 is explicitly paired with LS-JBA-091-P4 / CLS036.
+
+6. Google claim: LS-JBA-088 through LS-JBA-092 -> Apollo 14310.
+   Result: CONTRADICTED.
+   Explicit rows include:
+       LS-JBA-088-P  / CLS174 -> Apollo 14163
+       LS-JBA-091-P4 / CLS036 -> Apollo 14259
+       LS-JBA-092-PX / CLS428 -> Apollo 14260
+
+7. Google claim: LS-JBA-115 through LS-JBA-125 -> Apollo 15058.
+   Result: CONTRADICTED.
+   Explicit rows include:
+       LS-JBA-116-P2 / CLS254 -> Apollo 15231
+       LS-JBA-119-P2 / CLS260 -> Apollo 15271
+       LS-JBA-120-P1 / CLS279 -> Apollo 15301
+       LS-JBA-125-P3 / CLS467 -> Apollo 15471
+
+8. Google claim: LS-JBA-126 through LS-JBA-130 -> Apollo 15555.
+   Result: CONTRADICTED.
+   Explicit rows include:
+       LS-JBA-127-P2 / CLS408 -> Apollo 15501
+       LS-JBA-128-P1 / CLS286 -> Apollo 15531
+       LS-JBA-130-P  / CLS086 -> Apollo 15601
+
+9. Google claim: LS-JBA-140 through LS-JBA-145 -> Apollo 15601.
+   Result: CONTRADICTED, including wrong celestial body.
+   Several identifiers in this range are Luna 24 material, not Apollo 15:
+       LS-JBA-141-M  / CLS221 -> Luna 24 sample 24077
+       LS-JBA-143-P1 / CLS107 -> Luna 24 sample 24149
+       LS-JBA-144-P2 / CLS109 -> Luna 24 sample 24174
+       LS-JBA-145-P3 / CLS111 -> Luna 24 sample 24182
+
+SUFFIX WARNING
+--------------
+The Google suffix key is too general to use as metadata.  The meaning of P, M,
+N, X, or a number can depend on the specimen series.  In the checked source,
+for example, M can describe a magnetic fraction and P can describe a bulk
+particulate preparation.  Do not infer grain-size bins or mineral separates
+from the letter alone; retain the suffix verbatim and obtain the preparation
+description from an explicit record.
+
+SOURCES FOUND
+-------------
+
+Primary mapping evidence used above:
+M. U. Bhatt (2012), doctoral thesis, Appendix B, Table B.1,
+"Mineralogical analysis and iron abundance estimation of the Moon using the
+SIR-2 and other VIS-NIR spectrometers on-board the lunar orbiter Chandrayaan-1"
+https://www.mps.mpg.de/phd/theses/mineralogical-analysis-and-iron-abundance-estimation-of-the-moon-using-the-sir-2-and-other-vis-nir-spectrometers-on-board-the-lunar-orbiter-chandrayaan-1.pdf
+
+Official Brown University description and download of the Adams archive:
+https://sites.brown.edu/relab/adams-diffuse-reflectance-0-35-2-5-microns/
+
+The Brown page identifies these as John Adams directional-hemispheric
+reflectance spectra and explains the wavelength-corrected files.  It is not,
+by itself, a complete LS-JBA-to-Apollo-name crosswalk.
+
+LOCAL VERIFICATION ALREADY COMPLETED
+------------------------------------
+Appendix B supplied 68 exact specimen/measurement mappings: 64 Apollo rows
+(60 distinct Apollo sample IDs) and 4 Luna rows.  Every stated Adams specimen
+ID and corrected CLS file was found in the downloaded Adams archive, and the
+file headers agreed with the stated pair.
+
+Files containing the evidence-based result:
+  adams_atlas_mapping_seed_table_b1.csv
+  adams_atlas_crosswalk_validated.csv
+  ADAMS_ATLAS_CROSSWALK_FINDINGS.txt
+
+RECOMMENDED RULE
+----------------
+Accept only an exact mapping of the form:
+
+  full Adams specimen ID + CLS file ID -> Apollo/Luna sample ID
+
+when it is supported by a named source.  Keep unverified Google mappings in a
+separate leads table; do not propagate a verified mapping from one suffix to an
+entire LS-JBA prefix group.
