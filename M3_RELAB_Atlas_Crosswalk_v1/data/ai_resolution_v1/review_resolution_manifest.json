@@ -1,0 +1,36 @@
+{
+  "schema": "atlas-feo-review-adjudication-checkpoint-1.0",
+  "created_utc": "2026-10-06T00:49:34.818Z",
+  "priority": "existing review_only_pdf_parent_feo_candidates before externally unsourced cases",
+  "inputs": {
+    "parent_table": "M3_RELAB_Atlas_Crosswalk_v1/data/structured_v1/atlas_parents_without_relab_feo_with_pdf_feo_v2.csv",
+    "measurement_table": "M3_RELAB_Atlas_Crosswalk_v1/data/structured_v1/atlas_feo_measurements.csv"
+  },
+  "counts": {
+    "candidate_parents": 46,
+    "candidate_parent_measurement_pairs": 402,
+    "unique_measurement_ids": 342,
+    "decisions": {
+      "accepted_parent_or_documented_fraction": 133,
+      "reassigned_to_other_sample": 92,
+      "rejected_duplicate_extraction": 3,
+      "rejected_parser_false_positive": 106,
+      "retained_component_or_subsample_only": 68
+    },
+    "parents_resolved_with_parent_or_documented_fraction_feo": 36,
+    "parents_reviewed_without_parent_bulk_feo": 10,
+    "remaining_unadjudicated_review_candidates": 0
+  },
+  "rules": [
+    "A valid FeO row is accepted only when the table title or visually reviewed column identifies the candidate sample or a labeled fraction of it.",
+    "Is/FeO maturity numbers and Apollo sample identifiers are not FeO concentrations.",
+    "Values belonging to another table/sample are retained and reassigned, not deleted.",
+    "Component, coating/interior, magnetic fraction, lithology, and named subsample values are retained but not treated as parent-bulk FeO.",
+    "Repeated parser detections of the same cell are marked as duplicates."
+  ],
+  "outputs": [
+    "review_candidate_adjudications.csv",
+    "review_parent_summary.csv",
+    "incidental_al2o3_age_maturity.csv"
+  ]
+}
