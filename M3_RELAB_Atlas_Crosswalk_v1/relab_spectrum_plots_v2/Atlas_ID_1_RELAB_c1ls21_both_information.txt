@@ -1,0 +1,90 @@
+Our table ID: 1
+Apollo parent ID: 10003
+Child/subsample: 173
+RELAB measurement ID: c1ls21
+RELAB specimen ID: LS-CMP-021
+======================================
+
+FeO content
+-----------
+Unknown: no FeO association was found in the extracted RELAB chemistry.
+
+Sample and material information
+-------------------------------
+RELAB specimen name: 10,003,173
+Description: high-Ti mare basalt
+Collection location: Apollo 11 site, Moon
+Specimen type: Returned Lunar Sample
+Material origin: Natural
+Material type: Rock
+Material subtypes: Nonparticulate|Chip
+Atlas sample type: rock
+Atlas lithology: basalt
+
+Substantial comments
+--------------------
+RELAB specimen: 10,003,173; RELAB description: high-Ti mare basalt; Collection: Apollo 11 site, Moon; Specimen type: Returned Lunar Sample; Material origin: Natural; Material type: Rock; Material subtypes: Nonparticulate|Chip; Atlas type: rock; Atlas lithology: basalt; Atlas description: Medium-grained subophitic basalt composed of clinopyroxene, two generations of plagioclase, ilmenite with subordinate cristobalite and mesostasis.; Parent source: atlas_sample_id
+
+Measurement information
+-----------------------
+Instrument: RELAB Bidirectional Spectrometer
+Measurement segments: 1
+Incidence angle: 30 degrees
+Emission angle: 0 degrees
+Phase angle: 30 degrees
+Native fields: Wavelength|Reflectance
+Spectral points: 461
+Wavelength range: 300 to 2600 nm
+Non-increasing wavelength transitions: 0
+Uncertainty: not supplied
+
+Atlas sources
+-------------
+https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2011&sample=10003
+
+M3 forward-model summary
+------------------------
+Usable M3 bands: 74
+Band range: 1 to 74
+Displayed as independent blue points; no curve is fitted through them.
+
+Automated Atlas PDF extraction
+------------------------------
+This is separate from RELAB metadata and has not necessarily been AI-adjudicated.
+FeO: 19.8 wt.%
+  Status: parser accepted
+  Scope: bulk_or_whole_sample
+  Reference: Compston70
+  Method: XRF
+  PDF page: 6
+  Evidence: FeO 19.8 (c ) 19.8 (d) 19.7 (e) 20.51 (c )
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10003.pdf
+FeO: 19.8 wt.%
+  Status: parser accepted
+  Scope: bulk_or_whole_sample
+  Reference: Rose70
+  Method: semi micro XRF
+  PDF page: 6
+  Evidence: FeO 19.8 (c ) 19.8 (d) 19.7 (e) 20.51 (c )
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10003.pdf
+FeO: 19.7 wt.%
+  Status: parser accepted
+  Scope: bulk_or_whole_sample
+  Reference: Goles70
+  Method: INAA
+  PDF page: 6
+  Evidence: FeO 19.8 (c ) 19.8 (d) 19.7 (e) 20.51 (c )
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10003.pdf
+FeO: 20.51 wt.%
+  Status: parser accepted
+  Scope: bulk_or_whole_sample
+  Reference: Rhodes80
+  Method: XRF
+  PDF page: 6
+  Evidence: FeO 19.8 (c ) 19.8 (d) 19.7 (e) 20.51 (c )
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10003.pdf
+
+AI-aided search/review of PDFs and publications
+------------------------------------------------
+This section is explicitly separate from RELAB metadata.
+No separate AI-aided PDF/publication finding is recorded for Apollo parent 10003.

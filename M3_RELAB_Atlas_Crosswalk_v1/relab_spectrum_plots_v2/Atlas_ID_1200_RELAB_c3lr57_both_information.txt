@@ -1,0 +1,159 @@
+Our table ID: 1200
+Apollo parent ID: 71061
+Child/subsample: 158
+RELAB measurement ID: c3lr57
+RELAB specimen ID: LR-CMP-057
+======================================
+
+FeO content
+-----------
+Unknown: no FeO association was found in the extracted RELAB chemistry.
+
+Sample and material information
+-------------------------------
+RELAB specimen name: 71061,158
+Description: Mare, , Clean water sieved for LSCC (Taylor project).
+Collection location: Apollo 17 site, Moon
+Specimen type: Returned Lunar Sample
+Material origin: Natural
+Material type: Unconsolidated Mixture
+Material subtypes: Particulate|Sorted Water-Sieved|Mare
+
+Substantial comments
+--------------------
+RELAB specimen: 71061,158; RELAB description: Mare, , Clean water sieved for LSCC (Taylor project).; Collection: Apollo 17 site, Moon; Specimen type: Returned Lunar Sample; Material origin: Natural; Material type: Unconsolidated Mixture; Material subtypes: Particulate|Sorted Water-Sieved|Mare; Parent source: atlas_sample_id
+
+Measurement information
+-----------------------
+Instrument: RELAB Bidirectional Spectrometer
+Measurement segments: 1
+Incidence angle: 30 degrees
+Emission angle: 0 degrees
+Phase angle: 30 degrees
+Native fields: Wavelength|Reflectance|Standard_Deviation
+Spectral points: 461
+Wavelength range: 300 to 2600 nm
+Non-increasing wavelength transitions: 0
+Uncertainty: Standard_Deviation
+
+Atlas sources
+-------------
+https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71061
+
+M3 forward-model summary
+------------------------
+Usable M3 bands: 74
+Band range: 1 to 74
+Displayed as independent blue points; no curve is fitted through them.
+
+Automated Atlas PDF extraction
+------------------------------
+This is separate from RELAB metadata and has not necessarily been AI-adjudicated.
+FeO: 71041 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  PDF page: 1
+  Evidence: Soil samples 71041 and 71061 were collected from The maturity of 71041 and 71061 is Is/FeO = 29 and
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf
+  Review reason: no_reference_header_above_feo_row;value_not_mapped_to_reference;document_has_zero_or_multiple_sample_ids;sample_scope_unspecified
+FeO: 71061 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  PDF page: 1
+  Evidence: Soil samples 71041 and 71061 were collected from The maturity of 71041 and 71061 is Is/FeO = 29 and
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf
+  Review reason: no_reference_header_above_feo_row;value_not_mapped_to_reference;document_has_zero_or_multiple_sample_ids;sample_scope_unspecified
+FeO: 71041 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  PDF page: 1
+  Evidence: Soil samples 71041 and 71061 were collected from The maturity of 71041 and 71061 is Is/FeO = 29 and
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf
+  Review reason: no_reference_header_above_feo_row;value_not_mapped_to_reference;document_has_zero_or_multiple_sample_ids;sample_scope_unspecified
+FeO: 71061 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  PDF page: 1
+  Evidence: Soil samples 71041 and 71061 were collected from The maturity of 71041 and 71061 is Is/FeO = 29 and
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf
+  Review reason: no_reference_header_above_feo_row;value_not_mapped_to_reference;document_has_zero_or_multiple_sample_ids;sample_scope_unspecified
+FeO: 29 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  PDF page: 1
+  Evidence: Soil samples 71041 and 71061 were collected from The maturity of 71041 and 71061 is Is/FeO = 29 and
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf
+  Review reason: no_reference_header_above_feo_row;value_not_mapped_to_reference;document_has_zero_or_multiple_sample_ids;sample_scope_unspecified
+FeO: 120 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  PDF page: 2
+  Evidence: FeO C 120
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf
+  Review reason: no_reference_header_above_feo_row;value_not_mapped_to_reference;document_has_zero_or_multiple_sample_ids;sample_scope_unspecified
+FeO: 18 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  Reference: Korotev92
+  Method: INAA
+  PDF page: 4
+  Evidence: FeO 18 (a) 17.73 (b) 18 18.3 (a) 17.85 (b) 18.9 16.8 (a)
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf
+  Review reason: document_has_zero_or_multiple_sample_ids;sample_scope_unspecified
+FeO: 17.73 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  Reference: LSPET73
+  Method: XRF
+  PDF page: 4
+  Evidence: FeO 18 (a) 17.73 (b) 18 18.3 (a) 17.85 (b) 18.9 16.8 (a)
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf
+  Review reason: document_has_zero_or_multiple_sample_ids;sample_scope_unspecified
+FeO: 18 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  Reference: Korotev92
+  PDF page: 4
+  Evidence: FeO 18 (a) 17.73 (b) 18 18.3 (a) 17.85 (b) 18.9 16.8 (a)
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf
+  Review reason: document_has_zero_or_multiple_sample_ids;sample_scope_unspecified
+FeO: 18.3 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  Reference: Korotev92
+  Method: INAA
+  PDF page: 4
+  Evidence: FeO 18 (a) 17.73 (b) 18 18.3 (a) 17.85 (b) 18.9 16.8 (a)
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf
+  Review reason: document_has_zero_or_multiple_sample_ids;sample_scope_unspecified
+FeO: 17.85 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  Reference: LSPET73
+  Method: XRF
+  PDF page: 4
+  Evidence: FeO 18 (a) 17.73 (b) 18 18.3 (a) 17.85 (b) 18.9 16.8 (a)
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf
+  Review reason: document_has_zero_or_multiple_sample_ids;sample_scope_unspecified
+FeO: 18.9 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  Reference: Korotev76
+  PDF page: 4
+  Evidence: FeO 18 (a) 17.73 (b) 18 18.3 (a) 17.85 (b) 18.9 16.8 (a)
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf
+  Review reason: document_has_zero_or_multiple_sample_ids;sample_scope_unspecified
+FeO: 16.8 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  Reference: Korotev76
+  Method: INAA
+  PDF page: 4
+  Evidence: FeO 18 (a) 17.73 (b) 18 18.3 (a) 17.85 (b) 18.9 16.8 (a)
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf
+  Review reason: document_has_zero_or_multiple_sample_ids;sample_scope_unspecified
+
+AI-aided search/review of PDFs and publications
+------------------------------------------------
+This section is explicitly separate from RELAB metadata.
+No separate AI-aided PDF/publication finding is recorded for Apollo parent 71061.

@@ -1,0 +1,31 @@
+{
+  "band_count": 85,
+  "bandpass_grid_nm": [
+    350.0,
+    3050.0
+  ],
+  "created_utc": "2026-10-06T10:18:39.279166+00:00",
+  "extrapolation": "none",
+  "formula": "sum(B_band(lambda)*R_relab(lambda))/sum(B_band(lambda)) over covered wavelengths",
+  "inputs": {
+    "bandpass_csv": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/Calibration/M3G20081211_RDN_BPF.csv",
+    "bandpass_csv_sha256": "df679e215d497548c02b45ecb320700982d3f4e3eba24ec78cded68e7674415e",
+    "spectral_points": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/relab_raw_native_2026-10-04/relab_spectral_points.csv",
+    "spectral_points_sha256": "7615b8b04b321aa6e1389ed051db0ceb0d1af42930ef9cba08dee484c9562294"
+  },
+  "interpolation": "pchip",
+  "maximum_interpolation_gap_nm": 50.0,
+  "measurement_count": 1437,
+  "minimum_coverage": 0.99,
+  "numpy": "2.1.2",
+  "output_csv": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/relab_m3_v1/relab_m3_spectra.csv",
+  "output_csv_sha256": "891b8828deae049e660b688d206376d5e42f358176748fca53720b9adee7633a",
+  "output_row_count": 122145,
+  "overlapping_native_segments": "interpolated values are averaged at wavelengths covered by multiple segments",
+  "program": "relab-to-m3-bandpasses-1.0",
+  "python": "3.13.0",
+  "schema": "relab-m3-forward-model-manifest-1.0",
+  "usable_output_row_count": 96862,
+  "warning_count": 0,
+  "warnings": []
+}

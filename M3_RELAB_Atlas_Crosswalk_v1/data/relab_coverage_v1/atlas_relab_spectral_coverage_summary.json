@@ -1,0 +1,32 @@
+{
+  "schema": "atlas-relab-parent-spectral-coverage-1.0",
+  "created_utc": "2026-10-06T21:17:02.476027+00:00",
+  "inputs": {
+    "atlas_csv": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/atlas_samples.csv",
+    "relab_crosswalk_csv": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/relab_raw_native_2026-10-04/atlas_relab_feo_table.csv",
+    "relab_parent_column": "i_atlas_sample",
+    "relab_measurement_column": "relab_measurement_id"
+  },
+  "definition": "An Atlas parent is covered if at least one downloaded RELAB measurement is crosswalked to the parent itself or any child/fraction.",
+  "filters_not_applied": [
+    "FeO availability",
+    "wavelength range",
+    "M3 74-band completeness",
+    "instrument or viewing geometry"
+  ],
+  "counts": {
+    "atlas_input_rows": 2697,
+    "atlas_unique_five_digit_parents": 2695,
+    "atlas_parents_with_relab_coverage": 124,
+    "atlas_parents_without_relab_coverage": 2571,
+    "unique_relab_measurements_covering_atlas_parents": 1373,
+    "atlas_rows_without_five_digit_parent": 0,
+    "relab_rows_without_five_digit_parent": 0
+  },
+  "outputs": {
+    "uncovered": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/relab_coverage_v1/atlas_parents_without_relab_spectral_coverage.csv",
+    "covered": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/relab_coverage_v1/atlas_parents_with_relab_spectral_coverage.csv",
+    "atlas_unmatched": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/relab_coverage_v1/atlas_entries_without_five_digit_parent.csv",
+    "relab_unmatched": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/relab_coverage_v1/relab_rows_without_five_digit_parent.csv"
+  }
+}

@@ -1,0 +1,116 @@
+Our table ID: 1243
+Apollo parent ID: 72435
+Child/subsample: 77
+RELAB measurement ID: c1ls39
+RELAB specimen ID: LS-CMP-039
+======================================
+
+FeO content
+-----------
+Selected-row FeO: 8.5 wt.%
+  Chemistry phase: Bulk
+  Chemistry specimen: LS-CMP-039
+  Chemistry product: ls-cmp-039_specimenchemistry
+  Association: explicit_reference
+  Source/method: Microprobe fused bead / INAA at JSC by Graham Ryder, LPI.
+Other associated FeO: 12.09 wt.%
+  Chemistry phase: Bulk
+  Chemistry specimen: LS-CMP-039
+  Chemistry product: ls-cmp-039_specimenchemistry
+  Association: explicit_reference
+  Source/method: Morris, et al, 1983. Handbook of Lunar Soils, Part 1, p. 346.
+
+Sample and material information
+-------------------------------
+RELAB specimen name: 72435,77
+Description: Polymict Breccia, Micropoikilitic Impact Melt Breccia , Powder from typical matrix of Boulder 3. Believed to be recrystallized melt shet from Serenitatis impact event.
+Collection location: Station 2, Apollo 17 site, Moon
+Specimen type: Returned Lunar Sample
+Material origin: Natural
+Material type: Rock
+Material subtypes: Particulate
+Atlas sample type: rock
+Atlas lithology: impact melt breccia
+
+Substantial comments
+--------------------
+RELAB specimen: 72435,77; RELAB description: Polymict Breccia, Micropoikilitic Impact Melt Breccia , Powder from typical matrix of Boulder 3. Believed to be recrystallized melt shet from Serenitatis impact event.; Collection: Station 2, Apollo 17 site, Moon; Specimen type: Returned Lunar Sample; Material origin: Natural; Material type: Rock; Material subtypes: Particulate; Atlas type: rock; Atlas lithology: impact melt breccia; Atlas description: Micropoikilitic Impact Melt Breccia, can be assumed to have formed during the Serenitatis event, has major and trace element chemistry similar to other Apollo 17 low-K Fra Mauro impacat melts; Chemistry phase: Bulk; Chemistry notes: Sm 15.4 ppm, Sc 17.6 ppm; Parent source: atlas_sample_id
+RELAB specimen: 72435,77; RELAB description: Polymict Breccia, Micropoikilitic Impact Melt Breccia , Powder from typical matrix of Boulder 3. Believed to be recrystallized melt shet from Serenitatis impact event.; Collection: Station 2, Apollo 17 site, Moon; Specimen type: Returned Lunar Sample; Material origin: Natural; Material type: Rock; Material subtypes: Particulate; Atlas type: rock; Atlas lithology: impact melt breccia; Atlas description: Micropoikilitic Impact Melt Breccia, can be assumed to have formed during the Serenitatis event, has major and trace element chemistry similar to other Apollo 17 low-K Fra Mauro impacat melts; Chemistry phase: Bulk; Chemistry notes: Apollo 15 sample # 15261 from Station 6.; Parent source: atlas_sample_id
+
+Measurement information
+-----------------------
+Instrument: RELAB Bidirectional Spectrometer
+Measurement segments: 1
+Incidence angle: 30 degrees
+Emission angle: 0 degrees
+Phase angle: 30 degrees
+Native fields: Wavelength|Reflectance
+Spectral points: 461
+Wavelength range: 300 to 2600 nm
+Non-increasing wavelength transitions: 0
+Uncertainty: not supplied
+
+Atlas sources
+-------------
+https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72435
+
+M3 forward-model summary
+------------------------
+Usable M3 bands: 74
+Band range: 1 to 74
+Displayed as independent blue points; no curve is fitted through them.
+
+Automated Atlas PDF extraction
+------------------------------
+This is separate from RELAB metadata and has not necessarily been AI-adjudicated.
+FeO: 3.94 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  PDF page: 4
+  Evidence: FeO 3.94 3.86
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72435.pdf
+  Review reason: no_reference_header_above_feo_row;value_not_mapped_to_reference;sample_scope_unspecified
+FeO: 3.86 wt.%
+  Status: NEEDS REVIEW
+  Scope: unspecified
+  PDF page: 4
+  Evidence: FeO 3.94 3.86
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72435.pdf
+  Review reason: no_reference_header_above_feo_row;value_not_mapped_to_reference;sample_scope_unspecified
+FeO: 8.7 wt.%
+  Status: NEEDS REVIEW
+  Scope: bulk_or_whole_sample
+  Reference: LSPET 73
+  PDF page: 6
+  Evidence: FeO 8.7 (b) 10.4 (c ) 8.01 8.48 (d)
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72435.pdf
+  Review reason: complex_reference_header;method_code_not_resolved
+FeO: 10.4 wt.%
+  Status: NEEDS REVIEW
+  Scope: bulk_or_whole_sample
+  Reference: Murali 77
+  PDF page: 6
+  Evidence: FeO 8.7 (b) 10.4 (c ) 8.01 8.48 (d)
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72435.pdf
+  Review reason: complex_reference_header;method_code_not_resolved
+FeO: 8.01 wt.%
+  Status: NEEDS REVIEW
+  Scope: bulk_or_whole_sample
+  Reference: Dymek 76
+  PDF page: 6
+  Evidence: FeO 8.7 (b) 10.4 (c ) 8.01 8.48 (d)
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72435.pdf
+  Review reason: complex_reference_header
+FeO: 8.48 wt.%
+  Status: NEEDS REVIEW
+  Scope: bulk_or_whole_sample
+  Reference: Dymek 76
+  PDF page: 6
+  Evidence: FeO 8.7 (b) 10.4 (c ) 8.01 8.48 (d)
+  Source: https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72435.pdf
+  Review reason: complex_reference_header;method_code_not_resolved
+
+AI-aided search/review of PDFs and publications
+------------------------------------------------
+This section is explicitly separate from RELAB metadata.
+No separate AI-aided PDF/publication finding is recorded for Apollo parent 72435.
