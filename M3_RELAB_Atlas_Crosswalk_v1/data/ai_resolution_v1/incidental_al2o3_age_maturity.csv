@@ -1,0 +1,28 @@
+sample_id,property,value_text,unit,scope,source_url,pdf_page,evidence
+10068,Al2O3,12.3,wt.%,bulk composition table,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10068.pdf,3,Table 1 Al2O3 row: 12.3
+10068,Is/FeO maturity index,84,unitless index,sample,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/10068.pdf,2,Basu et al. (2000) found Is/FeO = 84.
+12023,Al2O3,10.77,wt.%,bulk composition table,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/12023.pdf,7,Table 1 Al2O3 row: 10.77 (a).
+12023,Is/FeO maturity index,60,unitless index,soil,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/12023.pdf,2,12023 has Is/FeO = 60 (mature).
+60035,Al2O3,28.31;29;27.2;26;25.9,wt.%,glass-coat and interior columns; not a single bulk value,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/60035.pdf,4,Table 1 Al2O3 row for glass-coat/interior columns.
+62281,Is/FeO maturity index,76,unitless index,soil,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/62281.pdf,2,"The maturity index for 62281 is high, Is/FeO = 76."
+64801,Is/FeO maturity index,71,unitless index,soil,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/64801.pdf,3,The maturity index Is/FeO = 71 for 64801.
+65901,Is/FeO maturity index,99,unitless index,soil,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/65901.pdf,3,"65901 is a very mature soil, Is/FeO = 99."
+66031,Al2O3,26.7;27.8,wt.%,bulk composition table,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/66031.pdf,2,Table 1 Al2O3 row: 26.7 and 27.8.
+66031,Is/FeO maturity index,102,unitless index,soil,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/66031.pdf,3,66031 is a very mature soil with Is/FeO = 102.
+67461,Al2O3,29.2;30.2;28.99;28.34;28.9,wt.%,bulk composition table / reported analyses,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67461.pdf,4,Table 1 Al2O3 row.
+67461,Is/FeO maturity index,25,unitless index,soil,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67461.pdf,2,Lunar soil 67461 has Is/FeO = 25.
+67601,Is/FeO maturity index,45,unitless index,soil,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67601.pdf,2,The maturity index for 67601 is Is/FeO = 45.
+67627,Al2O3,28.2,wt.%,composition table,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67627.pdf,7,Table 1 Al2O3 row: 28.2.
+67627,40Ar/39Ar age,1.19,Ga,sample,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67627.pdf,3,Borchardt et al. reported an Ar/Ar age of 1.19 b.y. for 67627.
+67627,38Ar cosmic-ray exposure age,40 or 44,Ma,sample,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67627.pdf,3,38Ar exposure age of 67627 reported as 40 or 44 m.y.
+67629,40Ar/39Ar age,1.41,Ga,sample,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67627.pdf,3,Borchardt et al. reported an Ar/Ar age of 1.41 b.y. for 67629.
+67629,38Ar cosmic-ray exposure age,43,Ma,sample,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/67627.pdf,3,38Ar exposure age of 67629 reported as 43 m.y.
+71041,Al2O3,10.8,wt.%,sample column in joint table,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf,4,Joint Table 1 Al2O3 row.
+71041,Is/FeO maturity index,29,unitless index,surface soil (0–2 cm),https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf,1,"Maturity of 71041 and 71061 is 29 and 14, respectively."
+71061,Al2O3,10.7,wt.%,sample column in joint table,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf,4,Joint Table 1 Al2O3 row.
+71061,Is/FeO maturity index,14,unitless index,subsurface soil (5–6 cm),https://www.lpi.usra.edu/lunar/samples/atlas/compendium/71041.pdf,1,"Maturity of 71041 and 71061 is 29 and 14, respectively."
+72701,Is/FeO maturity index,61,unitless index,soil,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/72701.pdf,2,Maturity index of 72701 is Is/FeO = 61.
+73241,Al2O3,20.2;20.6,wt.%,bulk composition table,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/73221.pdf,5,Table 2 Al2O3 row.
+73261,Al2O3,19.69;20.2,wt.%,bulk composition table,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/73221.pdf,6,Table 3 Al2O3 row.
+73281,Al2O3,20.23;20.8,wt.%,bulk composition table,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/73221.pdf,6,Table 4 Al2O3 row.
+78598,Al2O3,10,wt.%,bulk composition table,https://www.lpi.usra.edu/lunar/samples/atlas/compendium/78598.pdf,4,Table 1 Al2O3 row: 10.
