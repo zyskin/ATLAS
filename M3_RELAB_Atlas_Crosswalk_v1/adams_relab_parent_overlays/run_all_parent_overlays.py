@@ -26,7 +26,7 @@ from matplotlib.lines import Line2D
 import numpy as np
 
 
-VERSION = "1.0"
+VERSION = "1.1"
 
 
 def clean(value: object) -> str:
@@ -46,6 +46,70 @@ def number(value: object) -> float | None:
     except (TypeError, ValueError):
         return None
     return result if math.isfinite(result) else None
+
+
+def is_yes(value: object) -> bool:
+    return clean(value).casefold() in {"1", "true", "yes", "y"}
+
+
+def valid_feo(value: object) -> float | None:
+    result = number(value)
+    return result if result is not None and result >= 0 else None
+
+
+def format_number(value: float) -> str:
+    return f"{value:.6g}"
+
+
+def feo_summary(
+    values: list[float], source_kind: str, confidence_tier: str, details: list[str]
+) -> dict[str, object]:
+    unique_values = sorted(set(values))
+    if not unique_values:
+        return {
+            "value": "",
+            "display": "",
+            "annotation": "",
+            "source_kind": "",
+            "confidence_tier": "",
+            "claim_count": 0,
+            "minimum": "",
+            "maximum": "",
+            "source_details": "",
+        }
+    mean = float(np.mean(unique_values))
+    if len(unique_values) == 1:
+        display = f"{format_number(mean)} wt.%"
+    else:
+        display = (
+            f"{format_number(mean)} wt.% mean "
+            f"({format_number(unique_values[0])}-{format_number(unique_values[-1])}; "
+            f"n={len(unique_values)})"
+        )
+    source_label = {
+        "relab_ancillary_chemistry": "confirmed RELAB chemistry",
+        "accepted_parent_or_documented_fraction_claim": "accepted literature",
+    }.get(source_kind, source_kind)
+    return {
+        "value": format_number(mean),
+        "display": display,
+        "annotation": f"{display} [{source_label}]" if source_label else display,
+        "source_kind": source_kind,
+        "confidence_tier": confidence_tier,
+        "claim_count": len(unique_values),
+        "minimum": format_number(unique_values[0]),
+        "maximum": format_number(unique_values[-1]),
+        "source_details": "; ".join(sorted(set(clean(item) for item in details if clean(item)))),
+    }
+
+
+def parse_feo_values(value: object) -> list[float]:
+    values: list[float] = []
+    for token in re.findall(r"(?<![A-Za-z])(?:\d+(?:\.\d*)?|\.\d+)", clean(value)):
+        parsed = valid_feo(token)
+        if parsed is not None:
+            values.append(parsed)
+    return values
 
 
 def read_csv_rows(path: Path) -> list[dict[str, str]]:
@@ -134,6 +198,24 @@ def resolved_paths(args: argparse.Namespace) -> dict[str, Path]:
         "relab_points": root
         / "relab_raw_native_2026-10-04"
         / "relab_spectral_points.csv",
+        "relab_feo": root
+        / "relab_raw_native_2026-10-04"
+        / "atlas_relab_feo_table.csv",
+        "atlas_pdf_feo": root
+        / "data"
+        / "structured_v1"
+        / "atlas_feo_measurements.csv",
+        "review_adjudications": root
+        / "data"
+        / "ai_resolution_v1"
+        / "review_candidate_adjudications.csv",
+        "missing_case_resolutions": root
+        / "data"
+        / "ai_resolution_v1"
+        / "missing_case_resolutions.csv",
+        "manual_feo_claims": root
+        / "m3_feo_ml_preliminary"
+        / "manual_feo_claims_reviewed.csv",
         "coefficient_summary": (
             args.coefficient_summary.resolve()
             if args.coefficient_summary
@@ -314,6 +396,143 @@ def relationship_scope(rows: list[dict[str, str]]) -> str:
     return "same_parent_mixed_" + "_".join(sorted(types))
 
 
+def load_fallback_feo(
+    paths: dict[str, Path],
+    wanted_relab: set[str],
+) -> tuple[dict[str, list[tuple[float, str]]], dict[str, list[tuple[float, str]]]]:
+    """Load only defensible FeO fallback claims.
+
+    Returned dictionaries contain exact RELAB-measurement claims and accepted
+    parent/documented-fraction claims. Missing optional tables are reported and
+    skipped so a plot can still display a blank FeO field.
+    """
+    relab_claims: dict[str, list[tuple[float, str]]] = defaultdict(list)
+    parent_claims: dict[str, list[tuple[float, str]]] = defaultdict(list)
+
+    path = paths["relab_feo"]
+    if path.is_file():
+        rows = read_csv_rows(path)
+        require_columns(
+            path,
+            rows,
+            {"relab_measurement_id", "k_feo_wt_percent", "feo_known"},
+        )
+        for row in rows:
+            measurement = canonical_id(row.get("relab_measurement_id"))
+            value = valid_feo(row.get("k_feo_wt_percent"))
+            if measurement in wanted_relab and is_yes(row.get("feo_known")) and value is not None:
+                relab_claims[measurement].append(
+                    (value, f"{measurement}={format_number(value)}")
+                )
+    else:
+        print(f"Optional FeO fallback not found; skipping: {path}")
+
+    path = paths["atlas_pdf_feo"]
+    if path.is_file():
+        rows = read_csv_rows(path)
+        require_columns(
+            path,
+            rows,
+            {"atlas_sample_id", "value_wt_percent", "sample_scope", "needs_review"},
+        )
+        for row in rows:
+            parent = canonical_id(row.get("atlas_sample_id"))
+            value = valid_feo(row.get("value_wt_percent"))
+            if (
+                parent
+                and clean(row.get("needs_review")).casefold() == "no"
+                and clean(row.get("sample_scope")).casefold() == "bulk_or_whole_sample"
+                and value is not None
+            ):
+                detail = clean(row.get("measurement_id")) or clean(row.get("document_id"))
+                parent_claims[parent].append((value, f"automatic PDF: {detail}"))
+    else:
+        print(f"Optional FeO fallback not found; skipping: {path}")
+
+    path = paths["review_adjudications"]
+    if path.is_file():
+        rows = read_csv_rows(path)
+        require_columns(path, rows, {"decision", "value_wt_percent"})
+        for row in rows:
+            if clean(row.get("decision")) != "accepted_parent_or_documented_fraction":
+                continue
+            parent = canonical_id(row.get("assigned_sample_id")) or canonical_id(
+                row.get("candidate_parent_id")
+            )
+            value = valid_feo(row.get("value_wt_percent"))
+            if parent and value is not None:
+                detail = clean(row.get("measurement_id")) or "adjudicated PDF claim"
+                parent_claims[parent].append((value, f"AI-adjudicated: {detail}"))
+    else:
+        print(f"Optional FeO fallback not found; skipping: {path}")
+
+    path = paths["missing_case_resolutions"]
+    if path.is_file():
+        rows = read_csv_rows(path)
+        require_columns(
+            path,
+            rows,
+            {"apollo_parent_id", "resolution_status", "accepted_feo_wt_percent"},
+        )
+        for row in rows:
+            if not clean(row.get("resolution_status")).casefold().startswith("resolved_"):
+                continue
+            parent = canonical_id(row.get("apollo_parent_id"))
+            for value in parse_feo_values(row.get("accepted_feo_wt_percent")):
+                if parent:
+                    detail = clean(row.get("queue_id")) or "resolved missing case"
+                    parent_claims[parent].append((value, f"resolved publication: {detail}"))
+    else:
+        print(f"Optional FeO fallback not found; skipping: {path}")
+
+    path = paths["manual_feo_claims"]
+    if path.is_file():
+        rows = read_csv_rows(path)
+        require_columns(path, rows, {"apollo_parent_id", "value_wt_percent", "include"})
+        for row in rows:
+            if not is_yes(row.get("include")):
+                continue
+            parent = canonical_id(row.get("apollo_parent_id"))
+            value = valid_feo(row.get("value_wt_percent"))
+            if parent and value is not None:
+                detail = clean(row.get("source_id")) or clean(row.get("reference"))
+                source_kind = clean(row.get("source_kind")) or "manual reviewed claim"
+                parent_claims[parent].append((value, f"{source_kind}: {detail}"))
+    else:
+        print(f"Optional FeO fallback not found; skipping: {path}")
+
+    return relab_claims, parent_claims
+
+
+def choose_feo(
+    parent: str,
+    parent_relab: list[dict[str, str]],
+    relab_claims: dict[str, list[tuple[float, str]]],
+    parent_claims: dict[str, list[tuple[float, str]]],
+) -> dict[str, object]:
+    exact: list[tuple[float, str]] = []
+    for row in parent_relab:
+        exact.extend(relab_claims.get(canonical_id(row.get("measurement_id")), []))
+    if exact:
+        return feo_summary(
+            [value for value, _ in exact],
+            "relab_ancillary_chemistry",
+            "exact_included_relab_measurement",
+            [detail for _, detail in exact],
+        )
+
+    accepted = parent_claims.get(parent, [])
+    if accepted:
+        return feo_summary(
+            [value for value, _ in accepted],
+            "accepted_parent_or_documented_fraction_claim",
+            "accepted_or_reviewed_literature",
+            [detail for _, detail in accepted],
+        )
+
+    return feo_summary([], "", "", [])
+
+
 def write_csv(path: Path, rows: list[dict[str, object]], fields: list[str]) -> None:
     with path.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=fields)
@@ -415,6 +634,9 @@ def main(argv: list[str] | None = None) -> int:
     )
     relab_points = load_relab_points(paths["relab_points"], wanted_relab)
 
+    print("Loading confirmed FeO sources; the Adams/Bhatt column is not used")
+    relab_feo_claims, parent_feo_claims = load_fallback_feo(paths, wanted_relab)
+
     coefficient_wavelength: np.ndarray | None = None
     coefficient_value: np.ndarray | None = None
     if args.coefficient != "none":
@@ -451,6 +673,7 @@ def main(argv: list[str] | None = None) -> int:
             plotted_adams = adams_y
 
         parent_relab = relab_by_parent[parent]
+        feo = choose_feo(parent, parent_relab, relab_feo_claims, parent_feo_claims)
         scope = relationship_scope(parent_relab)
         filename = (
             f"Apollo_{safe_name(parent)}_{safe_name(adams_id)}_{safe_name(corrected_id)}_"
@@ -522,6 +745,29 @@ def main(argv: list[str] | None = None) -> int:
             axis.set_ylabel("Reflectance")
             axis.set_xlim(args.wavelength_min, args.wavelength_max)
             axis.grid(True, alpha=0.25)
+            axis.text(
+                0.015,
+                0.985,
+                "\n".join(
+                    [
+                        f"Adams ID: {adams_id} / {corrected_id}",
+                        f"ATLAS ID: {parent}",
+                        f"FeO: {feo['annotation']}",
+                    ]
+                ),
+                transform=axis.transAxes,
+                ha="left",
+                va="top",
+                fontsize=10,
+                linespacing=1.25,
+                zorder=20,
+                bbox={
+                    "boxstyle": "round,pad=0.45",
+                    "facecolor": "white",
+                    "edgecolor": "0.45",
+                    "alpha": 0.92,
+                },
+            )
             axis.legend(
                 handles=[
                     Line2D(
@@ -566,6 +812,15 @@ def main(argv: list[str] | None = None) -> int:
                 "adams_specimen_id": adams_id,
                 "adams_measurement_id": corrected_id,
                 "adams_corrected_file": corrected_file,
+                "feo_wt_percent": feo["value"],
+                "feo_display": feo["display"],
+                "feo_annotation": feo["annotation"],
+                "feo_source_kind": feo["source_kind"],
+                "feo_confidence_tier": feo["confidence_tier"],
+                "feo_claim_count": feo["claim_count"],
+                "feo_min_wt_percent": feo["minimum"],
+                "feo_max_wt_percent": feo["maximum"],
+                "feo_source_details": feo["source_details"],
                 "coefficient_mode": args.coefficient,
                 "coefficient_summary": (
                     "" if args.coefficient == "none" else str(paths["coefficient_summary"])
