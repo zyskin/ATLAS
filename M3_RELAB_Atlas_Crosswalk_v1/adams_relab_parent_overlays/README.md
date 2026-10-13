@@ -8,8 +8,8 @@ For each Adams spectrum, the plot contains:
 - every RELAB measurement attached to the same Apollo parent, including a
   direct parent record, child/subsample, grain-size fraction, separate, or other
   prepared material;
-- all RELAB curves in the same blue color;
-- one Adams curve in red;
+- all suitable RELAB curves in bright blue;
+- one Adams curve in black;
 - a protected top-left annotation containing the Adams specimen/measurement IDs,
   ATLAS parent ID, and FeO value;
 - by default, the Adams reflectance multiplied by the wavelength-dependent
@@ -40,6 +40,31 @@ Calibration/M3G20081211_RDN_BPF.csv
 
 The RELAB points table is large, so it is scanned once for all required
 measurements rather than once per figure.
+
+## RELAB wavelength-coverage suitability
+
+The overlays and coefficient fitter now share the explicit rule implemented in
+`relab_m3_suitability.py`: a RELAB spectrum must cover the complete
+461--2500 nm Adams/M3 comparison interval. A spectrum is unsuitable if it
+starts after 461 nm, ends before 2500 nm, or lacks finite coverage metadata.
+
+This removes long-wavelength-only FTIR spectra such as `BIR1LR230` through
+`BIR1LR234`, which start at 1428.4 nm. These are valid RELAB spectra for other
+purposes, but they are not complete Adams/M3 comparison spectra. Run the
+suitability pass to create a row-by-row audit table:
+
+```bash
+python relab_m3_suitability.py --project-root "$PWD"
+```
+
+The output is `data/relab_m3_suitability_v1.csv`, with a yes/no suitability
+field, coverage class, reason, wavelength limits, instrument, geometry, and
+Apollo parent. The raw RELAB index is not altered.
+
+The old coefficient fit already rejected the long-wavelength-only FTIR records
+because they lack standard 30°/0°/30° geometry. The independent coverage rule
+also removes five partial spectra that previously passed the geometry filter,
+so the coefficients should be regenerated.
 
 ## FeO annotation and provenance
 
@@ -85,8 +110,10 @@ python adams_relab_parent_overlays/run_all_parent_overlays.py \
 ```
 
 With the currently committed crosswalks, the default selection should produce
-39 PNG files: one for each Adams spectrum sharing a known Apollo parent number
-with at least one RELAB record. This includes parent `14003`, whose Apollo
+38 PNG files: one for each Adams spectrum sharing a known Apollo parent number
+with at least one suitable RELAB record. Parent `14260` drops out because its
+two linked RELAB spectra both begin near 2000 nm. The selection includes parent
+`14003`, whose Apollo
 parent number is known on both sides but whose page is absent from the local
 Atlas index.
 
@@ -98,7 +125,7 @@ python adams_relab_parent_overlays/run_all_parent_overlays.py \
   --require-atlas-page
 ```
 
-That stricter selection should currently produce 38 PNG files.
+That stricter selection should currently produce 37 PNG files.
 
 ## Output
 
@@ -113,7 +140,8 @@ It contains:
 - one PNG per Adams spectrum;
 - `plot_manifest.csv`, one row per PNG, with the parent, Adams identifiers,
   FeO value and provenance, relationship type, counts, and complete lists of
-  included RELAB measurement and specimen IDs;
+  included RELAB measurement and specimen IDs, plus the IDs and coverage
+  classes of RELAB records excluded for incomplete wavelength coverage;
 - `plot_relab_records.csv`, one row for every plot–RELAB combination, including
   the RELAB specimen name, parent/child relationship, instrument, geometry, and
   wavelength coverage.
@@ -152,6 +180,12 @@ centres. The nearest endpoint coefficient is held constant outside that range.
 ```bash
 cd /media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1
 git pull --rebase origin main
+
+python relab_m3_suitability.py --project-root "$PWD"
+
+python compare_relab_adams_m3_ratios_v4.py \
+  --project-root "$PWD" \
+  --plot
 
 python adams_relab_parent_overlays/run_all_parent_overlays.py \
   --project-root "$PWD"

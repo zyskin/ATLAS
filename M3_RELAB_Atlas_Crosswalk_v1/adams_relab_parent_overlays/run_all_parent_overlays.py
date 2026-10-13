@@ -25,8 +25,18 @@ import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 import numpy as np
 
+PROJECT_MODULE_DIR = Path(__file__).resolve().parent.parent
+if str(PROJECT_MODULE_DIR) not in sys.path:
+    sys.path.insert(0, str(PROJECT_MODULE_DIR))
 
-VERSION = "1.1"
+from relab_m3_suitability import (  # noqa: E402
+    REQUIRED_MAX_NM,
+    REQUIRED_MIN_NM,
+    assess_relab_suitability,
+)
+
+
+VERSION = "1.2"
 
 
 def clean(value: object) -> str:
@@ -153,6 +163,18 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument("--bandpass-csv", type=Path)
     parser.add_argument("--wavelength-min", type=float, default=350.0)
     parser.add_argument("--wavelength-max", type=float, default=2600.0)
+    parser.add_argument(
+        "--required-coverage-min-nm",
+        type=float,
+        default=REQUIRED_MIN_NM,
+        help="RELAB spectrum must begin at or before this wavelength (default: 461)",
+    )
+    parser.add_argument(
+        "--required-coverage-max-nm",
+        type=float,
+        default=REQUIRED_MAX_NM,
+        help="RELAB spectrum must end at or after this wavelength (default: 2500)",
+    )
     parser.add_argument("--dpi", type=int, default=180)
     parser.add_argument(
         "--require-atlas-page",
@@ -545,6 +567,11 @@ def main(argv: list[str] | None = None) -> int:
     paths = resolved_paths(args)
     if args.wavelength_min >= args.wavelength_max:
         raise ValueError("--wavelength-min must be smaller than --wavelength-max")
+    if args.required_coverage_min_nm >= args.required_coverage_max_nm:
+        raise ValueError(
+            "--required-coverage-min-nm must be smaller than "
+            "--required-coverage-max-nm"
+        )
     if args.dpi <= 0:
         raise ValueError("--dpi must be positive")
 
@@ -596,11 +623,22 @@ def main(argv: list[str] | None = None) -> int:
     }
 
     relab_by_parent: dict[str, list[dict[str, str]]] = defaultdict(list)
+    excluded_relab_by_parent: dict[str, list[dict[str, object]]] = defaultdict(list)
     for row in relab_rows:
         parent = canonical_id(row.get("apollo_parent_sample"))
         measurement = canonical_id(row.get("measurement_id"))
         if parent and measurement:
-            relab_by_parent[parent].append(row)
+            assessment = assess_relab_suitability(
+                index_by_measurement.get(measurement, {}),
+                args.required_coverage_min_nm,
+                args.required_coverage_max_nm,
+            )
+            if assessment["suitable"]:
+                relab_by_parent[parent].append(row)
+            else:
+                excluded_relab_by_parent[parent].append(
+                    {"crosswalk": row, "assessment": assessment}
+                )
     for rows in relab_by_parent.values():
         rows.sort(key=lambda row: canonical_id(row.get("measurement_id")))
 
@@ -673,6 +711,7 @@ def main(argv: list[str] | None = None) -> int:
             plotted_adams = adams_y
 
         parent_relab = relab_by_parent[parent]
+        excluded_parent_relab = excluded_relab_by_parent.get(parent, [])
         feo = choose_feo(parent, parent_relab, relab_feo_claims, parent_feo_claims)
         scope = relationship_scope(parent_relab)
         filename = (
@@ -702,7 +741,6 @@ def main(argv: list[str] | None = None) -> int:
             plots_skipped += 1
         else:
             figure, axis = plt.subplots(figsize=(12, 7))
-            alpha = max(0.08, min(0.65, 7.0 / max(1, len(parent_relab))))
             for relab in parent_relab:
                 measurement = canonical_id(relab.get("measurement_id"))
                 segments = segments_by_measurement[measurement]
@@ -712,16 +750,16 @@ def main(argv: list[str] | None = None) -> int:
                     axis.plot(
                         x,
                         y,
-                        color="#1f77b4",
-                        linewidth=0.9,
-                        alpha=alpha,
+                        color="#0066ff",
+                        linewidth=1.2,
+                        alpha=0.70,
                         zorder=2,
                     )
             axis.plot(
                 adams_x,
                 plotted_adams,
-                color="#d62728",
-                linewidth=2.8,
+                color="#000000",
+                linewidth=3.0,
                 zorder=5,
             )
             specimen_count = len(
@@ -773,15 +811,15 @@ def main(argv: list[str] | None = None) -> int:
                     Line2D(
                         [0],
                         [0],
-                        color="#1f77b4",
-                        linewidth=1.6,
+                        color="#0066ff",
+                        linewidth=2.0,
                         label=f"All RELAB spectra for parent {parent}",
                     ),
                     Line2D(
                         [0],
                         [0],
-                        color="#d62728",
-                        linewidth=2.8,
+                        color="#000000",
+                        linewidth=3.0,
                         label=f"Adams {adams_id} / {corrected_id}",
                     ),
                 ],
@@ -826,6 +864,17 @@ def main(argv: list[str] | None = None) -> int:
                     "" if args.coefficient == "none" else str(paths["coefficient_summary"])
                 ),
                 "relab_measurement_count": len(parent_relab),
+                "relab_excluded_incomplete_coverage_count": len(excluded_parent_relab),
+                "excluded_relab_measurement_ids": ";".join(
+                    canonical_id(item["crosswalk"].get("measurement_id"))
+                    for item in excluded_parent_relab
+                ),
+                "excluded_relab_coverage_classes": ";".join(
+                    str(item["assessment"]["coverage_class"])
+                    for item in excluded_parent_relab
+                ),
+                "required_coverage_min_nm": args.required_coverage_min_nm,
+                "required_coverage_max_nm": args.required_coverage_max_nm,
                 "relab_specimen_count": len(specimen_ids),
                 "relab_parent_record_count": match_counts["sample_number"],
                 "relab_child_fraction_count": match_counts["subsample_or_fraction"],
