@@ -46,13 +46,19 @@ class StatusSummaryTests(unittest.TestCase):
             )
             write_jsonl(
                 out / "atlas_is_feo_review_chunks.jsonl",
-                [{"chunk_id": "one"}, {"chunk_id": "two"}],
+                [
+                    {"chunk_id": "one", "chunk_text_sha256": "current-one"},
+                    {"chunk_id": "two", "chunk_text_sha256": "current-two"},
+                ],
             )
             write_jsonl(
                 out / "local_ai/atlas_is_feo_ai_checkpoint.jsonl",
                 [
                     {
-                        "chunk": {"chunk_id": "one"},
+                        "chunk": {
+                            "chunk_id": "one",
+                            "chunk_text_sha256": "current-one",
+                        },
                         "result": {
                             "unresolved_statements": ["ambiguous"],
                             "warnings": [],
@@ -66,6 +72,28 @@ class StatusSummaryTests(unittest.TestCase):
             self.assertEqual(report["is_feo"]["qwen_completed_chunks"], 1)
             self.assertEqual(report["is_feo"]["qwen_pending_chunks"], 1)
             self.assertEqual(report["is_feo"]["qwen_unresolved_statement_count"], 1)
+
+    def test_stale_checkpoint_is_pending(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            out = root / "data/is_feo_v1"
+            write_jsonl(
+                out / "atlas_is_feo_review_chunks.jsonl",
+                [{"chunk_id": "one", "chunk_text_sha256": "new"}],
+            )
+            write_jsonl(
+                out / "local_ai/atlas_is_feo_ai_checkpoint.jsonl",
+                [
+                    {
+                        "chunk": {"chunk_id": "one", "chunk_text_sha256": "old"},
+                        "result": {"unresolved_statements": ["stale"]},
+                    }
+                ],
+            )
+            report = summary.summarize(root, out)
+            self.assertEqual(report["is_feo"]["qwen_completed_chunks"], 0)
+            self.assertEqual(report["is_feo"]["qwen_pending_chunks"], 1)
+            self.assertEqual(report["is_feo"]["qwen_unresolved_statement_count"], 0)
 
 
 if __name__ == "__main__":

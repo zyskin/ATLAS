@@ -100,16 +100,25 @@ def summarize(root: Path, output_dir: Path) -> dict[str, Any]:
     measurement_rows = read_csv(measurements_path)
     error_rows = read_jsonl(errors_path)
 
-    chunk_ids = {str(row.get("chunk_id", "")) for row in chunks if row.get("chunk_id")}
-    completed_ids: set[str] = set()
+    chunks_by_id = {
+        str(row.get("chunk_id", "")): row for row in chunks if row.get("chunk_id")
+    }
+    chunk_ids = set(chunks_by_id)
+    completed_by_id: dict[str, dict[str, Any]] = {}
+    for record in checkpoint_rows:
+        stored = record.get("chunk") or {}
+        chunk_id = str(stored.get("chunk_id", ""))
+        current = chunks_by_id.get(chunk_id)
+        if current is None:
+            continue
+        if stored.get("chunk_text_sha256") != current.get("chunk_text_sha256"):
+            continue
+        completed_by_id[chunk_id] = record
+
     unresolved_statement_count = 0
     chunks_with_unresolved = 0
     model_warning_count = 0
-    for record in checkpoint_rows:
-        chunk = record.get("chunk") or {}
-        chunk_id = str(chunk.get("chunk_id", ""))
-        if chunk_id in chunk_ids:
-            completed_ids.add(chunk_id)
+    for record in completed_by_id.values():
         result = record.get("result") or {}
         unresolved = result.get("unresolved_statements") or []
         if isinstance(unresolved, list) and unresolved:
@@ -163,8 +172,8 @@ def summarize(root: Path, output_dir: Path) -> dict[str, Any]:
             "atlas_candidate_pages": len(atlas_rows),
             "atlas_candidate_kinds": group(atlas_rows, "candidate_kind"),
             "qwen_input_chunks": len(chunks),
-            "qwen_completed_chunks": len(completed_ids),
-            "qwen_pending_chunks": len(chunk_ids - completed_ids),
+            "qwen_completed_chunks": len(completed_by_id),
+            "qwen_pending_chunks": len(chunk_ids - set(completed_by_id)),
             "qwen_error_rows": len(error_rows),
             "qwen_candidate_measurement_rows": len(measurement_rows),
             "qwen_validation_status": group(measurement_rows, "validation_status"),

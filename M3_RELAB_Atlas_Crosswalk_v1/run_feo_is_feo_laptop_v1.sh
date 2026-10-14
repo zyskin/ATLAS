@@ -20,7 +20,9 @@ if [[ ${OVERWRITE:-0} == 1 ]]; then
 fi
 
 cd "$ATLAS_PROJECT"
-"$PYTHON_BIN" -m unittest -v test_is_feo_workflow_v1.py
+"$PYTHON_BIN" -m unittest -v \
+  test_is_feo_workflow_v1.py \
+  test_summarize_feo_is_feo_status_v1.py
 "$PYTHON_BIN" collect_is_feo_candidates_v1.py \
   --project-root "$ATLAS_PROJECT" \
   --relab-root "$RELAB_ROOT" \
