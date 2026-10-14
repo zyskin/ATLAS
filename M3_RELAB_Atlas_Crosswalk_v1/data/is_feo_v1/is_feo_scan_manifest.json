@@ -1,0 +1,48 @@
+{
+  "schema": "is-feo-candidate-collector-1.0",
+  "created_utc": "2026-10-14T01:05:46.144327+00:00",
+  "project_root": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1",
+  "inputs": {
+    "relab_index": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/relab_raw_native_2026-10-04/relab_spectrum_index.csv",
+    "relab_chemistry": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/relab_raw_native_2026-10-04/relab_chemistry.csv",
+    "relab_roots": [
+      "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1",
+      "/media/maxim/Elements/grants/2024/INSRU/pgdal/cartApollo2026"
+    ],
+    "atlas_json_dir": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/parsed/json_gz"
+  },
+  "rules": {
+    "exclude_source_regex": "(?i)bhatt",
+    "parent_child_transfer": "forbidden",
+    "graph_reading": "forbidden",
+    "candidate_values_are_confirmed": false
+  },
+  "counts": {
+    "previously_recorded_rows": 22,
+    "relab_xml_files_scanned": 1627,
+    "relab_hits": 240,
+    "relab_read_failures": 0,
+    "atlas_json_files_scanned": 706,
+    "atlas_candidate_pages": 335,
+    "atlas_numeric_review_chunks": 139,
+    "atlas_read_failures": 0
+  },
+  "outputs": {
+    "existing": {
+      "path": "data/is_feo_v1/existing_is_feo_records.csv",
+      "sha256": "acead8237b0ba98ac7b42b93af4f54c6943e836d4e571a48413c5ef5af78161c"
+    },
+    "relab": {
+      "path": "data/is_feo_v1/relab_is_feo_hits.csv",
+      "sha256": "66eb729b9d7a412be67ce16f2175837e388a46482a48d12dd1b4c94adea44503"
+    },
+    "atlas": {
+      "path": "data/is_feo_v1/atlas_is_feo_candidates.csv",
+      "sha256": "eaf86e067495c5ddcac9f3c17a9657e8cb85cf2153516b28abb459fde0ba252b"
+    },
+    "chunks": {
+      "path": "data/is_feo_v1/atlas_is_feo_review_chunks.jsonl",
+      "sha256": "1301072050b2e6e24a28e23c5eeabff6d344448d049233c9c88789cc8400cef6"
+    }
+  }
+}

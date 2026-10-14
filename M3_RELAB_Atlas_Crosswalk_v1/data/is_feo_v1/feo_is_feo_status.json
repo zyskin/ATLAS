@@ -1,0 +1,119 @@
+{
+  "schema": "feo-is-feo-status-1.0",
+  "created_utc": "2026-10-14T10:52:47.756115+00:00",
+  "rules": {
+    "bhatt_allowed": false,
+    "parent_child_transfer": "forbidden",
+    "graph_reading": "forbidden",
+    "qwen_rows_are_confirmed": false,
+    "is_definition": "calibrated ferromagnetic-resonance intensity near g=2.1; not a spectral-reflectance ratio"
+  },
+  "feo": {
+    "reviewed_parent_rows": 46,
+    "resolved_parent_rows": 36,
+    "unresolved_or_no_parent_bulk_rows": 10,
+    "parent_resolution_status": {
+      "resolved_with_parent_or_documented_fraction_feo": 36,
+      "reviewed_no_parent_bulk_feo": 10
+    },
+    "candidate_adjudication_rows": 402,
+    "candidate_decisions": {
+      "accepted_parent_or_documented_fraction": 133,
+      "reassigned_to_other_sample": 92,
+      "rejected_duplicate_extraction": 3,
+      "rejected_parser_false_positive": 106,
+      "retained_component_or_subsample_only": 68
+    },
+    "remaining_priority_cases": 5,
+    "remaining_priority_sample_ids": [
+      "60215",
+      "65315",
+      "67729",
+      "69003",
+      "69004"
+    ],
+    "files": {
+      "parent_summary": {
+        "path": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/ai_resolution_v1/review_parent_summary.csv",
+        "present": true,
+        "rows": 46
+      },
+      "adjudications": {
+        "path": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/ai_resolution_v1/review_candidate_adjudications.csv",
+        "present": true,
+        "rows": 402
+      },
+      "remaining": {
+        "path": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/ai_resolution_v1/missing_case_remaining.csv",
+        "present": true,
+        "rows": 5
+      }
+    }
+  },
+  "is_feo": {
+    "previously_recorded_rows": 22,
+    "previously_recorded_review_flags": {
+      "no": 11,
+      "not_stated": 11
+    },
+    "relab_metadata_hits": 240,
+    "relab_hit_kinds": {
+      "qualitative_maturity": 240
+    },
+    "atlas_candidate_pages": 335,
+    "atlas_candidate_kinds": {
+      "citation_only": 113,
+      "numeric_graph_or_ambiguous": 78,
+      "numeric_statement": 131,
+      "numeric_table_or_layout": 8,
+      "text_only_or_citation": 5
+    },
+    "qwen_input_chunks": 139,
+    "qwen_completed_chunks": 0,
+    "qwen_pending_chunks": 139,
+    "qwen_error_rows": 0,
+    "qwen_candidate_measurement_rows": 0,
+    "qwen_validation_status": {},
+    "qwen_review_status": {},
+    "qwen_chunks_with_unresolved_statements": 0,
+    "qwen_unresolved_statement_count": 0,
+    "qwen_model_warning_count": 0,
+    "files": {
+      "existing": {
+        "path": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/is_feo_v1/existing_is_feo_records.csv",
+        "present": true,
+        "rows": 22
+      },
+      "relab_hits": {
+        "path": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/is_feo_v1/relab_is_feo_hits.csv",
+        "present": true,
+        "rows": 240
+      },
+      "atlas_candidates": {
+        "path": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/is_feo_v1/atlas_is_feo_candidates.csv",
+        "present": true,
+        "rows": 335
+      },
+      "chunks": {
+        "path": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/is_feo_v1/atlas_is_feo_review_chunks.jsonl",
+        "present": true,
+        "rows": 139
+      },
+      "checkpoint": {
+        "path": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/is_feo_v1/local_ai/atlas_is_feo_ai_checkpoint.jsonl",
+        "present": false,
+        "rows": 0
+      },
+      "measurements": {
+        "path": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/is_feo_v1/local_ai/atlas_is_feo_ai_measurements.csv",
+        "present": false,
+        "rows": 0
+      },
+      "errors": {
+        "path": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/is_feo_v1/local_ai/atlas_is_feo_ai_errors.jsonl",
+        "present": false,
+        "rows": 0
+      }
+    }
+  }
+}
