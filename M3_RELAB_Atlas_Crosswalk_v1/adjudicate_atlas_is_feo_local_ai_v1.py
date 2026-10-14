@@ -120,7 +120,11 @@ def read_jsonl(path: Path) -> list[dict[str, Any]]:
 def build_messages(chunk: dict[str, Any], disable_thinking: bool) -> list[dict[str, str]]:
     system = (
         "You extract lunar-sample I_s/FeO maturity-index statements from supplied "
-        "text. Use only the evidence. Return JSON only. Do not use prior knowledge. "
+        "text. In this Morris maturity index, I_s is the calibrated intensity of "
+        "the ferromagnetic-resonance signal near g=2.1 and FeO is independently "
+        "measured total iron expressed as wt.% FeO. I_s is NOT a spectral-"
+        "reflectance ratio. Use only the evidence. Return JSON only. Do not use "
+        "prior knowledge. "
         "Do not read or estimate a value from a graph, axis, or plotted point. Do "
         "not transfer a value between a parent soil and a child, split, depth, grain-"
         "size fraction, rock, breccia, or glass bead. A list using 'respectively' may "
@@ -151,6 +155,9 @@ Return exactly this JSON shape:
 
 Rules:
 - Extract only numerical I_s/FeO values explicitly printed in prose or a table.
+- Never calculate I_s/FeO from a reflectance spectrum, a plotted curve, an FeO
+  value alone, or separate I_s and FeO values unless the printed text explicitly
+  reports their ratio as the Morris maturity index.
 - Preserve <, >, ~, or a range in value_text/qualifier; do not turn it into equality.
 - Sample IDs must retain any printed comma-split suffix when it identifies a split.
 - Qualitative words alone (mature, submature, immature) are not measurements.
@@ -250,6 +257,12 @@ def validate_measurement(row: dict[str, Any], chunk: dict[str, Any]) -> list[str
         numeric_core = re.sub(r"[^0-9.]", "", number.group(0))
         if numeric_core and numeric_core not in text_normalized:
             warnings.append("numeric_value_not_found_in_chunk")
+        try:
+            numeric_value = float(numeric_core)
+        except ValueError:
+            numeric_value = -1.0
+        if numeric_value < 0 or numeric_value > 200:
+            warnings.append("numeric_value_outside_candidate_range_0_200")
     if not quote:
         warnings.append("missing_evidence_quote")
     elif normalize_for_check(quote) not in text_normalized:
@@ -444,3 +457,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+

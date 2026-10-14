@@ -93,6 +93,22 @@ class IsFeoWorkflowTests(unittest.TestCase):
         self.assertIn("numeric_value_not_found_in_chunk", warnings)
         self.assertIn("evidence_quote_not_verbatim_after_normalization", warnings)
 
+    def test_model_prompt_defines_is_and_forbids_spectral_derivation(self) -> None:
+        messages = ai.build_messages(
+            {
+                "chunk_id": "test",
+                "atlas_document_sample_ids": ["76501"],
+                "pdf_page": 2,
+                "text": "76501 has Is/FeO = 58.",
+            },
+            disable_thinking=True,
+        )
+        prompt = " ".join(message["content"] for message in messages)
+        self.assertIn("ferromagnetic-resonance", prompt)
+        self.assertIn("NOT a spectral-reflectance ratio", prompt)
+        self.assertIn("Never calculate I_s/FeO from a reflectance spectrum", prompt)
+
 
 if __name__ == "__main__":
     unittest.main()
+

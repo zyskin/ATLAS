@@ -32,6 +32,13 @@ The new workflow
    * rejects graph reading and parent/child value transfer;
    * marks every model-produced row needs_human_review.
 
+3. summarize_feo_is_feo_status_v1.py
+
+   * summarizes the already reviewed FeO pipeline and the new I_s/FeO pass;
+   * counts Qwen completed, pending, failed, warning, and unresolved records;
+   * writes both JSON and a short Markdown status report;
+   * treats missing files as missing, never as completed work.
+
 Bhatt-derived material is excluded by default in both the deterministic rules
 and the local-model prompt.
 
@@ -54,6 +61,15 @@ If it already exists and the run is intentionally being replaced:
     --project-root "$ATLAS" \
     --relab-root "$RELAB" \
     --overwrite
+
+The convenience driver runs tests, the deterministic scan, and the combined
+FeO plus I_s/FeO status report:
+
+  cd "$ATLAS"
+  OVERWRITE=1 ./run_feo_is_feo_laptop_v1.sh "$RELAB"
+
+After inspecting data/is_feo_v1/FEO_IS_FEO_STATUS.md, commit the deterministic
+outputs so the same exact chunks can be pulled on TACC.
 
 Important outputs
 -----------------
@@ -86,6 +102,10 @@ must listen only on 127.0.0.1.  Then run:
     --project-root "$ATLAS" \
     --no-stream
 
+The prompt explicitly defines I_s as calibrated FMR intensity near g=2.1 and
+forbids treating it as a spectral-reflectance ratio.  It also forbids deriving
+the index from a spectrum, graph, FeO alone, or unassociated I_s and FeO values.
+
 For a short test first:
 
   python "$ATLAS/adjudicate_atlas_is_feo_local_ai_v1.py" \
@@ -102,6 +122,8 @@ Local-AI outputs
   data/is_feo_v1/local_ai/atlas_is_feo_ai_measurements.csv
   data/is_feo_v1/local_ai/atlas_is_feo_ai_errors.jsonl
   data/is_feo_v1/local_ai/atlas_is_feo_ai_manifest.json
+  data/is_feo_v1/feo_is_feo_status.json
+  data/is_feo_v1/FEO_IS_FEO_STATUS.md
 
 The measurements CSV is not a confirmed master table.  Every row remains
 needs_human_review.  Confirmation must compare the exact page evidence and
@@ -111,4 +133,32 @@ grain-size fraction unless that exact relationship is explicitly documented.
 Tests
 -----
   cd "$ATLAS"
-  python -m unittest -v test_is_feo_workflow_v1.py
+  python -m unittest -v \
+    test_is_feo_workflow_v1.py \
+    test_summarize_feo_is_feo_status_v1.py
+
+TACC Qwen run
+-------------
+The TACC launcher starts llama-server on 127.0.0.1 only; it opens no external
+port.  First build the server target once for the desired backend:
+
+  cmake --build "$QWEN_LLAMA_ROOT/build-cpu" --target llama-server -j 8
+  cmake --build "$QWEN_LLAMA_ROOT/build-cuda" --target llama-server -j 8
+
+For a five-chunk interactive smoke test on a compute node:
+
+  cd "$ATLAS"
+  QWEN_LIMIT=5 QWEN_BACKEND=cpu ./run_is_feo_qwen_tacc_v1.sh
+
+For the full resumable batch run, submit one backend only:
+
+  sbatch atlas_github_tacc_pipeline/hpc/slurm_is_feo_qwen_cpu.sbatch
+
+or, faster and usually cheaper for this 27B model:
+
+  sbatch atlas_github_tacc_pipeline/hpc/slurm_is_feo_qwen_gpu.sbatch
+
+The CPU launcher is the default.  Both launchers resume the checkpoint and
+regenerate the status report when they finish.  Never run either launcher on a
+login node.
+
