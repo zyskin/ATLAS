@@ -34,3 +34,19 @@ Generated: 2026-10-14T10:52:47.756115+00:00
 - Validation statuses: {}
 
 Missing inputs remain marked `present: false` in the JSON report; they are not counted as completed work.
+
+## Added independent source extracts (2026-11-02)
+
+These source tables are stored under `data/source_extracts/`. They supplement
+the reviewed pipeline above and do not silently alter its earlier counts.
+
+- JSC 19069 lunar-soil data sheets: 169 sample rows.
+- JSC 19069 FeO values: 132.
+- JSC 19069 I_s/FeO values: 157.
+- JSC 19069 rows with both: 126.
+- LPI Regolith Breccia Workbook: 45 sample rows and 790 reported analyte rows.
+- Breccia rows with FeO: 42.
+- Combined source index: 214 distinct Apollo sample IDs; 174 rows with FeO and 157 with I_s/FeO.
+
+The source index preserves separate source rows and performs no averaging,
+imputation, graph reading, or parent-to-child transfer.

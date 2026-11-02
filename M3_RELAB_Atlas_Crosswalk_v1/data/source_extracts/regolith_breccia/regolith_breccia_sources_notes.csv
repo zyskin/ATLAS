@@ -1,0 +1,46 @@
+Sample ID,PDF viewer page,Printed page,Table reference,Footnotes and table notes,Source URL,Extraction status
+10009,144,139,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+10018,144,139,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+10019,145,140,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+10021,145,140,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+10046,146,141,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+10048,146,141,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+10060,147,142,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+10065,147,142,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+10068,148,143,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+10073,148,143,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+12010,149,144,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+12034,149,144,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+12073,150,145,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+14042,150,145,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+14047,151,146,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+14049,151,146,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+14301,152,147,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+14307,152,147,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+14313,153,148,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+14315,153,148,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+14318,154,149,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+15015,155,150,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+15086,156,151,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+15205,156,151,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+15265,157,152,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+15295,157,152,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+15306,158,153,Moore and Lewis (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+15465,158,153,Ehmann et al. (1975),* Ali et al. (1976). + Keith et al. (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+15505,159,154,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+15558,159,154,Apollo 15 PET (1972),* Apollo 15 Preliminary Science Report (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+15565,160,155,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+60016,160,155,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+60019,161,156,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+60255,161,156,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+60275,162,157,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+61135,162,157,Not stated,* Moore and Lewis (1976). + Schaeffer and Schaeffer (1977).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+61175,163,158,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+61195,163,158,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+61295,164,159,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+66035,164,159,Eldridge et al. (1973),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+66075,165,160,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+70019,165,160,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+76565,166,161,Simonds and Warner (1981),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+79035,166,161,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page
+79135,167,162,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf,Visually checked against rendered PDF page

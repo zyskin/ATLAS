@@ -1,0 +1,791 @@
+Sample ID,PDF viewer page,Printed page,Analyte,Value,Unit,Qualifier,Footnote marker,Raw reported,Table reference,Notes,Source URL
+10009,144,139,SiO2,42,wt.%,,,42.0,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,TiO2,7.89,wt.%,,,7.89,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,Al2O3,12.21,wt.%,,,12.21,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,Cr2O3,0.13,wt.%,,,0.13,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,FeO,16.43,wt.%,,,16.43,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,MnO,0.24,wt.%,,,0.24,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,MgO,8.08,wt.%,,,8.08,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,CaO,11.55,wt.%,,,11.55,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,Na2O,0.48,wt.%,,,0.48,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,K2O,0.18,wt.%,,,0.18,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,P2O5,0.13,wt.%,,,0.13,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,Sr,152,ppm,,,152,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,La,18,ppm,,,18.0,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,Lu,1.73,ppm,,,1.73,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,Rb,3.6,ppm,,,3.6,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,Sc,64,ppm,,,64,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,Ni,201,ppm,,,201,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,Co,33,ppm,,,33,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,N,96.4,ppm,,*,96.4*,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10009,144,139,Zn,65,ppm,,,65,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,SiO2,41.81,wt.%,,,41.81,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,TiO2,7.99,wt.%,,,7.99,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,Al2O3,12.34,wt.%,,,12.34,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,Cr2O3,0.29,wt.%,,,0.29,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,FeO,16.46,wt.%,,,16.46,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,MnO,0.22,wt.%,,,0.22,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,MgO,7.79,wt.%,,,7.79,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,CaO,12,wt.%,,,12.00,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,Na2O,0.46,wt.%,,,0.46,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,K2O,0.17,wt.%,,,0.17,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,P2O5,0.15,wt.%,,,0.15,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,Sr,166.1,ppm,,,166.1,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,La,24,ppm,,,24,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,Lu,2.14,ppm,,+,2.14+,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,Rb,3.6,ppm,,,3.60,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,Sc,60.3,ppm,,+,60.3+,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,Ni,200,ppm,,,200,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,Co,35,ppm,,,35,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,N,105.4,ppm,,*,105.4*,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,S,0.15,ppm,,,0.15,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,Zn,54,ppm,,,54,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10018,144,139,Cu,32,ppm,,,32,Compston et al. (1970),* Thiemens and Clayton (1980a). + Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,SiO2,41.6,wt.%,,,41.6,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,TiO2,7.6,wt.%,,,7.60,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,Al2O3,12.6,wt.%,,,12.60,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,Cr2O3,0.3,wt.%,,,0.30,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,FeO,15.78,wt.%,,,15.78,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,MnO,0.21,wt.%,,,0.21,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,MgO,7.74,wt.%,,,7.74,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,CaO,11.74,wt.%,,,11.74,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,Na2O,0.47,wt.%,,,0.47,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,K2O,0.15,wt.%,,,0.15,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,P2O5,0.11,wt.%,,,0.11,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,Sr,166.4,ppm,,**,166.4**,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,La,15.5,ppm,,+,15.5+,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,Lu,1.84,ppm,,+,1.84+,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,Rb,3.31,ppm,,**,3.31**,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,Sc,60.9,ppm,,+,60.9+,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,Ni,157.16,ppm,,*,157.16*,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10019,145,140,Co,34.5,ppm,,+,34.5+,Rhodes and Blanchard (1981),* Rose et al. (1970). + Goles et al. (1970b). ** Gopalan et al. (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,SiO2,41.93,wt.%,,,41.93,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,TiO2,8.17,wt.%,,,8.17,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,Al2O3,13.23,wt.%,,,13.23,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,Cr2O3,0.29,wt.%,,,0.29,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,FeO,16.85,wt.%,,,16.85,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,MnO,0.2,wt.%,,,0.20,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,MgO,8.29,wt.%,,,8.29,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,CaO,10.77,wt.%,,,10.77,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,Na2O,0.46,wt.%,,,0.46,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,K2O,0.19,wt.%,,*,0.19*,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,Sr,165,ppm,,*,165*,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,La,17.5,ppm,,,17.5,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,Lu,2.25,ppm,,,2.25,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,Rb,4.03,ppm,,*,4.03*,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,Sc,61.8,ppm,,,61.8,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10021,145,140,Co,30.7,ppm,,,30.7,Goles et al. (1970b),* Philpotts and Schnetzler (1970).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,SiO2,44.07,wt.%,high,,44.070 (high),Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,TiO2,8.34,wt.%,,,8.340,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,Al2O3,11.715,wt.%,,,11.715,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,Cr2O3,0.307,wt.%,,,0.307,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,FeO,16.982,wt.%,,,16.982,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,MnO,0.207,wt.%,,,0.207,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,MgO,9.121,wt.%,high,,9.121 (high),Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,CaO,13.71,wt.%,high,,13.710 (high),Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,Na2O,0.472,wt.%,,,0.472,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,K2O,0.205,wt.%,,,0.205,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,P2O5,0.229,wt.%,,,0.229,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,Sr,170,ppm,,,170,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,La,23,ppm,,,23,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,Lu,1.8,ppm,,,1.8,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,Rb,3.6,ppm,,,3.6,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,Sc,64,ppm,,,64,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,Ni,70,ppm,,,70,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,Co,42,ppm,,,42,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,Ir,0.01,ppm,,*,0.01*,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,Au,0.003,ppm,,*,0.003*,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,N,260,ppm,,,260,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,Zn,30,ppm,,,30,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10046,146,141,Cu,9.7,ppm,,,9.7,Morrison et al. (1970),* Lovering and Hughes (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,SiO2,41.9,wt.%,,,41.9,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,TiO2,8.15,wt.%,,,8.15,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,Al2O3,12.49,wt.%,,,12.49,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,Cr2O3,0.29,wt.%,,,0.29,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,FeO,16.45,wt.%,,,16.45,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,MnO,0.2,wt.%,,,0.20,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,MgO,7.75,wt.%,,,7.75,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,CaO,11.69,wt.%,,,11.69,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,Na2O,0.48,wt.%,,,0.48,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,K2O,0.21,wt.%,,,0.21,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,P2O5,0.13,wt.%,,,0.13,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,Sr,190,ppm,,*,190*,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,Rb,4.16,ppm,,*,4.16*,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,Sc,65.8,ppm,,*,65.8*,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,Ni,214,ppm,,*,214*,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,Co,35,ppm,,*,35.0*,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,Au,0.0025,ppm,,*,2.5 x 10^-3*,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,N,118.8,ppm,,+,118.8+,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,Zn,30.2,ppm,,*,30.2*,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10048,146,141,Cu,11.1,ppm,,*,11.1*,Rhodes and Blanchard (1981),* Haskin et al. (1970). + Thiemens and Clayton (1980a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,SiO2,41.5,wt.%,,,41.5,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,TiO2,9.15,wt.%,,,9.15,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,Al2O3,11.8,wt.%,,,11.8,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,Cr2O3,0.33,wt.%,,,0.33,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,FeO,17,wt.%,,,17.0,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,MnO,0.23,wt.%,,,0.23,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,MgO,7.52,wt.%,,,7.52,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,CaO,11.6,wt.%,,,11.6,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,Na2O,0.78,wt.%,,,0.78,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,K2O,0.18,wt.%,,,0.18,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,P2O5,0.2,wt.%,<,,<0.20,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,Sr,180,ppm,,+,180+,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,La,24,ppm,,+,24+,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,Lu,2,ppm,,+,2.0+,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,Rb,4,ppm,,+,4.0+,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,Sc,70,ppm,,+,70+,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,Ni,157,ppm,,,157,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,Co,32,ppm,,+,32+,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,C,135,ppm,,*,135*,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,N,95.1,ppm,,**,95.1**,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,S,1120,ppm,,*,1120*,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,Zn,25,ppm,,+,25+,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10060,147,142,Cu,11,ppm,,+,11+,Rose et al. (1970),* Kaplan et al. (1970). + Morrison et al. (1970). ** Thiemens and Clayton (1980a): total N for <100 micrometre fraction.,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,SiO2,41.9,wt.%,,,41.9,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,TiO2,7.92,wt.%,,,7.92,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,Al2O3,12.56,wt.%,,,12.56,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,Cr2O3,0.31,wt.%,,,0.31,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,FeO,16.24,wt.%,,,16.24,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,MnO,0.22,wt.%,,,0.22,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,MgO,7.86,wt.%,,,7.86,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,CaO,11.82,wt.%,,,11.82,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,Na2O,0.47,wt.%,,,0.47,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,K2O,0.18,wt.%,,,0.18,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,P2O5,0.14,wt.%,,,0.14,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,La,17.8,ppm,,+,17.8+,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,Lu,2.01,ppm,,+,2.01+,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,Sc,62.6,ppm,,+,62.6+,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,Co,31.6,ppm,,+,31.6+,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10065,147,142,N,104.1,ppm,,*,104.1*,Rhodes and Blanchard (1981),* Thiemens and Clayton (1980a). + Goles et al. (1970a).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,SiO2,41.29,wt.%,,,41.29,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,TiO2,7.84,wt.%,,,7.84,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,Al2O3,12.28,wt.%,,,12.28,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,Cr2O3,0.28,wt.%,,,0.28,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,FeO,16.47,wt.%,,,16.47,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,MnO,0.19,wt.%,,,0.19,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,MgO,6.47,wt.%,,,6.47,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,CaO,12.17,wt.%,,,12.17,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,Na2O,0.44,wt.%,,,0.44,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,Sr,130,ppm,,*,130.0*,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,La,16.4,ppm,,,16.4,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,Lu,2.6,ppm,,,2.6,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,Rb,3.3,ppm,,*,3.30*,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,Sc,60.9,ppm,,,60.9,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,Ni,205.01,ppm,,*,205.01*,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,Co,31.7,ppm,,,31.7,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,C,165,ppm,,+,165.0+,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10068,148,143,Cu,15,ppm,,,15,Goles et al. (1970b),* Annell and Helz (1970). + Epstein and Taylor (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,SiO2,41.6,wt.%,,,41.6,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,TiO2,7.76,wt.%,,,7.76,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,Al2O3,12.96,wt.%,,,12.96,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,Cr2O3,0.31,wt.%,,,0.31,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,FeO,15.8,wt.%,,,15.80,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,MnO,0.22,wt.%,,,0.22,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,MgO,7.87,wt.%,,,7.87,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,CaO,11.96,wt.%,,,11.96,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,Na2O,0.45,wt.%,,,0.45,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,K2O,0.13,wt.%,,,0.13,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,P2O5,0.12,wt.%,,,0.12,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,La,12.8,ppm,,*,12.8*,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,Lu,1.76,ppm,,*,1.76*,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,Sc,62,ppm,,*,62.0*,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,Co,31.1,ppm,,*,31.1*,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+10073,148,143,Cu,14,ppm,,*,14*,Rhodes and Blanchard (1981),* Goles et al. (1970b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,SiO2,46.27,wt.%,,,46.27,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,TiO2,3.3,wt.%,,,3.30,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,Al2O3,10.04,wt.%,,,10.04,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,Cr2O3,0.43,wt.%,,,0.43,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,FeO,20.33,wt.%,,,20.33,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,MnO,0.27,wt.%,,,0.27,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,MgO,8.29,wt.%,,,8.29,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,CaO,10.81,wt.%,,,10.81,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,Na2O,0.29,wt.%,,,0.29,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,K2O,0.124,wt.%,,,0.124,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,P2O5,0.13,wt.%,,,0.13,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,Sr,116,ppm,,,116,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,La,9,ppm,,,9,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,Rb,2.15,ppm,,,2.15,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,Ni,32,ppm,,,32,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,Co,34,ppm,,,34,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,Ir,0.0027,ppm,,*,2.7 x 10^-3*,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,Au,0.08199999999999999,ppm,,*,8.2 x 10^-2*,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,S,700,ppm,,,700,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,Zn,6,ppm,,,6,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12010,149,144,Cu,11,ppm,,,11,Compston et al. (1971),* Laul et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,SiO2,47.76,wt.%,,,47.76,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,TiO2,2.33,wt.%,,,2.33,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,Al2O3,15.49,wt.%,,,15.49,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,Cr2O3,0.35,wt.%,,*,0.35*,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,FeO,12.42,wt.%,,,12.42,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,MnO,0.19,wt.%,,,0.19,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,MgO,8.31,wt.%,,,8.31,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,CaO,10.85,wt.%,,,10.85,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,Na2O,0.67,wt.%,,,0.67,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,K2O,0.48,wt.%,,,0.48,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,P2O5,0.53,wt.%,,,0.53,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,Sr,194.1,ppm,,*,194.1*,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,La,67.5,ppm,,*,67.5*,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,Lu,3.14,ppm,,*,3.14*,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,Sc,31,ppm,,*,31.0*,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,Co,30.4,ppm,,+,30.4+,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12034,149,144,S,900,ppm,,,900,Hubbard et al. (1973),* Wänke et al. (1971). + Goles et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,SiO2,47.28,wt.%,,,47.28,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,TiO2,2.17,wt.%,,,2.17,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,Al2O3,13.93,wt.%,,,13.93,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,Cr2O3,0.33,wt.%,,,0.33,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,FeO,16.34,wt.%,,,16.34,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,MnO,0.21,wt.%,,,0.21,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,MgO,9.25,wt.%,,,9.25,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,CaO,11.19,wt.%,,,11.19,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,Na2O,0.6,wt.%,,,0.60,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,K2O,0.4,wt.%,,,0.40,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,Sr,190,ppm,,,190,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,La,49.8,ppm,,,49.8,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,Lu,2.17,ppm,,,2.17,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,Rb,11.3,ppm,,,11.3,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,Sc,36.2,ppm,,,36.2,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,Ni,230,ppm,,,230,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,Co,38.2,ppm,,,38.2,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,Ir,8.8,ppm,,,8.8,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,Au,2.7,ppm,,,2.7,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,Zn,6.8,ppm,,*,6.8*,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+12073,150,145,Cu,5.7,ppm,,,5.7,Wänke et al. (1971),* Morrison et al. (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,SiO2,47.52,wt.%,,,47.52,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,TiO2,1.7,wt.%,,,1.70,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,Al2O3,18.25,wt.%,,,18.25,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,Cr2O3,0.19,wt.%,,,0.19,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,FeO,10.41,wt.%,,,10.41,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,MgO,9.3,wt.%,,,9.30,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,CaO,10.94,wt.%,,,10.94,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,Na2O,0.63,wt.%,,,0.63,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,K2O,0.49,wt.%,,,0.49,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,P2O5,0.47,wt.%,,,0.47,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,Sr,210,ppm,,*,210.0*,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,La,70,ppm,,*,70.0*,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,Rb,14,ppm,,*,14.0*,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,Sc,30,ppm,,*,30.0*,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,Ni,280,ppm,,*,280.0*,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,Co,56,ppm,,*,56.0*,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14042,150,145,Cu,19,ppm,,*,19.0*,Christian et al. (1976),* Apollo 14 Preliminary Science Report (1971).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,SiO2,47.45,wt.%,,,47.45,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,TiO2,1.48,wt.%,,,1.48,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,Al2O3,17.75,wt.%,,,17.75,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,Cr2O3,0.22,wt.%,,,0.22,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,FeO,10.36,wt.%,,,10.36,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,MnO,0.13,wt.%,,,0.13,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,MgO,9.35,wt.%,,,9.35,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,CaO,11.19,wt.%,,,11.19,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,Na2O,0.75,wt.%,,,0.75,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,K2O,0.49,wt.%,,,0.49,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,P2O5,0.39,wt.%,,,0.39,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,Sr,180,ppm,,*,180*,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,La,80,ppm,,*,80*,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,Rb,16,ppm,,*,16*,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,Ni,370,ppm,,*,370*,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,Co,34,ppm,,*,34*,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,Ir,11.2,ppm,,+,11.2+,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,Au,5.4,ppm,,+,5.4+,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,S,800,ppm,,*,800*,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,Zn,20,ppm,,+,20+,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14047,151,146,Cu,150,ppm,,*,150*,Rose et al. (1972),"* Taylor, S.R. et al. (1972). + Morgan et al. (1972).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,SiO2,48.3,wt.%,,,48.3,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,TiO2,1.75,wt.%,,,1.75,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,Al2O3,16.2,wt.%,,,16.20,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,Cr2O3,0.2,wt.%,,,0.20,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,FeO,10.83,wt.%,,,10.83,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,MnO,0.14,wt.%,,,0.14,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,MgO,10,wt.%,,,10.00,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,CaO,10.63,wt.%,,,10.63,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,Na2O,0.74,wt.%,,,0.74,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,K2O,0.6,wt.%,,,0.60,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,P2O5,0.44,wt.%,,,0.44,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,La,69,ppm,,+,69.0+,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,Lu,3.26,ppm,,+,3.26+,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,Sc,21.9,ppm,,+,21.9+,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,Co,35.6,ppm,,+,35.6+,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,C,190,ppm,,**,190.0**,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,N,130,ppm,,**,130.0**,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14049,151,146,S,970,ppm,,+,970.0+,Philpotts et al. (1972),* <100 mesh fraction. + Lindstrom et al. (1972). ** Moore et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,SiO2,47.6,wt.%,,,47.6,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,TiO2,1.77,wt.%,,,1.77,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,Al2O3,15.9,wt.%,,,15.9,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,Cr2O3,0.2,wt.%,,,0.20,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,FeO,11.9,wt.%,,,11.9,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,MnO,0.14,wt.%,,,0.14,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,MgO,10.4,wt.%,,,10.4,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,CaO,10.1,wt.%,,,10.1,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,Na2O,0.74,wt.%,,,0.74,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,K2O,0.69,wt.%,,,0.69,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,P2O5,0.58,wt.%,,,0.58,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,Sr,175,ppm,,,175,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,La,92,ppm,,,92,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,Rb,18,ppm,,,18,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,Sc,26,ppm,,*,26*,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,Ni,203,ppm,,,203,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,Co,27,ppm,,*,27*,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,S,900,ppm,,,900,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,Zn,39,ppm,,*,39*,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14301,152,147,Cu,43,ppm,,*,43*,Hubbard et al. (1972),* Rose et al. (1972).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,SiO2,46.9,wt.%,,,46.9,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,TiO2,1.84,wt.%,,,1.84,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,Al2O3,16.5,wt.%,,,16.5,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,Cr2O3,0.23,wt.%,,,0.23,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,FeO,12.3,wt.%,,,12.3,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,MnO,0.14,wt.%,,,0.14,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,MgO,9.76,wt.%,,,9.76,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,CaO,10.8,wt.%,,,10.8,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,Na2O,0.7,wt.%,,,0.70,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,K2O,0.55,wt.%,,,0.55,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,P2O5,0.51,wt.%,,,0.51,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,Sr,163,ppm,,,163,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,Rb,14,ppm,,,14,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,Ni,251,ppm,,,251,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14307,152,147,S,1000,ppm,,,1000,Hubbard et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,Al2O3,17.38,wt.%,,,17.38,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,Cr2O3,0.2,wt.%,,,0.20,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,FeO,10.69,wt.%,,,10.69,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,MnO,0.13,wt.%,,,0.13,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,CaO,10.63,wt.%,,,10.63,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,Na2O,0.77,wt.%,,,0.77,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,K2O,0.72,wt.%,,*,0.72*,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,La,70,ppm,,,70.0,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,Lu,3.2,ppm,,,3.2,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,Sc,22,ppm,,,22.0,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,Ni,338,ppm,,,338.0,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,Co,36,ppm,,,36.0,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,Ir,0.01,ppm,,,0.01,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,Au,0.0050999999999999995,ppm,,,5.1 x 10^-3,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,C,130,ppm,,,130.0,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,N,48,ppm,,**,48.0**,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,S,1020,ppm,,+,1020.0+,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14313,153,148,Zn,35.1,ppm,,,35.1,Boynton et al. (1975),* Alexander and Kahl (1974). + Moore et al. (1972). ** Becker and Clayton (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,SiO2,47.76,wt.%,,,47.76,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,TiO2,0.8,wt.%,,,0.80,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,Al2O3,21.31,wt.%,,,21.31,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,Cr2O3,0.23,wt.%,,,0.23,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,FeO,7.82,wt.%,,,7.82,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,MnO,0.11,wt.%,,,0.11,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,MgO,8.28,wt.%,,,8.28,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,CaO,12.77,wt.%,,,12.77,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,Na2O,0.76,wt.%,,,0.76,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,K2O,0.35,wt.%,,,0.35,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,P2O5,0.23,wt.%,,,0.23,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,Sr,165,ppm,,,165,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,La,41,ppm,,,41,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,Rb,10,ppm,,,10,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,Sc,18,ppm,,,18,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,Ni,355,ppm,,,355,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,Co,30,ppm,,,30,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,Zn,34,ppm,,,34,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14315,153,148,Cu,10,ppm,,,10,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,SiO2,47.97,wt.%,,,47.97,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,TiO2,1.48,wt.%,,,1.48,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,Al2O3,17.8,wt.%,,,17.80,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,Cr2O3,0.19,wt.%,,,0.19,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,FeO,9.62,wt.%,,,9.62,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,MnO,0.13,wt.%,,,0.13,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,MgO,9.79,wt.%,,,9.79,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,CaO,11.16,wt.%,,,11.16,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,Na2O,0.79,wt.%,,,0.79,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,K2O,0.6,wt.%,,,0.60,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,P2O5,0.56,wt.%,,,0.56,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,Sr,140,ppm,,,140,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,La,66,ppm,,,66,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,Rb,14,ppm,,,14,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,Sc,22,ppm,,,22,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,Ni,420,ppm,,,420,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,Co,38,ppm,,,38,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,Zn,15,ppm,,,15,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+14318,154,149,Cu,170,ppm,,,170,Rose et al. (1972),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,SiO2,47.11,wt.%,,,47.11,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,TiO2,1.9,wt.%,,,1.90,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,Al2O3,14.46,wt.%,,,14.46,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,Cr2O3,0.39,wt.%,,,0.39,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,FeO,14.38,wt.%,,,14.38,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,MnO,0.19,wt.%,,,0.19,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,MgO,9.93,wt.%,,,9.93,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,CaO,10.49,wt.%,,,10.49,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,Na2O,0.31,wt.%,,,0.31,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,K2O,0.28,wt.%,,,0.28,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,P2O5,0.22,wt.%,,,0.22,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,Sr,135.4,ppm,,++,135.4++,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,La,30,ppm,,+,30+,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,Lu,1.4,ppm,,+,1.4+,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,Rb,6.34,ppm,,++,6.34++,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,Sc,27,ppm,,+,27+,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,Ni,236,ppm,,**,236**,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,Co,43,ppm,,+,43+,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,Ir,7.3,ng/g,,**,7.3** ng/g,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,Au,3.1,ng/g,,**,3.1** ng/g,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,C,121,ppm,,,121,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,N,54,ppm,,,54,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,S,630,ppm,,,630,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15015,155,150,Zn,13.1,ppm,,**,13.1**,European Consortium (1974),"* European Consortium and collaborators. + Laul and Schmitt (1973), INNA. ** Chou et al. (1974), RNAA, averages of 3 replicates. ++ Wiesmann and Hubbard (1975), IDMS; partially reported in Church et al. (1972) and Nyquist et al. (1973).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,SiO2,47.5,wt.%,,,47.50,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,TiO2,1.67,wt.%,,,1.67,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,Al2O3,11.01,wt.%,,,11.01,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,Cr2O3,0.42,wt.%,,,0.42,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,FeO,17.49,wt.%,,,17.49,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,MnO,0.26,wt.%,,,0.26,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,MgO,10.55,wt.%,,,10.55,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,CaO,10.26,wt.%,,,10.26,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,Na2O,0.35,wt.%,,,0.35,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,K2O,0.14,wt.%,,,0.14,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,P2O5,0.17,wt.%,,,0.17,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,La,21,ppm,,*,21.0*,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,Lu,1.13,ppm,,*,1.13*,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,Sc,33,ppm,,*,33.0*,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,Ni,157.16,ppm,,**,157.16**,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,Co,41,ppm,,*,41.0*,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15086,156,151,C,57,ppm,,+,57.0+,Rose et al. (1975),* Fruchter et al. (1973). + Moore et al. (1973). ** Drake and Klein (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,SiO2,51.03,wt.%,,,51.03,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,TiO2,1.99,wt.%,,,1.99,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,Al2O3,14.92,wt.%,,,14.92,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,Cr2O3,0.34,wt.%,,,0.34,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,FeO,11.28,wt.%,,,11.28,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,MnO,0.16,wt.%,,,0.16,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,MgO,8.23,wt.%,,,8.23,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,CaO,9.94,wt.%,,,9.94,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,Na2O,0.73,wt.%,,,0.73,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,K2O,0.53,wt.%,,,0.53,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,P2O5,0.56,wt.%,,,0.56,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,Sr,171,ppm,,,171,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,Rb,14.4,ppm,,,14.4,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,C,22,ppm,,*,22*,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15205,156,151,S,850,ppm,,+,850+,Willis et al. (1972),* Moore et al. (1973). + Moore and Cripe (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,SiO2,46.94,wt.%,,,46.94,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,TiO2,1.4,wt.%,,,1.40,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,Al2O3,16.71,wt.%,,,16.71,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,Cr2O3,0.33,wt.%,,,0.33,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,FeO,11.18,wt.%,,,11.18,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,MnO,0.15,wt.%,,,0.15,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,MgO,9.95,wt.%,,,9.95,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,CaO,11.19,wt.%,,,11.19,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,Na2O,0.51,wt.%,,,0.51,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,K2O,0.25,wt.%,,,0.25,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,P2O5,0.25,wt.%,,,0.25,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,Sr,150,ppm,,,150.0,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,Rb,7.8,ppm,,,7.8,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,Ni,205,ppm,,,205,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,Ir,0.00622,ppm,,+,6.22 x 10^-3+,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,Au,0.00346,ppm,,+,3.46 x 10^-3+,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,C,76,ppm,,**,76.0**,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,N,41,ppm,,**,41.0**,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,S,870,ppm,,**,870.0**,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15265,157,152,Zn,16.8,ppm,,,16.8,LSPET (1972),* Apollo 15 Preliminary Science Report (1972). ** Petrowski et al. (1976). + Ganapathy et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,SiO2,46.68,wt.%,,,46.68,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,TiO2,1.48,wt.%,,,1.48,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,Al2O3,16.29,wt.%,,,16.29,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,Cr2O3,0.24,wt.%,,,0.24,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,FeO,11.87,wt.%,,,11.87,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,MnO,0.13,wt.%,,,0.13,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,MgO,10.24,wt.%,,,10.24,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,CaO,11.33,wt.%,,,11.33,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,Na2O,0.5,wt.%,,,0.50,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,K2O,0.22,wt.%,,,0.22,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,P2O5,0.22,wt.%,,,0.22,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,Sr,135,ppm,,,135,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,La,27.7,ppm,,,27.7,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,Lu,1.26,ppm,,,1.26,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,Rb,5.7,ppm,,,5.70,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,Sc,24.7,ppm,,,24.7,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,Ni,250,ppm,,,250,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,Co,39.4,ppm,,,39.4,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,S,610,ppm,,,610,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,Zn,18,ppm,,,18.0,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15295,157,152,Cu,4.72,ppm,,,4.72,Wänke et al. (1977),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15306,158,153,C,170,ppm,,,170.0,Moore and Lewis (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15306,158,153,N,83,ppm,,,83.0,Moore and Lewis (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15465,158,153,SiO2,48.56,wt.%,,,48.56,Ehmann et al. (1975),* Ali et al. (1976). + Keith et al. (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15465,158,153,TiO2,1.22,wt.%,,*,1.22*,Ehmann et al. (1975),* Ali et al. (1976). + Keith et al. (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15465,158,153,Al2O3,16.25,wt.%,,,16.25,Ehmann et al. (1975),* Ali et al. (1976). + Keith et al. (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15465,158,153,Cr2O3,4.24,wt.%,,*,4.24*,Ehmann et al. (1975),* Ali et al. (1976). + Keith et al. (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15465,158,153,FeO,11.58,wt.%,,,11.58,Ehmann et al. (1975),* Ali et al. (1976). + Keith et al. (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15465,158,153,MnO,0.16,wt.%,,,0.16,Ehmann et al. (1975),* Ali et al. (1976). + Keith et al. (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15465,158,153,MgO,19.07,wt.%,,,19.07,Ehmann et al. (1975),* Ali et al. (1976). + Keith et al. (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15465,158,153,CaO,5.6,wt.%,,,5.60,Ehmann et al. (1975),* Ali et al. (1976). + Keith et al. (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15465,158,153,Na2O,0.57,wt.%,,,0.57,Ehmann et al. (1975),* Ali et al. (1976). + Keith et al. (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15465,158,153,K2O,0.28,wt.%,,+,0.28+,Ehmann et al. (1975),* Ali et al. (1976). + Keith et al. (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15465,158,153,Co,34,ppm,,*,34.0*,Ehmann et al. (1975),* Ali et al. (1976). + Keith et al. (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15465,158,153,C,45,ppm,,**,45.0**,Ehmann et al. (1975),* Ali et al. (1976). + Keith et al. (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,TiO2,1.6,wt.%,,,1.60,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,Al2O3,12.4,wt.%,,,12.40,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,Cr2O3,0.44,wt.%,,,0.44,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,FeO,17.2,wt.%,,,17.20,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,MnO,0.21,wt.%,,,0.21,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,MgO,9,wt.%,,,9.00,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,CaO,10.9,wt.%,,,10.90,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,Na2O,0.37,wt.%,,,0.37,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,K2O,0.16,wt.%,,,0.16,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,P2O5,0.1,wt.%,,*,0.10*,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,La,21,ppm,,,21,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,Lu,1.1,ppm,,,1.1,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,Sc,32,ppm,,,32,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,Co,53,ppm,,,53,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15505,159,154,C,104,ppm,,,104,Laul and Schmitt (1973),* Jovanovic and Reed (1975b).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15558,159,154,SiO2,46.31,wt.%,,,46.31,Apollo 15 PET (1972),* Apollo 15 Preliminary Science Report (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15558,159,154,TiO2,1.89,wt.%,,,1.89,Apollo 15 PET (1972),* Apollo 15 Preliminary Science Report (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15558,159,154,Al2O3,12.4,wt.%,,,12.40,Apollo 15 PET (1972),* Apollo 15 Preliminary Science Report (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15558,159,154,Cr2O3,0.51,wt.%,,,0.51,Apollo 15 PET (1972),* Apollo 15 Preliminary Science Report (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15558,159,154,FeO,16.54,wt.%,,,16.54,Apollo 15 PET (1972),* Apollo 15 Preliminary Science Report (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15558,159,154,MnO,0.22,wt.%,,,0.22,Apollo 15 PET (1972),* Apollo 15 Preliminary Science Report (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15558,159,154,MgO,10.51,wt.%,,,10.51,Apollo 15 PET (1972),* Apollo 15 Preliminary Science Report (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15558,159,154,CaO,10.18,wt.%,,,10.18,Apollo 15 PET (1972),* Apollo 15 Preliminary Science Report (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15558,159,154,Na2O,0.42,wt.%,,,0.42,Apollo 15 PET (1972),* Apollo 15 Preliminary Science Report (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15558,159,154,K2O,0.19,wt.%,,,0.19,Apollo 15 PET (1972),* Apollo 15 Preliminary Science Report (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15558,159,154,P2O5,0.21,wt.%,,,0.21,Apollo 15 PET (1972),* Apollo 15 Preliminary Science Report (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15558,159,154,C,110,ppm,,**,110**,Apollo 15 PET (1972),* Apollo 15 Preliminary Science Report (1972). ** Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,SiO2,46.7,wt.%,,,46.70,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,TiO2,2.3,wt.%,,,2.30,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,Al2O3,9.9,wt.%,,,9.90,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,Cr2O3,0.58,wt.%,,*,0.58*,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,FeO,19.3,wt.%,,,19.30,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,MnO,0.1,wt.%,,,0.10,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,MgO,8.7,wt.%,,,8.70,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,CaO,11.2,wt.%,,,11.20,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,Na2O,0.6,wt.%,,,0.60,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,P2O5,0.2,wt.%,,,0.20,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,Lu,0.31,ppm,,*,0.31*,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,Rb,1.1,ppm,,*,1.10*,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,Sc,43.2,ppm,,*,43.2*,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,Co,54,ppm,,*,54.0*,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+15565,160,155,Zn,2.5,ppm,,*,2.50*,Sewell et al. (1974),* Helmke et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,SiO2,45,wt.%,,,45.00,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,TiO2,0.29,wt.%,,,0.29,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,Al2O3,28.2,wt.%,,,28.20,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,Cr2O3,0.07,wt.%,,*,0.07*,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,FeO,4.28,wt.%,,,4.28,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,MnO,0.06,wt.%,,+,0.06+,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,MgO,5.51,wt.%,,,5.51,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,CaO,15.9,wt.%,,,15.90,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,Na2O,0.43,wt.%,,,0.43,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,K2O,0.1,wt.%,,,0.10,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,P2O5,0.8,wt.%,,**,0.80**,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,Sr,190,ppm,,++,190++,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,La,13.3,ppm,,,13.30,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,Lu,0.61,ppm,,,0.61,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,Rb,1.91,ppm,,,1.91,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,Sc,10,ppm,,,10.0,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,Ni,330,ppm,,,330,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,Co,28,ppm,,,28,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,Ir,0.005,ppm,,#,0.005#,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,Au,0.006,ppm,,#,0.006#,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,N,28,ppm,,,28,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,Zn,7.55,ppm,,#,7.55#,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60016,160,155,Cu,6,ppm,,,6,S. R. Taylor et al. (1974),* Garg and Ehmann (1976). + Janghorbani et al. (1973). # Krahenbuhl et al. (1973). ** Jovanovic and Reed (1976). ++ Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,SiO2,45.25,wt.%,,,45.25,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,TiO2,0.59,wt.%,,,0.59,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,Al2O3,26.34,wt.%,,,26.34,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,Cr2O3,0.1,wt.%,,,0.10,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,FeO,5.3,wt.%,,,5.30,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,MnO,0.06,wt.%,,,0.06,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,MgO,6.73,wt.%,,,6.73,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,CaO,14.93,wt.%,,,14.93,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,Na2O,0.46,wt.%,,,0.46,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,K2O,0.14,wt.%,,,0.14,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,P2O5,0.19,wt.%,,,0.19,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,Sr,131,ppm,,,131,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,La,20,ppm,,,20,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,Rb,3.1,ppm,,,3.1,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,Sc,11,ppm,,,11,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,Ni,795,ppm,,,795,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,Co,49,ppm,,,49,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,C,162,ppm,,**,162**,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,N,56,ppm,,**,56**,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,S,920,ppm,,+,920+,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,Zn,13,ppm,,,13,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60019,161,156,Cu,7.8,ppm,,,7.8,Rose et al. (1975),"* Table applies to 60019,27. ** Moore and Lewis (1976). + Cripe and Moore (1975).",https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,SiO2,45.24,wt.%,,,45.24,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,TiO2,0.69,wt.%,,,0.69,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,Al2O3,26.11,wt.%,,,26.11,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,Cr2O3,0.1,wt.%,,,0.10,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,FeO,5.85,wt.%,,,5.85,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,MnO,0.06,wt.%,,,0.06,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,MgO,6.39,wt.%,,,6.39,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,CaO,15.14,wt.%,,,15.14,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,Na2O,0.46,wt.%,,,0.46,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,K2O,0.12,wt.%,,,0.12,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,P2O5,0.12,wt.%,,,0.12,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,La,12.6,ppm,,*,12.6*,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,Lu,0.7,ppm,,*,0.70*,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,Sc,10.7,ppm,,*,10.7*,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,Co,35,ppm,,*,35*,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60255,161,156,S,400,ppm,,,400,Scoon (1974),* Boynton et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,SiO2,44.87,wt.%,,,44.87,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,TiO2,0.62,wt.%,,,0.62,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,Al2O3,25.42,wt.%,,,25.42,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,Cr2O3,0.1,wt.%,,,0.10,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,FeO,5.78,wt.%,,,5.78,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,MnO,0.06,wt.%,,,0.06,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,MgO,7.64,wt.%,,,7.64,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,CaO,14.57,wt.%,,,14.57,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,Na2O,0.46,wt.%,,,0.46,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,K2O,0.22,wt.%,,,0.22,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,P2O5,0.26,wt.%,,,0.26,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,Sr,150,ppm,,,150,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,La,14,ppm,,,14,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,Rb,3.2,ppm,,,3.2,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,Sc,9.8,ppm,,,9.8,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,Ni,250,ppm,,,250,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,Co,18,ppm,,,18,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,Zn,10,ppm,,,10,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+60275,162,157,Cu,5.4,ppm,,,5.4,Christian et al. (1976),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61135,162,157,CaO,18.9,wt.%,,+,18.9+,Not stated,* Moore and Lewis (1976). + Schaeffer and Schaeffer (1977).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61135,162,157,K2O,0.088,wt.%,,+,0.088+,Not stated,* Moore and Lewis (1976). + Schaeffer and Schaeffer (1977).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61135,162,157,C,54,ppm,,*,54*,Not stated,* Moore and Lewis (1976). + Schaeffer and Schaeffer (1977).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61135,162,157,N,55,ppm,,*,55*,Not stated,* Moore and Lewis (1976). + Schaeffer and Schaeffer (1977).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,SiO2,45.5,wt.%,,,45.5,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,TiO2,0.53,wt.%,,,0.53,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,Al2O3,27.8,wt.%,,,27.8,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,Cr2O3,0.06,wt.%,,,0.06,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,FeO,4.3,wt.%,,,4.3,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,MnO,0.06,wt.%,,,0.06,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,CaO,16.2,wt.%,,,16.2,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,Na2O,0.51,wt.%,,,0.51,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,K2O,0.1,wt.%,,,0.10,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,Sr,201,ppm,,,201,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,Lu,0.5,ppm,,,0.5,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,Rb,2.3,ppm,,,2.3,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,C,69,ppm,,*,69*,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,N,91,ppm,,*,91*,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61175,163,158,S,570,ppm,,**,570**,Winzer et al. (1977),* Moore and Lewis (1976). ** Cripe and Moore (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,SiO2,45.5,wt.%,,,45.5,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,TiO2,0.5,wt.%,,,0.50,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,Al2O3,26.8,wt.%,,,26.8,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,Cr2O3,0.099,wt.%,,,0.099,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,FeO,5.13,wt.%,,,5.13,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,MnO,0.06,wt.%,,,0.06,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,MgO,5.56,wt.%,,,5.56,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,CaO,15.4,wt.%,,,15.4,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,Na2O,0.46,wt.%,,,0.46,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,K2O,0.088,wt.%,,,0.088,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,P2O5,0.17,wt.%,,,0.17,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,Sr,166,ppm,,,166,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,La,14.6,ppm,,,14.6,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,Lu,0.64,ppm,,,0.64,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,Rb,3.86,ppm,,,3.86,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,Sc,8.53,ppm,,,8.53,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,Ni,410,ppm,,,410,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,Co,27.1,ppm,,,27.1,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,Ir,11.3,ppb,,,11.3 ppb,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,Au,6.1,ppb,,,6.1 ppb,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,S,660,ppm,,,660,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,Zn,9.71,ppm,,,9.71,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61195,163,158,Cu,3.76,ppm,,,3.76,Wänke et al. (1975),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,SiO2,45.19,wt.%,,,45.19,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,TiO2,0.56,wt.%,,,0.56,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,Al2O3,28.29,wt.%,,,28.29,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,Cr2O3,0.08,wt.%,,,0.08,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,FeO,4.52,wt.%,,,4.52,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,MnO,0.06,wt.%,,,0.06,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,MgO,4.72,wt.%,,,4.72,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,CaO,16.16,wt.%,,,16.16,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,Na2O,0.45,wt.%,,,0.45,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,K2O,0.09,wt.%,,,0.09,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,P2O5,0.1,wt.%,,,0.10,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,Sr,187,ppm,,,187,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,Rb,2.3,ppm,,,2.3,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,Ni,114,ppm,,,114,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,C,55,ppm,,*,55*,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+61295,164,159,S,600,ppm,,,600,Apollo 16 Preliminary Science Report (1972),* Moore et al. (1973).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66035,164,159,K2O,0.09,wt.%,,,0.09,Eldridge et al. (1973),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66035,164,159,U,0.49,ppm,,,0.49,Eldridge et al. (1973),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66035,164,159,Th,1.87,ppm,,,1.87,Eldridge et al. (1973),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,SiO2,45.4,wt.%,,,45.4,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,TiO2,0.45,wt.%,,,0.45,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,Al2O3,27.3,wt.%,,,27.3,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,Cr2O3,0.08,wt.%,,,0.08,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,FeO,4.8,wt.%,,,4.8,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,MnO,0.06,wt.%,,,0.06,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,MgO,6.5,wt.%,,,6.5,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,CaO,15.7,wt.%,,,15.7,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,Na2O,0.486,wt.%,,,0.486,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,K2O,0.095,wt.%,,,0.095,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,P2O5,0.11,wt.%,,,0.11,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,Sr,193,ppm,,,193,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,La,10,ppm,,,10,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,Lu,0.48,ppm,,,0.48,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,Rb,2.1,ppm,,,2.1,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,Sc,6.9,ppm,,,6.9,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,Ni,280,ppm,,,280,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,Co,26,ppm,,,26,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,Ir,0.008,ppm,,,0.008,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,Au,0.006,ppm,,,0.006,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,C,54,ppm,,,54,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,N,28,ppm,,,28,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,Zn,9,ppm,,,9,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+66075,165,160,Cu,4.3,ppm,,,4.3,Ryder and Norman (1980),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,SiO2,40.66,wt.%,,,40.66,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,TiO2,8.26,wt.%,,,8.26,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,Al2O3,12.38,wt.%,,,12.38,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,Cr2O3,0.43,wt.%,,,0.43,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,FeO,16.38,wt.%,,,16.38,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,MnO,0.24,wt.%,,,0.24,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,MgO,9.5,wt.%,,,9.50,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,CaO,11.03,wt.%,,,11.03,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,Na2O,0.47,wt.%,,,0.47,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,K2O,0.09,wt.%,,,0.09,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,P2O5,0.07,wt.%,,,0.07,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,Sr,200,ppm,,*,200*,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,La,8.44,ppm,,*,8.44*,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,Lu,0.95,ppm,,*,0.95*,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,Sc,60.4,ppm,,*,60.4*,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,Ni,154,ppm,,,154,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,Co,31.3,ppm,,*,31.3*,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,S,1100,ppm,,*,1100*,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+70019,165,160,Zn,42,ppm,,,42,Rhodes et al. (1974),* Wänke et al. (1975).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+76565,166,161,SiO2,43.94,wt.%,,,43.94,Simonds and Warner (1981),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+76565,166,161,TiO2,3.24,wt.%,,,3.24,Simonds and Warner (1981),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+76565,166,161,Al2O3,18.59,wt.%,,,18.59,Simonds and Warner (1981),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+76565,166,161,Cr2O3,0.27,wt.%,,,0.27,Simonds and Warner (1981),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+76565,166,161,FeO,9.57,wt.%,,,9.57,Simonds and Warner (1981),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+76565,166,161,MgO,10.22,wt.%,,,10.22,Simonds and Warner (1981),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+76565,166,161,CaO,12.15,wt.%,,,12.15,Simonds and Warner (1981),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+76565,166,161,Na2O,0.49,wt.%,,,0.49,Simonds and Warner (1981),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+76565,166,161,K2O,0.12,wt.%,,,0.12,Simonds and Warner (1981),,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,SiO2,41.72,wt.%,,,41.72,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,TiO2,7.99,wt.%,,,7.99,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,Al2O3,12.26,wt.%,,,12.26,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,Cr2O3,0.41,wt.%,,,0.41,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,FeO,16.51,wt.%,,,16.51,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,MnO,0.22,wt.%,,,0.22,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,MgO,9.92,wt.%,,,9.92,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,CaO,11.19,wt.%,,,11.19,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,Na2O,0.41,wt.%,,,0.41,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,K2O,0.08,wt.%,,,0.08,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,P2O5,0.06,wt.%,,,0.06,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,Sr,170,ppm,,*,170*,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,La,8.7,ppm,,*,8.7*,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,Lu,1.1,ppm,,*,1.10*,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,Rb,1.62,ppm,,*,1.62*,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,Sc,56.6,ppm,,*,56.6*,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,Ni,160,ppm,,*,160*,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,Co,29.6,ppm,,*,29.6*,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,Ir,0.008,ppm,,*,0.008*,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,Au,0.005,ppm,,*,0.005*,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,Zn,32,ppm,,*,32*,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79035,166,161,Cu,11,ppm,,*,11.0*,Wänke et al. (1975),* Wänke et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,SiO2,42.29,wt.%,,,42.29,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,TiO2,5.15,wt.%,,,5.15,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,Al2O3,15.08,wt.%,,,15.08,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,Cr2O3,0.39,wt.%,,,0.39,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,FeO,14.01,wt.%,,,14.01,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,MnO,0.19,wt.%,,,0.19,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,MgO,10.42,wt.%,,,10.42,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,CaO,11.44,wt.%,,,11.44,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,Na2O,0.4,wt.%,,,0.40,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,K2O,0.1,wt.%,,,0.10,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,P2O5,0.07,wt.%,,,0.07,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,Sr,166,ppm,,,166,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,La,10,ppm,<,*,<10*,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,Lu,0.792,ppm,,++,0.792++,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,Rb,2.1,ppm,,,2.1,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,Sc,50,ppm,,*,50*,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,Ni,218,ppm,,,218,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,Co,52,ppm,,*,52*,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,Ir,0.0058,ppm,,+,5.8 x 10^-3+,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,Au,0.0026000000000000003,ppm,,+,2.6 x 10^-3+,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,C,150,ppm,,**,150**,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,S,1000,ppm,,,1000,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,Zn,72,ppm,,,72,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
+79135,167,162,Cu,26,ppm,,*,26*,Rhodes et al. (1974),* Rose et al. (1974). + Baedecker et al. (1974). ** Moore et al. (1974). ++ Philpotts et al. (1974).,https://www.lpi.usra.edu/lunar/samples/RegolithBrecciaWorkbook.pdf
