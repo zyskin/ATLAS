@@ -10,6 +10,12 @@ without silently forcing implausible predictions into an allowed interval.
 The current experiment is preliminary.  It does not establish that a model
 trained on laboratory spectra is calibrated for orbital M3 pixels.
 
+Install the required Python packages in the active environment with:
+
+```bash
+python -m pip install -r m3_feo_ml_v3/requirements.txt
+```
+
 ## Programs
 
 `train_compare_interpret_feo_models_v3.py`
