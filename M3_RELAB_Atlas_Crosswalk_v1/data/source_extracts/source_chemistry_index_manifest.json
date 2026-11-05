@@ -1,0 +1,10 @@
+{
+  "schema": "atlas-source-chemistry-index-1.0",
+  "rows": 214,
+  "distinct_sample_ids": 214,
+  "jsc_lunar_soil_rows": 169,
+  "breccia_rows": 45,
+  "rows_with_feo": 174,
+  "rows_with_is_feo": 157,
+  "method": "source rows preserved; no averaging, imputation, or parent-child transfer"
+}

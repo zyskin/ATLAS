@@ -1,0 +1,529 @@
+\documentclass[11pt]{article}
+\usepackage[margin=0.82in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern,microtype}
+\usepackage{amsmath,amssymb,mathtools,bm}
+\usepackage{booktabs,tabularx,array,longtable,float}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{enumitem,hyperref,fancyhdr,titlesec,caption}
+\definecolor{moonblue}{HTML}{214E70}
+\definecolor{moonlight}{HTML}{EAF2F8}
+\hypersetup{colorlinks=true,linkcolor=moonblue,urlcolor=moonblue,citecolor=moonblue}
+\pagestyle{fancy}\fancyhf{}
+\lhead{Mathematical formulation of M3 FeO regression}\rhead{Version 2}\cfoot{\thepage}
+\setlength{\headheight}{14pt}
+\titleformat{\section}{\large\bfseries\color{moonblue}}{\thesection}{0.6em}{}
+\titleformat{\subsection}{\normalsize\bfseries\color{moonblue}}{\thesubsection}{0.6em}{}
+\setlist[itemize]{leftmargin=1.5em,itemsep=0.22em,topsep=0.35em}
+\setlist[enumerate]{leftmargin=1.7em,itemsep=0.22em,topsep=0.35em}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\Var}{\operatorname{Var}}
+\newcommand{\MAE}{\operatorname{MAE}}
+\newcommand{\RMSE}{\operatorname{RMSE}}
+\newcommand{\FeO}{\mathrm{FeO}}
+\newcommand{\diag}{\operatorname{diag}}
+\newcommand{\argmin}{\operatorname*{arg\,min}}
+\newcommand{\sgn}{\operatorname{sgn}}
+
+\title{\vspace{-1.8em}\textbf{Mathematical Formulation, Estimation, Interpretation, and Orbital-Domain Control for M3-Based Lunar FeO Regression}\\[0.45em]
+\large Complete specification of the compared statistical models and empirical baselines}
+\author{Remote Sensing / M3 Mineralogy Mapping Project}
+\date{November 3, 2026}
+
+\begin{document}
+\maketitle\vspace{-1.2em}
+\begin{abstract}
+This document specifies the complete regression problem used to relate laboratory reflectance spectra to lunar FeO abundance. It defines the data matrix, Apollo-parent grouping, preprocessing, estimation problems, prediction functions, hyperparameter selection, out-of-parent validation, and model interpretation. The compared statistical models are ridge regression, elastic-net regression, principal-component regression, partial least squares, radial-basis-function support-vector regression, Extremely Randomized Trees, Random Forest, gradient-boosted regression trees, and Gaussian-process regression. Lucey and Kumar formulae are retained as external empirical baselines. The final sections define mandatory tests for applying the fitted models to real Moon Mineralogy Mapper (M3) pixels. A numerical prediction is not accepted merely because a program returns a finite number: the orbital spectrum must first be tested against the laboratory spectral domain, and physically impossible or strongly model-dependent predictions are flagged rather than silently clipped.
+\end{abstract}
+\tableofcontents
+\newpage
+
+\section{Statistical object being estimated}
+For spectral record $i$, let
+\begin{equation}
+ \bm x_i=(x_{i1},\ldots,x_{ip})^\top\in\R^p,\qquad p=74,
+\end{equation}
+where $x_{ij}$ is laboratory reflectance convolved with the response function of usable M3 band $j$. Let
+\begin{equation}
+ y_i=\text{FeO abundance in weight percent}.
+\end{equation}
+The design matrix and response vector are
+\begin{equation}
+ \bm X=[\bm x_1,\ldots,\bm x_n]^\top\in\R^{n\times p},
+ \qquad \bm y=(y_1,\ldots,y_n)^\top.
+\end{equation}
+The desired estimator is
+\begin{equation}
+ \widehat f:\R^{74}\to\R,\qquad \widehat y=\widehat f(\bm x).
+\end{equation}
+Each row has an Apollo parent identifier $g_i$. Several spectra may correspond to different splits, particle sizes, preparations, or repeated measurements associated with one parent. These rows are not statistically independent.
+
+\subsection{Parameters, hyperparameters, and external constants}
+\begin{enumerate}
+ \item \textbf{Fitted parameters} are estimated from training responses: regression coefficients, tree thresholds, terminal-region means, support-vector coefficients, and Gaussian-process posterior coefficients.
+ \item \textbf{Hyperparameters} determine the model class or regularization strength: the ridge penalty, number of retained components, SVR constants $(C,\epsilon,\gamma)$, and minimum tree-region size. They are selected only within inner training folds.
+ \item \textbf{External constants} are supplied by a published or project formula rather than fitted during current cross-validation: for example, Lucey origins and Kumar calibration coefficients.
+\end{enumerate}
+
+\section{Preprocessing}
+For methods depending on distance or coefficient magnitude, band $j$ is standardized using only the applicable training fold:
+\begin{equation}
+ z_{ij}=\frac{x_{ij}-\mu_j}{s_j},
+\end{equation}
+where
+\begin{equation}
+ \mu_j=\frac1{n_{\rm tr}}\sum_{i\in\mathcal I_{\rm tr}}x_{ij},\qquad
+ s_j^2=\frac1{n_{\rm tr}-1}\sum_{i\in\mathcal I_{\rm tr}}(x_{ij}-\mu_j)^2.
+\end{equation}
+The same $\mu_j,s_j$ are applied to validation and test spectra. Computing them from the complete dataset would transfer test-fold information into model construction. Tree split rules do not require standardization because an order-preserving affine transformation of one band does not alter which rows a threshold can separate.
+
+\section{Parent-grouped estimation and validation}
+Let $G_a=\{i:g_i=a\}$ contain all rows belonging to Apollo parent $a$. A grouped $K$-fold partition divides parents:
+\begin{equation}
+ \mathcal G=\mathcal G_1\,\dot\cup\cdots\dot\cup\,\mathcal G_K.
+\end{equation}
+For outer fold $k$,
+\begin{align}
+ \mathcal I_{\rm test}^{(k)}&=\{i:g_i\in\mathcal G_k\},\\
+ \mathcal I_{\rm train}^{(k)}&=\{i:g_i\notin\mathcal G_k\}.
+\end{align}
+No parent occurs on both sides. For held-out parent $a$ define
+\begin{equation}
+ \overline y_a=\frac1{|G_a|}\sum_{i\in G_a}y_i,\qquad
+ \overline{\widehat y}_a=\frac1{|G_a|}\sum_{i\in G_a}\widehat y_i.
+\end{equation}
+Principal scores are calculated over parents, so a parent with many spectra has the same evaluation weight as a parent with one spectrum.
+
+For each outer training set, candidate hyperparameters $\eta$ are compared by inner grouped validation:
+\begin{equation}
+ Q(\eta)=\frac1{K_{\rm in}}\sum_{r=1}^{K_{\rm in}}
+ \frac1{m_r}\sum_{a\in\mathcal V_r}
+ |\overline y_a-\overline{\widehat y}_a^{(-r,\eta)}|,
+ \qquad \widehat\eta=\argmin_\eta Q(\eta).
+\end{equation}
+The model with $\widehat\eta$ is refitted to the complete outer training set and evaluated on untouched outer test parents.
+
+\section{Ridge and elastic-net regression}
+The affine spectral model is
+\begin{equation}
+ f(\bm z)=\beta_0+\bm z^\top\bm\beta.
+\end{equation}
+Ridge regression solves
+\begin{equation}
+ (\widehat\beta_0,\widehat{\bm\beta})=
+ \argmin_{\beta_0,\bm\beta}
+ \left\{\sum_i(y_i-\beta_0-\bm z_i^\top\bm\beta)^2
+ +\lambda\|\bm\beta\|_2^2\right\}.
+\end{equation}
+For centered data,
+\begin{equation}
+ \widehat{\bm\beta}_{\rm ridge}
+ =(\bm Z^\top\bm Z+\lambda\bm I)^{-1}\bm Z^\top\bm y.
+\end{equation}
+If $\bm Z=\bm U\bm D\bm V^\top$, then
+\begin{equation}
+ \widehat{\bm\beta}_{\rm ridge}
+ =\bm V\diag\!\left(\frac{d_k}{d_k^2+\lambda}\right)\bm U^\top\bm y,
+\end{equation}
+so directions having small singular values are suppressed most strongly.
+
+Elastic net solves
+\begin{equation}
+\begin{split}
+ \argmin_{\beta_0,\bm\beta}\Bigg\{&\frac1{2n}
+ \sum_i(y_i-\beta_0-\bm z_i^\top\bm\beta)^2
+ +\alpha\rho\|\bm\beta\|_1\\
+ &+\frac{\alpha(1-\rho)}2\|\bm\beta\|_2^2\Bigg\}.
+\end{split}
+\end{equation}
+$\alpha\ge0$ is the total penalty and $0\le\rho\le1$ controls its absolute-value and quadratic parts. Exact zero coefficients are possible. With correlated neighboring bands, which band receives a zero coefficient can be unstable.
+
+If $\beta_j$ is a standardized coefficient, the coefficient per unit original reflectance and intercept are
+\begin{equation}
+ \beta_j^{({\rm original})}=\frac{\beta_j}{s_j},\qquad
+ \beta_0^{({\rm original})}=\beta_0-\sum_j\frac{\beta_j\mu_j}{s_j}.
+\end{equation}
+
+\section{Principal-component regression}
+For centered standardized spectra,
+\begin{equation}
+ \bm S=\frac1{n-1}\bm Z^\top\bm Z,
+ \qquad \bm S\bm v_k=\ell_k\bm v_k,
+\end{equation}
+with $\ell_1\ge\cdots\ge\ell_p\ge0$ and $\bm v_k^\top\bm v_l=\delta_{kl}$. Define
+\begin{equation}
+ t_{ik}=\bm z_i^\top\bm v_k.
+\end{equation}
+Retaining $q$ directions gives
+\begin{equation}
+ \bm z_i\approx\sum_{k=1}^{q}t_{ik}\bm v_k,qquad
+ \text{variance fraction}=\frac{\sum_{k=1}^{q}\ell_k}{\sum_{k=1}^{p}\ell_k}.
+\end{equation}
+Principal-component regression fits
+\begin{equation}
+ \widehat y_i=a_0+\sum_{k=1}^{q}a_kt_{ik}.
+\end{equation}
+In standardized-band coordinates,
+\begin{equation}
+ \bm\beta_{\rm PCR}=\bm V_q\bm a,
+ \qquad \bm V_q=[\bm v_1,\ldots,\bm v_q].
+\end{equation}
+The v3 implementation selects both $q$ and a ridge penalty on $\bm a$ by inner grouped validation. PCA uses $\bm X$ but not $\bm y$ and can therefore discard a low-variance direction that contains FeO information.
+
+\section{Partial least squares regression}
+Start with centered $\bm X_0=\bm Z$ and $\bm y_0=\bm y-\overline y\bm1$. At step $a$ define
+\begin{align}
+ \bm w_a&=\frac{\bm X_{a-1}^\top\bm y_{a-1}}
+ {\|\bm X_{a-1}^\top\bm y_{a-1}\|_2},\\
+ \bm t_a&=\bm X_{a-1}\bm w_a,\\
+ \bm p_a&=\frac{\bm X_{a-1}^\top\bm t_a}{\bm t_a^\top\bm t_a},\\
+ q_a&=\frac{\bm y_{a-1}^\top\bm t_a}{\bm t_a^\top\bm t_a},\\
+ \bm X_a&=\bm X_{a-1}-\bm t_a\bm p_a^\top,\\
+ \bm y_a&=\bm y_{a-1}-q_a\bm t_a.
+\end{align}
+After $A$ steps define
+\begin{equation}
+ \bm W=[\bm w_1,\ldots,\bm w_A],\quad
+ \bm P=[\bm p_1,\ldots,\bm p_A],\quad
+ \bm q=(q_1,\ldots,q_A)^\top.
+\end{equation}
+The standardized-band regression coefficient is
+\begin{equation}
+ \widehat{\bm\beta}_{\rm PLS}
+ =\bm W(\bm P^\top\bm W)^{-1}\bm q,
+\end{equation}
+and
+\begin{equation}
+ \widehat y=\overline y+\bm z^\top\widehat{\bm\beta}_{\rm PLS}.
+\end{equation}
+The number $A$ is selected by inner parent-grouped validation. The program records $\bm W$, $\bm P$, $\bm P^\top\bm W$, $\bm q$, and the final band coefficients separately. These are matrices defining a fitted transformation, not evidence by themselves of a causal mineral absorption.
+
+\section{Radial-basis-function support-vector regression}
+For a linear $f(\bm z)=\bm w^\top\bm z+b$, define
+\begin{equation}
+ L_\epsilon(y,f)=\max\{0,|y-f|-\epsilon\}.
+\end{equation}
+SVR solves
+\begin{equation}
+\begin{aligned}
+ \min_{\bm w,b,\bm\xi,\bm\xi^*}\quad&
+ \frac12\|\bm w\|_2^2+C\sum_i(\xi_i+\xi_i^*)\\
+ \text{subject to}\quad&y_i-(\bm w^\top\bm z_i+b)\le\epsilon+\xi_i,\\
+ &(\bm w^\top\bm z_i+b)-y_i\le\epsilon+\xi_i^*,\\
+ &\xi_i,\xi_i^*\ge0.
+\end{aligned}
+\end{equation}
+Its dual prediction using the radial kernel is
+\begin{align}
+ K(\bm z_i,\bm z)&=\exp[-\gamma\|\bm z_i-\bm z\|_2^2],\\
+ \widehat f(\bm z)&=\sum_i(\widehat\alpha_i-\widehat\alpha_i^*)K(\bm z_i,\bm z)+\widehat b,
+\end{align}
+subject to
+\begin{equation}
+ \sum_i(\alpha_i-\alpha_i^*)=0,
+ \qquad 0\le\alpha_i,\alpha_i^*\le C.
+\end{equation}
+Only rows with $\widehat\alpha_i-\widehat\alpha_i^*\ne0$ enter the prediction; these are the support vectors. They are selected training spectra, not new variables. The hyperparameters $(C,\epsilon,\gamma)$ are selected by inner validation.
+
+Writing $c_i=\widehat\alpha_i-\widehat\alpha_i^*$, the local band derivative is
+\begin{equation}
+ \frac{\partial\widehat f}{\partial z_j}(\bm z)
+ =2\gamma\sum_i c_i(z_{ij}-z_j)
+ \exp[-\gamma\|\bm z_i-\bm z\|_2^2].
+\end{equation}
+This varies with the spectrum. RBF-SVR has no single global coefficient for one band. The v3 program records every support-vector coefficient and band derivatives averaged over the training spectra.
+
+\section{Regression trees, Random Forest, and Extra Trees}
+A tree partitions spectral space into terminal regions $A_1,\ldots,A_L$ and predicts
+\begin{equation}
+ T(\bm x)=\sum_{\ell=1}^{L}c_\ell\mathbf1_{\{\bm x\in A_\ell\}},
+ \qquad c_\ell=\frac1{|A_\ell|}\sum_{i:\bm x_i\in A_\ell}y_i.
+\end{equation}
+At node $S$, a split on band $j$ at threshold $s$ gives
+\begin{equation}
+ S_L=\{i\in S:x_{ij}\le s\},\qquad S_R=\{i\in S:x_{ij}>s\}.
+\end{equation}
+With
+\begin{equation}
+ I(S)=\frac1{|S|}\sum_{i\in S}(y_i-\overline y_S)^2,
+\end{equation}
+the impurity reduction is
+\begin{equation}
+ \Delta I=I(S)-\frac{|S_L|}{|S|}I(S_L)-\frac{|S_R|}{|S|}I(S_R).
+\end{equation}
+
+Random Forest draws a bootstrap sample for each tree, selects a random subset of bands at each node, and searches the best threshold among those bands. Extra Trees additionally generates random candidate thresholds and searches only among them; in the standard algorithm each tree may use the complete training sample instead of a bootstrap sample. Both predict by averaging:
+\begin{equation}
+ \widehat f(\bm x)=\frac1B\sum_{b=1}^{B}T_b(\bm x).
+\end{equation}
+If every tree error has variance $\sigma_T^2$ and every distinct pair has covariance $\rho\sigma_T^2$, then
+\begin{equation}
+ \Var\!\left(\frac1B\sum_bT_b\right)
+ =\rho\sigma_T^2+\frac{1-\rho}{B}\sigma_T^2.
+\end{equation}
+This follows by expanding the variance into $B$ variance terms and $B(B-1)$ covariance terms. Increasing $B$ reduces the uncorrelated part. The compared hyperparameters include number of trees, fraction of bands considered at a split, and minimum terminal-region sample count. Tree ensembles mainly interpolate among observed response values and cannot be trusted to extrapolate a new FeO regime.
+
+\section{Gradient-boosted regression trees}
+Gradient boosting constructs
+\begin{equation}
+ F_M(\bm x)=F_0(\bm x)+\sum_{m=1}^{M}\nu a_mT_m(\bm x),
+\end{equation}
+where $0<\nu\le1$. Given differentiable loss $L(y,F)$, iteration $m$ forms
+\begin{equation}
+ r_{im}=-\left.\frac{\partial L(y_i,F(\bm x_i))}{\partial F(\bm x_i)}
+ \right|_{F=F_{m-1}}.
+\end{equation}
+A tree $T_m$ is fitted to $(\bm x_i,r_{im})$, then
+\begin{equation}
+ a_m=\argmin_a\sum_iL(y_i,F_{m-1}(\bm x_i)+aT_m(\bm x_i)),
+\end{equation}
+and
+\begin{equation}
+ F_m=F_{m-1}+\nu a_mT_m.
+\end{equation}
+The v3 comparison uses Huber loss, quadratic for small residuals and linear for large residuals. The number of trees, learning rate, depth, and minimum terminal-region size are selected by grouped validation.
+
+\section{Gaussian-process regression}
+After standardization and principal-component transformation, let $\bm u_i\in\R^q$. A Gaussian process satisfies
+\begin{equation}
+ f\sim\mathcal{GP}(m,k),
+\end{equation}
+meaning
+\begin{equation}
+ (f(\bm u_1),\ldots,f(\bm u_n))^\top\sim\mathcal N(\bm m,\bm K),
+ \qquad K_{ij}=k(\bm u_i,\bm u_j).
+\end{equation}
+With
+\begin{equation}
+ \bm y=\bm f+\bm\varepsilon,qquad
+ \bm\varepsilon\sim\mathcal N(\bm0,\sigma_n^2\bm I),
+\end{equation}
+we have
+\begin{equation}
+ \bm y\sim\mathcal N(\bm m,\bm K+\sigma_n^2\bm I).
+\end{equation}
+For new $\bm u_*$, set
+\begin{equation}
+ \bm k_*=(k(\bm u_1,\bm u_*),\ldots,k(\bm u_n,\bm u_*))^\top,
+ \qquad k_{**}=k(\bm u_*,\bm u_*).
+\end{equation}
+Conditioning the joint Gaussian gives
+\begin{align}
+ \E[f_*\mid\bm y]
+ &=m_*+\bm k_*^\top(\bm K+\sigma_n^2\bm I)^{-1}(\bm y-\bm m),\\
+ \Var(f_*\mid\bm y)
+ &=k_{**}-\bm k_*^\top(\bm K+\sigma_n^2\bm I)^{-1}\bm k_*.
+\end{align}
+The v3 radial kernel is
+\begin{equation}
+ k(\bm u,\bm v)=\sigma_f^2
+ \exp\!\left[-\frac{\|\bm u-\bm v\|_2^2}{2\ell^2}\right]
+ +\sigma_w^2\mathbf1_{\{\bm u=\bm v\}}.
+\end{equation}
+The quick run fixes the kernel shape and selects the number of principal coordinates and diagonal regularizer by grouped validation. Posterior variance is conditional on this kernel and on the assigned chemistry; it is not complete orbital scientific uncertainty.
+
+\section{Lucey and Kumar empirical baselines}
+Let
+\begin{equation}
+ x=R_{750},\qquad y=R_{950}/R_{750}.
+\end{equation}
+Relative to $(x_0,y_0)$, the principal-ratio angle and separate quadrant-aware experiment are
+\begin{align}
+ \theta_{\rm principal}&=-\arctan\!\left(\frac{y-y_0}{x-x_0}\right),\\
+ \theta_{2\pi}&=[-\operatorname{atan2}(y-y_0,x-x_0)]\bmod2\pi.
+\end{align}
+Changing branch changes the angle; coefficients fitted under one convention cannot be transferred to another without recalibration.
+
+The standard project Lucey implementation uses
+\begin{equation}
+ x=R_{B9},\quad y=R_{B19}/R_{B9},\quad (x_0,y_0)=(0.08,1.19),
+\end{equation}
+and
+\begin{equation}
+ \widehat{\FeO}=17.427\theta-7.565.
+\end{equation}
+The internal origin-changed experiment uses
+\begin{align}
+ (x_0,y_0)&=(0.03433418510481713,1.2571662682003644),\\
+ \widehat{\FeO}&=6.274305964663926\theta+9.740661344354981.
+\end{align}
+These are project-fitted constants, not a universal calibration.
+
+For Kumar define
+\begin{equation}
+ R_{750}^{(K)}=\frac{R_{B8}+R_{B9}+R_{B10}}3,qquad
+ R_{950}^{(K)}=\frac{R_{B18}+R_{B19}+R_{B20}}3,
+\end{equation}
+and
+\begin{equation}
+ H=-\arctan\!\left(
+ \frac{R_{950}^{(K)}/R_{750}^{(K)}-1.18}{R_{750}^{(K)}-0.08}
+ \right).
+\end{equation}
+Then
+\begin{align}
+ \widehat{\FeO}_{\rm linear}&=12.92H-2.107,\\
+ \widehat{\FeO}_{\rm power}&=10.59H^{1.209}.
+\end{align}
+For $H<0$, $H^{1.209}$ is not real under the ordinary real-valued convention. Signed powers or $2\pi$ substitution define different formulae and are reported only as separate experiments.
+
+\section{Performance measures}
+For $m$ held-out parents, set $e_a=\overline{\widehat y}_a-\overline y_a$. Then
+\begin{align}
+ \MAE&=\frac1m\sum_a|e_a|,\\
+ \RMSE&=\sqrt{\frac1m\sum_ae_a^2},\\
+ \operatorname{MedAE}&=\operatorname{median}_a|e_a|,\\
+ \operatorname{Bias}&=\frac1m\sum_ae_a,\\
+ R^2&=1-\frac{\sum_a(\overline y_a-\overline{\widehat y}_a)^2}
+ {\sum_a(\overline y_a-\overline y)^2}.
+\end{align}
+$R^2=0$ equals the squared error of the constant evaluation-parent mean; $R^2<0$ is worse. $R^2$ is not a correlation coefficient.
+
+\section{Interpretation of fitted predictions}
+Ridge and elastic net directly provide standardized band coefficients. PCR coefficients are transformed by $\bm\beta=\bm V_q\bm a$. PLS coefficients are $\bm W(\bm P^\top\bm W)^{-1}\bm q$. Because neighboring bands are correlated, these are coefficients of a multivariate rule, not isolated laboratory absorption laws.
+
+For outer fold $k$, let $L_k$ be its measurement MAE. Permute held-out band $j$ and let $L_{kjr}^{\rm perm}$ be repetition $r$. The recorded importance is
+\begin{equation}
+ I_j^{\rm perm}=\frac1{KR}\sum_{k,r}(L_{kjr}^{\rm perm}-L_k).
+\end{equation}
+It uses rows excluded from fitting that fold. Permutation nevertheless creates artificial combinations of correlated bands. Small single-band importance may indicate redundancy with neighboring bands, not physical irrelevance.
+
+For trees, split importance is
+\begin{equation}
+ I_j^{\rm tree}=\frac1B\sum_b
+ \sum_{v\in T_b:j(v)=j}\frac{N_v}{N}\Delta I_v,
+ \qquad \sum_jI_j^{\rm tree}=1.
+\end{equation}
+It describes training impurity reduction, not causation.
+
+The v3 run preserves complete fitted objects, all selected hyperparameters and candidate scores, effective linear coefficients, PCR and PLS matrices, SVR support-vector identities and dual coefficients, SVR derivatives, tree split importance, held-out permutation results, and final fitted training predictions distinguished from cross-validated predictions.
+
+\section{Application to real M3 pixels}
+A regression program returns a number for almost any finite $\bm x\in\R^{74}$. This does not imply support by laboratory data. Real M3 pixels can differ through illumination, photometric correction, temperature, maturity, mixtures, and calibration residuals. Raw predictions are retained but not accepted by clipping.
+
+For training band $j$, define
+\begin{equation}
+ a_j=\min_i x_{ij},\quad b_j=\max_i x_{ij},
+\end{equation}
+and empirical quantiles $q_{0.01,j},q_{0.99,j}$. For orbital $\bm x_*$ record
+\begin{align}
+ N_{\rm range}(\bm x_*)&=\sum_j\mathbf1_{\{x_{*j}<a_j\ \text{or}\ x_{*j}>b_j\}},\\
+ N_{0.01,0.99}(\bm x_*)&=\sum_j\mathbf1_{\{x_{*j}<q_{0.01,j}\ \text{or}\ x_{*j}>q_{0.99,j}\}}.
+\end{align}
+
+Bandwise acceptance does not ensure an observed joint shape. Standardize the orbital spectrum and retain principal directions explaining 99.5\% of laboratory variance. With coordinate vector $\bm u_*$, training coordinate mean $\overline{\bm u}$, and coordinate variances $d_k$, compute
+\begin{equation}
+ D^2(\bm x_*)=\sum_{k=1}^{q}
+ \frac{(u_{*k}-\overline u_k)^2}{\max(d_k,d_{\rm floor})}.
+\end{equation}
+This regularized squared Mahalanobis distance is compared with empirical 95th percentile, 99th percentile, and maximum training distances.
+
+For $M$ model predictions define
+\begin{align}
+ \widehat y_{\rm median}&=\operatorname{median}_m\widehat y_m,\\
+ \widehat y_{\rm mean}&=\frac1M\sum_m\widehat y_m,\\
+ s_{\rm models}&=\sqrt{\frac1{M-1}\sum_m(\widehat y_m-\widehat y_{\rm mean})^2}.
+\end{align}
+Flags are set for nonfinite input, broad reflectance-range failure, too many bands outside the training range, excessive $D^2$, negative FeO, FeO above a configured physical ceiling, and excessive $s_{\rm models}$. The latter is model disagreement, not a confidence interval. The strict screened consensus is omitted if any selected flag is set; raw predictions remain available.
+
+The application program reads either:
+\begin{itemize}
+ \item a CSV with columns \texttt{m3\_b01} through \texttt{m3\_b74}; or
+ \item Stage-1 files named \path{PREFIX_band_1.tsv} through
+ \path{PREFIX_band_74.tsv}.
+\end{itemize}
+Stage-1 data are processed in line blocks. Each prediction and diagnostic is saved with the original line-by-detector-sample shape.
+
+\section{Completed numerical comparison}
+The combined provisional run used 523 spectra from 107 Apollo parents. The direct-association sensitivity run used 105 spectra from 33 parents.
+
+\begin{table}[H]
+\centering
+\caption{Grouped outer validation using combined provisional chemistry.}
+\begin{tabular}{lrrrr}
+\toprule Method & Parents & MAE & RMSE & $R^2$\\ \midrule
+Gaussian process & 107 & 2.464 & 3.384 & 0.692\\
+Kumar power, principal & 101 & 2.626 & 3.486 & 0.664\\
+Extra Trees & 107 & 2.723 & 3.702 & 0.632\\
+Random Forest & 107 & 2.894 & 3.843 & 0.603\\
+Gradient boosting & 107 & 3.000 & 4.048 & 0.560\\
+RBF-SVR & 107 & 3.149 & 4.398 & 0.480\\
+PLS & 107 & 3.581 & 4.534 & 0.448\\
+Ridge & 107 & 3.830 & 4.602 & 0.431\\
+PCR with ridge & 107 & 3.938 & 4.722 & 0.401\\
+Elastic net & 107 & 4.102 & 4.894 & 0.357\\
+Training-parent mean & 107 & 5.537 & 6.259 & -0.052\\ \bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{Grouped outer validation restricted to direct FeO associations.}
+\begin{tabular}{lrrrr}
+\toprule Method & Parents & MAE & RMSE & $R^2$\\ \midrule
+Gradient boosting & 33 & 3.179 & 4.820 & 0.303\\
+Extra Trees & 33 & 3.226 & 4.715 & 0.333\\
+Random Forest & 33 & 3.338 & 4.935 & 0.269\\
+Kumar power, principal & 31 & 3.498 & 4.479 & 0.414\\
+Gaussian process & 33 & 3.717 & 5.172 & 0.198\\
+RBF-SVR & 33 & 4.066 & 5.633 & 0.048\\
+PCR with ridge & 33 & 4.626 & 5.844 & -0.025\\
+Ridge & 33 & 4.642 & 5.846 & -0.025\\
+Elastic net & 33 & 4.691 & 6.006 & -0.082\\
+PLS & 33 & 4.711 & 5.899 & -0.044\\
+Training-parent mean & 33 & 5.053 & 5.831 & -0.020\\ \bottomrule
+\end{tabular}
+\end{table}
+
+The ranking changes materially. Gaussian-process regression is strongest on expanded provisional chemistry but not on the direct subset. Extra Trees and gradient boosting are more stable across the two tests. No result yet validates orbital application.
+
+\section{Executable implementation}
+The comparison program is
+\begin{quote}\path{m3_feo_ml_v3/train_compare_interpret_feo_models_v3.py}.\end{quote}
+\begin{verbatim}
+python m3_feo_ml_v3/train_compare_interpret_feo_models_v3.py \
+  --dataset data/ml_combined_v2/m3_feo_isfeo_ground_truth_v2.csv \
+  --output-dir data/ml_interpretable_v3/results_combined_quick \
+  --target-column feo_wt_percent_mean \
+  --search-level quick --permutation-repeats 3
+\end{verbatim}
+The orbital application program is
+\begin{quote}\path{m3_feo_ml_v3/apply_feo_models_to_m3_v3.py}.\end{quote}
+\begin{verbatim}
+python m3_feo_ml_v3/apply_feo_models_to_m3_v3.py \
+  --stage1-dir /path/to/29_31_m31_p30 \
+  --prefix M3G20090107T011405 \
+  --bundle-dir data/ml_interpretable_v3/results_combined_quick \
+  --output-dir /path/to/M3G20090107T011405_feo_v3
+\end{verbatim}
+
+\section{Scientific limitations and required next tests}
+\begin{enumerate}
+ \item The response is not uniformly child-specific. Parent FeO assigned to a child spectrum creates target uncertainty.
+ \item RELAB geometry, particle size, maturity, and preparation alter reflectance independently of FeO.
+ \item M3 band convolution does not make laboratory and orbital radiometry identical.
+ \item Favorable Apollo-parent validation does not establish validity for orbital mixtures absent from training.
+ \item Importance must be checked by contiguous-window deletion, not only single-band permutation.
+ \item Orbital maps must show domain-failure and model-disagreement masks beside FeO estimates.
+ \item Predictions should be compared with known mare/highland units and independent orbital products without using those same checks to tune the result.
+ \item Chemistry uncertainty should enter later models through repeated target sampling, interval responses, or a hierarchical parent/child construction.
+\end{enumerate}
+
+\section*{Method references}
+\addcontentsline{toc}{section}{Method references}
+\begin{enumerate}[label={[\arabic*]}]
+ \item P. Geurts, D. Ernst, and L. Wehenkel, ``Extremely randomized trees,'' \emph{Machine Learning}, 63, 3--42 (2006).
+ \item L. Breiman, ``Random forests,'' \emph{Machine Learning}, 45, 5--32 (2001).
+ \item J. H. Friedman, ``Greedy function approximation: a gradient boosting machine,'' \emph{Annals of Statistics}, 29, 1189--1232 (2001).
+ \item A. E. Hoerl and R. W. Kennard, ``Ridge regression: biased estimation for nonorthogonal problems,'' \emph{Technometrics}, 12, 55--67 (1970).
+ \item H. Zou and T. Hastie, ``Regularization and variable selection via the elastic net,'' \emph{Journal of the Royal Statistical Society B}, 67, 301--320 (2005).
+ \item S. Wold, M. Sjostrom, and L. Eriksson, ``PLS-regression: a basic tool of chemometrics,'' \emph{Chemometrics and Intelligent Laboratory Systems}, 58, 109--130 (2001).
+ \item C. Cortes and V. Vapnik, ``Support-vector networks,'' \emph{Machine Learning}, 20, 273--297 (1995).
+ \item C. E. Rasmussen and C. K. I. Williams, \emph{Gaussian Processes for Machine Learning}, MIT Press (2006).
+ \item I. T. Jolliffe and J. Cadima, ``Principal component analysis: a review and recent developments,'' \emph{Philosophical Transactions of the Royal Society A}, 374, 20150202 (2016).
+\end{enumerate}
+\vfill
+\noindent\colorbox{moonlight}{\parbox{0.96\textwidth}{\small
+\textbf{Interpretation rule.} Cross-validated performance measures interpolation among held-out Apollo parents. A real M3 prediction additionally requires laboratory-domain tests, physically plausible output, controlled disagreement among models, and comparison with independent lunar information.}}
+\end{document}
