@@ -1,0 +1,18 @@
+{
+  "validated_specimens": 66,
+  "validated_pairs": 68,
+  "validated_apollo_samples": 60,
+  "validated_luna_rows": 4,
+  "join_resolution_counts": {
+    "atlas_parent_confirmed": 36,
+    "apollo_sample_not_in_atlas_or_ml": 28,
+    "luna_non_apollo": 4
+  },
+  "validated_samples_in_ml_ground_truth": 36,
+  "candidate_rows": 648,
+  "candidate_status_counts": {
+    "unresolved": 621,
+    "probable_needs_review": 27
+  },
+  "note": "External PDS/RELAB/Brown hosts returned HTTP 403 via the agent proxy; no new exact pairs could be established this run. Candidate table records local-only evidence; new exact validation requires PDS RELAB specimen metadata (ls-jba-*_specimenchemistry) once a host is reachable."
+}
