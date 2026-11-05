@@ -1,0 +1,14 @@
+
+########## stage: perm ##########
+[perm] feo_combined/extra_trees_phys_raw: parent_MAE=2.291699877990696 top3[m3_bblock_m3_b17_m3_b24=1.005; logslope=0.584; logratio=0.577]
+[perm] feo_combined/kernel_ridge_rbf_raw: parent_MAE=2.330457404888144 top3[m3_bblock_m3_b17_m3_b24=5.037; m3_bblock_m3_b25_m3_b32=4.495; m3_bblock_m3_b65_m3_b72=3.758]
+[perm] feo_combined/bayesian_ridge_spline_physical: parent_MAE=2.377708340312096 top3[logslope=4.857; ratio=2.991; band1um=1.327]
+[perm] feo_direct/kernel_ridge_rbf_raw: parent_MAE=2.7845625074014477 top3[m3_bblock_m3_b17_m3_b24=2.652; m3_bblock_m3_b25_m3_b32=2.475; m3_bblock_m3_b57_m3_b64=2.010]
+[perm] isfeo/gaussian_process_raw: parent_MAE=14.248796503404014 top3[m3_bblock_m3_b57_m3_b64=20.952; m3_bblock_m3_b65_m3_b72=15.092; m3_bblock_m3_b09_m3_b16=14.623]
+[perm] isfeo/extra_trees_phys_raw: parent_MAE=15.19082904817363 top3[logratio=2.942; ratio=1.444; m3_bblock_m3_b01_m3_b08=0.552]
+
+########## stage: repeats ##########
+[repeats] isfeo/gaussian_process_raw: n=10 parent_MAE mean=13.909 median=13.670 std=1.172 range=[12.377,16.165]
+[repeats] isfeo/extra_trees_phys_raw: n=10 parent_MAE mean=14.437 median=14.607 std=1.117 range=[12.582,16.737]
+[repeats] isfeo/kernel_ridge_rbf_raw: n=10 parent_MAE mean=13.768 median=13.261 std=1.436 range=[12.413,16.618]
+[repeats] feo_direct/kernel_ridge_rbf_raw: n=5 parent_MAE mean=2.965 median=3.002 std=0.339 range=[2.443,3.387]
