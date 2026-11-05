@@ -1,0 +1,35 @@
+{
+  "n_unique_adams_specimen_ids": 493,
+  "n_corrected_measurement_ids_unique": 716,
+  "n_specimen_cls_pairs_total": 716,
+  "n_mapped_specimen_ids_exact": 66,
+  "n_mapped_specimen_cls_pairs_exact": 68,
+  "n_validated_rows": 68,
+  "n_unresolved_specimen_ids": 427,
+  "n_unresolved_specimen_cls_pairs": 648,
+  "n_unresolved_cls_ids": 648,
+  "n_ls_jba_prefixes_total": 225,
+  "n_ls_jba_prefixes_with_any_validated": 64,
+  "suffix_form_counts_all": {
+    "none": 151,
+    "P#": 90,
+    "N#": 57,
+    "M#": 49,
+    "P": 41,
+    "M": 37,
+    "N": 37,
+    "X#": 9,
+    "X": 5,
+    "NX#": 4,
+    "C#": 3,
+    "MX": 3,
+    "NX": 2,
+    "PX": 2,
+    "MX#": 2,
+    "N#P": 1
+  },
+  "body_counts_validated": {
+    "Apollo": 64,
+    "Luna": 4
+  }
+}
