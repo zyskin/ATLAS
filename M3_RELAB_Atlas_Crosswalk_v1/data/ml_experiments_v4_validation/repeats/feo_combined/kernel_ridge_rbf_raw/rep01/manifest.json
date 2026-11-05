@@ -1,0 +1,93 @@
+{
+  "config": {
+    "dataset": "data/ml_combined_v2/m3_feo_isfeo_ground_truth_v2.csv",
+    "target_column": "feo_wt_percent_mean",
+    "model": "kernel_ridge_rbf",
+    "feature_family": "raw",
+    "subset": "all",
+    "target_transform": "none",
+    "outer_folds": 5,
+    "inner_folds": 3,
+    "seed": 20261105,
+    "permutation_repeats": 0,
+    "output_dir": "data/ml_experiments_v4_validation/repeats/feo_combined/kernel_ridge_rbf_raw/rep01",
+    "label": "kernel_ridge_rbf_raw",
+    "save_final_model": false,
+    "randomized_folds": true,
+    "fold_seed": 1001
+  },
+  "resolved_feature_family": "raw",
+  "group_column": "i_atlas_sample",
+  "n_outer_folds": 5,
+  "n_inner_folds_requested": 3,
+  "n_feature_columns": 74,
+  "fold_params": [
+    {
+      "fold": 0,
+      "params": {
+        "model__alpha": 0.01,
+        "model__gamma": 0.1
+      }
+    },
+    {
+      "fold": 1,
+      "params": {
+        "model__alpha": 0.01,
+        "model__gamma": 0.1
+      }
+    },
+    {
+      "fold": 2,
+      "params": {
+        "model__alpha": 0.01,
+        "model__gamma": 0.1
+      }
+    },
+    {
+      "fold": 3,
+      "params": {
+        "model__alpha": 0.01,
+        "model__gamma": 0.1
+      }
+    },
+    {
+      "fold": 4,
+      "params": {
+        "model__alpha": 0.01,
+        "model__gamma": 0.1
+      }
+    }
+  ],
+  "final_params": {
+    "model__alpha": 0.01,
+    "model__gamma": 0.1
+  },
+  "metrics": {
+    "status": "ok",
+    "error": "",
+    "label": "kernel_ridge_rbf_raw",
+    "model": "kernel_ridge_rbf",
+    "feature_family": "raw",
+    "target_column": "feo_wt_percent_mean",
+    "subset": "all",
+    "target_transform": "none",
+    "n_spectra": 523,
+    "n_parents": 107,
+    "mae_measurement": 2.9578231351228794,
+    "rmse_measurement": 4.255649669047809,
+    "r2_measurement": 0.4564936890866613,
+    "bias_measurement": 0.24012102285599535,
+    "mae_parent": 2.4389806802277136,
+    "rmse_parent": 3.4593031058606685,
+    "median_abs_err_parent": 1.9434577481189308,
+    "bias_parent": -0.6336978602134229,
+    "r2_parent": 0.67855345173274
+  },
+  "dataset_sha256": "170924758f4ce363fbe22f821a4dcc101b5c4ab540d75b61acdf639baf8117d9",
+  "coefficients_saved": false,
+  "runtime_seconds": 9.25,
+  "python": "3.13.18",
+  "platform": "Linux-6.18.44-fc-v236-x86_64-with-glibc2.39",
+  "numpy": "2.5.3",
+  "sklearn": "1.9.1"
+}

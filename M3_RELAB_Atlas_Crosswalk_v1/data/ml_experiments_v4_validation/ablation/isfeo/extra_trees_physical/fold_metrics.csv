@@ -1,0 +1,5 @@
+fold,n_train_parents,n_test_parents,n_train_spectra,n_test_spectra,mae_measurement,mae_parent,rmse_parent,params
+0,28,1,84,29,38.192429620721896,38.1924296207219,38.1924296207219,"{""model__max_depth"": null, ""model__max_features"": 0.3, ""model__min_samples_leaf"": 2}"
+1,21,8,85,28,13.949667712107214,10.51555459031363,12.251677494914684,"{""model__max_depth"": 8, ""model__max_features"": 0.6, ""model__min_samples_leaf"": 2}"
+2,19,10,85,28,17.520840182238388,19.840353041705974,25.39337647890819,"{""model__max_depth"": 8, ""model__max_features"": 0.6, ""model__min_samples_leaf"": 2}"
+3,19,10,85,28,14.278772441363584,11.356153408364769,13.843854412466403,"{""model__max_depth"": 8, ""model__max_features"": 0.3, ""model__min_samples_leaf"": 2}"

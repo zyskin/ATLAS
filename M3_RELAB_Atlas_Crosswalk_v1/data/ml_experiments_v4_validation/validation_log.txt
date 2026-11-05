@@ -12,3 +12,35 @@
 [repeats] isfeo/extra_trees_phys_raw: n=10 parent_MAE mean=14.437 median=14.607 std=1.117 range=[12.582,16.737]
 [repeats] isfeo/kernel_ridge_rbf_raw: n=10 parent_MAE mean=13.768 median=13.261 std=1.436 range=[12.413,16.618]
 [repeats] feo_direct/kernel_ridge_rbf_raw: n=5 parent_MAE mean=2.965 median=3.002 std=0.339 range=[2.443,3.387]
+[repeats] feo_direct/extra_trees_phys_raw: n=5 parent_MAE mean=3.005 median=3.017 std=0.137 range=[2.810,3.162]
+[repeats] feo_combined/extra_trees_phys_raw: n=5 parent_MAE mean=2.348 median=2.344 std=0.065 range=[2.257,2.412]
+[repeats] feo_combined/kernel_ridge_rbf_raw: n=5 parent_MAE mean=2.499 median=2.474 std=0.060 range=[2.439,2.594]
+[repeats] feo_combined/bayesian_ridge_spline_physical: n=5 parent_MAE mean=2.553 median=2.556 std=0.091 range=[2.429,2.649]
+
+=== repeats summary ===
+    scenario                          label  count      mean    median      std       min       max
+feo_combined bayesian_ridge_spline_physical      5  2.553019  2.556205 0.091036  2.428880  2.649305
+feo_combined           extra_trees_phys_raw      5  2.348450  2.344184 0.064623  2.256669  2.411572
+feo_combined           kernel_ridge_rbf_raw      5  2.499438  2.474067 0.059838  2.438981  2.593637
+  feo_direct           extra_trees_phys_raw      5  3.005041  3.016969 0.137341  2.809544  3.161944
+  feo_direct           kernel_ridge_rbf_raw      5  2.965350  3.002220 0.338902  2.442825  3.386987
+       isfeo           extra_trees_phys_raw     10 14.436764 14.607048 1.117389 12.582106 16.736981
+       isfeo           gaussian_process_raw     10 13.908739 13.669803 1.171624 12.377342 16.164914
+       isfeo           kernel_ridge_rbf_raw     10 13.767552 13.260991 1.436418 12.412713 16.617802
+
+########## stage: ablation ##########
+[ablation] feo_combined extra_trees raw: parent_MAE=2.6180989885300323
+[ablation] feo_combined extra_trees physical: parent_MAE=2.320329698569167
+[ablation] feo_combined extra_trees phys_raw: parent_MAE=2.291699877990696
+[ablation] isfeo extra_trees raw: parent_MAE=19.27767928819297
+[ablation] isfeo extra_trees physical: parent_MAE=14.975238994618564
+[ablation] isfeo extra_trees phys_raw: parent_MAE=15.19082904817363
+
+########## stage: isfeo_gp ##########
+[isfeo_gp] gaussian_process_raw: MAE=14.249 neg=7 oor=8 predrange=[-28.7,93.0]
+[isfeo_gp] gaussian_process_log1p: MAE=17.464 neg=0 oor=11 predrange=[6.7,150.1]
+
+=== Is/FeO GP stability (randomized repeats) ===
+                 label  count      mean    median      std       min       max
+gaussian_process_log1p     10 13.913935 13.939764 2.081002 11.139797 16.996264
+  gaussian_process_raw     10 14.957483 15.633542 1.967182 10.793236 16.959242

@@ -111,6 +111,25 @@ python -m m3_feo_ml_v4.robustness \
   --base-dir data/ml_experiments_v4
 ```
 
+## Validation stage
+
+`VALIDATION_RESULTS.md` reports a robustness stage (outputs in
+`data/ml_experiments_v4_validation/`, originals untouched):
+
+```bash
+python -m m3_feo_ml_v4.bootstrap                         # parent-bootstrap CIs + paired ΔMAE
+python -m m3_feo_ml_v4.validation --base-dir data/ml_experiments_v4_validation
+python -m m3_feo_ml_v4.write_validation_results
+```
+
+Key corrections/findings there: (1) the block-permutation metric was fixed to be
+**parent-level** (both parent- and measurement-level now saved); the 1 µm ferrous
+region still dominates FeO. (2) Paired Apollo-parent bootstraps show the top
+models are **statistically indistinguishable** (ΔMAE CIs include zero), while all
+Is/FeO models beat the null. (3) A feature ablation shows the FeO gain comes from
+the physical features, not changed tree settings. (4) An `log1p`-target Is/FeO GP
+removes the unphysical negative predictions.
+
 ## Results
 
 See `RESULTS.md` (written by the executed run) and

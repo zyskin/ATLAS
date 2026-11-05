@@ -1,0 +1,87 @@
+{
+  "config": {
+    "dataset": "data/ml_combined_v2/m3_feo_isfeo_ground_truth_v2.csv",
+    "target_column": "feo_wt_percent_mean",
+    "model": "bayesian_ridge_spline",
+    "feature_family": "physical",
+    "subset": "all",
+    "target_transform": "none",
+    "outer_folds": 5,
+    "inner_folds": 3,
+    "seed": 20261105,
+    "permutation_repeats": 0,
+    "output_dir": "data/ml_experiments_v4_validation/repeats/feo_combined/bayesian_ridge_spline_physical/rep03",
+    "label": "bayesian_ridge_spline_physical",
+    "save_final_model": false,
+    "randomized_folds": true,
+    "fold_seed": 1003
+  },
+  "resolved_feature_family": "physical",
+  "group_column": "i_atlas_sample",
+  "n_outer_folds": 5,
+  "n_inner_folds_requested": 3,
+  "n_feature_columns": 12,
+  "fold_params": [
+    {
+      "fold": 0,
+      "params": {
+        "spline__n_knots": 5
+      }
+    },
+    {
+      "fold": 1,
+      "params": {
+        "spline__n_knots": 3
+      }
+    },
+    {
+      "fold": 2,
+      "params": {
+        "spline__n_knots": 5
+      }
+    },
+    {
+      "fold": 3,
+      "params": {
+        "spline__n_knots": 5
+      }
+    },
+    {
+      "fold": 4,
+      "params": {
+        "spline__n_knots": 5
+      }
+    }
+  ],
+  "final_params": {
+    "spline__n_knots": 5
+  },
+  "metrics": {
+    "status": "ok",
+    "error": "",
+    "label": "bayesian_ridge_spline_physical",
+    "model": "bayesian_ridge_spline",
+    "feature_family": "physical",
+    "target_column": "feo_wt_percent_mean",
+    "subset": "all",
+    "target_transform": "none",
+    "n_spectra": 523,
+    "n_parents": 107,
+    "mae_measurement": 2.84743318787597,
+    "rmse_measurement": 3.974465367420115,
+    "r2_measurement": 0.5259433019832466,
+    "bias_measurement": 0.11291287290316637,
+    "mae_parent": 2.428880258901744,
+    "rmse_parent": 3.333788516370546,
+    "median_abs_err_parent": 1.6026726282673902,
+    "bias_parent": -0.7222160889135815,
+    "r2_parent": 0.7014564961463258
+  },
+  "dataset_sha256": "170924758f4ce363fbe22f821a4dcc101b5c4ab540d75b61acdf639baf8117d9",
+  "coefficients_saved": false,
+  "runtime_seconds": 0.86,
+  "python": "3.13.18",
+  "platform": "Linux-6.18.44-fc-v236-x86_64-with-glibc2.39",
+  "numpy": "2.5.3",
+  "sklearn": "1.9.1"
+}
