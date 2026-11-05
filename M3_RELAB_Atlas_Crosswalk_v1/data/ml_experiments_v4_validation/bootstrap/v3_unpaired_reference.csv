@@ -1,0 +1,7 @@
+scenario,v3_method,v3_mae_point,v3_n_parents,note
+feo_combined,gaussian_process,2.46432259654772,107,unpaired: v3 per-parent predictions not saved
+feo_combined,gradient_boosting,2.9995144779053,107,unpaired: v3 per-parent predictions not saved
+feo_combined,extra_trees,2.7234692209426155,107,unpaired: v3 per-parent predictions not saved
+feo_direct,gaussian_process,3.716618600321448,33,unpaired: v3 per-parent predictions not saved
+feo_direct,gradient_boosting,3.17935868506127,33,unpaired: v3 per-parent predictions not saved
+feo_direct,extra_trees,3.22649766719062,33,unpaired: v3 per-parent predictions not saved

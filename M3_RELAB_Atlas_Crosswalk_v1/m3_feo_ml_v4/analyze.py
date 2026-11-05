@@ -93,11 +93,13 @@ def plot_permutation(scen_dir: Path, scenario: str, out: Path, best_label: str) 
     perm_path = scen_dir / best_label / "block_permutation_importance.csv"
     if not perm_path.exists():
         return
-    df = pd.read_csv(perm_path).sort_values("mae_increase", ascending=True).tail(15)
+    df = pd.read_csv(perm_path)
+    col = "mae_increase_parent" if "mae_increase_parent" in df.columns else "mae_increase"
+    std_col = "mae_increase_parent_fold_std" if "mae_increase_parent_fold_std" in df.columns else "mae_increase_fold_std"
+    df = df.sort_values(col, ascending=True).tail(15)
     fig, ax = plt.subplots(figsize=(7, 5))
-    ax.barh(df["block"], df["mae_increase"], xerr=df.get("mae_increase_fold_std"),
-            color="#3a7ca5")
-    ax.set_xlabel("Parent-MAE increase when block permuted (held-out)")
+    ax.barh(df["block"], df[col], xerr=df.get(std_col), color="#3a7ca5")
+    ax.set_xlabel("Parent-mean MAE increase when block permuted (held-out)")
     ax.set_title(f"{scenario}: block permutation importance\n{best_label}")
     fig.tight_layout()
     fig.savefig(out / f"permutation_{scenario}.png", dpi=110)

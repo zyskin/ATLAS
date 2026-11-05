@@ -1,0 +1,11 @@
+scenario,model_A,model_B,obs_delta_mae_A_minus_B,delta_ci_lo,delta_ci_hi,frac_A_wins,frac_B_wins,ci_excludes_zero
+feo_combined,extra_trees_phys_raw,kernel_ridge_rbf_raw,-0.038757526897447825,-0.32261462795436613,0.27321714362363536,0.6107,0.3893,False
+feo_combined,extra_trees_phys_raw,bayesian_ridge_spline_physical,-0.08600846232139991,-0.37858255450512646,0.21736365372828287,0.7334,0.2666,False
+feo_combined,kernel_ridge_rbf_raw,bayesian_ridge_spline_physical,-0.04725093542395209,-0.41249594225027963,0.31017681770681726,0.6056,0.3944,False
+feo_direct,kernel_ridge_rbf_raw,extra_trees_phys_raw,-0.37106592449517706,-1.11275838857581,0.3270813854335054,0.8408,0.1592,False
+isfeo,gaussian_process_raw,extra_trees_phys_raw,-0.9420325447696154,-3.8566398346801396,1.9339278747289828,0.7357,0.2643,False
+isfeo,gaussian_process_raw,kernel_ridge_rbf_raw,-0.9631684938912031,-4.77224730475967,2.84498693312763,0.6879,0.3121,False
+isfeo,gaussian_process_raw,null_mean,-8.622660079229037,-14.500634513000072,-2.791599782535534,0.9986,0.0014,True
+isfeo,extra_trees_phys_raw,kernel_ridge_rbf_raw,-0.02113594912158767,-2.9306605836353037,2.6774457688746476,0.4919,0.5081,False
+isfeo,extra_trees_phys_raw,null_mean,-7.680627534459422,-12.586770592871266,-2.938014800822097,0.9991,0.0009,True
+isfeo,kernel_ridge_rbf_raw,null_mean,-7.659491585337834,-13.77435567817816,-1.437695249814287,0.9933,0.0067,True

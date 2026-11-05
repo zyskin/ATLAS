@@ -66,6 +66,9 @@ class ExperimentConfig:
     permutation_repeats: int = 5
     output_dir: str = "data/ml_experiments_v4/run"
     label: str | None = None
+    save_final_model: bool = True               # False keeps validation dirs small
+    randomized_folds: bool = False              # shuffle parents into folds
+    fold_seed: int | None = None                # seed for randomized fold partition
 
     def resolved_feature_family(self) -> str:
         if self.feature_family:
@@ -76,6 +79,40 @@ class ExperimentConfig:
 
     def resolved_label(self) -> str:
         return self.label or f"{self.model}__{self.resolved_feature_family()}"
+
+
+class RandomizedGroupKFold:
+    """Grouped K-fold that shuffles whole groups into folds with a fixed seed.
+
+    Unlike sklearn's ``GroupKFold`` (deterministic, seed-independent partition),
+    this assigns each unique group to one of ``n_splits`` folds after a seeded
+    shuffle, so repeated runs with different ``fold_seed`` yield genuinely
+    different parent partitions while never splitting a group across train/test.
+    """
+
+    def __init__(self, n_splits: int, seed: int):
+        self.n_splits = n_splits
+        self.seed = seed
+
+    def split(self, X, y=None, groups=None):
+        groups = np.asarray(groups)
+        uniq = np.unique(groups)
+        rng = np.random.default_rng(self.seed)
+        order = rng.permutation(uniq.size)
+        fold_of_group = {uniq[order[i]]: i % self.n_splits for i in range(uniq.size)}
+        assign = np.array([fold_of_group[g] for g in groups])
+        for k in range(self.n_splits):
+            te = np.where(assign == k)[0]
+            tr = np.where(assign != k)[0]
+            if te.size and tr.size:
+                yield tr, te
+
+
+def _outer_splitter(cfg: "ExperimentConfig", n_splits: int):
+    if cfg.randomized_folds:
+        seed = cfg.fold_seed if cfg.fold_seed is not None else cfg.seed
+        return RandomizedGroupKFold(n_splits=n_splits, seed=seed)
+    return GroupKFold(n_splits=n_splits)
 
 
 def _sha256(path: Path) -> str:
@@ -215,7 +252,7 @@ def run_experiment(cfg: ExperimentConfig) -> dict[str, Any]:
 
     n_groups = np.unique(groups).size
     n_outer = max(2, min(cfg.outer_folds, n_groups))
-    outer = GroupKFold(n_splits=n_outer)
+    outer = _outer_splitter(cfg, n_outer)
 
     oof_pred = np.full(y.shape, np.nan)
     oof_fold = np.full(y.shape, -1, dtype=int)
@@ -251,21 +288,31 @@ def run_experiment(cfg: ExperimentConfig) -> dict[str, Any]:
                 "params": json.dumps(params),
             })
 
-            # leak-free block permutation importance on the held-out parents
-            base_err = np.mean(np.abs(pred_te - y[te]))
+            # leak-free block permutation importance on the held-out parents.
+            # Compute BOTH measurement-level and Apollo-parent-level MAE increase;
+            # parent-level aggregates predictions and targets by parent *after*
+            # each permutation (the metric the plots/README describe).
+            g_te = groups[te]
+            base_err_meas = float(np.mean(np.abs(pred_te - y[te])))
+            pa0, pp0 = _parent_means(y[te], pred_te, g_te)
+            base_err_parent = float(np.mean(np.abs(pp0 - pa0)))
             Xte = X[te].copy()
-            for bname, cols in block_defs.items():
-                incs = []
+            for bname, cols in (block_defs.items() if cfg.permutation_repeats > 0 else []):
+                incs_meas, incs_par = [], []
                 for _ in range(cfg.permutation_repeats):
                     Xp = Xte.copy()
                     perm = rng.permutation(Xp.shape[0])
                     Xp[:, cols] = Xp[np.ix_(perm, cols)]
                     pred_p = _predict_estimator(cfg, est, Xp)
-                    incs.append(np.mean(np.abs(pred_p - y[te])) - base_err)
+                    incs_meas.append(np.mean(np.abs(pred_p - y[te])) - base_err_meas)
+                    pa_p, pp_p = _parent_means(y[te], pred_p, g_te)
+                    incs_par.append(np.mean(np.abs(pp_p - pa_p)) - base_err_parent)
                 perm_records.append({
                     "fold": k, "block": bname,
-                    "mae_increase_mean": float(np.mean(incs)),
-                    "mae_increase_std": float(np.std(incs)),
+                    "mae_increase_parent_mean": float(np.mean(incs_par)),
+                    "mae_increase_parent_std": float(np.std(incs_par)),
+                    "mae_increase_measurement_mean": float(np.mean(incs_meas)),
+                    "mae_increase_measurement_std": float(np.std(incs_meas)),
                 })
     except Exception as exc:  # record and continue; caller logs failure
         status = "failed"
@@ -321,10 +368,13 @@ def run_experiment(cfg: ExperimentConfig) -> dict[str, Any]:
     pd.DataFrame(fold_rows).to_csv(out / "fold_metrics.csv", index=False)
     if perm_records:
         perm_df = pd.DataFrame(perm_records)
-        perm_summary = (perm_df.groupby("block")["mae_increase_mean"]
-                        .agg(["mean", "std"]).reset_index()
-                        .rename(columns={"mean": "mae_increase", "std": "mae_increase_fold_std"})
-                        .sort_values("mae_increase", ascending=False))
+        perm_df.to_csv(out / "block_permutation_importance_folds.csv", index=False)
+        perm_summary = (perm_df.groupby("block").agg(
+            mae_increase_parent=("mae_increase_parent_mean", "mean"),
+            mae_increase_parent_fold_std=("mae_increase_parent_mean", "std"),
+            mae_increase_measurement=("mae_increase_measurement_mean", "mean"),
+            mae_increase_measurement_fold_std=("mae_increase_measurement_mean", "std"),
+        ).reset_index().sort_values("mae_increase_parent", ascending=False))
         perm_summary.to_csv(out / "block_permutation_importance.csv", index=False)
 
     # ---- final refit on ALL usable rows + save model ---- #
@@ -333,11 +383,12 @@ def run_experiment(cfg: ExperimentConfig) -> dict[str, Any]:
     if status == "ok" and valid.sum() > 0:
         final_est, final_params = _tune(cfg, X, y, groups)
         _fit_estimator(cfg, final_est, X, y)
-        joblib.dump(
-            {"estimator": final_est, "feature_names": feat_names,
-             "config": dataclasses.asdict(cfg), "target_transform": cfg.target_transform},
-            out / "final_model.joblib",
-        )
+        if cfg.save_final_model:
+            joblib.dump(
+                {"estimator": final_est, "feature_names": feat_names,
+                 "config": dataclasses.asdict(cfg), "target_transform": cfg.target_transform},
+                out / "final_model.joblib",
+            )
         # standardized coefficients for linear models
         if cfg.model in LINEAR_MODELS:
             try:
