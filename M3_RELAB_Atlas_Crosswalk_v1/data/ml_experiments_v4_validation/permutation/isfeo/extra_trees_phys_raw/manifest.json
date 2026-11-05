@@ -1,0 +1,91 @@
+{
+  "config": {
+    "dataset": "data/ml_combined_v2/m3_feo_isfeo_ground_truth_v2.csv",
+    "target_column": "is_feo_mean",
+    "model": "extra_trees",
+    "feature_family": "phys_raw",
+    "subset": "all",
+    "target_transform": "none",
+    "outer_folds": 4,
+    "inner_folds": 3,
+    "seed": 20261105,
+    "permutation_repeats": 8,
+    "output_dir": "data/ml_experiments_v4_validation/permutation/isfeo/extra_trees_phys_raw",
+    "label": "extra_trees_phys_raw",
+    "save_final_model": false,
+    "randomized_folds": false,
+    "fold_seed": null
+  },
+  "resolved_feature_family": "phys_raw",
+  "group_column": "i_atlas_sample",
+  "n_outer_folds": 4,
+  "n_inner_folds_requested": 3,
+  "n_feature_columns": 86,
+  "fold_params": [
+    {
+      "fold": 0,
+      "params": {
+        "model__max_depth": 8,
+        "model__max_features": 0.6,
+        "model__min_samples_leaf": 4
+      }
+    },
+    {
+      "fold": 1,
+      "params": {
+        "model__max_depth": 4,
+        "model__max_features": 0.6,
+        "model__min_samples_leaf": 4
+      }
+    },
+    {
+      "fold": 2,
+      "params": {
+        "model__max_depth": null,
+        "model__max_features": 0.3,
+        "model__min_samples_leaf": 2
+      }
+    },
+    {
+      "fold": 3,
+      "params": {
+        "model__max_depth": 4,
+        "model__max_features": 0.3,
+        "model__min_samples_leaf": 2
+      }
+    }
+  ],
+  "final_params": {
+    "model__max_depth": null,
+    "model__max_features": 0.3,
+    "model__min_samples_leaf": 2
+  },
+  "metrics": {
+    "status": "ok",
+    "error": "",
+    "label": "extra_trees_phys_raw",
+    "model": "extra_trees",
+    "feature_family": "phys_raw",
+    "target_column": "is_feo_mean",
+    "subset": "all",
+    "target_transform": "none",
+    "n_spectra": 113,
+    "n_parents": 29,
+    "mae_measurement": 21.314443855515748,
+    "rmse_measurement": 25.411050906857877,
+    "r2_measurement": 0.19017858498597995,
+    "bias_measurement": -6.22870579012762,
+    "mae_parent": 15.19082904817363,
+    "rmse_parent": 18.83730254442331,
+    "median_abs_err_parent": 13.553679380102977,
+    "bias_parent": 2.7887383506565113,
+    "r2_parent": 0.47872443486236615
+  },
+  "dataset_sha256": "170924758f4ce363fbe22f821a4dcc101b5c4ab540d75b61acdf639baf8117d9",
+  "coefficients_saved": false,
+  "runtime_seconds": 63.73,
+  "python": "3.13.18",
+  "platform": "Linux-6.18.44-fc-v236-x86_64-with-glibc2.39",
+  "numpy": "2.5.3",
+  "sklearn": "1.9.1"
+}

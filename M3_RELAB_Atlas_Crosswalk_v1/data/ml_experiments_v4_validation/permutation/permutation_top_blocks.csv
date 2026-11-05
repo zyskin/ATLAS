@@ -1,0 +1,7 @@
+scenario,label,status,parent_mae,top3_parent_blocks
+feo_combined,extra_trees_phys_raw,ok,2.291699877990696,m3_bblock_m3_b17_m3_b24=1.005; logslope=0.584; logratio=0.577
+feo_combined,kernel_ridge_rbf_raw,ok,2.330457404888144,m3_bblock_m3_b17_m3_b24=5.037; m3_bblock_m3_b25_m3_b32=4.495; m3_bblock_m3_b65_m3_b72=3.758
+feo_combined,bayesian_ridge_spline_physical,ok,2.377708340312096,logslope=4.857; ratio=2.991; band1um=1.327
+feo_direct,kernel_ridge_rbf_raw,ok,2.7845625074014477,m3_bblock_m3_b17_m3_b24=2.652; m3_bblock_m3_b25_m3_b32=2.475; m3_bblock_m3_b57_m3_b64=2.010
+isfeo,gaussian_process_raw,ok,14.248796503404014,m3_bblock_m3_b57_m3_b64=20.952; m3_bblock_m3_b65_m3_b72=15.092; m3_bblock_m3_b09_m3_b16=14.623
+isfeo,extra_trees_phys_raw,ok,15.19082904817363,logratio=2.942; ratio=1.444; m3_bblock_m3_b01_m3_b08=0.552
