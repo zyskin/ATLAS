@@ -1,0 +1,90 @@
+{
+  "config": {
+    "dataset": "data/ml_combined_v2/m3_feo_isfeo_ground_truth_v2.csv",
+    "target_column": "feo_wt_percent_mean",
+    "model": "bayesian_ridge",
+    "feature_family": "physical",
+    "subset": "all",
+    "target_transform": "none",
+    "outer_folds": 5,
+    "inner_folds": 3,
+    "seed": 20261105,
+    "permutation_repeats": 4,
+    "output_dir": "data/ml_experiments_v4/feo_combined/bayesian_ridge_physical",
+    "label": "bayesian_ridge_physical"
+  },
+  "resolved_feature_family": "physical",
+  "group_column": "i_atlas_sample",
+  "n_outer_folds": 5,
+  "n_inner_folds_requested": 3,
+  "n_feature_columns": 12,
+  "fold_params": [
+    {
+      "fold": 0,
+      "params": {
+        "model__alpha_1": 0.0001,
+        "model__lambda_1": 1e-06
+      }
+    },
+    {
+      "fold": 1,
+      "params": {
+        "model__alpha_1": 1e-06,
+        "model__lambda_1": 0.0001
+      }
+    },
+    {
+      "fold": 2,
+      "params": {
+        "model__alpha_1": 1e-06,
+        "model__lambda_1": 0.0001
+      }
+    },
+    {
+      "fold": 3,
+      "params": {
+        "model__alpha_1": 1e-06,
+        "model__lambda_1": 0.0001
+      }
+    },
+    {
+      "fold": 4,
+      "params": {
+        "model__alpha_1": 0.0001,
+        "model__lambda_1": 1e-06
+      }
+    }
+  ],
+  "final_params": {
+    "model__alpha_1": 0.0001,
+    "model__lambda_1": 1e-06
+  },
+  "metrics": {
+    "status": "ok",
+    "error": "",
+    "label": "bayesian_ridge_physical",
+    "model": "bayesian_ridge",
+    "feature_family": "physical",
+    "target_column": "feo_wt_percent_mean",
+    "subset": "all",
+    "target_transform": "none",
+    "n_spectra": 523,
+    "n_parents": 107,
+    "mae_measurement": 3.344473237639654,
+    "rmse_measurement": 4.429466325729787,
+    "r2_measurement": 0.41118934277975194,
+    "bias_measurement": -0.2012225669650399,
+    "mae_parent": 3.233851943385039,
+    "rmse_parent": 4.098994855302875,
+    "median_abs_err_parent": 2.6876166220221283,
+    "bias_parent": -0.5492849197657789,
+    "r2_parent": 0.5486782333088882
+  },
+  "dataset_sha256": "170924758f4ce363fbe22f821a4dcc101b5c4ab540d75b61acdf639baf8117d9",
+  "coefficients_saved": true,
+  "runtime_seconds": 0.48,
+  "python": "3.13.18",
+  "platform": "Linux-6.18.44-fc-v236-x86_64-with-glibc2.39",
+  "numpy": "2.5.3",
+  "sklearn": "1.9.1"
+}

@@ -1,0 +1,83 @@
+{
+  "config": {
+    "dataset": "data/ml_combined_v2/m3_feo_isfeo_ground_truth_v2.csv",
+    "target_column": "is_feo_mean",
+    "model": "huber",
+    "feature_family": "physical",
+    "subset": "all",
+    "target_transform": "log1p",
+    "outer_folds": 4,
+    "inner_folds": 3,
+    "seed": 20261105,
+    "permutation_repeats": 4,
+    "output_dir": "data/ml_experiments_v4/isfeo/huber_physical_log1p",
+    "label": "huber_physical_log1p"
+  },
+  "resolved_feature_family": "physical",
+  "group_column": "i_atlas_sample",
+  "n_outer_folds": 4,
+  "n_inner_folds_requested": 3,
+  "n_feature_columns": 12,
+  "fold_params": [
+    {
+      "fold": 0,
+      "params": {
+        "model__alpha": 1.0,
+        "model__epsilon": 1.2
+      }
+    },
+    {
+      "fold": 1,
+      "params": {
+        "model__alpha": 0.1,
+        "model__epsilon": 1.6
+      }
+    },
+    {
+      "fold": 2,
+      "params": {
+        "model__alpha": 1.0,
+        "model__epsilon": 1.2
+      }
+    },
+    {
+      "fold": 3,
+      "params": {
+        "model__alpha": 0.1,
+        "model__epsilon": 1.6
+      }
+    }
+  ],
+  "final_params": {
+    "model__alpha": 1.0,
+    "model__epsilon": 1.2
+  },
+  "metrics": {
+    "status": "ok",
+    "error": "",
+    "label": "huber_physical_log1p",
+    "model": "huber",
+    "feature_family": "physical",
+    "target_column": "is_feo_mean",
+    "subset": "all",
+    "target_transform": "log1p",
+    "n_spectra": 113,
+    "n_parents": 29,
+    "mae_measurement": 23.441380535508767,
+    "rmse_measurement": 33.51885849603072,
+    "r2_measurement": -0.40903715363265203,
+    "bias_measurement": -7.81267803016524,
+    "mae_parent": 19.19916999546086,
+    "rmse_parent": 38.36011546700187,
+    "median_abs_err_parent": 9.839320242830134,
+    "bias_parent": 6.795272214948307,
+    "r2_parent": -1.161671781510297
+  },
+  "dataset_sha256": "170924758f4ce363fbe22f821a4dcc101b5c4ab540d75b61acdf639baf8117d9",
+  "coefficients_saved": true,
+  "runtime_seconds": 5.7,
+  "python": "3.13.18",
+  "platform": "Linux-6.18.44-fc-v236-x86_64-with-glibc2.39",
+  "numpy": "2.5.3",
+  "sklearn": "1.9.1"
+}

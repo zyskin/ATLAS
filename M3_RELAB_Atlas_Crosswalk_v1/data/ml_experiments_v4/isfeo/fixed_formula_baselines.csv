@@ -1,0 +1,2 @@
+label,kind,n_parents,n_spectra,mae_parent,rmse_parent,bias_parent,r2_parent
+grouped_mean_null_baseline,null,29,113,22.87145658263305,28.00023805406567,6.726515019801026,-0.1517371861179586

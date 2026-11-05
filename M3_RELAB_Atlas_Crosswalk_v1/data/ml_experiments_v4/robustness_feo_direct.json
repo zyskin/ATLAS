@@ -1,0 +1,78 @@
+{
+  "scenario": "feo_direct",
+  "best_model": "kernel_ridge_rbf_raw",
+  "source_quality_breakdown": {
+    "exact_relab_association_only": {
+      "n_parents": 19,
+      "mae_parent": 2.7669193474335305
+    },
+    "mixed_exact_and_parent": {
+      "n_parents": 14,
+      "mae_parent": 2.8085067959293366
+    }
+  },
+  "worst_parents": [
+    {
+      "apollo_parent": 61221,
+      "target": 19.66,
+      "oof_prediction": 3.238,
+      "abs_error": 16.422
+    },
+    {
+      "apollo_parent": 75035,
+      "target": 18.57,
+      "oof_prediction": 4.938,
+      "abs_error": 13.632
+    },
+    {
+      "apollo_parent": 12002,
+      "target": 21.66,
+      "oof_prediction": 11.379,
+      "abs_error": 10.281
+    },
+    {
+      "apollo_parent": 60019,
+      "target": 4.757,
+      "oof_prediction": 10.641,
+      "abs_error": 5.884
+    },
+    {
+      "apollo_parent": 12032,
+      "target": 14.1,
+      "oof_prediction": 8.242,
+      "abs_error": 5.858
+    },
+    {
+      "apollo_parent": 77075,
+      "target": 9.0,
+      "oof_prediction": 4.866,
+      "abs_error": 4.134
+    },
+    {
+      "apollo_parent": 78235,
+      "target": 11.16,
+      "oof_prediction": 7.214,
+      "abs_error": 3.946
+    },
+    {
+      "apollo_parent": 64455,
+      "target": 6.0,
+      "oof_prediction": 2.084,
+      "abs_error": 3.916
+    }
+  ],
+  "negative_predictions": {
+    "count": 0,
+    "fraction": 0.0
+  },
+  "within_parent_pred_spread": {
+    "mean_std": 0.8121769371601308,
+    "max_std": 3.8572330105320733
+  },
+  "perturbation_sensitivity": {
+    "additive_sigma": 0.005,
+    "multiplicative_sigma": 0.02,
+    "mean_parent_pred_shift_additive": 0.12747055193633156,
+    "mean_parent_pred_shift_multiplicative": 0.09676232243501563
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "scenario": "isfeo",
+  "best_model": "gaussian_process_raw",
+  "source_quality_breakdown": {
+    "is_feo_only": {
+      "n_parents": 1,
+      "mae_parent": 13.147574902396912
+    },
+    "mixed_exact_and_parent": {
+      "n_parents": 5,
+      "mae_parent": 17.96358720625993
+    },
+    "parent_level_only": {
+      "n_parents": 26,
+      "mae_parent": 14.7614308646673
+    }
+  },
+  "worst_parents": [
+    {
+      "apollo_parent": 74220,
+      "target": 1.0,
+      "oof_prediction": 38.458,
+      "abs_error": 37.458
+    },
+    {
+      "apollo_parent": 14141,
+      "target": 5.7,
+      "oof_prediction": 36.158,
+      "abs_error": 30.458
+    },
+    {
+      "apollo_parent": 75080,
+      "target": 40.0,
+      "oof_prediction": 67.096,
+      "abs_error": 27.096
+    },
+    {
+      "apollo_parent": 72321,
+      "target": 73.0,
+      "oof_prediction": 46.552,
+      "abs_error": 26.448
+    },
+    {
+      "apollo_parent": 10084,
+      "target": 78.0,
+      "oof_prediction": 51.72,
+      "abs_error": 26.28
+    },
+    {
+      "apollo_parent": 12032,
+      "target": 12.0,
+      "oof_prediction": 37.568,
+      "abs_error": 25.568
+    },
+    {
+      "apollo_parent": 61141,
+      "target": 76.0,
+      "oof_prediction": 51.331,
+      "abs_error": 24.669
+    },
+    {
+      "apollo_parent": 61501,
+      "target": 53.0,
+      "oof_prediction": 76.046,
+      "abs_error": 23.046
+    }
+  ],
+  "negative_predictions": {
+    "count": 7,
+    "fraction": 0.061946902654867256
+  },
+  "isfeo_out_of_observed_range": {
+    "observed_min": 1.0,
+    "observed_max": 90.0,
+    "count_outside": 8,
+    "fraction": 0.07079646017699115,
+    "pred_min": -28.6773249233185,
+    "pred_max": 93.01828516208565
+  },
+  "within_parent_pred_spread": {
+    "mean_std": 10.983198896513223,
+    "max_std": 27.468223502839805
+  },
+  "perturbation_sensitivity": {
+    "additive_sigma": 0.005,
+    "multiplicative_sigma": 0.02,
+    "mean_parent_pred_shift_additive": 3.4144085084541542,
+    "mean_parent_pred_shift_multiplicative": 2.56507919584184
+  }
+}

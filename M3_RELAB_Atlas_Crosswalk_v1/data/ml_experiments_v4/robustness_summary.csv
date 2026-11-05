@@ -1,0 +1,4 @@
+scenario,best_model,negative_pred_count,within_parent_mean_std,pred_shift_add_0.005,pred_shift_mult_2pct
+feo_combined,extra_trees_phys_raw,0,1.2912042077797525,1.012386672523362,0.8272280800334155
+feo_direct,kernel_ridge_rbf_raw,0,0.8121769371601308,0.12747055193633156,0.09676232243501563
+isfeo,gaussian_process_raw,7,10.983198896513223,3.4144085084541542,2.56507919584184

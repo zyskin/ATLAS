@@ -1,0 +1,108 @@
+{
+  "config": {
+    "dataset": "data/ml_combined_v2/m3_feo_isfeo_ground_truth_v2.csv",
+    "target_column": "feo_wt_percent_mean",
+    "model": "hist_gbm",
+    "feature_family": "phys_raw",
+    "subset": "all",
+    "target_transform": "none",
+    "outer_folds": 5,
+    "inner_folds": 3,
+    "seed": 20261105,
+    "permutation_repeats": 4,
+    "output_dir": "data/ml_experiments_v4/feo_combined/hist_gbm_phys_raw",
+    "label": "hist_gbm_phys_raw"
+  },
+  "resolved_feature_family": "phys_raw",
+  "group_column": "i_atlas_sample",
+  "n_outer_folds": 5,
+  "n_inner_folds_requested": 3,
+  "n_feature_columns": 86,
+  "fold_params": [
+    {
+      "fold": 0,
+      "params": {
+        "model__l2_regularization": 1.0,
+        "model__learning_rate": 0.08,
+        "model__max_depth": 3,
+        "model__max_leaf_nodes": 7,
+        "model__min_samples_leaf": 10
+      }
+    },
+    {
+      "fold": 1,
+      "params": {
+        "model__l2_regularization": 1.0,
+        "model__learning_rate": 0.08,
+        "model__max_depth": 3,
+        "model__max_leaf_nodes": 7,
+        "model__min_samples_leaf": 10
+      }
+    },
+    {
+      "fold": 2,
+      "params": {
+        "model__l2_regularization": 1.0,
+        "model__learning_rate": 0.08,
+        "model__max_depth": 3,
+        "model__max_leaf_nodes": 7,
+        "model__min_samples_leaf": 10
+      }
+    },
+    {
+      "fold": 3,
+      "params": {
+        "model__l2_regularization": 1.0,
+        "model__learning_rate": 0.08,
+        "model__max_depth": 3,
+        "model__max_leaf_nodes": 15,
+        "model__min_samples_leaf": 20
+      }
+    },
+    {
+      "fold": 4,
+      "params": {
+        "model__l2_regularization": 0.0,
+        "model__learning_rate": 0.08,
+        "model__max_depth": 3,
+        "model__max_leaf_nodes": 7,
+        "model__min_samples_leaf": 20
+      }
+    }
+  ],
+  "final_params": {
+    "model__l2_regularization": 1.0,
+    "model__learning_rate": 0.03,
+    "model__max_depth": 3,
+    "model__max_leaf_nodes": 15,
+    "model__min_samples_leaf": 10
+  },
+  "metrics": {
+    "status": "ok",
+    "error": "",
+    "label": "hist_gbm_phys_raw",
+    "model": "hist_gbm",
+    "feature_family": "phys_raw",
+    "target_column": "feo_wt_percent_mean",
+    "subset": "all",
+    "target_transform": "none",
+    "n_spectra": 523,
+    "n_parents": 107,
+    "mae_measurement": 2.5529674389674297,
+    "rmse_measurement": 3.7203630389099036,
+    "r2_measurement": 0.5846219957496812,
+    "bias_measurement": 0.3755958762365894,
+    "mae_parent": 2.375820417236714,
+    "rmse_parent": 3.477762151151766,
+    "median_abs_err_parent": 1.7159698436949444,
+    "bias_parent": -0.4831395801947222,
+    "r2_parent": 0.6751137835561549
+  },
+  "dataset_sha256": "170924758f4ce363fbe22f821a4dcc101b5c4ab540d75b61acdf639baf8117d9",
+  "coefficients_saved": false,
+  "runtime_seconds": 192.46,
+  "python": "3.13.18",
+  "platform": "Linux-6.18.44-fc-v236-x86_64-with-glibc2.39",
+  "numpy": "2.5.3",
+  "sklearn": "1.9.1"
+}

@@ -1,0 +1,90 @@
+{
+  "config": {
+    "dataset": "data/ml_combined_v2/m3_feo_isfeo_ground_truth_v2.csv",
+    "target_column": "feo_wt_percent_mean",
+    "model": "spectral_angle",
+    "feature_family": "raw",
+    "subset": "all",
+    "target_transform": "none",
+    "outer_folds": 5,
+    "inner_folds": 3,
+    "seed": 20261105,
+    "permutation_repeats": 4,
+    "output_dir": "data/ml_experiments_v4/feo_combined/spectral_angle_modified",
+    "label": "spectral_angle_modified"
+  },
+  "resolved_feature_family": "raw",
+  "group_column": "i_atlas_sample",
+  "n_outer_folds": 5,
+  "n_inner_folds_requested": 3,
+  "n_feature_columns": 74,
+  "fold_params": [
+    {
+      "fold": 0,
+      "params": {
+        "degree": 2,
+        "fit_origin": false
+      }
+    },
+    {
+      "fold": 1,
+      "params": {
+        "degree": 2,
+        "fit_origin": false
+      }
+    },
+    {
+      "fold": 2,
+      "params": {
+        "degree": 2,
+        "fit_origin": false
+      }
+    },
+    {
+      "fold": 3,
+      "params": {
+        "degree": 2,
+        "fit_origin": false
+      }
+    },
+    {
+      "fold": 4,
+      "params": {
+        "degree": 2,
+        "fit_origin": false
+      }
+    }
+  ],
+  "final_params": {
+    "degree": 2,
+    "fit_origin": false
+  },
+  "metrics": {
+    "status": "ok",
+    "error": "",
+    "label": "spectral_angle_modified",
+    "model": "spectral_angle",
+    "feature_family": "raw",
+    "target_column": "feo_wt_percent_mean",
+    "subset": "all",
+    "target_transform": "none",
+    "n_spectra": 523,
+    "n_parents": 107,
+    "mae_measurement": 4.0567947225446925,
+    "rmse_measurement": 5.303741405907538,
+    "r2_measurement": 0.15581518620154755,
+    "bias_measurement": 0.1118405764645021,
+    "mae_parent": 3.5955977227440155,
+    "rmse_parent": 4.750951101943348,
+    "median_abs_err_parent": 2.334006896106162,
+    "bias_parent": -1.591649212773244,
+    "r2_parent": 0.3936928996748318
+  },
+  "dataset_sha256": "170924758f4ce363fbe22f821a4dcc101b5c4ab540d75b61acdf639baf8117d9",
+  "coefficients_saved": false,
+  "runtime_seconds": 1.35,
+  "python": "3.13.18",
+  "platform": "Linux-6.18.44-fc-v236-x86_64-with-glibc2.39",
+  "numpy": "2.5.3",
+  "sklearn": "1.9.1"
+}

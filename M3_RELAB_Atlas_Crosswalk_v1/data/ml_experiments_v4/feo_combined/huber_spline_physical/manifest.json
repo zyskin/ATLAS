@@ -1,0 +1,90 @@
+{
+  "config": {
+    "dataset": "data/ml_combined_v2/m3_feo_isfeo_ground_truth_v2.csv",
+    "target_column": "feo_wt_percent_mean",
+    "model": "huber_spline",
+    "feature_family": "physical",
+    "subset": "all",
+    "target_transform": "none",
+    "outer_folds": 5,
+    "inner_folds": 3,
+    "seed": 20261105,
+    "permutation_repeats": 4,
+    "output_dir": "data/ml_experiments_v4/feo_combined/huber_spline_physical",
+    "label": "huber_spline_physical"
+  },
+  "resolved_feature_family": "physical",
+  "group_column": "i_atlas_sample",
+  "n_outer_folds": 5,
+  "n_inner_folds_requested": 3,
+  "n_feature_columns": 12,
+  "fold_params": [
+    {
+      "fold": 0,
+      "params": {
+        "model__alpha": 0.01,
+        "spline__n_knots": 3
+      }
+    },
+    {
+      "fold": 1,
+      "params": {
+        "model__alpha": 0.01,
+        "spline__n_knots": 4
+      }
+    },
+    {
+      "fold": 2,
+      "params": {
+        "model__alpha": 0.1,
+        "spline__n_knots": 3
+      }
+    },
+    {
+      "fold": 3,
+      "params": {
+        "model__alpha": 0.01,
+        "spline__n_knots": 3
+      }
+    },
+    {
+      "fold": 4,
+      "params": {
+        "model__alpha": 0.1,
+        "spline__n_knots": 4
+      }
+    }
+  ],
+  "final_params": {
+    "model__alpha": 0.01,
+    "spline__n_knots": 3
+  },
+  "metrics": {
+    "status": "ok",
+    "error": "",
+    "label": "huber_spline_physical",
+    "model": "huber_spline",
+    "feature_family": "physical",
+    "target_column": "feo_wt_percent_mean",
+    "subset": "all",
+    "target_transform": "none",
+    "n_spectra": 523,
+    "n_parents": 107,
+    "mae_measurement": 2.741287432248454,
+    "rmse_measurement": 3.7638838333646256,
+    "r2_measurement": 0.5748469731008023,
+    "bias_measurement": -0.2306395463026931,
+    "mae_parent": 2.627148115296142,
+    "rmse_parent": 3.5432553476052657,
+    "median_abs_err_parent": 2.083206644681024,
+    "bias_parent": -1.1323548166131512,
+    "r2_parent": 0.6627620539587542
+  },
+  "dataset_sha256": "170924758f4ce363fbe22f821a4dcc101b5c4ab540d75b61acdf639baf8117d9",
+  "coefficients_saved": false,
+  "runtime_seconds": 8.46,
+  "python": "3.13.18",
+  "platform": "Linux-6.18.44-fc-v236-x86_64-with-glibc2.39",
+  "numpy": "2.5.3",
+  "sklearn": "1.9.1"
+}

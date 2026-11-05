@@ -1,0 +1,82 @@
+{
+  "scenario": "feo_combined",
+  "best_model": "extra_trees_phys_raw",
+  "source_quality_breakdown": {
+    "exact_relab_association_only": {
+      "n_parents": 19,
+      "mae_parent": 2.443392644085877
+    },
+    "mixed_exact_and_parent": {
+      "n_parents": 14,
+      "mae_parent": 2.5893280418341
+    },
+    "parent_level_only": {
+      "n_parents": 82,
+      "mae_parent": 2.2989982698812845
+    }
+  },
+  "worst_parents": [
+    {
+      "apollo_parent": 61221,
+      "target": 19.66,
+      "oof_prediction": 5.396,
+      "abs_error": 14.264
+    },
+    {
+      "apollo_parent": 10020,
+      "target": 18.395,
+      "oof_prediction": 6.194,
+      "abs_error": 12.201
+    },
+    {
+      "apollo_parent": 12032,
+      "target": 14.66,
+      "oof_prediction": 7.056,
+      "abs_error": 7.604
+    },
+    {
+      "apollo_parent": 69955,
+      "target": 0.425,
+      "oof_prediction": 7.615,
+      "abs_error": 7.19
+    },
+    {
+      "apollo_parent": 60025,
+      "target": 0.625,
+      "oof_prediction": 7.618,
+      "abs_error": 6.993
+    },
+    {
+      "apollo_parent": 60015,
+      "target": 1.92,
+      "oof_prediction": 8.819,
+      "abs_error": 6.899
+    },
+    {
+      "apollo_parent": 12033,
+      "target": 13.909,
+      "oof_prediction": 8.118,
+      "abs_error": 5.791
+    },
+    {
+      "apollo_parent": 72415,
+      "target": 11.34,
+      "oof_prediction": 17.003,
+      "abs_error": 5.663
+    }
+  ],
+  "negative_predictions": {
+    "count": 0,
+    "fraction": 0.0
+  },
+  "within_parent_pred_spread": {
+    "mean_std": 1.2912042077797525,
+    "max_std": 5.932617393559566
+  },
+  "perturbation_sensitivity": {
+    "additive_sigma": 0.005,
+    "multiplicative_sigma": 0.02,
+    "mean_parent_pred_shift_additive": 1.012386672523362,
+    "mean_parent_pred_shift_multiplicative": 0.8272280800334155
+  }
+}

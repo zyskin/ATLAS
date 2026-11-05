@@ -1,0 +1,6 @@
+fold,n_train_parents,n_test_parents,n_train_spectra,n_test_spectra,mae_measurement,mae_parent,rmse_parent,params
+0,32,1,84,21,2.143760642141234,1.6361786138066812,1.6361786138066812,"{""model__l2_regularization"": 1.0, ""model__learning_rate"": 0.03, ""model__max_depth"": 3, ""model__max_leaf_nodes"": 7, ""model__min_samples_leaf"": 10}"
+1,27,6,84,21,5.351792815204984,6.306806945065012,8.347698720038128,"{""model__l2_regularization"": 1.0, ""model__learning_rate"": 0.03, ""model__max_depth"": 2, ""model__max_leaf_nodes"": 7, ""model__min_samples_leaf"": 10}"
+2,25,8,84,21,1.449882253998125,1.0375206947264686,1.2753124313698598,"{""model__l2_regularization"": 1.0, ""model__learning_rate"": 0.03, ""model__max_depth"": 2, ""model__max_leaf_nodes"": 7, ""model__min_samples_leaf"": 10}"
+3,24,9,84,21,3.299842654856692,3.226572962502525,3.6915490794988957,"{""model__l2_regularization"": 1.0, ""model__learning_rate"": 0.08, ""model__max_depth"": 2, ""model__max_leaf_nodes"": 7, ""model__min_samples_leaf"": 20}"
+4,24,9,84,21,4.86269245521216,4.194196138826483,5.436682563328545,"{""model__l2_regularization"": 0.0, ""model__learning_rate"": 0.08, ""model__max_depth"": 2, ""model__max_leaf_nodes"": 7, ""model__min_samples_leaf"": 20}"

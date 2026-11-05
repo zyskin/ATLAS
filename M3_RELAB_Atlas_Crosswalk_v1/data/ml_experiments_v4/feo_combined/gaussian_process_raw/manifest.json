@@ -1,0 +1,72 @@
+{
+  "config": {
+    "dataset": "data/ml_combined_v2/m3_feo_isfeo_ground_truth_v2.csv",
+    "target_column": "feo_wt_percent_mean",
+    "model": "gaussian_process",
+    "feature_family": "raw",
+    "subset": "all",
+    "target_transform": "none",
+    "outer_folds": 5,
+    "inner_folds": 3,
+    "seed": 20261105,
+    "permutation_repeats": 4,
+    "output_dir": "data/ml_experiments_v4/feo_combined/gaussian_process_raw",
+    "label": "gaussian_process_raw"
+  },
+  "resolved_feature_family": "raw",
+  "group_column": "i_atlas_sample",
+  "n_outer_folds": 5,
+  "n_inner_folds_requested": 3,
+  "n_feature_columns": 74,
+  "fold_params": [
+    {
+      "fold": 0,
+      "params": {}
+    },
+    {
+      "fold": 1,
+      "params": {}
+    },
+    {
+      "fold": 2,
+      "params": {}
+    },
+    {
+      "fold": 3,
+      "params": {}
+    },
+    {
+      "fold": 4,
+      "params": {}
+    }
+  ],
+  "final_params": {},
+  "metrics": {
+    "status": "ok",
+    "error": "",
+    "label": "gaussian_process_raw",
+    "model": "gaussian_process",
+    "feature_family": "raw",
+    "target_column": "feo_wt_percent_mean",
+    "subset": "all",
+    "target_transform": "none",
+    "n_spectra": 523,
+    "n_parents": 107,
+    "mae_measurement": 3.1999490446880086,
+    "rmse_measurement": 4.485716296285039,
+    "r2_measurement": 0.3961397275526567,
+    "bias_measurement": 0.17318978234656043,
+    "mae_parent": 2.8100972655298775,
+    "rmse_parent": 3.9192174187641173,
+    "median_abs_err_parent": 2.050442334713689,
+    "bias_parent": -0.8718239300469264,
+    "r2_parent": 0.5873990283653613
+  },
+  "dataset_sha256": "170924758f4ce363fbe22f821a4dcc101b5c4ab540d75b61acdf639baf8117d9",
+  "coefficients_saved": false,
+  "runtime_seconds": 11.21,
+  "python": "3.13.18",
+  "platform": "Linux-6.18.44-fc-v236-x86_64-with-glibc2.39",
+  "numpy": "2.5.3",
+  "sklearn": "1.9.1"
+}

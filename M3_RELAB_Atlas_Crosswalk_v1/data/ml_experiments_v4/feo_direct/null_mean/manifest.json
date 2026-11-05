@@ -1,0 +1,72 @@
+{
+  "config": {
+    "dataset": "data/ml_combined_v2/m3_feo_isfeo_ground_truth_v2.csv",
+    "target_column": "feo_direct_wt_percent_mean",
+    "model": "null_mean",
+    "feature_family": "physical",
+    "subset": "all",
+    "target_transform": "none",
+    "outer_folds": 5,
+    "inner_folds": 3,
+    "seed": 20261105,
+    "permutation_repeats": 4,
+    "output_dir": "data/ml_experiments_v4/feo_direct/null_mean",
+    "label": "null_mean"
+  },
+  "resolved_feature_family": "physical",
+  "group_column": "i_atlas_sample",
+  "n_outer_folds": 5,
+  "n_inner_folds_requested": 3,
+  "n_feature_columns": 12,
+  "fold_params": [
+    {
+      "fold": 0,
+      "params": {}
+    },
+    {
+      "fold": 1,
+      "params": {}
+    },
+    {
+      "fold": 2,
+      "params": {}
+    },
+    {
+      "fold": 3,
+      "params": {}
+    },
+    {
+      "fold": 4,
+      "params": {}
+    }
+  ],
+  "final_params": {},
+  "metrics": {
+    "status": "ok",
+    "error": "",
+    "label": "null_mean",
+    "model": "null_mean",
+    "feature_family": "physical",
+    "target_column": "feo_direct_wt_percent_mean",
+    "subset": "all",
+    "target_transform": "none",
+    "n_spectra": 105,
+    "n_parents": 33,
+    "mae_measurement": 4.099219954648525,
+    "rmse_measurement": 5.161447774809522,
+    "r2_measurement": -0.09420001792939514,
+    "bias_measurement": -5.413658939124573e-16,
+    "mae_parent": 5.316749639249639,
+    "rmse_parent": 6.747617274099266,
+    "median_abs_err_parent": 4.046845238095239,
+    "bias_parent": -3.3764862914862923,
+    "r2_parent": -0.36598081657668935
+  },
+  "dataset_sha256": "170924758f4ce363fbe22f821a4dcc101b5c4ab540d75b61acdf639baf8117d9",
+  "coefficients_saved": false,
+  "runtime_seconds": 0.09,
+  "python": "3.13.18",
+  "platform": "Linux-6.18.44-fc-v236-x86_64-with-glibc2.39",
+  "numpy": "2.5.3",
+  "sklearn": "1.9.1"
+}
