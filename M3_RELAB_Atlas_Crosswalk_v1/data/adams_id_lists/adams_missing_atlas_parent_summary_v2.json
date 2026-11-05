@@ -1,0 +1,10 @@
+{
+  "n_missing_investigated": 26,
+  "status_counts": {
+    "candidate_needs_review": 17,
+    "atlas_record_not_found": 7,
+    "explicit_parent_relationship": 2
+  },
+  "recovered_joins": 2,
+  "note": "Original 36/64 join undercounted by 2 due to float-vs-int string keys on apollo_parent_sample; 14260 and 65501 have explicit Atlas records. True Atlas/ML joins = 38/64."
+}

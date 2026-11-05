@@ -53,6 +53,32 @@ shared prefix, and never propagate a verified suffix to sibling suffixes.
   (confirm whether an Atlas parent exists under a different id), and the Luna-24
   range (LS-JBA-140..145) which the prior review flagged as wrong-body.
 
+## Update — same-specimen measurement promotion + Atlas-parent recovery
+
+**Priority 1 (expanded measurement crosswalk):** all **27/27** extra CLS
+measurements were promoted to a new, distinct class `validated_same_specimen_measurement`.
+Each was promoted only because (a) its full LS-JBA specimen has exactly one
+validated Apollo sample (no conflict) and (b) the Adams archive corrected-file
+header explicitly names that same full specimen id. This is a same-specimen
+measurement chain, not sibling-suffix inference. Evidence classes are kept
+separate in `adams_measurement_crosswalk_expanded_v2.csv`:
+- `validated_exact_pair`: 68 (Bhatt 2012 Table B.1, CLS explicitly listed)
+- `validated_same_specimen_measurement`: 27 (Bhatt identity + Adams header)
+
+**Totals after expansion:** **95** Adams CLS spectra safely assignable to
+Apollo/Luna samples, across **66** distinct exact LS-JBA specimens and **64**
+distinct samples (60 Apollo + 4 Luna). **0 conflicts** (no specimen maps to >1
+sample).
+
+**Priority 2 (missing Atlas parents):** of the 26 distinct validated Apollo
+samples not previously joined, **2 (14260, 65501) were recovered** as explicit
+Atlas-parent matches — the earlier 36/64 join undercounted because
+`apollo_parent_sample` was compared as a float string ("14260.0") vs int
+("14260"); the true local Atlas/ML join is **38/64**. The remaining 24 have no
+explicit local Atlas record (17 only have a parsed Lunar Sample Compendium entry
+→ `candidate_needs_review`; 7 `atlas_record_not_found`). No parent was derived by
+truncating digits. See `adams_missing_atlas_parent_candidates_v2.csv`.
+
 ## Files (this branch)
 - `adams_crosswalk_v2/build_unresolved_inventory.py`
 - `adams_crosswalk_v2/build_candidates_and_join.py`

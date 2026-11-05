@@ -1,0 +1,27 @@
+apollo_sample_id,status,evidence_source,evidence_excerpt
+12042,candidate_needs_review,parsed compendium entry exists,compendium id 12042 parsed locally
+14003,candidate_needs_review,relab_specimen_name mentions sample,"name=14003,96 Respirable parent=14003.0 atlas=nan"
+14260,explicit_parent_relationship,relab_atlas_crosswalk.apollo_parent_sample (normalized int key),"name=14260,72 parent=14260.0 atlas=14260.0"
+15081,atlas_record_not_found,,
+15101,atlas_record_not_found,,
+15211,candidate_needs_review,parsed compendium entry exists,compendium id 15211 parsed locally
+15231,candidate_needs_review,parsed compendium entry exists,compendium id 15231 parsed locally
+15271,candidate_needs_review,parsed compendium entry exists,compendium id 15271 parsed locally
+15471,candidate_needs_review,parsed compendium entry exists,compendium id 15471 parsed locally
+15501,candidate_needs_review,parsed compendium entry exists,compendium id 15501 parsed locally
+60601,atlas_record_not_found,,
+61281,candidate_needs_review,parsed compendium entry exists,compendium id 61281 parsed locally
+63321,atlas_record_not_found,,
+64501,candidate_needs_review,parsed compendium entry exists,compendium id 64501 parsed locally
+65501,explicit_parent_relationship,relab_atlas_crosswalk.apollo_parent_sample (normalized int key),"name=65501,19 <150 um parent=65501.0 atlas=65501.0"
+68841,candidate_needs_review,parsed compendium entry exists,compendium id 68841 parsed locally
+72141,candidate_needs_review,parsed compendium entry exists,compendium id 72141 parsed locally
+72161,candidate_needs_review,parsed compendium entry exists,compendium id 72161 parsed locally
+73221,candidate_needs_review,parsed compendium entry exists,compendium id 73221 parsed locally
+74121,atlas_record_not_found,,
+75081,candidate_needs_review,parsed compendium entry exists,compendium id 75081 parsed locally
+75111,candidate_needs_review,parsed compendium entry exists,compendium id 75111 parsed locally
+75121,candidate_needs_review,parsed compendium entry exists,compendium id 75121 parsed locally
+76261,atlas_record_not_found,,
+78121,candidate_needs_review,parsed compendium entry exists,compendium id 78121 parsed locally
+79511,atlas_record_not_found,,

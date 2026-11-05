@@ -1,0 +1,14 @@
+{
+  "extra_cls_considered": 27,
+  "promoted_same_specimen_measurement": 27,
+  "remained_unresolved": 0,
+  "conflict_blocked": 0,
+  "conflicts": {},
+  "total_safe_cls_after_expansion": 95,
+  "class_counts": {
+    "validated_exact_pair": 68,
+    "validated_same_specimen_measurement": 27
+  },
+  "distinct_exact_specimens": 66,
+  "distinct_samples_represented": 64
+}
