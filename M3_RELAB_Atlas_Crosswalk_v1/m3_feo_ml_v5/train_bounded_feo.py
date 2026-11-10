@@ -101,20 +101,21 @@ def v4_defs(seed):
                                 {"degree":[1,2],"fit_origin":[False,True]},"raw")
     return specs
 
-def tune(est,grid,X,yz,g,inner_folds):
+def tune(est,grid,X,y,g,inner_folds,link):
+    """Tune on parent-mean MAE in original FeO wt.% after inverse link."""
     combos=list(ParameterGrid(grid)) if grid else [{}]
     ng=len(np.unique(g)); splitter=GroupKFold(n_splits=max(2,min(inner_folds,ng)))
     best=None; best_score=np.inf
     for params in combos:
         vals=[]; ok=True
-        for tr,va in splitter.split(X,yz,g):
+        for tr,va in splitter.split(X,y,g):
             m=clone(est); m.set_params(**params)
             try:
                 with warnings.catch_warnings():
                     warnings.simplefilter("ignore")
-                    m.fit(X[tr],yz[tr])
-                    pred=m.predict(X[va])
-                ya,yp=parent_means(yz[va],pred,g[va])
+                    m.fit(X[tr],forward_y(y[tr],link))
+                    pred=inverse_z(m.predict(X[va]),link)
+                ya,yp=parent_means(y[va],pred,g[va])
                 vals.append(float(np.mean(np.abs(yp-ya))))
             except Exception:
                 ok=False; break
@@ -137,10 +138,10 @@ def run_one(df,target,subset,label,est,grid,feature,link,outdir,seed=20261110):
     oof=np.full(len(d),np.nan); fold=np.full(len(d),-1)
     fold_params=[]
     for k,(tr,te) in enumerate(outer.split(X,y,g)):
-        m,params=tune(est,grid,X[tr],yz[tr],g[tr],3)
+        m,params=tune(est,grid,X[tr],y[tr],g[tr],3,link)
         with warnings.catch_warnings():
             warnings.simplefilter("ignore")
-            m.fit(X[tr],yz[tr])
+            m.fit(X[tr],forward_y(y[tr],link))
         oof[te]=inverse_z(m.predict(X[te]),link); fold[te]=k
         fold_params.append({"fold":k,"params":params})
     ya,yp=parent_means(y,oof,g)
@@ -156,7 +157,7 @@ def run_one(df,target,subset,label,est,grid,feature,link,outdir,seed=20261110):
     pd.DataFrame({"row_id":d["id"],"apollo_parent":g,"target_wt_percent":y,
                   "prediction_wt_percent":oof,"prediction_fraction":oof/100.0,"fold":fold}).to_csv(run/"oof_predictions.csv",index=False)
     # final tune + fit all
-    final,params=tune(est,grid,X,yz,g,3)
+    final,params=tune(est,grid,X,y,g,3,link)
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         final.fit(X,yz)
