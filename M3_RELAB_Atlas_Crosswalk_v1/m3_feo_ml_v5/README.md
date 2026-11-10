@@ -7,37 +7,32 @@ cross-validation.
 
 ## Physical target links
 
-The repository stores FeO in wt.%.  Define the mass fraction
+The repository stores FeO in wt.%. Define the mass fraction
 
-[
-f = \mathrm{FeO(wt.\%)} / 100.
-]
+`f = FeO(wt.%)/100`.
 
 Two links are implemented.
 
 ### Logistic link
 
-[
-z = \log\frac{f}{1-f}, \qquad
-\hat f = \frac{1}{1+e^{-\hat z}}.
-]
+`z = log(f/(1-f))`
 
-This guarantees (0 < \hat f < 1) for every input spectrum.
+`f_hat = 1/(1 + exp(-z_hat))`
+
+This guarantees `0 < f_hat < 1` for every input spectrum.
 
 ### Positive-tanh link
 
-To implement (f=\tanh\theta) with (	heta>0), the unconstrained regressor
-predicts (z\in\mathbb R) and
+To implement the proposed form `f = tanh(theta)` with `theta > 0`, the
+unconstrained regressor predicts `z` on the real line and the deployment
+mapping is
 
-[
-\theta = \operatorname{softplus}(z)>0, \qquad
-\hat f = \tanh\theta.
-]
+`theta = softplus(z) > 0`
+
+`f_hat = tanh(theta)`.
 
 Training uses the inverse mapping
-[
-z = \operatorname{softplus}^{-1}(\operatorname{atanh} f).
-]
+`z = softplus_inverse(atanh(f))`.
 
 No post-hoc clipping is used.
 
