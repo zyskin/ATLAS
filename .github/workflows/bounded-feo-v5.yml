@@ -1,0 +1,76 @@
+name: bounded-feo-v5
+
+on:
+  push:
+    branches:
+      - claude/bounded-feo-v5
+
+permissions:
+  contents: write
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: claude/bounded-feo-v5
+          fetch-depth: 0
+
+      - name: Skip if results already committed
+        id: guard
+        shell: bash
+        run: |
+          if [ -f M3_RELAB_Atlas_Crosswalk_v1/data/ml_bounded_v5/RESULTS_COMPLETE ]; then
+            echo "run=no" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=yes" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.guard.outputs.run == 'yes'
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        if: steps.guard.outputs.run == 'yes'
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r M3_RELAB_Atlas_Crosswalk_v1/m3_feo_ml_v3/requirements.txt
+          python -m pip install scipy tabulate
+
+      - name: Compile and test bounded transforms
+        if: steps.guard.outputs.run == 'yes'
+        working-directory: M3_RELAB_Atlas_Crosswalk_v1
+        run: |
+          python -m py_compile m3_feo_ml_v5/deployment.py m3_feo_ml_v5/train_bounded_feo.py m3_feo_ml_v5/apply_bounded_feo.py
+          python - <<'PY'
+          import numpy as np
+          from m3_feo_ml_v5.deployment import forward_y, inverse_z
+          y=np.array([0.01,1.0,5.0,20.0,50.0,99.0])
+          for link in ("logit_fraction","tanh_softplus_fraction"):
+              z=forward_y(y,link)
+              yr=inverse_z(z,link)
+              assert np.allclose(y,yr,rtol=1e-9,atol=1e-9), (link,y,yr)
+              assert np.all((yr>0)&(yr<100))
+              print(link, "roundtrip ok", yr)
+          PY
+
+      - name: Run Apollo grouped-CV bounded comparison
+        if: steps.guard.outputs.run == 'yes'
+        working-directory: M3_RELAB_Atlas_Crosswalk_v1
+        run: |
+          python -m m3_feo_ml_v5.train_bounded_feo \
+            --dataset data/ml_combined_v2/m3_feo_isfeo_ground_truth_v2.csv \
+            --output-dir data/ml_bounded_v5
+
+      - name: Commit results and deployment models
+        if: steps.guard.outputs.run == 'yes'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f M3_RELAB_Atlas_Crosswalk_v1/data/ml_bounded_v5
+          git add M3_RELAB_Atlas_Crosswalk_v1/m3_feo_ml_v5
+          git commit -m "[bounded-results] Add bounded FeO Apollo comparison and trained models"
+          git push origin HEAD:claude/bounded-feo-v5
