@@ -38,7 +38,7 @@ def inverse_z(z,link):
         f=np.tanh(softplus(z))
     else:
         raise ValueError(link)
-    return 100.0*f
+    return (100.0*f).reshape(-1)
 
 @dataclass
 class DeployableBoundedModel:
