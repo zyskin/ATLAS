@@ -1,0 +1,37 @@
+{
+  "schema": "relab-preliminary-mineral-rules-1.0",
+  "warning": "Exploratory spectral-shape labels only; not validated mineral identifications.",
+  "feature_wavelengths_nm": {
+    "slope_left": 750.0,
+    "slope_right": 1500.0,
+    "band1_continuum_left": 750.0,
+    "band1_search_left": 850.0,
+    "band1_search_right": 1250.0,
+    "band1_continuum_right": 1500.0,
+    "band2_continuum_left": 1500.0,
+    "band2_search_left": 1800.0,
+    "band2_search_right": 2300.0,
+    "band2_continuum_right": 2500.0,
+    "mean_left": 750.0,
+    "mean_right": 2500.0
+  },
+  "thresholds": {
+    "deep_D1": 0.08,
+    "deep_D2": 0.05,
+    "weak_D1": 0.05,
+    "weak_D2": 0.04,
+    "bright_mean_reflectivity": 0.35,
+    "dark_mean_reflectivity": 0.22,
+    "soil_max_D1": 0.07,
+    "soil_max_D2": 0.06,
+    "soil_min_S_per_micron": 0.0
+  },
+  "rule_priority": [
+    "pyroxene_like",
+    "spinel_like",
+    "olivine_like",
+    "plagioclase_like",
+    "mature_soil_like",
+    "mixed_or_uncertain"
+  ]
+}
