@@ -1,0 +1,8 @@
+{
+  "input": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/ml_combined_v2/results_combined_quick/cv_predictions_by_measurement.csv",
+  "target_column": "feo_wt_percent_mean",
+  "evaluation_unit": "apollo_parent_mean",
+  "method_count": 13,
+  "summary_csv": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/lucey_feature_analysis_v1/feo_prediction_scatter_combined/feo_truth_vs_prediction_metrics_apollo_parent_mean.csv",
+  "note": "Predictions must be held-out cross-validation predictions; fitted training predictions are not an honest performance plot."
+}

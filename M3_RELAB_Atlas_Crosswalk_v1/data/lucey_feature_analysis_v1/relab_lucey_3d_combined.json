@@ -1,0 +1,16 @@
+{
+  "input": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/ml_combined_v2/m3_feo_isfeo_ground_truth_v2.csv",
+  "target": "feo_wt_percent_mean",
+  "spectra_plotted": 523,
+  "apollo_parents": 107,
+  "lucey_origin_R750_ratio": [
+    0.08,
+    1.19
+  ],
+  "kumar_origin_R750_ratio": [
+    0.08,
+    1.18
+  ],
+  "output_png": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/lucey_feature_analysis_v1/relab_lucey_3d_combined.png",
+  "output_csv": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/lucey_feature_analysis_v1/relab_lucey_3d_combined.csv"
+}

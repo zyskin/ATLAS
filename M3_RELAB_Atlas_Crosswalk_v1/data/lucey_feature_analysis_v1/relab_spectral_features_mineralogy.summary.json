@@ -1,0 +1,28 @@
+{
+  "schema": "relab-spectral-features-mineralogy-1.0",
+  "input_m3_spectra": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/relab_m3_v1/relab_m3_spectra.csv",
+  "rules": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/lucey_feature_analysis_v1/mineral_rules.json",
+  "maximum_band": 74,
+  "measurement_count": 1437,
+  "full_feature_count": 741,
+  "partial_feature_count": 696,
+  "feature_failure_count": 0,
+  "spectral_class_counts": {
+    "unclassified_insufficient_coverage": 696,
+    "pyroxene_like": 280,
+    "mixed_or_uncertain": 207,
+    "olivine_like": 120,
+    "mature_soil_like": 68,
+    "plagioclase_like": 46,
+    "spinel_like": 20
+  },
+  "comparison_counts": {
+    "spectral_rule_uncertain": 903,
+    "differs_or_mixture_needs_review": 417,
+    "agrees_with_metadata_keyword": 116,
+    "metadata_unavailable": 1
+  },
+  "warning": "Exploratory spectral-shape labels only; not validated mineral identifications.",
+  "failures_first_100": [],
+  "output_csv": "/media/maxim/Elements/grants/2024/INSRU/pgdal/M3_RELAB_Atlas_Crosswalk_v1/data/lucey_feature_analysis_v1/relab_spectral_features_mineralogy.csv"
+}
