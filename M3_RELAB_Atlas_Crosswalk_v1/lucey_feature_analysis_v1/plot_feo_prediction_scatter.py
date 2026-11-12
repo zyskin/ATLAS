@@ -58,8 +58,35 @@ def metrics(actual: np.ndarray, predicted: np.ndarray) -> dict[str, float | int]
     }
 
 
+def resolve_predictions(path: Path) -> Path:
+    """Return the requested table or report prediction tables actually present."""
+    if path.is_file():
+        return path
+    project_root = next(
+        (parent for parent in path.parents
+         if parent.name == "M3_RELAB_Atlas_Crosswalk_v1"),
+        None,
+    )
+    candidates: list[Path] = []
+    if project_root is not None:
+        data = project_root / "data"
+        candidates = sorted(data.glob("**/cv_predictions_by_measurement.csv"))
+        candidates += sorted(data.glob("**/cv_predictions.csv"))
+    details = ""
+    if candidates:
+        details = "\\nPrediction tables found instead:\\n" + "\\n".join(
+            f"  {candidate}" for candidate in candidates
+        )
+    raise FileNotFoundError(
+        f"Prediction table does not exist: {path}{details}\\n"
+        "Use one of the listed held-out cross-validation tables; do not use "
+        "final-fit training predictions."
+    )
+
+
 def main() -> int:
     args = parse_args()
+    args.predictions = resolve_predictions(args.predictions)
     frame = pd.read_csv(args.predictions, low_memory=False)
     if args.target_column not in frame:
         raise ValueError(f"Target column not found: {args.target_column}")
