@@ -183,7 +183,7 @@ Use cross-validation predictions, not predictions obtained by fitting and then
 predicting the same training rows.
 
 ```bash
-PRED="$ATLAS/data/ml_interpretable_v3/results_combined_quick/cv_predictions_by_measurement.csv"
+PRED="$ATLAS/data/ml_combined_v2/results_combined_quick/cv_predictions_by_measurement.csv"
 
 python "$CODE/plot_feo_prediction_scatter.py" \
   --predictions "$PRED" \
