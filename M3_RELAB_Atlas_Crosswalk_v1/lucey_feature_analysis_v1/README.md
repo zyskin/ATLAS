@@ -183,7 +183,7 @@ Use cross-validation predictions, not predictions obtained by fitting and then
 predicting the same training rows.
 
 ```bash
-PRED="$ATLAS/data/ml_interpretable_v3/results_combined_quick/cv_predictions_by_measurement.csv"
+PRED="$ATLAS/data/ml_combined_v2/results_combined_quick/cv_predictions_by_measurement.csv"
 
 python "$CODE/plot_feo_prediction_scatter.py" \
   --predictions "$PRED" \
@@ -196,4 +196,24 @@ The program automatically detects every `prediction_*` column, including all
 ML models and all Lucey/Kumar variants, and writes one PNG per method plus a
 metric summary CSV.  For the direct-only experiment use its corresponding
 prediction table and target `feo_direct_wt_percent_mean`.
+
+### Include Claude v4 and bounded v5 models
+
+The v4 and v5 results use one `oof_predictions.csv` per model rather than the
+older wide table. Use the distinctly named v2 plotter to combine all three
+layouts while retaining only held-out predictions:
+
+```bash
+python "$CODE/plot_all_feo_prediction_scatter_v2.py" \
+  --v2-wide "$ATLAS/data/ml_combined_v2/results_combined_quick/cv_predictions_by_measurement.csv" \
+  --v4-root "$ATLAS/data/ml_experiments_v4/feo_combined" \
+  --v5-root "$ATLAS/data/ml_bounded_v5/feo_wt_percent_mean__all" \
+  --unit apollo_parent_mean \
+  --output-dir "$OUT/feo_prediction_scatter_all_models_v2"
+```
+
+Method names are prefixed by `v2__`, `v4__`, or `v5__`. For v5, the link
+function (`logit_fraction` or `tanh_softplus_fraction`) is retained in the
+method name. The combined metrics CSV records the source file for every plot;
+do not compare methods on different parent counts without noting coverage.
 
